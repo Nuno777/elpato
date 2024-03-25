@@ -1,0 +1,101 @@
+<aside class="left-sidebar sidebar-dark" id="left-sidebar">
+    <div id="sidebar" class="sidebar sidebar-with-footer">
+        <div class="app-brand">
+            <a href="">
+                <img src="images/icon.png" alt="Mono" style="height: 100%;">
+                <span class="brand-name" style="width: 100%;">ElPato</span>
+            </a>
+        </div>
+        <div class="sidebar-left" data-simplebar style="height: 100%;">
+            <ul class="nav sidebar-inner" id="sidebar-menu">
+
+                <li class="active">
+                    <a class="sidenav-item-link" href="">
+                        <i class="mdi mdi-monitor"></i>
+                        <span class="nav-text">Dashboard</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a class="sidenav-item-link" href="">
+                        <i class="mdi mdi-truck"></i>
+                        <span class="nav-text">Drops</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a class="sidenav-item-link" href="">
+                        <i class="mdi mdi-dropbox"></i>
+                        <span class="nav-text">Orders</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a class="sidenav-item-link" href="">
+                        <i class="mdi mdi-chart-line"></i>
+                        <span class="nav-text">Analytics</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a class="sidenav-item-link" href="">
+                        <i class="mdi mdi-bitcoin"></i>
+                        <span class="nav-text">Bitcoin</span>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+    </div>
+</aside>
+
+<div class="page-wrapper">
+
+    <header class="main-header" id="header">
+        <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+            <span class="page-title">dashboard</span>
+
+            <div class="navbar-right ">
+                <!-- User Account -->
+                <ul class="nav navbar-nav">
+                    <li class="dropdown user-menu">
+                        <button class="dropdown-toggle nav-link" data-toggle="dropdown">
+                            <img src="images/user/user.png" class="user-image
+              rounded-circle"
+                                alt="User Image" />
+                            <span class="d-none d-lg-inline-block">{{ Auth::user()->name }}</span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-right">
+                            {{--  <li>
+                                <a class="dropdown-link-item" href="">
+                                    <i class="mdi mdi-account-outline"></i>
+                                    <span class="nav-text">My Profile</span>
+                                </a>
+                            </li> --}}
+                            <li>
+                                <a class="dropdown-link-item" href="{{ route('profile.edit') }}">
+                                    <i class="mdi mdi-settings"></i>
+                                    <span class="nav-text">Account Setting</span>
+                                </a>
+                            </li>
+
+                            <li class="dropdown-footer">
+                                @if (Auth::check())
+                                    <form method="POST" action="{{ route('logout') }}">
+                                        @csrf
+                                        <a class="dropdown-link-item" href="route('logout')"
+                                            onclick="event.preventDefault(); this.closest('form').submit();">
+                                            <i class="mdi mdi-logout"></i>
+
+                                            <span class="nav-text">Log out</span>
+                                        </a>
+                                    </form>
+                                @endauth
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
