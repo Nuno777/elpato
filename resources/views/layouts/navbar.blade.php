@@ -9,15 +9,15 @@
         <div class="sidebar-left" data-simplebar style="height: 100%;">
             <ul class="nav sidebar-inner" id="sidebar-menu">
 
-                <li class="active">
-                    <a class="sidenav-item-link" href="">
+                <li class="@if(Request::is('dashboard')) active @endif">
+                    <a class="sidenav-item-link" href="{{ 'dashboard' }}">
                         <i class="mdi mdi-monitor"></i>
                         <span class="nav-text">Dashboard</span>
                     </a>
                 </li>
 
-                <li>
-                    <a class="sidenav-item-link" href="">
+                <li class="@if(Request::is('drops')) active @endif">
+                    <a class="sidenav-item-link" href="{{ 'drops' }}">
                         <i class="mdi mdi-truck"></i>
                         <span class="nav-text">Drops</span>
                     </a>
@@ -54,6 +54,9 @@
 
     <header class="main-header" id="header">
         <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+            <button id="sidebar-toggler" class="sidebar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+              </button>
             <span class="page-title">dashboard</span>
 
             <div class="navbar-right ">
