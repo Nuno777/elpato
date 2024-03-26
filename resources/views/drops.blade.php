@@ -28,7 +28,6 @@
                             <th>Type</th>
                             <th>Expired At</th>
                             <th>Personal Notes</th>
-                            <th>ZIP Distance</th>
                             <th></th>
                             <th></th>
                         </tr>
@@ -36,7 +35,7 @@
                     <tbody>
 
                         <tr>
-                            <td>DF</td>
+                            <td>dsa</td>
                             <td>24542</td>
                             <td>18</td>
                             <td>7</td>
@@ -45,7 +44,6 @@
                             <td>14</td>
                             <td>22</td>
                             <td>25</td>
-                            <td>14</td>
                             <td><a href="#" style="width: 100%">
                                     <i class="mdi mdi-package-variant text-success"></i>
                                 </a>

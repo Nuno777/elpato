@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard | Drops')
+@section('title', 'Dashboard | Orders')
 
 @section('content')
-@section('page-title', 'dashboard Drops')
+@section('page-title', 'dashboard Orders')
 
 <div class="content-wrapper">
     <div class="content">
@@ -28,7 +28,7 @@
                             <th>Type</th>
                             <th>Expired At</th>
                             <th>Personal Notes</th>
-                            <th>ZIP Distance</th>   
+                            <th>ZIP Distance</th>
                         </tr>
                     </thead>
                     <tbody>

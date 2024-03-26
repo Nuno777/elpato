@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Middleware\Admin;
 use App\Http\Middleware\Worker;
+use App\Http\Controllers\DropController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,6 +33,15 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/drops', function () {
         return view('drops');
     })->name('drops');
+
+
+    Route::get('/drops/create', [DropController::class, 'create'])->name('drops.create');
+    Route::get('/drops/{id}', [DropController::class, 'show'])->name('drops.show');
+
+
+    Route::get('/createdrops', function () {
+        return view('createdrops');
+    })->name('createdrops');
 
     Route::get('/orders', function () {
         return view('orders');
