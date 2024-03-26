@@ -3,6 +3,8 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\LoginController;
+use App\Http\Middleware\Admin;
+use App\Http\Middleware\Worker;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,15 +23,22 @@ Route::get('/', function () {
 
 //Route::post('/login', [LoginController::class, 'login'])->name('login');
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
+//Routes lvl 5, Admin
+Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function () {
+    Route::get('/dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
 
-Route::get('/drops', function () {
-    return view('drops');
-})->middleware(['auth', 'verified'])->name('drops');
+    Route::get('/drops', function () {
+        return view('drops');
+    })->name('drops');
 
-Route::middleware('auth')->group(function () {
+    Route::get('/orders', function () {
+        return view('orders');
+    })->name('orders');
+});
+
+Route::middleware('auth', 'admin')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     //Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     //Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');

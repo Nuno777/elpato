@@ -3,6 +3,8 @@
 @section('title', 'Dashboard')
 
 @section('content')
+@section('page-title','dashboard')
+
     <div class="content-wrapper">
         <div class="content">
             <!-- Top Statistics -->

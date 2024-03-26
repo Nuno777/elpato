@@ -10,7 +10,7 @@
 
         <div class="card card-default">
             <div class="card-header">
-                <h2>Drops Painel</h2>
+                <h2>Orders Painel</h2>
             </div>
             <div class="card-body">
                 <div class="collapse" id="collapse-data-tables">
@@ -28,9 +28,7 @@
                             <th>Type</th>
                             <th>Expired At</th>
                             <th>Personal Notes</th>
-                            <th>ZIP Distance</th>
-                            <th></th>
-                            <th></th>
+                            <th>ZIP Distance</th>   
                         </tr>
                     </thead>
                     <tbody>
@@ -46,14 +44,7 @@
                             <td>22</td>
                             <td>25</td>
                             <td>14</td>
-                            <td><a href="#" style="width: 100%">
-                                    <i class="mdi mdi-package-variant text-success"></i>
-                                </a>
-                            </td>
-                            <td><a href="#" style="width: 100%">
-                                <i class="mdi mdi-close text-danger"></i>
-                            </a>
-                        </td>
+
                         </tr>
 
                     </tbody>

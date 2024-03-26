@@ -23,21 +23,21 @@
                     </a>
                 </li>
 
-                <li>
-                    <a class="sidenav-item-link" href="">
-                        <i class="mdi mdi-dropbox"></i>
+                <li class="@if(Request::is('orders')) active @endif">
+                    <a class="sidenav-item-link" href="{{ 'orders' }}">
+                        <i class="mdi mdi-package-variant-closed"></i>
                         <span class="nav-text">Orders</span>
                     </a>
                 </li>
 
-                <li>
+                <li class="@if(Request::is('analytic')) active @endif">
                     <a class="sidenav-item-link" href="">
                         <i class="mdi mdi-chart-line"></i>
                         <span class="nav-text">Analytics</span>
                     </a>
                 </li>
 
-                <li>
+                <li class="@if(Request::is('bitcoin')) active @endif">
                     <a class="sidenav-item-link" href="">
                         <i class="mdi mdi-bitcoin"></i>
                         <span class="nav-text">Bitcoin</span>
@@ -57,7 +57,7 @@
             <button id="sidebar-toggler" class="sidebar-toggle">
                 <span class="sr-only">Toggle navigation</span>
               </button>
-            <span class="page-title">dashboard</span>
+            <span class="page-title">@yield('page-title')</span>
 
             <div class="navbar-right ">
                 <!-- User Account -->
