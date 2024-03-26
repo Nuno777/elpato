@@ -16,42 +16,62 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="fname">First name</label>
-                                <input type="text" class="form-control" placeholder="John">
+                                <label for="fname">Name</label>
+                                <input type="text" class="form-control" placeholder="Name">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="lname">Last name</label>
-                                <input type="text" class="form-control" placeholder="Smith">
+                                <label for="lname">Address</label>
+                                <input type="text" class="form-control" placeholder="Address">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="city">City</label>
-                                <input type="text" class="form-control" placeholder="City Name">
+                                <label for="city">Notes</label>
+                                <input type="text" class="form-control" placeholder="Notes">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="row">
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <label for="State">State</label>
-                                        <input type="text" class="form-control" placeholder="State">
+                                        <label for="State">Packages</label>
+                                        <input type="text" class="form-control" placeholder="Packages">
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <label for="Zip">Zip</label>
-                                        <input type="text" class="form-control" placeholder="Zip">
+                                        <label for="Zip">Status</label>
+                                        <input type="text" class="form-control" placeholder="Status">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="city">Personal Notes</label>
+                                <input type="text" class="form-control" placeholder="Personal Notes">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="State">Type</label>
+                                        <input type="text" class="form-control" placeholder="Type">
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="Zip">Expired AT</label>
+                                        <input type="text" class="form-control" placeholder="Expired AT">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-                        <button type="submit" class="btn btn-primary btn-pill">Submit</button>
-
+                    <button type="submit" class="btn btn-primary btn-pill">Insert Drop</button>
                 </form>
             </div>
         </div>
