@@ -7,19 +7,30 @@ use App\Models\Drop;
 
 class DropController extends Controller
 {
+    /**
+     * Display a listing of the resource.
+     */
     public function index()
     {
-
+        $drops = Drop::all();
+        return view('drops', compact('drops'));
     }
 
+    /**
+     * Show the form for creating a new resource.
+     */
     public function create()
     {
-        return view('drops.create');
+        $drops = new Drop();
+        return view('createdrops', compact('drops'));
     }
 
+    /**
+     * Store a newly created resource in storage.
+     */
     public function store(Request $request)
     {
-        $validatedData = $request->validate([
+        $fields = $request->validate([
             'name' => 'required',
             'address' => 'required',
             'packages' => 'required',
@@ -27,29 +38,44 @@ class DropController extends Controller
             'status' => 'required',
             'type' => 'required',
             'expired' => 'required',
-            'personal_notes' => 'required',
+            'personalnotes' => 'required',
         ]);
-
-        Drop::create($validatedData);
-
-        return redirect('/')->with('success', 'Registro criado com sucesso!');
+        $drop = new Drop();
+        $drop->fill($fields);
+        $drop->save();
+        return redirect()->route('drops');
     }
 
-    public function show($id)
+    /**
+     * Display the specified resource.
+     */
+    public function show(string $id)
     {
-        $drop = Drop::findOrFail($id);
-        return view('drops', compact('drop'));
+
     }
 
-    public function edit()
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit(string $id)
     {
+        //
     }
 
-    public function update()
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, string $id)
     {
+        //
     }
 
-    public function destroy()
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(Drop $drop)
     {
+        $drop->delete();
+        return redirect()->route('drops');
     }
 }

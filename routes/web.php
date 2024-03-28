@@ -30,18 +30,11 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
         return view('dashboard');
     })->name('dashboard');
 
-    Route::get('/drops', function () {
-        return view('drops');
-    })->name('drops');
 
-
-    Route::get('/drops/create', [DropController::class, 'create'])->name('drops.create');
-    Route::get('/drops/{id}', [DropController::class, 'show'])->name('drops.show');
-
-
-    Route::get('/createdrops', function () {
-        return view('createdrops');
-    })->name('createdrops');
+    Route::get('/drops', [DropController::class, 'index'])->name('drops');
+    Route::get('/createdrops', [DropController::class, 'create'])->name('createdrops');
+    Route::post('/createdrops', [DropController::class, 'store'])->name('createdrops.store');
+    Route::delete('/drops{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
 
     Route::get('/orders', function () {
         return view('orders');

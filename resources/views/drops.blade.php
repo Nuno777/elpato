@@ -3,18 +3,19 @@
 @section('title', 'Dashboard | Drops')
 
 @section('content')
-@section('page-title', 'dashboard Drops')
+@section('page-title', 'Drops Painel')
 
 <div class="content-wrapper">
     <div class="content">
 
         <div class="card card-default">
             <div class="card-header">
-                <h2>Drops Painel</h2>
+                <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
+
             </div>
             <div class="card-body">
-                <div class="collapse" id="collapse-data-tables">
 
+                <div class="collapse" id="collapse-data-tables">
                 </div>
                 <table id="productsTable" class="table table-product" style="width:100%">
                     <thead>
@@ -33,27 +34,34 @@
                         </tr>
                     </thead>
                     <tbody>
-
-                        <tr>
-                            <td>dsa</td>
-                            <td>24542</td>
-                            <td>18</td>
-                            <td>7</td>
-                            <td>5</td>
-                            <td>1</td>
-                            <td>14</td>
-                            <td>22</td>
-                            <td>25</td>
-                            <td><a href="#" style="width: 100%">
-                                    <i class="mdi mdi-package-variant text-success"></i>
-                                </a>
-                            </td>
-                            <td><a href="#" style="width: 100%">
-                                <i class="mdi mdi-close text-danger"></i>
-                            </a>
-                        </td>
-                        </tr>
-
+                        @foreach ($drops as $drop)
+                            <tr>
+                                <td>{{ $drop->id }}</td>
+                                <td>{{ $drop->name }}</td>
+                                <td>{{ $drop->address }}</td>
+                                <td>{{ $drop->packages }}</td>
+                                <td>{{ $drop->notes }}</td>
+                                <td>{{ $drop->status }}</td>
+                                <td>{{ $drop->type }}</td>
+                                <td>{{ $drop->expired }}</td>
+                                <td>{{ $drop->personalnotes }}</td>
+                                <td><a href="#" style="width: 100%">
+                                        <i class="mdi mdi-package-variant text-success"></i>
+                                    </a>
+                                </td>
+                                <td>
+                                    <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
+                                        method="POST" onsubmit="return confirm('Delete Drop?');">
+                                        @csrf
+                                        @method('DELETE')
+                                        <button type="submit" class="link"
+                                            style="background-color: transparent; border:none">
+                                            <i class="mdi mdi-trash-can text-danger" data-toogle="tooltip"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        @endforeach
                     </tbody>
                 </table>
 
