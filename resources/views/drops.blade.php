@@ -11,10 +11,8 @@
         <div class="card card-default">
             <div class="card-header">
                 <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
-
             </div>
             <div class="card-body">
-
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <table id="productsTable" class="table table-product" style="width:100%">
@@ -35,8 +33,14 @@
                     </thead>
                     <tbody>
                         @foreach ($drops as $drop)
-                            <tr >
-                                <td>{{ $drop->id }}</td>
+                            <tr
+                                style="background-color:
+                                @if ($drop->status == 'Ready') #82FB6A;
+                                @elseif ($drop->status == 'Suspense') #424945;
+                                @elseif ($drop->status == 'Dont send') #F1DD50;
+                                @elseif ($drop->status == 'Problem') #FF7059; @endif
+                                ">
+                                <td>{{ $drop->id_drop }}</td>
                                 <td>{{ $drop->name }}</td>
                                 <td>{{ $drop->address }}</td>
                                 <td>{{ $drop->packages }}</td>

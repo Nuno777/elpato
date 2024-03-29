@@ -9,5 +9,5 @@ class Drop extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['name', 'address', 'packages' , 'notes', 'status', 'type', 'expired', 'personalnotes'];
+    protected $fillable = ['id_drop','name', 'address', 'packages' , 'notes', 'status', 'type', 'expired', 'personalnotes'];
 }

@@ -14,7 +14,18 @@
             <div class="card-body">
                 <form id="tablecreatedrop" method="POST" action="{{ route('createdrops.store') }}">
                     {{ csrf_field() }}
+
                     <div class="row">
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="id-drop">ID</label>
+                                <input type="text" name="id_drop" class="form-control" placeholder="Id Drop"
+                                    required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
@@ -78,6 +89,7 @@
                             </div>
                         </div>
                     </div>
+                    <span></span>
                     <button type="submit" class="btn btn-primary">Insert Drop</button>
                 </form>
             </div>

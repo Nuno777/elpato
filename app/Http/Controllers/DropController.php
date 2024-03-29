@@ -31,6 +31,7 @@ class DropController extends Controller
     public function store(Request $request)
     {
         $fields = $request->validate([
+            'id_drop' => 'required',
             'name' => 'required',
             'address' => 'required',
             'packages' => 'required',
@@ -51,7 +52,6 @@ class DropController extends Controller
      */
     public function show(string $id)
     {
-
     }
 
     /**

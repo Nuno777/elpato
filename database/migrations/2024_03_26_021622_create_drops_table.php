@@ -13,6 +13,7 @@ return new class extends Migration
     {
         Schema::create('drops', function (Blueprint $table) {
             $table->id();
+            $table->string('id_drop');
             $table->string('name');
             $table->string('address');
             $table->string('packages');
