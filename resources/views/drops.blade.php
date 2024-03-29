@@ -37,7 +37,7 @@
                                 style="background-color:
                                 @if ($drop->status == 'Ready') #82FB6A;
                                 @elseif ($drop->status == 'Suspense') #424945;
-                                @elseif ($drop->status == 'Dont send') #F1DD50;
+                                @elseif ($drop->status == 'DontSend') #F1DD50;
                                 @elseif ($drop->status == 'Problem') #FF7059; @endif
                                 ">
                                 <td>{{ $drop->id_drop }}</td>

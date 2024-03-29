@@ -67,6 +67,7 @@
                                         <input type="text" name="status" class="form-control" placeholder="Status"
                                             required>
                                     </div>
+                                    <span>Ready-🟢 | Problem-🔴 | DontSend-🟡 | Suspense-⚪ </span>
                                 </div>
                             </div>
                         </div>
@@ -87,9 +88,11 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
+
                     </div>
-                    <span></span>
+
                     <button type="submit" class="btn btn-primary">Insert Drop</button>
                 </form>
             </div>
