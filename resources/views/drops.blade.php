@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard | Drops')
+@section('title', 'Dashboard Drops')
 
 @section('content')
 @section('page-title', 'Drops Painel')
@@ -35,7 +35,7 @@
                     </thead>
                     <tbody>
                         @foreach ($drops as $drop)
-                            <tr>
+                            <tr >
                                 <td>{{ $drop->id }}</td>
                                 <td>{{ $drop->name }}</td>
                                 <td>{{ $drop->address }}</td>
@@ -64,10 +64,8 @@
                         @endforeach
                     </tbody>
                 </table>
-
             </div>
         </div>
     </div>
-
 </div>
 @endsection

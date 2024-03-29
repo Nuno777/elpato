@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard | Drops')
+@section('title', 'Dashboard Create Drop')
 
 @section('content')
 @section('page-title', 'Create Drops')
@@ -12,7 +12,7 @@
                 <h2>Create Drops</h2>
             </div>
             <div class="card-body">
-                <form method="POST" action="{{ route('createdrops.store') }}">
+                <form id="tablecreatedrop" method="POST" action="{{ route('createdrops.store') }}">
                     {{ csrf_field() }}
                     <div class="row">
                         <div class="col-sm-6">
@@ -34,7 +34,6 @@
                                     required>
                             </div>
                         </div>
-
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="personalnotes">Personal Notes</label>

@@ -11,7 +11,6 @@
     </script>
 </footer>
 
-
 <script src="plugins/jquery/jquery.min.js"></script>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="plugins/simplebar/simplebar.min.js"></script>
@@ -24,6 +23,7 @@
 <script src="plugins/jvectormap/jquery-jvectormap-us-aea.js"></script>
 <script src="plugins/daterangepicker/moment.min.js"></script>
 <script src="plugins/daterangepicker/daterangepicker.js"></script>
+
 <script>
     jQuery(document).ready(function() {
         jQuery('input[name="dateRange"]').daterangepicker({
