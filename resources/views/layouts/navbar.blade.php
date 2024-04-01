@@ -6,6 +6,9 @@
                 <span class="brand-name" style="width: 100%;">ElPato</span>
             </a>
         </div>
+        <div id="sidebar" class="sidebar sidebar-with-footer">
+        <div class="app-brand">
+        </div>
         <div class="sidebar-left" data-simplebar style="height: 100%;">
             <ul class="nav sidebar-inner" id="sidebar-menu">
 
@@ -30,8 +33,8 @@
                     </a>
                 </li>
 
-                <li class="@if(Request::is('analytic')) active @endif">
-                    <a class="sidenav-item-link" href="">
+                <li class="@if(Request::is('analytics')) active @endif">
+                    <a class="sidenav-item-link" href="{{ 'analytics' }}">
                         <i class="mdi mdi-chart-line"></i>
                         <span class="nav-text">Analytics</span>
                     </a>
@@ -47,6 +50,20 @@
             </ul>
 
         </div>
+        <div id="sidebar" class="sidebar sidebar-with-footer">
+        <div class="app-brand">
+        </div>
+        <div id="sidebar" class="sidebar sidebar-with-footer">
+        <div class="app-brand">
+        <ul class="list-unstyled">
+  <li><strong class="badge badge-primary">Total paid:</strong><span style="color: white;">0$</span></li>
+  <li><strong class="badge badge-primary">Total packages:</strong><span style="color: white;">1</span></li>
+  <li><strong class="badge badge-primary">My drops:</strong><span style="color: white;">1</span></li>
+  <li><strong class="badge badge-primary">Balance:</strong></li>
+</ul>
+
+        </div>
+
     </div>
 </aside>
 

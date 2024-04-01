@@ -64,10 +64,18 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="status">Status</label>
-                                        <input type="text" name="status" class="form-control" placeholder="Status"
-                                            required>
+                                        <select name="status" id="status" class="form-control"
+                                            style="background-color: #82FB6A;" required>
+                                            <option value="Ready" style="background-color: #82FB6A; color: black; ">
+                                                Ready</option>
+                                            <option option value="Suspense"
+                                                style="background-color: #424945; color: white;">Suspense</option>
+                                            <option value="Dont send" style="background-color: #F1DD50; color: black;">
+                                                Dont send</option>
+                                            <option value="Problem" style="background-color: #FF7059; color: white;">
+                                                Problem</option>
+                                        </select>
                                     </div>
-                                    <span>Ready-🟢 | Problem-🔴 | DontSend-🟡 | Suspense-⚪ </span>
                                 </div>
                             </div>
                         </div>
@@ -77,26 +85,55 @@
                                     <div class="form-group">
                                         <label for="type">Type</label>
                                         <input type="text" name="type" class="form-control" placeholder="Type"
-                                            required>
+                                            value="All" readonly>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <label for="expired">Expired AT</label>
-                                        <input type="text" name="expired" class="form-control"
-                                            placeholder="Expired AT" required>
+                                        <label for="expired">Expired At</label>
+                                        <input type="date" name="expired" class="form-control" required>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
-
                     </div>
-
+                    <span></span>
                     <button type="submit" class="btn btn-primary">Insert Drop</button>
                 </form>
             </div>
         </div>
     </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#status').change(function() {
+            var selectedValue = $(this).val();
+            var backgroundColor;
+            var textColor;
+
+            switch (selectedValue) {
+                case 'Ready':
+                    backgroundColor = '#82FB6A';
+                    textColor = 'black';
+                    break;
+                case 'Suspense':
+                    backgroundColor = '#424945';
+                    textColor = 'white';
+                    break;
+                case 'Dont send':
+                    backgroundColor = '#F1DD50';
+                    textColor = 'black';
+                    break;
+                case 'Problem':
+                    backgroundColor = '#FF7059';
+                    textColor = 'white';
+                    break;
+            }
+
+            $(this).css('background-color', backgroundColor);
+            $(this).css('color', textColor);
+        });
+    });
+</script>
 @endsection

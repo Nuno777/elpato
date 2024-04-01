@@ -20,15 +20,16 @@
                     <thead>
                         <tr>
                             <th>ID</th>
-                            <th>Nao sei</th>
+                            <th>Courier</th>
                             <th>Product Name</th>
                             <th>Price</th>
                             <th>Profit</th>
-                            <th>Tracking</th>
-                            <th>Label Information</th>
-                            <th>Withdrawal Information</th>
+                            <th>Delivery info</th>
+                            <th>Label info</th>
+                            <th>Pickup info    </th>
                             <th>Comments</th>
-                            <th>Problem</th>
+                            <th>Status</th>
+                            <th>Edit</th>
                         </tr>
                     </thead>
                     <tbody>
