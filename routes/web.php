@@ -30,7 +30,6 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
         return view('dashboard');
     })->name('dashboard');
 
-
     Route::get('/drops', [DropController::class, 'index'])->name('drops');
     Route::get('/createdrops', [DropController::class, 'create'])->name('createdrops');
     Route::post('/createdrops', [DropController::class, 'store'])->name('createdrops.store');
