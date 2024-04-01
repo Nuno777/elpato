@@ -65,7 +65,8 @@
                                     <div class="form-group">
                                         <label for="status">Status</label>
                                         <select name="status" id="status" class="form-control" required>
-                                            <option selected value="Default" style="background-color: #fff; color: black; " disabled>
+                                            <option selected value="Default"
+                                                style="background-color: #fff; color: black; " disabled>
                                                 Default</option>
                                             <option value="Ready" style="background-color: #82FB6A; color: black; ">
                                                 Ready</option>
