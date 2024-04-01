@@ -64,16 +64,17 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="status">Status</label>
-                                        <select name="status" id="status" class="form-control"
-                                            style="background-color: #82FB6A;" required>
+                                        <select name="status" id="status" class="form-control" required>
+                                            <option selected value="Default" style="background-color: #fff; color: black; " disabled>
+                                                Default</option>
                                             <option value="Ready" style="background-color: #82FB6A; color: black; ">
                                                 Ready</option>
-                                            <option option value="Suspense"
-                                                style="background-color: #424945; color: white;">Suspense</option>
-                                            <option value="Dont send" style="background-color: #F1DD50; color: black;">
-                                                Dont send</option>
                                             <option value="Problem" style="background-color: #FF7059; color: white;">
                                                 Problem</option>
+                                            <option value="Dont send" style="background-color: #F1DD50; color: black;">
+                                                Dont send</option>
+                                            <option option value="Suspense"
+                                                style="background-color: #424945; color: white;">Suspense</option>
                                         </select>
                                     </div>
                                 </div>

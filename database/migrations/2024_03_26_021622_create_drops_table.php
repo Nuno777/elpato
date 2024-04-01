@@ -13,9 +13,9 @@ return new class extends Migration
     {
         Schema::create('drops', function (Blueprint $table) {
             $table->id();
-            $table->string('id_drop');
+            $table->string('id_drop')->unique();;
             $table->string('name');
-            $table->string('address');
+            $table->string('address')->unique();;
             $table->string('packages');
             $table->string('notes');
             $table->string('status');
