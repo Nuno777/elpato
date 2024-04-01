@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('notes');
             $table->string('status');
             $table->string('type');
-            $table->string('expired');
+            $table->date('expired');
             $table->string('personalnotes');
             $table->timestamps();
         });

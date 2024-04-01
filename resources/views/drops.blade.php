@@ -59,28 +59,36 @@
                                         </button>
                                     </td>
                                     <td>
-                                        <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
-                                            <i class="mdi mdi-pencil text-warning"></i>
-                                        </a>
+                                        @if (auth()->check() && auth()->user()->admin == 5)
+                                            <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
+                                                <i class="mdi mdi-pencil text-warning"></i>
+                                            </a>
+                                        @endif
                                     </td>
                                     <td>
-                                        <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
-                                            method="POST" onsubmit="return confirm('Delete Drop?');">
-                                            @csrf
-                                            @method('DELETE')
-                                            <button type="submit" class="link"
-                                                style="background-color: transparent; border:none">
-                                                <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
-                                            </button>
-                                        </form>
+                                        @if (auth()->check() && auth()->user()->admin == 5)
+                                            <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
+                                                method="POST" onsubmit="return confirm('Delete Drop?');">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button type="submit" class="link"
+                                                    style="background-color: transparent; border:none">
+                                                    <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        @endif
                                     </td>
+
                                 </tr>
                             @endforeach
                         </tbody>
                     </table>
-                    <div>
-                        <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
-                    </div>
+                    @if (auth()->check() && auth()->user()->admin == 5)
+                        <div>
+                            <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create
+                                    Drop</button></a>
+                        </div>
+                    @endif
                 </div>
             </div>
         </div>
@@ -88,12 +96,12 @@
 </div>
 
 <!-- Modal Form -->
-<div class="modal fade" id="exampleModalForm" tabindex="-1" role="dialog" aria-labelledby="exampleModalFormTitle"
+<div class="modal fade" id="exampleModalForm" tabindex="-1" role="dialog" aria-labelledby="exampleModalForm"
     aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalFormTitle">Create Order</h5>
+                <h5 class="modal-title" id="exampleModalForm">Create Order</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -110,14 +118,19 @@
                         </div>
 
                         <div class="col-sm-6">
-
                             <div class="form-group">
-                                <label for="notes">Courier</label>
-                                <input type="text" name="notes" class="form-control" placeholder="Notes"
-                                    value="{{ old('name') ?? $drop->name }}" disabled required>
+                                @if (isset($drop))
+                                    <label for="name">Courier</label>
+                                    <input type="text" name="name" class="form-control" placeholder="Courier Name"
+                                        value="{{ old('name') ?? $drop->name }}" disabled required>
+                                @else
+                                    <label for="name">Another Input</label>
+                                    <input type="text" name="name" class="form-control"
+                                        placeholder="Another Input" required>
+                                @endif
                             </div>
-
                         </div>
+
 
                         <div class="col-sm-6">
                             <div class="row">
@@ -212,8 +225,8 @@
                                         <select name="tracking" id="tracking" class="form-control" required>
                                             <option selected value="default" disabled>Default
                                             </option>
-                                            <option value="Option1">Option 1</option>
-                                            <option value="Option2">Option 2</option>
+                                            <option value="sell">Sell</option>
+                                            <option value="forward">Forward</option>
                                         </select>
 
                                     </div>
