@@ -57,18 +57,37 @@ class DropController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(string $id)
+    public function edit($id)
     {
-        //
+        $drop = Drop::findOrFail($id);
+        return view('editdrops', compact('drop'));
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, string $id)
+    public function update(Request $request, $id)
     {
-        //
+        $drop = Drop::findOrFail($id);
+
+        $fields = $request->validate([
+            'id_drop' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'packages' => 'required',
+            'notes' => 'required',
+            'status' => 'required',
+            'type' => 'required',
+            'expired' => 'required',
+            'personalnotes' => 'required',
+        ]);
+
+        $drop->fill($fields);
+        $drop->save();
+
+        return redirect()->route('drops');
     }
+
 
     /**
      * Remove the specified resource from storage.

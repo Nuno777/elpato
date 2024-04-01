@@ -34,7 +34,9 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/drops', [DropController::class, 'index'])->name('drops');
     Route::get('/createdrops', [DropController::class, 'create'])->name('createdrops');
     Route::post('/createdrops', [DropController::class, 'store'])->name('createdrops.store');
-    Route::delete('/drops{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
+    Route::get('/editdrops/{id}/edit', [DropController::class, 'edit'])->name('editdrops.edit');
+    Route::put('/drops/{id}', [DropController::class, 'update'])->name('drops.update');
+    Route::delete('/drops/{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
 
     Route::get('/orders', function () {
         return view('orders');

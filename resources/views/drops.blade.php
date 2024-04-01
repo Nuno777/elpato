@@ -18,11 +18,16 @@
                         <thead>
                             <tr>
                                 <th style="width: 5%">ID</th>
-                                <th style="width: 25%" class="sorting_disabled">Name</th> <!-- Adicionando a classe sorting_disabled -->
-                                <th style="width: 25%" class="sorting_disabled">Address</th> <!-- Adicionando a classe sorting_disabled -->
-                                <th style="width: 10%" class="sorting_disabled">Courier Packages</th> <!-- Adicionando a classe sorting_disabled -->
-                                <th style="width: 10%" class="sorting_disabled">Notes</th> <!-- Adicionando a classe sorting_disabled -->
-                                <th style="width: 10%" class="sorting_disabled">Status</th> <!-- Adicionando a classe sorting_disabled -->
+                                <th style="width: 25%" class="sorting_disabled">Name</th>
+                                <!-- Adicionando a classe sorting_disabled -->
+                                <th style="width: 25%" class="sorting_disabled">Address</th>
+                                <!-- Adicionando a classe sorting_disabled -->
+                                <th style="width: 10%" class="sorting_disabled">Courier Packages</th>
+                                <!-- Adicionando a classe sorting_disabled -->
+                                <th style="width: 10%" class="sorting_disabled">Notes</th>
+                                <!-- Adicionando a classe sorting_disabled -->
+                                <th style="width: 10%" class="sorting_disabled">Status</th>
+                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 5%">Type</th>
                                 <th style="width: 5%">Expired At</th>
                                 <th style="width: 5%">Personal Notes</th>
@@ -54,7 +59,7 @@
                                             <i class="mdi mdi-package-variant "></i>
                                         </a>
                                     </td>
-                                    <td><a id="" href="#" style="width: 100%">
+                                    <td><a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
                                             <i class="mdi mdi-pencil text-warning"></i>
                                         </a>
                                     </td>
@@ -74,9 +79,9 @@
                         </tbody>
 
                     </table>
-                    <div >
-                <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
-            </div>
+                    <div>
+                        <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
+                    </div>
                 </div>
             </div>
 
