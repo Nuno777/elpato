@@ -107,7 +107,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form>
+                <form action="{{ route('orders.store') }}" method="POST">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -124,9 +124,9 @@
                                     <input type="text" name="name" class="form-control" placeholder="Courier Name"
                                         value="{{ old('name') ?? $drop->name }}" disabled required>
                                 @else
-                                    <label for="name">Another Input</label>
+                                    <label for="name">Courier Error</label>
                                     <input type="text" name="name" class="form-control"
-                                        placeholder="Another Input" required>
+                                        placeholder="Courier Error" disabled required>
                                 @endif
                             </div>
                         </div>
@@ -283,5 +283,4 @@
         </div>
     </div>
 </div>
-
 @endsection

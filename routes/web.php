@@ -6,17 +6,8 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Middleware\Admin;
 use App\Http\Middleware\Worker;
 use App\Http\Controllers\DropController;
-
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
+use App\Http\Controllers\OrderController;
+use App\Models\Order;
 
 Route::get('/', function () {
     return view('auth.login');
@@ -37,9 +28,9 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::put('/drops/{id}', [DropController::class, 'update'])->name('drops.update');
     Route::delete('/drops/{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
 
-    Route::get('/orders', function () {
-        return view('orders');
-    })->name('orders');
+    Route::get('/orders', [OrderController::class, 'index'])->name('orders');
+    Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+
 });
 
 Route::middleware('auth', 'admin')->group(function () {
