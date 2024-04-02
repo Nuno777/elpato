@@ -44,6 +44,12 @@ class OrderController extends Controller
             'delivery' => 'required',
             'shop' => 'required',
         ]);
+
+        //dd($request->all());
+
+        $fields['pickup'] = $request->has('pickup') ? 1 : 0;
+        $fields['signature'] = $request->has('signature') ? 1 : 0;
+
         $order = new Order();
         $order->fill($fields);
         $order->save();

@@ -47,8 +47,8 @@
                             <td>{{ $order->option }}</td>
                             <td>{{ $order->delivery }}</td>
                             <td>{{ $order->shop }}</td>
-                            <td>{{ $order->need_pickup ? 'Yes' : 'No' }}</td>
-                            <td>{{ $order->signature_required ? 'Yes' : 'No' }}</td>
+                            <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
+                            <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
                         </tr>
                         @endforeach
                     </tbody>

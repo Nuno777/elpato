@@ -18,12 +18,14 @@ return new class extends Migration
             $table->integer('quant')->notnull();
             $table->float('price')->notnull();
             $table->string('tracking')->notnull();
-            $table->string('code')->unique();
+            $table->string('code')->notnull();
             $table->string('holder')->notnull();
             $table->string('comments')->notnull();
             $table->string('option')->notnull();
             $table->date('delivery')->notnull();
             $table->string('shop')->notnull();
+            $table->boolean('pickup')->default(false);
+            $table->boolean('signature')->default(false);
             $table->timestamps();
         });
     }

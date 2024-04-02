@@ -7,7 +7,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class Order extends Model
 {
-    protected $fillable = ['product', 'name','quant','price','tracking','code','holder','comments','option','delivery','shop'];
+    protected $fillable = ['product', 'name','quant','price','tracking','code','holder','comments','option','delivery','shop','pickup','signature'];
+    protected $casts = [
+        'pickup' => 'boolean', 
+        'signature' => 'boolean',
+    ];
 
     public function drop()
     {

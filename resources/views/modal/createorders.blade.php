@@ -166,7 +166,7 @@
                                 <div class="d-flex align-items-center">
                                     <span class="mr-2">Need Pickup</span>
                                     <label class="switch switch-icon switch-info switch-pill form-control-label">
-                                        <input type="checkbox" class="switch-input form-check-input" value="off">
+                                        <input type="checkbox" name="pickup" class="switch-input form-check-input" value="1">
                                         <span class="switch-label"></span>
                                         <span class="switch-handle"></span>
                                     </label>
@@ -179,13 +179,14 @@
                                 <div class="d-flex align-items-center">
                                     <span class="mr-2">Signature Required</span>
                                     <label class="switch switch-icon switch-info switch-pill form-control-label">
-                                        <input type="checkbox" class="switch-input form-check-input" value="off">
+                                        <input type="checkbox" name="signature" class="switch-input form-check-input" value="1">
                                         <span class="switch-label"></span>
                                         <span class="switch-handle"></span>
                                     </label>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                     <div class="modal-footer">
                         <button type="submit" class="btn btn-primary btn-pill">Create Order</button>
