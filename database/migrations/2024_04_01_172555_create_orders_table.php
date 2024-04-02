@@ -13,8 +13,6 @@ return new class extends Migration
     {
         Schema::create('orders', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('id_drop');
-            $table->foreign('id_drop')->references('id')->on('drops');
             $table->string('product');
             $table->string('name');
             $table->integer('quant');
@@ -26,8 +24,6 @@ return new class extends Migration
             $table->string('option');
             $table->date('delivery');
             $table->string('shop');
-            $table->boolean('need_pickup')->default(false);
-            $table->boolean('signature_required')->default(false);
             $table->timestamps();
         });
     }

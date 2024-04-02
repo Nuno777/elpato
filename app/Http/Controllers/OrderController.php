@@ -14,7 +14,8 @@ class OrderController extends Controller
     public function index()
     {
         $orders = Order::all();
-        return view('orders', compact('orders'));
+        $drops = Drop::all();
+        return view('orders', compact('orders', 'drops'));
     }
 
     /**
@@ -22,6 +23,7 @@ class OrderController extends Controller
      */
     public function create()
     {
+        return view('modal.createorders');
     }
 
     /**
@@ -29,38 +31,22 @@ class OrderController extends Controller
      */
     public function store(Request $request)
     {
-        $request->validate([
-            'product' => 'required|string',
-            'name' => 'required|string',
-            'quant' => 'required|integer',
-            'price' => 'required|numeric',
-            'tracking' => 'required|string',
-            'code' => 'required|string',
-            'holder' => 'required|string',
-            'comments' => 'required|string',
-            'option' => 'required|string',
-            'delivery' => 'required|date',
-            'shop' => 'required|string',
-            'need_pickup' => 'nullable|boolean',
-            'signature_required' => 'nullable|boolean',
+        $fields = $request->validate([
+            'product' => 'required',
+            'name' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'holder' => 'required',
+            'comments' => 'required',
+            'option' => 'required',
+            'delivery' => 'required',
+            'shop' => 'required',
         ]);
-
-        $order = new Order;
-        $order->product = $request->product;
-        $order->name = $request->name;
-        $order->quant = $request->quant;
-        $order->price = $request->price;
-        $order->tracking = $request->tracking;
-        $order->code = $request->code;
-        $order->holder = $request->holder;
-        $order->comments = $request->comments;
-        $order->option = $request->option;
-        $order->delivery = $request->delivery;
-        $order->shop = $request->shop;
-        $order->need_pickup = $request->has('need_pickup'); // Define como true se estiver marcado
-        $order->signature_required = $request->has('signature_required'); // Define como true se estiver marcado
+        $order = new Order();
+        $order->fill($fields);
         $order->save();
-
         return redirect()->route('orders');
     }
 
