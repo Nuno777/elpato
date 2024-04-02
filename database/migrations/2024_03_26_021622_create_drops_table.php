@@ -13,15 +13,15 @@ return new class extends Migration
     {
         Schema::create('drops', function (Blueprint $table) {
             $table->id();
-            $table->string('id_drop')->unique();
-            $table->string('name');
-            $table->string('address')->unique();
-            $table->string('packages');
-            $table->string('notes');
-            $table->string('status');
-            $table->string('type');
-            $table->date('expired');
-            $table->string('personalnotes');
+            $table->string('id_drop')->unique()->notnull();
+            $table->string('name')->notnull();
+            $table->string('address')->unique()->notnull();
+            $table->string('packages')->notnull();
+            $table->string('notes')->notnull();
+            $table->string('status')->notnull();
+            $table->string('type')->notnull();
+            $table->date('expired')->notnull();
+            $table->string('personalnotes')->notnull();
             $table->timestamps();
         });
     }

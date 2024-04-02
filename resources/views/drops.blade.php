@@ -12,7 +12,7 @@
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <div class="table-responsive">
-                    <table id="productsTable" class="table table-product" style="width:100%">
+                    <table id="productsTable" class="table table-active table-product" style="width:100%">
                         <thead>
                             <tr>
                                 <th style="width: 5%">ID</th>

@@ -13,11 +13,10 @@
                 <div class="collapse" id="collapse-data-tables">
 
                 </div>
-                <table id="productsTable" class="table table-product" style="width:100%">
+                <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
                         <tr>
                             <th>ID</th>
-                            <th>Drop ID</th>
                             <th>Product</th>
                             <th>Name</th>
                             <th>Quantity</th>
@@ -30,14 +29,13 @@
                             <th>Delivery Date</th>
                             <th>Shop</th>
                             <th>Need Pickup</th>
-                            <th>Signature Required</th>
+                            <th>Signature</th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach($orders as $order)
                         <tr>
                             <td>{{ $order->id }}</td>
-                            <td>{{ $order->id_drop }}</td>
                             <td>{{ $order->product }}</td>
                             <td>{{ $order->name }}</td>
                             <td>{{ $order->quant }}</td>
