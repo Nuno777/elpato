@@ -7,7 +7,6 @@
 
 <div class="content-wrapper">
     <div class="content">
-<div>
         <div class="card card-default">
             <div class="card-body">
                 <div class="collapse" id="collapse-data-tables">
