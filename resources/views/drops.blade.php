@@ -80,7 +80,10 @@
                                         @endif
                                     </td>
                                 </tr>
-                                @include('modal.createorders', ['courierName' => $drop->name])
+                                @include('modal.createorders', [
+                                    'courierName' => $drop->name,
+                                    'status' => $drop->status,
+                                ])
                             @endforeach
                         </tbody>
                     </table>

@@ -43,6 +43,7 @@ class OrderController extends Controller
             'option' => 'required',
             'delivery' => 'required',
             'shop' => 'required',
+            'status' => 'required',
         ]);
 
         //dd($request->all());

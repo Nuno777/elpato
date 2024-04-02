@@ -29,26 +29,35 @@
                             <th>Shop</th>
                             <th>Need Pickup</th>
                             <th>Signature</th>
+                            <th style="width: 10%" class="sorting_disabled">Status</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach($orders as $order)
-                        <tr>
-                            <td>{{ $order->id }}</td>
-                            <td>{{ $order->product }}</td>
-                            <td>{{ $order->name }}</td>
-                            <td>{{ $order->quant }}</td>
-                            <td>{{ $order->price }}</td>
-                            <td>{{ $order->tracking }}</td>
-                            <td>{{ $order->code }}</td>
-                            <td>{{ $order->holder }}</td>
-                            <td>{{ $order->comments }}</td>
-                            <td>{{ $order->option }}</td>
-                            <td>{{ $order->delivery }}</td>
-                            <td>{{ $order->shop }}</td>
-                            <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
-                            <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
-                        </tr>
+                        @foreach ($orders as $order)
+                            <tr
+                                style="background-color:
+                                    @if ($order->status == 'Ready') #85f36e;
+                                    @elseif ($order->status == 'Suspense') #838383;
+                                    @elseif ($order->status == 'Dont send') #fff085;
+                                    @elseif ($order->status == 'Problem') #ff9e8e; @endif
+                                    color:
+                                    @if ($order->status == 'Suspense') white; @else black; @endif">
+                                <td>{{ $order->id }}</td>
+                                <td>{{ $order->product }}</td>
+                                <td>{{ $order->name }}</td>
+                                <td>{{ $order->quant }}</td>
+                                <td>{{ $order->price }}</td>
+                                <td>{{ $order->tracking }}</td>
+                                <td>{{ $order->code }}</td>
+                                <td>{{ $order->holder }}</td>
+                                <td>{{ $order->comments }}</td>
+                                <td>{{ $order->option }}</td>
+                                <td>{{ $order->delivery }}</td>
+                                <td>{{ $order->shop }}</td>
+                                <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
+                                <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
+                                <td>{{ $order->status }}</td>
+                            </tr>
                         @endforeach
                     </tbody>
                 </table>
@@ -58,4 +67,5 @@
     </div>
 
 </div>
+
 @endsection

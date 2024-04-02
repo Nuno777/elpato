@@ -7,9 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Order extends Model
 {
-    protected $fillable = ['product', 'name','quant','price','tracking','code','holder','comments','option','delivery','shop','pickup','signature'];
+    protected $fillable = ['product', 'name','quant','price','tracking','code','holder','comments','option','delivery','shop','pickup','signature','status'];
     protected $casts = [
-        'pickup' => 'boolean', 
+        'pickup' => 'boolean',
         'signature' => 'boolean',
     ];
 

@@ -26,6 +26,7 @@ return new class extends Migration
             $table->string('shop')->notnull();
             $table->boolean('pickup')->default(false);
             $table->boolean('signature')->default(false);
+            $table->string('status')->notnull();
             $table->timestamps();
         });
     }
