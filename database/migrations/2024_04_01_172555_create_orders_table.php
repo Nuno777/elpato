@@ -13,18 +13,18 @@ return new class extends Migration
     {
         Schema::create('orders', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
             $table->unsignedBigInteger('id_drop');
             $table->foreign('id_drop')->references('id')->on('drops');
             $table->string('product');
+            $table->string('name');
             $table->integer('quant');
             $table->float('price');
             $table->string('tracking');
             $table->string('code');
             $table->string('holder');
-            $table->text('comments');
-            $table->string('options');
-            $table->date('delivery_date');
+            $table->string('comments');
+            $table->string('option');
+            $table->date('delivery');
             $table->string('shop');
             $table->boolean('need_pickup')->default(false);
             $table->boolean('signature_required')->default(false);

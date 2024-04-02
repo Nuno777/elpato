@@ -29,7 +29,9 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::delete('/drops/{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
 
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
-    Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+
+    Route::get('/drops/{drop}/create-order', [OrderController::class, 'create'])->name('drops.orders.create');
+    Route::post('/drops/{drop}/orders', [OrderController::class, 'store'])->name('drops.orders.store');
 
 });
 
