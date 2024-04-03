@@ -31,7 +31,7 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
-
+    Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 });
 
 Route::middleware('auth', 'admin')->group(function () {

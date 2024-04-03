@@ -30,6 +30,7 @@
                             <th>Need Pickup</th>
                             <th>Signature</th>
                             <th style="width: 10%" class="sorting_disabled">Status</th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -57,6 +58,19 @@
                                 <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
                                 <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
                                 <td>{{ $order->status }}</td>
+                                <td>
+                                    @if (auth()->check() && auth()->user()->admin == 5)
+                                    <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                        method="POST" onsubmit="return confirm('Delete order?');">
+                                        @csrf
+                                        @method('DELETE')
+                                        <button type="submit" class="link"
+                                            style="background-color: transparent; border:none">
+                                            <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
+                                        </button>
+                                    </form>
+                                @endif
+                                </td>
                             </tr>
                         @endforeach
                     </tbody>

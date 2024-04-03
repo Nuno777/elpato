@@ -17,15 +17,10 @@
                             <tr>
                                 <th style="width: 5%">ID</th>
                                 <th style="width: 25%" class="sorting_disabled">Name</th>
-                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 25%" class="sorting_disabled">Address</th>
-                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 10%" class="sorting_disabled">Courier Packages</th>
-                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 10%" class="sorting_disabled">Notes</th>
-                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 10%" class="sorting_disabled">Status</th>
-                                <!-- Adicionando a classe sorting_disabled -->
                                 <th style="width: 5%">Type</th>
                                 <th style="width: 5%">Expired At</th>
                                 <th style="width: 5%">Personal Notes</th>

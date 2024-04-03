@@ -55,19 +55,11 @@
                 </div>
                 <div id="sidebar" class="sidebar sidebar-with-footer">
                     <div class="app-brand">
-                        <ul class="list-unstyled">
-                            <li><strong class="badge badge-primary">Total paid:</strong><span
-                                    style="color: white;">0$</span></li>
-                            <li><strong class="badge badge-primary">Total packages:</strong><span
-                                    style="color: white;">1</span></li>
-                            <li><strong class="badge badge-primary">My drops:</strong><span
-                                    style="color: white;">1</span></li>
-                            <li><strong class="badge badge-primary">Balance:</strong></li>
-                        </ul>
-
                     </div>
-
                 </div>
+            </div>
+        </div>
+    </div>
 </aside>
 
 <div class="page-wrapper">

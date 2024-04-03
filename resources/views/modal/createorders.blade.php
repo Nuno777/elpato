@@ -206,7 +206,9 @@
                             <button type="submit" class="btn btn-primary btn-pill">Create Order</button>
                         </div>
                     @else
-                        <p>O pedido não pode ser criado porque o status não está pronto.</p>
+                    <div style="margin-top:15px;" class="alert alert-danger alert-icon" role="alert" >
+                        <i  class="mdi mdi-alert"></i>You cannot create orders on drops with problems, please wait for the problems to be resolved.
+                      </div>
 
                     @endif
                 </form>
