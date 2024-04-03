@@ -12,8 +12,9 @@
             <div class="modal-body">
                 <form action="{{ route('orders.store', $drop->id_drop) }}" method="POST" enctype="multipart/form-data">
                     {{ csrf_field() }}
-                    <input type="hidden" name="id_drop" value="{{ $drop->id_drop }}">
-
+                    <input type="hidden" name="id_drop" value="{{ $drop->id_drop }}" readonly required>
+                    <input type="hidden" type="text" name="status" class="form-control" placeholder="status"
+                        value="{{ old('status') ?? $status }}" readonly required>
                     @if ($status == 'Ready')
                         <div class="row">
                             <div class="col-sm-6">
@@ -191,24 +192,15 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <div class="col-sm-6">
-                                <div class="form-group">
-
-                                    <label for="status">status</label>
-                                    <input type="text" name="status" class="form-control" placeholder="status"
-                                        value="{{ old('status') ?? $status }}" readonly required>
-                                </div>
-                            </div>
-
                         </div>
                         <div class="modal-footer">
                             <button type="submit" class="btn btn-primary btn-pill">Create Order</button>
                         </div>
                     @else
-                    <div style="margin-top:15px;" class="alert alert-danger alert-icon" role="alert" >
-                        <i  class="mdi mdi-alert"></i>You cannot create orders on drops with problems, please wait for the problems to be resolved.
-                      </div>
+                        <div style="margin-top:15px;" class="alert alert-danger alert-icon" role="alert">
+                            <i class="mdi mdi-alert"></i>You cannot create orders on drops with problems, please wait
+                            for the problems to be resolved.
+                        </div>
 
                     @endif
                 </form>

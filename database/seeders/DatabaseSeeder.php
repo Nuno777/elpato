@@ -17,8 +17,8 @@ class DatabaseSeeder extends Seeder
     {
         $users = [
             [
-                'name' => 'esqueleto',
-                'email' => 'esqueleto@elpato.com',
+                'name' => 'skeleton',
+                'email' => 'skeleton@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'admin' => '5',
@@ -26,6 +26,20 @@ class DatabaseSeeder extends Seeder
             [
                 'name' => 'pekka',
                 'email' => 'pekka@elpato.com',
+                'email_verified_at' => '2023-01-03 13:19:13',
+                'password' => Hash::make('admin12345'),
+                'admin' => '5',
+            ],
+            [
+                'name' => 'et',
+                'email' => 'et13@elpato.com',
+                'email_verified_at' => '2023-01-03 13:19:13',
+                'password' => Hash::make('admin12345'),
+                'admin' => '5',
+            ],
+            [
+                'name' => 'calvo',
+                'email' => 'calvo@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'admin' => '5',
