@@ -3,8 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use App\Models\Order;
 use App\Models\Drop;
+use App\Models\User;
+
 
 class OrderController extends Controller
 {
@@ -13,7 +16,9 @@ class OrderController extends Controller
      */
     public function index()
     {
-        $orders = Order::all();
+
+        $orders = Order::All();
+
         $drops = Drop::all();
         return view('orders', compact('orders', 'drops'));
     }
@@ -31,7 +36,8 @@ class OrderController extends Controller
      */
     public function store(Request $request)
     {
-        $fields = $request->validate([
+        $request->validate([
+            'id_drop' => 'required',
             'product' => 'required',
             'name' => 'required',
             'quant' => 'required',
@@ -52,7 +58,8 @@ class OrderController extends Controller
         $fields['signature'] = $request->has('signature') ? 1 : 0;
 
         $order = new Order();
-        $order->fill($fields);
+        $order->fill($request->all());
+        $order->user_id = Auth::user()->id;
         $order->save();
         return redirect()->route('orders');
     }
@@ -87,5 +94,10 @@ class OrderController extends Controller
     {
         $order->delete();
         return redirect()->route('orders');
+    }
+
+    public function __construct()
+    {
+        $this->middleware('auth');
     }
 }

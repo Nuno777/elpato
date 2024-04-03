@@ -15,7 +15,7 @@
                     <table id="productsTable" class="table table-active table-product" style="width:100%">
                         <thead>
                             <tr>
-                                <th style="width: 5%">ID</th>
+                                <th style="width: 5%">Drop</th>
                                 <th style="width: 25%" class="sorting_disabled">Name</th>
                                 <th style="width: 25%" class="sorting_disabled">Address</th>
                                 <th style="width: 10%" class="sorting_disabled">Courier Packages</th>
@@ -75,7 +75,7 @@
                                         @endif
                                     </td>
                                 </tr>
-                                @include('modal.createorders', [
+                                @include('modal.createorders', ['id_drop' => $drop->id_drop,
                                     'courierName' => $drop->name,
                                     'status' => $drop->status,
                                 ])

@@ -1,5 +1,5 @@
 <!-- Modal Form -->
-<div class="modal fade" id="createorder{{ $drop->id_drop }}" tabindex="-1" role="dialog"
+<div class="modal fade" id="createorder{{ $id_drop }}" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalFormLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -10,11 +10,28 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form action="{{ route('orders.store', $drop->id_drop) }}" method="POST" enctype="multipart/form-data">
+                <form action="{{ route('orders.store', $id_drop) }}" method="POST" enctype="multipart/form-data">
                     {{ csrf_field() }}
-                    <input type="hidden" name="id_drop" value="{{ $drop->id_drop }}" readonly required>
                     <input type="hidden" type="text" name="status" class="form-control" placeholder="status"
                         value="{{ old('status') ?? $status }}" readonly required>
+                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}">
+                    
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                @if (isset($drop))
+                                    <label for="id_drop">ID Drop</label>
+                                    <input name="id_drop" value="{{ old('id_drop') ?? $id_drop }}" class="form-control"
+                                        placeholder="ID Drop" readonly required>
+                                @else
+                                    <label for="id_drop">ID Drop</label>
+                                    <input type="hidden" name="id_drop" class="form-control"
+                                        placeholder="ID Drop Error" readonly required>
+                                @endif
+                            </div>
+                        </div>
+                    </div>
+
                     @if ($status == 'Ready')
                         <div class="row">
                             <div class="col-sm-6">
@@ -35,7 +52,7 @@
                                     @else
                                         <label for="name">Courier Error</label>
                                         <input type="text" name="name" class="form-control"
-                                            placeholder="Courier Error" disabled required>
+                                            placeholder="Courier Error" readonly required>
                                     @endif
                                 </div>
                             </div>
