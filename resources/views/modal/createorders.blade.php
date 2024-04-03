@@ -15,12 +15,12 @@
                     <input type="hidden" type="text" name="status" class="form-control" placeholder="status"
                         value="{{ old('status') ?? $status }}" readonly required>
                     <input type="hidden" name="user_id" value="{{ Auth::user()->id }}">
-                    
+
                     <div class="row">
                         <div class="col-sm-3">
                             <div class="form-group">
                                 @if (isset($drop))
-                                    <label for="id_drop">ID Drop</label>
+                                    <label for="id_drop">Drop</label>
                                     <input name="id_drop" value="{{ old('id_drop') ?? $id_drop }}" class="form-control"
                                         placeholder="ID Drop" readonly required>
                                 @else

@@ -31,11 +31,12 @@
                             <th>Signature</th>
                             <th style="width: 10%" class="sorting_disabled">Status</th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id || auth()->user()->admin == 6)
+                            @if (auth()->user()->id == $order->user_id) {{-- || auth()->user()->admin == 5 --}}
                                 <tr
                                     style="background-color:
                                         @if ($order->status == 'Ready') #85f36e;
@@ -60,17 +61,22 @@
                                     <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
                                     <td>{{ $order->status }}</td>
                                     <td>
+                                        <a href="" style="width: 100%">
+                                            <i class="mdi mdi-message-text-outline"></i>
+                                        </a>
+                                    </td>
+                                    <td>
                                         @if (auth()->check() && auth()->user()->admin == 5)
-                                        <form role="form" action="{{ route('orders.destroy', $order->id) }}"
-                                            method="POST" onsubmit="return confirm('Delete order?');">
-                                            @csrf
-                                            @method('DELETE')
-                                            <button type="submit" class="link"
-                                                style="background-color: transparent; border:none">
-                                                <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
-                                            </button>
-                                        </form>
-                                    @endif
+                                            <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                                method="POST" onsubmit="return confirm('Delete order?');">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button type="submit" class="link"
+                                                    style="background-color: transparent; border:none">
+                                                    <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        @endif
                                     </td>
                                 </tr>
                             @endif
