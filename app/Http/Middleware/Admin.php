@@ -16,10 +16,10 @@ class Admin
      */
     public function handle($request, Closure $next)
     {
-        if ($request->user() && $request->user()->admin == 5) {
+        if ($request->user() && $request->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61") {
             $response = $next($request);
             return $response;
         }
-        throw new AccessDeniedHttpException('Unauthorized');
+        return redirect()->route('dashboard');
     }
 }

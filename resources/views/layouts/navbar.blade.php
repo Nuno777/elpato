@@ -10,6 +10,7 @@
             <div class="app-brand">
             </div>
             <div class="sidebar-left" data-simplebar style="height: 100%;">
+
                 <ul class="nav sidebar-inner" id="sidebar-menu">
 
                     <li class="@if (Request::is('dashboard')) active @endif">
@@ -18,6 +19,15 @@
                             <span class="nav-text">Dashboard</span>
                         </a>
                     </li>
+
+                    @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                    <li class="@if (Request::is('admindashboard')) active @endif">
+                        <a class="sidenav-item-link" href="{{ '/dashboard' }}">
+                            <i class="mdi mdi-monitor"></i>
+                            <span class="nav-text">Admin Dashboard</span>
+                        </a>
+                    </li>
+                    @endif
 
                     <li class="@if (Request::is('drops')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/drops' }}">
@@ -32,6 +42,15 @@
                             <span class="nav-text">Orders</span>
                         </a>
                     </li>
+
+                    @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                        <li class="@if (Request::is('allorders')) active @endif">
+                            <a class="sidenav-item-link" href="{{ '/orders' }}">
+                                <i class="mdi mdi-package-variant-closed"></i>
+                                <span class="nav-text">All Orders</span>
+                            </a>
+                        </li>
+                    @endif
 
                     <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">

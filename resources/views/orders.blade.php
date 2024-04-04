@@ -20,8 +20,8 @@
                             <th>Name</th>
                             <th>Quantity</th>
                             <th>Price</th>
+                            <th>Courier</th>
                             <th>Tracking</th>
-                            <th>Code</th>
                             <th>Holder</th>
                             <th>Comments</th>
                             <th>Option</th>
@@ -36,7 +36,8 @@
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id) {{-- || auth()->user()->admin == 5 --}}
+                            @if (auth()->user()->id == $order->user_id)
+                                {{-- || auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61" --}}
                                 <tr
                                     style="background-color:
                                         @if ($order->status == 'Ready') #85f36e;
@@ -66,7 +67,7 @@
                                         </a>
                                     </td>
                                     <td>
-                                        @if (auth()->check() && auth()->user()->admin == 5)
+                                        @if (auth()->check())
                                             <form role="form" action="{{ route('orders.destroy', $order->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete order?');">
                                                 @csrf
