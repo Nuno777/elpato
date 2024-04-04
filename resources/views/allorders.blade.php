@@ -36,16 +36,15 @@
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id)
-                                {{-- || auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61" --}}
+                            @if (auth()->user()->id == $order->user_id || auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
                                 <tr
                                     style="background-color:
-                                    @if ($order->status == 'Ready') #85f36e;
-                                    @elseif ($order->status == 'Suspense') #838383;
-                                    @elseif ($order->status == 'Dont send') #fff085;
-                                    @elseif ($order->status == 'Problem') #ff9e8e; @endif
-                                    color:
-                                    @if ($order->status == 'Suspense') white; @else black; @endif">
+                                        @if ($order->status == 'Ready') #85f36e;
+                                        @elseif ($order->status == 'Suspense') #838383;
+                                        @elseif ($order->status == 'Dont send') #fff085;
+                                        @elseif ($order->status == 'Problem') #ff9e8e; @endif
+                                        color:
+                                        @if ($order->status == 'Suspense') white; @else black; @endif">
                                     <td>{{ $order->id_drop }}</td>
                                     <td>{{ $order->product }}</td>
                                     <td>{{ $order->name }}</td>
@@ -61,14 +60,13 @@
                                     <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
                                     <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
                                     <td>{{ $order->status }}</td>
-                                    @if (auth()->check())
-                                        <td>
-                                            <button type="button" data-toggle="modal"
-                                                data-target="#showorder{{ $order->id }}">
-                                                <i class="mdi mdi-message-text-outline text-primary"></i>
-                                            </button>
-                                        </td>
-                                        <td>
+                                    <td>
+                                        <a href="" style="width: 100%">
+                                            <i class="mdi mdi-message-text-outline"></i>
+                                        </a>
+                                    </td>
+                                    <td>
+                                        @if (auth()->check())
                                             <form role="form" action="{{ route('orders.destroy', $order->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete order?');">
                                                 @csrf
@@ -78,19 +76,11 @@
                                                     <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
                                                 </button>
                                             </form>
-                                    @endif
+                                        @endif
                                     </td>
                                 </tr>
-
-                                @include('modal.showorders', [
-                                    'order' => $order,
-                                    'id_drop' => $order->id,
-                                    'courierName' => $order->name,
-                                    'status' => $order->status,
-                                ])
                             @endif
                         @endforeach
-
                     </tbody>
                 </table>
 

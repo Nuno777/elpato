@@ -12,7 +12,7 @@ class DropController extends Controller
      */
     public function index()
     {
-        $drops = Drop::all();
+        $drops = Drop::orderBy('id_drop')->get();
         return view('drops', compact('drops'));
     }
 
@@ -52,7 +52,9 @@ class DropController extends Controller
      */
     public function show(string $id)
     {
+
     }
+
 
     /**
      * Show the form for editing the specified resource.

@@ -14,38 +14,38 @@
                 <ul class="nav sidebar-inner" id="sidebar-menu">
 
                     <li class="@if (Request::is('dashboard')) active @endif">
-                        <a class="sidenav-item-link" href="{{ '/dashboard' }}">
+                        <a class="sidenav-item-link" href="{{ route('dashboard') }}">
                             <i class="mdi mdi-monitor"></i>
                             <span class="nav-text">Dashboard</span>
                         </a>
                     </li>
 
-                    @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
-                    <li class="@if (Request::is('admindashboard')) active @endif">
-                        <a class="sidenav-item-link" href="{{ '/dashboard' }}">
-                            <i class="mdi mdi-monitor"></i>
-                            <span class="nav-text">Admin Dashboard</span>
-                        </a>
-                    </li>
+                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                        <li class="@if (Request::is('admindashboard')) active @endif">
+                            <a class="sidenav-item-link" href="{{ route('dashboard') }}">
+                                <i class="mdi mdi-monitor"></i>
+                                <span class="nav-text">Admin Dashboard</span>
+                            </a>
+                        </li>
                     @endif
 
                     <li class="@if (Request::is('drops')) active @endif">
-                        <a class="sidenav-item-link" href="{{ '/drops' }}">
+                        <a class="sidenav-item-link" href="{{ route('drops') }}">
                             <i class="mdi mdi-truck"></i>
                             <span class="nav-text">Drops</span>
                         </a>
                     </li>
 
                     <li class="@if (Request::is('orders')) active @endif">
-                        <a class="sidenav-item-link" href="{{ '/orders' }}">
+                        <a class="sidenav-item-link" href="{{ route('orders') }}">
                             <i class="mdi mdi-package-variant-closed"></i>
                             <span class="nav-text">Orders</span>
                         </a>
                     </li>
 
-                    @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
-                        <li class="@if (Request::is('allorders')) active @endif">
-                            <a class="sidenav-item-link" href="{{ '/orders' }}">
+                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                        <li class="@if (Request::is('orders/all')) active @endif">
+                            <a class="sidenav-item-link" href="{{ route('orders.all') }}">
                                 <i class="mdi mdi-package-variant-closed"></i>
                                 <span class="nav-text">All Orders</span>
                             </a>

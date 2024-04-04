@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\Order;
 use App\Models\Drop;
-use App\Models\User;
 
 
 class OrderController extends Controller
@@ -16,10 +15,8 @@ class OrderController extends Controller
      */
     public function index()
     {
-
-        $orders = Order::All();
-
-        $drops = Drop::all();
+        $orders = Order::orderBy('id')->get();
+        $drops = Drop::orderBy('id')->get();
         return view('orders', compact('orders', 'drops'));
     }
 
@@ -67,9 +64,16 @@ class OrderController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(string $id)
+    public function show(Order $order)
     {
+        return view('modal.showorders', compact('order'));
     }
+
+    /* public function allshow()
+    {
+        $orders = Order::orderBy('id')->get();
+        return view('allorders', compact('orders'));
+    } */
 
     /**
      * Show the form for editing the specified resource.

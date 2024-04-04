@@ -31,9 +31,13 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+    Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
     Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
+    //Route::get('/orders/all', [OrderController::class, 'allshow'])->name('orders.all');
 });
 
+
+//Routes lvl 0, User
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/dashboard', function () {
         return view('dashboard');
