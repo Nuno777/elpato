@@ -22,6 +22,7 @@ return new class extends Migration
             $table->string('label'); // Para armazenar o caminho do arquivo PDF ou PNG
             $table->string('status')->notnull();
             $table->string('method')->notnull();
+            $table->string('comments')->nullable();
             $table->date('label_creation_date')->notnull();
             $table->date('label_payment_date')->nullable();
             $table->timestamps();

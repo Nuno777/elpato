@@ -53,6 +53,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 
     Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
+    Route::get('/ftid/create', [ftidController::class, 'create'])->name('createftid');
+    Route::post('/ftid', [ftidController::class, 'store'])->name('ftid.store');
 });
 
 

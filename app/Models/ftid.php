@@ -9,5 +9,5 @@ class ftid extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['user', 'carrier', 'tracking', 'store', 'label', 'status', 'method', 'label_creation_date', 'label_payment_date'];
+    protected $fillable = ['user', 'carrier', 'tracking', 'store', 'label', 'status', 'method', 'comments', 'label_creation_date', 'label_creation_date'];
 }

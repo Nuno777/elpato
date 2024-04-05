@@ -151,7 +151,7 @@
                                 <div class="form-group">
                                     <label for="comments">Comments</label>
                                     <input type="text" name="comments" class="form-control"
-                                        placeholder="Comments" required>
+                                        placeholder="Comments" value="N/A">
                                 </div>
                             </div>
 
@@ -216,7 +216,7 @@
                             </div>
                         </div>
                         <div class="modal-footer">
-                            <button type="submit" class="btn btn-primary btn-pill">Create Order</button>
+                            <button type="submit" class="btn btn-primary">Create Order</button>
                         </div>
                     @else
                         <div style="margin-top:15px;" class="alert alert-danger alert-icon" role="alert">

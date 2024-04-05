@@ -50,12 +50,8 @@
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
                                         <button type="button" class="btn btn-primary" data-toggle="modal"
-                                            data-target="#createorder{{ $drop->id_drop }} "><i
-                                                class="mdi mdi-package-variant "></i></button>
-                                        {{-- <button type="button" data-toggle="modal"
-                                            data-target="#createorder{{ $drop->id_drop }}">
-                                            <i class="mdi mdi-package-variant text-primary"></i>
-                                        </button> --}}
+                                            data-target="#createorder{{ $drop->id_drop }} ">
+                                            <i class="mdi mdi-package-variant "></i></button>
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')

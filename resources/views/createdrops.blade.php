@@ -35,7 +35,7 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="notes">Notes</label>
-                                <input type="text" name="notes" class="form-control" placeholder="Notes" required>
+                                <input type="text" name="notes" class="form-control" placeholder="Notes" value="N/A">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -49,7 +49,7 @@
                             <div class="form-group">
                                 <label for="personalnotes">Personal Notes</label>
                                 <input type="text" name="personalnotes" class="form-control"
-                                    placeholder="Personal Notes" required>
+                                    placeholder="Personal Notes" value="N/A">
                             </div>
                         </div>
                         <div class="col-sm-6">
