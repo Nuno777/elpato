@@ -28,17 +28,24 @@
                         </thead>
                         <tbody>
                             @foreach ($ftids as $ftid)
-                                <tr>
-                                    <td>{{ $ftid->id }}</td>
-                                    <td>{{ $ftid->user }}</td>
-                                    <td>{{ $ftid->carrier }}</td>
-                                    <td>{{ $ftid->tracking }}</td>
-                                    <td>{{ $ftid->store }}</td>
-                                    <td>{{ $ftid->status }}</td>
-                                    <td>{{ $ftid->method }}</td>
-                                    <td>{{ $ftid->label_creation_date }}</td>
-                                    <td>{{ $ftid->label_payment_date }}</td>
-                                </tr>
+                                @if (auth()->user()->id == $ftid->user_id)
+                                    <tr
+                                        style="background-color:
+                                        @if ($ftid->status == 'FTID Created') #85f36e;
+                                        @elseif ($ftid->status == 'FTID Paid') #bfddf3;
+                                        @elseif ($ftid->status == 'FTID Dropped') #cf9bcc;
+                                        @elseif ($ftid->status == 'FTID Error') #ff9e8e; @endif ">
+                                        <td>{{ $ftid->id }}</td>
+                                        <td>{{ $ftid->user }}</td>
+                                        <td>{{ $ftid->carrier }}</td>
+                                        <td>{{ $ftid->tracking }}</td>
+                                        <td>{{ $ftid->store }}</td>
+                                        <td>{{ $ftid->status }}</td>
+                                        <td>{{ $ftid->method }}</td>
+                                        <td>{{ $ftid->label_creation_date }}</td>
+                                        <td>{{ $ftid->label_payment_date }}</td>
+                                    </tr>
+                                @endif
                             @endforeach
                         </tbody>
                     </table>

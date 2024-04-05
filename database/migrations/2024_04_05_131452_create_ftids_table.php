@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('carrier')->notnull();
             $table->string('tracking')->notnull();
             $table->string('store')->notnull();
-            $table->string('label')->default(1); // Para armazenar o caminho do arquivo PDF ou PNG
+            $table->string('label')->notnull(); // Para armazenar o caminho do arquivo PDF ou PNG
             $table->string('status')->notnull();
             $table->string('method')->notnull();
             $table->string('comments')->nullable();

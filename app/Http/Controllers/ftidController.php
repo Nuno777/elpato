@@ -13,11 +13,8 @@ class ftidController extends Controller
      */
     public function index()
     {
-         // Recupere todos os registros ftid do banco de dados
-         $ftids = ftid::all();
-
-         // Retorne a view 'ftid', passando os dados recuperados
-         return view('ftid', compact('ftids'));
+        $ftids = ftid::orderBy('id')->get();
+        return view('ftid', compact('ftids'));
     }
 
     /**
@@ -42,12 +39,16 @@ class ftidController extends Controller
             'method' => 'required',
             'comments' => 'required',
             'label_creation_date' => 'required',
+            'label' => 'required|file|mimes:pdf,png|max:2048', // Validar o upload do arquivo
         ]);
 
-        //dd($request->all());
+        $file = $request->file('label');
+        $fileName = time() . '_' . $file->getClientOriginalName();
+        $filePath = $request->file('label')->storeAs('labels', $fileName, 'public'); // Armazenar o arquivo no armazenamento público do Laravel
 
         $ftid = new ftid();
-        $ftid->fill($request->all());
+        $ftid->fill($request->except('label'));
+        $ftid->label = $fileName; // Salvar apenas o nome do arquivo no banco de dados
         $ftid->user_id = Auth::user()->id;
         $ftid->save();
 

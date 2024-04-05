@@ -76,7 +76,8 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="comments">Comments</label>
-                                <input type="text" name="comments" class="form-control" placeholder="Comments">
+                                <input type="text" name="comments" class="form-control" placeholder="Comments"
+                                    value="N/A">
                             </div>
                         </div>
 
@@ -94,10 +95,22 @@
                                     <div class="form-group">
                                         <label for="status">Status</label>
                                         <input type="text" name="status" class="form-control" placeholder="Status"
-                                            value="FTID created" required readonly>
+                                            value="FTID Created" style="background-color: #82FB6A; color: black; "
+                                            required readonly>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
 
+                        <div class="col-sm-12">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="label">Label</label>
+                                        <input type="file" name="label" placeholder="Label" class="form-control"
+                                            required>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
