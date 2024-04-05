@@ -7,6 +7,7 @@ use App\Http\Middleware\Admin;
 use App\Http\Middleware\Worker;
 use App\Http\Controllers\DropController;
 use App\Http\Controllers\OrderController;
+use App\Http\Controllers\ftidController;
 use App\Models\Order;
 
 Route::get('/', function () {
@@ -32,7 +33,6 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
     Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
-    Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
     //Route::get('/orders/all', [OrderController::class, 'allshow'])->name('orders.all');
 });
 
@@ -43,16 +43,21 @@ Route::middleware(['auth', 'verified'])->group(function () {
         return view('dashboard');
     })->name('dashboard');
 
+    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+
     Route::get('/drops', [DropController::class, 'index'])->name('drops');
 
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+    Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
+
+    Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
 });
 
 
 Route::middleware('auth', 'admin')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+
     //Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     //Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });

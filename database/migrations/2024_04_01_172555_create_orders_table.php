@@ -16,8 +16,10 @@ return new class extends Migration
             $table->unsignedBigInteger('user_id')->nullable();
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
             $table->string('id_drop')->notnull();
+            $table->string('user')->notnull();
             $table->string('product')->notnull();
             $table->string('name')->notnull();
+            $table->string('address')->notnull();
             $table->integer('quant')->notnull();
             $table->float('price')->notnull();
             $table->string('tracking')->notnull();

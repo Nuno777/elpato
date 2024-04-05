@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ftid extends Model
+{
+    use HasFactory;
+
+    protected $fillable = ['user', 'carrier', 'tracking', 'store', 'label', 'status', 'method', 'label_creation_date', 'label_payment_date'];
+}

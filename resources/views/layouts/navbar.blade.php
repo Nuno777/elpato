@@ -13,20 +13,55 @@
 
                 <ul class="nav sidebar-inner" id="sidebar-menu">
 
-                    <li class="@if (Request::is('dashboard')) active @endif">
+                    {{-- <li class="@if (Request::is('dashboard')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('dashboard') }}">
                             <i class="mdi mdi-monitor"></i>
                             <span class="nav-text">Dashboard</span>
                         </a>
+                    </li> --}}
+
+
+                    <li class="has-sub @if (Request::is('dashboard')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('dashboard') }}" data-toggle="collapse"
+                            data-target="#adminboard" aria-expanded="false" aria-controls="adminboard">
+                            {{-- <i class="mdi mdi-monitor-dashboard"></i> --}}
+                            <i class="mdi mdi-monitor"></i>
+                            <span class="nav-text">Dashboard</span>
+                            {{-- <b class="caret"></b> --}}
+                        </a>
+                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                            <ul class="collapse" id="adminboard" data-parent="#sidebar-menu">
+                                <div class="sub-menu">
+                                    <li>
+                                        <a class="sidenav-item-link" href="">
+                                            <span class="nav-text">Create User</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="sidenav-item-link" href="">
+                                            <span class="nav-text">Change Perms</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="sidenav-item-link" href="">
+                                            <span class="nav-text">All Users</span>
+                                        </a>
+                                    </li>
+                                    <li class="@if (Request::is('orders/all')) active @endif">
+                                        <a class="sidenav-item-link" href="{{ '' }}">
+                                            <span class="nav-text">All Orders</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="sidenav-item-link" href="">
+                                            <span class="nav-text">All FTIDs</span>
+                                        </a>
+                                    </li>
+                                </div>
+                            </ul>
                     </li>
 
-                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
-                        <li class="@if (Request::is('admindashboard')) active @endif">
-                            <a class="sidenav-item-link" href="{{ route('dashboard') }}">
-                                <i class="mdi mdi-monitor"></i>
-                                <span class="nav-text">Admin Dashboard</span>
-                            </a>
-                        </li>
+
                     @endif
 
                     <li class="@if (Request::is('drops')) active @endif">
@@ -43,14 +78,12 @@
                         </a>
                     </li>
 
-                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
-                        <li class="@if (Request::is('orders/all')) active @endif">
-                            <a class="sidenav-item-link" href="{{ route('orders.all') }}">
-                                <i class="mdi mdi-package-variant-closed"></i>
-                                <span class="nav-text">All Orders</span>
-                            </a>
-                        </li>
-                    @endif
+                    <li class="@if (Request::is('ftid')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('ftid') }}">
+                            <i class="mdi mdi-file-pdf"></i>
+                            <span class="nav-text">FTID</span>
+                        </a>
+                    </li>
 
                     <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">

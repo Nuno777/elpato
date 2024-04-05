@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard Drops')
+@section('title', 'Drops Painel')
 
 @section('content')
 @section('page-title', 'Drops Painel')
@@ -19,7 +19,7 @@
                                 <th style="width: 25%" class="sorting_disabled">Name</th>
                                 <th style="width: 25%" class="sorting_disabled">Address</th>
                                 <th style="width: 10%" class="sorting_disabled">Courier Packages</th>
-                                <th style="width: 10%" class="sorting_disabled">Notes</th>
+                                <th style="width: 15%" class="sorting_disabled">Notes</th>
                                 <th style="width: 10%" class="sorting_disabled">Status</th>
                                 <th style="width: 5%">Type</th>
                                 <th style="width: 5%">Expired At</th>
@@ -49,40 +49,53 @@
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
-                                        <button type="button" data-toggle="modal"
+                                        <button type="button" class="btn btn-primary" data-toggle="modal"
+                                            data-target="#createorder{{ $drop->id_drop }} "><i
+                                                class="mdi mdi-package-variant "></i></button>
+                                        {{-- <button type="button" data-toggle="modal"
                                             data-target="#createorder{{ $drop->id_drop }}">
                                             <i class="mdi mdi-package-variant text-primary"></i>
-                                        </button>
+                                        </button> --}}
                                     </td>
                                     <td>
-                                        @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                                             <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
-                                                <i class="mdi mdi-pencil text-warning"></i>
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+
+                                                </button>
+
                                             </a>
                                         @endif
                                     </td>
                                     <td>
-                                        @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                                             <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete Drop?');">
                                                 @csrf
                                                 @method('DELETE')
-                                                <button type="submit" class="link"
+
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                </button>
+                                                {{--  <button type="submit" class="link"
                                                     style="background-color: transparent; border:none">
                                                     <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
-                                                </button>
+                                                </button> --}}
                                             </form>
                                         @endif
                                     </td>
                                 </tr>
-                                @include('modal.createorders', ['id_drop' => $drop->id_drop,
+                                @include('modal.createorders', [
+                                    'id_drop' => $drop->id_drop,
                                     'courierName' => $drop->name,
                                     'status' => $drop->status,
+                                    'address' => $drop->address,
                                 ])
                             @endforeach
                         </tbody>
                     </table>
-                    @if (auth()->check() && auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                         <div>
                             <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create
                                     Drop</button></a>

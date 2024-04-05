@@ -35,8 +35,10 @@ class OrderController extends Controller
     {
         $request->validate([
             'id_drop' => 'required',
+            'user' => 'required',
             'product' => 'required',
             'name' => 'required',
+            'address' => 'required',
             'quant' => 'required',
             'price' => 'required',
             'tracking' => 'required',
