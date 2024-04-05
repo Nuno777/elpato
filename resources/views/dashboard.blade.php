@@ -3,7 +3,7 @@
 @section('title', 'Dashboard')
 
 @section('content')
-@section('page-title', 'dashboard')
+@section('page-title', 'Dashboard')
 
 <div class="content-wrapper">
     <div class="content">

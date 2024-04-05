@@ -1,19 +1,21 @@
-<!-- Modal Form -->
-<div class="modal fade" id="createftid{{ $id }}" tabindex="-1" role="dialog"
-    aria-labelledby="exampleModalFormLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalForm">Create FTID</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+@extends('layouts.master')
+
+@section('title', 'Create FTID')
+
+@section('content')
+@section('page-title', 'Create FTID')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default">
+            <div class="card-header">
+                <h2>Create FTID</h2>
             </div>
-            <div class="modal-body">
-                <form action="{{ route('ftid.store', $id) }}" method="POST" enctype="multipart/form-data">
+            <div class="card-body">
+                <form action="{{ route('ftid.store') }}" method="POST" enctype="multipart/form-data">
                     {{ csrf_field() }}
 
-                    {{-- <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" readonly required> --}}
+                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" readonly required>
                     <input type="hidden" name="user" value="{{ Auth::user()->name }}" readonly required>
 
                     <div class="row">
@@ -100,11 +102,10 @@
                         </div>
 
                     </div>
-                    <div class="modal-footer">
-                        <button type="submit" class="btn btn-primary">Create</button>
-                    </div>
+                    <button type="submit" class="btn btn-primary">Insert FTID</button>
                 </form>
             </div>
         </div>
     </div>
 </div>
+@endsection

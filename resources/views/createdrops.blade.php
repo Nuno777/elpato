@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard Create Drop')
+@section('title', 'Create Drop')
 
 @section('content')
 @section('page-title', 'Create Drops')
@@ -99,7 +99,6 @@
                             </div>
                         </div>
                     </div>
-                    <span></span>
                     <button type="submit" class="btn btn-primary">Insert Drop</button>
                 </form>
             </div>

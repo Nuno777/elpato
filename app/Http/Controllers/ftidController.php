@@ -13,8 +13,11 @@ class ftidController extends Controller
      */
     public function index()
     {
-        $ftids = Ftid::where('user_id', Auth::user()->id)->get();
-        return view('ftid', compact('ftids'));
+         // Recupere todos os registros ftid do banco de dados
+         $ftids = ftid::all();
+
+         // Retorne a view 'ftid', passando os dados recuperados
+         return view('ftid', compact('ftids'));
     }
 
     /**
@@ -22,7 +25,7 @@ class ftidController extends Controller
      */
     public function create()
     {
-        return view('modal.createftid');
+        return view('createftid');
     }
 
     /**
@@ -39,7 +42,6 @@ class ftidController extends Controller
             'method' => 'required',
             'comments' => 'required',
             'label_creation_date' => 'required',
-            'label_payment_date' => 'required',
         ]);
 
         //dd($request->all());
@@ -48,6 +50,7 @@ class ftidController extends Controller
         $ftid->fill($request->all());
         $ftid->user_id = Auth::user()->id;
         $ftid->save();
+
         return redirect()->route('ftid');
     }
 

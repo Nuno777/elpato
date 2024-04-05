@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('ftid', function (Blueprint $table) {
+        Schema::create('ftids', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('user_id')->nullable();
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('carrier')->notnull();
             $table->string('tracking')->notnull();
             $table->string('store')->notnull();
-            $table->string('label'); // Para armazenar o caminho do arquivo PDF ou PNG
+            $table->string('label')->default(1); // Para armazenar o caminho do arquivo PDF ou PNG
             $table->string('status')->notnull();
             $table->string('method')->notnull();
             $table->string('comments')->nullable();
@@ -34,11 +34,11 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table('ftid', function (Blueprint $table) {
+        Schema::table('ftids', function (Blueprint $table) {
             $table->dropForeign(['user_id']);
             $table->dropColumn('user_id');
         });
 
-        Schema::dropIfExists('ftid');
+        Schema::dropIfExists('ftids');
     }
 };

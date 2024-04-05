@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard Orders')
+@section('title', 'All Orders Painel')
 
 @section('content')
-@section('page-title', 'Orders Painel')
+@section('page-title', 'All Orders Painel')
 
 <div class="content-wrapper">
     <div class="content">

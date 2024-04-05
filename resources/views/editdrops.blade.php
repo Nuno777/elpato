@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard Edit Drop')
+@section('title', 'Edit Drop')
 
 @section('content')
 @section('page-title', 'Edit Drops')
