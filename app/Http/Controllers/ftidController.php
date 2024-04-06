@@ -41,7 +41,7 @@ class ftidController extends Controller
             'method' => 'required',
             'comments' => 'required',
             'label_creation_date' => 'required',
-            'label' => 'required|file|mimes:pdf,png,jpeg|max:2048', // Validando o arquivo
+            'label' => 'required|file|mimes:pdf,png,jpeg|max:2048',
         ]);
 
         // Obtendo o nome original do arquivo enviado
@@ -73,17 +73,28 @@ class ftidController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(string $id)
+    public function edit($id)
     {
-        //
+        $ftid = ftid::findOrFail($id);
+        return view('editftid', compact('ftid'));
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, string $id)
+    public function update(Request $request, $id)
     {
-        //
+        $request->validate([
+            'label_payment_date' => 'required',
+            'status' => 'required',
+        ]);
+
+        $ftid = ftid::findOrFail($id);
+        $ftid->label_payment_date = $request->label_payment_date;
+        $ftid->status = $request->status;
+        $ftid->save();
+
+        return redirect()->route('ftid');
     }
 
     /**
@@ -92,11 +103,7 @@ class ftidController extends Controller
     public function destroy(string $id)
     {
         $ftid = ftid::findOrFail($id);
-
-        // Excluindo o arquivo PDF da pasta de armazenamento
         Storage::delete('public/labels/' . $ftid->label);
-
-        // Excluindo a entrada da tabela
         $ftid->delete();
 
         return redirect()->route('ftid');

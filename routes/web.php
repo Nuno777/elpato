@@ -34,6 +34,9 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
     Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
     //Route::get('/orders/all', [OrderController::class, 'allshow'])->name('orders.all');
+
+    Route::get('/editftid/{id}/edit', [ftidController::class, 'edit'])->name('editftid.edit');
+    Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
 });
 
 

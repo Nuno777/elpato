@@ -19,12 +19,13 @@
                                 <th style="width: 10%">User</th>
                                 <th style="width: 5%" class="sorting_disabled">Carrier</th>
                                 <th style="width: 15%" class="sorting_disabled">Tracking</th>
+                                <th style="width: 10%">Label</th>
                                 <th style="width: 10%" class="sorting_disabled">Store</th>
                                 <th style="width: 10%" class="sorting_disabled">Status</th>
                                 <th style="width: 10%" class="sorting_disabled">Method</th>
                                 <th style="width: 5%">Label Creation</th>
                                 <th style="width: 5%">Label Payment</th>
-                                <th style="width: 5%">Label</th>
+                                <th></th>
                                 <th></th>
                             </tr>
                         </thead>
@@ -41,18 +42,28 @@
                                         <td>{{ $ftid->user }}</td>
                                         <td>{{ $ftid->carrier }}</td>
                                         <td>{{ $ftid->tracking }}</td>
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
+                                                target="_blank">Abrir PDF</a></td>
                                         <td>{{ $ftid->store }}</td>
                                         <td>{{ $ftid->status }}</td>
                                         <td>{{ $ftid->method }}</td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td>{{ $ftid->label_payment_date }}</td>
-                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
-                                                target="_blank">Abrir PDF</a></td>
 
                                         <td>
                                             @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                                <a href="{{ route('editftid.edit', $ftid->id) }}" style="width: 100%">
+                                                    <button type="submit" class="btn btn-warning">
+                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                    </button>
+                                                </a>
+                                            @endif
+                                        </td>
+                                        <td>
+                                            @if (auth()->check())
                                                 <form role="form" action="{{ route('ftid.destroy', $ftid->id) }}"
-                                                    method="POST" onsubmit="return confirm('Tem certeza que deseja excluir este FTID?');">
+                                                    method="POST"
+                                                    onsubmit="return confirm('Are you sure you want to delete this FTID?');">
                                                     @csrf
                                                     @method('DELETE')
 

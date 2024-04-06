@@ -58,9 +58,7 @@
                                             <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
                                                 <button type="submit" class="btn btn-warning">
                                                     <i class="mdi mdi-square-edit-outline text-white"></i>
-
                                                 </button>
-
                                             </a>
                                         @endif
                                     </td>
