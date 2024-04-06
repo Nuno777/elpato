@@ -24,6 +24,7 @@
                                 <th style="width: 10%" class="sorting_disabled">Method</th>
                                 <th style="width: 5%">Label Creation</th>
                                 <th style="width: 5%">Label Payment</th>
+                                <th style="width: 5%">Label</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -44,6 +45,7 @@
                                         <td>{{ $ftid->method }}</td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td>{{ $ftid->label_payment_date }}</td>
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}">Abrir PDF</a></td>
                                     </tr>
                                 @endif
                             @endforeach

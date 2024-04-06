@@ -106,9 +106,9 @@
                             <div class="row">
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <label for="label">Label</label>
-                                        <input type="file" name="label" placeholder="Label" class="form-control"
-                                            required>
+                                        <label for="label">Label (PDF, PNG, JPEG)</label>
+                                        <input type="file" name="label" accept=".pdf,.png,.jpg,.jpeg"
+                                            class="form-control">
                                     </div>
                                 </div>
                             </div>

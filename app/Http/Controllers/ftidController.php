@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\ftid;
@@ -39,16 +41,21 @@ class ftidController extends Controller
             'method' => 'required',
             'comments' => 'required',
             'label_creation_date' => 'required',
-            'label' => 'required|file|mimes:pdf,png|max:2048', // Validar o upload do arquivo
+            'label' => 'required|file|mimes:pdf,png,jpeg|max:2048', // Validando o arquivo
         ]);
 
-        $file = $request->file('label');
-        $fileName = time() . '_' . $file->getClientOriginalName();
-        $filePath = $request->file('label')->storeAs('labels', $fileName, 'public'); // Armazenar o arquivo no armazenamento público do Laravel
+        // Obtendo o nome original do arquivo enviado
+        $originalName = $request->file('label')->getClientOriginalName();
+
+        // Gerando um nome único para o arquivo usando um timestamp e o nome original
+        $uniqueFileName = time() . '_' . Str::random(10) . '_' . $originalName;
+
+        // Armazenando o arquivo na pasta 'labels' dentro do armazenamento público
+        $labelPath = $request->file('label')->storeAs('labels', $uniqueFileName, 'public');
 
         $ftid = new ftid();
-        $ftid->fill($request->except('label'));
-        $ftid->label = $fileName; // Salvar apenas o nome do arquivo no banco de dados
+        $ftid->fill($request->except('label')); // Excluindo o campo 'label' para evitar duplicação
+        $ftid->label = $uniqueFileName; // Salvando o nome único do arquivo na base de dados
         $ftid->user_id = Auth::user()->id;
         $ftid->save();
 
