@@ -74,10 +74,6 @@
                                                 <button type="submit" class="btn btn-danger">
                                                     <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                                 </button>
-                                                {{--  <button type="submit" class="link"
-                                                    style="background-color: transparent; border:none">
-                                                    <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
-                                                </button> --}}
                                             </form>
                                         @endif
                                     </td>

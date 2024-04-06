@@ -34,6 +34,24 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+/* my css */
+.drag-text {
+    text-align: center;
+    display: block;
+    padding: rem;
+    border: 2px dashed #ccc;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-file-label::after {
+    content: none;
+}
+
+/* end my css */
+
 *,
 *::before,
 *::after {

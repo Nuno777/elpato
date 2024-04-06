@@ -25,6 +25,7 @@
                                 <th style="width: 5%">Label Creation</th>
                                 <th style="width: 5%">Label Payment</th>
                                 <th style="width: 5%">Label</th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
@@ -45,7 +46,22 @@
                                         <td>{{ $ftid->method }}</td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td>{{ $ftid->label_payment_date }}</td>
-                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}">Abrir PDF</a></td>
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
+                                                target="_blank">Abrir PDF</a></td>
+
+                                        <td>
+                                            @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                                <form role="form" action="{{ route('ftid.destroy', $ftid->id) }}"
+                                                    method="POST" onsubmit="return confirm('Tem certeza que deseja excluir este FTID?');">
+                                                    @csrf
+                                                    @method('DELETE')
+
+                                                    <button type="submit" class="btn btn-danger">
+                                                        <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                    </button>
+                                                </form>
+                                            @endif
+                                        </td>
                                     </tr>
                                 @endif
                             @endforeach
@@ -53,7 +69,8 @@
                     </table>
                     @if (auth()->check())
                         <div>
-                            <a href="{{ route('createftid') }}"><button class="btn btn-primary">Create FTID</button></a>
+                            <a href="{{ route('createftid') }}"><button class="btn btn-primary">Create
+                                    FTID</button></a>
                         </div>
                     @endif
                 </div>

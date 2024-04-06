@@ -91,6 +91,14 @@ class ftidController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        $ftid = ftid::findOrFail($id);
+
+        // Excluindo o arquivo PDF da pasta de armazenamento
+        Storage::delete('public/labels/' . $ftid->label);
+
+        // Excluindo a entrada da tabela
+        $ftid->delete();
+
+        return redirect()->route('ftid');
     }
 }

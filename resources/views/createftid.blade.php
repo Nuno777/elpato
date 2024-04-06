@@ -104,11 +104,18 @@
 
                         <div class="col-sm-12">
                             <div class="row">
-                                <div class="col-6">
+                                <div class="col-12">
                                     <div class="form-group">
                                         <label for="label">Label (PDF, PNG, JPEG)</label>
-                                        <input type="file" name="label" accept=".pdf,.png,.jpg,.jpeg"
-                                            class="form-control">
+                                        <div class="custom-file" style="margin-bottom: 20px;">
+                                            <input type="file" class="custom-file-input" id="label"
+                                                name="label" accept=".pdf,.png,.jpg,.jpeg" required>
+                                            <label class="custom-file-label" for="label">
+                                                <div class="drag-text">
+                                                    Ou arraste e solte o arquivo aqui <br> (ou clique para escolher)
+                                                </div>
+                                            </label>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
