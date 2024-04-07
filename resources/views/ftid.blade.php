@@ -47,7 +47,7 @@
                                         <td>{{ $ftid->tracking }}</td>
                                         <td>{{ $ftid->store }}</td>
                                         <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
-                                                target="_blank">Abrir PDF</a></td>
+                                                target="_blank">Open Label</a></td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td><b>{{ $ftid->status }}</b></td>
                                         <td>{{ $ftid->method }}</td>

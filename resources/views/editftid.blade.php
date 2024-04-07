@@ -147,19 +147,7 @@
         </div>
     </div>
 </div>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('label_payment_date').addEventListener('change', function() {
-            var labelPaymentDate = this.value;
-            var statusElement = document.getElementById('status');
-
-            // Verifica se a data do pagamento foi preenchida
-            if (labelPaymentDate) {
-                // Atualiza o valor do campo de status para 'FTID Paid'
-                statusElement.value = 'FTID Paid';
-            }
-        });
-    });
-</script>
 @endsection
+@push('scripts')
+<script src="{{ asset('js/colortableftid.js') }}"></script>
+@endpush

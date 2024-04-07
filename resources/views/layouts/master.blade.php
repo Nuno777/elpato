@@ -29,8 +29,6 @@
 
 
 <body class="navbar-fixed sidebar-fixed" id="body">
-
-
     <div class="wrapper">
 
         @include('layouts.navbar')
@@ -38,11 +36,9 @@
         @yield('content')
 
         @include('layouts.footer')
-
+        @stack('scripts')
     </div>
     </div>
-
-
 
 </body>
 

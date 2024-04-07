@@ -70,7 +70,6 @@
                                     <div class="form-group">
                                         <label for="status">Status</label>
                                         <select name="status" id="status" class="form-control" required>
-                                            <option selected disabled>Choose Status</option>
                                             <option value="Ready" style="background-color: #82FB6A; color: black;"
                                                 {{ $drop->status == 'Ready' ? 'selected' : '' }}>Ready</option>
                                             <option value="Problem" style="background-color: #FF7059; color: white;"
@@ -112,3 +111,6 @@
 </div>
 
 @endsection
+@push('scripts')
+<script src="{{ asset('js/colortabledrops.js') }}"></script>
+@endpush
