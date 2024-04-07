@@ -19,11 +19,14 @@
                                 <th style="width: 10%">User</th>
                                 <th style="width: 5%" class="sorting_disabled">Carrier</th>
                                 <th style="width: 15%" class="sorting_disabled">Tracking</th>
-                                <th style="width: 10%">Label</th>
                                 <th style="width: 10%" class="sorting_disabled">Store</th>
+                                <th style="width: 10%">Label</th>
+                                <th style="width: 5%">Label Creation</th>
+
+
                                 <th style="width: 10%" class="sorting_disabled">Status</th>
                                 <th style="width: 10%" class="sorting_disabled">Method</th>
-                                <th style="width: 5%">Label Creation</th>
+
                                 <th style="width: 5%">Label Payment</th>
                                 <th></th>
                                 <th></th>
@@ -42,12 +45,13 @@
                                         <td>{{ $ftid->user }}</td>
                                         <td>{{ $ftid->carrier }}</td>
                                         <td>{{ $ftid->tracking }}</td>
+                                        <td>{{ $ftid->store }}</td>
                                         <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
                                                 target="_blank">Abrir PDF</a></td>
-                                        <td>{{ $ftid->store }}</td>
-                                        <td>{{ $ftid->status }}</td>
-                                        <td>{{ $ftid->method }}</td>
                                         <td>{{ $ftid->label_creation_date }}</td>
+                                        <td><b>{{ $ftid->status }}</b></td>
+                                        <td>{{ $ftid->method }}</td>
+
                                         <td>{{ $ftid->label_payment_date }}</td>
 
                                         <td>

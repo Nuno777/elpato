@@ -12,11 +12,33 @@
                 <h2>Edit FTID</h2>
             </div>
             <div class="card-body">
-                <form action="{{ route('ftid.store', $ftid->id) }}" method="POST" enctype="multipart/form-data">
+                <form action="{{ route('ftid.update', $ftid->id) }}" method="POST" enctype="multipart/form-data">
                     {{ csrf_field() }}
+                    @method('PUT')
 
-                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" readonly required>
-                    <input type="hidden" name="user" value="{{ Auth::user()->name }}" readonly required>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label for="id">ID FTID</label>
+                                        <input type="text" name="id" class="form-control"
+                                            value="{{ old('id') ?? $ftid->id }}" placeholder="ID FTID" readonly
+                                            required>
+                                    </div>
+                                </div>
+
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="name">User</label>
+                                        <input type="text" name="name" class="form-control"
+                                            value="{{ Auth::user()->name }}" placeholder="ID FTID" readonly required>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="row">
 
@@ -85,14 +107,11 @@
                                     <div class="form-group">
                                         <label for="label_payment_date">Label Payment Date</label>
                                         <input type="date" name="label_payment_date" class="form-control"
-                                            value="{{ old('label_payment_date') ?? $ftid->label_payment_date }}"
-                                            required>
+                                            value="{{ $ftid->label_payment_date }}" required>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
 
                         <div class="col-sm-6">
                             <div class="row">
@@ -111,7 +130,8 @@
                                                 style="background-color: #cf9bcc; color: black;"
                                                 {{ $ftid->status == 'FTID Dropped' ? 'selected' : '' }}>FTID Dropped
                                             </option>
-                                            <option value="FTID Error" style="background-color: #ff9e8e; color: black;"
+                                            <option value="FTID Error"
+                                                style="background-color: #ff9e8e; color: black;"
                                                 {{ $ftid->status == 'FTID Error' ? 'selected' : '' }}>FTID Error
                                             </option>
                                         </select>
@@ -127,4 +147,19 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('label_payment_date').addEventListener('change', function() {
+            var labelPaymentDate = this.value;
+            var statusElement = document.getElementById('status');
+
+            // Verifica se a data do pagamento foi preenchida
+            if (labelPaymentDate) {
+                // Atualiza o valor do campo de status para 'FTID Paid'
+                statusElement.value = 'FTID Paid';
+            }
+        });
+    });
+</script>
 @endsection
