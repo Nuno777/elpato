@@ -13,24 +13,23 @@
 
                 <ul class="nav sidebar-inner" id="sidebar-menu">
 
-                    {{-- <li class="@if (Request::is('dashboard')) active @endif">
+                    <li class="@if (Request::is('dashboard')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('dashboard') }}">
                             <i class="mdi mdi-monitor"></i>
                             <span class="nav-text">Dashboard</span>
                         </a>
-                    </li> --}}
+                    </li>
 
+                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                        <li class="has-sub @if (Request::is('adminpainel')) active @endif">
+                            <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel"
+                                aria-expanded="false" aria-controls="adminpainel">
+                                <i class="mdi mdi-monitor-dashboard"></i>
+                                <span class="nav-text">Dashboard</span>
+                                <b class="caret"></b>
+                            </a>
 
-                    <li class="has-sub @if (Request::is('dashboard')) active @endif">
-                        <a class="sidenav-item-link" href="{{ route('dashboard') }}" data-toggle="collapse"
-                            data-target="#adminboard" aria-expanded="false" aria-controls="adminboard">
-                            {{-- <i class="mdi mdi-monitor-dashboard"></i> --}}
-                            <i class="mdi mdi-monitor"></i>
-                            <span class="nav-text">Dashboard</span>
-                            {{-- <b class="caret"></b> --}}
-                        </a>
-                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
-                            <ul class="collapse" id="adminboard" data-parent="#sidebar-menu">
+                            <ul class="collapse" id="adminpainel" data-parent="#sidebar-menu">
                                 <div class="sub-menu">
                                     <li>
                                         <a class="sidenav-item-link" href="">
@@ -59,7 +58,7 @@
                                     </li>
                                 </div>
                             </ul>
-                    </li>
+                        </li>
 
 
                     @endif
