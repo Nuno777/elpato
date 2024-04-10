@@ -16,20 +16,14 @@
                     <thead>
                         <tr>
                             <th>Drop</th>
+                            <th>User</th>
                             <th>Product</th>
-                            <th>Name</th>
+                            <th>Courier</th>
+                            <th>Address</th>
+                            <th>Tracking</th>
+                            <th>Code</th>
                             <th>Quantity</th>
                             <th>Price</th>
-                            <th>Courier</th>
-                            <th>Tracking</th>
-                            <th>Holder</th>
-                            <th>Comments</th>
-                            <th>Option</th>
-                            <th>Delivery Date</th>
-                            <th>Shop</th>
-                            <th>Need Pickup</th>
-                            <th>Signature</th>
-                            <th style="width: 10%" class="sorting_disabled">Status</th>
                             <th></th>
                             <th></th>
                         </tr>
@@ -39,48 +33,54 @@
                             @if (auth()->user()->id == $order->user_id || auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
                                 <tr
                                     style="background-color:
-                                        @if ($order->status == 'Ready') #85f36e;
-                                        @elseif ($order->status == 'Suspense') #838383;
-                                        @elseif ($order->status == 'Dont send') #fff085;
-                                        @elseif ($order->status == 'Problem') #ff9e8e; @endif
-                                        color:
-                                        @if ($order->status == 'Suspense') white; @else black; @endif">
-                                    <td>{{ $order->id_drop }}</td>
-                                    <td>{{ $order->product }}</td>
-                                    <td>{{ $order->name }}</td>
-                                    <td>{{ $order->quant }}</td>
-                                    <td>{{ $order->price }}</td>
-                                    <td>{{ $order->tracking }}</td>
-                                    <td>{{ $order->code }}</td>
-                                    <td>{{ $order->holder }}</td>
-                                    <td>{{ $order->comments }}</td>
-                                    <td>{{ $order->option }}</td>
-                                    <td>{{ $order->delivery }}</td>
-                                    <td>{{ $order->shop }}</td>
-                                    <td>{{ $order->pickup ? 'Yes' : 'No' }}</td>
-                                    <td>{{ $order->signature ? 'Yes' : 'No' }}</td>
-                                    <td>{{ $order->status }}</td>
-                                    <td>
-                                        <a href="" style="width: 100%">
-                                            <i class="mdi mdi-message-text-outline"></i>
-                                        </a>
-                                    </td>
-                                    <td>
-                                        @if (auth()->check())
+                                    @if ($order->status == 'Ready') #85f36e;
+                                    @elseif ($order->status == 'Suspense') #838383;
+                                    @elseif ($order->status == 'Dont send') #fff085;
+                                    @elseif ($order->status == 'Problem') #ff9e8e; @endif
+                                    color:
+                                    @if ($order->status == 'Suspense') white; @else black; @endif">
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
+                                    <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
+                                    <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
+                                    <td style="width: 30%" class="sorting_disabled">{{ $order->address }}</td>
+                                    <td class="sorting_disabled">{{ $order->tracking }}</td>
+                                    <td class="sorting_disabled">{{ $order->code }}</td>
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->quant }}</td>
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->price }} </td>
+
+                                    @if (auth()->check())
+                                        <td style="width: 5%" class="sorting_disabled">
+                                            <button class="btn btn-primary" type="button" data-toggle="modal"
+                                                data-target="#showorder{{ $order->id }}"> <i
+                                                    class="mdi mdi-message-text-outline"></i>
+                                            </button>
+
+                                        </td>
+                                        <td style="width: 5%" class="sorting_disabled">
                                             <form role="form" action="{{ route('orders.destroy', $order->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete order?');">
                                                 @csrf
                                                 @method('DELETE')
-                                                <button type="submit" class="link"
-                                                    style="background-color: transparent; border:none">
-                                                    <i class="mdi mdi-trash-can text-danger" data-toggle="tooltip"></i>
+
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                                 </button>
                                             </form>
-                                        @endif
+                                    @endif
                                     </td>
                                 </tr>
+
+                                @include('modal.showorders', [
+                                    'order' => $order,
+                                    'id_drop' => $order->id,
+                                    'courierName' => $order->name,
+                                    'status' => $order->status,
+                                    'address' => $order->address,
+                                ])
                             @endif
                         @endforeach
+
                     </tbody>
                 </table>
 

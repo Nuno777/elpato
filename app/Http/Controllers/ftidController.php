@@ -70,6 +70,12 @@ class ftidController extends Controller
         //
     }
 
+    public function allshow()
+    {
+        $ftids = ftid::orderBy('id')->get();
+        return view('allftid', compact('ftids'));
+    }
+
     /**
      * Show the form for editing the specified resource.
      */

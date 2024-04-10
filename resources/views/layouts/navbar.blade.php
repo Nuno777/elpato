@@ -46,13 +46,13 @@
                                             <span class="nav-text">All Users</span>
                                         </a>
                                     </li>
-                                    <li class="@if (Request::is('orders/all')) active @endif">
-                                        <a class="sidenav-item-link" href="{{ '' }}">
+                                    <li class="@if (Request::is('allorders')) active @endif">
+                                        <a class="sidenav-item-link" href="{{ route('orders.all') }}">
                                             <span class="nav-text">All Orders</span>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a class="sidenav-item-link" href="">
+                                    <li class="@if (Request::is('allftid')) active @endif">
+                                        <a class="sidenav-item-link" href="{{ route('ftid.all') }}">
                                             <span class="nav-text">All FTIDs</span>
                                         </a>
                                     </li>

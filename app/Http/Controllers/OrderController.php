@@ -71,11 +71,11 @@ class OrderController extends Controller
         return view('modal.showorders', compact('order'));
     }
 
-    /* public function allshow()
+    public function allshow()
     {
         $orders = Order::orderBy('id')->get();
         return view('allorders', compact('orders'));
-    } */
+    }
 
     /**
      * Show the form for editing the specified resource.
