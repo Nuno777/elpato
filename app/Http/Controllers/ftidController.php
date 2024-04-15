@@ -15,7 +15,7 @@ class ftidController extends Controller
      */
     public function index()
     {
-        $ftids = ftid::orderBy('id')->get();
+        $ftids = ftid::orderByDesc('id')->get();
         return view('ftid', compact('ftids'));
     }
 
@@ -72,7 +72,7 @@ class ftidController extends Controller
 
     public function allshow()
     {
-        $ftids = ftid::orderBy('id')->get();
+        $ftids = ftid::orderByDesc('id')->get();
         return view('allftid', compact('ftids'));
     }
 

@@ -7,6 +7,11 @@
 
 <div class="content-wrapper">
     <div class="content">
+        @if (session()->get('success'))
+            <div class="alert alert-success" id="toaster-success">
+                {{ session()->get('success') }}
+            </div>
+        @endif
         <div class="card card-default">
             <div class="card-body">
                 <div class="collapse" id="collapse-data-tables">

@@ -15,8 +15,8 @@ class OrderController extends Controller
      */
     public function index()
     {
-        $orders = Order::orderBy('id')->get();
-        $drops = Drop::orderBy('id')->get();
+        $orders = Order::orderByDesc('id')->get();
+        $drops = Drop::orderByDesc('id')->get();
         return view('orders', compact('orders', 'drops'));
     }
 
@@ -73,7 +73,7 @@ class OrderController extends Controller
 
     public function allshow()
     {
-        $orders = Order::orderBy('id')->get();
+        $orders = Order::orderByDesc('id')->get();
         return view('allorders', compact('orders'));
     }
 

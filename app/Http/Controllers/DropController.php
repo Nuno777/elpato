@@ -12,7 +12,7 @@ class DropController extends Controller
      */
     public function index()
     {
-        $drops = Drop::orderBy('id_drop')->get();
+        $drops = Drop::orderByDesc('id_drop')->get();
         return view('drops', compact('drops'));
     }
 
@@ -44,7 +44,7 @@ class DropController extends Controller
         $drop = new Drop();
         $drop->fill($fields);
         $drop->save();
-        return redirect()->route('drops');
+        return redirect()->route('drops')->with('success', 'Drop inserted successfully!');
     }
 
     /**

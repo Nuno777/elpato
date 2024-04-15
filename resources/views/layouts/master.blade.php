@@ -33,6 +33,15 @@
 
         @include('layouts.navbar')
 
+        @if (Session::has('message'))
+            <div class="alert alert-success" id="toaster-success" role="alert">
+                <strong>{{ Session::get('message') }}</strong>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color:#4f5962;">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        @endif
+
         @yield('content')
 
         @include('layouts.footer')
