@@ -9,6 +9,43 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
+                {{-- filtro de pesquisa --}}
+                <div class="row mb-3">
+                    <div class="col-md-3">
+                        <form action="{{ route('ftid.filter') }}" method="GET" id="filterForm">
+                            <div class="form-group">
+
+                                <div class="input-group">
+                                    <select class="form-control" name="userName" id="userName">
+                                        <option value="">All Users</option>
+                                        @foreach ($users as $user)
+                                            <option value="{{ $user->name }}">{{ $user->name }}</option>
+                                        @endforeach
+                                    </select>
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-primary" id="filterButton"
+                                            disabled>Filter</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <script>
+                    document.addEventListener("DOMContentLoaded", function() {
+                        var select = document.getElementById("userName");
+                        var button = document.getElementById("filterButton");
+
+                        select.addEventListener("change", function() {
+                            if (this.value !== "") {
+                                button.removeAttribute("disabled");
+                            } else {
+                                button.setAttribute("disabled", "disabled");
+                            }
+                        });
+                    });
+                </script>
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <div class="table-responsive">
@@ -82,12 +119,8 @@
                             @endforeach
                         </tbody>
                     </table>
-                    @if (auth()->check())
-                        <div>
-                            <a href="{{ route('createftid') }}"><button class="btn btn-primary">Create
-                                    FTID</button></a>
-                        </div>
-                    @endif
+                    <br>
+                    <a href="{{ route('ftid.all') }}" class="btn btn-secondary">Back</a>
                 </div>
             </div>
         </div>

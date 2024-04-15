@@ -9,8 +9,44 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
-                <div class="collapse" id="collapse-data-tables">
+                {{-- filtro de pesquisa --}}
+                <div class="row mb-3">
+                    <div class="col-md-3">
+                        <form action="{{ route('orders.filter') }}" method="GET" id="filterForm">
+                            <div class="form-group">
 
+                                <div class="input-group">
+                                    <select class="form-control" name="userName" id="userName">
+                                        <option value="">All Users</option>
+                                        @foreach ($users as $user)
+                                            <option value="{{ $user->name }}">{{ $user->name }}</option>
+                                        @endforeach
+                                    </select>
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-primary" id="filterButton"
+                                            disabled>Filter</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <script>
+                    document.addEventListener("DOMContentLoaded", function() {
+                        var select = document.getElementById("userName");
+                        var button = document.getElementById("filterButton");
+
+                        select.addEventListener("change", function() {
+                            if (this.value !== "") {
+                                button.removeAttribute("disabled");
+                            } else {
+                                button.setAttribute("disabled", "disabled");
+                            }
+                        });
+                    });
+                </script>
+                <div class="collapse" id="collapse-data-tables">
                 </div>
                 <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
@@ -30,7 +66,7 @@
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id || auth()->user()->admin == "A_HaQD1SkWsGN0tYW8DOZLuTm61")
+                            @if (auth()->user()->id == $order->user_id || auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                                 <tr
                                     style="background-color:
                                     @if ($order->status == 'Ready') #85f36e;
@@ -67,8 +103,8 @@
                                                     <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                                 </button>
                                             </form>
+                                        </td>
                                     @endif
-                                    </td>
                                 </tr>
 
                                 @include('modal.showorders', [
@@ -82,12 +118,13 @@
                         @endforeach
 
                     </tbody>
-                </table>
 
+                </table>
             </div>
         </div>
     </div>
 
 </div>
+
 
 @endsection

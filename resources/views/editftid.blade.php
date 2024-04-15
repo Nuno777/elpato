@@ -32,7 +32,7 @@
                                     <div class="form-group">
                                         <label for="name">User</label>
                                         <input type="text" name="name" class="form-control"
-                                            value="{{ Auth::user()->name }}" placeholder="ID FTID" readonly required>
+                                            value="{{old('name') ?? $ftid->user }}" placeholder="ID FTID" readonly required>
                                     </div>
                                 </div>
 

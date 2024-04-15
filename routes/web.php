@@ -34,10 +34,12 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
     Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
     Route::get('/allorders', [OrderController::class, 'allshow'])->name('orders.all');
+    Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
 
     Route::get('/ftid/{id}/edit', [ftidController::class, 'edit'])->name('editftid.edit');
     Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
     Route::get('/allftid', [ftidController::class, 'allshow'])->name('ftid.all');
+    Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
 });
 
 

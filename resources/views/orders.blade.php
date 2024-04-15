@@ -10,7 +10,6 @@
         <div class="card card-default">
             <div class="card-body">
                 <div class="collapse" id="collapse-data-tables">
-
                 </div>
                 <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
@@ -68,8 +67,8 @@
                                                     <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                                 </button>
                                             </form>
+                                        </td>
                                     @endif
-                                    </td>
                                 </tr>
 
                                 @include('modal.showorders', [

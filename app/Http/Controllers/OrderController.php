@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\Order;
 use App\Models\Drop;
+use App\Models\User;
 
 
 class OrderController extends Controller
@@ -56,11 +57,15 @@ class OrderController extends Controller
         $fields['pickup'] = $request->has('pickup') ? 1 : 0;
         $fields['signature'] = $request->has('signature') ? 1 : 0;
 
-        $order = new Order();
-        $order->fill($request->all());
-        $order->user_id = Auth::user()->id;
-        $order->save();
-        return redirect()->route('orders');
+        try {
+            $order = new Order();
+            $order->fill($request->all());
+            $order->user_id = Auth::user()->id;
+            $order->save();
+            return redirect()->route('orders')->with('success', 'The order was entered successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while entering the Order. Please try again.');
+        }
     }
 
     /**
@@ -74,8 +79,29 @@ class OrderController extends Controller
     public function allshow()
     {
         $orders = Order::orderByDesc('id')->get();
-        return view('allorders', compact('orders'));
+        $users = User::all();
+        return view('allorders', compact('orders', 'users'));
     }
+
+
+    // filtro de pesquisa por user
+    public function filterOrders(Request $request)
+    {
+        $userName = $request->input('userName'); // Corrigir o nome do campo
+
+        $users = User::all(); // Buscar todos os usuários
+
+        if ($userName) {
+            $orders = Order::whereHas('user', function ($query) use ($userName) {
+                $query->where('name', $userName);
+            })->get();
+        } else {
+            $orders = Order::all();
+        }
+
+        return view('allorders', compact('orders', 'users'));
+    }
+
 
     /**
      * Show the form for editing the specified resource.
@@ -98,8 +124,12 @@ class OrderController extends Controller
      */
     public function destroy(Order $order)
     {
-        $order->delete();
-        return redirect()->route('orders');
+        try {
+            $order->delete();
+            return redirect()->route('orders')->with('success', 'Order deleted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the Order. Please try again.');
+        }
     }
 
     public function __construct()

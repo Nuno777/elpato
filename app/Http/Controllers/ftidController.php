@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\ftid;
+use App\Models\User;
 
 class ftidController extends Controller
 {
@@ -52,14 +53,16 @@ class ftidController extends Controller
 
         // Armazenando o arquivo na pasta 'labels' dentro do armazenamento público
         $labelPath = $request->file('label')->storeAs('labels', $uniqueFileName, 'public');
-
-        $ftid = new ftid();
-        $ftid->fill($request->except('label')); // Excluindo o campo 'label' para evitar duplicação
-        $ftid->label = $uniqueFileName; // Salvando o nome único do arquivo na base de dados
-        $ftid->user_id = Auth::user()->id;
-        $ftid->save();
-
-        return redirect()->route('ftid');
+        try {
+            $ftid = new ftid();
+            $ftid->fill($request->except('label')); // Excluindo o campo 'label' para evitar duplicação
+            $ftid->label = $uniqueFileName; // Salvando o nome único do arquivo na base de dados
+            $ftid->user_id = Auth::user()->id;
+            $ftid->save();
+            return redirect()->route('ftid')->with('success', 'FTID entered successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while entering the FTID. Please try again.');
+        }
     }
 
     /**
@@ -73,7 +76,25 @@ class ftidController extends Controller
     public function allshow()
     {
         $ftids = ftid::orderByDesc('id')->get();
-        return view('allftid', compact('ftids'));
+        $users = User::all();
+        return view('allftid', compact('ftids', 'users'));
+    }
+
+    public function filterFTID(Request $request)
+    {
+        $userName = $request->input('userName'); // Corrigir o nome do campo
+
+        $users = User::all(); // Buscar todos os usuários
+
+        if ($userName) {
+            $ftids = ftid::whereHas('user', function ($query) use ($userName) {
+                $query->where('name', $userName);
+            })->get();
+        } else {
+            $ftids = ftid::all();
+        }
+
+        return view('allftid', compact('ftids', 'users'));
     }
 
     /**
@@ -95,12 +116,16 @@ class ftidController extends Controller
             'status' => 'required',
         ]);
 
-        $ftid = ftid::findOrFail($id);
-        $ftid->label_payment_date = $request->label_payment_date;
-        $ftid->status = $request->status;
-        $ftid->save();
+        try {
+            $ftid = ftid::findOrFail($id);
+            $ftid->label_payment_date = $request->label_payment_date;
+            $ftid->status = $request->status;
+            $ftid->save();
 
-        return redirect()->route('ftid');
+            return redirect()->route('ftid')->with('success', 'FTID edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the FTID. Please try again.');
+        }
     }
 
     /**
@@ -108,10 +133,14 @@ class ftidController extends Controller
      */
     public function destroy(string $id)
     {
-        $ftid = ftid::findOrFail($id);
-        Storage::delete('public/labels/' . $ftid->label);
-        $ftid->delete();
+        try {
+            $ftid = ftid::findOrFail($id);
+            Storage::delete('public/labels/' . $ftid->label);
+            $ftid->delete();
 
-        return redirect()->route('ftid');
+            return redirect()->route('ftid')->with('success', 'FTID successfully deleted!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the FTID. Please try again.');
+        }
     }
 }

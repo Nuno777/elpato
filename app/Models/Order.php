@@ -17,4 +17,9 @@ class Order extends Model
     {
         return $this->belongsTo(Drop::class, 'id_drop');
     }
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
 }

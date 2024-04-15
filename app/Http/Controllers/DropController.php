@@ -41,10 +41,16 @@ class DropController extends Controller
             'expired' => 'required',
             'personalnotes' => 'required',
         ]);
-        $drop = new Drop();
-        $drop->fill($fields);
-        $drop->save();
-        return redirect()->route('drops')->with('success', 'Drop inserted successfully!');
+
+        try {
+            $drop = new Drop();
+            $drop->fill($fields);
+            $drop->save();
+
+            return redirect()->route('drops')->with('success', 'Drop inserted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while inserting the Drop. Please try again.');
+        }
     }
 
     /**
@@ -83,10 +89,14 @@ class DropController extends Controller
             'personalnotes' => 'required',
         ]);
 
-        $drop->fill($fields);
-        $drop->save();
+        try {
+            $drop->fill($fields);
+            $drop->save();
 
-        return redirect()->route('drops');
+            return redirect()->route('drops')->with('success', 'Drop was edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the Drop. Please try again.');
+        }
     }
 
 
@@ -95,7 +105,11 @@ class DropController extends Controller
      */
     public function destroy(Drop $drop)
     {
-        $drop->delete();
-        return redirect()->route('drops');
+        try {
+            $drop->delete();
+            return redirect()->route('drops')->with('success', 'Drop successfully deleted!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');
+        }
     }
 }
