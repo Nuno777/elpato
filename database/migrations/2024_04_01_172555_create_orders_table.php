@@ -26,6 +26,7 @@ return new class extends Migration
             $table->string('code')->notnull();
             $table->string('holder')->notnull();
             $table->string('comments')->notnull();
+            $table->string('personalnotes')->notnull();
             $table->string('option')->notnull();
             $table->date('delivery')->notnull();
             $table->string('shop')->notnull();

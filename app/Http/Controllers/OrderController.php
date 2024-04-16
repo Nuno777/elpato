@@ -46,6 +46,7 @@ class OrderController extends Controller
             'code' => 'required',
             'holder' => 'required',
             'comments' => 'required',
+            'personalnotes' => 'required',
             'option' => 'required',
             'delivery' => 'required',
             'shop' => 'required',
