@@ -9,6 +9,53 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
+                {{-- filtro de pesquisa --}}
+                <div class="row mb-3">
+                    <div class="col-md-3">
+                        <form action="{{ route('user.filter') }}" method="GET" id="filterForm">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <select class="form-control" name="userRole" id="userRole">
+                                        <option value="">Roles</option>
+                                        @php
+                                            $adminFound = false;
+                                            $workerFound = false;
+                                        @endphp
+                                        @foreach ($users as $user)
+                                            @if ($user->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61' && !$adminFound)
+                                                <option value="Admin">Admin</option>
+                                                @php $adminFound = true; @endphp
+                                            @elseif ($user->admin == '0' && !$workerFound)
+                                                <option value="worker">Worker</option>
+                                                @php $workerFound = true; @endphp
+                                            @endif
+                                        @endforeach
+                                    </select>
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-primary" id="filterButton">Filter</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+
+                    </div>
+                </div>
+
+                <script>
+                    document.addEventListener("DOMContentLoaded", function() {
+                        var select = document.getElementById("userName");
+                        var button = document.getElementById("filterButton");
+
+                        select.addEventListener("change", function() {
+                            if (this.value !== "") {
+                                button.removeAttribute("disabled");
+                            } else {
+                                button.setAttribute("disabled", "disabled");
+                            }
+                        });
+                    });
+                </script>
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <table id="productsTable" class="table table-active table-product" style="width:100%">
@@ -17,6 +64,7 @@
                             <th>#</th>
                             <th>Name</th>
                             <th>Email</th>
+                            <th>Roles</th>
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
@@ -29,6 +77,15 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $user->id }}</td>
                                 <td style="width: 25%" class="sorting_disabled">{{ $user->name }}</td>
                                 <td style="width: 35%" class="sorting_disabled">{{ $user->email }}</td>
+                                <td style="width: 20%" class="sorting_disabled">
+                                    @if ($user->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        Admin
+                                    @elseif ($user->admin == 0)
+                                        Worker
+                                    @else
+                                        {{ $user->admin }}
+                                    @endif
+                                </td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
                                 @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                                     <td style="width: 5%" class="sorting_disabled">
@@ -45,7 +102,7 @@
                                         </button>
 
                                     </td>
-                                    
+
                                     <td style="width: 5%" class="sorting_disabled">
                                         <form role="form" action="{{ route('user.destroy', $user->id) }}"
                                             method="POST" onsubmit="return confirm('Delete User?');">
@@ -62,10 +119,12 @@
                         @endforeach
                     </tbody>
                 </table>
+                <br>
                 @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                     <div>
                         <a href="{{ route('createuser') }}"><button class="btn btn-primary">Create
                                 User</button></a>
+                                <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                     </div>
                 @endif
             </div>

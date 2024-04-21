@@ -66,6 +66,24 @@ class UserController extends Controller
         return view('allusers', compact('users'));
     }
 
+    public function filterUser(Request $request)
+    {
+        $userRole = $request->input('userRole'); // Campo para selecionar o papel do usuário (admin ou worker)
+
+        if ($userRole) {
+            if ($userRole == 'admin') {
+                $users = User::where('admin', 'A_HaQD1SkWsGN0tYW8DOZLuTm61')->get();
+            } elseif ($userRole == 'worker') {
+                $users = User::where('admin', 'default')->get();
+            }
+        } else {
+            $users = User::all();
+        }
+
+        return view('allusers', compact('users'));
+    }
+
+
     /**
      * Show the form for editing the specified resource.
      */

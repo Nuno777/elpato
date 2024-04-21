@@ -47,6 +47,7 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::post('/createuser', [UserController::class, 'store'])->name('createuser.store');
     Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
     Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
+    Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
 });
 
 
