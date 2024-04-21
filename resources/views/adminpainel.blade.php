@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard')
+@section('title', 'Admin Painel')
 
 @section('content')
-@section('page-title', 'Dashboard')
+@section('page-title', 'Admin Painel')
 
 <div class="content-wrapper">
     <div class="content">
@@ -19,9 +19,8 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All Drops: {{ $dropCount }} </p>
+                        <p>All Drops:</p>
                     </div>
-
                 </div>
             </div>
 
@@ -30,8 +29,7 @@
                     <div class="card-header">
                         <h2>Orders</h2>
                         <div class="sub-title">
-                            <a href="{{ route('orders') }}" class="badge badge-pill badge-success"><span
-                                    class="mr-1">Go to the Orders</span></a>
+                            <a href="{{ route('orders') }}" class="badge badge-pill badge-success"><span class="mr-1">Go to the Orders</span></a>
                         </div>
                     </div>
                     <div class="card-body">
@@ -73,91 +71,88 @@
 
         {{-- code skeleton --}}
         @if (Auth::check() && Auth::user()->id == '1')
-            <div class="row">
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/skeleton/skeleton.webp') }}"
-                            style="width: 250px">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-6">
-                    <div class="h-100 mb-4">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/skeleton/eutentei.gif') }}"
-                            style="width: 350px">
-                    </div>
+        <div class="row">
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/skeleton/skeleton.webp') }}" style="width: 250px">
                 </div>
             </div>
-            {{-- code pekka --}}
+
+            <div class="col-lg-6 col-xl-6">
+                <div class="h-100 mb-4">
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/skeleton/eutentei.gif') }}" style="width: 350px">
+                </div>
+            </div>
+        </div>
+        {{-- code pekka --}}
         @elseif (Auth::check() && Auth::user()->id == '2')
-            <div class="row">
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/pekka/minipekka.webp') }}"
-                            style="width: 400px">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-6">
-                    <div class="h-100 mb-4">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/pekka/airfryer.png') }}" style="width: 400px">
-                    </div>
+        <div class="row">
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/pekka/minipekka.webp') }}" style="width: 400px">
                 </div>
             </div>
-            {{-- code et --}}
+
+            <div class="col-lg-6 col-xl-6">
+                <div class="h-100 mb-4">
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/pekka/airfryer.png') }}" style="width: 400px">
+                </div>
+            </div>
+        </div>
+        {{-- code et --}}
         @elseif (Auth::check() && Auth::user()->id == '3')
-            <div class="row">
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/et/et.webp') }}" style="width: 400px">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-6">
-                    <div class="h-100 mb-4">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/et/naopode.jpg') }}" style="width: 400px">
-                    </div>
+        <div class="row">
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/et/et.webp') }}" style="width: 400px">
                 </div>
             </div>
-            {{-- code calvo --}}
+
+            <div class="col-lg-6 col-xl-6">
+                <div class="h-100 mb-4">
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/et/naopode.jpg') }}" style="width: 400px">
+                </div>
+            </div>
+        </div>
+        {{-- code calvo --}}
         @elseif (Auth::check() && Auth::user()->id == '4')
-            <div class="row">
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/calvo/calvo.webp') }}" style="width: 400px">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-6">
-                    <div class="h-100 mb-4">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-xl-3">
-                    <div class="h-100 mb-4">
-                        <img class="card-img-top" src="{{ asset('/images/calvo/pernapau.png') }}" style="width: 400px">
-                    </div>
+        <div class="row">
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/calvo/calvo.webp') }}" style="width: 400px">
                 </div>
             </div>
+
+            <div class="col-lg-6 col-xl-6">
+                <div class="h-100 mb-4">
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xl-3">
+                <div class="h-100 mb-4">
+                    <img class="card-img-top" src="{{ asset('/images/calvo/pernapau.png') }}" style="width: 400px">
+                </div>
+            </div>
+        </div>
         @endif
     </div>
 </div>

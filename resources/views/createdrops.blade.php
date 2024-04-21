@@ -35,7 +35,8 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="notes">Notes</label>
-                                <input type="text" name="notes" class="form-control" placeholder="Notes" value="N/A">
+                                <input type="text" name="notes" class="form-control" placeholder="Notes"
+                                    value="N/A">
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -83,6 +84,14 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="row">
+
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="expired">Expired At</label>
+                                        <input type="date" name="expired" class="form-control" required>
+                                    </div>
+                                </div>
+
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="type">Type</label>
@@ -90,12 +99,7 @@
                                             value="All" readonly>
                                     </div>
                                 </div>
-                                <div class="col-6">
-                                    <div class="form-group">
-                                        <label for="expired">Expired At</label>
-                                        <input type="date" name="expired" class="form-control" required>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>

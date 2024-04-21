@@ -9,6 +9,7 @@ use App\Http\Controllers\DropController;
 use App\Http\Controllers\OrderController;
 use App\Http\Controllers\ftidController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\PageController;
 use App\Models\Order;
 
 Route::get('/', function () {
@@ -19,9 +20,9 @@ Route::get('/', function () {
 
 //Routes lvl 5, Admin
 Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    })->name('dashboard');
+
+    Route::get('/dashboard', [PageController::class, 'index'])->name('dashboard');
+    Route::get('/adminpainel', [PageController::class, 'adminpainel'])->name('adminpainel');
 
     Route::get('/drops', [DropController::class, 'index'])->name('drops');
     Route::get('/createdrops', [DropController::class, 'create'])->name('createdrops');
@@ -45,6 +46,8 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/createuser', [UserController::class, 'index'])->name('createuser');
     Route::get('/createuser', [UserController::class, 'create'])->name('createuser');
     Route::post('/createuser', [UserController::class, 'store'])->name('createuser.store');
+    Route::get('/edituser/{id}/edit', [UserController::class, 'edit'])->name('edituser.edit');
+    Route::put('/user/{id}', [UserController::class, 'update'])->name('user.update');
     Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
     Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
     Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');

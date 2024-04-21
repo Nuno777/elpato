@@ -22,7 +22,7 @@
 
                     @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                         <li class="has-sub @if (Request::is('adminpainel')) active @endif">
-                            <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel"
+                            <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel" href="{{ route('adminpainel') }}"
                                 aria-expanded="false" aria-controls="adminpainel">
                                 <i class="mdi mdi-monitor-dashboard"></i>
                                 <span class="nav-text">Admin Dashboard</span>
@@ -31,14 +31,9 @@
 
                             <ul class="collapse" id="adminpainel" data-parent="#sidebar-menu">
                                 <div class="sub-menu">
-                                    <li>
+                                    <li class="@if (Request::is('createuser')) active @endif">
                                         <a class="sidenav-item-link" href="{{ route('createuser') }}">
                                             <span class="nav-text">Create User</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="sidenav-item-link" href="">
-                                            <span class="nav-text">Change Perms</span>
                                         </a>
                                     </li>
                                     <li class="@if (Request::is('allusers')) active @endif">

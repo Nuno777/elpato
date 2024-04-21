@@ -21,7 +21,6 @@
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
-                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -40,22 +39,15 @@
                                     @endif
                                 </td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
+
                                 @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <a href="" style="width: 100%">
+                                        <a href="{{ route('edituser.edit', $user->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-warning">
                                                 <i class="mdi mdi-square-edit-outline text-white"></i>
                                             </button>
                                         </a>
                                     </td>
-
-                                    <td style="width: 5%" class="sorting_disabled">
-                                        <button class="btn btn-primary" type="button" data-toggle="modal"> <i
-                                                class="mdi mdi-message-text-outline"></i>
-                                        </button>
-
-                                    </td>
-
                                     <td style="width: 5%" class="sorting_disabled">
                                         <form role="form" action="{{ route('user.destroy', $user->id) }}"
                                             method="POST" onsubmit="return confirm('Delete User?');">
@@ -77,7 +69,7 @@
                     <div>
                         <a href="{{ route('createuser') }}"><button class="btn btn-primary">Create
                                 User</button></a>
-                                <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
+                        <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                     </div>
                 @endif
             </div>
