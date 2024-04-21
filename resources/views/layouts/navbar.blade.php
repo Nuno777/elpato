@@ -32,7 +32,7 @@
                             <ul class="collapse" id="adminpainel" data-parent="#sidebar-menu">
                                 <div class="sub-menu">
                                     <li>
-                                        <a class="sidenav-item-link" href="">
+                                        <a class="sidenav-item-link" href="{{ route('createuser') }}">
                                             <span class="nav-text">Create User</span>
                                         </a>
                                     </li>
@@ -41,8 +41,8 @@
                                             <span class="nav-text">Change Perms</span>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a class="sidenav-item-link" href="">
+                                    <li class="@if (Request::is('allusers')) active @endif">
+                                        <a class="sidenav-item-link" href="{{ route('user.all') }}">
                                             <span class="nav-text">All Users</span>
                                         </a>
                                     </li>

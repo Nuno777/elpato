@@ -120,6 +120,8 @@
                     </tbody>
 
                 </table>
+                <br>
+                <a href="{{ route('orders.all') }}" class="btn btn-secondary">Back</a>
             </div>
         </div>
     </div>

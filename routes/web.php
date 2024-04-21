@@ -8,6 +8,7 @@ use App\Http\Middleware\Worker;
 use App\Http\Controllers\DropController;
 use App\Http\Controllers\OrderController;
 use App\Http\Controllers\ftidController;
+use App\Http\Controllers\UserController;
 use App\Models\Order;
 
 Route::get('/', function () {
@@ -40,6 +41,12 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
     Route::get('/allftid', [ftidController::class, 'allshow'])->name('ftid.all');
     Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
+
+    Route::get('/createuser', [UserController::class, 'index'])->name('createuser');
+    Route::get('/createuser', [UserController::class, 'create'])->name('createuser');
+    Route::post('/createuser', [UserController::class, 'store'])->name('createuser.store');
+    Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
+    Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
 });
 
 
