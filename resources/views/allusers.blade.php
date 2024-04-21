@@ -9,53 +9,6 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
-                {{-- filtro de pesquisa --}}
-                <div class="row mb-3">
-                    <div class="col-md-3">
-                        <form action="{{ route('user.filter') }}" method="GET" id="filterForm">
-                            <div class="form-group">
-                                <div class="input-group">
-                                    <select class="form-control" name="userRole" id="userRole">
-                                        <option value="">Roles</option>
-                                        @php
-                                            $adminFound = false;
-                                            $workerFound = false;
-                                        @endphp
-                                        @foreach ($users as $user)
-                                            @if ($user->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61' && !$adminFound)
-                                                <option value="Admin">Admin</option>
-                                                @php $adminFound = true; @endphp
-                                            @elseif ($user->admin == '0' && !$workerFound)
-                                                <option value="worker">Worker</option>
-                                                @php $workerFound = true; @endphp
-                                            @endif
-                                        @endforeach
-                                    </select>
-                                    <div class="input-group-append">
-                                        <button type="submit" class="btn btn-primary" id="filterButton">Filter</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-
-
-                    </div>
-                </div>
-
-                <script>
-                    document.addEventListener("DOMContentLoaded", function() {
-                        var select = document.getElementById("userName");
-                        var button = document.getElementById("filterButton");
-
-                        select.addEventListener("change", function() {
-                            if (this.value !== "") {
-                                button.removeAttribute("disabled");
-                            } else {
-                                button.setAttribute("disabled", "disabled");
-                            }
-                        });
-                    });
-                </script>
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <table id="productsTable" class="table table-active table-product" style="width:100%">

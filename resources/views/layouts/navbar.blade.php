@@ -25,7 +25,7 @@
                             <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel"
                                 aria-expanded="false" aria-controls="adminpainel">
                                 <i class="mdi mdi-monitor-dashboard"></i>
-                                <span class="nav-text">Dashboard</span>
+                                <span class="nav-text">Admin Dashboard</span>
                                 <b class="caret"></b>
                             </a>
 
@@ -127,9 +127,23 @@
                 <ul class="nav navbar-nav">
                     <li class="dropdown user-menu">
                         <button class="dropdown-toggle nav-link" data-toggle="dropdown">
-                            <img src="{{ asset('/images/user/user.png') }}"
-                                class="user-image
-              rounded-circle" alt="User Image" />
+                            @if (Auth::check() && Auth::user()->id == '1')
+                                <img src="{{ asset('/images/user/skeleton.png') }}" class="user-image rounded-circle"
+                                    alt="User Image" />
+                            @elseif (Auth::check() && Auth::user()->id == '2')
+                                <img src="{{ asset('/images/user/pekka.png') }}" class="user-image rounded-circle"
+                                    alt="User Image" />
+                            @elseif (Auth::check() && Auth::user()->id == '3')
+                                <img src="{{ asset('/images/user/et.png') }}" class="user-image rounded-circle"
+                                    alt="User Image" />
+                            @elseif (Auth::check() && Auth::user()->id == '4')
+                                <img src="{{ asset('/images/user/calvo.png') }}" class="user-image rounded-circle"
+                                    alt="User Image" />
+                            @else
+                                <img src="{{ asset('/images/user/user.png') }}" class="user-image rounded-circle"
+                                    alt="User Image" />
+                            @endif
+
                             <span class="d-none d-lg-inline-block">{{ Auth::user()->name }}</span>
                         </button>
                         <ul class="dropdown-menu dropdown-menu-right">
