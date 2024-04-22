@@ -62,7 +62,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="g-recaptcha" data-sitekey="6LcjsMMpAAAAAEWMgTgKngaRRVBk8wsRSCTn75dc"></div>
+                    <div class="g-recaptcha" data-sitekey="6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></div>
                     <br>
                     <button type="submit" class="btn btn-primary">Create User</button>
                 </form>
@@ -70,6 +70,7 @@
         </div>
     </div>
 </div>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>
     // Função para obter a data e hora atual
     function getCurrentDateTime() {

@@ -26,7 +26,7 @@
         </div>
 
         <br>
-        <div class="g-recaptcha" data-sitekey="6LcjsMMpAAAAAEWMgTgKngaRRVBk8wsRSCTn75dc" data-callback="onSubmit"></div>
+        <div class="g-recaptcha" data-sitekey="6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY" data-callback="onSubmit"></div>
         <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
         <!-- Remember Me -->
         <div class="block mt-4">
