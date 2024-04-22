@@ -1,4 +1,6 @@
 
+<title>Login 💸 ELPato</title>
+<link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 <x-guest-layout>
 
     <!-- Session Status -->
