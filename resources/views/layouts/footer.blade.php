@@ -11,7 +11,7 @@
     </script>
 </footer>
 
-<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+<script async src="https://www.google.com/recaptcha/api.js"></script>
 <script src="{{ asset('https://code.jquery.com/jquery-3.6.0.min.js') }}"></script>
 <script src="plugins/jquery/jquery.min.js"></script>
 <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>

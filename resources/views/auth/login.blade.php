@@ -1,4 +1,3 @@
-
 <title>Login 💸 ELPato</title>
 <link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 <x-guest-layout>
@@ -25,8 +24,10 @@
 
             <x-input-error :messages="$errors->get('password')" class="mt-2" />
         </div>
+
         <br>
-        <div class="h-captcha" data-sitekey="eb97a27e-98d5-4e37-9f55-77be3083c2a9"></div>
+        <div class="g-recaptcha" data-sitekey="6LcjsMMpAAAAAEWMgTgKngaRRVBk8wsRSCTn75dc" data-callback="onSubmit"></div>
+        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
         <!-- Remember Me -->
         <div class="block mt-4">
             <label for="remember_me" class="inline-flex items-center">
@@ -45,4 +46,9 @@
 
     </form>
 </x-guest-layout>
-<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+<script async src="https://www.google.com/recaptcha/api.js"></script>
+
+var onloadCallback = function() {
+alert("grecaptcha is ready!");
+};
+</script>
