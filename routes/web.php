@@ -10,18 +10,13 @@ use App\Http\Controllers\OrderController;
 use App\Http\Controllers\ftidController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\PageController;
-use App\Models\Order;
 
-Route::get('/', function () {
-    return view('auth.login');
-});
+Route::get('/', [PageController::class, 'index'])->name('auth.login');
 
-//Route::post('/login', [LoginController::class, 'login'])->name('login');
-
-//Routes lvl 5, Admin
+//Routes lvl Admin
 Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function () {
 
-    Route::get('/dashboard', [PageController::class, 'index'])->name('dashboard');
+    Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
     Route::get('/adminpainel', [PageController::class, 'adminpainel'])->name('adminpainel');
 
     Route::get('/drops', [DropController::class, 'index'])->name('drops');
@@ -54,11 +49,10 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
 });
 
 
-//Routes lvl 0, User
+//Routes lvl worker
 Route::middleware(['auth', 'verified'])->group(function () {
-    Route::get('/dashboard', function () {
-        return view('dashboard');
-    })->name('dashboard');
+
+    Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
 
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
 
@@ -73,13 +67,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/ftid/create', [ftidController::class, 'create'])->name('createftid');
     Route::post('/ftid/create', [ftidController::class, 'store'])->name('ftid.store');
     Route::delete('/ftids/{id}', [ftidController::class, 'destroy'])->name('ftid.destroy');
-});
-
-
-Route::middleware('auth', 'admin')->group(function () {
-
-    //Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    //Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
 require __DIR__ . '/auth.php';

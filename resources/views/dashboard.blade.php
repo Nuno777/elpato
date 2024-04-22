@@ -18,8 +18,9 @@
                                     to the Drops</span></a>
                         </div>
                     </div>
+
                     <div class="card-body">
-                        <p>All Drops: {{ $dropCount }} </p>
+                        <p>All Drops:</p>
                     </div>
 
                 </div>
