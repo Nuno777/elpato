@@ -18,11 +18,13 @@ class PageController extends Controller
     public function dashboard()
     {
         $dropCount = Drop::count();
+
         return view('dashboard', ['dropCount' => $dropCount]);
     }
 
     public function adminpainel()
     {
-        return view('adminpainel');
+        $users = User::all();
+        return view('adminpainel', compact('users'));
     }
 }

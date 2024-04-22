@@ -21,16 +21,26 @@
                     </li>
 
                     @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
-                        <li class="has-sub @if (Request::is('adminpainel')) active @endif">
-                            <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel" href="{{ route('adminpainel') }}"
-                                aria-expanded="false" aria-controls="adminpainel">
+                        <li
+                            class="has-sub @if (Request::is('adminpainel')) active show @elseif (Request::is('createuser')) active show
+                            @elseif (Request::is('allusers')) active show @elseif (Request::is('allorders')) active show @elseif (Request::is('allftid')) active show @endif">
+                            <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpainel"
+                                href="{{ route('adminpainel') }}" aria-expanded="false" aria-controls="adminpainel">
                                 <i class="mdi mdi-monitor-dashboard"></i>
-                                <span class="nav-text">Admin Dashboard</span>
+                                <span class="nav-text">Admin Functions</span>
                                 <b class="caret"></b>
                             </a>
 
-                            <ul class="collapse" id="adminpainel" data-parent="#sidebar-menu">
+                            <ul class="collapse @if (Request::is('adminpainel')) show @elseif (Request::is('createuser')) show
+                            @elseif (Request::is('allusers')) show @elseif (Request::is('allorders')) show @elseif (Request::is('allftid')) show @endif"
+                                id="adminpainel" data-parent="#sidebar-menu">
                                 <div class="sub-menu">
+                                    <li class="@if (Request::is('adminpainel')) active @endif">
+                                        <a class="sidenav-item-link" href="{{ route('adminpainel') }}">
+                                            <span class="nav-text">Admin Painel</span>
+                                        </a>
+                                    </li>
+
                                     <li class="@if (Request::is('createuser')) active @endif">
                                         <a class="sidenav-item-link" href="{{ route('createuser') }}">
                                             <span class="nav-text">Create User</span>
@@ -54,9 +64,8 @@
                                 </div>
                             </ul>
                         </li>
-
-
                     @endif
+
 
                     <li class="@if (Request::is('drops')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('drops') }}">
