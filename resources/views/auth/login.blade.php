@@ -1,3 +1,4 @@
+
 <x-guest-layout>
 
     <!-- Session Status -->
@@ -22,7 +23,8 @@
 
             <x-input-error :messages="$errors->get('password')" class="mt-2" />
         </div>
-
+        <br>
+        <div class="h-captcha" data-sitekey="eb97a27e-98d5-4e37-9f55-77be3083c2a9"></div>
         <!-- Remember Me -->
         <div class="block mt-4">
             <label for="remember_me" class="inline-flex items-center">
@@ -34,9 +36,11 @@
         </div>
 
         <div class="flex items-center justify-end mt-4">
-            <x-primary-button class="ms-3">
+            <x-primary-button class="ms-3 btn-lg">
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
+
     </form>
 </x-guest-layout>
+<script src="https://js.hcaptcha.com/1/api.js" async defer></script>

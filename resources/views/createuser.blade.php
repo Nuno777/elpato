@@ -62,6 +62,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="h-captcha" data-sitekey="eb97a27e-98d5-4e37-9f55-77be3083c2a9"></div>
                     <button type="submit" class="btn btn-primary">Create User</button>
                 </form>
             </div>

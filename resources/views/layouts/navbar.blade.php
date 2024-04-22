@@ -1,7 +1,7 @@
 <aside class="left-sidebar sidebar-dark" id="left-sidebar">
     <div id="sidebar" class="sidebar sidebar-with-footer">
         <div class="app-brand">
-            <a href="{{ 'dashboard' }}">
+            <a href="{{route ('dashboard') }}">
                 <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 100%;">
                 <span class="brand-name" style="width: 100%;">ElPato</span>
             </a>
@@ -88,7 +88,7 @@
                         </a>
                     </li>
 
-                    <li class="@if (Request::is('analytics')) active @endif">
+                   {{--  <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">
                             <i class="mdi mdi-chart-line"></i>
                             <span class="nav-text">Analytics</span>
@@ -100,7 +100,7 @@
                             <i class="mdi mdi-bitcoin"></i>
                             <span class="nav-text">Bitcoin</span>
                         </a>
-                    </li>
+                    </li> --}}
 
                 </ul>
 
