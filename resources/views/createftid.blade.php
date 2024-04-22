@@ -112,7 +112,7 @@
                                                 name="label" accept=".pdf,.png,.jpg,.jpeg" required>
                                             <label class="custom-file-label" for="label">
                                                 <div class="drag-text">
-                                                    Ou arraste e solte o arquivo aqui <br> (ou clique para escolher)
+                                                    Drag and drop the file here (or click to choose)
                                                 </div>
                                             </label>
                                         </div>

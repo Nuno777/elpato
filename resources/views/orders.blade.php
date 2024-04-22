@@ -44,7 +44,35 @@
                                     <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
                                     <td style="width: 30%" class="sorting_disabled">{{ $order->address }}</td>
-                                    <td class="sorting_disabled">{{ $order->tracking }}</td>
+                                    <td class="sorting_disabled">
+                                        @if ($order->tracking == 'Fedex')
+                                            <a href="https://www.fedex.com/en-us/home.html" target="_blank">Fedex</a>
+                                        @elseif ($order->tracking == 'UPS')
+                                            <a href="https://www.ups.com" target="_blank">UPS</a>
+                                        @elseif ($order->tracking == 'USPS')
+                                            <a href="https://tools.usps.com" target="_blank">USPS</a>
+                                        @elseif ($order->tracking == 'Ontrac')
+                                            <a href="https://west.ontrac.com/tracking.asp" target="_blank">Ontrac</a>
+                                        @elseif ($order->tracking == 'Lasership')
+                                            <a href="https://www.ordertracker.com/couriers/lasership"
+                                                target="_blank">Lasership</a>
+                                        @elseif ($order->tracking == 'DHL')
+                                            <a href="https://www.dhl.com/us-en/home/tracking.html?locale=true"
+                                                target="_blank">DHL</a>
+                                        @elseif ($order->tracking == 'Canadapost')
+                                            <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/home"
+                                                target="_blank">Canadapost</a>
+                                        @elseif ($order->tracking == 'Porulator')
+                                            <a href="https://www.purolatormarketing.com/2017/tracker/tracking-details-single.html"
+                                                target="_blank">Porulator</a>
+                                        @elseif ($order->tracking == 'Australian')
+                                            <a href="https://auspost.com.au/mypost/track/search"
+                                                target="_blank">Australian post</a>
+                                        @elseif ($order->tracking == 'Amazon')
+                                            <a href="https://track.amazon.com/" target="_blank">Amazon</a>
+                                        @endif
+                                    </td>
+
                                     <td class="sorting_disabled">{{ $order->code }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->quant }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->price }} </td>
