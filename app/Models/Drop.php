@@ -28,6 +28,8 @@ class Drop extends Model
         parent::boot();
         static::saving(function ($drop) {
             $drop->orders()->update(['status' => $drop->status]);
+
+            $drop->orders()->update(['comments' => $drop->notes]);
         });
     }
 }

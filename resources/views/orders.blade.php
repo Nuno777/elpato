@@ -22,7 +22,7 @@
                             <th style="width: 5%" class="sorting_disabled">Tracking</th>
                             <th style="width: 15%" class="sorting_disabled">Code</th>
                             <th>Status</th>
-                            <th>Comments</th>
+                            <th>Notes</th>
                             <th></th>
                             <th></th>
                         </tr>
@@ -77,7 +77,7 @@
                                                 target="_blank">{{ $order->code }}</a>
                                         @endif
                                     </td>
-                                    <td style="width: 5%" class="sorting_disabled">{{ $order->status }}</td>
+                                    <td style="width: 5%" class="sorting_disabled"><b>{{ $order->status }}</b></td>
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
 
                                     @if (auth()->check())
