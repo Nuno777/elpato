@@ -4,8 +4,10 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Drop;
+use App\Models\Order;
+use App\Models\FTID;
 use App\Models\User;
-
+use Illuminate\Support\Facades\Auth;
 use function Laravel\Prompts\alert;
 
 class PageController extends Controller
@@ -15,16 +17,24 @@ class PageController extends Controller
         return view('auth.login');
     }
 
-    public function dashboard()
+    public function dashboard(Drop $drops)
     {
-        $dropCount = Drop::count();
+        $user = Auth::user();
 
-        return view('dashboard', ['dropCount' => $dropCount]);
+        $orderCount = $user->orders->count();
+        $ftidCount = $user->ftid->count();
+        $dropCount = $drops->count();
+
+        return view('dashboard', ['drops' => $drops, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount]);
     }
 
-    public function adminpainel()
+
+    public function adminpainel(User $users, Order $orders, FTID $ftid)
     {
-        $users = User::all();
-        return view('adminpainel', compact('users'));
+        $ordersCount = $orders->count();
+        $ftidCount = $ftid->count();
+
+        $userCount = $users->count();
+        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount]);
     }
 }

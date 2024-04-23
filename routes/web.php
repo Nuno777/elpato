@@ -33,10 +33,10 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/allorders', [OrderController::class, 'allshow'])->name('orders.all');
     Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
 
-    Route::get('/ftid/{id}/edit', [ftidController::class, 'edit'])->name('editftid.edit');
-    Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
     Route::get('/allftid', [ftidController::class, 'allshow'])->name('ftid.all');
     Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
+    Route::get('/ftid/{id}/editstatus', [ftidController::class, 'statusedit'])->name('editftidstatus.edit');
+    Route::put('/ftidstatus/{id}', [ftidController::class, 'statusupdate'])->name('ftidstatus.update');
 
     Route::get('/createuser', [UserController::class, 'index'])->name('createuser');
     Route::get('/createuser', [UserController::class, 'create'])->name('createuser');
@@ -64,8 +64,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 
     Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
-    Route::get('/ftid/create', [ftidController::class, 'create'])->name('createftid');
-    Route::post('/ftid/create', [ftidController::class, 'store'])->name('ftid.store');
+    Route::get('/createftid', [ftidController::class, 'create'])->name('createftid');
+    Route::post('/createftid', [ftidController::class, 'store'])->name('ftid.store');
+    Route::get('/ftid/{id}/edit', [ftidController::class, 'edit'])->name('editftid.edit');
+    Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
     Route::delete('/ftids/{id}', [ftidController::class, 'destroy'])->name('ftid.destroy');
 });
 

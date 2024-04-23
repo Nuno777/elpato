@@ -1,7 +1,7 @@
 <aside class="left-sidebar sidebar-dark" id="left-sidebar">
     <div id="sidebar" class="sidebar sidebar-with-footer">
         <div class="app-brand">
-            <a href="{{route ('dashboard') }}">
+            <a href="{{ route('dashboard') }}">
                 <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 100%;">
                 <span class="brand-name" style="width: 100%;">ElPato</span>
             </a>
@@ -81,14 +81,14 @@
                         </a>
                     </li>
 
-                    <li class="@if (Request::is('ftid')) active @endif">
+                    <li class="@if (Request::is('ftid')) active @elseif(Request::is('createftid')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('ftid') }}">
                             <i class="mdi mdi-file-pdf"></i>
                             <span class="nav-text">FTID</span>
                         </a>
                     </li>
 
-                   {{--  <li class="@if (Request::is('analytics')) active @endif">
+                    {{--  <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">
                             <i class="mdi mdi-chart-line"></i>
                             <span class="nav-text">Analytics</span>

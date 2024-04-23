@@ -33,7 +33,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All Users:</p>
+                        <p>All Users: {{ $userCount }}</p>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All Orders:</p>
+                        <p>All Orders: {{ $ordersCount }}</p>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All FTIDs:</p>
+                        <p>All FTIDs: {{ $ftidCount }}</p>
                     </div>
                 </div>
             </div>

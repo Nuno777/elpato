@@ -19,10 +19,10 @@
                             <th>Product</th>
                             <th>Courier</th>
                             <th>Address</th>
-                            <th>Tracking</th>
-                            <th>Code</th>
-                            <th>Quantity</th>
-                            <th>Price</th>
+                            <th style="width: 5%" class="sorting_disabled">Tracking</th>
+                            <th style="width: 15%" class="sorting_disabled">Code</th>
+                            <th>Status</th>
+                            <th>Comments</th>
                             <th></th>
                             <th></th>
                         </tr>
@@ -43,7 +43,7 @@
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                     <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
-                                    <td style="width: 30%" class="sorting_disabled">{{ $order->address }}</td>
+                                    <td style="width: 25%" class="sorting_disabled">{{ $order->address }}</td>
                                     <td class="sorting_disabled">{{ $order->tracking }}</td>
                                     <td class="sorting_disabled">
                                         @if ($order->tracking == 'Fedex')
@@ -77,8 +77,8 @@
                                                 target="_blank">{{ $order->code }}</a>
                                         @endif
                                     </td>
-                                    <td style="width: 5%" class="sorting_disabled">{{ $order->quant }}</td>
-                                    <td style="width: 5%" class="sorting_disabled">{{ $order->price }} </td>
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->status }}</td>
+                                    <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
 
                                     @if (auth()->check())
                                         <td style="width: 5%" class="sorting_disabled">

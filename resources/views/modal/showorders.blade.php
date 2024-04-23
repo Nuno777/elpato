@@ -116,8 +116,7 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="comments">Comments</label>
-                                <input type="text" name="comments" class="form-control" placeholder="Comments"
-                                    value="{{ old('comments') ?? $order->comments }}" readonly required>
+                                    <textarea style="resize: none;" type="text" name="comments" class="form-control" placeholder="Comments" cols="43" rows="5" readonly required>{{  $order->comments }}</textarea>
                             </div>
                         </div>
 

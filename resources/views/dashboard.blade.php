@@ -20,7 +20,7 @@
                     </div>
 
                     <div class="card-body">
-                        <p>All Drops:</p>
+                        <p>All Drops: {{ $dropCount }}</p>
                     </div>
 
                 </div>
@@ -36,7 +36,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>Your Orders:</p>
+                        <p>Your Orders: {{ $orderCount }}</p>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>Your FTIDs:</p>
+                        <p>Your FTIDs: {{ $ftidCount }}</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                     <div class="card-header">
                         <h2>Analytics</h2>
                         <div class="sub-title">
-                            <a href="/analytics" class="badge badge-pill badge-success"><span class="mr-1">Go to the
+                            <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
                                     Analytics</span></a>
                         </div>
                     </div>

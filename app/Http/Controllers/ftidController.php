@@ -112,12 +112,54 @@ class ftidController extends Controller
     public function update(Request $request, $id)
     {
         $request->validate([
+            'carrier' => 'required',
+            'tracking' => 'required',
+            'store' => 'required',
+            'method' => 'required',
+            'comments' => 'required',
+        ]);
+
+        try {
+            $ftid = FTID::findOrFail($id);
+            $ftid->carrier = $request->carrier;
+            $ftid->tracking = $request->tracking;
+            $ftid->store = $request->store;
+            $ftid->method = $request->method;
+            $ftid->comments = $request->comments;
+            $ftid->save();
+
+            return redirect()->route('ftid')->with('success', 'FTID edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the FTID. Please try again.');
+        }
+    }
+
+    // lvl perms
+    public function statusedit($id)
+    {
+        $ftid = ftid::findOrFail($id);
+        return view('editftidstatus', compact('ftid'));
+    }
+
+    public function statusupdate(Request $request, $id)
+    {
+        $request->validate([
+            'carrier' => 'required',
+            'tracking' => 'required',
+            'store' => 'required',
+            'method' => 'required',
+            'comments' => 'required',
             'label_payment_date' => 'required',
             'status' => 'required',
         ]);
 
         try {
-            $ftid = ftid::findOrFail($id);
+            $ftid = FTID::findOrFail($id);
+            $ftid->carrier = $request->carrier;
+            $ftid->tracking = $request->tracking;
+            $ftid->store = $request->store;
+            $ftid->method = $request->method;
+            $ftid->comments = $request->comments;
             $ftid->label_payment_date = $request->label_payment_date;
             $ftid->status = $request->status;
             $ftid->save();

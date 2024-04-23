@@ -126,8 +126,9 @@
 
                                         <td>
                                             @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
-                                                <a href="{{ route('editftid.edit', $ftid->id) }}" style="width: 100%">
-                                                    <button type="submit" class="btn btn-warning">
+                                                <a href="{{ route('editftidstatus.edit', $ftid->id) }}"
+                                                    style="width: 100%">
+                                                    <button type="submit" class="btn btn-dark">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>
                                                     </button>
                                                 </a>

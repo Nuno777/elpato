@@ -91,10 +91,13 @@
                                     </div>
                                 </div>
 
+
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <label for="status">Status</label>
-                                        <input type="text" name="status" class="form-control" placeholder="Status"
+                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                            <label for="status">Status</label>
+                                        @endif
+                                        <input type="hidden" name="status" class="form-control" placeholder="Status"
                                             value="FTID Created" style="background-color: #82FB6A; color: black; "
                                             required readonly>
                                     </div>
@@ -123,6 +126,7 @@
 
                     </div>
                     <button type="submit" class="btn btn-primary">Insert FTID</button>
+                    <a href="{{ route('ftid') }}" type="submit" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>

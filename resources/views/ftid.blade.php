@@ -27,6 +27,7 @@
                                 <th style="width: 5%">Label Payment</th>
                                 <th></th>
                                 <th></th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
@@ -55,7 +56,8 @@
                                                 <a href="https://www.ontrac.com/tracking/?number={{ $ftid->tracking }}"
                                                     target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Lasership')
-                                                <a href="https://www.ordertracker.com/track/{{ $ftid->tracking }}" target="_blank">{{ $ftid->tracking }}</a>
+                                                <a href="https://www.ordertracker.com/track/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'DHL')
                                                 <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $ftid->tracking }}"
                                                     target="_blank">{{ $ftid->tracking }}</a>
@@ -74,7 +76,8 @@
                                             @endif
                                         </td>
                                         <td>{{ $ftid->store }}</td>
-                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}" target="_blank">Open
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
+                                                target="_blank">Open
                                                 Label</a></td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td><b>{{ $ftid->status }}</b></td>
@@ -82,6 +85,15 @@
                                         <td>{{ $ftid->label_payment_date }}</td>
                                         <td>
                                             @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                                <a href="{{ route('editftidstatus.edit', $ftid->id) }}" style="width: 100%">
+                                                    <button type="submit" class="btn btn-dark">
+                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                    </button>
+                                                </a>
+                                            @endif
+                                        </td>
+                                        <td>
+                                            @if (auth()->check()&& auth()->user()->admin == '0')
                                                 <a href="{{ route('editftid.edit', $ftid->id) }}" style="width: 100%">
                                                     <button type="submit" class="btn btn-warning">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>
