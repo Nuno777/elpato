@@ -81,9 +81,42 @@
                                         <td>{{ $ftid->id }}</td>
                                         <td>{{ $ftid->user }}</td>
                                         <td>{{ $ftid->carrier }}</td>
-                                        <td>{{ $ftid->tracking }}</td>
+                                        <td>
+                                            @if ($ftid->carrier == 'Fedex')
+                                                <a href="https://www.fedex.com/fedextrack/no-results-found?trknbr={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'UPS')
+                                                <a href="https://www.ups.com/track?track=yes&trackNums={{ $ftid->tracking }}&loc=en_US&requester=ST/trackdetails"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'USPS')
+                                                <a href="https://www.usps.com/search/results.htm?keyword={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Ontrac')
+                                                <a href="https://www.ontrac.com/tracking/?number={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Lasership')
+                                                <a href="https://www.ordertracker.com/track/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'DHL')
+                                                <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Canadapost')
+                                                <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/search?searchFor={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Porulator')
+                                                <a href="https://www.purolator.com/en/shipping/tracker?pins={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Australian')
+                                                <a href="https://auspost.com.au/mypost/track/details/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @elseif ($ftid->carrier == 'Amazon')
+                                                <a href="https://track.amazon.com/tracking/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
+                                            @endif
+                                        </td>
                                         <td>{{ $ftid->store }}</td>
-                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}" target="_blank">Open
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
+                                                target="_blank">Open
                                                 Label</a></td>
                                         <td>{{ $ftid->label_creation_date }}</td>
                                         <td><b>{{ $ftid->status }}</b></td>

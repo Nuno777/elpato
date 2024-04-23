@@ -40,37 +40,39 @@
                                         @elseif ($ftid->status == 'FTID Error') #ff9e8e; @endif ">
                                         <td>{{ $ftid->id }}</td>
                                         <td>{{ $ftid->user }}</td>
+                                        <td>{{ $ftid->carrier }}</td>
                                         <td>
                                             @if ($ftid->carrier == 'Fedex')
-                                                <a href="https://www.fedex.com/en-us/home.html"
-                                                    target="_blank">Fedex</a>
+                                                <a href="https://www.fedex.com/fedextrack/no-results-found?trknbr={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'UPS')
-                                                <a href="https://www.ups.com" target="_blank">UPS</a>
+                                                <a href="https://www.ups.com/track?track=yes&trackNums={{ $ftid->tracking }}&loc=en_US&requester=ST/trackdetails"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'USPS')
-                                                <a href="https://tools.usps.com" target="_blank">USPS</a>
+                                                <a href="https://www.usps.com/search/results.htm?keyword={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Ontrac')
-                                                <a href="https://west.ontrac.com/tracking.asp"
-                                                    target="_blank">Ontrac</a>
+                                                <a href="https://www.ontrac.com/tracking/?number={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Lasership')
-                                                <a href="https://www.ordertracker.com/couriers/lasership"
-                                                    target="_blank">Lasership</a>
+                                                <a href="https://www.ordertracker.com/track/{{ $ftid->tracking }}" target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'DHL')
-                                                <a href="https://www.dhl.com/us-en/home/tracking.html?locale=true"
-                                                    target="_blank">DHL</a>
+                                                <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Canadapost')
-                                                <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/home"
-                                                    target="_blank">Canadapost</a>
+                                                <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/search?searchFor={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Porulator')
-                                                <a href="https://www.purolatormarketing.com/2017/tracker/tracking-details-single.html"
-                                                    target="_blank">Porulator</a>
+                                                <a href="https://www.purolator.com/en/shipping/tracker?pins={{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Australian')
-                                                <a href="https://auspost.com.au/mypost/track/search"
-                                                    target="_blank">Australian post</a>
+                                                <a href="https://auspost.com.au/mypost/track/details/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @elseif ($ftid->carrier == 'Amazon')
-                                                <a href="https://track.amazon.com/" target="_blank">Amazon</a>
+                                                <a href="https://track.amazon.com/tracking/{{ $ftid->tracking }}"
+                                                    target="_blank">{{ $ftid->tracking }}</a>
                                             @endif
                                         </td>
-                                        <td>{{ $ftid->tracking }}</td>
                                         <td>{{ $ftid->store }}</td>
                                         <td><a href="{{ asset('storage/labels/' . $ftid->label) }}" target="_blank">Open
                                                 Label</a></td>
