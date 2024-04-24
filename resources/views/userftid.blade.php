@@ -9,7 +9,7 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
-                <h2>Orders for {{ $user->name }}</h2>
+                <h2>FTIDs for {{ $user->name }}</h2>
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <div class="table-responsive">
@@ -82,6 +82,13 @@
                                     <td>{{ $ftid->method }}</td>
                                     <td>{{ $ftid->comments }}</td>
                                     <td>{{ $ftid->label_payment_date }}</td>
+                                    <td>
+                                        <a href="{{ route('editftidstatus.edit', $ftid->id) }}" style="width: 100%">
+                                            <button type="submit" class="btn btn-dark">
+                                                <i class="mdi mdi-square-edit-outline text-white"></i>
+                                            </button>
+                                        </a>
+                                    </td>
 
                                 </tr>
                             @endforeach
