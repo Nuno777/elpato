@@ -65,6 +65,7 @@
                     <div class="g-recaptcha" data-sitekey="6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></div>
                     <br>
                     <button type="submit" class="btn btn-primary">Create User</button>
+                    <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>

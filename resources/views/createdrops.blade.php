@@ -104,6 +104,7 @@
                         </div>
                     </div>
                     <button type="submit" class="btn btn-primary">Insert Drop</button>
+                    <a href="{{ route('drops') }}" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>
