@@ -81,6 +81,7 @@
                                     'courierName' => $drop->name,
                                     'status' => $drop->status,
                                     'address' => $drop->address,
+                                    'notes' => $drop->notes,
                                 ])
                             @endforeach
                         </tbody>

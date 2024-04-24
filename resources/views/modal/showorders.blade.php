@@ -64,8 +64,8 @@
                                         <input type="text" name="quant" id="quant" class="form-control"
                                             placeholder="Q-TY" value="{{ old('quant') ?? $order->quant }}" readonly
                                             required>
-                                        <small class="form-text text-muted">quantity of
-                                            product</small>
+                                        <small class="form-text text-muted">Quantity of
+                                            Product</small>
                                     </div>
                                 </div>
 
@@ -73,9 +73,9 @@
                                     <div class="form-group">
                                         <label for="price">Price</label>
                                         <input type="text" name="price" class="form-control" placeholder="Price"
-                                            value="{{ old('price') ?? $order->price }}" readonly required>
-                                        <small class="form-text text-muted">product
-                                            price in dollar</small>
+                                            value="{{ old('price') ?? $order->price }} $" readonly required>
+                                        <small class="form-text text-muted">Product
+                                            Price in Dollar</small>
                                     </div>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
 
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="comments">Comments</label>
+                                <label for="comments">Notes</label>
                                     <textarea style="resize: none;" type="text" name="comments" class="form-control" placeholder="Comments" cols="43" rows="5" readonly required>{{  $order->comments }}</textarea>
                             </div>
                         </div>
