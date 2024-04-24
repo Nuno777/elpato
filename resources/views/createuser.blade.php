@@ -62,8 +62,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="g-recaptcha" data-sitekey="6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></div>
-                    <br>
+                    <input class="g-recaptcha" type="hidden" id="recaptchaToken" name="recaptchaToken">
                     <button type="submit" class="btn btn-primary">Create User</button>
                     <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
                 </form>
@@ -71,7 +70,8 @@
         </div>
     </div>
 </div>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></script>
+
 <script>
     // Função para obter a data e hora atual
     function getCurrentDateTime() {

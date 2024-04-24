@@ -80,6 +80,14 @@ class ftidController extends Controller
         return view('allftid', compact('ftids', 'users'));
     }
 
+    public function showUserFtids($userId)
+    {
+        $user = User::findOrFail($userId);
+        $ftids = FTID::where('user_id', $userId)->get();
+
+        return view('userftid', ['user' => $user, 'ftids' => $ftids]);
+    }
+
     public function filterFTID(Request $request)
     {
         $userName = $request->input('userName'); // Corrigir o nome do campo

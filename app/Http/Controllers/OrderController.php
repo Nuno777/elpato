@@ -103,6 +103,13 @@ class OrderController extends Controller
         return view('allorders', compact('orders', 'users'));
     }
 
+    public function showUserOrders($userId)
+    {
+        $user = User::findOrFail($userId);
+        $orders = Order::where('user_id', $userId)->get();
+
+        return view('userorders', ['user' => $user, 'orders' => $orders]);
+    }
 
     /**
      * Show the form for editing the specified resource.

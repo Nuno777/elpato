@@ -21,6 +21,8 @@
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
+                            <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -41,6 +43,22 @@
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
                                 @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                    <td style="width: 5%" class="sorting_disabled">
+                                        <a href="{{ route('user.orders', $user->id) }}" style="width: 100%">
+                                            <button type="submit" class="btn btn-primary">
+                                                <i class="mdi mdi-package-variant-closed "></i>
+                                            </button>
+                                        </a>
+                                    </td>
+
+                                    <td style="width: 5%" class="sorting_disabled">
+                                        <a href="{{ route('user.ftids', $user->id) }}" style="width: 100%">
+                                            <button type="submit" class="btn btn-primary">
+                                                <i class="mdi mdi-file-pdf"></i>
+                                            </button>
+                                        </a>
+                                    </td>
+
                                     <td style="width: 5%" class="sorting_disabled">
                                         <a href="{{ route('edituser.edit', $user->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-warning">

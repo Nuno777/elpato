@@ -46,6 +46,10 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
     Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
     Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
+
+    Route::get('/users/{id}/orders', [OrderController::class, 'showUserOrders'])->name('user.orders');
+    Route::get('/users/{id}/ftids', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+
 });
 
 
