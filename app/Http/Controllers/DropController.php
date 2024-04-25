@@ -12,9 +12,11 @@ class DropController extends Controller
      */
     public function index()
     {
-        $drops = Drop::orderByDesc('id_drop')->get();
+        $drops = Drop::All();
+        $drops = Drop::orderBy('id', 'DESC')->get();
         return view('drops', compact('drops'));
     }
+
 
     /**
      * Show the form for creating a new resource.

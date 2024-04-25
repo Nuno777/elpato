@@ -81,7 +81,8 @@
                         </a>
                     </li>
 
-                    <li class="@if (Request::is('ftid')) active @elseif(Request::is('createftid')) active @endif">
+                    <li
+                        class="@if (Request::is('ftid')) active @elseif(Request::is('createftid')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('ftid') }}">
                             <i class="mdi mdi-file-pdf"></i>
                             <span class="nav-text">FTID</span>

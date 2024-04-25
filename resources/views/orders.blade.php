@@ -17,7 +17,7 @@
                             <th>Drop</th>
                             <th>User</th>
                             <th>Product</th>
-                            <th>Courier</th>
+                            <th>Holder Name</th>
                             <th>Address</th>
                             <th style="width: 5%" class="sorting_disabled">Tracking</th>
                             <th style="width: 15%" class="sorting_disabled">Code</th>

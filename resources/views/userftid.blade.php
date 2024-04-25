@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'User FTIDs')
+@section('title', 'User FTIDs for')
 
 @section('content')
 @section('page-title', 'User FTIDs')
@@ -63,7 +63,6 @@
                                             <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/search?searchFor={{ $ftid->tracking }}"
                                                 target="_blank">{{ $ftid->tracking }}</a>
                                         @elseif ($ftid->carrier == 'Purolator')
-                                            <!-- Corrigido o nome do carrier -->
                                             <a href="https://www.purolator.com/en/shipping/tracker?pins={{ $ftid->tracking }}"
                                                 target="_blank">{{ $ftid->tracking }}</a>
                                         @elseif ($ftid->carrier == 'Australian')
@@ -92,8 +91,11 @@
 
                                 </tr>
                             @endforeach
+
                         </tbody>
                     </table>
+                    <br>
+                    <a href="{{ route('user.all') }}" type="submit" class="btn btn-secondary">Back</a>
                 </div>
             </div>
         </div>

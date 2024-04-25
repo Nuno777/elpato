@@ -16,7 +16,7 @@
                         <thead>
                             <tr>
                                 <th style="width: 5%">Drop</th>
-                                <th style="width: 20%" class="sorting_disabled">Name</th>
+                                <th style="width: 20%" class="sorting_disabled">Courier</th>
                                 <th style="width: 25%" class="sorting_disabled">Address</th>
                                 <th style="width: 5%" class="sorting_disabled">Courier <br> Package</th>
                                 <th style="width: 5%" class="sorting_disabled">Status</th>

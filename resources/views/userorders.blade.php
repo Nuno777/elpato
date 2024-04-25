@@ -19,15 +19,17 @@
                             <th>Drop</th>
                             <th>User</th>
                             <th>Product</th>
-                            <th>Courier</th>
+                            <th>Holder Name</th>
                             <th>Address</th>
                             <th style="width: 5%" class="sorting_disabled">Tracking</th>
                             <th style="width: 15%" class="sorting_disabled">Code</th>
                             <th>Shop</th>
                             <th>Status</th>
                             <th>Notes</th>
-                            <th>Option</th>
+                            <th>Quant</th>
+                            <th>Price</th>
                             <th>Delivery</th>
+                            <th>Option</th>
                             <th>Pickup</th>
                             <th>Signature</th>
                         </tr>
@@ -85,8 +87,10 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->shop }}</td>
                                 <td style="width: 5%" class="sorting_disabled"><b>{{ $order->status }}</b></td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $order->option }} </td>
+                                <td style="width: 15%" class="sorting_disabled">{{ $order->quant }} </td>
+                                <td style="width: 15%" class="sorting_disabled">{{ $order->price }} </td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $order->delivery }} </td>
+                                <td style="width: 15%" class="sorting_disabled">{{ $order->option }} </td>
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->pickup ? 'yes' : 'no' }}
                                 </td>
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->signature ? 'yes' : 'no' }}
@@ -97,7 +101,8 @@
 
                     </tbody>
                 </table>
-
+                <br>
+                <a href="{{ route('user.all') }}" type="submit" class="btn btn-secondary">Back</a>
             </div>
         </div>
     </div>

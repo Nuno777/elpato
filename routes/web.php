@@ -47,8 +47,8 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
     Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
 
-    Route::get('/users/{id}/orders', [OrderController::class, 'showUserOrders'])->name('user.orders');
-    Route::get('/users/{id}/ftids', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+    Route::get('/usersorders/{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
+    Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
 
 });
 
