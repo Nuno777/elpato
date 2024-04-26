@@ -35,14 +35,14 @@
                             <div class="form-group">
                                 <label for="product">Product</label>
                                 <input type="text" name="product" class="form-control" placeholder="Product"
-                                    value="{{ old('product') ?? $order->product }}"readonly required>
+                                    value="{{ old('product') ?? $order->product }}" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Holder Name</label>
                                 <input type="text" name="name" class="form-control" placeholder="Name"
-                                    value="{{ old('name') ?? $order->name }}" readonly required>
+                                    value="{{ old('name') ?? $order->name }}" required>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <div class="form-group">
                                 <label for="address">Address</label>
                                 <input type="text" name="address" class="form-control" placeholder="Address"
-                                    value="{{ old('address') ?? $order->address }}" readonly required>
+                                    value="{{ old('address') ?? $order->address }}"  required>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -64,14 +64,14 @@
                                         <label for="tracking">Tracking</label>
                                         <input type="text" name="tracking" class="form-control"
                                             placeholder="Tracking" value="{{ old('tracking') ?? $order->tracking }}"
-                                            readonly required>
+                                             required>
                                     </div>
                                 </div>
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="code">Code</label>
                                         <input type="text" name="code" class="form-control" placeholder="Code"
-                                            value="{{ old('code') ?? $order->code }}" readonly required>
+                                            value="{{ old('code') ?? $order->code }}"  required>
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                             <div class="form-group">
                                 <label for="comments">Notes</label>
                                 <input type="text" name="comments" class="form-control" placeholder="Notes"
-                                    value="{{ old('comments') ?? $order->comments }}" readonly required>
+                                    value="{{ old('comments') ?? $order->comments }}"  required>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -89,21 +89,21 @@
                                     <div class="form-group">
                                         <label for="shop">Shop</label>
                                         <input type="text" name="shop" class="form-control" placeholder="Shop"
-                                            value="{{ old('shop') ?? $order->shop }}" readonly required>
+                                            value="{{ old('shop') ?? $order->shop }}"  required>
                                     </div>
                                 </div>
                                 <div class="col-2">
                                     <div class="form-group">
                                         <label for="quant">Q-TY</label>
                                         <input type="text" name="quant" class="form-control" placeholder="Q-TY"
-                                            value="{{ old('quant') ?? $order->quant }}" readonly required>
+                                            value="{{ old('quant') ?? $order->quant }}"  required>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="form-group">
                                         <label for="price">Price</label>
                                         <input type="text" name="price" class="form-control" placeholder="Price"
-                                            value="{{ old('price') ?? $order->price }} $" readonly required>
+                                            value="{{ old('price') ?? $order->price }} $"  required>
                                     </div>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
                                         <label for="delivery">Delivery</label>
                                         <input type="date" name="delivery" class="form-control"
                                             placeholder="Delivery" value="{{ old('delivery') ?? $order->delivery }}"
-                                            readonly required>
+                                             required>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -145,7 +145,7 @@
                                         <label for="option">Options</label>
                                         <input type="text" name="option" id="option" class="form-control"
                                             placeholder="Option" value="{{ old('option') ?? $order->option }}"
-                                            readonly required>
+                                             required>
                                     </div>
                                 </div>
 
@@ -157,7 +157,7 @@
                                                 class="switch switch-icon switch-info switch-pill form-control-label">
                                                 <input type="checkbox" name="pickup"
                                                     class="switch-input form-check-input" value="1"
-                                                    {{ $order->pickup ? 'checked' : '' }} disabled readonly required>
+                                                    {{ $order->pickup ? 'checked' : '' }}  required>
                                                 <span class="switch-label"></span>
                                                 <span class="switch-handle"></span>
                                             </label>
@@ -174,7 +174,7 @@
                                                 class="switch switch-icon switch-info switch-pill form-control-label">
                                                 <input type="checkbox" name="signature"
                                                     class="switch-input form-check-input" value="1"
-                                                    {{ $order->signature ? 'checked' : '' }} disabled readonly
+                                                    {{ $order->signature ? 'checked' : '' }}
                                                     required>
                                                 <span class="switch-label"></span>
                                                 <span class="switch-handle"></span>
