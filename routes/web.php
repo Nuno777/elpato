@@ -29,6 +29,8 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+    Route::get('/editorderstatus/{id}/edit', [OrderController::class, 'statusedit'])->name('editorderstatus.edit');
+    Route::put('/orderstatus/{id}', [OrderController::class, 'statusupdate'])->name('orderstatus.update');
     Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
     Route::get('/allorders', [OrderController::class, 'allshow'])->name('orders.all');
     Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
@@ -49,7 +51,6 @@ Route::middleware(['auth', 'verified', 'admin', Admin::class])->group(function (
 
     Route::get('/usersorders/{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
     Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
-
 });
 
 
@@ -65,6 +66,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/orders', [OrderController::class, 'index'])->name('orders');
     Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
     Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+    Route::get('/editorder/{id}/edit', [OrderController::class, 'edit'])->name('editorder.edit');
+    Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
     Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 
     Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');

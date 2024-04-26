@@ -114,9 +114,10 @@ class OrderController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(string $id)
+    public function edit($id)
     {
-        //
+        $order = Order::findOrFail($id);
+        return view('editorder', compact('order'));
     }
 
     /**
@@ -126,6 +127,44 @@ class OrderController extends Controller
     {
         //
     }
+
+    public function statusedit($id)
+    {
+        $order = Order::findOrFail($id);
+        return view('editorderstatus', compact('order'));
+    }
+
+    public function statusupdate(Request $request, $id)
+    {
+        $request->validate([
+            'status' => 'required',
+        ]);
+
+        try {
+            $order = Order::findOrFail($id);
+            $order->id_drop = $request->input('id_drop');
+            $order->user = $request->input('user');
+            $order->product = $request->input('product');
+            $order->name = $request->input('name');
+            $order->address = $request->input('address');
+            $order->tracking = $request->input('tracking');
+            $order->code = $request->input('code');
+            $order->comments = $request->input('comments');
+            $order->shop = $request->input('shop');
+            $order->quant = $request->input('quant');
+            $order->price = $request->input('price');
+            $order->delivery = $request->input('delivery');
+            $order->option = $request->input('option');
+            $order->pickup = $request->has('pickup') ? 1 : 0;
+            $order->signature = $request->has('signature') ? 1 : 0;
+            $order->save();
+
+            return redirect()->route('user.all')->with('success', 'Status updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while updating the Order status. Please try again.');
+        }
+    }
+
 
     /**
      * Remove the specified resource from storage.

@@ -32,12 +32,17 @@
                             @if (auth()->user()->id == $order->user_id)
                                 <tr
                                     style="background-color:
-                                    @if ($order->status == 'Ready') #85f36e;
-                                    @elseif ($order->status == 'Suspense') #838383;
-                                    @elseif ($order->status == 'Dont send') #fff085;
-                                    @elseif ($order->status == 'Problem') #ff9e8e; @endif
-                                    color:
-                                    @if ($order->status == 'Suspense') white; @else black; @endif">
+                            @if ($order->status == 'Ready') #85f36e;
+                            @elseif ($order->status == 'Suspense') #838383;
+                            @elseif ($order->status == 'Dont send') #fff085;
+                            @elseif ($order->status == 'Problem') #ff9e8e;
+                            @elseif ($order->status == 'Received') #b491c8;
+                            @elseif ($order->status == 'Sent to buyer') #ffb74d;
+                            @elseif ($order->status == 'Waiting payment') #99d18f; @endif
+                            color:
+                            @if ($order->status == 'Suspense') white;
+                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) white;
+                            @else black; @endif">
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                     <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
@@ -58,7 +63,8 @@
                                             <a href="https://www.ontrac.com/tracking/?number={{ $order->code }}"
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Lasership')
-                                            <a href="https://www.ordertracker.com/track/{{ $order->code }}" target="_blank">{{ $order->code }}</a>
+                                            <a href="https://www.ordertracker.com/track/{{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'DHL')
                                             <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $order->code }}"
                                                 target="_blank">{{ $order->code }}</a>

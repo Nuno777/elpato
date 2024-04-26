@@ -32,19 +32,24 @@
                             <th>Option</th>
                             <th>Pickup</th>
                             <th>Signature</th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
                             <tr
                                 style="background-color:
-                                    @if ($order->status == 'Ready') #85f36e;
-                                    @elseif ($order->status == 'Suspense') #838383;
-                                    @elseif ($order->status == 'Dont send') #fff085;
-                                    @elseif ($order->status == 'Problem') #ff9e8e; @endif
-                                    color:
-                                    @if ($order->status == 'Suspense') white; @else black; @endif
-                                    ">
+                                @if ($order->status == 'Ready') #85f36e;
+                                @elseif ($order->status == 'Suspense') #838383;
+                                @elseif ($order->status == 'Dont send') #fff085;
+                                @elseif ($order->status == 'Problem') #ff9e8e;
+                                @elseif ($order->status == 'Received') #b491c8;
+                                @elseif ($order->status == 'Sent to buyer') #ffb74d;
+                                @elseif ($order->status == 'Waiting payment') #99d18f; @endif
+                                color:
+                                @if ($order->status == 'Suspense') white;
+                                @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) white;
+                                @else black; @endif">
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
@@ -94,6 +99,15 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->pickup ? 'yes' : 'no' }}
                                 </td>
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->signature ? 'yes' : 'no' }}
+                                </td>
+                                <td>
+                                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        <a href="{{ route('editorderstatus.edit', $order->id) }}" style="width: 100%">
+                                            <button type="submit" class="btn btn-warning">
+                                                <i class="mdi mdi-square-edit-outline text-white"></i>
+                                            </button>
+                                        </a>
+                                    @endif
                                 </td>
 
                             </tr>
