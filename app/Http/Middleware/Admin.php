@@ -20,6 +20,6 @@ class Admin
             $response = $next($request);
             return $response;
         }
-        return redirect()->route('dashboard');
+        return redirect()->route('auth.login');
     }
 }

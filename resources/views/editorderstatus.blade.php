@@ -179,6 +179,17 @@
                                                 {{ $order->status == 'Waiting payment' ? 'selected' : '' }}>Waiting
                                                 payment
                                             </option>
+                                            <option value="Dont send" style="background-color: #fff;" disabled readonly></option>
+
+                                            <option value="Ready" style="background-color: #82FB6A; color: black;"
+                                                {{ $order->status == 'Ready' ? 'selected' : '' }}>Ready</option>
+                                            <option value="Problem" style="background-color: #FF7059; color: white;"
+                                                {{ $order->status == 'Problem' ? 'selected' : '' }}>Problem</option>
+                                            <option value="Dont send" style="background-color: #F1DD50; color: black;"
+                                                {{ $order->status == 'Dont send' ? 'selected' : '' }}>Dont send
+                                            </option>
+                                            <option value="Suspense" style="background-color: #424945; color: white;"
+                                                {{ $order->status == 'Suspense' ? 'selected' : '' }}>Suspense</option>
                                         </select>
                                     </div>
                                 </div>

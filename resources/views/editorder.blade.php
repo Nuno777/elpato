@@ -42,7 +42,7 @@
                             <div class="form-group">
                                 <label for="name">Holder Name</label>
                                 <input type="text" name="name" class="form-control" placeholder="Name"
-                                    value="{{ old('name') ?? $order->name }}" required>
+                                    value="{{ old('name') ?? $order->name }}" readonly required>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <div class="form-group">
                                 <label for="address">Address</label>
                                 <input type="text" name="address" class="form-control" placeholder="Address"
-                                    value="{{ old('address') ?? $order->address }}" required>
+                                    value="{{ old('address') ?? $order->address }}" readonly required>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -104,7 +104,7 @@
                             <div class="form-group">
                                 <label for="comments">Notes</label>
                                 <input type="text" name="comments" class="form-control" placeholder="Notes"
-                                    value="{{ old('comments') ?? $order->comments }}" required>
+                                    value="{{ old('comments') ?? $order->comments }}" readonly required>
                             </div>
                         </div>
                         <div class="col-sm-6">

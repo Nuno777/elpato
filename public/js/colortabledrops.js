@@ -51,6 +51,22 @@ $(document).ready(function () {
                 backgroundColor = '#99d18f';
                 textColor = 'black';
                 break;
+            case 'Ready':
+                backgroundColor = '#82FB6A';
+                textColor = 'black';
+                break;
+            case 'Suspense':
+                backgroundColor = '#424945';
+                textColor = 'white';
+                break;
+            case 'Dont send':
+                backgroundColor = '#F1DD50';
+                textColor = 'black';
+                break;
+            case 'Problem':
+                backgroundColor = '#FF7059';
+                textColor = 'white';
+                break;
             default:
                 backgroundColor = '#fff'; // Cor padrão
                 textColor = 'black'; // Cor padrão

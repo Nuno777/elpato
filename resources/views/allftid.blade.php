@@ -10,7 +10,7 @@
         <div class="card card-default">
             <div class="card-body">
                 {{-- filtro de pesquisa --}}
-                <div class="row mb-3">
+                {{--                 <div class="row mb-3">
                     <div class="col-md-3">
                         <form action="{{ route('ftid.filter') }}" method="GET" id="filterForm">
                             <div class="form-group">
@@ -45,7 +45,7 @@
                             }
                         });
                     });
-                </script>
+                </script> --}}
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <div class="table-responsive">
