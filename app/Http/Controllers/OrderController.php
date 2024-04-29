@@ -123,9 +123,42 @@ class OrderController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, string $id)
+    public function update(Request $request, $id)
     {
-        //
+        $request->validate([
+            'product' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'comments' => 'required',
+            'shop' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'delivery' => 'required',
+            'option' => 'required',
+        ]);
+
+        try {
+            $order = Order::findOrFail($id);
+            $order->product = $request->product;
+            $order->name = $request->name;
+            $order->address = $request->address;
+            $order->tracking = $request->tracking;
+            $order->code = $request->code;
+            $order->comments = $request->comments;
+            $order->shop = $request->shop;
+            $order->quant = $request->quant;
+            $order->price = $request->price;
+            $order->delivery = $request->delivery;
+            $order->option = $request->option;
+            $order->pickup = $request->has('pickup') ? 1 : 0;
+            $order->signature = $request->has('signature') ? 1 : 0;
+            $order->save();
+            return redirect()->route('orders')->with('success', 'Order has been edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while updating the Order status. Please try again.');
+        }
     }
 
     public function statusedit($id)
@@ -137,31 +170,43 @@ class OrderController extends Controller
     public function statusupdate(Request $request, $id)
     {
         $request->validate([
+            'product' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'comments' => 'required',
+            'shop' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'delivery' => 'required',
             'status' => 'required',
+            'option' => 'required',
         ]);
 
         try {
             $order = Order::findOrFail($id);
-            $order->id_drop = $request->input('id_drop');
-            $order->user = $request->input('user');
-            $order->product = $request->input('product');
-            $order->name = $request->input('name');
-            $order->address = $request->input('address');
-            $order->tracking = $request->input('tracking');
-            $order->code = $request->input('code');
-            $order->comments = $request->input('comments');
-            $order->shop = $request->input('shop');
-            $order->quant = $request->input('quant');
-            $order->price = $request->input('price');
-            $order->delivery = $request->input('delivery');
-            $order->option = $request->input('option');
+            $order->product = $request->product;
+            $order->name = $request->name;
+            $order->address = $request->address;
+            $order->tracking = $request->tracking;
+            $order->code = $request->code;
+            $order->comments = $request->comments;
+            $order->shop = $request->shop;
+            $order->quant = $request->quant;
+            $order->price = $request->price;
+            $order->delivery = $request->delivery;
+            $order->status = $request->status;
+            $order->option = $request->option;
             $order->pickup = $request->has('pickup') ? 1 : 0;
             $order->signature = $request->has('signature') ? 1 : 0;
+
             $order->save();
 
             return redirect()->route('user.all')->with('success', 'Status updated successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while updating the Order status. Please try again.');
+            return redirect()->back()->with('error', '
+            An error occurred when editing the Order. Please try again.');
         }
     }
 

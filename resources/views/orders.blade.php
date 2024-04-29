@@ -25,6 +25,7 @@
                             <th>Notes</th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -86,6 +87,27 @@
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
 
                                     @if (auth()->check())
+                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                            <td>
+                                                <a href="{{ route('editorderstatus.edit', $order->id) }}"
+                                                    style="width: 100%">
+                                                    <button type="submit" class="btn btn-warning">
+                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                    </button>
+                                                </a>
+                                            </td>
+                                        @endif
+
+                                        @if (auth()->check() && auth()->user()->admin == '0')
+                                            <td style="width: 5%" class="sorting_disabled">
+                                                <a href="{{ route('editorder.edit', $order->id) }}"
+                                                    style="width: 100%">
+                                                    <button type="submit" class="btn btn-warning">
+                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                    </button>
+                                                </a>
+                                            </td>
+                                        @endif
                                         <td style="width: 5%" class="sorting_disabled">
                                             <button class="btn btn-primary" type="button" data-toggle="modal"
                                                 data-target="#showorder{{ $order->id }}"> <i

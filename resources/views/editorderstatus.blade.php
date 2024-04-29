@@ -54,7 +54,7 @@
                             <div class="form-group">
                                 <label for="address">Address</label>
                                 <input type="text" name="address" class="form-control" placeholder="Address"
-                                    value="{{ old('address') ?? $order->address }}"  required>
+                                    value="{{ old('address') ?? $order->address }}" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -62,16 +62,40 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="tracking">Tracking</label>
-                                        <input type="text" name="tracking" class="form-control"
-                                            placeholder="Tracking" value="{{ old('tracking') ?? $order->tracking }}"
-                                             required>
+                                        <select name="tracking" id="tracking" class="form-control" required>
+                                            <option value="Fedex" {{ $order->tracking == 'Fedex' ? 'selected' : '' }}>
+                                                Fedex</option>
+                                            <option value="UPS" {{ $order->tracking == 'UPS' ? 'selected' : '' }}>
+                                                UPS</option>
+                                            <option value="USPS" {{ $order->tracking == 'USPS' ? 'selected' : '' }}>
+                                                USPS</option>
+                                            <option value="Ontrac" {{ $order->tracking == 'Ontrac' ? 'selected' : '' }}>
+                                                Ontrac</option>
+                                            <option value="Lasership"
+                                                {{ $order->tracking == 'Lasership' ? 'selected' : '' }}>Lasership
+                                            </option>
+                                            <option value="DHL" {{ $order->tracking == 'DHL' ? 'selected' : '' }}>
+                                                DHL</option>
+                                            <option value="Canadapost"
+                                                {{ $order->tracking == 'Canadapost' ? 'selected' : '' }}>Canadapost
+                                            </option>
+                                            <option value="Porulator"
+                                                {{ $order->tracking == 'Porulator' ? 'selected' : '' }}>Porulator
+                                            </option>
+                                            <option value="Australian"
+                                                {{ $order->tracking == 'Australian' ? 'selected' : '' }}>Australian
+                                                post</option>
+                                            <option value="Amazon"
+                                                {{ $order->tracking == 'Amazon' ? 'selected' : '' }}>Amazon</option>
+                                        </select>
                                     </div>
+
                                 </div>
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="code">Code</label>
                                         <input type="text" name="code" class="form-control" placeholder="Code"
-                                            value="{{ old('code') ?? $order->code }}"  required>
+                                            value="{{ old('code') ?? $order->code }}" required>
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +104,7 @@
                             <div class="form-group">
                                 <label for="comments">Notes</label>
                                 <input type="text" name="comments" class="form-control" placeholder="Notes"
-                                    value="{{ old('comments') ?? $order->comments }}"  required>
+                                    value="{{ old('comments') ?? $order->comments }}" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -89,21 +113,43 @@
                                     <div class="form-group">
                                         <label for="shop">Shop</label>
                                         <input type="text" name="shop" class="form-control" placeholder="Shop"
-                                            value="{{ old('shop') ?? $order->shop }}"  required>
+                                            value="{{ old('shop') ?? $order->shop }}" required>
                                     </div>
                                 </div>
                                 <div class="col-2">
                                     <div class="form-group">
                                         <label for="quant">Q-TY</label>
-                                        <input type="text" name="quant" class="form-control" placeholder="Q-TY"
-                                            value="{{ old('quant') ?? $order->quant }}"  required>
+                                        <select name="quant" id="quant" class="form-control" required>
+                                            <option value="0" disabled
+                                                {{ $order->quant == 0 ? 'selected' : '' }}>0</option>
+                                            <option value="1" {{ $order->quant == 1 ? 'selected' : '' }}>1
+                                            </option>
+                                            <option value="2" {{ $order->quant == 2 ? 'selected' : '' }}>2
+                                            </option>
+                                            <option value="3" {{ $order->quant == 3 ? 'selected' : '' }}>3
+                                            </option>
+                                            <option value="4" {{ $order->quant == 4 ? 'selected' : '' }}>4
+                                            </option>
+                                            <option value="5" {{ $order->quant == 5 ? 'selected' : '' }}>5
+                                            </option>
+                                            <option value="6" {{ $order->quant == 6 ? 'selected' : '' }}>6
+                                            </option>
+                                            <option value="7" {{ $order->quant == 7 ? 'selected' : '' }}>7
+                                            </option>
+                                            <option value="8" {{ $order->quant == 8 ? 'selected' : '' }}>8
+                                            </option>
+                                            <option value="9" {{ $order->quant == 9 ? 'selected' : '' }}>9
+                                            </option>
+                                            <option value="10" {{ $order->quant == 10 ? 'selected' : '' }}>10
+                                            </option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="form-group">
                                         <label for="price">Price</label>
-                                        <input type="text" name="price" class="form-control" placeholder="Price"
-                                            value="{{ old('price') ?? $order->price }} $"  required>
+                                        <input type="text" name="price" class="form-control"
+                                            placeholder="Price" value="{{ old('price') ?? $order->price }}" required>
                                     </div>
                                 </div>
                             </div>
@@ -115,7 +161,7 @@
                                         <label for="delivery">Delivery</label>
                                         <input type="date" name="delivery" class="form-control"
                                             placeholder="Delivery" value="{{ old('delivery') ?? $order->delivery }}"
-                                             required>
+                                            required>
                                     </div>
                                 </div>
                                 <div class="col-6">
@@ -143,9 +189,12 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="option">Options</label>
-                                        <input type="text" name="option" id="option" class="form-control"
-                                            placeholder="Option" value="{{ old('option') ?? $order->option }}"
-                                             required>
+                                        <select name="option" id="option" class="form-control" required>
+                                            <option value="Sell" {{ $order->option == 'Sell' ? 'selected' : '' }}>
+                                                Sell</option>
+                                            <option value="Forward"
+                                                {{ $order->option == 'Forward' ? 'selected' : '' }}>Forward</option>
+                                        </select>
                                     </div>
                                 </div>
 
@@ -157,7 +206,7 @@
                                                 class="switch switch-icon switch-info switch-pill form-control-label">
                                                 <input type="checkbox" name="pickup"
                                                     class="switch-input form-check-input" value="1"
-                                                    {{ $order->pickup ? 'checked' : '' }}  required>
+                                                    {{ $order->pickup ? 'checked' : '' }}>
                                                 <span class="switch-label"></span>
                                                 <span class="switch-handle"></span>
                                             </label>
@@ -174,8 +223,7 @@
                                                 class="switch switch-icon switch-info switch-pill form-control-label">
                                                 <input type="checkbox" name="signature"
                                                     class="switch-input form-check-input" value="1"
-                                                    {{ $order->signature ? 'checked' : '' }}
-                                                    required>
+                                                    {{ $order->signature ? 'checked' : '' }}>
                                                 <span class="switch-label"></span>
                                                 <span class="switch-handle"></span>
                                             </label>
@@ -185,7 +233,6 @@
                             </div>
                         </div>
                     </div>
-                    <span></span>
                     <button type="submit" class="btn btn-primary">Update Status</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
