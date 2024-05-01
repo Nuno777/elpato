@@ -71,7 +71,7 @@
                         </thead>
                         <tbody>
                             @foreach ($ftids as $ftid)
-                                @if (auth()->user()->id == $ftid->user_id || auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                @if (auth()->user()->id == $ftid->user_id || auth()->user()->type == 'admin')
                                     <tr
                                         style="background-color:
                                         @if ($ftid->status == 'FTID Created') #85f36e;
@@ -125,7 +125,7 @@
                                         <td>{{ $ftid->label_payment_date }}</td>
 
                                         <td>
-                                            @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                            @if (auth()->check() && auth()->user()->type == 'admin')
                                                 <a href="{{ route('editftidstatus.edit', $ftid->id) }}"
                                                     style="width: 100%">
                                                     <button type="submit" class="btn btn-dark">

@@ -94,7 +94,7 @@
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
                                             <label for="status">Status</label>
                                         @endif
                                         <input type="hidden" name="status" class="form-control" placeholder="Status"

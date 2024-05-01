@@ -54,7 +54,7 @@
                                             <i class="mdi mdi-package-variant "></i></button>
                                     </td>
                                     <td>
-                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
                                             <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
                                                 <button type="submit" class="btn btn-warning">
                                                     <i class="mdi mdi-square-edit-outline text-white"></i>
@@ -63,7 +63,7 @@
                                         @endif
                                     </td>
                                     <td>
-                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
                                             <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete Drop?');">
                                                 @csrf
@@ -86,7 +86,7 @@
                             @endforeach
                         </tbody>
                     </table>
-                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                    @if (auth()->check() && auth()->user()->type == 'admin')
                         <div>
                             <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create
                                     Drop</button></a>

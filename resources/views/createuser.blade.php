@@ -55,8 +55,8 @@
                                 </div>
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <input type="hidden" name="admin" class="form-control" placeholder="Perms"
-                                            value="0" required readonly>
+                                        <input type="hidden" name="type" class="form-control" placeholder="Perms"
+                                            value="worker" required readonly>
                                     </div>
                                 </div>
                             </div>

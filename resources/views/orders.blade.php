@@ -87,7 +87,7 @@
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
 
                                     @if (auth()->check())
-                                        @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
                                             <td>
                                                 <a href="{{ route('editorderstatus.edit', $order->id) }}"
                                                     style="width: 100%">
@@ -98,7 +98,7 @@
                                             </td>
                                         @endif
 
-                                        @if (auth()->check() && auth()->user()->admin == '0')
+                                        @if (auth()->check() && auth()->user()->type == 'general')
                                             <td style="width: 5%" class="sorting_disabled">
                                                 <a href="{{ route('editorder.edit', $order->id) }}"
                                                     style="width: 100%">

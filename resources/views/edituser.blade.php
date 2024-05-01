@@ -52,14 +52,17 @@
                             <div class="row">
                                 <div class="col-6">
                                     <div class="form-group">
-                                        <label for="admin">Role</label>
-                                        <select name="admin" class="form-control" required>
-                                            <option value="A_HaQD1SkWsGN0tYW8DOZLuTm61"
-                                                {{ (old('admin') ?? $user->admin) == 'admin' ? 'selected' : '' }}>
+                                        <label for="type">Role</label>
+                                        <select name="type" class="form-control" required>
+                                            <option value="admin"
+                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
                                                 Admin
                                             </option>
-                                            <option value="0"
-                                                {{ (old('admin') ?? $user->admin) == 0 ? 'selected' : '' }}>Worker
+                                            <option value="general"
+                                                {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>General
+                                            </option>
+                                            <option value="worker"
+                                                {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
                                             </option>
                                         </select>
                                     </div>

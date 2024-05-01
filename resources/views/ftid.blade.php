@@ -84,7 +84,7 @@
                                         <td>{{ $ftid->method }}</td>
                                         <td>{{ $ftid->label_payment_date }}</td>
                                         <td>
-                                            @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                            @if (auth()->check() && auth()->user()->type == 'admin')
                                                 <a href="{{ route('editftidstatus.edit', $ftid->id) }}" style="width: 100%">
                                                     <button type="submit" class="btn btn-dark">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>
@@ -93,7 +93,7 @@
                                             @endif
                                         </td>
                                         <td>
-                                            @if (auth()->check()&& auth()->user()->admin == '0')
+                                            @if (auth()->check()&& auth()->user()->type == 'general')
                                                 <a href="{{ route('editftid.edit', $ftid->id) }}" style="width: 100%">
                                                     <button type="submit" class="btn btn-warning">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>

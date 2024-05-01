@@ -34,7 +34,7 @@ class UserController extends Controller
             'email' => 'required',
             'password' => 'required',
             'email_verified_at' => 'required',
-            'admin' => 'required',
+            'type' => 'required',
         ]);
 
         try {
@@ -43,7 +43,7 @@ class UserController extends Controller
             $user->email = $fields['email'];
             $user->password = bcrypt($fields['password']); // Criptografar a senha antes de salvar
             $user->email_verified_at = $fields['email_verified_at'];
-            $user->admin = $fields['admin'];
+            $user->type = $fields['type'];
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User created successfully!');
@@ -71,10 +71,10 @@ class UserController extends Controller
         $userRole = $request->input('userRole'); // Campo para selecionar o papel do usuário (admin ou worker)
 
         if ($userRole) {
-            if ($userRole == 'admin') {
-                $users = User::where('admin', 'A_HaQD1SkWsGN0tYW8DOZLuTm61')->get();
+            if ($userRole == 'type') {
+                $users = User::where('type', 'admin')->get();
             } elseif ($userRole == 'worker') {
-                $users = User::where('admin', 'default')->get();
+                $users = User::where('type', 'default')->get();
             }
         } else {
             $users = User::all();
@@ -102,7 +102,7 @@ class UserController extends Controller
             'name' => 'required',
             'email' => 'required',
             'email_verified_at' => 'required',
-            'admin' => 'required',
+            'type' => 'required',
         ]);
 
         try {
@@ -111,7 +111,7 @@ class UserController extends Controller
             $user->name = $request->input('name');
             $user->email = $request->input('email');
             $user->email_verified_at = $request->input('email_verified_at');
-            $user->admin = $request->input('admin');
+            $user->type = $request->input('type');
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User updated successfully!');

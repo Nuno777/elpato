@@ -21,28 +21,28 @@ class DatabaseSeeder extends Seeder
                 'email' => 'skeleton@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
-                'admin' => 'A_HaQD1SkWsGN0tYW8DOZLuTm61',
+                'type' => 'admin',
             ],
             [
                 'name' => 'Pekka',
                 'email' => 'pekka@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
-                'admin' => 'A_HaQD1SkWsGN0tYW8DOZLuTm61',
+                'type' => 'admin',
             ],
             [
                 'name' => 'ET',
                 'email' => 'et13@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
-                'admin' => '0',
+                'type' => 'worker',
             ],
             [
                 'name' => 'Calvo',
                 'email' => 'calvo@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
-                'admin' => '0',
+                'type' => 'general',
             ]
 
         ];

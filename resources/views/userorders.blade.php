@@ -101,7 +101,7 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->signature ? 'yes' : 'no' }}
                                 </td>
                                 <td>
-                                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                    @if (auth()->check() && auth()->user()->type == 'admin')
                                         <a href="{{ route('editorderstatus.edit', $order->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-warning">
                                                 <i class="mdi mdi-square-edit-outline text-white"></i>

@@ -66,7 +66,7 @@
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id || auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                            @if (auth()->user()->id == $order->user_id || auth()->user()->type == 'admin')
                                 <tr
                                     style="background-color:
                             @if ($order->status == 'Ready') #85f36e;

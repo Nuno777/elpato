@@ -32,17 +32,19 @@
                                 <td style="width: 25%" class="sorting_disabled">{{ $user->name }}</td>
                                 <td style="width: 35%" class="sorting_disabled">{{ $user->email }}</td>
                                 <td style="width: 20%" class="sorting_disabled">
-                                    @if ($user->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                    @if ($user->type == 'admin')
                                         Admin
-                                    @elseif ($user->admin == 0)
+                                    @elseif ($user->type == 'general')
+                                        General
+                                    @elseif ($user->type == 'worker')
                                         Worker
                                     @else
-                                        {{ $user->admin }}
+                                        {{ $user->type }}
                                     @endif
                                 </td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
-                                @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                                @if (auth()->check() && auth()->user()->type == 'admin')
                                     <td style="width: 5%" class="sorting_disabled">
                                         <a href="{{ route('user.orders', $user->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-primary">
@@ -83,7 +85,7 @@
                     </tbody>
                 </table>
                 <br>
-                @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                @if (auth()->check() && auth()->user()->type == 'admin')
                     <div>
                         <a href="{{ route('createuser') }}"><button class="btn btn-primary">Create
                                 User</button></a>

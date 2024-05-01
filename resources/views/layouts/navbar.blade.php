@@ -20,7 +20,7 @@
                         </a>
                     </li>
 
-                    @if (auth()->check() && auth()->user()->admin == 'A_HaQD1SkWsGN0tYW8DOZLuTm61')
+                    @if (auth()->check() && auth()->user()->type == 'admin')
                         <li
                             class="has-sub @if (Request::is('adminpainel')) active show @elseif (Request::is('createuser')) active show
                             @elseif (Request::is('allusers')) active show @elseif (Request::is('allorders')) active show @elseif (Request::is('allftid')) active show @endif">
