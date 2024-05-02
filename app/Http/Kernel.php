@@ -69,5 +69,6 @@ class Kernel extends HttpKernel
         'general' => \App\Http\Middleware\Worker::class,
         'worker' => \App\Http\Middleware\Worker::class,
         'admin.or.general' => \App\Http\Middleware\AdminOrGeneral::class,
+        'access.drop.order' => \App\Http\Middleware\AccessDropsOrOrders::class,
     ];
 }

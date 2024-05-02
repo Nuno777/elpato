@@ -6,6 +6,7 @@ use App\Http\Middleware\Admin;
 use App\Http\Middleware\General;
 use App\Http\Middleware\Worker;
 use App\Http\Middleware\AdminOrGeneral;
+use App\Http\Middleware\AccessDropsOrOrders;
 use App\Http\Controllers\DropController;
 use App\Http\Controllers\OrderController;
 use App\Http\Controllers\ftidController;
@@ -19,17 +20,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
     Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-
-    //public routes drops
-    Route::get('/drops', [DropController::class, 'index'])->name('drops');
-
-    //public routes orders
-    Route::get('/orders', [OrderController::class, 'index'])->name('orders');
-    Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
-    Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
-
-    //public routes ftid
-    Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
 
     //perms admin
     Route::middleware(['admin', Admin::class])->group(function () {
@@ -66,27 +56,35 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
     });
 
-    //perms general
-    Route::middleware(['general', General::class])->group(function () {
-
-      
-    });
-
-    //perms worker
-    Route::middleware(['worker', worker::class])->group(function () {
-    });
-
-    Route::middleware(['admin.or.general',AdminOrGeneral::class])->group(function () {
+    //perms admin or general
+    Route::middleware(['admin.or.general', AdminOrGeneral::class])->group(function () {
 
         Route::get('/editorder/{id}/edit', [OrderController::class, 'edit'])->name('editorder.edit');
         Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
         Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 
+        Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
         Route::get('/createftid', [ftidController::class, 'create'])->name('createftid');
         Route::post('/createftid', [ftidController::class, 'store'])->name('ftid.store');
         Route::get('/ftid/{id}/edit', [ftidController::class, 'edit'])->name('editftid.edit');
         Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
         Route::delete('/ftids/{id}', [ftidController::class, 'destroy'])->name('ftid.destroy');
+    });
+
+    Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
+        Route::get('/drops', [DropController::class, 'index'])->name('drops');
+
+        Route::get('/orders', [OrderController::class, 'index'])->name('orders');
+        Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
+        Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+    });
+
+    //perms general
+    Route::middleware(['general', General::class])->group(function () {
+    });
+
+    //perms worker
+    Route::middleware(['worker', worker::class])->group(function () {
     });
 });
 
