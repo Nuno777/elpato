@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('tracking')->notnull();
             $table->string('store')->notnull();
             $table->text('label')->notnull(); // Para armazenar o caminho do arquivo PDF ou PNG
-            $table->string('status')->notnull();
+            $table->string('status')->notnull()->default('FTID Created');
             $table->string('method')->notnull();
             $table->string('comments')->nullable();
             $table->date('label_creation_date')->notnull();
