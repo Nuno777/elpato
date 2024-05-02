@@ -13,12 +13,12 @@ return new class extends Migration
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id();
-            $table->string('name')->unique();
-            $table->string('email')->unique();
+            $table->string('name')->unique()->notnull();
+            $table->string('email')->unique()->notnull();
             $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
-            $table->enum('type', ['worker', 'general', 'admin']);
-            //$table->string('admin')->notnull();
+            $table->string('password')->notnull();
+            $table->enum('type', ['worker', 'general', 'admin'])->notnull();
+            $table->string('telegram')->unique()->notnull();
             $table->rememberToken();
             $table->timestamps();
         });

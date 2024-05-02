@@ -18,6 +18,7 @@
                             <th>Name</th>
                             <th>Email</th>
                             <th>Roles</th>
+                            <th>Telegram</th>
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
@@ -42,6 +43,7 @@
                                         {{ $user->type }}
                                     @endif
                                 </td>
+                                <td style="width: 20%" class="sorting_disabled">{{ $user->telegram }}</td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')

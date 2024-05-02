@@ -48,12 +48,19 @@
                             <div class="row">
                                 <div class="col-4">
                                     <div class="form-group">
+                                        <label for="telegram">Telegram</label>
+                                        <input type="text" name="telegram" id="telegram"
+                                            class="form-control" placeholder="Telegram" required>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="form-group">
                                         <label for="email_verified_at">Create Check</label>
                                         <input type="datetime" name="email_verified_at" id="email_verified_at"
                                             class="form-control" placeholder="Create Check" required readonly>
                                     </div>
                                 </div>
-                                <div class="col-6">
+                                <div class="col-3">
                                     <div class="form-group">
                                         <input type="hidden" name="type" class="form-control" placeholder="Perms"
                                             value="worker" required readonly>

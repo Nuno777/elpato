@@ -50,7 +50,7 @@
 
                         <div class="col-sm-6">
                             <div class="row">
-                                <div class="col-6">
+                                <div class="col-3">
                                     <div class="form-group">
                                         <label for="type">Role</label>
                                         <select name="type" class="form-control" required>
@@ -68,8 +68,16 @@
                                     </div>
                                 </div>
 
+                                <div class="col-4">
+                                    <div class="form-group">
+                                        <label for="telegram">Telegram</label>
+                                        <input type="text" name="telegram" class="form-control"
+                                            value="{{ old('telegram') ?? $user->telegram }}"
+                                            placeholder="Telegram" required>
+                                    </div>
+                                </div>
 
-                                <div class="col-6">
+                                <div class="col-5">
                                     <div class="form-group">
                                         <label for="email_verified_at">Create Check</label>
                                         <input type="text" name="email_verified_at" class="form-control"

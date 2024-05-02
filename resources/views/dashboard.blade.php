@@ -65,6 +65,7 @@
                                     Analytics</span></a>
                         </div>
                     </div>
+
                     <div class="card-body">
                         <p>Your Analytics:</p>
                     </div>

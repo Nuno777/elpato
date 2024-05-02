@@ -66,29 +66,32 @@
                         </li>
                     @endif
 
+                    @if (auth()->check() && auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker')
+                        <li class="@if (Request::is('drops')) active @endif">
+                            <a class="sidenav-item-link" href="{{ route('drops') }}">
+                                <i class="mdi mdi-truck"></i>
+                                <span class="nav-text">Drops</span>
+                            </a>
+                        </li>
 
-                    <li class="@if (Request::is('drops')) active @endif">
-                        <a class="sidenav-item-link" href="{{ route('drops') }}">
-                            <i class="mdi mdi-truck"></i>
-                            <span class="nav-text">Drops</span>
-                        </a>
-                    </li>
+                        <li class="@if (Request::is('orders')) active @endif">
+                            <a class="sidenav-item-link" href="{{ route('orders') }}">
+                                <i class="mdi mdi-package-variant-closed"></i>
+                                <span class="nav-text">Orders</span>
+                            </a>
+                        </li>
+                    @endif
 
-                    <li class="@if (Request::is('orders')) active @endif">
-                        <a class="sidenav-item-link" href="{{ route('orders') }}">
-                            <i class="mdi mdi-package-variant-closed"></i>
-                            <span class="nav-text">Orders</span>
-                        </a>
-                    </li>
-
-                    <li
-                        class="@if (Request::is('ftid')) active @elseif(Request::is('createftid')) active @endif">
-                        <a class="sidenav-item-link" href="{{ route('ftid') }}">
-                            <i class="mdi mdi-file-pdf"></i>
-                            <span class="nav-text">FTID</span>
-                        </a>
-                    </li>
-
+                    @if (auth()->check() && auth()->user()->type == 'admin' || auth()->user()->type == 'general')
+                        <li
+                            class="@if (Request::is('ftid')) active @elseif(Request::is('createftid')) active @endif">
+                            <a class="sidenav-item-link" href="{{ route('ftid') }}">
+                                <i class="mdi mdi-file-pdf"></i>
+                                <span class="nav-text">FTID</span>
+                            </a>
+                        </li>
+                    @endif
+                    
                     {{--  <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">
                             <i class="mdi mdi-chart-line"></i>

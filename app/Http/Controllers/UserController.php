@@ -35,6 +35,7 @@ class UserController extends Controller
             'password' => 'required',
             'email_verified_at' => 'required',
             'type' => 'required',
+            'telegram' => 'required',
         ]);
 
         try {
@@ -44,6 +45,7 @@ class UserController extends Controller
             $user->password = bcrypt($fields['password']); // Criptografar a senha antes de salvar
             $user->email_verified_at = $fields['email_verified_at'];
             $user->type = $fields['type'];
+            $user->telegram = $fields['telegram'];
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User created successfully!');
@@ -103,6 +105,7 @@ class UserController extends Controller
             'email' => 'required',
             'email_verified_at' => 'required',
             'type' => 'required',
+            'telegram' => 'required',
         ]);
 
         try {
@@ -112,6 +115,7 @@ class UserController extends Controller
             $user->email = $request->input('email');
             $user->email_verified_at = $request->input('email_verified_at');
             $user->type = $request->input('type');
+            $user->telegram = $request->input('telegram');
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User updated successfully!');
