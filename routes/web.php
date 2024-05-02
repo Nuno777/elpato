@@ -71,6 +71,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::delete('/ftids/{id}', [ftidController::class, 'destroy'])->name('ftid.destroy');
     });
 
+    //perms admin or general or worker
     Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
         Route::get('/drops', [DropController::class, 'index'])->name('drops');
 
@@ -79,13 +80,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
     });
 
-    //perms general
-    Route::middleware(['general', General::class])->group(function () {
-    });
-
-    //perms worker
-    Route::middleware(['worker', worker::class])->group(function () {
-    });
 });
 
 require __DIR__ . '/auth.php';

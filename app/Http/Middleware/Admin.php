@@ -15,6 +15,6 @@ class Admin
             return $next($request);
         }
 
-        abort(403, 'Perms de admin');
+        return redirect()->route('dashboard')->with('error', 'An error has occurred!');
     }
 }

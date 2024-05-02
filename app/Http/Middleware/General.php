@@ -14,6 +14,6 @@ class General
             return $next($request);
         }
 
-        abort(403, 'Perms de geral');
+        return redirect()->route('dashboard')->with('error', 'An error has occurred!');
     }
 }

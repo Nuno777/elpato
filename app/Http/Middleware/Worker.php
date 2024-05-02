@@ -15,6 +15,6 @@ class Worker
             return $next($request);
         }
 
-        abort(403, 'Perms de worker');
+        return redirect()->route('dashboard')->with('error', 'An error has occurred!');
     }
 }
