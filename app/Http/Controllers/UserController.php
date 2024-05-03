@@ -70,6 +70,7 @@ class UserController extends Controller
         return view('allusers', ['users' => $users, 'drops' => $drops]);
     }
 
+
     public function filterUser(Request $request)
     {
         $userRole = $request->input('userRole'); // Campo para selecionar o papel do usuário (admin ou worker)

@@ -75,21 +75,19 @@ class DropController extends Controller
     {
     }
 
-    public function showUserDrops()
+    public function showUserDrops($userId)
     {
-        // Obtém o ID da drop associada ao usuário atual
-        $dropId = auth()->user()->drop_id;
+        $user = User::findOrFail($userId);
 
-        // Verifica se o usuário atual tem uma drop associada
-        if ($dropId !== null) {
-            // Obtém a drop associada ao usuário atual
-            $drops = Drop::where('id', $dropId)->get();
-        } else {
-            // Se o usuário não tiver uma drop associada, retorna uma coleção vazia
-            $drops = collect();
+        // Verifique se o usuário é um trabalhador
+        if ($user->type != 'worker') {
+            return redirect()->back()->with('error', 'User is not a worker.');
         }
 
-        return view('userdrops', compact('drops'));
+        // Obtenha o drop atribuído ao usuário
+        $drop = $user->drop;
+
+        return view('userdrops', ['user' => $user, 'drop' => $drop]);
     }
 
 
