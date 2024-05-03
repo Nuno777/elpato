@@ -35,7 +35,7 @@
                     {{-- <h1 class="error-title">404</h1> --}}
                     <img src="{{ asset('/images/error.png') }}" width="60%" alt="Error 404">
                     <p class="pt-4 pb-5 error-subtitle">Looks like something went wrong.</p>
-                    <a href="{{ route('auth.login') }}" class="btn btn-primary btn-pill">Back to Login</a>
+                    <a href="{{ route('dashboard') }}" class="btn btn-primary btn-pill">Go Back</a>
                 </div>
             </div>
         </div>

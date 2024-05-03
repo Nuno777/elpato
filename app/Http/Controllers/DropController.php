@@ -12,9 +12,13 @@ class DropController extends Controller
      */
     public function index()
     {
-        $drops = Drop::All();
-        $drops = Drop::orderBy('id', 'DESC')->get();
-        return view('drops', compact('drops'));
+        if (auth()->user()->type == 'worker') {
+            $drops = []; // Retorna uma lista vazia para trabalhadores
+        } else {
+            $drops = Drop::all();
+            $drops = Drop::orderBy('id', 'DESC')->get();
+        }
+        return view('drops', ['drops' => $drops]);
     }
 
 

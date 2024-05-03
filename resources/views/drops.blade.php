@@ -49,9 +49,12 @@
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
-                                        <button type="button" class="btn btn-primary" data-toggle="modal"
-                                            data-target="#createorder{{ $drop->id_drop }} ">
-                                            <i class="mdi mdi-package-variant "></i></button>
+                                        @if (auth()->check() && (auth()->user()->type == 'admin' || auth()->user()->type == 'general'))
+                                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                                data-target="#createorder{{ $drop->id_drop }} ">
+                                                <i class="mdi mdi-package-variant "></i>
+                                            </button>
+                                        @endif
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
@@ -64,8 +67,8 @@
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
-                                            <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
-                                                method="POST" onsubmit="return confirm('Delete Drop?');">
+                                            <form role="form" action="{{ route('drops.destroy', $drop->id) }}" method="POST"
+                                                onsubmit="return confirm('Delete Drop?');">
                                                 @csrf
                                                 @method('DELETE')
 
@@ -75,6 +78,7 @@
                                             </form>
                                         @endif
                                     </td>
+
                                 </tr>
                                 @include('modal.createorders', [
                                     'id_drop' => $drop->id_drop,

@@ -24,6 +24,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -45,6 +46,21 @@
                                 </td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->telegram }}</td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
+
+                                <td style="width: 5%" class="sorting_disabled">
+                                    @if (auth()->check() && auth()->user()->type == 'admin')
+                                        <form action="{{ route('assign.worker.drop', $user->id) }}" method="POST">
+                                            @csrf
+                                            <select name="drop_id" class="form-control">
+                                                @foreach ($drops as $drop)
+                                                    <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
+                                                @endforeach
+                                            </select>
+                                            <button type="submit" class="btn btn-primary">Assign Drop</button>
+                                        </form>
+                                    @endif
+                                </td>
+
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')
                                     <td style="width: 5%" class="sorting_disabled">

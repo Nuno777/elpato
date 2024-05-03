@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\User;
+use App\Models\Drop;
 
 class UserController extends Controller
 {
@@ -65,7 +66,9 @@ class UserController extends Controller
     public function allshow()
     {
         $users = User::all();
-        return view('allusers', compact('users'));
+        $drops = Drop::all();
+
+        return view('allusers', ['users' => $users, 'drops' => $drops]);
     }
 
     public function filterUser(Request $request)
@@ -122,6 +125,25 @@ class UserController extends Controller
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
         }
+    }
+
+    public function assignDropToWorker(Request $request, $userId)
+    {
+        // Verifica se o usuário logado é um administrador
+        if (auth()->user()->type != 'admin') {
+            return redirect()->back()->with('error', 'You do not have permission to assign drops.');
+        }
+
+        $user = User::findOrFail($userId);
+        $dropId = $request->input('drop_id');
+        $drop = Drop::findOrFail($dropId);
+
+        // Atribui a drop ao usuário
+        $user->drop_id = $dropId;
+        $user->save();
+
+        return redirect()->back()->with('success', 'Drop assigned successfully.');
+
     }
 
 

@@ -54,6 +54,9 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
         Route::get('/usersorders/{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
         Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+
+        Route::post('/assign-drop/{userId}', [UserController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+
     });
 
     //perms admin or general
