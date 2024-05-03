@@ -91,7 +91,7 @@
                             </a>
                         </li>
                     @endif
-                    
+
                     {{--  <li class="@if (Request::is('analytics')) active @endif">
                         <a class="sidenav-item-link" href="{{ '/analytics' }}">
                             <i class="mdi mdi-chart-line"></i>
