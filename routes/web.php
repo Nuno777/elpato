@@ -56,15 +56,11 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
 
         Route::post('/assign-drop/{userId}', [UserController::class, 'assignDropToWorker'])->name('assign.worker.drop');
-
     });
 
     //perms admin or general
     Route::middleware(['admin.or.general', AdminOrGeneral::class])->group(function () {
 
-        Route::get('/editorder/{id}/edit', [OrderController::class, 'edit'])->name('editorder.edit');
-        Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
-        Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
 
         Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
         Route::get('/createftid', [ftidController::class, 'create'])->name('createftid');
@@ -81,8 +77,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/orders', [OrderController::class, 'index'])->name('orders');
         Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
         Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+        Route::get('/editorder/{id}/edit', [OrderController::class, 'edit'])->name('editorder.edit');
+        Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
+        Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
     });
-
 });
 
 require __DIR__ . '/auth.php';

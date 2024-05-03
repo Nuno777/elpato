@@ -109,10 +109,8 @@
                                         </a>
                                     @endif
                                 </td>
-
                             </tr>
                         @endforeach
-
                     </tbody>
                 </table>
                 <br>
@@ -120,7 +118,5 @@
             </div>
         </div>
     </div>
-
 </div>
-
 @endsection

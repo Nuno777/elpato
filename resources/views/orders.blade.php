@@ -86,28 +86,28 @@
                                     <td style="width: 5%" class="sorting_disabled"><b>{{ $order->status }}</b></td>
                                     <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
 
-                                    @if (auth()->check())
-                                        @if (auth()->check() && auth()->user()->type == 'admin')
-                                            <td>
-                                                <a href="{{ route('editorderstatus.edit', $order->id) }}"
-                                                    style="width: 100%">
-                                                    <button type="submit" class="btn btn-warning">
-                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
-                                                    </button>
-                                                </a>
-                                            </td>
-                                        @endif
 
-                                        @if (auth()->check() && auth()->user()->type == 'general')
-                                            <td style="width: 5%" class="sorting_disabled">
-                                                <a href="{{ route('editorder.edit', $order->id) }}"
-                                                    style="width: 100%">
-                                                    <button type="submit" class="btn btn-warning">
-                                                        <i class="mdi mdi-square-edit-outline text-white"></i>
-                                                    </button>
-                                                </a>
-                                            </td>
-                                        @endif
+                                    @if (auth()->check() && auth()->user()->type == 'admin')
+                                        <td>
+                                            <a href="{{ route('editorderstatus.edit', $order->id) }}"
+                                                style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    @endif
+
+                                    @if (auth()->check() && auth()->user()->type == 'general' || auth()->user()->type == 'worker')
+                                        <td style="width: 5%" class="sorting_disabled">
+                                            <a href="{{ route('editorder.edit', $order->id) }}" style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    @endif
+                                    @if (auth()->check())
                                         <td style="width: 5%" class="sorting_disabled">
                                             <button class="btn btn-primary" type="button" data-toggle="modal"
                                                 data-target="#showorder{{ $order->id }}"> <i

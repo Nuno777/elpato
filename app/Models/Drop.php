@@ -20,6 +20,12 @@ class Drop extends Model
         return $this->hasMany(Order::class, 'id_drop', 'id_drop');
     }
 
+
+    public function user()
+    {
+        return $this->hasOne(User::class);
+    }
+
     /**
      * Registra um evento para atualizar automaticamente o campo 'status' nos pedidos associados.
      */

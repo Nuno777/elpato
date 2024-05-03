@@ -13,11 +13,22 @@ class DropController extends Controller
     public function index()
     {
         if (auth()->user()->type == 'worker') {
-            $drops = []; // Retorna uma lista vazia para trabalhadores
+            // Recupera a drop atribuída ao trabalhador
+            $workerDrop = auth()->user()->drop;
+
+            // Verifica se a drop atribuída ao trabalhador existe
+            if ($workerDrop) {
+                // Retorna apenas a drop atribuída ao trabalhador
+                $drops = [$workerDrop];
+            } else {
+                // Se o trabalhador não tiver nenhuma drop atribuída, retorna uma lista vazia
+                $drops = [];
+            }
         } else {
             $drops = Drop::all();
             $drops = Drop::orderBy('id', 'DESC')->get();
         }
+
         return view('drops', ['drops' => $drops]);
     }
 
