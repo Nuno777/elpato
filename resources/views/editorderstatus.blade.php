@@ -245,7 +245,7 @@
                         </div>
                     </div>
                     <button type="submit" class="btn btn-primary">Update Status</button>
-                    <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
+                    <a href="{{ route('orders') }}" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>

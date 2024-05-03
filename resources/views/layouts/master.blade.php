@@ -25,6 +25,7 @@
     <link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 
     <script src="{{ asset('/plugins/nprogress/nprogress.js') }}"></script>
+
 </head>
 
 

@@ -52,10 +52,12 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
 
-        Route::get('/usersorders/{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
-        Route::get('/usersftids/{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+        Route::get('/usersorders{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
+        Route::get('/usersftids{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+        Route::get('/usersdrops{id}', [DropController::class, 'viewdrops'])->name('user.drops');
 
-        Route::post('/assign-drop/{userId}', [UserController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+        Route::post('/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+
     });
 
     //perms admin or general

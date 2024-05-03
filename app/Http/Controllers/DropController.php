@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Drop;
+use App\Models\User;
 
 class DropController extends Controller
 {
@@ -13,9 +14,7 @@ class DropController extends Controller
     public function index()
     {
         if (auth()->user()->type == 'worker') {
-            // Recupera a drop atribuída ao trabalhador
             $workerDrop = auth()->user()->drop;
-
             // Verifica se a drop atribuída ao trabalhador existe
             if ($workerDrop) {
                 // Retorna apenas a drop atribuída ao trabalhador
@@ -28,18 +27,17 @@ class DropController extends Controller
             $drops = Drop::all();
             $drops = Drop::orderBy('id', 'DESC')->get();
         }
-
-        return view('drops', ['drops' => $drops]);
+        $users = User::all();
+        return view('drops', ['drops' => $drops, 'users' => $users]);
     }
-
 
     /**
      * Show the form for creating a new resource.
      */
     public function create()
     {
-        $drops = new Drop();
-        return view('createdrops', compact('drops'));
+        $drop = new Drop();
+        return view('createdrops', compact('drop'));
     }
 
     /**
@@ -76,6 +74,25 @@ class DropController extends Controller
     public function show(string $id)
     {
     }
+
+    public function viewdrops()
+    {
+        // Obtém o ID da drop associada ao usuário atual
+        $dropId = auth()->user()->drop_id;
+
+        // Verifica se o usuário atual tem uma drop associada
+        if ($dropId !== null) {
+            // Obtém a drop associada ao usuário atual
+            $drops = Drop::where('id', $dropId)->get();
+        } else {
+            // Se o usuário não tiver uma drop associada, retorna uma coleção vazia
+            $drops = collect();
+        }
+
+        return view('viewdrops', compact('drops'));
+    }
+
+
 
 
     /**
@@ -116,6 +133,24 @@ class DropController extends Controller
         }
     }
 
+
+    public function assignDropToWorker(Request $request)
+    {
+        if (auth()->user()->type != 'admin') {
+            return redirect()->back()->with('error', 'You do not have permission to assign drops.');
+        }
+
+        $userId = $request->input('user_id');
+        $user = User::findOrFail($userId);
+        $dropId = $request->input('drop_id');
+        $drop = Drop::findOrFail($dropId);
+
+        // Atribui a drop ao usuário
+        $user->drop_id = $dropId;
+        $user->save();
+
+        return redirect()->back()->with('success', 'Drop assigned successfully.');
+    }
 
     /**
      * Remove the specified resource from storage.

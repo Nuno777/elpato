@@ -50,6 +50,15 @@
 
                         <div class="col-sm-6">
                             <div class="row">
+                                <div class="col-4">
+                                    <div class="form-group">
+                                        <label for="telegram">Telegram</label>
+                                        <input type="text" name="telegram" class="form-control"
+                                            value="{{ old('telegram') ?? $user->telegram }}" placeholder="Telegram"
+                                            required>
+                                    </div>
+                                </div>
+
                                 <div class="col-3">
                                     <div class="form-group">
                                         <label for="type">Role</label>
@@ -59,21 +68,13 @@
                                                 Admin
                                             </option>
                                             <option value="general"
-                                                {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>General
+                                                {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
+                                                General
                                             </option>
                                             <option value="worker"
                                                 {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
                                             </option>
                                         </select>
-                                    </div>
-                                </div>
-
-                                <div class="col-4">
-                                    <div class="form-group">
-                                        <label for="telegram">Telegram</label>
-                                        <input type="text" name="telegram" class="form-control"
-                                            value="{{ old('telegram') ?? $user->telegram }}"
-                                            placeholder="Telegram" required>
                                     </div>
                                 </div>
 

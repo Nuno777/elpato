@@ -55,7 +55,6 @@ class UserController extends Controller
         }
     }
 
-
     /**
      * Display the specified resource.
      */
@@ -126,26 +125,6 @@ class UserController extends Controller
             return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
         }
     }
-
-    public function assignDropToWorker(Request $request, $userId)
-    {
-        // Verifica se o usuário logado é um administrador
-        if (auth()->user()->type != 'admin') {
-            return redirect()->back()->with('error', 'You do not have permission to assign drops.');
-        }
-
-        $user = User::findOrFail($userId);
-        $dropId = $request->input('drop_id');
-        $drop = Drop::findOrFail($dropId);
-
-        // Atribui a drop ao usuário
-        $user->drop_id = $dropId;
-        $user->save();
-
-        return redirect()->back()->with('success', 'Drop assigned successfully.');
-
-    }
-
 
     /**
      * Remove the specified resource from storage.

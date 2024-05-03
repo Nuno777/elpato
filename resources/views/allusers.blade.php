@@ -31,9 +31,9 @@
                         @foreach ($users as $user)
                             <tr>
                                 <td style="width: 5%" class="sorting_disabled">{{ $user->id }}</td>
-                                <td style="width: 25%" class="sorting_disabled">{{ $user->name }}</td>
-                                <td style="width: 35%" class="sorting_disabled">{{ $user->email }}</td>
-                                <td style="width: 20%" class="sorting_disabled">
+                                <td style="width: 10%" class="sorting_disabled">{{ $user->name }}</td>
+                                <td style="width: 20%" class="sorting_disabled">{{ $user->email }}</td>
+                                <td style="width: 10%" class="sorting_disabled">
                                     @if ($user->type == 'admin')
                                         Admin
                                     @elseif ($user->type == 'general')
@@ -44,25 +44,20 @@
                                         {{ $user->type }}
                                     @endif
                                 </td>
-                                <td style="width: 20%" class="sorting_disabled">{{ $user->telegram }}</td>
-                                <td style="width: 20%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
-
-                                <td style="width: 5%" class="sorting_disabled">
-                                    @if (auth()->check() && auth()->user()->type == 'admin')
-                                        <form action="{{ route('assign.worker.drop', $user->id) }}" method="POST">
-                                            @csrf
-                                            <select name="drop_id" class="form-control">
-                                                @foreach ($drops as $drop)
-                                                    <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
-                                                @endforeach
-                                            </select>
-                                            <button type="submit" class="btn btn-primary">Assign Drop</button>
-                                        </form>
-                                    @endif
-                                </td>
-
+                                <td style="width: 15%" class="sorting_disabled">{{ $user->telegram }}</td>
+                                <td style="width: 15%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')
+                                    <td style="width: 5%" class="sorting_disabled">
+                                        @if ($user->type === 'worker')
+                                            <a href="{{ route('user.drops', $user->id) }}" style="width: 100%">
+                                                <button type="button" class="btn btn-success">
+                                                    <i class="mdi mdi-truck"></i>
+                                                </button>
+                                            </a>
+                                        @endif
+                                    </td>
+
                                     <td style="width: 5%" class="sorting_disabled">
                                         <a href="{{ route('user.orders', $user->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-primary">
