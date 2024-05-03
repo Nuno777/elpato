@@ -75,7 +75,7 @@ class DropController extends Controller
     {
     }
 
-    public function viewdrops()
+    public function showUserDrops()
     {
         // Obtém o ID da drop associada ao usuário atual
         $dropId = auth()->user()->drop_id;
@@ -89,7 +89,7 @@ class DropController extends Controller
             $drops = collect();
         }
 
-        return view('viewdrops', compact('drops'));
+        return view('userdrops', compact('drops'));
     }
 
 
