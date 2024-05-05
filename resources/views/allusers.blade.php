@@ -17,8 +17,8 @@
                             <th>#</th>
                             <th>Name</th>
                             <th>Email</th>
-                            <th>Roles</th>
                             <th>Telegram</th>
+                            <th>Roles</th>
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
@@ -33,6 +33,7 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $user->id }}</td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $user->name }}</td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email }}</td>
+                                <td style="width: 15%" class="sorting_disabled">{{ $user->telegram }}</td>
                                 <td style="width: 10%" class="sorting_disabled">
                                     @if ($user->type == 'admin')
                                         Admin
@@ -44,7 +45,6 @@
                                         {{ $user->type }}
                                     @endif
                                 </td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $user->telegram }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')

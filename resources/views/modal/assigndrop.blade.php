@@ -19,7 +19,7 @@
                                 <select name="user_id" class="form-control">
                                     @foreach ($users as $user)
                                         @if ($user->type == 'worker')
-                                            <option value="{{ $user->id }}">{{ $user->name }}</option>
+                                            <option value="{{ $user->id }}" required>{{ $user->name }}</option>
                                         @endif
                                     @endforeach
                                 </select>
@@ -32,7 +32,7 @@
                                 <select name="drop_id" class="form-control">
                                     @foreach ($drops as $drop)
                                         @if ($drop->status != 'Problem')
-                                            <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
+                                            <option value="{{ $drop->id }}" required>{{ $drop->id_drop }}</option>
                                         @endif
                                     @endforeach
                                 </select>

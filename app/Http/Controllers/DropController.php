@@ -150,6 +150,31 @@ class DropController extends Controller
         return redirect()->back()->with('success', 'Drop assigned successfully.');
     }
 
+    public function removeDropToWorker(Request $request)
+    {
+        // Verifica se o usuário tem permissão para remover drops
+        if (auth()->user()->type != 'admin') {
+            return redirect()->back()->with('error', 'You do not have permission to remove drops.');
+        }
+
+        // Obtém o ID do usuário e da drop do formulário
+        $userId = $request->input('user_id');
+        $user = User::findOrFail($userId);
+        $dropId = $request->input('drop_id');
+
+        // Verifica se a drop associada ao usuário existe
+        if ($user->drop_id == $dropId) {
+            // Remove a associação entre o usuário e a drop
+            $user->drop_id = null;
+            $user->save();
+
+            return redirect()->back()->with('success', 'Drop removed successfully.');
+        } else {
+            return redirect()->back()->with('error', 'Drop is not assigned to this user.');
+        }
+    }
+
+
     /**
      * Remove the specified resource from storage.
      */

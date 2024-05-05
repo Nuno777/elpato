@@ -26,6 +26,7 @@
                                     <th style="width: 5%">Type</th>
                                     <th style="width: 5%">Expired At</th>
                                     <th style="width: 5%">Personal <br> Notes</th>
+                                    <th></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -46,22 +47,38 @@
                                     <td>{{ $drop->type }}</td>
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
+                                    <td>
+                                        <form action="{{ route('remove.drop.worker') }}" method="POST">
+                                            @csrf
+                                            <input type="hidden" name="user_id" value="{{ $user->id }}">
+                                            <input type="hidden" name="drop_id" value="{{ $drop->id }}">
+                                            <button type="submit" class="btn btn-danger"><i class="mdi mdi-trash-can"
+                                                    data-toggle="tooltip"></i></button>
+                                        </form>
+                                    </td>
                                 </tr>
-
                             </tbody>
-
                         </table>
-                        @if (auth()->check() && auth()->user()->type == 'admin')
-                            <div>
-                                <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create Drop</button></a>
-                            </div>
-                        @endif
-                    @else
-                        <p>No drop assigned to this user.</p>
+
+
+                        <a href="{{ route('drops') }}">
+                            <button type="button" class="btn btn-success" data-toggle="modal"
+                                data-target="#assigndrop">
+                                Assign Drop
+                            </button>
+                        </a>
                     </div>
+                @else
+                    <br>
+                    <p>No drop assigned to this user.</p>
+                    @if (auth()->check() && auth()->user()->type == 'admin')
+                        <div>
+                            <a href="{{ route('drops') }}"><button class="btn btn-primary">Create
+                                    Drop</button></a>
+                        </div>
+                    @endif
                 @endif
             </div>
-
         </div>
     </div>
 </div>
