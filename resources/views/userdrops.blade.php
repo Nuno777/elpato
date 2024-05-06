@@ -94,9 +94,10 @@
                                 alt="User Image">
                             <h4 class="username">{{ $user->name }}</h4>
                         </div>
+
                     </div>
                     <div class="card-body pb-0" data-simplebar style="height: 387px;">
-                        <!-- Iterar sobre as mensagens aqui -->
+                        <!-- Media Chat Left -->
                         @foreach ($messages as $message)
                             <div class="media media-chat">
                                 <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
@@ -108,6 +109,18 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <!-- Media Chat Right -->
+                            <div class="media media-chat media-chat-right">
+                                <div class="media-body">
+                                    <div class="text-content">
+                                        <span class="message">{{ $message->response }}</span>
+                                        <time class="time">{{ $message->created_at->diffForHumans() }}</time>
+                                    </div>
+                                </div>
+                                <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
+                                    class="rounded-circle" alt="Avatar Image">
+                            </div>
                         @endforeach
                     </div>
                     <div class="chat-footer">
@@ -118,15 +131,21 @@
                                 <div class="input-group-prepend">
                                     <span class="emoticon-icon mdi mdi-send"></span>
                                 </div>
-                                <input type="text" class="form-control" name="message" value="{{ $message->message }}" aria-label="Text input with dropdown button">
-                                <button type="submit" class="btn btn-primary">Update</button>
+                                <input type="text" class="form-control" name="response"
+                                    value="{{ $message->response }}" aria-label="Text input with dropdown button">
+                                <button type="submit" class="btn btn-primary">Send</button>
                             </div>
                         </form>
                     </div>
                 </div>
             </div>
+
         </div>
         {{-- end message --}}
+
+
+
+
 
 
     </div>
