@@ -12,6 +12,7 @@ use App\Http\Controllers\OrderController;
 use App\Http\Controllers\ftidController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\MessageController;
 
 Route::get('/', [PageController::class, 'index'])->name('auth.login');
 
@@ -59,12 +60,11 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::post('/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
         Route::post('/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
 
-
+        Route::get('/show-messages/{userId}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
     });
 
     //perms admin or general
     Route::middleware(['admin.or.general', AdminOrGeneral::class])->group(function () {
-
 
         Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
         Route::get('/createftid', [ftidController::class, 'create'])->name('createftid');
@@ -84,6 +84,9 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/editorder/{id}/edit', [OrderController::class, 'edit'])->name('editorder.edit');
         Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
         Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
+
+        Route::get('/message/create', [MessageController::class, 'create'])->name('createmessage');
+        Route::post('/drops/send-request/{id_drop}', [MessageController::class, 'sendRequest'])->name('sendDropRequest');
     });
 });
 

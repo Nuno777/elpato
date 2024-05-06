@@ -31,7 +31,7 @@
                                 <label for="name">Drop</label>
                                 <select name="drop_id" class="form-control">
                                     @foreach ($drops as $drop)
-                                        @if ($drop->status != 'Problem')
+                                        @if ($drop->status != 'Problem' && $drop->status != 'Dont send' && $drop->status != 'Suspense')
                                             <option value="{{ $drop->id }}" required>{{ $drop->id_drop }}</option>
                                         @endif
                                     @endforeach

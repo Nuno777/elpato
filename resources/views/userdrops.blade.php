@@ -21,7 +21,7 @@
                                     <th style="width: 20%" class="sorting_disabled">Courier</th>
                                     <th style="width: 25%" class="sorting_disabled">Address</th>
                                     <th style="width: 5%" class="sorting_disabled">Courier <br> Package</th>
-                                    <th style="width: 5%" class="sorting_disabled">Status</th>
+                                    <th style="width: 10%" class="sorting_disabled">Status</th>
                                     <th style="width: 15%" class="sorting_disabled">Notes</th>
                                     <th style="width: 5%">Type</th>
                                     <th style="width: 5%">Expired At</th>
@@ -48,7 +48,7 @@
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
-                                        <form action="{{ route('remove.drop.worker') }}" method="POST">
+                                        <form action="{{ route('remove.drop.worker') }}" method="POST" onsubmit="return confirm('Delete Drop?');">
                                             @csrf
                                             <input type="hidden" name="user_id" value="{{ $user->id }}">
                                             <input type="hidden" name="drop_id" value="{{ $drop->id }}">
@@ -66,6 +66,7 @@
                                 data-target="#assigndrop">
                                 Assign Drop
                             </button>
+                            <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                         </a>
                     </div>
                 @else
@@ -73,8 +74,8 @@
                     <p>No drop assigned to this user.</p>
                     @if (auth()->check() && auth()->user()->type == 'admin')
                         <div>
-                            <a href="{{ route('drops') }}"><button class="btn btn-primary">Create
-                                    Drop</button></a>
+                            <br>
+                            <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                         </div>
                     @endif
                 @endif

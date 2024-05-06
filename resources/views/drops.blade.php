@@ -19,11 +19,12 @@
                                 <th style="width: 20%" class="sorting_disabled">Courier</th>
                                 <th style="width: 25%" class="sorting_disabled">Address</th>
                                 <th style="width: 5%" class="sorting_disabled">Courier <br> Package</th>
-                                <th style="width: 5%" class="sorting_disabled">Status</th>
+                                <th style="width: 10%" class="sorting_disabled">Status</th>
                                 <th style="width: 15%" class="sorting_disabled">Notes</th>
                                 <th style="width: 5%">Type</th>
                                 <th style="width: 5%">Expired At</th>
                                 <th style="width: 5%">Personal <br> Notes</th>
+                                <th></th>
                                 <th></th>
                                 <th></th>
                                 <th></th>
@@ -48,12 +49,28 @@
                                     <td>{{ $drop->type }}</td>
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
+
                                     <td>
-                                        <button type="button" class="btn btn-primary" data-toggle="modal"
-                                            data-target="#createorder{{ $drop->id_drop }} ">
-                                            <i class="mdi mdi-package-variant "></i>
-                                        </button>
+                                        @if (auth()->user()->type == 'worker')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                                <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                    data-target="#requestDropModal{{ $drop->id }}">
+                                                    <i class="mdi mdi-autorenew"></i>
+                                                </button>
+                                            @endif
+                                        @endif
                                     </td>
+
+
+                                    <td>
+                                        @if ($drop->status == 'Ready')
+                                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                                data-target="#createorder{{ $drop->id_drop }} ">
+                                                <i class="mdi mdi-package-variant "></i>
+                                            </button>
+                                        @endif
+                                    </td>
+
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
                                             <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
@@ -87,6 +104,10 @@
                                 ])
 
                                 @include('modal.assigndrop', [
+                                    'id_drop' => $drop->id_drop,
+                                ])
+
+                                @include('modal.requestdrop', [
                                     'id_drop' => $drop->id_drop,
                                 ])
                             @endforeach
