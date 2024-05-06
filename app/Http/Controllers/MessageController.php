@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Message;
 use App\Models\Drop;
+use App\Models\User;
 
 class MessageController extends Controller
 {
@@ -84,34 +85,39 @@ class MessageController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $messages = Message::orderBy('created_at', 'desc')->get();
+        return view('adminpainel', compact('messages'));
     }
 
     public function showMessageUser($userId)
     {
         // Recupera as mensagens do usuário com base no ID do usuário
+        $user = User::findOrFail($userId);
         $messages = Message::where('user_id', $userId)
-            ->orderBy('created_at', 'desc')
+            ->orderBy('created_at', 'asc')
             ->get();
 
+
         // Retorna a view com as mensagens do usuário
-        return view('userdrops', compact('messages'));
+        return view('userdrops', compact('messages', 'user'));
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(string $id)
+    public function edit(Message $message)
     {
-        //
+        return view('messages.edit', compact('message'));
     }
 
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
+    public function update(Request $request, Message $message)
     {
-        //
+        $request->validate([
+            'message' => 'required',
+        ]);
+
+        $message->update([
+            'message' => $request->message,
+        ]);
+
+        return redirect()->back()->with('success', 'Message updated successfully!');
     }
 
     /**

@@ -88,7 +88,10 @@ class DropController extends Controller
         // Obtenha o drop atribuído ao usuário
         $drop = $user->drop;
 
-        return view('userdrops', ['user' => $user, 'drop' => $drop]);
+        // Obtenha todas as mensagens associadas ao usuário
+        $messages = $user->messages()->orderBy('created_at', 'desc')->get();
+
+        return view('userdrops', ['user' => $user, 'drop' => $drop, 'messages' => $messages]);
     }
 
 

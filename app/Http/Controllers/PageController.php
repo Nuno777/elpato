@@ -7,6 +7,7 @@ use App\Models\Drop;
 use App\Models\Order;
 use App\Models\FTID;
 use App\Models\User;
+use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
 use function Laravel\Prompts\alert;
 
@@ -33,8 +34,9 @@ class PageController extends Controller
     {
         $ordersCount = $orders->count();
         $ftidCount = $ftid->count();
+        $messages = Message::all();
 
         $userCount = $users->count();
-        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount]);
+        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount,'messages' => $messages]);
     }
 }

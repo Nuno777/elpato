@@ -13,7 +13,7 @@
                 <h2>Orders for {{ $user->name }}</h2>
                 <div class="collapse" id="collapse-data-tables">
                 </div>
-                <table id="ordersTable" class="table table-active table-order" style="width:100%">
+                <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
                         <tr>
                             <th>Drop</th>

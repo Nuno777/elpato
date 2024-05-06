@@ -60,7 +60,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::post('/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
         Route::post('/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
 
-        Route::get('/show-messages/{userId}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
+        Route::get('/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');
+        Route::get('/show-messages/{Id}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
+        Route::get('messages/{message}/edit', [MessageController::class, 'edit'])->name('messages.edit');
+        Route::put('messages/{message}', [MessageController::class, 'update'])->name('messages.update');
     });
 
     //perms admin or general

@@ -14,7 +14,8 @@
                     <div class="card-header">
                         <h2>Create User</h2>
                         <div class="sub-title">
-                            <a href="{{ route('createuser') }}" class="badge badge-pill badge-success"><span class="mr-1">Go
+                            <a href="{{ route('createuser') }}" class="badge badge-pill badge-success"><span
+                                    class="mr-1">Go
                                     to the Create User</span></a>
                         </div>
                     </div>
@@ -43,7 +44,8 @@
                     <div class="card-header">
                         <h2>All Orders</h2>
                         <div class="sub-title">
-                            <a href="{{ route('orders.all') }}" class="badge badge-pill badge-success"><span class="mr-1">Go
+                            <a href="{{ route('orders.all') }}" class="badge badge-pill badge-success"><span
+                                    class="mr-1">Go
                                     to the All Orders</span></a>
                         </div>
                     </div>
@@ -58,7 +60,8 @@
                     <div class="card-header">
                         <h2>All FTID</h2>
                         <div class="sub-title">
-                            <a href="{{ route('ftid.all') }}" class="badge badge-pill badge-success"><span class="mr-1">Go to the
+                            <a href="{{ route('ftid.all') }}" class="badge badge-pill badge-success"><span
+                                    class="mr-1">Go to the
                                     All FTIDs</span></a>
                         </div>
                     </div>
@@ -68,6 +71,70 @@
                 </div>
             </div>
         </div>
+
+        {{-- <div class="card card-default">
+            <div class="card-body">
+                <div class="collapse" id="collapse-data-tables">
+                </div>
+                <table id="productsTable" class="table table-active table-product" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th style="width: 40%" class="sorting_disabled">Message</th>
+                            <th style="width: 20%" class="sorting_disabled">Response</th>
+                            <th>Drop</th>
+                            <th>User</th>
+                            <th>Telegram</th>
+                            <th>Created At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach ($messages as $message)
+                            <tr>
+                                <td>{{ $message->message }}</td>
+                                <td>{{ $message->response }}</td>
+                                <td>{{ $message->drop->id_drop }}</td>
+                                <td>{{ $message->user->name }}</td>
+                                <td>{{ $message->user->telegram }}</td>
+                                <td>{{ $message->created_at }}</td>
+                            </tr>
+                        @endforeach
+                    </tbody>
+                </table>
+            </div>
+        </div> --}}
+
+        <div class="card card-default">
+            <div class="card-body">
+                <div class="collapse" id="collapse-data-tables">
+                </div>
+                <table id="productsTable" class="table table-active table-product" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th style="width: 40%" class="sorting_disabled">Message</th>
+                            <th style="width: 20%" class="sorting_disabled">Response</th>
+                            <th>Drop</th>
+                            <th>User</th>
+                            <th>Telegram</th>
+                            <th>Created At</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach ($messages as $message)
+                            <tr>
+                                <td>{{ $message->message }}</td>
+                                <td>{{ $message->response }}</td>
+                                <td>{{ $message->drop->id_drop }}</td>
+                                <td>{{ $message->user->name }}</td>
+                                <td>{{ $message->user->telegram }}</td>
+                                <td>{{ $message->created_at }}</td>
+                            </tr>
+                        @endforeach
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
     </div>
 </div>
 @endsection

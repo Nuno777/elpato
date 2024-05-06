@@ -48,7 +48,8 @@
                                     <td>{{ $drop->expired }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
-                                        <form action="{{ route('remove.drop.worker') }}" method="POST" onsubmit="return confirm('Delete Drop?');">
+                                        <form action="{{ route('remove.drop.worker') }}" method="POST"
+                                            onsubmit="return confirm('Delete Drop?');">
                                             @csrf
                                             <input type="hidden" name="user_id" value="{{ $user->id }}">
                                             <input type="hidden" name="drop_id" value="{{ $drop->id }}">
@@ -59,7 +60,6 @@
                                 </tr>
                             </tbody>
                         </table>
-
 
                         <a href="{{ route('drops') }}">
                             <button type="button" class="btn btn-success" data-toggle="modal"
@@ -81,6 +81,54 @@
                 @endif
             </div>
         </div>
+
+
+        {{-- message --}}
+        <div class="row">
+            <div class="col-xl-4">
+                <!-- Chat -->
+                <div class="card card-default chat">
+                    <div class="card-header">
+                        <div class="media media-chat">
+                            <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
+                                alt="User Image">
+                            <h4 class="username">{{ $user->name }}</h4>
+                        </div>
+                    </div>
+                    <div class="card-body pb-0" data-simplebar style="height: 387px;">
+                        <!-- Iterar sobre as mensagens aqui -->
+                        @foreach ($messages as $message)
+                            <div class="media media-chat">
+                                <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
+                                    class="rounded-circle" alt="Avatar Image">
+                                <div class="media-body">
+                                    <div class="text-content">
+                                        <span class="message">{{ $message->message }}</span>
+                                        <time class="time">{{ $message->created_at->diffForHumans() }}</time>
+                                    </div>
+                                </div>
+                            </div>
+                        @endforeach
+                    </div>
+                    <div class="chat-footer">
+                        <form action="{{ route('messages.update', $message->id) }}" method="POST">
+                            @csrf
+                            @method('PUT')
+                            <div class="input-group input-group-chat">
+                                <div class="input-group-prepend">
+                                    <span class="emoticon-icon mdi mdi-send"></span>
+                                </div>
+                                <input type="text" class="form-control" name="message" value="{{ $message->message }}" aria-label="Text input with dropdown button">
+                                <button type="submit" class="btn btn-primary">Update</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{-- end message --}}
+
+
     </div>
 </div>
 @endsection
