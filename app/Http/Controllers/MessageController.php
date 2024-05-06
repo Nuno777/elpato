@@ -37,7 +37,7 @@ class MessageController extends Controller
             // Verificar se o valor de id_drop é válido
             $drop = Drop::find($id_drop);
             if (!$drop) {
-                return redirect()->back()->with('error', 'Invalid drop ID: ' . $id_drop);
+                return redirect()->back()->with('error', 'Invalid drop: ' . $id_drop);
             }
 
             // Validação do campo 'message'
@@ -45,7 +45,7 @@ class MessageController extends Controller
                 'message' => 'required',
             ]);
 
-            // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 10 horas
+            // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 6 horas
             $lastMessage = Message::where('drop_id', $id_drop)
                 ->where('user_id', auth()->user()->id)
                 ->latest()
@@ -53,8 +53,8 @@ class MessageController extends Controller
 
             if ($lastMessage) {
                 $timeDifference = now()->diffInHours($lastMessage->created_at);
-                if ($timeDifference < 10) {
-                    return redirect()->back()->with('error', 'You can only send one message every 10 hours.');
+                if ($timeDifference < 6) {
+                    return redirect()->back()->with('error', 'You can only send one message every 6 hours.');
                 }
             }
 
@@ -71,8 +71,6 @@ class MessageController extends Controller
         }
     }
 
-
-
     /**
      * Store a newly created resource in storage.
      */
@@ -83,11 +81,12 @@ class MessageController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(string $id)
+    public function show()
     {
         $messages = Message::orderBy('created_at', 'desc')->get();
         return view('adminpainel', compact('messages'));
     }
+
 
     public function showMessageUser($userId)
     {
@@ -95,8 +94,8 @@ class MessageController extends Controller
         $user = User::findOrFail($userId);
         $messages = Message::where('user_id', $userId)
             ->orderBy('created_at', 'asc')
+            ->with('drop') // Carrega os dados da drop relacionada às mensagens
             ->get();
-
 
         // Retorna a view com as mensagens do usuário
         return view('userdrops', compact('messages', 'user'));
@@ -104,23 +103,34 @@ class MessageController extends Controller
 
     public function edit(Message $message)
     {
-        return view('messages.edit', compact('message'));
+        return view('userdrops', compact('message'));
     }
 
     public function update(Request $request, Message $message)
     {
         $request->validate([
-            'message' => 'required',
-            'response' => 'required', // Certifique-se de validar o campo 'response'
+            'response' => 'required',
         ]);
+        try {
+            // Obter o usuário associado a essa mensagem
+            $user = $message->user;
+            $userName = $user->name; // Nome do usuário que solicitou a drop
 
-        // Atualize tanto a mensagem quanto a resposta
-        $message->update([
-            'message' => $request->message,
-            'response' => $request->response,
-        ]);
+            $message->update([
+                'response' => $request->response,
+            ]);
 
-        return redirect()->back()->with('success', 'Message updated successfully!');
+            // Mensagem de sucesso específica para quando a resposta for "yes"
+            if ($request->response === 'yes') {
+                return redirect()->route('drops')->with('success', "Request acceptance of new drop! Give the user $userName a new drop.");
+            }
+            // Mensagem de sucesso específica para quando a resposta for "no"
+            else {
+                return redirect()->back()->with('error', "Request for a new drop has been denied for user $userName.");
+            }
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while processing the request. Please try again.');
+        }
     }
 
 
@@ -129,6 +139,13 @@ class MessageController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        try {
+            $message = Message::findOrFail($id);
+            $message->delete();
+
+            return redirect()->back()->with('success', 'Message deleted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting this message: ' . $e->getMessage() . ' Please try again.');
+        }
     }
 }

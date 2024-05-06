@@ -64,6 +64,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/show-messages/{Id}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
         Route::get('messages/{message}/edit', [MessageController::class, 'edit'])->name('messages.edit');
         Route::put('messages/{message}', [MessageController::class, 'update'])->name('messages.update');
+        Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
     });
 
     //perms admin or general

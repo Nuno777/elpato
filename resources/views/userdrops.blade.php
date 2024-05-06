@@ -59,15 +59,10 @@
                                     </td>
                                 </tr>
                             </tbody>
-                        </table>
 
-                        <a href="{{ route('drops') }}">
-                            <button type="button" class="btn btn-success" data-toggle="modal"
-                                data-target="#assigndrop">
-                                Assign Drop
-                            </button>
-                            <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
-                        </a>
+                        </table>
+                        <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
+
                     </div>
                 @else
                     <br>
@@ -83,71 +78,132 @@
         </div>
 
 
-        {{-- message --}}
-        <div class="row">
-            <div class="col-xl-4">
-                <!-- Chat -->
-                <div class="card card-default chat">
-                    <div class="card-header">
-                        <div class="media media-chat">
-                            <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
-                                alt="User Image">
-                            <h4 class="username">{{ $user->name }}</h4>
+        @if ($messages->isNotEmpty())
+            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                <div class="email-wrapper rounded border bg-white">
+                    <div class="row no-gutters ">
+                        <div class="col-lg-8 col-xl-9 col-xxl-12">
+                            <div class="email-right-column p-4 p-xl-5">
+                                <!-- Email Right Header -->
+                                <div class="email-right-header mb-5">
+                                    <!-- head left option -->
+                                    <div class="head-left-options">
+                                        <h1>Message for <b>{{ $user->name }}</b></h1>
+                                    </div>
+                                    <!-- head right option -->
+                                    <div class="head-right-options">
+                                        <div class="btn-group" role="group" aria-label="Basic example">
+                                            <button type="button" class="btn border btn-pill">
+                                                <i class="mdi mdi-chevron-left"></i>
+                                            </button>
+                                            <button type="button" class="btn border btn-pill">
+                                                <i class="mdi mdi-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="border border-top-0 rounded table-responsive email-list">
+                                    <table class="table mb-0 table-email">
+                                        <tbody>
+                                            @foreach ($messages as $message)
+                                                <tr class="{{ $message->response ? 'read' : 'unread' }}">
+                                                    <td class="mark-mail">
+                                                        {{ $message->drop->id_drop }}
+                                                    </td>
+
+                                                    <td>
+                                                        <a type="button" data-toggle="modal"
+                                                            data-target="#viewmessage{{ $drop->id }}"
+                                                            class="text-default d-inline-block text-smoke">
+                                                            @if ($message->response)
+                                                                <span
+                                                                    class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
+                                                                    {{ $message->response === 'yes' ? 'yes' : 'no' }}
+                                                                </span>
+                                                            @else
+                                                                <span class="badge badge-primary">
+                                                                    New
+                                                                </span>
+                                                            @endif
+                                                            {{ $message->message }}
+                                                        </a>
+                                                    </td>
+
+                                                    <td class="date">
+                                                        {{ date('M d', strtotime($message->created_at)) }}
+                                                    </td>
+
+                                                    <td class="date">
+                                                        <p>Message Created: {{ date('H:i:s', strtotime($message->created_at)) }}</p>
+                                                    </td>
+
+                                                    <td>
+                                                        <form
+                                                            action="{{ route('messages.destroy', ['id' => $message->id]) }}"
+                                                            method="POST"
+                                                            onsubmit="return confirm('Remove Message?');">
+                                                            @csrf
+                                                            @method('DELETE')
+                                                            <button type="submit" class="btn btn-danger"><i
+                                                                    class="mdi mdi-trash-can"
+                                                                    data-toggle="tooltip"></i></button>
+                                                        </form>
+
+                                                    </td>
+                                                </tr>
+                                            @endforeach
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
                         </div>
-
-                    </div>
-                    <div class="card-body pb-0" data-simplebar style="height: 387px;">
-                        <!-- Media Chat Left -->
-                        @foreach ($messages as $message)
-                            <div class="media media-chat">
-                                <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
-                                    class="rounded-circle" alt="Avatar Image">
-                                <div class="media-body">
-                                    <div class="text-content">
-                                        <span class="message">{{ $message->message }}</span>
-                                        <time class="time">{{ $message->created_at->diffForHumans() }}</time>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Media Chat Right -->
-                            <div class="media media-chat media-chat-right">
-                                <div class="media-body">
-                                    <div class="text-content">
-                                        <span class="message">{{ $message->response }}</span>
-                                        <time class="time">{{ $message->created_at->diffForHumans() }}</time>
-                                    </div>
-                                </div>
-                                <img src="{{ asset('/images/user/user.png') }}" style="width:30px; height: 30px;"
-                                    class="rounded-circle" alt="Avatar Image">
-                            </div>
-                        @endforeach
-                    </div>
-                    <div class="chat-footer">
-                        <form action="{{ route('messages.update', $message->id) }}" method="POST">
-                            @csrf
-                            @method('PUT')
-                            <div class="input-group input-group-chat">
-                                <div class="input-group-prepend">
-                                    <span class="emoticon-icon mdi mdi-send"></span>
-                                </div>
-                                <input type="text" class="form-control" name="response"
-                                    value="{{ $message->response }}" aria-label="Text input with dropdown button">
-                                <button type="submit" class="btn btn-primary">Send</button>
-                            </div>
-                        </form>
                     </div>
                 </div>
-            </div>
-
-        </div>
-        {{-- end message --}}
 
 
+                {{-- modal --}}
+                <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
+                    aria-labelledby="viewmessageLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <form method="POST" enctype="multipart/form-data" id="responseForm"
+                                    action="{{ route('messages.update', ['message' => $message->id]) }}">
+                                    @csrf
+                                    @method('PUT')
+                                    <div class="form-group">
+                                        <label for="message">Message</label>
+                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                            readonly required>@foreach ($messages as $message){{ $message->message }}@endforeach</textarea>
+                                    </div>
+                                    <input type="hidden" name="response" id="response">
 
-
-
-
+                                    <button type="button" class="btn btn-success"
+                                        onclick="submitResponse('yes')">Yes</button>
+                                    <button type="button" class="btn btn-danger"
+                                        onclick="submitResponse('no')">No</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            @endif
+        @endif
     </div>
 </div>
+
+<script>
+    function submitResponse(response) {
+        document.getElementById('response').value = response;
+        document.getElementById('responseForm').submit();
+    }
+</script>
 @endsection

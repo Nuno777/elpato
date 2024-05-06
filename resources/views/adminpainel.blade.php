@@ -72,68 +72,89 @@
             </div>
         </div>
 
-        {{-- <div class="card card-default">
-            <div class="card-body">
-                <div class="collapse" id="collapse-data-tables">
-                </div>
-                <table id="productsTable" class="table table-active table-product" style="width:100%">
-                    <thead>
-                        <tr>
-                            <th style="width: 40%" class="sorting_disabled">Message</th>
-                            <th style="width: 20%" class="sorting_disabled">Response</th>
-                            <th>Drop</th>
-                            <th>User</th>
-                            <th>Telegram</th>
-                            <th>Created At</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach ($messages as $message)
-                            <tr>
-                                <td>{{ $message->message }}</td>
-                                <td>{{ $message->response }}</td>
-                                <td>{{ $message->drop->id_drop }}</td>
-                                <td>{{ $message->user->name }}</td>
-                                <td>{{ $message->user->telegram }}</td>
-                                <td>{{ $message->created_at }}</td>
-                            </tr>
-                        @endforeach
-                    </tbody>
-                </table>
-            </div>
-        </div> --}}
+        @if ($messages->isNotEmpty())
+            <div class="email-wrapper rounded border bg-white">
+                <div class="row no-gutters ">
+                    <div class="col-lg-8 col-xl-9 col-xxl-12">
+                        <div class="email-right-column p-4 p-xl-5">
+                            <!-- Email Right Header -->
+                            <div class="email-right-header mb-5">
+                                <!-- head left option -->
+                                <div class="head-left-options">
+                                    <h2>All Message</h2>
+                                </div>
+                                <!-- head right option -->
+                                <div class="head-right-options">
+                                    <div class="btn-group" role="group" aria-label="Basic example">
+                                        <button type="button" class="btn border btn-pill">
+                                            <i class="mdi mdi-chevron-left"></i>
+                                        </button>
+                                        <button type="button" class="btn border btn-pill">
+                                            <i class="mdi mdi-chevron-right"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
 
-        <div class="card card-default">
-            <div class="card-body">
-                <div class="collapse" id="collapse-data-tables">
-                </div>
-                <table id="productsTable" class="table table-active table-product" style="width:100%">
-                    <thead>
-                        <tr>
-                            <th style="width: 40%" class="sorting_disabled">Message</th>
-                            <th style="width: 20%" class="sorting_disabled">Response</th>
-                            <th>Drop</th>
-                            <th>User</th>
-                            <th>Telegram</th>
-                            <th>Created At</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach ($messages as $message)
-                            <tr>
-                                <td>{{ $message->message }}</td>
-                                <td>{{ $message->response }}</td>
-                                <td>{{ $message->drop->id_drop }}</td>
-                                <td>{{ $message->user->name }}</td>
-                                <td>{{ $message->user->telegram }}</td>
-                                <td>{{ $message->created_at }}</td>
-                            </tr>
-                        @endforeach
-                    </tbody>
-                </table>
-            </div>
-        </div>
+                            <div class="border border-top-0 rounded table-responsive email-list">
+                                <table class="table mb-0 table-email">
+                                    <tbody>
+                                        @foreach ($messages as $message)
+                                            <tr class="{{ $message->response ? 'read' : 'unread' }}">
+                                                <td class="mark-mail">
+                                                    {{ $message->drop->id_drop }}
+                                                </td>
 
+                                                <td>
+                                                    <a type="button" data-toggle="modal"
+                                                        data-target="#viewmessage{{ $message->id }}"
+                                                        class="text-default d-inline-block text-smoke">
+                                                        @if ($message->response)
+                                                            <span
+                                                                class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
+                                                                {{ $message->response === 'yes' ? 'yes' : 'no' }}
+                                                            </span>
+                                                        @else
+                                                            <span class="badge badge-primary">
+                                                                New
+                                                            </span>
+                                                        @endif
+                                                        {{ $message->message }}
+                                                    </a>
+                                                </td>
+
+                                                <td class="date">
+                                                    {{ date('M d', strtotime($message->updated_at)) }}
+                                                </td>
+
+                                                <td class="date">
+                                                    <p>Message Updated:
+                                                        {{ date('H:i:s', strtotime($message->updated_at)) }}</p>
+                                                </td>
+
+                                                <td>
+                                                    <form
+                                                        action="{{ route('messages.destroy', ['id' => $message->id]) }}"
+                                                        method="POST" onsubmit="return confirm('Remove Message?');">
+                                                        @csrf
+                                                        @method('DELETE')
+                                                        <button type="submit" class="btn btn-danger"><i
+                                                                class="mdi mdi-trash-can"
+                                                                data-toggle="tooltip"></i></button>
+                                                    </form>
+
+                                                </td>
+                                            </tr>
+                                        @endforeach
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        @endif
 
     </div>
 </div>

@@ -11,11 +11,13 @@
             <div class="modal-body">
                 <form action="{{ route('sendDropRequest', ['id_drop' => $drop->id]) }}" method="POST">
                     @csrf
-                    <p>If your drop has <b>problems</b>, you can <b>request a new one</b>, but you have to <b>wait 24 hours</b> for it to be <b>approved</b>.
-                        <br><b>Write your reason to be approved!</b></p>
+                    <p>If your drop has <b>problems</b>, you can <b>request a new one</b>, but you have to <b>wait 24
+                            hours</b> for it to be <b>approved</b>.
+                        <br><b>Write your reason to be approved!</b>
+                    </p>
                     <div class="form-group">
                         <label for="message">Message</label>
-                        <textarea class="form-control" id="message" name="message" rows="5" style="resize: none" required></textarea>
+                        <textarea class="form-control" id="message" name="message" rows="6" style="resize: none" required></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Send Request</button>
                 </form>

@@ -31,11 +31,11 @@
         // Remove a mensagem de sucesso após 5 segundos
         setTimeout(function(){
             $('#success-alert').alert('close');
-        }, 5000);
+        }, 10000);
 
         // Remove a mensagem de erro após 5 segundos
         setTimeout(function(){
             $('#error-alert').alert('close');
-        }, 5000);
+        }, 10000);
     });
 </script>

@@ -34,9 +34,9 @@ class PageController extends Controller
     {
         $ordersCount = $orders->count();
         $ftidCount = $ftid->count();
+        $userCount = $users->count();
         $messages = Message::all();
 
-        $userCount = $users->count();
-        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount,'messages' => $messages]);
+        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages]);
     }
 }
