@@ -24,11 +24,13 @@ class PageController extends Controller
         $drop = Drop::All();
         $messages = $user->messages;
 
+        $messagesCount = $messages->count();
+        $messagesCountAll = Message::count();
         $orderCount = $user->orders->count();
         $ftidCount = $user->ftid->count();
         $dropCount = $drops->count();
 
-        return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount]);
+        return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount, 'messagesCount' => $messagesCount, 'messagesCountAll' => $messagesCountAll]);
     }
 
 
