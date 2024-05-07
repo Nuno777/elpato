@@ -135,7 +135,15 @@
                                                     </td>
 
                                                     <td class="date">
-                                                        <p>Message Created: {{ date('H:i:s', strtotime($message->created_at)) }}</p>
+                                                        <p>Message Created:
+                                                            {{ date('H:i:s', strtotime($message->created_at)) }}</p>
+                                                    </td>
+                                                    <td>
+                                                        <a type="button" data-toggle="modal"
+                                                            data-target="#viewmessage{{ $drop->id }}"
+                                                            class="btn btn-primary">
+                                                            <i class="mdi mdi-message-text-outline"></i>
+                                                        </a>
                                                     </td>
 
                                                     <td>
@@ -164,37 +172,39 @@
 
 
                 {{-- modal --}}
-                <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
-                    aria-labelledby="viewmessageLabel" aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <form method="POST" enctype="multipart/form-data" id="responseForm"
-                                    action="{{ route('messages.update', ['message' => $message->id]) }}">
-                                    @csrf
-                                    @method('PUT')
-                                    <div class="form-group">
-                                        <label for="message">Message</label>
-                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
-                                            readonly required>@foreach ($messages as $message){{ $message->message }}@endforeach</textarea>
-                                    </div>
-                                    <input type="hidden" name="response" id="response">
+                @foreach ($messages as $message)
+                    <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
+                        aria-labelledby="viewmessageLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <form method="POST" enctype="multipart/form-data" id="responseForm"
+                                        action="{{ route('messages.update', ['message' => $message->id]) }}">
+                                        @csrf
+                                        @method('PUT')
+                                        <div class="form-group">
+                                            <label for="message">Message</label>
+                                            <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                                readonly required>{{ $message->message }}</textarea>
+                                        </div>
+                                        <input type="hidden" name="response" id="response">
 
-                                    <button type="button" class="btn btn-success"
-                                        onclick="submitResponse('yes')">Yes</button>
-                                    <button type="button" class="btn btn-danger"
-                                        onclick="submitResponse('no')">No</button>
-                                </form>
+                                        <button type="button" class="btn btn-success"
+                                            onclick="submitResponse('yes')">Yes</button>
+                                        <button type="button" class="btn btn-danger"
+                                            onclick="submitResponse('no')">No</button>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                @endforeach
             @endif
         @endif
     </div>
