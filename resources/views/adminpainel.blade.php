@@ -141,6 +141,14 @@
                                                 </td>
 
                                                 <td>
+                                                    <a type="button" data-toggle="modal"
+                                                        data-target="#viewmessage{{ $message->id }}"
+                                                        class="btn btn-primary">
+                                                        <i class="mdi mdi-message-text-outline"></i>
+                                                    </a>
+                                                </td>
+
+                                                <td>
                                                     <form
                                                         action="{{ route('messages.destroy', ['id' => $message->id]) }}"
                                                         method="POST" onsubmit="return confirm('Remove Message?');">
@@ -162,6 +170,39 @@
                     </div>
                 </div>
             </div>
+
+            {{-- modal --}}
+            @foreach ($messages as $message)
+                <div class="modal fade" id="viewmessage{{ $message->id }}" tabindex="-1" role="dialog"
+                    aria-labelledby="viewmessageLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <form method="POST" enctype="multipart/form-data" id="responseForm"
+                                    action="{{ route('messages.update', ['message' => $message->id]) }}">
+                                    @csrf
+                                    @method('PUT')
+                                    <div class="form-group">
+                                        <label for="message">Message</label>
+                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                            readonly required>{{ $message->message }}</textarea>
+                                    </div>
+
+                                    <a href="{{ route('user.all') }}" class="btn btn-primary">Page All Users</a>
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            @endforeach
+
         @endif
 
     </div>

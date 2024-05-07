@@ -53,7 +53,7 @@
                                 @if (auth()->check() && auth()->user()->type == 'admin')
                                     <td>
                                         @if ($user->type === 'worker')
-                                            <a href="#" class="badge badge-pill badge-info">
+                                            <a href="{{ route('user.drops', $user->id) }}" class="badge badge-pill badge-info">
                                                 <i class="mdi mdi-bell-outline icon"></i>
                                                 @if ($user->type == 'admin')
                                                     <span

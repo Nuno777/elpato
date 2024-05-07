@@ -120,18 +120,34 @@
                 <!-- notificacoes -->
                 <li class="custom-dropdown">
                     <button class="notify-toggler custom-dropdown-toggler">
-                        <i class="mdi mdi-bell-outline icon"></i>
                         @if (auth()->user()->type == 'admin')
-                            <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
-                        @elseif (auth()->user()->type == 'worker' && !empty($message->response))
-                            <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                            <a href="{{ route('user.all') }}">
+                                <i class="mdi mdi-bell-outline icon"></i>
+                                @if (auth()->user()->type == 'admin')
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                @else
+                                    <span class="badge badge-xs rounded-circle"></span>
+                                @endif
+                            </a>
                         @else
-                            <span class="badge badge-xs rounded-circle"></span>
+                            <a href="{{ route('dashboard') }}">
+
+                                <i class="mdi mdi-bell-outline icon"></i>
+                                @if (auth()->user()->type == 'admin')
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                @else
+                                    <span class="badge badge-xs rounded-circle"></span>
+                                @endif
+                            </a>
                         @endif
                     </button>
-                    <div class="dropdown-notify">
+                    {{-- <div class="dropdown-notify">
 
-                        <header>
+                       <header>
                             <div class="nav nav-underline" id="nav-tab" role="tablist">
                                 <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab" href="#all"
                                     role="tab" aria-controls="nav-home" aria-selected="true">All Message
@@ -146,7 +162,7 @@
                             </div>
                         </header>
 
-                        {{-- <div class="" data-simplebar style="height: 325px;">
+                         <div class="" data-simplebar style="height: 325px;">
                             <div class="tab-content" id="myTabContent">
                                 <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tabs">
                                     @foreach ($messages as $message)
@@ -166,10 +182,10 @@
                                     @endforeach
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
 
 
-                    </div>
+                    </div> --}}
                 </li>
                 <!-- end notificacoes -->
 
