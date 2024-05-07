@@ -21,13 +21,16 @@ class PageController extends Controller
     public function dashboard(Drop $drops)
     {
         $user = Auth::user();
+        $drop = Drop::All();
+        $messages = $user->messages;
 
         $orderCount = $user->orders->count();
         $ftidCount = $user->ftid->count();
         $dropCount = $drops->count();
 
-        return view('dashboard', ['drops' => $drops, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount]);
+        return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount]);
     }
+
 
 
     public function adminpainel(User $users, Order $orders, FTID $ftid)

@@ -109,7 +109,7 @@
                                             @foreach ($messages as $message)
                                                 <tr class="{{ $message->response ? 'read' : 'unread' }}">
                                                     <td class="mark-mail">
-                                                        {{ $message->drop->id_drop }}
+                                                        <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
                                                     </td>
 
                                                     <td>
@@ -207,6 +207,7 @@
                 @endforeach
             @endif
         @endif
+
     </div>
 </div>
 

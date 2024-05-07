@@ -102,7 +102,15 @@
                                         @foreach ($messages as $message)
                                             <tr class="{{ $message->response ? 'read' : 'unread' }}">
                                                 <td class="mark-mail">
-                                                    {{ $message->drop->id_drop }}
+                                                    <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
+                                                </td>
+
+                                                <td class="mark-mail">
+                                                    {{ $message->user->name }}
+                                                </td>
+
+                                                <td class="mark-mail">
+                                                    Telegram: {{ $message->user->telegram }}
                                                 </td>
 
                                                 <td>

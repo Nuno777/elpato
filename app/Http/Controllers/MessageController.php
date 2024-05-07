@@ -45,7 +45,7 @@ class MessageController extends Controller
                 'message' => 'required',
             ]);
 
-            // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 6 horas
+            // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 20 horas
             $lastMessage = Message::where('drop_id', $id_drop)
                 ->where('user_id', auth()->user()->id)
                 ->latest()
@@ -53,8 +53,8 @@ class MessageController extends Controller
 
             if ($lastMessage) {
                 $timeDifference = now()->diffInHours($lastMessage->created_at);
-                if ($timeDifference < 6) {
-                    return redirect()->back()->with('error', 'You can only send one message every 6 hours.');
+                if ($timeDifference < 20) {
+                    return redirect()->back()->with('error', 'You can only send one message every 20 hours.');
                 }
             }
 
