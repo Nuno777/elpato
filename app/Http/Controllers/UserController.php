@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\User;
 use App\Models\Drop;
+use App\Models\Message;
 
 class UserController extends Controller
 {
@@ -62,12 +63,14 @@ class UserController extends Controller
     {
     }
 
-    public function allshow()
+    public function allshow(Message $messages)
     {
         $users = User::all();
         $drops = Drop::all();
+        $messages=Message::All();
+        $messagesCount = Message::count();
 
-        return view('allusers', ['users' => $users, 'drops' => $drops]);
+        return view('allusers', ['users' => $users, 'drops' => $drops,'messagesCount' => $messagesCount,'messages' => $messages]);
     }
 
 

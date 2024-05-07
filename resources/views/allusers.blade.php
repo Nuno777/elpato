@@ -25,6 +25,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -47,12 +48,32 @@
                                 </td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
 
+
+
                                 @if (auth()->check() && auth()->user()->type == 'admin')
+                                    <td>
+                                        @if ($user->type === 'worker')
+                                            <a href="#" class="badge badge-pill badge-info">
+                                                <i class="mdi mdi-bell-outline icon"></i>
+                                                @if ($user->type == 'admin')
+                                                    <span
+                                                        class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                                @else
+                                                    <?php
+                                                    $userMessagesCount = $messages->where('user_id', $user->id)->count();
+                                                    ?>
+                                                    <span
+                                                        class="badge badge-xs rounded-circle">{{ $userMessagesCount }}</span>
+                                                @endif
+                                            </a>
+                                        @endif
+                                    </td>
+
                                     <td style="width: 5%" class="sorting_disabled">
                                         @if ($user->type === 'worker')
                                             <a href="{{ route('user.drops', $user->id) }}" style="width: 100%">
                                                 <button type="button" class="btn btn-success">
-                                                    <i class="mdi mdi-truck"></i>
+                                                    <i class="mdi mdi-truck notify-toggler custom-dropdown-toggler"></i>
                                                 </button>
                                             </a>
                                         @endif
