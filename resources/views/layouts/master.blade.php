@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en" dir="ltr">
 
 <head>
@@ -39,7 +38,6 @@
 
         @include('layouts.footer')
         @stack('scripts')
-    </div>
     </div>
 
 </body>

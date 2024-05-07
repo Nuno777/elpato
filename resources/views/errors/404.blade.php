@@ -33,7 +33,7 @@
             <div class="row justify-content-center mt-5">
                 <div class="text-center page-404">
                     {{-- <h1 class="error-title">404</h1> --}}
-                    <img src="{{ asset('/images/error.png') }}" width="60%" alt="Error 404">
+                    <img src="{{ asset('/images/error404.gif') }}" width="100%" alt="Error 404">
                     <p class="pt-4 pb-5 error-subtitle">Looks like something went wrong.</p>
                     <a href="{{ route('dashboard') }}" class="btn btn-primary btn-pill">Go Back</a>
                 </div>

@@ -96,8 +96,6 @@ class DropController extends Controller
         return view('userdrops', ['user' => $user, 'drop' => $drop, 'messages' => $messages, 'message' => $message]);
     }
 
-
-
     /**
      * Show the form for editing the specified resource.
      */

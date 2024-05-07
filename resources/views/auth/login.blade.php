@@ -1,11 +1,36 @@
+<style>
+    #loader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+    #loader img {
+        width: 250px;
+        height: 250px;
+    }
+
+    #loader img {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
 <title>Login 💸 ELPato</title>
-<link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 <x-guest-layout>
 
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
-    <form method="POST" action="{{ route('login') }}">
+    <form id="login-form" method="POST" action="{{ route('login') }}">
         @csrf
         <!-- name Address -->
         <div>
@@ -39,7 +64,7 @@
         </div>
 
         <div class="flex items-center justify-end mt-4">
-            <x-primary-button class="ms-3 btn-lg">
+            <x-primary-button id="login-button" class="ms-3 btn-lg">
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
@@ -48,7 +73,17 @@
 </x-guest-layout>
 <script async src="https://www.google.com/recaptcha/api.js"></script>
 
-var onloadCallback = function() {
-alert("grecaptcha is ready!");
-};
+<!-- Loader -->
+<div id="loader" style="display: none;">
+    <img src="{{ asset('images/loader.gif') }}" alt="Loading...">
+</div>
+
+<script>
+    document.getElementById('login-form').addEventListener('submit', function() {
+        document.getElementById('loader').style.display = 'block';
+        // Oculta o loader após 5 segundos
+        setTimeout(function() {
+            document.getElementById('loader').style.display = 'none';
+        }, 20000); // 5000 milissegundos = 5 segundos
+    });
 </script>
