@@ -123,8 +123,10 @@
                         <i class="mdi mdi-bell-outline icon"></i>
                         @if (auth()->user()->type == 'admin')
                             <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
-                        @else
+                        @elseif (auth()->user()->type == 'worker' && !empty($message->response))
                             <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                        @else
+                            <span class="badge badge-xs rounded-circle"></span>
                         @endif
                     </button>
                     <div class="dropdown-notify">
@@ -134,117 +136,39 @@
                                 <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab" href="#all"
                                     role="tab" aria-controls="nav-home" aria-selected="true">All Message
                                     @if (auth()->user()->type == 'admin')
-                                       ({{ $messagesCountAll }})</span>
+                                        ({{ $messagesCountAll }})
+                                    @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                        ({{ $messagesCount }})
                                     @else
-                                       ({{ $messagesCount }})</span>
+                                        (0)
                                     @endif
                                 </a>
                             </div>
                         </header>
 
-                        <div class="" data-simplebar style="height: 325px;">
+                        {{-- <div class="" data-simplebar style="height: 325px;">
                             <div class="tab-content" id="myTabContent">
-
-                                <div class="tab-pane fade show active" id="all" role="tabpanel"
-                                    aria-labelledby="all-tabs">
-
-                                    <div class="media media-sm bg-warning-10 p-4 mb-0">
-                                        <div class="media-sm-wrapper">
-                                            <a href="user-profile.html">
-                                                <img src="images/user/user-sm-02.jpg" alt="User Image">
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="user-profile.html">
-                                                <span class="title mb-0">John Doe</span>
-                                                <span class="discribe">Extremity sweetness difficult behaviour he of.
-                                                    On disposal of as landlord horrible. Afraid at highly months do
-                                                    things on at.</span>
+                                <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tabs">
+                                    @foreach ($messages as $message)
+                                        <div class="media media-sm p-4 bg-light mb-0">
+                                            <div class="media-sm-wrapper bg-primary">
+                                                <i class="mdi mdi-message-text-outline"></i>
+                                            </div>
+                                            <div class="media-body">
+                                                <span class="title mb-0">{{ $message->name }}</span>
+                                                <span class="title mb-0">{{ $message->drop }}</span>
+                                                <span class="discribe">{{ $message->mensagem }}</span>
                                                 <span class="time">
-                                                    <time>Just now</time>...
+                                                    <time>{{ $message->created_at }}</time>
                                                 </span>
-                                            </a>
+                                            </div>
                                         </div>
-                                    </div>
-
-                                    <div class="media media-sm p-4 bg-light mb-0">
-                                        <div class="media-sm-wrapper bg-primary">
-                                            <a href="user-profile.html">
-                                                <i class="mdi mdi-calendar-check-outline"></i>
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="user-profile.html">
-                                                <span class="title mb-0">New event added</span>
-                                                <span class="discribe">1/3/2014 (1pm - 2pm)</span>
-                                                <span class="time">
-                                                    <time>10 min ago...</time>...
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="media media-sm p-4 mb-0">
-                                        <div class="media-sm-wrapper">
-                                            <a href="user-profile.html">
-                                                <img src="images/user/user-sm-03.jpg" alt="User Image">
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="user-profile.html">
-                                                <span class="title mb-0">Sagge Hudson</span>
-                                                <span class="discribe">On disposal of as landlord Afraid at highly
-                                                    months do things on at.</span>
-                                                <span class="time">
-                                                    <time>1 hrs ago</time>...
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="media media-sm p-4 mb-0">
-                                        <div class="media-sm-wrapper bg-info-dark">
-                                            <a href="user-profile.html">
-                                                <i class="mdi mdi-account-multiple-check"></i>
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="user-profile.html">
-                                                <span class="title mb-0">Add request</span>
-                                                <span class="discribe">Add Dany Jones as your contact.</span>
-                                                <div class="buttons">
-                                                    <a href="#"
-                                                        class="btn btn-sm btn-success shadow-none text-white">accept</a>
-                                                    <a href="#" class="btn btn-sm shadow-none">delete</a>
-                                                </div>
-                                                <span class="time">
-                                                    <time>6 hrs ago</time>...
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <div class="media media-sm p-4 mb-0">
-                                        <div class="media-sm-wrapper bg-info">
-                                            <a href="user-profile.html">
-                                                <i class="mdi mdi-playlist-check"></i>
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="user-profile.html">
-                                                <span class="title mb-0">Task complete</span>
-                                                <span class="discribe">Afraid at highly months do things on at.</span>
-                                                <span class="time">
-                                                    <time>1 hrs ago</time>...
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-
+                                    @endforeach
                                 </div>
-
                             </div>
-                        </div>
+                        </div> --}}
+
+
                     </div>
                 </li>
                 <!-- end notificacoes -->
