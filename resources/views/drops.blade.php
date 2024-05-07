@@ -34,12 +34,12 @@
                             @foreach ($drops as $drop)
                                 <tr
                                     style="background-color:
-                                    @if ($drop->status == 'Ready') #85f36e;
-                                    @elseif ($drop->status == 'Suspense') #838383;
-                                    @elseif ($drop->status == 'Dont send') #fff085;
-                                    @elseif ($drop->status == 'Problem') #ff9e8e; @endif
-                                    color:
-                                    @if ($drop->status == 'Suspense') white; @else black; @endif">
+                                @if ($drop->status == 'Ready') #85f36e;
+                                @elseif ($drop->status == 'Suspense') #838383;
+                                @elseif ($drop->status == 'Dont send') #fff085;
+                                @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                color:
+                                @if ($drop->status == 'Suspense') white; @else black; @endif">
                                     <td>{{ $drop->id_drop }}</td>
                                     <td>{{ $drop->name }}</td>
                                     <td>{{ $drop->address }}</td>

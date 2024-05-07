@@ -20,9 +20,9 @@ class Drop extends Model
         return $this->hasMany(Order::class, 'id_drop', 'id_drop');
     }
 
-    public function user()
+    public function users()
     {
-        return $this->hasOne(User::class);
+        return $this->belongsToMany(User::class, 'user_drop', 'drop_id', 'user_id')->withTimestamps();
     }
 
     public function messages()

@@ -62,9 +62,9 @@ class User extends Authenticatable
         return $this->hasMany(Ftid::class);
     }
 
-    public function drop()
+    public function drops()
     {
-        return $this->belongsTo(Drop::class);
+        return $this->belongsToMany(Drop::class, 'user_drop', 'user_id', 'drop_id')->withTimestamps();
     }
 
     public function messages()

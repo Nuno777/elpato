@@ -11,9 +11,14 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::table('users', function (Blueprint $table) {
-            $table->unsignedBigInteger('drop_id')->nullable();
-            $table->foreign('drop_id')->references('id')->on('drops')->onDelete('set null');
+        Schema::create('user_drop', function (Blueprint $table) {
+            $table->id();
+            $table->unsignedBigInteger('user_id');
+            $table->unsignedBigInteger('drop_id');
+            $table->timestamps();
+
+            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->foreign('drop_id')->references('id')->on('drops')->onDelete('cascade');
         });
     }
 
@@ -21,10 +26,8 @@ return new class extends Migration
     /**
      * Reverse the migrations.
      */
-    public function down(): void
+    public function down()
     {
-        Schema::table('users', function (Blueprint $table) {
-            //
-        });
+        Schema::dropIfExists('user_drop');
     }
 };

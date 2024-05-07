@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\User;
-
+use App\Models\UserDrop;
 
 class DropController extends Controller
 {
@@ -13,24 +13,20 @@ class DropController extends Controller
      * Display a listing of the resource.
      */
     public function index()
-    {
-        if (auth()->user()->type == 'worker') {
-            $workerDrop = auth()->user()->drop;
-            // Verifica se a drop atribuída ao trabalhador existe
-            if ($workerDrop) {
-                // Retorna apenas a drop atribuída ao trabalhador
-                $drops = [$workerDrop];
-            } else {
-                // Se o trabalhador não tiver nenhuma drop atribuída, retorna uma lista vazia
-                $drops = [];
-            }
-        } else {
-            $drops = Drop::all();
-            $drops = Drop::orderBy('id', 'DESC')->get();
-        }
-        $users = User::all();
-        return view('drops', ['drops' => $drops, 'users' => $users]);
+{
+    if (auth()->user()->type == 'worker') {
+        $workerDrops = auth()->user()->drops;
+        // Verifica se o trabalhador possui drops atribuídas
+        $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
+    } else {
+        // Retorna todas as drops para o administrador
+        $drops = Drop::orderBy('id', 'DESC')->get();
     }
+    $users = User::all();
+    return view('drops', ['drops' => $drops, 'users' => $users]);
+}
+
+
 
     /**
      * Show the form for creating a new resource.
@@ -142,15 +138,17 @@ class DropController extends Controller
         }
 
         $userId = $request->input('user_id');
+        $dropIds = $request->input('drop_id'); // Agora pode ser um array de drop_ids
+
         $user = User::findOrFail($userId);
-        $dropId = $request->input('drop_id');
-        $drop = Drop::findOrFail($dropId);
 
-        // Atribui a drop ao usuário
-        $user->drop_id = $dropId;
-        $user->save();
+        // Limpa todas as atribuições anteriores
+        $user->drops()->detach();
 
-        return redirect()->back()->with('success', 'Drop assigned successfully.');
+        // Atribui as novas quedas ao usuário
+        $user->drops()->attach($dropIds);
+
+        return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
 
     public function removeDropToWorker(Request $request)

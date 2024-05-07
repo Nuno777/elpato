@@ -29,13 +29,14 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Drop</label>
-                                <select name="drop_id" class="form-control">
+                                <select name="drop_id[]" class="form-control" multiple>
                                     @foreach ($drops as $drop)
                                         @if ($drop->status != 'Problem' && $drop->status != 'Dont send' && $drop->status != 'Suspense')
-                                            <option value="{{ $drop->id }}" required>{{ $drop->id_drop }}</option>
+                                            <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
                                         @endif
                                     @endforeach
                                 </select>
+
                             </div>
                         </div>
 
