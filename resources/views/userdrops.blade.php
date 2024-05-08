@@ -50,11 +50,13 @@
                                         <td>{{ $drop->expired }}</td>
                                         <td>{{ $drop->personalnotes }}</td>
                                         <td>
-                                            <form action="{{ route('remove.drop.worker') }}" method="POST" onsubmit="return confirm('Remove Drop to User?');">
+                                            <form action="{{ route('remove.drop.worker') }}" method="POST"
+                                                onsubmit="return confirm('Remove Drop from User?');">
                                                 @csrf
                                                 <input type="hidden" name="user_id" value="{{ $user->id }}">
                                                 <input type="hidden" name="drop_id" value="{{ $drop->id }}">
-                                                <button type="submit" class="btn btn-danger"><i class="mdi mdi-trash-can" data-toggle="tooltip"></i></button>
+                                                <button type="submit" class="btn btn-danger"><i
+                                                        class="mdi mdi-trash-can" data-toggle="tooltip"></i></button>
                                             </form>
                                         </td>
                                     </tr>
@@ -65,6 +67,7 @@
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 @else
                     <p>No drop assigned to this user.</p>
+                    <br>
                     <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                 @endif
             </div>

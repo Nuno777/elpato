@@ -163,16 +163,15 @@ class DropController extends Controller
         $dropId = $request->input('drop_id');
 
         // Verifica se a drop associada ao usuário existe
-        if ($user->drop_id == $dropId) {
+        if ($user->drops()->where('drops.id', $dropId)->exists()) {
             // Remove a associação entre o usuário e a drop
-            $user->drop_id = null;
-            $user->save();
-
-            return redirect()->back()->with('success', 'Drop removed successfully.');
+            $user->drops()->detach($dropId);
+            return redirect()->back()->with('success', 'Drop removed from user successfully.');
         } else {
             return redirect()->back()->with('error', 'Drop is not assigned to this user.');
         }
     }
+
 
 
     /**
