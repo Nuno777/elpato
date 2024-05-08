@@ -13,18 +13,18 @@ class DropController extends Controller
      * Display a listing of the resource.
      */
     public function index()
-{
-    if (auth()->user()->type == 'worker') {
-        $workerDrops = auth()->user()->drops;
-        // Verifica se o trabalhador possui drops atribuídas
-        $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
-    } else {
-        // Retorna todas as drops para o administrador
-        $drops = Drop::orderBy('id', 'DESC')->get();
+    {
+        if (auth()->user()->type == 'worker') {
+            $workerDrops = auth()->user()->drops;
+            // Verifica se o trabalhador possui drops atribuídas
+            $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
+        } else {
+            // Retorna todas as drops para o administrador
+            $drops = Drop::orderBy('id', 'DESC')->get();
+        }
+        $users = User::all();
+        return view('drops', ['drops' => $drops, 'users' => $users]);
     }
-    $users = User::all();
-    return view('drops', ['drops' => $drops, 'users' => $users]);
-}
 
 
 
@@ -81,16 +81,15 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'User is not a worker.');
         }
 
-        // Obtenha o drop atribuído ao usuário
-        $drop = $user->drop;
-
         // Obtenha todas as mensagens associadas ao usuário
         $messages = $user->messages()->orderBy('created_at', 'desc')->get();
 
-        // Passar a variável $message para a view
-        $message = $messages->first(); // Supondo que você queira apenas a primeira mensagem
-        return view('userdrops', ['user' => $user, 'drop' => $drop, 'messages' => $messages, 'message' => $message]);
+        // Obtenha o drop atribuído ao usuário, se houver
+        $drop = $user->drop;
+
+        return view('userdrops', compact('user', 'drop', 'messages'));
     }
+
 
     /**
      * Show the form for editing the specified resource.

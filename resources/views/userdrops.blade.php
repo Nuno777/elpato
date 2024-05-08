@@ -10,7 +10,8 @@
         <div class="card card-default">
             <div class="card-body">
                 <h1>Assigned Drop for <b>{{ $user->name }}</b></h1>
-                @if ($drop)
+
+                @if ($user->drops->isNotEmpty())
                     <div class="collapse" id="collapse-data-tables">
                     </div>
                     <div class="table-responsive">
@@ -30,56 +31,48 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr
-                                    style="background-color:
-                                    @if ($drop->status == 'Ready') #85f36e;
-                                    @elseif ($drop->status == 'Suspense') #838383;
-                                    @elseif ($drop->status == 'Dont send') #fff085;
-                                    @elseif ($drop->status == 'Problem') #ff9e8e; @endif
-                                    color:
-                                    @if ($drop->status == 'Suspense') white; @else black; @endif">
-                                    <td>{{ $drop->id_drop }}</td>
-                                    <td>{{ $drop->name }}</td>
-                                    <td>{{ $drop->address }}</td>
-                                    <td>{{ $drop->packages }}</td>
-                                    <td><b>{{ $drop->status }}</b></td>
-                                    <td>{{ $drop->notes }}</td>
-                                    <td>{{ $drop->type }}</td>
-                                    <td>{{ $drop->expired }}</td>
-                                    <td>{{ $drop->personalnotes }}</td>
-                                    <td>
-                                        <form action="{{ route('remove.drop.worker') }}" method="POST"
-                                            onsubmit="return confirm('Delete Drop?');">
-                                            @csrf
-                                            <input type="hidden" name="user_id" value="{{ $user->id }}">
-                                            <input type="hidden" name="drop_id" value="{{ $drop->id }}">
-                                            <button type="submit" class="btn btn-danger"><i class="mdi mdi-trash-can"
-                                                    data-toggle="tooltip"></i></button>
-                                        </form>
-                                    </td>
-                                </tr>
+                                @foreach ($user->drops as $drop)
+                                    <tr
+                                        style="background-color:
+                                        @if ($drop->status == 'Ready') #85f36e;
+                                        @elseif ($drop->status == 'Suspense') #838383;
+                                        @elseif ($drop->status == 'Dont send') #fff085;
+                                        @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                        color:
+                                        @if ($drop->status == 'Suspense') white; @else black; @endif">
+                                        <td>{{ $drop->id_drop }}</td>
+                                        <td>{{ $drop->name }}</td>
+                                        <td>{{ $drop->address }}</td>
+                                        <td>{{ $drop->packages }}</td>
+                                        <td><b>{{ $drop->status }}</b></td>
+                                        <td>{{ $drop->notes }}</td>
+                                        <td>{{ $drop->type }}</td>
+                                        <td>{{ $drop->expired }}</td>
+                                        <td>{{ $drop->personalnotes }}</td>
+                                        <td>
+                                            <form action="{{ route('remove.drop.worker') }}" method="POST" onsubmit="return confirm('Remove Drop to User?');">
+                                                @csrf
+                                                <input type="hidden" name="user_id" value="{{ $user->id }}">
+                                                <input type="hidden" name="drop_id" value="{{ $drop->id }}">
+                                                <button type="submit" class="btn btn-danger"><i class="mdi mdi-trash-can" data-toggle="tooltip"></i></button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                @endforeach
                             </tbody>
-
                         </table>
-                        <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
-
                     </div>
+                    <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 @else
-                    <br>
                     <p>No drop assigned to this user.</p>
-                    @if (auth()->check() && auth()->user()->type == 'admin')
-                        <div>
-                            <br>
-                            <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
-                        </div>
-                    @endif
+                    <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                 @endif
             </div>
         </div>
 
-
         @if ($messages->isNotEmpty())
-            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+            @if ($drop && ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send'))
+
                 <div class="email-wrapper rounded border bg-white">
                     <div class="row no-gutters ">
                         <div class="col-lg-8 col-xl-9 col-xxl-12">
