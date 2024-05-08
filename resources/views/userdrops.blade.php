@@ -66,6 +66,7 @@
                     </div>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 @else
+                    <br>
                     <p>No drop assigned to this user.</p>
                     <br>
                     <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
