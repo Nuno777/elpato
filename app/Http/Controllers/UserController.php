@@ -67,10 +67,10 @@ class UserController extends Controller
     {
         $users = User::all();
         $drops = Drop::all();
-        $messages=Message::All();
+        $messages = Message::All();
         $messagesCount = Message::count();
 
-        return view('allusers', ['users' => $users, 'drops' => $drops,'messagesCount' => $messagesCount,'messages' => $messages]);
+        return view('allusers', ['users' => $users, 'drops' => $drops, 'messagesCount' => $messagesCount, 'messages' => $messages]);
     }
 
 
