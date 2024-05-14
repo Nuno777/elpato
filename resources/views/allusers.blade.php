@@ -46,14 +46,20 @@
                                         {{ $user->type }}
                                     @endif
                                 </td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $user->email_verified_at }}</td>
+
+                                <td style="width: 15%" class="sorting_disabled">
+                                    {{ $user->email_verified_at ? $user->email_verified_at->format('j/F/Y') . ' - ' . $user->email_verified_at->format('H:i') : 'N/A' }}
+                                </td>
+
+
 
 
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')
                                     <td>
                                         @if ($user->type === 'worker')
-                                            <a href="{{ route('user.drops', $user->id) }}" class="badge badge-pill badge-info">
+                                            <a href="{{ route('user.drops', $user->id) }}"
+                                                class="badge badge-pill badge-info">
                                                 <i class="mdi mdi-bell-outline icon"></i>
                                                 @if ($user->type == 'admin')
                                                     <span

@@ -63,16 +63,16 @@
                                     <div class="form-group">
                                         <label for="type">Role</label>
                                         <select name="type" class="form-control" required>
-                                            <option value="admin"
-                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
-                                                Admin
+                                            <option value="worker"
+                                                {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
                                             </option>
                                             <option value="general"
                                                 {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
                                                 General
                                             </option>
-                                            <option value="worker"
-                                                {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
+                                            <option value="admin"
+                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
+                                                Admin
                                             </option>
                                         </select>
                                     </div>
