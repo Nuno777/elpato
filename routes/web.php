@@ -19,9 +19,6 @@ Route::get('/', [PageController::class, 'index'])->name('auth.login');
 //route auth
 Route::middleware(['auth', 'verified'])->group(function () {
 
-    Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-
     //perms admin
     Route::middleware(['admin', Admin::class])->group(function () {
         Route::get('/adminpainel', [PageController::class, 'adminpainel'])->name('adminpainel');
@@ -51,6 +48,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
         Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
+        Route::post('/user-{id}-set-default-password', [UserController::class, 'setDefaultPassword'])->name('user.setDefaultPassword');
+
 
         Route::get('/usersorders{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
         Route::get('/usersftids{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
@@ -79,7 +78,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
     //perms admin or general or worker
     Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
-
+        Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
+        Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
 
         Route::get('/drops', [DropController::class, 'index'])->name('drops');
 

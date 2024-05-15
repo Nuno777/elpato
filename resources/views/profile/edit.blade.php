@@ -1,3 +1,4 @@
+<link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 <title>Profile 💸 ELPato</title>
 <x-app-layout>
     <div class="py-12">

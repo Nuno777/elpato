@@ -59,6 +59,20 @@ class UserController extends Controller
         }
     }
 
+    public function setDefaultPassword($id)
+    {
+        try {
+            $defaultPassword = '!elpato12345';
+            $user = User::findOrFail($id);
+            $user->password = bcrypt($defaultPassword);
+            $user->save();
+
+            return redirect()->back()->with('success', 'Default password set successfully for the selected user!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while setting default password. Please try again.');
+        }
+    }
+
     /**
      * Display the specified resource.
      */

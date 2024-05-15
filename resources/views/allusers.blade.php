@@ -26,6 +26,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -50,9 +51,6 @@
                                 <td style="width: 15%" class="sorting_disabled">
                                     {{ $user->email_verified_at ? $user->email_verified_at->format('j/F/Y') . ' - ' . $user->email_verified_at->format('H:i:s') : 'N/A' }}
                                 </td>
-
-
-
 
 
                                 @if (auth()->check() && auth()->user()->type == 'admin')
@@ -108,6 +106,17 @@
                                             </button>
                                         </a>
                                     </td>
+
+                                    <td style="width: 5%" class="sorting_disabled">
+                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}"
+                                            method="POST">
+                                            @csrf
+                                            <button type="submit" class="btn btn-dark">
+                                                <i class="mdi mdi-key"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+
                                     <td style="width: 5%" class="sorting_disabled">
                                         <form role="form" action="{{ route('user.destroy', $user->id) }}"
                                             method="POST" onsubmit="return confirm('Delete User?');">
@@ -138,3 +147,6 @@
 </div>
 
 @endsection
+@push('scripts')
+<script src="{{ asset('js/checkpass.js') }}"></script>
+@endpush

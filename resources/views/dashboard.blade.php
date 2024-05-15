@@ -20,7 +20,9 @@
                     </div>
 
                     <div class="card-body">
-                        <p>All Drops: {{ $dropCount }}</p>
+                        @if ((auth()->check() && auth()->user()->type == 'admin') || auth()->user()->type == 'general')
+                            <p>All Drops: {{ $dropCount }}</p>
+                        @endif
                     </div>
 
                 </div>
