@@ -42,15 +42,27 @@
                                         </button>
                                     </div>
                                 </div>
+                                @if ($errors->has('password'))
+                                    <span class="text-danger">{{ $errors->first('password') }}</span>
+                                @endif
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="row">
-                                <div class="col-4">
+                                <div class="col-5">
                                     <div class="form-group">
                                         <label for="telegram">Telegram</label>
-                                        <input type="text" name="telegram" id="telegram"
-                                            class="form-control" placeholder="Telegram" required>
+                                        <input type="text" name="telegram" id="telegram" class="form-control"
+                                            placeholder="Telegram" required>
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label for="type">Role</label>
+                                        <select name="type" id="type" class="form-control" required>
+                                            <option value="worker" selected>Worker</option>
+                                            <option value="general">General</option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="col-4">
@@ -60,23 +72,18 @@
                                             class="form-control" placeholder="Create Check" required readonly>
                                     </div>
                                 </div>
-                                <div class="col-3">
-                                    <div class="form-group">
-                                        <input type="hidden" name="type" class="form-control" placeholder="Perms"
-                                            value="worker" required readonly>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <input class="g-recaptcha" type="hidden" id="recaptchaToken" name="recaptchaToken">
                     <button type="submit" class="btn btn-primary">Create User</button>
-                    <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
+                    <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>
     </div>
 </div>
+@endsection
 <script src="https://www.google.com/recaptcha/api.js?render=6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></script>
 
 <script>
@@ -108,4 +115,3 @@
         this.querySelector('i').classList.toggle('mdi-eye-off');
     });
 </script>
-@endsection

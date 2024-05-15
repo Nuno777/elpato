@@ -21,8 +21,7 @@
                             <div class="row">
                                 <div class="col-2">
                                     <div class="form-group">
-                                        <label for="id">ID</label>
-                                        <input type="text" name="id" class="form-control"
+                                        <input type="hidden" name="id" class="form-control"
                                             value="{{ old('id') ?? $user->id }}" placeholder="ID" readonly required>
                                     </div>
                                 </div>
@@ -62,17 +61,15 @@
                                 <div class="col-3">
                                     <div class="form-group">
                                         <label for="type">Role</label>
-                                        <select name="type" class="form-control" required>
+                                        <select name="type" id="type" class="form-control" required>
                                             <option value="worker"
                                                 {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
                                             </option>
                                             <option value="general"
                                                 {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
-                                                General
-                                            </option>
+                                                General</option>
                                             <option value="admin"
-                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
-                                                Admin
+                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>Admin
                                             </option>
                                         </select>
                                     </div>
@@ -84,16 +81,24 @@
                                         <input type="text" name="email_verified_at" class="form-control"
                                             value="{{ old('email_verified_at') ?? $user->email_verified_at }}"
                                             placeholder="Create Check" readonly required>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-primary">Edit FTID</button>
+                    <button type="submit" class="btn btn-primary">Edit User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
             </div>
         </div>
     </div>
 </div>
+
 @endsection
+<script>
+    var previousType = '{{ old('type') ?? $user->type }}';
+</script>
+@push('scripts')
+<script src="{{ asset('js/checkperm.js') }}"></script>
+@endpush

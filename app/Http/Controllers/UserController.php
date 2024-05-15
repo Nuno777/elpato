@@ -34,10 +34,13 @@ class UserController extends Controller
         $fields = $request->validate([
             'name' => 'required',
             'email' => 'required',
-            'password' => 'required',
+            'password' => 'required|min:6|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
             'email_verified_at' => 'required',
             'type' => 'required',
             'telegram' => 'required',
+        ], [
+            'password.min' => 'The password must be at least 6 characters long.',
+            'password.regex' => 'The password must contain at least 1 special character.'
         ]);
 
         try {

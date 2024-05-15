@@ -48,7 +48,7 @@
                                 </td>
 
                                 <td style="width: 15%" class="sorting_disabled">
-                                    {{ $user->email_verified_at ? $user->email_verified_at->format('j/F/Y') . ' - ' . $user->email_verified_at->format('H:i') : 'N/A' }}
+                                    {{ $user->email_verified_at ? $user->email_verified_at->format('j/F/Y') . ' - ' . $user->email_verified_at->format('H:i:s') : 'N/A' }}
                                 </td>
 
 

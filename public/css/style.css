@@ -34,7 +34,11 @@
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-/* my css */
+/*========================
+========= my css =========
+==========================*/
+
+/*===== scroll bar =====*/
 .drag-text {
     text-align: center;
     display: block;
@@ -68,7 +72,11 @@ body::-webkit-scrollbar-thumb {
     border-color: rgb(29, 31, 38);
 }
 
-/* end my css */
+/*===== end scroll bar =====*/
+
+/*========================
+====== end my css ========
+==========================*/
 
 *,
 *::before,
