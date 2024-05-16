@@ -108,11 +108,11 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}"
-                                            method="POST">
+                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}" role="form" method="POST"
+                                            onsubmit="return confirm('Change Password for this user?');">
                                             @csrf
                                             <button type="submit" class="btn btn-dark">
-                                                <i class="mdi mdi-key"></i>
+                                                <i class="mdi mdi-key" data-toggle="tooltip"></i>
                                             </button>
                                         </form>
                                     </td>

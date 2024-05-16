@@ -9,7 +9,7 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-header">
-                <h2>Edit User</h2>
+                <h2>Edit User {{ $user->name }}</h2>
             </div>
             <div class="card-body">
                 <form action="{{ route('user.update', $user->id) }}" method="POST" enctype="multipart/form-data">
