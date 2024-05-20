@@ -12,6 +12,7 @@ class Drop extends Model
 
     protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes'];
 
+    protected $dates = ['expired'];
     /**
      * Define o relacionamento com os pedidos (orders).
      */

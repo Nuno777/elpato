@@ -50,7 +50,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
         Route::post('/user-{id}-set-default-password', [UserController::class, 'setDefaultPassword'])->name('user.setDefaultPassword');
 
-
         Route::get('/usersorders{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
         Route::get('/usersftids{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
         Route::get('/usersdrops{id}', [DropController::class, 'showUserDrops'])->name('user.drops');

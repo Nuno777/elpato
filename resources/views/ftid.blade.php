@@ -79,13 +79,14 @@
                                         <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
                                                 target="_blank">Open
                                                 Label</a></td>
-                                        <td>{{ $ftid->label_creation_date }}</td>
+                                        <td>{{ \Carbon\Carbon::parse($ftid->label_creation_date)->format('j/F/Y') }}</td>
                                         <td><b>{{ $ftid->status }}</b></td>
                                         <td>{{ $ftid->method }}</td>
-                                        <td>{{ $ftid->label_payment_date }}</td>
+                                        <td>{{ \Carbon\Carbon::parse($ftid->label_payment_date)->format('j/F/Y') }}</td>
                                         <td>
                                             @if (auth()->check() && auth()->user()->type == 'admin')
-                                                <a href="{{ route('editftidstatus.edit', $ftid->id) }}" style="width: 100%">
+                                                <a href="{{ route('editftidstatus.edit', $ftid->id) }}"
+                                                    style="width: 100%">
                                                     <button type="submit" class="btn btn-dark">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>
                                                     </button>
@@ -93,7 +94,7 @@
                                             @endif
                                         </td>
                                         <td>
-                                            @if (auth()->check()&& auth()->user()->type == 'general')
+                                            @if (auth()->check() && auth()->user()->type == 'general')
                                                 <a href="{{ route('editftid.edit', $ftid->id) }}" style="width: 100%">
                                                     <button type="submit" class="btn btn-warning">
                                                         <i class="mdi mdi-square-edit-outline text-white"></i>

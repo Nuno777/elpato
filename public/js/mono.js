@@ -1,26 +1,3 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
-
-/* ====== Index ======
-
-1. SCROLLBAR SIDEBAR
-2. MOBILE OVERLAY
-3. SIDEBAR MENU
-4. SIDEBAR TOGGLE FOR MOBILE
-5. SIDEBAR TOGGLE FOR VARIOUS SIDEBAR LAYOUT
-6. TODO LIST
-7. RIGHT SIDEBAR
-8. OFFCANVAS
-9. DROPDOWN NOTIFY
-10. REFRESS BUTTON
-11. NAVBAR TRANSPARENT SCROLL
-12. NAVBAR SEARCH
-====== End ======*/
-
 $(document).ready(function () {
   "use strict";
 

@@ -47,7 +47,7 @@
                                     <td><b>{{ $drop->status }}</b></td>
                                     <td>{{ $drop->notes }}</td>
                                     <td>{{ $drop->type }}</td>
-                                    <td>{{ $drop->expired }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
 
                                     <td>

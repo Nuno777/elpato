@@ -96,9 +96,9 @@
                                     <div class="form-group">
                                         @if (auth()->check() && auth()->user()->type == 'admin')
                                             <label for="status">Status</label>
-                                            <input type="text" name="status" class="form-control" placeholder="Status"
-                                            value="FTID Created" style="background-color: #82FB6A; color: black; "
-                                            required readonly>
+                                            <input type="text" name="status" class="form-control"
+                                                placeholder="Status" value="FTID Created"
+                                                style="background-color: #82FB6A; color: black; " required readonly>
                                         @elseif(auth()->check() && auth()->user()->type == 'general')
                                             <label for="status"></label>
                                         @endif
@@ -138,4 +138,8 @@
         </div>
     </div>
 </div>
+
 @endsection
+@push('scripts')
+<script src="{{ asset('js/namelabel.js') }}"></script>
+@endpush

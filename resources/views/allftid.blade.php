@@ -118,11 +118,13 @@
                                         <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
                                                 target="_blank">Open
                                                 Label</a></td>
-                                        <td>{{ $ftid->label_creation_date }}</td>
+                                        <td>{{ \Carbon\Carbon::parse($ftid->label_creation_date)->format('j/F/Y') }}
+                                        </td>
                                         <td><b>{{ $ftid->status }}</b></td>
                                         <td>{{ $ftid->method }}</td>
 
-                                        <td>{{ $ftid->label_payment_date }}</td>
+                                        <td>{{ \Carbon\Carbon::parse($ftid->label_payment_date)->format('j/F/Y') }}
+                                        </td>
 
                                         <td>
                                             @if (auth()->check() && auth()->user()->type == 'admin')

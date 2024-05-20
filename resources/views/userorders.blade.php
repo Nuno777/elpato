@@ -33,6 +33,7 @@
                             <th>Pickup</th>
                             <th>Signature</th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -54,7 +55,7 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
-                                <td style="width: 25%" class="sorting_disabled">{{ $order->address }}</td>
+                                <td style="width: 30%" class="sorting_disabled">{{ $order->address }}</td>
                                 <td class="sorting_disabled">{{ $order->tracking }}</td>
                                 <td class="sorting_disabled">
                                     @if ($order->tracking == 'Fedex')
@@ -94,7 +95,7 @@
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->quant }} </td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->price }} </td>
-                                <td style="width: 10%" class="sorting_disabled">{{ $order->delivery }} </td>
+                                <td style="width: 10%" class="sorting_disabled">{{ \Carbon\Carbon::parse($order->delivery)->format('j/F/Y') }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->option }} </td>
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->pickup ? 'yes' : 'no' }}
                                 </td>
@@ -108,6 +109,17 @@
                                             </button>
                                         </a>
                                     @endif
+                                </td>
+                                <td style="width: 5%" class="sorting_disabled">
+                                    <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                        method="POST" onsubmit="return confirm('Delete order?');">
+                                        @csrf
+                                        @method('DELETE')
+
+                                        <button type="submit" class="btn btn-danger">
+                                            <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                        </button>
+                                    </form>
                                 </td>
                             </tr>
                         @endforeach

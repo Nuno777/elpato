@@ -27,6 +27,8 @@
                                 <th style="width: 5%" class="sorting_disabled">Method</th>
                                 <th style="width: 5%">Comments</th>
                                 <th style="width: 5%">Label Payment</th>
+                                <th></th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
@@ -76,17 +78,30 @@
                                     <td>{{ $ftid->store }}</td>
                                     <td><a href="{{ asset('/storage/labels/' . $ftid->label) }}" target="_blank">Open
                                             Label</a></td>
-                                    <td>{{ $ftid->label_creation_date }}</td>
+                                            <td>{{ \Carbon\Carbon::parse($ftid->label_creation_date)->format('j/F/Y') }}</td>
                                     <td><b>{{ $ftid->status }}</b></td>
                                     <td>{{ $ftid->method }}</td>
                                     <td>{{ $ftid->comments }}</td>
-                                    <td>{{ $ftid->label_payment_date }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($ftid->label_payment_date)->format('j/F/Y') }}</td>
                                     <td>
                                         <a href="{{ route('editftidstatus.edit', $ftid->id) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-dark">
                                                 <i class="mdi mdi-square-edit-outline text-white"></i>
                                             </button>
                                         </a>
+                                    </td>
+                                    <td>
+                                        @if (auth()->check())
+                                            <form role="form" action="{{ route('ftid.destroy', $ftid->id) }}"
+                                                method="POST"
+                                                onsubmit="return confirm('Are you sure you want to delete this FTID?');">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        @endif
                                     </td>
 
                                 </tr>

@@ -21,7 +21,7 @@ class PageController extends Controller
     public function dashboard(Drop $drops)
     {
         $user = Auth::user();
-        $drop = Drop::All();
+        $drop = Drop::orderBy('id', 'DESC')->paginate(5);
         $messages = $user->messages;
 
         $messagesCount = $messages->count();
@@ -41,7 +41,9 @@ class PageController extends Controller
         $ftidCount = $ftid->count();
         $userCount = $users->count();
         $messages = Message::all();
+        $orders = Order::orderBy('id', 'DESC')->paginate(10);
+        $ftid = FTID::orderBy('id', 'DESC')->paginate(10);
 
-        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages]);
+        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages, 'orders' => $orders, 'ftid' => $ftid]);
     }
 }

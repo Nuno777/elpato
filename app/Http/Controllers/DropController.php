@@ -68,9 +68,11 @@ class DropController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(string $id)
+    public function show()
     {
+
     }
+
 
     public function showUserDrops($userId)
     {
@@ -171,7 +173,6 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'Drop is not assigned to this user.');
         }
     }
-
 
 
     /**

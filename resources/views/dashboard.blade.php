@@ -43,20 +43,23 @@
                 </div>
             </div>
 
-            <div class="col-xl-3 col-sm-6">
-                <div class="card card-default card-mini">
-                    <div class="card-header">
-                        <h2>FTID</h2>
-                        <div class="sub-title">
-                            <a href="{{ route('ftid') }}" class="badge badge-pill badge-success"><span class="mr-1">Go
-                                    to the FTIDs</span></a>
+            @if ((auth()->check() && auth()->user()->type == 'admin') || auth()->user()->type == 'general')
+                <div class="col-xl-3 col-sm-6">
+                    <div class="card card-default card-mini">
+                        <div class="card-header">
+                            <h2>FTID</h2>
+                            <div class="sub-title">
+                                <a href="{{ route('ftid') }}" class="badge badge-pill badge-success"><span
+                                        class="mr-1">Go
+                                        to the FTIDs</span></a>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Your FTIDs: {{ $ftidCount }}</p>
                         </div>
                     </div>
-                    <div class="card-body">
-                        <p>Your FTIDs: {{ $ftidCount }}</p>
-                    </div>
                 </div>
-            </div>
+
 
             <div class="col-xl-3 col-sm-6">
                 <div class="card card-default card-mini">
@@ -73,7 +76,58 @@
                     </div>
                 </div>
             </div>
+            @endif
         </div>
+
+        @if (auth()->user()->type == 'general' || auth()->user()->type == 'admin')
+            <!-- Notifications Settings -->
+            <div class="card card-default">
+                <div class="card-header">
+                    <h2>New Drop Notifications</h2>
+                </div>
+                <div class="card-body">
+
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col" style="width: 5%" class="sorting_disabled">Drop</th>
+                                <th scope="col" style="width: 10%" class="sorting_disabled">Status</th>
+                                <th scope="col" style="width: 15%" class="sorting_disabled">Notes</th>
+                                <th scope="col" style="width: 15%" class="sorting_disabled">Expired Drop</th>
+                                <th scope="col" style="width: 15%" class="sorting_disabled">created Drop</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach ($drop as $drop)
+                                <tr>
+                                    <td scope="row">{{ $drop->id_drop }}</td>
+                                    <td>
+                                        @php
+                                            $dropStatus = strtolower(trim($drop->status));
+                                        @endphp
+
+                                        @if ($dropStatus === 'ready')
+                                            <div class="badge badge-success">{{ $drop->status }}</div>
+                                        @elseif ($dropStatus === 'problem')
+                                            <div class="badge badge-danger">{{ $drop->status }}</div>
+                                        @elseif ($dropStatus === 'suspense')
+                                            <div class="badge badge-secondary">{{ $drop->status }}</div>
+                                        @else
+                                            <div class="badge badge-warning" style="color: white">{{ $drop->status }}
+                                            </div>
+                                        @endif
+                                    </td>
+                                    <td>{{ $drop->notes }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
+                                    <td>{{ $drop->created_at->format('j/F/Y - H:i:s') }}</td>
+                                </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        @endif
 
         @if ($messages->isNotEmpty())
             <div class="email-wrapper rounded border bg-white">
@@ -174,8 +228,8 @@
                                     @method('PUT')
                                     <div class="form-group">
                                         <label for="message">Message</label>
-                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none" readonly
-                                            required>{{ $message->message }}</textarea>
+                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                            readonly required>{{ $message->message }}</textarea>
                                     </div>
                                     <label for="message">Response</label>
                                     <input class="form-control" type="text" name="response" id="response"
