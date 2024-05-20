@@ -80,45 +80,55 @@
                 </div>
                 <div class="card-body">
 
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" style="width: 5%" class="sorting_disabled">Drop</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">User</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">Product</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">Status</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">Notes</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">created Drop</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach ($orders as $order)
+                    @if ($orders->isEmpty())
+                        <p>You currently have no Orders.</p>
+                    @else
+                        <table class="table table-striped">
+                            <thead class="table-dark">
                                 <tr>
-                                    <td scope="row">{{ $order->id_drop }}</td>
-                                    <td scope="row">{{ $order->user }}</td>
-                                    <td scope="row">{{ $order->product }}</td>
-                                    <td>
-                                        @php
-                                            $orderStatus = strtolower(trim($order->status));
-                                        @endphp
-
-                                        @if ($orderStatus === 'ready')
-                                            <div class="badge badge-success">{{ $order->status }}</div>
-                                        @elseif ($orderStatus === 'problem')
-                                            <div class="badge badge-danger">{{ $order->status }}</div>
-                                        @elseif ($orderStatus === 'suspense')
-                                            <div class="badge badge-secondary">{{ $order->status }}</div>
-                                        @else
-                                            <div class="badge badge-warning" style="color: white">{{ $order->status }}
-                                            </div>
-                                        @endif
-                                    </td>
-                                    <td>{{ $order->comments }}</td>
-                                    <td>{{ $order->created_at->format('j/F/Y - H:i:s') }}</td>
+                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">
+                                        Drop</th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        User</th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        Product</th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        Status</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        Notes</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        created Drop</th>
                                 </tr>
-                            @endforeach
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                @foreach ($orders as $order)
+                                    <tr>
+                                        <td scope="row">{{ $order->id_drop }}</td>
+                                        <td scope="row">{{ $order->user }}</td>
+                                        <td scope="row">{{ $order->product }}</td>
+                                        <td>
+                                            @php
+                                                $orderStatus = strtolower(trim($order->status));
+                                            @endphp
+
+                                            @if ($orderStatus === 'ready')
+                                                <div class="badge badge-success">{{ $order->status }}</div>
+                                            @elseif ($orderStatus === 'problem')
+                                                <div class="badge badge-danger">{{ $order->status }}</div>
+                                            @elseif ($orderStatus === 'suspense')
+                                                <div class="badge badge-secondary">{{ $order->status }}</div>
+                                            @else
+                                                <div class="badge badge-warning" style="color: white">
+                                                    {{ $order->status }}</div>
+                                            @endif
+                                        </td>
+                                        <td>{{ $order->comments }}</td>
+                                        <td>{{ $order->created_at->format('j/F/Y - H:i:s') }}</td>
+                                    </tr>
+                                @endforeach
+                            </tbody>
+                        </table>
+                    @endif
 
                 </div>
             </div>
@@ -131,52 +141,70 @@
                 </div>
                 <div class="card-body">
 
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" style="width: 5%" class="sorting_disabled">#</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">User</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">Carrier</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">label</th>
-                                <th scope="col" style="width: 5%" class="sorting_disabled">Status</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">Label Payment</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">created FTID</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach ($ftid as $ftid)
+                    @if ($ftid->isEmpty())
+                        <p>You currently have no FTID.</p>
+                    @else
+                        <table class="table table-striped">
+                            <thead class="table-dark">
                                 <tr>
-                                    <td scope="row">{{ $ftid->id }}</td>
-                                    <td scope="row">{{ $ftid->user }}</td>
-                                    <td scope="row">{{ $ftid->carrier }}</td>
-                                    <td><a href="{{ asset('storage/labels/' . $ftid->label) }}" target="_blank">Open
-                                            Label</a></td>
-                                    <td>
-                                        @php
-                                            $ftidStatus = strtolower(trim($ftid->status));
-                                        @endphp
-
-                                        @if ($ftidStatus === 'ftid created')
-                                            <div class="badge badge-success">{{ $ftid->status }}</div>
-                                        @elseif ($ftidStatus === 'ftid paid')
-                                            <div class="badge badge-success"
-                                                style="background-color: #bfddf3; color: black">{{ $ftid->status }}
-                                            </div>
-                                        @elseif ($ftidStatus === 'ftid dropped')
-                                            <div class="badge badge-success"
-                                                style="background-color: #cf9bcc; color: black">{{ $ftid->status }}
-                                            </div>
-                                        @else
-                                            <div class="badge badge-danger" style="color: white">{{ $ftid->status }}
-                                            </div>
-                                        @endif
-                                    </td>
-                                    <td>{{ \Carbon\Carbon::parse($ftid->label_payment_date)->format('j/F') }}</td>
-                                    <td>{{ $ftid->created_at->format('j/F/Y - H:i:s') }}</td>
+                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">#
+                                    </th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        User
+                                    </th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        Carrier</th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        label</th>
+                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">
+                                        Status</th>
+                                    <th style="color: white" scope="col" style="width: 10%"
+                                        class="sorting_disabled">
+                                        Label Payment</th>
+                                    <th style="color: white" scope="col" style="width: 15%"
+                                        class="sorting_disabled">
+                                        created FTID</th>
                                 </tr>
-                            @endforeach
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                @foreach ($ftid as $ftid)
+                                    <tr>
+                                        <td scope="row">{{ $ftid->id }}</td>
+                                        <td scope="row">{{ $ftid->user }}</td>
+                                        <td scope="row">{{ $ftid->carrier }}</td>
+                                        <td><a href="{{ asset('storage/labels/' . $ftid->label) }}"
+                                                target="_blank">Open
+                                                Label</a></td>
+                                        <td>
+                                            @php
+                                                $ftidStatus = strtolower(trim($ftid->status));
+                                            @endphp
+
+                                            @if ($ftidStatus === 'ftid created')
+                                                <div class="badge badge-success">{{ $ftid->status }}</div>
+                                            @elseif ($ftidStatus === 'ftid paid')
+                                                <div class="badge badge-success"
+                                                    style="background-color: #bfddf3; color: black">
+                                                    {{ $ftid->status }}
+                                                </div>
+                                            @elseif ($ftidStatus === 'ftid dropped')
+                                                <div class="badge badge-success"
+                                                    style="background-color: #cf9bcc; color: black">
+                                                    {{ $ftid->status }}
+                                                </div>
+                                            @else
+                                                <div class="badge badge-danger" style="color: white">
+                                                    {{ $ftid->status }}
+                                                </div>
+                                            @endif
+                                        </td>
+                                        <td>{{ \Carbon\Carbon::parse($ftid->label_payment_date)->format('j/F') }}</td>
+                                        <td>{{ $ftid->created_at->format('j/F/Y - H:i:s') }}</td>
+                                    </tr>
+                                @endforeach
+                            </tbody>
+                        </table>
+                    @endif
 
                 </div>
             </div>

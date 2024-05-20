@@ -61,21 +61,21 @@
                 </div>
 
 
-            <div class="col-xl-3 col-sm-6">
-                <div class="card card-default card-mini">
-                    <div class="card-header">
-                        <h2>Analytics</h2>
-                        <div class="sub-title">
-                            <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
-                                    Analytics</span></a>
+                <div class="col-xl-3 col-sm-6">
+                    <div class="card card-default card-mini">
+                        <div class="card-header">
+                            <h2>Analytics</h2>
+                            <div class="sub-title">
+                                <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
+                                        Analytics</span></a>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <p>Your Analytics:</p>
                         </div>
                     </div>
-
-                    <div class="card-body">
-                        <p>Your Analytics:</p>
-                    </div>
                 </div>
-            </div>
             @endif
         </div>
 
@@ -87,43 +87,55 @@
                 </div>
                 <div class="card-body">
 
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" style="width: 5%" class="sorting_disabled">Drop</th>
-                                <th scope="col" style="width: 10%" class="sorting_disabled">Status</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">Notes</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">Expired Drop</th>
-                                <th scope="col" style="width: 15%" class="sorting_disabled">created Drop</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach ($drop as $drop)
+                    @if ($drop->isEmpty())
+                        <p>You currently have no Drops.</p>
+                    @else
+                        <table class="table table-striped">
+                            <thead class="table-dark">
                                 <tr>
-                                    <td scope="row">{{ $drop->id_drop }}</td>
-                                    <td>
-                                        @php
-                                            $dropStatus = strtolower(trim($drop->status));
-                                        @endphp
-
-                                        @if ($dropStatus === 'ready')
-                                            <div class="badge badge-success">{{ $drop->status }}</div>
-                                        @elseif ($dropStatus === 'problem')
-                                            <div class="badge badge-danger">{{ $drop->status }}</div>
-                                        @elseif ($dropStatus === 'suspense')
-                                            <div class="badge badge-secondary">{{ $drop->status }}</div>
-                                        @else
-                                            <div class="badge badge-warning" style="color: white">{{ $drop->status }}
-                                            </div>
-                                        @endif
-                                    </td>
-                                    <td>{{ $drop->notes }}</td>
-                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
-                                    <td>{{ $drop->created_at->format('j/F/Y - H:i:s') }}</td>
+                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">
+                                        Drop
+                                    </th>
+                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                        Status</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        Notes</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        created Drop</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        Expired Drop</th>
                                 </tr>
-                            @endforeach
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                @foreach ($drop as $drop)
+                                    <tr>
+                                        <td scope="row">{{ $drop->id_drop }}</td>
+                                        <td>
+                                            @php
+                                                $dropStatus = strtolower(trim($drop->status));
+                                            @endphp
+
+                                            @if ($dropStatus === 'ready')
+                                                <div class="badge badge-success">{{ $drop->status }}</div>
+                                            @elseif ($dropStatus === 'problem')
+                                                <div class="badge badge-danger">{{ $drop->status }}</div>
+                                            @elseif ($dropStatus === 'suspense')
+                                                <div class="badge badge-secondary">{{ $drop->status }}</div>
+                                            @else
+                                                <div class="badge badge-warning" style="color: white">
+                                                    {{ $drop->status }}
+                                                </div>
+                                            @endif
+                                        </td>
+                                        <td>{{ $drop->notes }}</td>
+
+                                        <td>{{ $drop->created_at->format('j/F/Y') }}</td>
+                                        <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
+                                    </tr>
+                                @endforeach
+                            </tbody>
+                        </table>
+                    @endif
 
                 </div>
             </div>
