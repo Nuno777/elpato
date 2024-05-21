@@ -1,7 +1,1 @@
-@props(['status'])
-
-@if ($status)
-    <div {{ $attributes->merge(['class' => 'font-medium text-sm text-green-600 dark:text-green-400']) }}>
-        {{ $status }}
-    </div>
-@endif
+ENCRYPTED::eyJpdiI6Imp0aTlBYWtZelg5WVVIc1FzbHZ5YkE9PSIsInZhbHVlIjoibXY3TzdudWJDREhPb2NjeHByYmZzSTAzMHRvOEREZ0J5bjdpSnhBb1BuaE56QWNHZjF3WDl1aDBhRE8zYmpkeEdJK2RXZVFtZWI1eUtwMHRUK1NFdkN2MERFZ3JkdEVrSGdVY0dPNHFXS3RFeldIZDlrcXdpL1Z1eXhxai9GN2VEa1Y2TnJGa0UwSzJaSHlGT3N1TWVjNUlkazdOTzF5bnB4QXNSSldUc0pqdEFHTnRxbklQcXhKS1Q4VmRvenBGd1E5emg2MXVLRlZTN0tQMHNqQStNWTZXbE1YMGorVDkzemZvZ3craER2bjh0K3doWmJsNjBza1E0YmpxeUZmNSIsIm1hYyI6IjA5NDljZDNhODg4NWQ2MjA4YzIwYjY1MDBkZWRkMDhhN2NjMzBlMmU3MzI4NDY0N2Q5Yjc5Y2Y3NGI1YTgzNzMiLCJ0YWciOiIifQ==
