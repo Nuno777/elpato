@@ -1,1 +1,148 @@
-ENCRYPTED::eyJpdiI6IlVScDdxbk04QnVodGh1TUtpeVJIeWc9PSIsInZhbHVlIjoiUUZPT3hiRTFEbDE0T2xDckxYVFBBVzlCc0Rza2RyVExHUnNmNG5KRlA2R1R0QUNtNmpMOEVxVERGcmJJMzNZbFlHbGJqdWc0S0g5elk5VTRvc0ZWZmdhaDN6Z0FRR2RpNVpwUTgvdTkveEVSbGh5azhJRWNqZ0xQMDVrNUNwTktRbHhKM1lFYkRsaWVlaW5BN0VvcUkxUnUzdHBBNUI0UFJ4d1ZnbWNGRXpaaTNYdXN4Szdpb0RsVjFmdERoeUZLOGVYTlpudjBIMXlZOUkzVW83R3BXOUZkQ3hqRnlpbGw5MEY5V3RkVXQ3N2svbEU4QWRPWnZucWU2UzNsTktkQnBRS0t1U1FoM0Q3MU5Bb0tzS1hrK09HU1dOV2lvei9abm9GNmplanZPbjZRazNUYlhOdjhmTkVTZ2liRkIrL0pWTzdPT0Mwb3NVc2dJS2drL0hjLzZIY1JpeElPSTZHREwwRWtGMHYrNjBudi96LzJqWEs5dlBzY1RHQ2FpQjdIVmw4UUZQVkxydzB1Ym9hYWdPMG1XVUM1Tmc5dUtLcWY1Y3g3NTlFNndzdkZhOXQ0VE85WExwZzIwM0dyekl3UmdqWk9TWHRsVlI5dldFaTJzRWV3aVo1R3VLb2U0aTVHNU11aTdnanJNV1B4ejZzTmpDNGZZaWR2VjcrZ1dTbzdSaU8raEtxbHVMaHpHMFFlb1lST0wrR2xRaTNtNlpBVmFYdW5CWVRLTVIzUmhLakkyT0Z0QVltZ2dYaVp2YkF0VzArOVVZcDg0ZHJDMUsvVWExNUV2TzVwN2tSQm5Pb3VDVWN3Q3BieHVMTjJOOGNBR05rV0xPMDZHYnlpWGliRklBMHJ0NjVOSkFtY1NZQk8wUkNGV0phdDlTenpma0RrUlNibEtjcVM3WTk4RGpBRGppdTBCdEVEN1dtaGtkeXdra0ROVktkR3R2UkJoL3dONzY5dGFielluWlkza2wzVkJkaDM4NkF3YS9XVmR3LzdLVml1Ym5LZytSbjVweTBxbEZxQm0wVHM2cmhWalBTcXJSRnFZdU1tb2FIRWNWcEUwK0l6M1FFU0NoZXExOHIzYWROaXBkOWpLMVhxeGcwajVDaWY1RUhqSWN0SlRDYktJbUMyUHJDd25pb1VlS0NDTHJZRTBnVGliQVZRbW9VbXR3WTNDU0c0djgzM29vYnZpY2g4dE9QNVZsdHlKZWZmb1FjQ0pHY1VUSmNyUy9KVTVkZ2o2bjNqOTdUc04rVFVLbHdXRUJYeUovUi9mQlpCZWtDY3dEZGFOUWlmNWVNWTg2dWFNZjBHUm5tTysvZjdqWDFtSVlVQTNlL01RTXhPenBGeW9UZHF1alFDN3ZEdHR5QlRkbW9CTExBcklOMGM0N3RxaGlzZ0J0cm1kdjkzOFhQd2VwTFU1WVdsaDlMUjNMVld5K3Zsb1puZDhtSVNSMCt4RzZ1a2VhandmNzRpaWRPcGtTcVdwVWsvdysvTGgyQWdCNE0zeDBvdmd6NGNSZTE3Vm1GZDZTY3VIUHFpM2tVbktYSGVMQnNWSzM5ZHk3aFRhR3JValV1TXJyUFVyeHRkZG1mNWswWDM2Ky9VRlhteityWXlhQmx4RHUxbE8vajJiNkxCRUhXQkpPR3NYUlFOQTRPaC90cVFOQ1JoRG9EeTVTSnJOTzNWc1FyZ2QxRVlUTjF0QWJRdGh2OTd1T1htRVlEbFo4NXBOcVJkUnZzbEhaUFlMcnJwSG11NnlVcUE0Mms1Wkl4K08yS2ZxVkhxV2tGd05BeWFYR3lKMWVIdGRvYXUrMWVlc0JhdklJT2pTRFJYcWI5Z1pIdXJYcjN3ejM0dGZGS2lJbmJhRnhNcG5pbTdMM01OVXhiWVZuTjBRZHkxeWh1YzdNWlROb2VVUktXY2tYckVkb2NqQlZMMzV6ZVJYMVVudWwvemthM0xTWWgxMXhEeDVBWkZCbTlPUXFCVnh0eVRPaW1uUGV0d2VLL2FmZFRhRWptRS8xRnl6WEM2QkVpOU9mRFdOZngxNUV4WEdXWXltVHZNb2c0cWZrLzFXV3E3UU0yZXVqOGtlTWYreklubDNSVU5CYnZhNjVyVlNhTU4xbFU5c04ybmxiZFdhQlJQcDdBVGk0WjZzcTNYdDROeFZCTmd0Rk5sVWxVSUgzdHNFL0MrUmhyZlRYNDRMM21lY2VwNFdOZmtvMFlqSlViL1p3UHZCazYxWFFLVVZTeURxY0Nqc0cvTmlNak5zYUg5QlJjbVFHbjNuajIreENKVDBBM3hxS2dicCtNMXVLcGd5dkswclN5eUptd0puSlRUaWNtemMxankrbjRsNExJMGN1RzZxOUZ0V0hleFlQcmVRbXoxSEZHMmRsV0UzSmRNNkJkZG93a0N0WHlTZmZtL2N1NUIyNi8ybkJKYUdlYzlSZVE2MWJpSDdWZmk3WGplSWxOeEtFWiswelhXc0R4aGtlUlA3OGdjK1U5L3QvZVMwVXFkU2pHL3V2NHBwSDg2d3VDUzhiUXppb1YvcGJ1NmZiV0x3QXBnWm1Db3ZtWFFnQ24vS1lqcE91QjUxMEQ0c3ZNYWRlSkd2bEN0RTlTVldMOFlEa01EVmlxUUhoeS9QenYzTWFjZTdqTVBUbFN3c0lxZ2s2VllOWlp0ZzF6S1J6ZUUzRUxDaDV6N1hYRVlxeDJVVlg1aklZVENCWVFkQ1lxSDNqbGMraTdoQzFLSEVIS0xXUkRFOEc1cE9JUUtxR2N6WTlWczFabmFxTU5pZ3NEQllrQ3pTTlB3TVptb280anR6VXFWeC96elpWbWRCeFNWcTVwZGJCSU1wSkVpTlJSQW9lR1pTTTlDSG4raHAwbytLbFd0MmhQbS9PZS9JbDBBWk5xLzNweGtYdHkza25TYUhpT1FwUVRzNlh4NC9JVHVTbDhGdWp3TGJJbzJSV3pQWEtZVGErVC9mUnkyOVFaUm5mcUwrK3NYZUNBMzFvL1VLL3RzdVR5SnYrcG9DL3NlNHQ3T0xTdWhTMnZHTEtPVWJGd09ZZGQrSis4aGdMYXdPc3VkTUJ6NnBHT2djM3RUY0gyWXMyc3ZBT3ZXN1FPblFVdGFNSG1wM0V0RjQ5YURJS2J4NDgwZGt5TVdYTGVVMk8zcTkyNWkrOHMvTHloYUJUSUhwUVZlWk9veVlReVZXWnd0TExrUUJZMjhkQ3dTNC9DY3g3WFFReDlUQlArL1dEZFoxL1UybVhRbkZRRUFwL0QydGRvbW1iZC9YTjV6dVN1M3BSalB6VEN0WjlTUTFXcDlzQzBIemhtdVd1dmMyUkVNYUpFakRmdkNIZHlTR3hIK2h5VjJRS1JIQUlQT0g2TnFLUGxRUlZkYVNWZ2todmFScW1ad0tRRUhPVGFwUnhUN3ZJazJnNVg3MmFHRjM5Ni8wdkd2NU9wdERpbWY2a2Fxc2E2RXhYQWF5K1M3UnJGSUVoaXN0TzVGQzlseVdkMzFpOEZRNHVJa2tBcDVSbWwzUmc1d0hISDFOQ1NyWHo4QXhoM3pBSjM3YUhQd090NEhGRGs0cUJjcGFZY25kbXdRa2Q5TERBT21JeXVpTWNZR2w4R2NVSnJhSkNJVExkWG0wTnJZTy9idTZpWWxyeWQ1QUo0bWh5MlJibGRXUEQyMGN1Qnk3U0ZXM3hQNFd0S3p3TlcyQ2o2RFA2S1ZYK25BNFV1K0htZWNDdjJrZlZrRlZCYVBpa2ducE8zdEk2elovejZWczlSRU1TVzdRL1hCQ2RJVm5ENUZVekZjMnVFYk9NaTVNWFdVRHN0b3BYTzFuU2NhWlZ4aGwzQlBERmJ4Um8yTHU2dEpkV3ZxeFgzNlJnRTB6Mnhhd3V6dkJHWkoyMEVDNERCYmN2by9hckI4U3hKaEtnd3hjUXZrTmxyMjVNc1VVS1dEOHJMR0VEMEJWOGYrSldGVWxtcm1wekVldHd6MHd1WlQrWmUzWElEMHora3dPclZaY015UnIza3FKWVhiL0NYY0YySUtBQ01RR0E0cEk2Z1pkTkNBS1NZTktuMFV1dGF1bWo0MXZURmozblRBSEV2dExlSkN2VVd2UDQxTU5CNHFrZUJ3RXFsc25JOUMzN3dZaVQzMUdCQW1BQndmNG81QTRrZzN1QjdnWGlKMEYrZitrUTBGNmpLcithWmpKZFoyTXBRdjJTcWU3MGRKUHFEdzZuOFJhOVJkVURZckQvK3Y0UDM3MmZnUzVOWlBFZm82d1kxdWJsZlBwYXBJM0IwYXRxdThPb0dPZjRBVFRzN2pDNWRXMHJIUjVkUnUwREg0VHFNUE1yclcwWmhtSTdVYW5UU2E0cm5SeFZTS2diVXJJeFFSbkZxZm43QzhZa2VUTlRyY1dDck1uaU1ndTBzK3lzMEp6NWk1cmxMa3hNL2pjMk9XN0MxTU5tYXJLZzZiOE1XaFNqY1AxYXNZUXYybEhZRERBTVBUTi91MmlkWm9vWFZ2SWs1bUQ1aTI2RUVKY1ZiNUQ0bThSS0dhRC95Ym85Zm1KbDlwL1FuOVplb3MzVGZqdk9JaWVGVE1HS1p3WXZNV1JNU0Y1M3RtSk5wVjI5NUl6K1p5T0lPWUw2bG42NnVqOEh4dUJjTjlxb0JZaGNsVTFJSDRDMmtlM2VZUWlkN01OVXpDQXRkOGwxNnVkbFZ4WW9vNjlTalJROHJKbTltMzV4WHNSNHFrY0g1dGhwS2UxRWJJYnpOOHBrQkh3N3JtMVhLWXkrTzBRNzRRWTdmVGZySzVFSEpyZ0RMTHplb1BuSVlibFFZSnAwcm5vOGExSW9yTmNZeEJwZFo5cllKbTJhc0JsbHVVRmFRc3pzQWhxUm5Yb1h4dncwb2hEbGZnaTRNUTl3T1Vadm91amtOL2w1Mkhpa0ZxVG8wT3diSXVRVUJVUllHcXMyWHhGbHJ4RGdxUjZydTAxTHhOSkNHVzV1LzRzazdQMWV1N2t2MmE2dGZlOEpVaXhNdjZJamlzMFBwMjJraC9TMkJ0NE50V1BYV2pwc1pEa21seFFoNit5eVZZNlVad0RtNTRrQnQ3d3dkaHpYekJBVGYwUWNXRCtFeHpLYlUvampYbTZXNnN1R1BvV2x0MUc5eHAzOVdEbFRsQk9jakdEdDBYYm9jaXJtSlNndHlrZnM5K1BCYlVJbzN2Q0trTVpzdmFYby9IakxjSFJhckhWYVd5TTdJRTE5MHNyc1VwRUM1RGpFRC94elgyK1Zpd3ByNnVhUDZzZzBMR3Ixem85UFkvUDVPUGp6T2NVTG1FamNHY0FlY1FqV3BnRDhXUDA0Z2pGRXVDeDBTZHA0YUtDbElZbk1lYTliSXJJOXVrMU9BOGVlZm16Zm1rV2RkeWN2NFA3b0NrMEIzQjZXTlY0dDBUZTJmdU5SUDVIbTc4VVNoRXRnaldHMURUaFRqYTNmZmowTEltYytFL3lhN3BwQkF4Um1GblVKRWdpcmVmbzAyUFNEUUlVRmF3eDRYTkpXMEJqMytIdWNzUENMTWk3c0NiK0IxT3Y5SjVOZHlLckN6YndIZ01qVmdZR0JwNFA5d1BzSFBjTkdjQVJOa1p2eFo1M1JtaTg1K01GbTlnRHl2a244cnZyM3R5cWJBSFNsMjVtdENOR2NteHZCdkxjdGUyam92SXRTckQzVGJIZHl5WkIyWnloSStVMVRGYXRCVFRXcnR0dE9ZRWVaVkI3K0JqN0JDU1FVWTQ1YVVXb0FDaG5QL1QyUWNXbEpRQlFPUG5PeW1TUlVHTFYyM2Vybk1VV3hFSktvelplMWlNMCthUG8zekR5NzJXekZjekJtRStKYmVZNWZvZjJyWXR4VERvT25Qell4UmxWYmt6b2xRcjRDaW82QitMck9qaVBpTjBPYlljaFFTa3pnSCtkeFREY0xtUCtRRU9ZSUg2RDZETytueWVFVFl1Wm8ydzZReGFvdFh0Q0RwTVdBTHhLNWREbDc2dUhibzFmMHphRlFXeHRYSFkrNXMxNzFmZGsvdGhhSzRwelN0aWwvSVo1d2RiU1puOUp5MVlhYzBaWFlxRDNEeDNxUmpxcGluRmNlcXplN1FZTjUxbGtlL1hMd0s3RlloRUpmVDQ1MEZjL1VFVjYrQ1ltVFprSVFRSTMxcUtEelduMVdHcERwRHB2TUZMcW9aTDR4Y1htdHlJQytvTVpKK1kxWHMrbmFMRGdKNDJhK0JYazl1bjFpdExDUkd5NGVqVWVpMFE1ekFuNjVGMk5CMllHQzB6VmhYckVOLzhuRmJkV3UxbndlTlk4ZGs3NTVpdkswSEtGS0lHOG9RYi9QaitzR21wWlhVTzZjYUJHemhoTDFTRFI5U0FSbXl4dkRaWnArcXEyYllFdjVrNXpPaEdhNGlYTmZpczVONHc1Z2JURVFtRnFabTFoU2FuNC9Oc0dWN1ptdFJpTXBXV3RSUnBYN2FBcGtVdnI4TElHWnpIUmJNL3I4Tm9zWFAzV0NHeGgzNk1EZ2hKaEtZTnIyNHQzL3NaYlowTVdsQmdpZjJNQklaSklmdTBuekRSZzljZm9hUHVEK1JML0NNZ0ZFMlV2M3d1Y05SN1lmVHZ1ajQyS3R6ZGZCMS9Na0R1cGt2bkIzdGJPR3U3ZUhrcGJzSGoyS0hFYzgwVjVnTkFRSC9ZTEl3eG5BMXdUT1ZiTmoycHBIN1ZJWG96czc5TWNBaGxYUkw5SG1mQUVXckpNMTQzMjFBVFZtYU1mbm1rR051NmxwMkxiTGRRTnZXZkpnUnJYTE0zYXM4NmJpQTByWjR1UHlUOGRhc0o0YmovWU1uSFR1WWFhQmF3L1E3Vlk1TklpUHIrUGEzUDEzRWRIVSs1S0NJc2poUVptR1l6WFVHWThZbmlKb1hKdEI1ZnhZMlhOc2ZPTEVISXdFdjAxZmZ5V0U2Slo1NTd0aTdvUVh4b2Rnd2s2ZXZOVmFtZHl3MmhNR09DQ1R5Wk45RStFOCszc2RVb1VDUUk4dGlpRmp6N1h2QlNMeGFrbmJwcUdreFV3KzRlSURPYzN6aWZ5SG55WVNkZXpYUWlTQWtFU3p4SzdxaU8xRFdJZFdLblZwalNQSEJ0ZXVocXozYVdTMkM1dmFvckRYcExuajJNUjFzT0ExQm53Zkx1bkdOU2tSUDB4emZPZFp3QmpWTENVbUJHR1ZQbVYvK1Nqc2RaMGRFcFRLQyszMmVvTXkzdERabnJNditrVG5jM3pIZjN1Ylppd1pKNW5MOTBzMFQ1VnN3MWUvd3o2NWMzSC8wNGlIK0RIOXVSanM3ZGw2SDlLSWNtSHdNYVFld1pta3FkSkdMRHZlaVZFbjFCMWJDdVFhWENxb3c5bXBpZHU1QTh3NkVlb09NYW5FRDRaWWZUa0dUQmd2NVMzQnNkN0hyVlZNWWRPZlg0YmVKMnBGbktUOUdkNzRzUWJMZjRuMG9EU0R1c0YyK3R1RysyQ3FVbDc5ZGpZeis1ZHFXdmxQcXljMHlNQzRXNUd5bExwUGNiektDbysyRXBNVEN1RnloVGJNMC9IcFZFb2M2N3V6bllGUmNBZ2ZEdG41MHdRWW9XWGxSTGxSdUNhaU9QUGxyQVlSMTBGUkkyRElHN1dVeEZjeER5YW9iZnlqaW4wV3hFNXZtYmJTNHViMzBBb1hyRWtHengvNjkxNTJmblo2K2FnL082MjQrNVhac2JwYlUwdWUxdSsrRUQ4TFltQVRjMUlXQkFpSTZISy90ZDFQUlVYRy83TVdETUxFZ3ZOaE8rbXE0MDJTRFNiVDloeFdiMkt2RHhYZ2JBRkJZM1hBZWN5K0R3UkYxbFJZQlZCd2VJdzZaL0tXMGFNbEh3c2k4NTl2enFFbFRaMlBRNjJyeGgzRTdqdUg5WHd6RmE2S2lES0JDYXZaYTNiNGxpbXNVSmpKL0dqZTVCQ1FWQVVmMHI4WHIwRmRBM1BNaXg1ZDFva1M5a0RiSmgzeDBZWjZ5OTh1SnJOOHozR1g1YjkzeEZRRitvQ3dTd0kxaThXRTY4ZEFud09ybUh5bHBqNWtDZHZiRWZFa0VFbzg3K2NvZjRDUzRyNWJYZi9Xc0JrQ0I1bERXcUNzK2REd1JaYUE3QlZDZ05YUC8rNXV6YzY1VUJNR0MwOUpwNDZCb0U3RDJaQ0p3ckIvUVhxWUtXVWsyeHVSQm4rOGM2ZXE4a3BBRTMzM0lJQVlWRDlvWS95TGpveWxqbnRUNkMxZ2tOaDgrSVZIUzNDMmFLb1ZYdkF1SWJ5SnRMdmw3VDRhdWRqTTNUbHIyclJHRER5ZjNray90b3F1RlY5bHFCWWNObWE2SXlWbUNSeWpCcVZDNEUycVFvN1BrZEpIK0Zmcm5RamVZQjUrQ0tadGduL2pLbGpEZFlMMDMySlF5RWk5UTM2aDdhTnRZa0xpS0lKTmpWdUNPbXlna3FRNkQ4WkJDZVltQ0NnYkVtNmRqTnBpMDA2aGQ3UWU2bU9EbWs5MnBCbk1FbzQ2NVFkMnRUNXFSNTJGWkRKMHhZS1VyVkkrdWxPUFZMZGVnYnVnWUJ3bW5vTFJmUTdhME8rRWF1RUFkR2VHdWpIV0EzdGRPaTdvdTluZTViTVlwc2JoWkF6OWY2eHQ1SmN6RnpoRVE1QStCRXMxdk9XRVp4Y1huZmtrTmhGdnVjVkNEQkRIODF4bXAxOWJlbTJhTHpJeWRCZ2FsRXFOa241enlNeHd0UVpvMVBSQmd3Nm5qbERjYmEwd0tOWHdoY1I2OEVoTHc0YzJaT3JXZXNWdnlxa05yUk5kL1YyVFpsb1RkNVR3RFJZV2h5TXFUa3lUakZBWDFNYUlOZHcwNmFZRWZVemYrVlZyTy9kOTMrY0FNS3FQSVZERkVYVWVXSnlzeFNRdVBrVzNycEZhTCtHYXpuZWU5a0lZWkJnTTYremdyVlg4d1BINlhQYUh5UzNxTHVlcVF6WTdWRDdGWVV6RUpicThZUk82ZVFVSVhhbXJBSU5idHZjVnZLaUp1a2tMUkVZY21DSnVwKzBvQlFXdE13YmpkbTJ0MEZJYm5hUnN3RStiWGt2czhXNmtVd1dUcUtJYnhiOXRKUTVqN1NzaG04L0tmYzJaOVB3ZUk4dGdRK1pJbnZLMzl2Tm5pdVJiS1lmbXhzZUplRk5teEMwcXhPMkkvdXVZRDNyS1Byak9wQWJyL1JCMzV2THE3OC9JNXNES0lLdmpQdDBYTUhkUXBFY2dka1JUNzNYMzY4MVlBNjIzbzdNQVlXREk0NmM3dFZHc3B5M0VvTG0wdnJoSkd1UVJFZ0FrelJ4OGo4aTBsYyIsIm1hYyI6IjI0YjI5OTRkN2MxODFjY2MyOTI3ZGZhZjczYmY0MmZhNjMzNjQyNTI5MTRkYWZhM2U3ODljMWI5NTY5ZmViNzIiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../xml/xml"), require("../javascript/javascript"))
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../xml/xml", "../javascript/javascript"], mod)
+  else // Plain browser env
+    mod(CodeMirror)
+})(function(CodeMirror) {
+  "use strict"
+
+  // Depth means the amount of open braces in JS context, in XML
+  // context 0 means not in tag, 1 means in tag, and 2 means in tag
+  // and js block comment.
+  function Context(state, mode, depth, prev) {
+    this.state = state; this.mode = mode; this.depth = depth; this.prev = prev
+  }
+
+  function copyContext(context) {
+    return new Context(CodeMirror.copyState(context.mode, context.state),
+                       context.mode,
+                       context.depth,
+                       context.prev && copyContext(context.prev))
+  }
+
+  CodeMirror.defineMode("jsx", function(config, modeConfig) {
+    var xmlMode = CodeMirror.getMode(config, {name: "xml", allowMissing: true, multilineTagIndentPastTag: false, allowMissingTagName: true})
+    var jsMode = CodeMirror.getMode(config, modeConfig && modeConfig.base || "javascript")
+
+    function flatXMLIndent(state) {
+      var tagName = state.tagName
+      state.tagName = null
+      var result = xmlMode.indent(state, "")
+      state.tagName = tagName
+      return result
+    }
+
+    function token(stream, state) {
+      if (state.context.mode == xmlMode)
+        return xmlToken(stream, state, state.context)
+      else
+        return jsToken(stream, state, state.context)
+    }
+
+    function xmlToken(stream, state, cx) {
+      if (cx.depth == 2) { // Inside a JS /* */ comment
+        if (stream.match(/^.*?\*\//)) cx.depth = 1
+        else stream.skipToEnd()
+        return "comment"
+      }
+
+      if (stream.peek() == "{") {
+        xmlMode.skipAttribute(cx.state)
+
+        var indent = flatXMLIndent(cx.state), xmlContext = cx.state.context
+        // If JS starts on same line as tag
+        if (xmlContext && stream.match(/^[^>]*>\s*$/, false)) {
+          while (xmlContext.prev && !xmlContext.startOfLine)
+            xmlContext = xmlContext.prev
+          // If tag starts the line, use XML indentation level
+          if (xmlContext.startOfLine) indent -= config.indentUnit
+          // Else use JS indentation level
+          else if (cx.prev.state.lexical) indent = cx.prev.state.lexical.indented
+        // Else if inside of tag
+        } else if (cx.depth == 1) {
+          indent += config.indentUnit
+        }
+
+        state.context = new Context(CodeMirror.startState(jsMode, indent),
+                                    jsMode, 0, state.context)
+        return null
+      }
+
+      if (cx.depth == 1) { // Inside of tag
+        if (stream.peek() == "<") { // Tag inside of tag
+          xmlMode.skipAttribute(cx.state)
+          state.context = new Context(CodeMirror.startState(xmlMode, flatXMLIndent(cx.state)),
+                                      xmlMode, 0, state.context)
+          return null
+        } else if (stream.match("//")) {
+          stream.skipToEnd()
+          return "comment"
+        } else if (stream.match("/*")) {
+          cx.depth = 2
+          return token(stream, state)
+        }
+      }
+
+      var style = xmlMode.token(stream, cx.state), cur = stream.current(), stop
+      if (/\btag\b/.test(style)) {
+        if (/>$/.test(cur)) {
+          if (cx.state.context) cx.depth = 0
+          else state.context = state.context.prev
+        } else if (/^</.test(cur)) {
+          cx.depth = 1
+        }
+      } else if (!style && (stop = cur.indexOf("{")) > -1) {
+        stream.backUp(cur.length - stop)
+      }
+      return style
+    }
+
+    function jsToken(stream, state, cx) {
+      if (stream.peek() == "<" && jsMode.expressionAllowed(stream, cx.state)) {
+        jsMode.skipExpression(cx.state)
+        state.context = new Context(CodeMirror.startState(xmlMode, jsMode.indent(cx.state, "")),
+                                    xmlMode, 0, state.context)
+        return null
+      }
+
+      var style = jsMode.token(stream, cx.state)
+      if (!style && cx.depth != null) {
+        var cur = stream.current()
+        if (cur == "{") {
+          cx.depth++
+        } else if (cur == "}") {
+          if (--cx.depth == 0) state.context = state.context.prev
+        }
+      }
+      return style
+    }
+
+    return {
+      startState: function() {
+        return {context: new Context(CodeMirror.startState(jsMode), jsMode)}
+      },
+
+      copyState: function(state) {
+        return {context: copyContext(state.context)}
+      },
+
+      token: token,
+
+      indent: function(state, textAfter, fullLine) {
+        return state.context.mode.indent(state.context.state, textAfter, fullLine)
+      },
+
+      innerMode: function(state) {
+        return state.context
+      }
+    }
+  }, "xml", "javascript")
+
+  CodeMirror.defineMIME("text/jsx", "jsx")
+  CodeMirror.defineMIME("text/typescript-jsx", {name: "jsx", base: {name: "javascript", typescript: true}})
+});

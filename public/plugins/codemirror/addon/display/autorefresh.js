@@ -1,1 +1,47 @@
-ENCRYPTED::eyJpdiI6InZoUUZJajNzSm1QRXFFdTkxZ3NkaEE9PSIsInZhbHVlIjoia3QzUHNjcHFZb1A2ejRLWGxkN0pJRldydlZYTGNxSzNWTkdDUFRlc1g2MXZSVHc2NlpKaVIxcWZzdHJtekRLQ0tXd05ZWW54cU10R2tsdEkySDdrRk5LMERrMmdsU0l1NUNEVnI0VjY2ZUdvbTRkYjhFUXgyM2VUOUpHdDE5Q1I5YUlYS1JKRGZ6MFlITHBGcEhhYnhEVmpLT1Nvc3dJVWtEeEhtSUF6a3FhTE8wK1RSVTcyZ2Z6Mk5IeEIwb2JqWXhObFRtQkNaN0pwK3ZFMzhIOUxtQ3QrcFRZbE1MVVFuNUxMdnFLeTJ0U0dqN01lZGhzbzJhb3NGVjJCdGVnU1FvamR3dFlHKzFPQ0RzVGtqWE9zNEFrZEdidldLdWg1NWtmdkh5N25UREsyb1owNjFrZ3RITGp4bDZGcDBCNkhyaWtlR3ZVNDZ1VjlnbUo5NWhsM1NFY2wweFl4MXIrYkZKb3c4R0VOWlFGWHE2WVpKazBTcVZHa3RseTV1Mm5UdStTYlhnYTRJUVQ4V2w1OTZtT3pyV2dDaVNPMUxQbVlRNnc0cEl6dG1kZVM4ZVNZS3hOYnFnZGErc0FrT1cvaFE4NWtXbDBOREk0b1RjeXRJL3dNdlE3QUZxSWk3WjZxMDcxajI5MEpKem9rTmVrSGRnUzI5Um54TjNLOGZaUW9vMUY1WUZFQ2Z3bTE3bW41YXJHSERJV3JHS1E2MUY4eEp3bHkyeXRuRXZkRXlIT3BOZStrWFFIVTJVUEpJZkdRRUlkVnIxa1RMZDZrMVpCN0IrVUtMekNzQ2xBNXpsL1JoL1I0ZkJZV1hGRzR0RFdKWlNMMUdWTThMbjd2WjVTczRjZGpFTTdaUU02WDhYZlBCNnVYM3ErUjZYMXRYWWpxeDE1QkwzN0dOSWVibTFDYWNBTCt1WUN3VC9OOE5tRHB2TXNZNFpkQVNZN2FlOTgzRjN4c05PZnZvNEVxSDhDdUprZjBsaVg5SFgwaGpaYkppalRaMGZHQm5HMklhcHNqTCt4bHlPWWdHKzBVWUtDeGxUTEVNWDVKL05ucERIRXFEMDAvNGg1dUJldlZIN2FQQUxnWjVqSjEwMXc5bWpzd3gxYWVZQXYzQmVDVjJ0dHdUSkNDWDJwZXE1bnBiWlFnQVVYUG1OZHMrR1ZqWEJnS214WFUvMGtDMVJMZ3o4TUM4YzM2eVh5WU1zaUc0MzdpRERKYWlhaEN1NDhMeVZTOTdqMzZ6Wm53YU9CcC9LazZEMllqa3ExcXJRRFZBbUxwSDErTytwSDc1L3Y0eFIwZWx4ZEl5ZVZTSFNxTm9KTmgzQ0FPZDJjZVZhajliNzBnbFZoK0ZRWGR0dUtxNjE4bDlZWTBWTnV6NDVDQjNjVjIyblVMSDJEMTNWay8yTzU1azBoS3RBUVhndXEzQ3A3d1pGQ2hGYjdLdW5pTVVKQ1JtU1A0OThVaG1lSnhnZ0dxVTZPbVVKa0g1RVlQbEE4dWI1RjlaaXFxWmplTzVQU000eGpZRXFwSCtTMEJ0UFNqa0ZRY2R2SU03NnRrRkN5R1pSbkt1eWpLYThGdWhZTjQ1OGdPdW4rdHV0a0xtWHlVMWZVbzZJVVZxWW92SnFuR0JTakwxQitwTWE0TUp6KzQ4aFA5MSthNTllcVVzcXNyeXNOTGQ5TFRkV3RFZTRXdmd1TWIvRFlSOG1Sbk5LK3dHclI4STUxY1VheXJIRTM0c0hBS1BETlNjVnNlV1JPM1lqbklNOWxuSk5PQkxrN2V6cm9Td0ttNlBaZzRGN2JLSGt4emw3dm5OS0JnV09EUFJHOUhGdVJoY00wQ3RjNGdJL2xaQnVIRUJrS0Q4RUJKTkNYVTFmNHFWbmdrSWlOYWlQSUhnNzJXVzZjM255Rnd5NFNUUm9oN2Q4cTJXOGp4dkF0VWtJTUYyRTFXcGNmQTFEcUNtWEZXbFlBdzBDajNUTzIxcVFyeWRieWw4Q05MTzFtRDFMbVpUdHdkRlZNbWpRVXRFRXFXQ2twRFFQNTcwT3AwSUtSV3pmWWVBYzlubmp5azlTaTNPVVZZdzhJL2hTTGJ2WWtXNjNkZzlUamxad2VkTTh4SXRFd1RWNkc1aSt3aGhNaks0NVd4bmNHbHBQYjhOZXQvVnFTVG9SKzgwd3dPTW9XMElycHMzdmdPQTI4RkZEcHVkdXV5ZWVkRlhtQ3F2bHM0TUIrM1g5ZXkxWVZ6MU1BNjVoVVRsSktNYmJTc01WbnI0eHUwN3B6ZUpjTDdpN2NQeTkxTEhvTUJMdXl3RzlPUlp4WStSVVpqcXlNMHdmSjlyZ2lJU1RPeUJGdlNHa0RCWHJ2ZnJxZUV1R0VTdzFNVG43c00wL2JaWmVEaUxNc0NHWXZaRTkvU2dhQ3VNVlJGekRTT2lhd29qMStiaFUzQWkybHNJNHFqNnp6V2MxRWx1dlZJdmUzcXk3MjRpejRraENqOCtHWXlzbFBzaVdoTGUwYVB4OG1NNXJQTEVaenc2THJnMXNaVm1taXhzQWJid1M4TnFhbEo1RWFuMGt0OGw1R0xSckNieDArVktBbEg1eElUajlwbnlyWkUycENGMk96U244aUhRSXpmNnNZRDZBakpINURkQ3B5ZE4yVG9BUzQ0WDhnUG1YUSs1VE54ZUxlbTJ4Z3lmbzJHTEpQbmpxVU5hbzhNMldka2VmUWo2TGhxT0NGV2tDMldlV3BFU1NnRlJOR3BGU1U2akdFL0RzYmsyWlliSTdRaXVnPT0iLCJtYWMiOiJjZDYwNDEwY2YzMzc5MDU1YmZkOTVmZDYzMWYzZjE5ZjNiNjc4MGM4ODc5YTA2NGM1ZDc3NTYwYThhZGE1NWI5IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"))
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod)
+  else // Plain browser env
+    mod(CodeMirror)
+})(function(CodeMirror) {
+  "use strict"
+
+  CodeMirror.defineOption("autoRefresh", false, function(cm, val) {
+    if (cm.state.autoRefresh) {
+      stopListening(cm, cm.state.autoRefresh)
+      cm.state.autoRefresh = null
+    }
+    if (val && cm.display.wrapper.offsetHeight == 0)
+      startListening(cm, cm.state.autoRefresh = {delay: val.delay || 250})
+  })
+
+  function startListening(cm, state) {
+    function check() {
+      if (cm.display.wrapper.offsetHeight) {
+        stopListening(cm, state)
+        if (cm.display.lastWrapHeight != cm.display.wrapper.clientHeight)
+          cm.refresh()
+      } else {
+        state.timeout = setTimeout(check, state.delay)
+      }
+    }
+    state.timeout = setTimeout(check, state.delay)
+    state.hurry = function() {
+      clearTimeout(state.timeout)
+      state.timeout = setTimeout(check, 50)
+    }
+    CodeMirror.on(window, "mouseup", state.hurry)
+    CodeMirror.on(window, "keyup", state.hurry)
+  }
+
+  function stopListening(_cm, state) {
+    clearTimeout(state.timeout)
+    CodeMirror.off(window, "mouseup", state.hurry)
+    CodeMirror.off(window, "keyup", state.hurry)
+  }
+});

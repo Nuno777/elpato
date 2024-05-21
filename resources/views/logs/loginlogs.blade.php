@@ -1,1 +1,29 @@
-ENCRYPTED::eyJpdiI6InJqS2k5a2M0SHh1dlNmZyt3cCtqZ1E9PSIsInZhbHVlIjoiYkhzSXRtM0liaGtnaW9kZU1xMlV0R2hHN3lCWDFOeGgxK1B2cm9UeGg4d3Vva2hyeUF1bWJabTVGZDhaWDBjK3d3TlBZdkpDNm12TU90SzBDcUx0RVlwR1ZmOFd5dHhVV0NNMTBXb1hhWmZlVzJ3bnJLYTZXSitCYnlBVWU2UEpvTFdweXZsWmI1QWNBT1pTZWRBbmNUVkdzdTJxQzBRMFk4NGVWejViSmE4Yzc5clpLRFpZcm11Kzdjd01YUm1XYWxJemJwMmVOZ1RGL2l5SmQvT0kyT1ZMMzM5ekFUTHRSd2VyUmIwei94a3RERlhKUU10cWRYZW85UzJIa0NxZGx6OEt1a09PaHpMcHgxUUwrdVJDcmd0TGgwbmVKdVJNVFJRRUxlT3M3YzJvTlhWQXhlYlFTRlRrTVcrMW4vQklKRDhRVjgxZ3FKZWdabzBtTzJSUm9zK28rUjR4K0VTV0lFM3pweG1XT1NVQXJ6bE9TR1FVVWFPYmNqV0tRdVRRSHRlTEpia01ZVjhTVHMzZzZUSkdKODUvTHBYQVFzc2VHc1JJaW9ZWVlpbTFreXFBckJ5WmtJb210Tkg5RVpaMXZIck1yWlBUazhoM2czVFQ0RnJYQWM3VmY2RDA2dVFWUURBQkxBakFQM3FUalpJTi9XVWxQOUMrbDVNU0dQZ0hLUXhxeTkxV0g0dGVhZ1h2WkVYc1IxTVNlZnR5WUxUbmRFb0cyeGRIOFcrSUJlaUNMOWFROXdBYWNtaFdqV1NtRFdXUk5mVXJUc21yaW9oMi9NbE9qMmJCT3pDWlY5aUkrWUFwSDU4bWFVM2d2SytmNEl0bGdDeTU2cWljRVNETVRPTVBEYWEzU1NiNVROMjYwT0pNR3Z5SFIzZHNDOTdiM2x6YWNqcS80cDRzZ0tVaHNoUnQ5V1ZQYVdFWTBiK05CRjNpS29USUhpRGZRYzE1bFN5a1NaZnN1UEdaSU8wYk1PRVBvaGhWdGR2S3dweEw4SEpaYStYR0pEUERFdkpzN0Z4TDVjdzFGS3FOY0ZIbWV0aWpEc0o3bEZpbVFuOFkyck1mdVV0TlVFNGw4VnVJK29wTHRVNEw0NGQvUHpyeUpvcHRmZDVRWTZlQTV0WjlyWDg1ZXQ2Z0xXWHdVenovckxscExnSnZWV2hoT3lvL1gza242Y05hMGVXbnhuSm1lcmoxV0RDU2V5VVQzSHkxQXlzREE3anA4YldBSzJGd2JtczJFVWdvblZjOU1JcXFYVmw5OEtybkowMzJqcFE1WXBDVXJHRnlCekN2QlVoaFM3WWMzS29pcXlzbktpbm1UZXZnSW9JVm1FY0FoeEwyOWVIUWl4VkhLamJkRit1VTVWTklHR3RrSlJScTFqNlFtTk12eHZrdWQwSC9zanJ4TTNoQ2p5TTNoNWhpZVRCOEYxaE1Mc3ZXRFdwYjBpak0iLCJtYWMiOiI5NGZkNTlmNmUxZDM4YTg2NmY0ZGFhNmMzMmNiMGJjMzRkNzlkMmQxZDg5YmVkMzE2ZTVkMjkwZWMxZjVhNzFiIiwidGFnIjoiIn0=
+@extends('layouts.master')
+
+@section('title', 'Login & Logout Logs')
+
+@section('content')
+@section('page-title', 'Login & Logout Logs')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="col-lg-7 col-xxl-12">
+            <!-- Chat -->
+            <div class="card card-default chat-right-sidebar">
+                <div class="card-header">
+                    <h2>Login & Logout Logs</h2>
+                </div>
+
+                <div class="card-body" data-simplebar style="height: 620px;">
+                    <ul>
+                        @foreach ($logs->reverse() as $log)
+                            <li>{{ $log }}</li>
+                        @endforeach
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@endsection

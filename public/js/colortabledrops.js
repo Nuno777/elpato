@@ -1,1 +1,79 @@
-ENCRYPTED::eyJpdiI6IjVFakFiUUw3TGNaTUkyWkRXWExZVFE9PSIsInZhbHVlIjoiTm8xeVhaTzFjMFdNYTQzT2FPMkdrb3dTcXE4QnN4S0VKc2l6N1BWWkFqaSt4a2YwM1NnS3RkUy91OW0vZEFsZTBVT05Zdk8xM2dtS3A0UG1ub3RLSTFmeEVEMDg0cGtIdDhuNVZCMGszVWFMeU5WSVZRYVB4K2VBTFAwNFdsNGhIR2Fmb1dvdFNFM09ESGxwSGdWdE5OWUVjOWZZYmYyK3hBNEVYaDQrOFViOERqSEQ5NXNZNCt6VEgxanJtZHNlT1lrWENYQmVUczJMUmlTRlJEanQ4cnBwR0x2VCtGeS96U1dybFdYRFdlREQxOGp3bFg5RFNFYm9TUmNKOHZnQjdFcHhlWkRGTUlsMElURFFTUjJhV0tGdG5PMURrUUJPV3hKMExSblJWK2xmQW0zZ3ZaTnFrOTRETTN0M0pvNm9YcHFBM0Nua0VpNi9jcnRBZkM2RlJiNVNHVXM0OXBwNWp1clRQWFE0dnBvbGlscExXcGd1VitxdVVzZzV3ZDQyd0h2Q0xISmpGQlNmdkFhU2pEb08zQ2pjTVM1QnJtMVdwMW1iK0o3K1FSdjgyRFBTOWNOWi9LVjE2TVpacGdsU3J2ZEdFQkJFYXhoM1hDdlJETGZ0UE5SdC9TcVVlVkI1aDVXT2ZZTk9ndHRjays1R1FUZG1EM1oxZ0t3RlJjVnppNzN1b2ZtWVFPc2JTei9ZSFVXRVVEN2VrVCtPQ2xsRmxTLzk4cWUxaVFOZ1BMNG5nZk1qU3d3KzFZOWZ1Y2RIbDVRQ3pnWW5pS042VFpZQUl3T1JDL3pCTmZDZmhaaWhPTFdWaDA0SEdQcmJVbWVEeTl5Q3dLQWhsdDA0cUFHVit2NGE4S2w0aXAxR0s2MEZqM1VNWEJtbTh0c011VSsxcVFlays4N2g2L3hYaU9FZTB2Q0FGWEZkbFpYT0lLU1FMd3pvVTJCekZOdWtKWVdkMFpod3BpWHdFZUQ0MTM0ZXc0aWU1SFltZjd3OTBudzEvUWR4Wk1JNjVmeGdmUWIrOEJhTjZlU2w5WjlXRXZRVjQzU0tUeG9yTzJKQnpXSFVaejdUaTd0MDJtNTM0QVp6dTBLR2dVMWxSd1BxaTlhbEd3d0F3aDRzeUZMdStSNzh0RWxVcmFFN1JmY1BKYk1xMHFKYlF4WmFNTGliWHBhWWsrNG1SS3l1TmVjT2JwamZnQ3h2b2pYVmkwSDlZbExHYUk0NG9FeC9TMEpzcFZaeWlFMjg4SWRENDhCbFNvVGpiUW9OWXJsb2NPWDRKU01TanB2TFd0VjhDN2l4SGU4cjNVUS8yTkJ2RVVma3VERHF2NFg2VVhmdStqU3QyV1JvS0JNQ0NFZnFxY3JtNFdERFBBakhDMDFYRVhrSzFERnpjRHhmQ3RiSmVCaVpiWDZQZkRGaXpXRDJhdGw1RTV0TENTckoyRmlsYk5HOHN2Qk5TdG1iU1MyMzdBaWxGTDNmZWROVW5XS05mVGZ3SVh3UWVqOTlGMlp1UnltUWR6MFFLa0RPQVVhOGxKZHppQ0hhdks1VTBhYWljTm50TmwzSlZycEZ5Mk9qOFhNTDI0SUkvNWZPWVRiK0s3MFFBM0x6YlBKSkpxT3labWVvSXJBWXFMd3ZxRTJMN21YSDVRSGo2QmhjNk92cERwMEk0WVByZWVBYW04SnhTeXNISXl5RGZoYzdqdVBYVHgvbVFBOWZlWTNPb1JXNW5qVEVuNzUwVjJzSnNwaXM1UG9xZ24wMHJCNXRjM1A0b2pIYWJrcWZHcER2RnY5YUN1V0FteG5qU3JJMzRJOHJsbTlPdlQ2UERlZEZ1a1hKUjVZdThoVWpKaFQ3RkZ1TU9sUGJoSS9PLzkrWVlLYWV4bmZjK1Y0MFRLZEVuajhScW9pLzdqWEFJdC9FNm9FbENTR0JSWHNpVkI2NEpXNWpLWDBOSFpZd25kY2NENHVNYWo3NDU2ay9WOUdtdkUvc1BpZEFDWEhTeWd2VWM0c09OUnR0VDVLUTc4aFJReTFVeTQ3bXVuYS8ySW4xU3dLU0twelZnYzlRaU9GZFlDQU1xRVArT3NYd3ZWaTl1bThzZGx6dXRZUm45TkhnR1l4R2V1dkUrOUl5L3VjRFhaQW9wRDF2OTFNMzBGMS9qdzJ2Z2grQmlQTTVLWmRmWGdNcW5Ydy83QURYOE5rc1FpdXY2bCsrQitxSXdHcnNuT1NvYlJtYWFpVitrcEhiLzBRMUI5NHpNeCtWUDVvMVNrQk96M2tmcUpPbzNUWTdJTzJqTUJxOEVqRWQzaXJ5dmxaWkhJai9pa2o3YlJXT0VWckI5QWNid2dzc2FNK2lvRzVILy85NGtiY1JlRi82UE5ROGRHMi9jRFVpWEl4S3lDNVM3bVBqTUtZR0w4QzcxZDZ3NVVQcGFaVmFwMVd6MDhrU01nOSttTjh5cStza21pUnRUK25GZ0luR0JSejZ2MDlvTUs2c1M0UlhOL2JjYm03NFNTQkNmN2dGN1B4ZHVkbTZzcXp3eFN6QlFtKzdvWFNyNmJpd3IySk1ieVBhdHBRK1dlTDJXQnRybEZEckVGWi94NXNtZjRDaVUxaEFkTE9rWkpuczY0VlRyYU50ditkODBSOWF5RjV5b1JOeHZURlcxU3pUUlFFeS8vQXVPMHVPd2oxeVc5bTdzQ0tzbTZNT2k1VHloNkp4T3UzK000T2VuOUozWUNzRk1FT2NZeHNSaWpOd295eWJxYW44SmVQZzhDRHdxck9YaGh5d2tHSDM1d2lXZWp2SXpKa2pmcW9ySEc0SGhhOXlLa2tBNml5S1QvbWZSV08xWTRyL3hFS0wxSGdPM1F3MXg1TjA0clh5NVFPWnF5bUgwbTMySUNsZVhJVlA4eUJ6bFJRQzdtbUVYdmJtRFFpOTNQd1F1Q3hOUWtqWDdkV3NwN2QrSlFLVndwN0lEeVZSNDd1SGV6cGdOWUovc0JRZ256Q1ZlcXZ3ZEtuNkNCQUp4elJBTzhIQUt0RHpDOXZzWjEvQkpCaElQTldiYUM0YUNiR09qWDhpWUpRSVRZbk4wdW5WcVVZLzU0SU5LSStPVGhEWWlJZHZMbnhkTWNHZDhMQ1JFQlNPYUs4bkJYdGNhSUw5eXF0M3BUTzV5SVU2aHEzYk5oWWJ6MDRSUmJUNlhVVUg4aWp0dmFoSVpIY3BIc3RLR0Rzb1Avenc4RnNVTmNaYm9UclJSd2l5Nkc1L0YwMzltT0YwTHo5WkhpK2x1b3EzcmRUSmp2RkcxWHNUVnhZeFVzeUVaMXliczVkSExCRHRMSkZLWUFLY3NKem9VeHlueldaczFNS0JTV3NyNkpVbFpybVduVkQvVXJWeXRBNUVSaTRyd0xvbGtWRHo5N08yTlRsWWMzRkJuMWJERE1SSFJxRHArRWFiaTJGL1hGNGRKTE4vWU9DRG9mWlBOeCs0cXVQSS9BT1JKOGUxTkVPNHFJSUpGN3RxakhMVlRRdUYrcTVPNlNscGNRNWZ5UXc3RndHR2ZVbjdjNzhFaldoZ0pJdUt3YzU0QUpRSXBNN3N5K3FnVm1WeXAxb1AxbkZnVE9MaFArVm81MUM5WEVwMC9IVUxHUVlSM0l1eU9ZN1FPVGZna3RzbUdnelJ6RXp4Kzg5dStidXJtWTQyQzIvWDNpNEVEYXJqMHNGQUdrVlhDd0xMNUpFL0NiRERrUFh1UzhrMmY0L3UyNVFSTDE0blVFdGNZclE2N2ZQb3JDT2J5MVRZd0JWQ1pkeHFLcFA4ZkV2NW15THFIc1p0K25QZ25HMkVFamlGTlR3YWRaVEVhVGR0dTBxVk5CR3ZwRnlFb3RlRWtCM2FhTkVxeHZRcG01dms0eGVuRVFya25zN2NvUWFVZWJvRnNWVG9pREpMRzdBMHFHS2hSQjNKdjZmQVBVWkZNVmdGdUFmd2lyb1BuaUR4eWhRalZvaEZGMGp1RDVkdUhNb0hVQWs5eVZhRGZlNmRvbXJQS1JFUVl5L2s2TXRKaVRUdTZhcjhLMUtvT3VPMEQrQXFxczhUSTJXbVBGbzV1Tjg2d3ZWVENkSW1nQ0hiekt0R1llMXkxOXRReEpINHBrTC9NSlNieDgwaVhMNlhnV1c0MGxwS0dSM1RvY2VlTzNTVHh2M1N1MC9WSWlRNVFBNnMxS0hVNmFReGQwK01CaWNGQkxUbDdRRWlOcmxYd1pmKzJuMGZwQ3BaNkM0eXY1aC9QODBCT0d4Ry9XOWFKMkNJSUV0R2RBYTlQdmMwd3JQM05aRzUyZ1V0QjkvZmJNNFlIYmJoU3oyL1pBUzJFNnNNQll1WTkyVGRpMFVpckhFRGhNZHNRamJzTzdBeWxCcFJPYlBobVFwaEpuTUpERDFNT2YwM3g5bm0xSVlxcXloNUtVVU14WVAzUktUdVhvcDVvTElaQmN2WUpyL3VuNXBIYnUrSStDcXVrODFiRHU2RjVFM1JVbTBtMmpMVXZnVlhJSTNtVDdxaXRPRkZyTkFDSFhaczFPY05jWVA4YkRqUTN4WEkraUJ6QnoycllxOXQ2UkkwblJ0VlFxeklNTjQ5OXRXeVJ0cTVtRGVCYngzb0ViSitZQitiUFh3VHNZZ0p0ZHhYaEQ0d3RwRTZ5Ym8wMWJaMHUyanhuSzloRWltcTBqU3NNZDJJSnJUckNqT2h1SklRekNlUGNNbTBrOFhaUGw3UFNZbStBNTdnanVGTUNPYy9TcXBLaEE9PSIsIm1hYyI6ImFkNmE4ZmQzMzNjODYxNGQwY2IyNzgxNmMzZjhlMDRkZDdiNGI4NDk5MDc4OTdhYjM2ZjA2Zjc1YjkzMzFlMTYiLCJ0YWciOiIifQ==
+$(document).ready(function () {
+    $('#status').change(function () {
+        var selectedValue = $(this).val();
+        var backgroundColor;
+        var textColor;
+
+        switch (selectedValue) {
+            case 'Ready':
+                backgroundColor = '#82FB6A';
+                textColor = 'black';
+                break;
+            case 'Suspense':
+                backgroundColor = '#424945';
+                textColor = 'white';
+                break;
+            case 'Dont send':
+                backgroundColor = '#F1DD50';
+                textColor = 'black';
+                break;
+            case 'Problem':
+                backgroundColor = '#FF7059';
+                textColor = 'white';
+                break;
+            default:
+                backgroundColor = '#fff'; // Cor padrão
+                textColor = 'black'; // Cor padrão
+        }
+
+        $(this).css('background-color', backgroundColor);
+        $(this).css('color', textColor);
+    })
+        .change(); // Este gatilho faz com que a função de mudança seja chamada imediatamente após a página ser carregada.
+});
+
+$(document).ready(function () {
+    $('#updatestatus').change(function () {
+        var selectedValue = $(this).val();
+        var backgroundColor;
+        var textColor;
+
+        switch (selectedValue) {
+            case 'Received':
+                backgroundColor = '#b491c8';
+                textColor = 'black';
+                break;
+            case 'Sent to buyer':
+                backgroundColor = '#ffb74d';
+                textColor = 'black';
+                break;
+            case 'Waiting payment':
+                backgroundColor = '#99d18f';
+                textColor = 'black';
+                break;
+            case 'Ready':
+                backgroundColor = '#82FB6A';
+                textColor = 'black';
+                break;
+            case 'Suspense':
+                backgroundColor = '#424945';
+                textColor = 'white';
+                break;
+            case 'Dont send':
+                backgroundColor = '#F1DD50';
+                textColor = 'black';
+                break;
+            case 'Problem':
+                backgroundColor = '#FF7059';
+                textColor = 'white';
+                break;
+            default:
+                backgroundColor = '#fff'; // Cor padrão
+                textColor = 'black'; // Cor padrão
+        }
+
+        $(this).css('background-color', backgroundColor);
+        $(this).css('color', textColor);
+    })
+        .change(); // Este gatilho faz com que a função de mudança seja chamada imediatamente após a página ser carregada.
+});

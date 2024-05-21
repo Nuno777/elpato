@@ -1,1 +1,19 @@
-ENCRYPTED::eyJpdiI6InkwVTQ1SDZRQXZ1NithWklvK1A3eUE9PSIsInZhbHVlIjoiMEg0N1Zhb2FrNk85VlVBTmdJbHJDSjJwVWk2RWZKYW83NFpKaGtWL2praW9wUzI1WHE2MjlDT2tVV2w5UEl4a2U5cU5DczdqOHJOV2QxSmpDMVhrOUFUSnYyZkNzNERrYW4vRUQyajJScVdFSG5zbnA4dUpyWHNLMmdxaTkwcURvL1dubmE4SVQzTDlZTVZzWmFwWkNvc3dIYUR4S2kwbWNoSXZmLzZOa1kxS0dRVldOajhEbllOa3NHbUN3Z3FibXZzNFFlM0RTV1hIc2NEL2NOdmd3ZzV5NTVEUTZ3aHcycFpGYkhGS3Z6Y21wb2cwMXJ1ZlJsMVpRVlJKK0tFWmMza0hDMVVwNysxTXFvVnFucUMxUmhIb0t4WXh3Nm41SjRQZTRQY2lzMm90cXk0cjBNZkdwOHM4Si9DYzFheTU4L1U0WDFTRGdVTUtqTFFJZXIwY0NMSUp6R1pNNWdkS01DOFdkcnNUc0pDSWJHMldBSmdPWFU3TU5HRXR4dTBLeWtieTc1eW9PRFlSajg0QkcyOHVaSmZyM3lBY3FybTc5TjJ0U1FRalZoVGRVeWV0dEQ0akhBckViQ1VnLzhIOWlQcTNDcDd0a3ZMMWE2TmZuYmljYTBMSHBaM0lWY0NYS0d3M2xwQVUzYjFWYlBPVzNLeGZLa1pqampScDJsdXUvU3NjYVNQWTZqUFlnUXRBNU1nUjBEYUpGRmtsYWdEbnlmelhyM3lydk8rZURWNTlFS1ZPNGdRRk1NeUdlMWdDckc2UVpDVlJrR25TL044c0hGZE5ZZ2ZHc2ZzVGZ6OUVXUWR3TjVZNCtKUGR3SitjRisvZ0ZQUmdCMWh3cEpSVE1NWE1sWDJYa1d2MnlRc2cvNGxObU9GVGkxbHJ5czNRNDBtZlgxdmxqVlhUNi9ocHVqaFVXYnhOVm9NaFBMRlg0Y0hFRE1uSnBmb1JJN2N6UjFST2lic3MrNXZUUFpqbmtPektmQTlZcUpTZUE3NlNBYmYrNVdVSWMzempUYjZxeCsra21xd21rU0dQUHVBdUdYNU4raldONTU0MHNzSWR6YmZucXlqVC9WWT0iLCJtYWMiOiI2YzBmYzQ0ZTM5ZmYyZjdlYjc5NDVlNTRmNTcxN2RjNmIxYzUwZTZjZDNjNmVhOTZlOWQ1ZDdhOTNkYTFmMDZjIiwidGFnIjoiIn0=
+<?php
+
+use Illuminate\Foundation\Inspiring;
+use Illuminate\Support\Facades\Artisan;
+
+/*
+|--------------------------------------------------------------------------
+| Console Routes
+|--------------------------------------------------------------------------
+|
+| This file is where you may define all of your Closure based console
+| commands. Each Closure is bound to a command instance allowing a
+| simple approach to interacting with each command's IO methods.
+|
+*/
+
+Artisan::command('inspire', function () {
+    $this->comment(Inspiring::quote());
+})->purpose('Display an inspiring quote');

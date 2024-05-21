@@ -1,1 +1,7 @@
-ENCRYPTED::eyJpdiI6IjBtM0FvNGxmVmIyTGsvRHJzN0Raamc9PSIsInZhbHVlIjoieE5hVExoRDlQamlOUGttK3orU1VHMEtITkRkdU43M0d1QndMT09rbFpFaHBOUzZOeXJxS2ZMUktJM1NXb09UdEJhY2V2VnlrNmdwS1plZ2p0Njc5YjVyMVd3YnV4aFFqUXZVZVkzclg3RUcvKzZqNzYwQjRDU1hreVllTE12dkFlTUhPNGFSN2RGeG1WQ1UyVVhOTmdBPT0iLCJtYWMiOiJlMmEzMDQxOGQ5NDExZGFjYmU2MDNhNzY3NWIwN2M5M2JkNzdmMjJiNGQ3MmE5MGI1MjhkNWI0MmZhZTE2NTEwIiwidGFnIjoiIn0=
+import './bootstrap';
+
+import Alpine from 'alpinejs';
+
+window.Alpine = Alpine;
+
+Alpine.start();

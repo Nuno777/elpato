@@ -1,1 +1,78 @@
-ENCRYPTED::eyJpdiI6IjhTTXBJVmE2aEdIT2E3b21uTTNYT0E9PSIsInZhbHVlIjoiSm5CSXpZaG5mTXp2ZXJHdTVwdGJsT0xDaEgyeG5YZ21xZ2FFYlhqTHllLzhkYk43ZGpTZ3pFMmNTek13ZHVwNGJhZmlwWERIdzluVjdsWVVhalpsMWpWbllkU3pCMGEzZzN0amtrL1RHVmd2YURrTVBUYVBUV0dpTzNEa1YzN2FGbzExV0lOdk92c2JNN1hmWmpuSC92TVRlVXY5TGVoekZzWDhQc3RuL3BnYUh0R0cvNU9SdE55djlBenEzZk42U1FpcE9TeTExZHoyL0lRK0Q2VnlXQXdYcDJyMkwvTTMzWFovdHdFU1VlZmFMaHozUTRSZUFNS2tnYW1wYnR4OTZHS1VjbExybmROSm5adGpqcTZhRkZYSzlPSThIaXpGSWUzZ1JiNGtST1FZajdNemxKYmJDL1JpZjh0a1BlbFJzQjlKb1hsT2JwTGxTNk9jem5DejY5eWVQcUVhZ0xBTGtnM2ZYVklteTNvTVd4VDR4QVhNN1JERnpVRFhJYlY4ZTRjaEpwR0Fja3BBcGw3dGw0S1VxUjNwN1pKb3lDMy9hSUEzV2FBYmFZc29YbHF4SWJRRmNFUjNmTHRCcW9yclpoYTd4MmxiREZyVGNHOVV1WXdHTmQ0emdyd21NVHBDdktUb2NyQVgyaDZqQjhZbnJ0akgxNFNyWTAyQlBLbzhMeU5wMmdjSzBnUVU1dGx4YTd2OFBrS0xHRHZZdHJVWis5YTcwTWdDY1IwaklvZTVJb1JXaHdnZTRlZUEwb1lVVE9DTUIzKzFOMnpBV2EydFVkSWd4bVhBRWxTQjlPVXlyaGpKMG5jcHgyWUVheFZTRm1ObGZFWU1vV3RhMFlPUGphR0p6T01xaXF0WEJsdklwd1NlRWZrUHpUZU1WT3QvaU1wRWdvb0xuN2ViRW5naVdrcXl1VzhEa3R6RnRrcGpZbmF0bE12bmZLenRpUThzQWF2SGZuaXkrZjZWdE9hNUZGMjBUMFd6NkVaZERuZUdWNVZlMjhoZkNrRTNlOTBEYTlKM2J5RjVUS2xyd2lUNW5XZUxlMEgzVXBYc3N0RE54MCtDTStkTVpKTWt5NVNESm5rMER4R3NubmxPaWJCWEllU0NrZW5malFEbzM2dHNvZkk4ZkQrUFhYdThrMlZIK1I1L2F1enZaaTJwbFU0dHhKRWRzWDFMT3hzcGQ4Y0JpV0J4eVhqVEVlUUtYVUZocEIrTE5jV0YwSERHM05jTHZWNUtMaSt4Zm9XelRKT1lZSXVTYk1raGQ0MGNFRGs4MGJtRGdOOE9RWVhkOFBrU0RoUkt1YnFUSjVrN0VrbkxlK0JkeUkzcmgrM01DeVNnOVVzYnlXb2Ezdjh5VG1Jd1l3akM1OTVSckpFQ3lpcjA0c0hNekNNTWJCOWNtMm0ydWp1YXFEdTUxZ1VnOS9iOWZBSERIc0t4Wk44d3dCV2t3YWpBaWNVeHF4NTRzMkYrM2FKbUxRZVpJeFhEZ1A3NjFGbUFnSHF5c3ZVRlRiYzkzbHBFdWlUNW9maGovU3lUWG90d05hUjJ6ZkhNSEhDYUl6T0hyUXI2Vkswbi83dlFxYXE0U3NSc1FGY0ZEQUVXVkY5bjRVNGcwUmluZmw1eFdxZjVKbC9KbWQ3MjU5YktIYU1ydTJGM1RGQVpUTHRMRzJRTUpKaDlJZWtJbllvMHlMYTlDVFVpeDJnZTRVdHh6MS92QXVVd2dOUHBZUEE2Vm1iazZMa1pHVk5wUEluSFBSalN6dFNvT2cxSVFPOGJLdnBnZWQ5Qm9SOWR1aWZwWTJ5b2U3cXVtaFhodVpSZ08zK21IdExpbkE0bzk5NldyTjk4QUZLN0tFVEJNdDlubDlwNmt3M00yZGE5c2RCSzI4eG1jNDhySWRDSWRQampxR0lXc01RckpRbSt3UUlLNE1oaUE1OE9Qd3JFSmdObUpLWUJaUTRSZmVNRm9ybTZtZXdUV21NYXF0SkwyV0Y5VjI3d1U5Z3ZFN1RZQytRZjRiYkJ5bys3WElzWCtPNGpFQktOdWUrQXJEaU9YRDYxOXNsWmd1elUzcmVKdTJhdkU1VERKZ3JabnNjQXJKbDRncm9yM01xaXdoOStlTVVUMndBUnl5R3JkeGJhMisxNmNWSm81REVoeHpoN0IvT04wNml3azVqL1lsbDZPUURzcGFDckVQOWlyUno0RUV4WkZpcDkyMFg1OVF3ckFXazJ4eUg4TGU5a2NBTWtzM2NOa3hRTEhQVk9rUTU1R0lnWFBneXpaQ3dIeFZlSDJRa1JDL0plQnVBWFNqQVdjWVVZaVdCcExMVEZlcVVSSytrZTdNRnlaVXRydTN4MVFST0FUZ1lCVHYyWjFuREYveXEzZUFlK1dhZW4xWGZxaFlCT1QxZ21aR2pQNWJ4UkVzQlhIMEIzWFFoK0tKTmFTaUpDU2JHTTN3YVZxc2pFVXFnTGN2VmFDbEwxSmR0cGNiSS85aldscElCamljc1lJL3NlMDVtTTFEMjI4ek5wQi9yd1l3QkNENSt2bUJLUHhjUUI4UVJqQjRmU0hEajZiR3pVZzZ1ZWwzMjd1MFV0VENjcUQzNjBKSG1yL3hYV25LWS82d3hIcVpOQ1dzQWtkSG5jUisrRnFrUHdPRDdhekdRY1I2VWE5MnM0cHUvdHV2SEMxNkpQMTBIVkJQbUpyZmczb1ZLTXRMc1AzTHB4ZncxbnhWWnNFN2lZSlFFbGRTbGNkQm1kVi9UMEo0Q0R6R05vQmJvSDdlWXJna2lQYTM3Zk1TSWxEQjZ1Ky9lK1NoaSsyQkRWbWsrS04zMXcwUng5V3JMQVRkcW91SVI1OVFrOGxjazRGMkJTU0tDdytCT1dBOTRvZnRuc3QvQ3ZJbE5wVDJveTR1Q0lheW9oSXFvKzJ2NS9zREFRWHg1Q3VsTVZ0VHYrUW5IZmMvdGZPYytCVmM2TlpBNE95ZzgyVjl5MkI1Y3IyWVBoR3FkUlZ4ai9FZGY0Qk9SbkZCS0VsK1IxUHcwZWUyRVlOMDhUTmdXNmx2Um90N2oyakJMOWM5N3pha0pFT0RvOWdpbktXZkFOOU9nMjNaRllqK3E0ZzhkYlU3aTlWa0t4QnUwUUJkdXhsTkFNalBIdEY0Q3d0bW1wZkxLMC9BNG1EOHlkWW0xNU9Ma2U0eU94VktDdUpQTHcwTkp4RjRkeWhZbU9XMFRHK2ZXYWE5di9wd3piSmduV3NBclU3VlRtQktaSCtuM0M5WWtmNS96QVVQK3ZURVNrUXFVY3hBaUdXOFE5MUVGeFJpUkFscTlJSE5PQmt2R3diaWw1K2tkK2pxTXc2K0Z1ZWZTemNJNTJIRk9KeGNsKzEwZDBNa0RYNG9wbzQ0bVI3ajVCazVheTQwcW5HTFJGNUpRSDNiQnpSY3duK0FBMnNEc3E2MWlPTHdvYUdkZ0wvNmFkMFRVQ3l0WTl6RUtaZ09Nd3I5S0I3elpRMkFXZXdYQ1E5MDJ4STFBOW1QQ1BOcmdVaUFrdVV4aXB2bC9RODJVSVJkRWtwMUdqRzFINlpFVi9CZVR1ZStxRUdPaTNIK1pCLzV2THNDN0RWOUx3T0NDNGxmY2dRT1haWXlrQ3JtbG9nSVc0VmhjQU8rQlYyVktUMHZoUDAvemp3L2xncEZ6TUVoZzNzUmUrVWZ4ZTEyS3paQUVDcDllYzBJa20rQVBDa0lxbVQ2Tk1kakxaZndQWXVkV0FvSzdqd3M3dXF0NlVKVGFEdUVabytqVnBDcTcrOW5sdm4wVUduOGNvS3l6aWRnODZhVUUwbmc0N3pxWEg2TkNFcnpaSWxtNS8xamtSM3AxanJrb3gvajZzN1lSNU5CWlkzanFBbGRjaWhpbmttcTFNN3pPSlpBdldXWTJ6RXZRNkVrMWZLaUN6cGtNZVRVRlpVSDhma3BFckYrZVNqbWtiVjVaS0JaVkJoRE1HNlo2U3g5T29PQmQ0c2hSMjVWcjczWjgwbW9MNXRsWUdMK0M5aHQvTkZKMzJRMHY4ZnM1WCtxbTgrb0ZRaWJCb1MyU0wyWDZuZ0pKOXB0elA1SmpWdUdzRkl0dGcrNmFOL0pkaWZnYjZCTWFQSWJvblNIWHdTd3FmWFNna0VxSWxZczcvUyttRWw1OGZ2UmpnVitTK2JJYXJ2WFVXYzBuRFdsaDlHZiswMGU2eEQ2akw4UjlDQzBJa0psL0xZVkp4QmowRk0vYkxId3FWU0hRU3FCbnROMHV0R0RGVEFRa0svQUxoNlk4Y09GMlFrR2xTbUJBS21vcjhLamFHdlpHOXUvT1BlNmFzaksyREhUR2F3dS91SlFpRlZvMEE0bXYvS1BwNTcycEpKYzgyVzdpTjl4TVpSWFo3QzNkVmxJYVdKWFRFVHBlcVc3YU5meEZwanVnTWsyVzRjR1h1bXVyRUtxZTljbjc3L1hkRUc3R012NUpLcnJLZ29kck1OTlZ0RFNzc2E3K0pGYkNoczlrV0NZQ3RrdkFWV3hzck9USGN6dGthdGNZY1B3V1ArREJHRWNzSFhjN0x0NHNUZEYwM1NnTmxSc1BiT3ozOWRDeWR0RnczcVJmblprMW84ZjdiaGh6a0JTVCtCS01mQWw0T0RBVWJOenNadWFRUy9XdThJaHM4VGo3TWJqTU5WYStpUjUzMmJQK3NJWS9IelhlWEhOcCt2T08yRWNuRXdmaDQ2T2NKMnY1NG1nZHVCaWpEN2dVUUZUdnZURGNtSytvMHF0WFdWUkpES2k3eTMvUjBmb0E0Z29LMVZZNC9UTWFLMGlGNUtFMVAwL3F3NlFzSzJnRTJXdWFiNUwxWUt2ZzB0NmhKRUhxZVFhZ2NBRFlpWDMzeWNzcDAxZ1gxb05IYXloZDhpV0pnK2xZRUUvZ1dtVnJYZXVYLytXaEo3K1I5aG94eDV4ZUVjcHJRbHkvc24vRmF6ZFd0aWM2dnl6TERJTXdmaytMRVJmdUpMUUVIbFd1Z1l0T3NDalJ4SzkrSk5CZHZLSTFyaTNyNFVUbmlkOFBpN3BGSUhmUHNEc1dZUnBCK0VvK2podk43U2l4TkxVVEtMNlVQUWhGU1JNZzB3RTZWT2xRR2pDZVV1RWwyeUd5SkRQeXlZbi81QjUwK3ljTGpvSWtWT21vaFNUSGtFR3Z5Q2hra3doRURYRzFFbmFkU0tjSXgxNmVOWWMzMENHSFh2amhobGN0SVVCMTcxdVU3VC9JbTEvR2NGbkRHTFhQeHR1RkJBcGJrTTl2UVo4RjNtVzBFcDgyOEFRMG5rOU1ISzVOYjJNT3Z0VE85bTVxREM4eUhaQ1dRZWljdmRRUzVpUG5OVVd0SmVjeUNCQmh5aWtkdlhITlhPQVVjbU9KOEZDaGF2L1hKIiwibWFjIjoiODdhODViMThmZDQ4MWM2Y2EzMGIzNTVhNjcwNzAxNDZiZWVmYzI1MWQzODM3MzJhZGRkOTZlYzMwYjBhNjRjYiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  function continueComment(cm) {
+    if (cm.getOption("disableInput")) return CodeMirror.Pass;
+    var ranges = cm.listSelections(), mode, inserts = [];
+    for (var i = 0; i < ranges.length; i++) {
+      var pos = ranges[i].head
+      if (!/\bcomment\b/.test(cm.getTokenTypeAt(pos))) return CodeMirror.Pass;
+      var modeHere = cm.getModeAt(pos)
+      if (!mode) mode = modeHere;
+      else if (mode != modeHere) return CodeMirror.Pass;
+
+      var insert = null;
+      if (mode.blockCommentStart && mode.blockCommentContinue) {
+        var line = cm.getLine(pos.line).slice(0, pos.ch)
+        var end = line.lastIndexOf(mode.blockCommentEnd), found
+        if (end != -1 && end == pos.ch - mode.blockCommentEnd.length) {
+          // Comment ended, don't continue it
+        } else if ((found = line.lastIndexOf(mode.blockCommentStart)) > -1 && found > end) {
+          insert = line.slice(0, found)
+          if (/\S/.test(insert)) {
+            insert = ""
+            for (var j = 0; j < found; ++j) insert += " "
+          }
+        } else if ((found = line.indexOf(mode.blockCommentContinue)) > -1 && !/\S/.test(line.slice(0, found))) {
+          insert = line.slice(0, found)
+        }
+        if (insert != null) insert += mode.blockCommentContinue
+      }
+      if (insert == null && mode.lineComment && continueLineCommentEnabled(cm)) {
+        var line = cm.getLine(pos.line), found = line.indexOf(mode.lineComment);
+        if (found > -1) {
+          insert = line.slice(0, found);
+          if (/\S/.test(insert)) insert = null;
+          else insert += mode.lineComment + line.slice(found + mode.lineComment.length).match(/^\s*/)[0];
+        }
+      }
+      if (insert == null) return CodeMirror.Pass;
+      inserts[i] = "\n" + insert;
+    }
+
+    cm.operation(function() {
+      for (var i = ranges.length - 1; i >= 0; i--)
+        cm.replaceRange(inserts[i], ranges[i].from(), ranges[i].to(), "+insert");
+    });
+  }
+
+  function continueLineCommentEnabled(cm) {
+    var opt = cm.getOption("continueComments");
+    if (opt && typeof opt == "object")
+      return opt.continueLineComment !== false;
+    return true;
+  }
+
+  CodeMirror.defineOption("continueComments", null, function(cm, val, prev) {
+    if (prev && prev != CodeMirror.Init)
+      cm.removeKeyMap("continueComment");
+    if (val) {
+      var key = "Enter";
+      if (typeof val == "string")
+        key = val;
+      else if (typeof val == "object" && val.key)
+        key = val.key;
+      var map = {name: "continueComment"};
+      map[key] = continueComment;
+      cm.addKeyMap(map);
+    }
+  });
+});

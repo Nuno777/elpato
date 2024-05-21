@@ -1,1 +1,156 @@
-ENCRYPTED::eyJpdiI6Im5scVNlTTBlSEhqRHptQ0pSanZ5Qmc9PSIsInZhbHVlIjoiTnNBalM4eWdvYzVzd2YzdFlkQnBtbGNWWXVmWWtwWWQvV3l2c2IzbXA3bDdiRW4waWJOQ2l4MW1ZNXVLMG5mbzhCTnp6dnJmTHhxSm1FQk0vWWhrcGpvWDMzVkdBOHpReko2d1pWZjFWRTMraGtFRmdpcDFuYTZTQURTUU1HWHZ2SVFZek9ZTVExR1JBNUxPeGtDZHM0eHQ4VElSOVZmYjVtOFVVMXlHak02SXBPSmxPSFpwUmFMS3YyUWhuaVFBbk5yeW9WQSs0SzVpSFIzdTcyMEx1bWtxMXFsWU0wcHBURFlaL0p4aFhNQitZdW4xRU1uNVdmY0VHUk9CSi8yWDhDWGJ0bEFRSmVyajhUZmgxVGU2US80QXp1c3dRaXl1cEtiTzIyQUwxNHhxdHlVWXErZDI3Q2RWT2ttbzR0amI4MStHcWVWaUJWNGtQUDYySXpZOTM5V1FQUUpiRXREMjl2QWRkMGhJTVJESTloNkYva0hCOWtuYkNCWnNQZ21RYVpQaHMrb0tmVUtyUXZkQVk0MCtPVlYxb2dIMytqUTlSOHpsdUwvbkI1VUpIM1Q5RExRU2FKMVpYT3VFalRlczZTRU95QTZpRGZTSjQzZE9uTGlOVVA0UlBKOEpqRGFuV0xzdzRzRE9JbEJjZDY1WGhyaG83RnlMSkJkT3d0dE82bURLZGZ5TFFHM0JWNTdHYTBiRHM2R3kyVWRRWW5YRTNVRmlHMGxwVVFXeVZNN0lQa0dsMi9IKzRoS1FGanZ0SWZIZFZYWEcyOExMRUtEcVBBM05rdU5QUjFqVG1TWGw2R0syL2p4eVJVQ0R4MmovQXVKMndBRU12WTZsQlNGRVZET0JJSVRvR2dDOHp2amNkejVmaUU4ckF6MnpXRkY5TjlSU0JJM05MYW5TbXlYL1NBejNOY0F1Qk5TWit3a2gvTCsrLzZWeGVseC8xd0xYYmFXR3RMZkxUVjFiakoyOHNDTGFWQWpnSzNaNjFsZTR3U0ZpMEVlc2JSSGJMU0dBRi80cGtONnBnT2pmYkE4L0RTTTQvWXFqZHRVK3lMUk9WYjJJZjJncDdpMHVUQnYxNitINHdnb05xSmx3cUNheFQrektoZm0wbHhZRUtueDU4cDZtY3JUQ0pmaVF6b2hDWWNNeXpPRkpObzUyd2tWYWlKcEpJUTRaVkxmd3VIZ21qY29IdkcxZHl4cUtQRUh1SEViczk3eUZObG1Sb2wxZ2lXTkgwWmdMNzdJaVhWOXU4YXZnQUg3N0pXN1lpMmdlVDdWT1lEbzNqL1oxLy9hMDNSUFJZZFUwWXRCaStXSWN5cVdnWm9ZcStmd3p2bVdrOU4zNEYxcGhDS0JvUmN2di9TNE5MVE1HV3lhUUVDZUtZTUVJZ0p3OTRiTmtNRDROVkhxYkIxYkV0N0lxWGhkbk5KN3VQL0dOQ3BoRTNXQ1FENW1nSUI2VlZRK3o5UWo5ekFkMXgwak1SaC9hU3kxMzdnMit2WUNGL3lXb0g4WHpoa1NtcnY0MnNLVlR6Ly92T2ttWDJETzY4MGtXTzJLRU9FczNWWk1CUHFCLzU0R2FMbG45RnpwNzlLaFh3UHpNTUZvOU9UVS9tMDF4dmllMW8xYm5OZytVbnhLNjBYcWJwbk9tM3MrUTd2cjZmdkZiUVVKSXlNbVpHVkxMOHg4eXF5VWpBNlFhb1NDVUxVL2NJaXdDRGgvbzBQK2MzN3pxaVVxeC9JYVlPY2tQTlhjVGEvVi9TYnFack9BUnUzS0kzSU1ob2ttdC85dXVXeVhRVkU4NVphTlpURXhWSHlkd3lwRUdjL3FtSGF2emlsQU5XMXpyM21Wd0Nzenh2SzVPWFFZNCs2YVdDaWZKSGo5d2E3TnZNNWZGVE03U0htUW5LZUR6UXp0SGRXbHl4UFJucnBLenZqTWRsOFZjTE9zRGYvZHBjUGNlTFUzTkt2THFSc1ZqODd6aXNrL3IyYzlsOWlZako3UU1lR3BxditCTDE2WnhSNHo1MHNLSVhlTEt3alc2bzhGTGpLNDExSWowbmZGZVJGT29LdzN2UVN4V3pGWjZvK0VRcEdKYzJWcFpWd3lsY1J4WkY1cCt2azNmYzh5VUtGMzNGMnhnRjZuWGgwT1BkQlhzOURLeS9xRzlmSWI2WU1ydFpVRTFMcGw5TUtXRzkwai9pTVdtalNnY1Avd1liS1RrSGJmeEVoU1RIdHF1R09xVHlQM0czQ2QwRTh3aW11Z2JEU3FqcU5hdjlOWGNnVmJrcStPYjJlOUpWcmhWV25oeWRPYVJRK3FaSHlUVWNXQUlPTjFaVEtyMFkxYjMvNHNJR0VNSFBSaGRVZmJ4QmRhd0txMEJuZTVHL3ZKNXhmMGRIRmFPZU1YZ0RvcXpCZ1IzTmR2b0xvdGVNZ2FvWlAvNlVoNDF5a1ZEUm41RHdCVjBJSUtpZDBqN0dSWHE4UGtVTmRZMDRvemhHSTRSMGJvTStzOXNXYVd1RWltQlBnWEw5S043dGZLdzlnakJUdlhsQWs5endDRTZqSjAxRjJsRE9TaHdydHNVdldaVUo3Z2FUVG5GaVl4d29xVFdnL0g4dTgzeFVCZXFJcTUzMWFRUWswMXhOblBGSFFQU2Z6WHFnK3ZkT1pjWjlya1VtYkNCQzEvYk9kVWg0N0RYTWxpSEk1YW1KN3l4aWdDbHV4V1NhRU54U2ZrTGtYd2hIWGh2Z0MxOEo0TEZVVStxakc0VXE1WlNIdmUzSnR1VFJid3FHQVUyNlVqWkRua3IvNHppVFdjaCt1TUd4YXpZREZNRjB2WlAzaWpmQXd1VWdFYmJsM2hGa2F4VjU4UVFwcUxvNmNCMVFXUDV0VnpsbTM0ditSZ1BQN0ZDc2V4aGRobHZhLzZuNTI4NDVVZHNLeTcyb3NmK0JiQm9xR1VqWGVGSXNpem14M0JkL3pCUHVONVpVcG5McGtNNTRpOHdIaGJ0WjBUSzVjUUNETmM0OC9mWld1akwweXhFZWd5VUJlS2FreVdUS3FNRVd1VnJrUnBGUUNiSStISUFqc0ZDRHFnRHdEVngrelNuUmFjU0ZnSmZPRlBTSUxaNklEcEdPL0ZGUEJER25hVlN6TWcwcGwzQ3FtUktOK1JpSk1HZmlCcDQvSEhSTkhWNXUyWWFGSHVUR0J5ZVZrRDRiUVp2T3VYYVQ3OGZMVDMrTTI5M2U2WWdEckIwV2VaZ0p4NFpoampQTjlidzFudlZmOVJYVVVVVUthK2x2MTNmZHNJVk95S0NnR3hNZ2JBRUF3N2hEYmtGcmoxbGlhQUQwWGw2cG11UWY4M1Y3MFhoekM5eDBzU3dpSzdZb21ESXYwWS9jcHlEVGROaCtZYmxkbzg3d3ZoS3N6U2oxZXVSOGJFZnpYb2VzVE9HdjBWL2d4RlhIVkVDb1MwUURmOTlLTXJaOHl0eVNEMm1jQWlJNGhKbGdZbEFVSDR2cVlzemUyNHdFSVg3dVBHcnhpbjQwT0JKNCs2d0FJdVorYzlRbFZ0TzB0WGNpNjByZGxrRlllWUdkaGFnWlloVk5KRnpDM1FFbWFobnlhMGFkVUxPbk9HdW1ZWG1iZlFQTUdRU252SXBEbHM0MWVNRzZhVms5ODArcGJDZi9UeW5mSm9yVTdRNmJxSmx1dll1VnlZdzZMWHdYSUZXNStMRVlCNWdZV0Z1L0xDRm0zS1h6UlZqZ3c2SFl5UDd1MG1HR2hlclVYMUFCMm4wZzhlalNqZVp5WmI5bHdrbHR6ZlhRUzJFazJBb1JpeVB2dXVwSXZDNEEvckxPeElWSHhSbDNYc2tUMWJMUXVkbmorUDhIa2Vic3ZwUW5MMytkNWwrV0Z5N2ZLaFNLd3lYMDhPcmdTRkZaNjRtRi9Ld0tsV3c1YjRkSkpQMHg0M1UxS0lSOUtaL0lQdDdjeXNMTjY2SGltZkRqbkRyOHJTZDZsT0JUTkJsQ29rY3krWjc1V0NVdFM3bTZWd3NqUWhYTXRLS3J0MkVGVjhNaUhzcFNrMmZDN3AxRkhEZ1pjcGVCUDRIaElDVFpVQ25NU2tJeWJqdkZaRkE1OVlTb0pTc3FONURoZ2VSWVJIcjhCM05OWm9sNzN6alEzZXRyM0dEN0x6M1B3bTNqZHViZGhWbzA4bmtuUlRVTy8yY2NOOWR5Vis1UGFBYTgybHZQK0FFQlBiNW4rTVdkaENVS3c4RW1CNDBicTVNMUNyTFFmQi9ja2I1V0EyeGh0VXp6ZUtReEU3eWNLcFBMakRmL0tlWDBJWkIzdGNNYVYxTFpSV3F1L0VJQUdxbGlkZGNCRXpDdGFiVW9LMjM5MFZqMTB3U3F1L1NnRGs4ZVJ3RkRoYy9oSFlsYVU2Um52VXR3cnl0TysrZHJ0QTVtWHRpY0o0cHNVaTY3MFJPNFVvL093c1lSbkEwenpzaXZ3Qmp3cUtXWnpKTHZQTkpRMlZ3RE9VY292WUFZZnh2VkE0Z1B4MzdRSVJiRUx3b3RyZEdRckwxZ3VvRUtmcEdoS3VjVWk0blpFUzJYTnUyOUV1NDl0aVp1UmRicVA3U1hFVG5LZXdoVUh1cEdpeG9uQy9ObHJaZ3VQZzQva3N6c2tqZFV4d2R1eitvTjNndG1qREI2RVJ1cVRSV2N3amhVU1lHWk9HQnVmdUFQeExnRExWK2hGZE9OSVpvc1dQcmY1TTZkWkdPaDZvZnFpaTIwWktQNHUvKzdOTkw5OVRiOG5ocnZXMFRFYSthKzYyZ0p2RjUvY3p5c0tlRCtxbVpmeE9pTm1ZOVgzTTRBRm11NENITUNyakJYR2cyM2YwUGI0a2dTNmtLQVNpSU1qNk5zYjdSR0ZhYUZRWmt2L05CanAyalBnaGJKa3k4NGNkQVRQK3d3Tk9pY1I5bWtnbGQzNGJvK0J5a3R5bzl0MHR4d3ViMSsrOCtGMWVqbVd4Yk1QTFE3aVBFK293VHE0SjhHbzl4VXhTdm52cVdhaFdRWnNXK0tPSjcyS1VuYjJHa1NXRlNtMmJ6NDYyZjVxdGJDS1RtdS93ZWtqNlR0VVNaMmM4UzRwVWhOYkJjL3dKOFoyLy95OWlwZWFzZW5xRURxai9MaUovMW55Y05pd2tGbmNYYWVmdUFHUW1KWVdaZ2ZBekFmZXhzZVBKcUJXdzRtYUMvVkxXNGtsOGdocWhFMFdiWmVBZ0RrWHVjemRVSjhheUt0Ymdzd0N2cHd3aUxveDJLTmlnSURjZUV3UlNmM1pjaW44N0N4TWxOVmZTR1o2SHRBZ3VRRVJPd201SVduQ3I1U2FpZ1k3eHhzbEp4bG05SlZLek45UnBoYS9wemsxOHdidXZRSktTcGJ6ZjRpTFQvL3h3L1l4aDVscHN5dTNFejMwVUVUWCt4Z0RuVmZkbk91UlBENUlWcS9ZQnBOelVGajkzRXNvdjJpNDUyNDlYVEVHdzRrd0wrQ0lOUHlkZ24waGcyMm04ZHFWMVh5VldsRE1jVkhjeEtyY0ErZDZOMThGWk1mQXVwREU2ZXpwU3ZSSU05dmxXclBWZ20rdVpKbFo0eTQ0QjFQZmFzSWhUcXg2ZTZwRDMzWlRmeXp2bWpWZGRrN2JQYklESVZOWmdYYytoVUloUFN5TjFRVFRBZHFlblpYQ0ZxOGt3eTY0L2E3T1h1YnRVemJoYkJGcVNhWW5uaFpBNWlBV0pXQUl1U1plejZmUDBlQ3lsdTFHM0x3S29mQjk0MksrOUlNY0NaTjdLbXMrd0RMcXN4T0Fuc3h3STFqZCtMTXByb2tKWW5nMXl0djRUUWdqKytoK09HL1crMmZETXphdXBDZE9ZcXIzMGpuN2RLK3JRWWhRZUpVVEhmWHRZNXpITzBtRlBZanBpN0tXZUVqb1lQakNPam9yTkJXdVFRUkoxbm9PVlFETmlkelg5TVBLUDQwdDdhN3crb2FXcXprSXl4RGxBejV3N1BSS0RGbjdFcm9STzdjTFNmU1prc2VLY3NyY1N4QTRiSVMzYkMwZG45QUdmVUNIMnVHTVAzVkdBRzNkeWQ1U0xUa1ZEL2cvbC9UMGRZSGlsc3dOTkFkaGhXU2NkYTExcGUyTlMxQW5NeFhucnFwTk1GYkxOZUd6YjlzeStqVDRIMW1KUG5FeUs3WUxJaHhXN0VGRHBBbFpvZG1tYnp5K05mRDg4d2hsUEtSL3VHYVBySm9BNitqNzV5cmMzVFRGRVFtYlBMR054L2x6UUlhclA1RkgrYUpBQlJuSjVlN25XaTFOWkF6SE9rd3dZVnF3NE41RmZQQXZVRUwzS3hYS1RDZXBsZVJpQ2pGSG5tTlFQR2VncVNXeUsrN21BeFB0QnZyTVR5OWVSTnVRYTBKZjNJTkpsa3R5MUNhbFlFOERHMjJPaU0wRnhrcEU4T1ZVN2FST3JPdjVWck55aEJJVGdwZ3dzb0F6Z0ViVG1lcmdPWDVjbkhNOG9WV09HVmRTMFBZMW1tSnRrNFV5WTRCTkRwSUZLSjZEU0lYVkNWODZuL1Q5bUVTY2sxZ01pS3RxQ0hIdE9qUndocTZSWDkzYmZWeEk4RVBYbnZHYVlXOFR5OHVXUEo2VnYwbEdZYTdUSzJlNEtrK1ppWTFXdmtUWTlFNVhxQnBvRjBwejdNWlloSlh0aTFhZ2dyTHF6dXFPaWd4L3orY05qMndzSWhpaGhPai9YN09Dc0l1dEtsdFVWQ3JZWXVhRGxJWU1kV1NjOVVBYVNMbk1XSUFuWjlqdHF4NzNhWFdhZlMwZ0tkbHBzcDlMWVBtOFNuYUV0Nk5ZZGY0bzh6S2REUm53amp1L1REQVhpRDFGVDMvekYwSzRXWVhucGZkcXhSb2RCMnF6cmZvK0d0VWV4T3VQdkVYZXo4VlVqVnYzbjZmRU9qZ2piUHUzU2tZMkIvbVhrZFJNVEF2Uk1hMkVmMU1VcXRZeGtubkdOZlNrNjhHYzBDVGp4NnlWdjNIOXVSY04wdkoyOGExS2lKTm1GUDZJNTVTMWVlczlKVFlvS3lEcFpKTWQ3b1ZPZTZibzE4UVpBU1pwL2lxM2h0K3ZQTkJ2YmFTUTFJS3pFVnVzMXI5eks0SVBlQXM4M1hPeENVWm85azM1VVBGZUtlYko1NU5BaU1oK0dpVEtVM29GWGUvMGovVXY4cTVlM1oyaFhTSW5RZXAyWWs4K1BML2I1WDl0TVpPS2FiY0R0Y2U2WGFyYWZmRkRtRjhJS2JvMXNUUkNxQzZIVlVpUzFCUFIwcEJXVXRGcVFraVpvbHI1dnJBdlNJOXdTTDY2UTV2N3MxVWJDcFpDRkxZYjV5LzhmRkRnYVU4alRWb21DMjMvWGRvTmxxRUhicHRqeXN5UVRPdlViTks3VHJLNkhOMGhpQkpScmN0em04RCtwbDVtNHZ6VnhpZDdNVTlySkc5azMvZEhKTmhSUGhOWHRGMVpmRVVnMWErUThMQVVnaFpndkhlc2Z5QzZlSUxsdEhvT3BVYWVXWXpycklJbzBRZStMQVlXeTZOSndTRUg2djEzUnZBU2ROR2hiZ2pSb3hhQVBmeG1RVm1EWE5TaThoVUJvTFppQVl1U01YdEY2dU8zZ210L2NPZ1BCVjQ2d1FNQzh2MVlUemJlcjI1RDVSSTMxK2F1QnUvVWp1RWd4RDk0MWJHMFp5UHEwYThEalptaFVXTVBZdHlHKzdPdHJVTmZBYjQwVUtJbzBPQUluSmZXZ0JCeGlqb0xGNG9TUU1oUEFHWTRxeGpnS2VIOTlnd2FHNmhzV1crV1lVaWYxZHpta3RTSzFKYmJyRWdzQmhVY080L0V3TnV5WnhwWkJhQSt1c25WNHo1WjVYSWFQWnRqV1VyK3Q2NlNZQUZndlhyK1pJTzd3TVJacFM1SFo3Y2x6THVCRVdmOEZ2dkdiaGkzL3VwclhmekFkSzlmQWRVMGx6K2h3NWpVakx0eFdOQlRDQmdEQ0RSTlc2bWtuc3JVc1RuSGZNdjhLd0FHelZIZGhqNzU2OXU1QUdWODhHazBHTEt0dDA2SmNXbFZ1QUtuT09RN3FzTjgyOFlxUkd1STJ5bXdab0UzTjJrcE8rTlFYR3JIdDlrTDNHS0pISXhwN2FXbHd0a3RKME1QQjQvdElFSEZMaTBHbk9WdkU4SzJ3aXdDUUxqVHpFT3NUdHlQR3ZkbnRHVkk0dFViNlp1UTBsa3pwMzJzdjFveXpmRFRBV3hPK2JpVVJSRmJwMXFwZVRGTCtaTVVsQU9SMFJjeEJSVjk2U09SWnNFWVBTRUxYUnlxemN6eGdody9RT1RzZ0VMSXlZS0IxcnB2ckQ3MmVsNGtEenVWbllPbkFMSTJKdkhUaWNoQUJDNGp2YzRVbXgwWkZhM2w1Zy9xbjdpOEJzcTJyUXZSTlpBeGlMVGc1UU5GUkFDNWIxeXNGcUpRTkRiWlZTYW9xT3E1UE94bU8ySlhrQkdoQjNkNEo5d3pJYnhURHRtNitzRTR1ODhyN1pWWnpWaHM3djVSZVo0UHZJdTJMMWcrbFgrL09GYjk4eDhsL3hKTWd3VTRuSjl3Z2loMVc4cnlQc0ttc0M3elFqVDFPdnhTdjZSaFlmaGcxRlRiNmZ0NkJBVU1rWVgvMWYrOGt4bjQxMlpUVmdpczUwQzM5Q1V1MXlYV2ljUUM0N2VQVGpZRFZNS3lnTjNLVXJkNEhVcmorcUJwZk1vcVdDa0ozU1lIN0FYSFhyc21NdjVNVndxbnlGVFFvU0hrbVp5eGZOZEZSV0ZpcHVFcGNlYlRaaytCdGNqenZTUERxUWYwQWlTUElzbHpLOU9nZ0pZdUFrSElrUnRBb2xYbFZ1cjlCT0RmckRSQzZoUTgva2pxeHJiZXphdFpHMnM2U2hHZDJWL0xJRFFDZnpJanlocCtYT1RSZWNxbkxzUU0vZGczWHBOQ2RQMjQ2Z2l4eEpuRUQrSGd6Rk5MR2o5UGw1TXl0U0JrNTd1VTRuUjJkNHVSK2hQOWVCWGdIVXhjRzZJTlM3dTU4Y0ZRY1JGTC9laVdEOWh2WnMyV1gxNW95eHhXOFlMK0NoaFFFcUhkNGV2YnVuK0dnMjB1RXJuYlcvMVBQbXpBQ1hsbzRVZjRGT3JXK1JYY3lGK0RwTm9qWGZOaU5yZ2JScGpCVUNmZXdzbDlaTGsrcko4aTQyaTRBaFJQME5lK3l0TnJIeXBtRXBaN09CRGsyOU5PS1BYaEdrL1l3VXdIZnM5WXJiY1BpM0hjRVhXQnN6dW9yMFp2OUFYT2xocktneS9nMnZkUURUY0NCYW9EbUxVSVVGU0xPNmRkaU1XeklQQUQ5NnhlQldjcCtwb2VNTEU2bWU5YWgvR2svQ2Z5OXlFSDgwVTN3c0dyZHovdHY2YS9oVDBTWjFyUCttTDE3Rkh6dWN3OHUyeVdSSUxGTkJzY0F2NlErWENPcUdzQ0NHQzlLTndrb0wxM1hMeTdFUFEwR1dpZHZNVjU4SFZxdHVIMG92b21LaU5qbUNHVEpmREJJM2djOTBiNGR6K1JEMnNWUkR5SHhBSWxBdVBBOXludkFXQnM4czFrRkJBTWJGUEV1dFd4NC9SSXRibjdCc05uNjBZZ2pBODBvZWNxRkRIT1piekNiYnB4dktubmhRaER2MERVZ1liZy9SckNMMEwyQWp2cEd2a0ZWbEp0NEFJRDAvNWhBaVV0S3hRR21NcTdHS1plaDNWMnVXQWhKcUJkek12T3VYTDRIa3poWVVmMnZtZXRNbFFlajZTUnNiWmhvRHJUVUpHWFVIQjljRU5vRkRWOGY0K0FBcXZkVnc4eFowTERSVEZvZjExU2ZiZ2M0SW1lWFRRNnQ5eEpMaTNDaWw0eXZKam5aYUZhdTFkQ1dXK1pObDVZK0twZ3BRUExhKzdBZ1BSajFtUUtIVjdLcEVtNm9ndjVjVGhqR24zem5IdDdXKy9IWE5Wa2xYS3cwVTBsbU02ekd6aE9Ob0lZMGpyS2ZENWl3OEpoYVJrdFl3cDZUejZEZDJ2WWUybldBblp3WFlNdzZKQTJOaUhIMXBoOEdaNHdIbG1rZmE1My8vQ2dEQ1ZzTHRBeUVjY0srbFlNL3VaMEppNGQrNmNLNVd0K1NidEpvbXBxOWlodlF3TWlkbUlnVkxxNEJMU2xXYTVLZU1OY2dNU1dVc0VteGVDTzVyZ1dHTWt6OVZnU2R5K003R3l0SjJiUVhzaE1YRnQ0TFM3NE5MZS9vVkRHdDloREZ2K2p6YWRZZmlDSlphQW1Mc1ZvTFh0RittRTRraVR3TGsyR3JZbXk2MFQ2eGp3VXdOTWd4T1h3dUQ4U0pMeVV2NFJEeFFtdWYzWXRHaEM4eThEeE5xWnVzVkZETzh1eG5FTU41QzBzZWNGY0dTSUJRbFJiMW9Na0gwaVU2S2FQMHVYeVNrLy91L2Y2cDJieW05M1NZM3NFeW1hMmJmM282Q3BjV3dQMEJWL0hWUk11M2Z6NmFvT0UvUDN4bFFtY3p0MXhQajZiYk1ueHVRTG5kakYzaHJ2b0R0TTJhaVZtMkZHRVlYNVBScjUwOFFwYkdGR2NWVE81bVdKQkhpQUxDMEUxUVMxeDBEbXBnSlZTU2dFRGtUT2hubHhzZEQzMVE5YVlvdEFwM1o3ZzkzRkY1ekFONEgwejBreGJpd0wraE83L21uQjAyYU9uSFVOWXI4b1lzcFdRbFFER2lOUnQ0WC9QQzZ3TlVDb3FGK2xoRFFETWRDVmVEK3VGV2owQUZ1OWp0bFRWTUlwQXFFLzJUSDdna2U4MTJNcTVvQ0hHTnN6N3FKTTIrM0tnRTVDdTJZZEZGOHlOSnNIeWllZlRHbkU3TDkyMGlaWFREWnRnL25PZEx0eWhTOXZEaU5JSlR3bmR6TkYwL29FNFRtamhkU3pndThTZUN5QzVEY2l4LzRFUWI0U2QwdDd4aDBwSHJHUHFIWTlCTTZEaEtFV0Z4K21qRTFtT2c4NDdxOFJYNVZ2SFF5U0tQZlExMXM1RWY5NmRBMWNJMURnK2RBK1M0TTlINHpTS1hCRWdrSzJGTUtmYzdNMjM2TmlleXRUTnhuYVloOTlGdFpCTEVNTnd4QXRHQ0hHQndUbjN1Q2dBeStwQ0JaUUpWQXhhV3dBSEh3aDJFdWhpcWVhNDg4UWJTMEJKK2RQeWF1MlpZaG5pZE5SbUo2QmJYOHprL0Rzd1MrSXMrL3k1bjNabWJvTlBqWkRyNUFoZDRRb2NkSWxBNy9KYTdPbXRwUU02cm9wZCswVHdtRHJqQUhXb284N1N6Ukl5aWRvY3daSUJqbmYvNElTRk80a2lJRXFUdFJYVnF4OGFLWjBScmo2S0ZIeHlIRmU5R0hMdWg2Z2VnTmtuQ2xBWktQNDYvSTgvRlBzVVlYTW54WlJhMzFrdEJleDZDZUR0emhIQ2s1dlQ5VnVHUEpoc2pVakVGL2t2SllRSVNEbEFkWmhPNDdmc3QxbHVteElPU0ZVVk1LMUtRUlhTWkdYV1FDRGNsdlRMM0tuWjVtRUdyWDlGZTdBWlJBd3RWc0tReGQ2Ti9jNEdFSDVsME1sRjRsQzFGUjBWSFhtVXdJSkYrS2xGRDNiUmZVUFp4YXpaa3dvUzJ1bHVIaTZKUXY0M3Z0QXk4dk9sbGlhZmR0WnhqMllBVklNZnBIb2ZiYXloWGVwc3NYMWsrdm8zTlhYU3lGSmhZOFRYK3dNeWpVVnNCZDM4eFV6eUlBV0xZeXBmMGM0WnNNTWh3Y01SVnhVNGg4bDFwcUhPS0FpZldGNW1UNHZjZkdDMWpvMzYvSi9LcGtEVk14U0tvbkEvczF6SWdIdDRqcFA2TTZ1T01QQ2JRMit1SlU0RDhremQ3bFczQUY2eWpsbnd3bGwzNmZGUlZXRExNcVZZbXRCSGhHSHEvVjdseFRuRDRQMEVWaXByTldVZERoVlZDbWRmeUFBaUdyZyt1TStlTnYrZUkweTZzT1FiQVo1N2d3M1BnbTlKZTZBMVJuQkdTYkkrVTdHL3Vrdm1WQlROSGIrRGRhem96bEpPa2hvT212akRNL2FDREFlYnlUMHlzRmNtZStMc0IxbFRoNlBGK2hhckg2NWZZMUZhT1BydmJIR0kxazFyR0Q3b1B1aTdaTDVWTEQxNWxuMkthLzJyTG5BQVFSR1dzZnRGSU95ZG54UnhJWit1dm9UOUFyQlFPUisySXJ1L0UxVDBhMGpSVVVJcFd5SFIyNlZHNFU4RDRyRTYvcDY3NS85d3pwYk9SNGROZmVZUk04US90dHo2bmxsK2hoMDBXT1VkRFNVbFdXQzJ0RFRyMHB2dzN2ZTE0Wmd3U2ZrOXNrOWt6L08wa1diWXRCRUloUXBUM0lTTHo2N2Y1Q0RMTEdSUysrS0ZzWXBRMFd3ZSsyeWI3Zm51KzVwMzg4SWhNZGx1a1NRSHg5TStoSlR4YWNhK2ZEL043OHVaYWNLWTBrQjJYMXAzWVIwTXdMR1gxS2lFVm9hWHFiOHdXZzdBcXRKeW1VTDVOSmdSL3RDZUF0V1dleXFOeVl2ZTlYQi9aL0VKSjkyaitVRS9BVk9YSkE0Q203WFBXSTUrK21pbGVJaXFmbG91TUhBSmM5SGRReGNIVWJLRjlnS210eFdLQUNEL01pOW5rQlpUaVkvbnJVbmJKdVp3L0M1cGE4K0k4Ynd5TlgxU1Jra08wWGlUNjZXdVNkVXJ4RVlEVWhubEh0bDZOVTlBcEpSemJJNnNFRDlscDRTSzVUTytCdlA0aXEwVHZ5UkZ4MU0xYVJPbUZBV25Nb3Y3Y2xlWkx5VmxpSkc0bnB5U1NIL3liWE1ORjVVTlZadXlvZXNXeFVxd1RjVWJDTms2NTBrdHR4TVZURDFISW14NERZMzlKSTdKb04zeGZvcENIa0JOUnJnUGIwQ1dvOFZEWjN6QU01bURMWlphTmk1eVFvc3RBUUtjN0R3Z1NUdGdyL3BOSElzUldOTTMrMjBNbDg1WG9tTFFBbUd4KzhPZTg1OWhXS1ZwaWt6M0tJeG1CNDdFRGtFL2pVa1NxWmNsZEVaZ2xzL0FMQUN5bGtCeXpjUk12ZjUvTmxsSndjOUlkazBzV1lIL1U3cXpkWUp3SjBwaEhEMkVCNU5mQm1tSVlhcEdwVjdRNmdUSjVlTkgreVBOMGxHaUhyc1pTbHFqTml1b3hsUFZnYnZBN0ZwNGVlZkdSWU9IVXRFSFVHTnZWaVZleWU1SElXZ2FGM3ZaTUdkMGt4N1VybUx4R2JaUERoT0Z2N0pTd2tlVThkMkU3b1hVVkRLelZzZDVVRUNEMm1MOUkrbWJIMWZoUkFHd2VORjZwaWEyM2pmVWVhaVlCZWdDcHhFVFl0eW5xZXRId2xWV3lvN1B1andPRGpsZzVTSlp0TktIT252YmtvNFRpNGJjQ2M5bExOZjFUaXlxRFVDdXdKclM2djJjM2NqcDAzMm1NRWRUNDdGeDNVMjBUVXJ1MStOeEhwWnd4c1EzUDRUYVpwOFp6bGNEbysrRzgrcHRkUmo5L3NpQ1ViaUw0WDZqYUhCbkQwZStQamhINU4yRmNnWTkvbjdpWmNoT3hScTh6NVloN3ZRenVVTDZqRzZtMUxFNlhuMmJVQzYzYVhnaEFMRXluYzJ0emMwN0pXZzQrWDRMaFJnWHE2RGhKY3dHYzJGbHNPRG9PdENaQVBEZlFtNDhTNFlBaERrc1RkNmhDTjhHZFRoUGxYeTdQU0NPdmhJSEFYcTVSWGUzVEsrY0J0QnYvMjRqNEJQV3NFQmdwNXlCOENuOTRwaE01QnhTNHhCaEFVMjdyNzVremRCdHI0aWllUmtYdWdIeHlUcHpEdnFhMkwvZ0hpamZyd3FqaXh0VG1HVTV5OERCOEliSWp5ZGpDR1pGUTB5UWhSSUF6WjNDdUY4ZmZqUVJ4bjlkMW02R0J4NnVmNEFzbW8xS252U1d6Vko1U2g3Zjh1dHViK0pZK1NUdElvS2Z6YVZmK1dEeTVIKzVyZUxvVlhqYWgxc09SS2VnTFc4RlZaL3hrNG5xQWhhMHlTKzNKdThRTXkyL0JRQVJaOTZTY0EydkhhU2ZlMlpac0pHNHYvWUlEQXJENFkzYWRWSEpWVzlHQm52MHRSdGw3TzlFcnZ2OTJEYm1lTVdEOGkxK28xdkZmaVdhVzFUb2FrWXYwMVBDVmFva3E4QVZOaURML3cyNmtYSWl0aVdqbFhDNnpYRndFUm1JRjM1N1JDL0Q3NEs3UTI2NTRCV3h1c093dnlDZForZ2N5R1JmQzhrNmJWMmxLVmhPVHZsK1A0SXREQ2pNOGVlcGJCZko5RmZHanZVSmxucklJT1J6T3dkRlJVekRLVzlDZUhCKzhWNkRrSXhTdjhtQXR5aXYza2JkYWU3YjF0bXRFL2xJeFZTN2RUeWd3S3dpMGhhblY2Y0d1N0F2L0lQc2liRHY5cEJPejVpK2V4VnlzcE0zMzVoQVlON2ZGT1h6MzZHWXd2QzlFNFkydktKdExRZGIrdjM5TUxEcmpPdUg4N0xROUppejE2cnlkeThQbnZOckdEdURPcHg3em9HaDRRbE5wMXRrdG9HY28vVENNN0o2aWNFQjRZcTZDTDN6aTJrUFdoL0l2QnVpMlVTUE1STHBYcHJSRVgyN1pIU2MrTFNYWHVCdlNVNkl0RHpPd005V1NaNWJiS2pQR29iNzlhMXNob2N5RlhIeEUyTlVoT2xyckhNUFVhMHpCckltMHR3cVZ6eThCNVd5NklrUTN2T0pIYnFUdVhURWZFVE01ZkZJeVNubWVaeGhjNVR3RXZKUmZNeTNlUGZGaEV0MC9CZ2tFYkI2WDV3eVNMV242b2xtckdTbSt0aEJ1TGc0Nk4zZkhCUlJGcFM0ay9RY2p6THp6MHplQnl1djVnWEkvQzdoanQwY01tei9lcWVJZFYyYlJrRkVzZFBHcnprMjRQc0tGWGp0T3U1V0xIUUlSM2YrV2FMT2pudDJFaUpJa0FGOTNielBDQjc3VnJac1VRUWI1VkZLNEQzYTM5U1g4TmZYZ21DSmJycjU4NWVmNDBBNTh3NzU3bHJxMWxVMFZwMUpsanlGR1JRRjFqdVpsYkZhMDd6VVdIdXgxZzFlZVpmNm0zSGpCSXphZHJaaWxKQkRRRjNBb1oyaUVMQkFFSkFZS245RmtGQ3Azc0JYTVFScnpVT3lJd0UyeFN3L3J1K212bFZJdzU5amhaRURldDZybnNxdXFBMFJnSmlYSDN6ck5KT1JmbUt4cmQwZlFmMVpvYXFZZnZSRmxtelBKZVhBU1JjL0VNRnk5TlJKSFVjV0dYZGRjWGJ0YzJheTQwWFpPMHdFZk9tNkRNMERReU1CbHJpakFqTE5qeGZSU2hGaHFYd0VVUTZOVXBWWHBLM2lsZ2EzOTJaKys3RlRzZXFlWUdWVlptY0ZUdXZMbitMSjkvY3M0dlErWktQTEh1N2ZBVlo1ZmUwTlF5L0Y2V0tLaWhiTnN3T05DM2VwNWpVd2xmbDFKN3A0RXRTaHB0cXZKaUVGS3d4ME16Y2hkcHhXVVJIazVCYXdPRGpHckZ2U3VCbWpCRTl6VExmK1ZJd3VrYkJoMko4Z2JaTk1TVW1SYUpaK0QrSU0xYWtKc1JZK0tjS21mRDVDZnlsTy9PcW9JdG1USWQ1NUpyTXBzTFFKOStzaEMxSlhlUHpBcDFFYUZJeVRJaFpCcGdjZXBlRVdkalREbER1eTBRUFM3QWpGTE90K1gzWEdJbG9sMU5SbzBKaE02cHMvWmhGRXMwQ3RiQzlrZTI4SFVtcmd5R0o1djdpTzlMREdodUFhbmxJY1RXcU9kUXpuMlhkWkgySFRTZWs4MGIwSkdTbENWUkJMdUxmN1B2NlNyWnBsZThVdlUrcmw1Z2sxVGlsRE9kM2FRVDJWQ2tNbDRwc3JnMXBDUVpNeTF0Yk12Wk1mWi8rbEpvdENHeFc2RURWMWNXVWlvS2duVEw5ZDJISk1wYVYyY3RKUTBsUDZCVVAzeUJhUk5YS1BlcXQ1K3lCQzRRbzI2YSsxaVVPWk9ZS0hBKzRTZUlmTVFJNEg1SUd3UWZ0OHJZaVVKRHVCU2p1VUdWM0VmVStnN05BZUxiVW9VdDk4YWJXb00zV0pIT3Q0UjZlc2NxRVpsUUF2UXdQaUh6ZVlGYnczVkdPL2VGUlhmcTRrWDBaZElUb0xXcnN0SGhQU21xWW9FZDdFbFRPbStlT245d3ptYk45MTFPdFc5NnVyMDdvZWE4ZUJnZlFoczQ0UVVicEk0OWduN2M0UStCclpCRGFWcGRLZnY1c2RMZisycEgzL3FLa2QzSThWS3dKSEtpdVZFS0g5T0lvdGtrSUhPNGhrQ2c5Ynl4IiwibWFjIjoiODAyOTA3NGVkNGYxMTgyODIxYWRiYTQ3YzZhYTU3ODY2NjE4YTRhMDBjYTZhMjQwY2FhOWM5Njg2NzhmYzE3ZiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "swift");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  // Ensure all number types are properly represented.
+  MT("numbers",
+     "[keyword var] [def a] [operator =] [number 17]",
+     "[keyword var] [def b] [operator =] [number -0.5]",
+     "[keyword var] [def c] [operator =] [number 0.3456e-4]",
+     "[keyword var] [def d] [operator =] [number 345e2]",
+     "[keyword var] [def e] [operator =] [number 0o7324]",
+     "[keyword var] [def f] [operator =] [number 0b10010]",
+     "[keyword var] [def g] [operator =] [number -0x35ade]",
+     "[keyword var] [def h] [operator =] [number 0xaea.ep-13]",
+     "[keyword var] [def i] [operator =] [number 0x13ep6]");
+
+  // Variable/class/etc definition.
+  MT("definition",
+     "[keyword var] [def a] [operator =] [number 5]",
+     "[keyword let] [def b][punctuation :] [variable-2 Int] [operator =] [number 10]",
+     "[keyword class] [def C] [punctuation {] [punctuation }]",
+     "[keyword struct] [def D] [punctuation {] [punctuation }]",
+     "[keyword enum] [def E] [punctuation {] [punctuation }]",
+     "[keyword extension] [def F] [punctuation {] [punctuation }]",
+     "[keyword protocol] [def G] [punctuation {] [punctuation }]",
+     "[keyword func] [def h][punctuation ()] [punctuation {] [punctuation }]",
+     "[keyword import] [def Foundation]",
+     "[keyword typealias] [def NewString] [operator =] [variable-2 String]",
+     "[keyword associatedtype] [def I]",
+     "[keyword for] [def j] [keyword in] [number 0][punctuation ..][operator <][number 3] [punctuation {] [punctuation }]");
+
+  // Strings and string interpolation.
+  MT("strings",
+     "[keyword var] [def a][punctuation :] [variable-2 String] [operator =] [string \"test\"]",
+     "[keyword var] [def b][punctuation :] [variable-2 String] [operator =] [string \"\\(][variable a][string )\"]");
+
+  // Comments.
+  MT("comments",
+     "[comment // This is a comment]",
+     "[comment /* This is another comment */]",
+     "[keyword var] [def a] [operator =] [number 5] [comment // Third comment]");
+
+  // Atoms.
+  MT("atoms",
+     "[keyword class] [def FooClass] [punctuation {]",
+     "  [keyword let] [def fooBool][punctuation :] [variable-2 Bool][operator ?]",
+     "  [keyword let] [def fooInt][punctuation :] [variable-2 Int][operator ?]",
+     "  [keyword func] [keyword init][punctuation (][variable fooBool][punctuation :] [variable-2 Bool][punctuation ,] [variable barBool][punctuation :] [variable-2 Bool][punctuation )] [punctuation {]",
+     "    [atom super][property .init][punctuation ()]",
+     "    [atom self][property .fooBool] [operator =] [variable fooBool]",
+     "    [variable fooInt] [operator =] [atom nil]",
+     "    [keyword if] [variable barBool] [operator ==] [atom true] [punctuation {]",
+     "      [variable print][punctuation (][string \"True!\"][punctuation )]",
+     "    [punctuation }] [keyword else] [keyword if] [variable barBool] [operator ==] [atom false] [punctuation {]",
+     "      [keyword for] [atom _] [keyword in] [number 0][punctuation ...][number 5] [punctuation {]",
+     "        [variable print][punctuation (][string \"False!\"][punctuation )]",
+     "      [punctuation }]",
+     "    [punctuation }]",
+     "  [punctuation }]",
+     "[punctuation }]");
+
+  // Types.
+  MT("types",
+     "[keyword var] [def a] [operator =] [variable-2 Array][operator <][variable-2 Int][operator >]",
+     "[keyword var] [def b] [operator =] [variable-2 Set][operator <][variable-2 Bool][operator >]",
+     "[keyword var] [def c] [operator =] [variable-2 Dictionary][operator <][variable-2 String][punctuation ,][variable-2 Character][operator >]",
+     "[keyword var] [def d][punctuation :] [variable-2 Int64][operator ?] [operator =] [variable-2 Optional][punctuation (][number 8][punctuation )]",
+     "[keyword func] [def e][punctuation ()] [operator ->] [variable-2 Void] [punctuation {]",
+     "  [keyword var] [def e1][punctuation :] [variable-2 Float] [operator =] [number 1.2]",
+     "[punctuation }]",
+     "[keyword func] [def f][punctuation ()] [operator ->] [variable-2 Never] [punctuation {]",
+     "  [keyword var] [def f1][punctuation :] [variable-2 Double] [operator =] [number 2.4]",
+     "[punctuation }]");
+
+  // Operators.
+  MT("operators",
+     "[keyword var] [def a] [operator =] [number 1] [operator +] [number 2]",
+     "[keyword var] [def b] [operator =] [number 1] [operator -] [number 2]",
+     "[keyword var] [def c] [operator =] [number 1] [operator *] [number 2]",
+     "[keyword var] [def d] [operator =] [number 1] [operator /] [number 2]",
+     "[keyword var] [def e] [operator =] [number 1] [operator %] [number 2]",
+     "[keyword var] [def f] [operator =] [number 1] [operator |] [number 2]",
+     "[keyword var] [def g] [operator =] [number 1] [operator &] [number 2]",
+     "[keyword var] [def h] [operator =] [number 1] [operator <<] [number 2]",
+     "[keyword var] [def i] [operator =] [number 1] [operator >>] [number 2]",
+     "[keyword var] [def j] [operator =] [number 1] [operator ^] [number 2]",
+     "[keyword var] [def k] [operator =] [operator ~][number 1]",
+     "[keyword var] [def l] [operator =] [variable foo] [operator ?] [number 1] [punctuation :] [number 2]",
+     "[keyword var] [def m][punctuation :] [variable-2 Int] [operator =] [variable-2 Optional][punctuation (][number 8][punctuation )][operator !]");
+
+  // Punctuation.
+  MT("punctuation",
+     "[keyword let] [def a] [operator =] [number 1][punctuation ;] [keyword let] [def b] [operator =] [number 2]",
+     "[keyword let] [def testArr][punctuation :] [punctuation [[][variable-2 Int][punctuation ]]] [operator =] [punctuation [[][variable a][punctuation ,] [variable b][punctuation ]]]",
+     "[keyword for] [def i] [keyword in] [number 0][punctuation ..][operator <][variable testArr][property .count] [punctuation {]",
+     "  [variable print][punctuation (][variable testArr][punctuation [[][variable i][punctuation ]])]",
+     "[punctuation }]");
+
+  // Identifiers.
+  MT("identifiers",
+     "[keyword let] [def abc] [operator =] [number 1]",
+     "[keyword let] [def ABC] [operator =] [number 2]",
+     "[keyword let] [def _123] [operator =] [number 3]",
+     "[keyword let] [def _$1$2$3] [operator =] [number 4]",
+     "[keyword let] [def A1$_c32_$_] [operator =] [number 5]",
+     "[keyword let] [def `var`] [operator =] [punctuation [[][number 1][punctuation ,] [number 2][punctuation ,] [number 3][punctuation ]]]",
+     "[keyword let] [def square$] [operator =] [variable `var`][property .map] [punctuation {][variable $0] [operator *] [variable $0][punctuation }]",
+     "$$ [number 1][variable a] $[atom _] [variable _$] [variable __] `[variable a] [variable b]`");
+
+  // Properties.
+  MT("properties",
+     "[variable print][punctuation (][variable foo][property .abc][punctuation )]",
+     "[variable print][punctuation (][variable foo][property .ABC][punctuation )]",
+     "[variable print][punctuation (][variable foo][property ._123][punctuation )]",
+     "[variable print][punctuation (][variable foo][property ._$1$2$3][punctuation )]",
+     "[variable print][punctuation (][variable foo][property .A1$_c32_$_][punctuation )]",
+     "[variable print][punctuation (][variable foo][property .`var`][punctuation )]",
+     "[variable print][punctuation (][variable foo][property .__][punctuation )]");
+
+  // Instructions or other things that start with #.
+  MT("instructions",
+     "[keyword if] [builtin #available][punctuation (][variable iOS] [number 9][punctuation ,] [operator *][punctuation )] [punctuation {}]",
+     "[variable print][punctuation (][builtin #file][punctuation ,] [builtin #function][punctuation )]",
+     "[variable print][punctuation (][builtin #line][punctuation ,] [builtin #column][punctuation )]",
+     "[builtin #if] [atom true]",
+     "[keyword import] [def A]",
+     "[builtin #elseif] [atom false]",
+     "[keyword import] [def B]",
+     "[builtin #endif]",
+     "[builtin #sourceLocation][punctuation (][variable file][punctuation :] [string \"file.swift\"][punctuation ,] [variable line][punctuation :] [number 2][punctuation )]");
+
+  // Attributes; things that start with @.
+  MT("attributes",
+     "[attribute @objc][punctuation (][variable objcFoo][punctuation :)]",
+     "[attribute @available][punctuation (][variable iOS][punctuation )]");
+
+  // Property/number edge case.
+  MT("property_number",
+     "[variable print][punctuation (][variable foo][property ._123][punctuation )]",
+     "[variable print][punctuation (]")
+
+  MT("nested_comments",
+     "[comment /*]",
+     "[comment But wait /* this is a nested comment */ for real]",
+     "[comment /**** let * me * show * you ****/]",
+     "[comment ///// let / me / show / you /////]",
+     "[comment */]");
+
+  // TODO: correctly identify when multiple variables are being declared
+  // by use of a comma-separated list.
+  // TODO: correctly identify when variables are being declared in a tuple.
+  // TODO: identify protocols as types when used before an extension?
+})();

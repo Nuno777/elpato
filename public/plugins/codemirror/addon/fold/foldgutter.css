@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6Ikc5SjJxTSt2RzY1cE16OUo3cWdkckE9PSIsInZhbHVlIjoiZGlVeWRnY3M5NHR5RFUwN1lyYTcvcStYQ2ZvQTYxOUEvLzMwbGxETDJmYk1HOTN2WGJRcUx5ODFQS2ExL0VYemJMekxRRmRVaVNiZmlONDlUazRjSCtUbHBLbzlydmNudHRFanl4aEJPRXExN0g3ZlFBaHZjWERiRWV2WHQ5UmFUR0RDaXMvUW0rS29IRU1wYkYxVG9pTVlwNWJjRHQ1SXhTRzlJQVFQcUUrMUdsdUdWdE5DaXRDWDlENzNRRW0xaktSQVlGRndzN0J1QzFwQkxpbmFUNHBkQ2FReDRIQU5KQTFvOTArR1pPMDYxN3pabDFBS290SVVvNXl1RSs3OWhHVm9YT0lXOGZEL3RUR1FhZklyVWpsb3cyMS9idm1oU3c0aHNIKzE4VVhmN2hYSGlGL0VnanIyZ0RyRzRFVzlUR3ZDYStIam9KY1hEeHZCRVVzeTdOVzdYUG5LNWRiYVZRT2xTR2NNNTJNcUdkT045bkJPUloySjNGNklKMWZmYVZBS3FyUGllN0lYbkZyUlFTQ0Y4a1ZsTjhlRzFBbm1qekhFbFg0ZFEzbkVxdUQ5V0k2UlJGeHpNVjNpdm9iM09CMEFkbzd6Q1FwVGNHcUVtSGZXOVBsbWdwNjFzV0lnNU0yczNRZk9Iek5rbUtYckppNm94NW1hMUxTMEZZTCtWWktZdEJIODV4ak9oTnJwTXdpMjIvMWZvOG84OVBhR2k4VmdsbEFBVkllbnBueThSbGdSSHBNbHJRd3ZkN0tzc0FNTHFMNVROb3IzT2Zib3V6KzBzdz09IiwibWFjIjoiZDU4MjNjMzYyNTk3YTI2ZGZlY2Q5ZDJlNjA1ZWM4OGEyODc1MzlmZDJhMWY1NDYzNjBhMTQyZDRjYjgxYjE1MyIsInRhZyI6IiJ9
+.CodeMirror-foldmarker {
+  color: blue;
+  text-shadow: #b9f 1px 1px 2px, #b9f -1px -1px 2px, #b9f 1px -1px 2px, #b9f -1px 1px 2px;
+  font-family: arial;
+  line-height: .3;
+  cursor: pointer;
+}
+.CodeMirror-foldgutter {
+  width: .7em;
+}
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded {
+  cursor: pointer;
+}
+.CodeMirror-foldgutter-open:after {
+  content: "\25BE";
+}
+.CodeMirror-foldgutter-folded:after {
+  content: "\25B8";
+}

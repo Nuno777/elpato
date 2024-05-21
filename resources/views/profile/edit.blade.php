@@ -1,1 +1,25 @@
-ENCRYPTED::eyJpdiI6IlFBN2RhNndtTCt1eU9aUUhBR1pscGc9PSIsInZhbHVlIjoiemlORGl0NDRQbFRscWJVMmhveXRPeE1GUzBMZndyTUJlUzd3Wk5idjFxeU5kemp0RjV2UTNRalcySHB4RHcvdEduZGZ6L3dRRnBMZkpvVVVYcU1VRWtwQnVnbEl1emVaSUl1QTNQOERCTUd3RDBIWWNHNGc2SFdqa2hCYnlWbnpLcWZzSGo3YzVBY0lYVjQyWk9PQncrQktxMUNRSyt6N1BudGtHNkJqcEg2VE5hSHpDMkgwS0pHc281WXNlZUNQM2FIc2VjUjR0WlZySUdjMkNjSXpJbC9rQXBaWkxtcE5BOUlTUUZsZGFNeDZIYjhsalErdjBGeW5Hc3FRNUdxZmxxOVJTazRRRmVvZCt2cE5iWlpTQkJIMVpYWkdVTENQZ0pNUi9YdjVnZXRwUCtaOVUwZ1VsbkVFV05lRTlPejFsQXdqWjd5dG5LbTJQMG1sYkNIemlzS2FxRHF6TFpMdGpCeEIyeEJ4c1FoQjdVNXZTVk5MTEowbERyTjdaekJJU0s2b1ovVU9DUzNZWXdKY3Noc2YzOHhnakFuTkl5UjR4eFNBdllSYkt1cmtyK091ZnBDVnRpS1VYMkNna3U4RndtV2NOazJTSTlhT1BVeDRDZmlhSGR6U0lqblMrMVV3ZXZuYkJtVXJ0dHNaMjFMN2lRNnZVcnc3Misyb0VPWVF2OFp2ZU1ldng0WHozVjJTblNZUER2MkJjUnRKeDhPSXNkUWpjMUsyWWRFZlQ0QzY0cE5aWk5qQk5sVnZVdHFBRGlraURVekRRZkpZeTYwT1N4YTZOM2dHdEhMMkM1a081aFNZbUpUQzFmTnJwTyt5MFQ3ZXExSkx0VllxdnBZRHVRblduWGpLNmlBUEN5VW5mVHVIUGoyYlRpbUw1YldvMzJ3R0czcnJWejVrYURVU3M4dnB6SE1sMWxoYUw0VlUzaG5aL2NGczRzVEQyN3MxeEEwL3ZydWNWU29MN1d1NlVveUlkajIxV1BuS2NsWHhzUk1ZNC9FbkU2cW94MERxa1BUbllTRmkxWGdsYWtaQTI2RVVEMVVCZURTQ0JuUGZkdGVoK3N6WFMrNE1uS0JDaGxONitqR0tESzFVQWpnaTNkdEZINnFSQmxhcCtjYzF4TWFxYXk4cHVPQ2QxV2hJL2RLOEZ3MFk5SkhyL1JPY2hSQ0pqWVp2ZGFRb0UvWFE1dnZQSVA5Z0NUbFArUG4xdjd6cHFQWHJRMyt5ZVkvdGlVbzZTZTA1T0lySVF3M05ES01RSFpBa2V3ZUt6SXZmVVZrSHJReU8vM3RtWkN3c1VxRnNxcFBjUjBxUmxZTFpQNjRIUFRNNXM2Y3pXdEJQTlJXYnJDQVNOZ1FWZWYxRnZJTWFEMnZKT2grREFuNHZEaTQxZHFoekdpVldzU3UzM0lGdTlicVBFMEV4a0oyWTR4blNCZXZ0WnhiL2VnZFdjSVo1Wk1GM1BkNVgyRVhNSzBEYUVpeTRkNU9RUkwrMHVhTEhhdWt5Y0ZkeEoxYkVYY2wrekdNVldiemc2UWJzcXRzK1BvM01hZGlPdUtqMGZNZndlRU5QT2ZyL2x6WmZVbzJDME5pc0l5SFUrcWFDSXZjQ1dRWHNYUHozcHB3N2xVVWtncmZnd0FBak9FQkErY2c5U1hnT2dPbkpDdjNhTVRrL0t0R3BPK2RFeVdUbDdtU2ppTHFWZzRpWFQ3U21jTGNuaHJRU1dDSUhjcUY2eE80RTBMU2tRSWRnWmV0dWlhWTNHaEpCbzM0PSIsIm1hYyI6IjUwN2ZiNjU0MjkyMGZjZTA3Yjk3YjU1ZGQ1ODU2MzQwYTExYmEyNjg0ZTlkYzA3YjBmYzY1YmIxNGIwYmFhNTYiLCJ0YWciOiIifQ==
+<link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
+<title>Profile 💸 ELPato</title>
+<x-app-layout>
+    <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 space-y-6">
+            {{--   <div class="p-4 sm:p-8 bg-white dark:bg-gray-800 shadow sm:rounded-lg">
+                <div class="max-w-xl">
+                    @include('profile.partials.update-profile-information-form')
+                </div>
+            </div> --}}
+
+            <div class="p-4 sm:p-8 bg-white dark:bg-gray-800 shadow sm:rounded-lg">
+                <div class="max-w-xl">
+                    @include('profile.partials.update-password-form')
+                </div>
+            </div>
+
+            {{--  <div class="p-4 sm:p-8 bg-white dark:bg-gray-800 shadow sm:rounded-lg">
+                <div class="max-w-xl">
+                    @include('profile.partials.delete-user-form')
+                </div>
+            </div> --}}
+        </div>
+    </div>
+</x-app-layout>

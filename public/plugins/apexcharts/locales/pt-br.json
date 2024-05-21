@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6IlhFSW50NzdCOFppK04wTm9EZUFxeGc9PSIsInZhbHVlIjoiSFJmTjFjVHAyZVZwa3RXWXo4T3NTQTYreGppNWR5YSs1NzVESnRLZWdFeDdoWWcwVVdkbS9kQ3N3L3FDSEVrRktVS280NnZ1b0hwRVlIK1hROGFMUkdBY2pGTGp0MU1DMExpc3JmTGxMelNFWEZRTWNjRWcrR2hYM1RpMTlUQlpPaDRIdDFrb0gveC82ZXNWMzZ3dHJ3OE4zdVFZUlE3dmtjS25PeXVuT1VzVEs5RE0vNFhicnlLWUhOQ21tcVV6RlpCcGNPQjNVRXM3cDFiNmJFaFhsZ1VnclRqQTljUFNoamxYZWFiclpaSFBHd3Y1aHc2emtYQWpPVCtGTTV3RG45VkZxVkRDNEdZSTNhdlQ0YXl5OGhUR05tTno2Mm80Sm1DTTE1ZG1ybG5pd0I0dHc3ZmdUelR0T2xoQllla0l2UmhZdWw4YkVVd09BUHhTSk5HMVJMR0xMMTM2Z3RnMnA5OHpIZ1hBUXFhbGY0bzA3UVNzREhmc1pINUhYY0xKdWZScFhRa3Jqbm9ZelNMMUNEakk0YWwvNE5KTXowRDAwbkI5Wk5FYVc2U2VRMnlVUUtVdGl4Z3I0ZHY0SWJDQklBTGlBUlhyeDE5TFNVVHVqbzFObmNrck14eDlCaFJRL0I2b3RsU0xOODB0YUxQNnFUVk05UnptV1YxTGNkY2lnVEV6WkhQS0xnWUVDK254N3R3QWp0TWpBRGxZbGVZR1JWY2k2cEhjQmd0S0RUYnVQRTFUMFIyV08yT1dIdDRZTzJERkRCNVQxczhrb3dlb2tFVFJEcUxwbDNzTEwrVDArVXhRSTBIV3NuMlRKU2hldVR0VHgraVF3MEtkZ2VMN2ZPaFhvdXZ0T0hqb2pXSmFoQmV5a3hRYXpwRTRJenRvcm1RVEh0SGYyRmNPUTNJeEJvMWxCS2NzbEErMm10TFlobzJCYmRJdWxSNUZURVBuY2Q1MGNTZ0FsdjVueXRXdllKam5pelo3WkVJdncwZ2lPYUk5K3I1aHg4a0pPNVVraExZM3dQaDZHemRMZnQ4eVR3cG54L2M2OFYrUEEwOENKeTN5cStwS0hZNk5jU3hqMlErR3Y1a1AzVlpXNUlJSHFMSUZpTktESWpHOTVJU2RPVVFBcjdQeXVHc2w5WmIzQ3V1ekV1cW16WkhBUDlXZlRPSFY5VDdHQWJZYTNKL29QWUhSVDRBa1Q3K0YzeEFqazNIa0Jtb2J1QXc4TDBFMldub052YnBKcTJ2M3dScEFoR0NxQ2hwT3N5ejdPbU9pMWJ3M0lQU3pJaEg4bmU0aHQ5SXBRaUN5Ly9sSzJQVWRrUWNpa1luSXRNbzdacUdmQVdaZkdmdjg4Q1NudnhOOHo4MTNaZTM1ZjVrUG4va3FXTjhncVE9PSIsIm1hYyI6ImUzODM2ODUzZWVkZDQ4YjczMzc3Y2U5ZGQwZTgzZDgyZjU2YjJlYWIzZDJkMzM0MjlkYWM0MmE4NGQxYzRhOWIiLCJ0YWciOiIifQ==
+{
+  "name": "pt-br",
+  "options": {
+      "months": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+      "shortMonths": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
+      "days": ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"],
+      "shortDays": ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sab"],
+      "toolbar": {
+        "exportToSVG": "Baixar SVG",
+        "exportToPNG": "Baixar PNG",
+        "menu": "Menu",
+        "selection": "Selecionar",
+        "selectionZoom": "Selecionar Zoom",
+        "zoomIn": "Aumentar",
+        "zoomOut": "Diminuir",
+        "pan": "Navegação",
+        "reset": "Reiniciar Zoom"
+      }
+  }
+}

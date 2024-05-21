@@ -1,1 +1,69 @@
-ENCRYPTED::eyJpdiI6ImVzUFZQZWwydmdGRVlPZmU1OUJTdGc9PSIsInZhbHVlIjoiZy9VNnk4VkNPZHpRT2R6R3doVnNqcEk5b3ErYUdLYkpGRVpVZ0VXYnZPTWhvRnlSOTNBbFlqazBnWTgvMVdINkZDTEU5N0JKUUFpRWtlSGZaWXkxRUxhOUFnMC90Qk1Zdmg1RG9abmJmVHl3SHFsZU5yNU9IbXRjbVE4Qm1TYVptUTQyUU9udmFtVy9LNXBQUFBuWTF4OTRMKzFYWHc2M0N4K1I5NTNXemN4OTRtb1FDM0dJMGxDclJsREh1K1BidlErUUM0d3pkZHZLU2d4azZQWldVcHlVV0RaQ1I5VFZwaDFVUDBNRnM1MTRqcjFvanlQN3l6aVlYY0tMbEZEYmQrRHpxQVZRM1dBblI2QXZRR1E5NmxUK29pdVFDQzFuMHRvOFUrRDFsZW16V2xjNncrSzAwVlo0SmhqYzhkVEhwMEsyR0hONmUwM2MwWkxoUm42YlVKemJ0Zk54SXZSZ2wxZ0tZRUV3UjJoT0tCdkVjUEF3YjRXMEY5VXpIMzAxN2ZxNUtUcHVNSHYyZ0VhL1JiMWpHUmVjMWtHOEJEamhXOUZpdjZNTlh1Zkg3K3ZnWG54OVZreGZDQTIxL1dyVjJ5QytLYllHUGVMN0s1VGhuMXJwZEp5TGk0MTBmRmE2K1lqNC93eFFKdEFraDNKQXZpbHY2UDdVeGFJWW0rV0RXVTM2Z1RITmcvNGhId2VCTVZIVDJWL2d5eDBteXlSdTdPNnMrbDlocllRZHMrMjkrOVJDbEtMZ25obnFLSTdaZHBCOVlJcGgrS0ptWDlnQVNpbXE2bTJpakh0N1dHeWplWjZlUVFkL0FPL2NkWFdjUmlMamk0V05rWVNEbGN5bnI5QnhvbDVGTkdjc3c4M2hXQW52d3NQZkZJYTZ1Y1R0cFlHVFZOOVJ6Wk1DVHE1STRuV2R1Tzc1UkhjS0F1U0plYmY1NmJubFJlZHM2UFFaM3BmOE5DNkV6cFlNSWxWK2dHSUZrWFJJMjI4V2ZMN3E4SmZvbGx5eGF0NTUxbllRM0ZLOVlHajNqSzdpMXFnN3RxSkdGU2NSdTVZWHBXTEFGTitDcnZscldwNFRRNk1iczF1TzIxZW1pR1o4OWVuYkwrQ1N3WTNpckNWZTcxL2c5TnMrelFRTWJVMHlXcmVDSkN0a3A3TVlLRTlGbXZVZTF6NGl2a0NqdnZ4cFMxaWREZHlpNGt4OEhCdDRBZHB3eExvYUs0dEFtOFJ6WEZQR2s4bnhySi9PTHd0d2hhOTlHcmpNRDJEdnBaMm1KV0QrNFUxZXV6Q0w3VndUTFkxWW1uK2UxUW9DSGxvMU1ZWnYyQ1Z3Q0hhWktMMUk1VFRIa1hROXlTd1VWRnN2OXU5SG52elRMUCswdy8yWUlCaDkybmE5VzRVZHc4ZEZGM0krbnJ1cmtucVBIdE1Tc1g2UTl1TDVoNzVLczE3N09TUXM1Qy84M1hVTDhQSmtaMTZKcnIxOUlaV2NlNUJlZXdKS0krd2htS3ZoVFU3dUtKRjZqbU9EeVV1Q0VoVWF1R1JNYTBORmRaN045ck80TFJOQVl0VlgzSTRpSzVsYVZ3cWI0cFRDRG1KZXEzMjJGL2FZQTMybWFpV2RDVjVEZHJUelcyS3BCQnhMRHRVZzZjNVQwZ3g3bEhHTXA1MFB1WmdnVGJVbE95U1RtM1BUVlZXMjZsby8zRngrM1hXcm1hUldnM0J0VHpWUVp6SmhUbEl1NFFGMmtCUjNPNUJENURYaWNFVzI1ZlYycll4dDVMUkJ2amVyOGRKTlhZdTVvOFhKTkUzc2EzaUMreFM4SWU1RlprZnRiK3o2VjlaTFB6cC8rTUIrOWY0SmttNUlMelVoUW1qc3E2LytYS1ljcytFNFBFMStka2YvaEI1R28wWjFtK1lKKzQycXZvZ1V1RzNoMU4wc215SlA3YW1ETDhQKzJXWXE5RURRWU9lRDd1L2RkNFdIeHlkUGlpWEx4NXZUaUVweDhtWFVSb0htVERpNFNlcytQdFBabTBkS2YrMERyN1hFcEdacy9XbEx2bzE1TFBXd1FMblJDZERXeS9ZZXR2S0M5L1VZSFZqT2VWTjFCSElCTzJJQlRPczVsVWYrbHZ4U05oekRmNGhGbGZHOG1meGppb3NvbVNXVFJjMnVUOEgxWUpSNzBZV2syaEtHSlJZcVRrUTA5Nzg3YklTWERJQ3F2SWVoV3Z2ME8xRDNxSE1LN3RleGxsbDcya2M1VkVlYXBtNFJDSDRqRVlvQTNQNngzU2ZoT0J4SEJybG9lUDg3Ky9tM0lHaXBBWWsxb25XbWFmL0dXSElMcHVacEh3TUZYdVk5elB3MWt6c2t3WHlLTFE4SXFiUitnZ0hqaGNsNHh0QVpHRnBxUER1d3VjMHpQNkMzZTZ1eWZhK0lMUUc5clhISnpQcm82aHNpMXNMNlJrMWNCWGZ0ZWI3S3hUOVBWcnJ2QVh6V0hKdXloWmhCR3YxdnNZNDFpendTbmFUQmU3Y0xpWmhHMXFUMnFCcWtxakd6YVRQUWtyZVQyb1pqSTZTeHliblh4VjlxZEgrRjhacjlMT1lQUkVoUnJNU0dpa1JNOWhIQzUwTGlmZkRzUTR1NjFibXpnL24wOC9QalRQb3M3QzREbmE2R3h1b01zUXMxRHExQ0pUWDNtbFJiekhBK2o2R01IME9ITllDUVpTWmw1WHVZK0FTRS9RRDJ5aGFGdDdsZ29iUUFUbkxHcUdBYnIreCsrOGdCRG01NGVsbll3Yld4clpUUUp5TzRtTXQ0aXpacHl6dXF1OVRUdWliSFFoZCttNERhaTBCNTRiTE9sT3dtdG9aQlk3bU1ZUjkzbTNKbkt3S3RZaUFNcGlOMzVZYTZXK2xKNFAwUGFvZDcvZU8rMm0zYkhDcUtrVWNFd1dtWTE2ZlByU01wUG4zTGk0S2lqMnZVQTRUOXJkUTlUcDVHMm00a3ZzTng4SXMzclZmRXdsbXJzWER5b3JnQkdHMU9VUFQ2TVN2K1YvMjJMN2V0NkNpSDFyaGI4bHowbUdiMGZzcVBva3NudzZkdUpwWGNmenF5dnhaTjZaa0l1WFVkeUM2c2tldHFCNXVkcU1wN1lpSVROVklIT05yY2ladXdMM3A0MVNZWlE5R2FxU1E5NldVbWlpcXFQYTRuVlpBa0swaTMxNCt5UldoL3IwVUNzSGRHMVg4b2tCWHBIVzNPU1g2OTBVSFltRWtNdFZIbnErVGFZc1cxSy9nUnp3M24vclNaYXNiRHA5NExjTElyL1B6TTA5SUdFUm56R0RLKy9tbVVCcVdCeHBERFNNRDdzMFVOS2ZGWHFYc042bHd2S2dBaDRSNi9OcjgzWlJVMVJxc0VteEc0MWdXNWJaQzRscGhuekhMRXNESThSZHhaVnpPcnlWNnBEd05wci9WQ0luMGJISEdicmtlb1Z3OWtJTURrNExXTUhERGc1L3FwaWRneVFlU3liUmluZkJ3Q3RWYTVOV0pxd0VWTmxtQ0hLNzhTSUJRc3BlRlE3TDNvWGU5WGQzS0xCb2RMSlJRQ2x4YTFKb3NFM1ZGR0NtUm1qcmx3UlUyNGMxbEJDeUNvN21nNTZDWmt3alhhakp5TDRZblhNcWtCWjdKd2U3U3BXV2JXTzNkNjhqeE5RbXFJQm4rdk5QamJHQTlRcjlwZTBMQUN0Z2R0QzVuSXQvRlBSQ1hCTXJGd3lZYkljNVR1V3QvZU4yRW5NdEkzRUJQVWlKYjZSVmUvUVRaUi9MQ2NyOXk2c2lwcjRmMk5weG9KUk9US0xHVUZ1QWIrVlVydi9Nd0xOSjA4MTl1L1ZnMHgzNmh5IiwibWFjIjoiZTcyYzNhYWNmOWRmZjdiZmJmYzI3YzAzYjUyODhjZGE2OWM3NWQ5OGY4YjNhZTVmZTU0NGEzNDAzNWQ1N2I4MyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  function wordRegexp(words) {
+    return new RegExp("^((" + words.join(")|(") + "))\\b", "i");
+  };
+
+  var keywordArray = [
+    "package", "message", "import", "syntax",
+    "required", "optional", "repeated", "reserved", "default", "extensions", "packed",
+    "bool", "bytes", "double", "enum", "float", "string",
+    "int32", "int64", "uint32", "uint64", "sint32", "sint64", "fixed32", "fixed64", "sfixed32", "sfixed64",
+    "option", "service", "rpc", "returns"
+  ];
+  var keywords = wordRegexp(keywordArray);
+
+  CodeMirror.registerHelper("hintWords", "protobuf", keywordArray);
+
+  var identifiers = new RegExp("^[_A-Za-z\xa1-\uffff][_A-Za-z0-9\xa1-\uffff]*");
+
+  function tokenBase(stream) {
+    // whitespaces
+    if (stream.eatSpace()) return null;
+
+    // Handle one line Comments
+    if (stream.match("//")) {
+      stream.skipToEnd();
+      return "comment";
+    }
+
+    // Handle Number Literals
+    if (stream.match(/^[0-9\.+-]/, false)) {
+      if (stream.match(/^[+-]?0x[0-9a-fA-F]+/))
+        return "number";
+      if (stream.match(/^[+-]?\d*\.\d+([EeDd][+-]?\d+)?/))
+        return "number";
+      if (stream.match(/^[+-]?\d+([EeDd][+-]?\d+)?/))
+        return "number";
+    }
+
+    // Handle Strings
+    if (stream.match(/^"([^"]|(""))*"/)) { return "string"; }
+    if (stream.match(/^'([^']|(''))*'/)) { return "string"; }
+
+    // Handle words
+    if (stream.match(keywords)) { return "keyword"; }
+    if (stream.match(identifiers)) { return "variable"; } ;
+
+    // Handle non-detected items
+    stream.next();
+    return null;
+  };
+
+  CodeMirror.defineMode("protobuf", function() {
+    return {token: tokenBase};
+  });
+
+  CodeMirror.defineMIME("text/x-protobuf", "protobuf");
+});

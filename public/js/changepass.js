@@ -1,1 +1,12 @@
-ENCRYPTED::eyJpdiI6ImxENW1jb3VoSXo1LythNUxGZW5PTHc9PSIsInZhbHVlIjoiS3VGY3ZGby92VG9jWnJpa0JXdUNqVnU4SkZvejNTK2ZkZ1pkSmJsdmhZU29KZlBrMUpaZUpIU1NVRktYRDNia3Y0S1AwV0JNRExuRWlSZG1Tam94SU5ZMXdYRGRYck5DMlFDMHhEaHNVRnVUVUJyTkdTM1pzeEZreEZ6MmVQN2h0VHFxdVZFdGo5NWh1d1l2VThOVktoY05lSGd2RTljNmE0ZFVhWVF5RUVqakJLeGdVOU5zb1hjckRZNmlVeHZKNGlVR3FLZmVnS2tGRWMxMm1OYjJINE9SZ2pTT1NSdndxemVRYXNXNWxZVjMwaUZydk1nQkNDRjFOQXBTeGlFOVJMYmd2UEpISFRoczZvaXJockVPMmJRUm9oeTJYSk8wVGxVVlc2UlBYelRMZ0J0RGs4dXlraFNKUlBMQTlya0RPUzNidHM3d3lBMXd2TFpUMUJ6eVNQUExqUHRWNUJvTmJ1eTZUa3RyWnlNZTBrVmZIVjVWT2o2Z040MndUVkMrWmpyVmI5c2hYOVNoMFlNclBTWTdZaVFZOXV5YTFEWkFPcVBQVndKdUQ1NkQrcHpHSHY3NE15TG1FNEE3M1c3cklhNFhSZWhBQ1gvTWY3SHBkQ0hNejFXTkpZYnBjZS9PVFFWRTF2U1kwTHhhUmJ6Tm1uK0JMcDc0ckFIRFRqZVBhbFZ1cmdSeFJxNEdmWEtLaTlJVzFuaVRGb0haUlFTNnBGVXpZYlQ2OTUzamVLanBMMTlLSWl4SGdPQ1lNcEZ1RVd0QWNqdGxSc0hnVC9EVENxS1lYRjYyUS9mdGFNTnNJMFUvSlV3dWpZbjR0aVJqdEpzK0R4Z1VKWE03QnFzdE8vWEpBTUkxTjgxU25lSks4Z29MNDFZMzN5Vk12dzBvalNkeHdHdFNTbThxSmk1czE0VFdaR2FyTTBQbFVtNkdtTzRaOVU5ZnJHVnhNdFNUWm1LTTJON2ZIRHhBenZqY2FuUGw1Qi8zMDkzbjdCNXMzSHNERW9yQVJQTCtod2VQIiwibWFjIjoiMjkzZWYyNGMyMDZiYWVjMWNjNjAwNzI2MGUzM2YxMDJkNWEyNDFhYWZkZTY4ZGVjNTU2MzFkYmUzMjBlMzE4YyIsInRhZyI6IiJ9
+document.querySelectorAll('.toggle-password').forEach(function(button) {
+    button.addEventListener('click', function() {
+        const input = this.parentElement.previousElementSibling;
+        const type = input.getAttribute('type') === 'password' ? 'text' : 'password';
+        input.setAttribute('type', type);
+        this.querySelector('i').classList.toggle('mdi-eye');
+        this.querySelector('i').classList.toggle('mdi-eye-off');
+        // Toggle class to control eye icon color
+        this.querySelector('i').classList.toggle('password-visible');
+    });
+});
+

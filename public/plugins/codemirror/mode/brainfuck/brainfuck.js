@@ -1,1 +1,85 @@
-ENCRYPTED::eyJpdiI6Ink2b29nbHRMSlVJQnNJVUFuL29vNlE9PSIsInZhbHVlIjoiNVJEaC9xbGxlOTdFNXlIUVgrQ2l3Ym03VVllV1ZmdUNKd2l1NHBPd1FkQXdCZFl2Yk5zaVl5dTdhK21EVmNYYmE5ckRkbVRMdGRqb20xbVE3a2VlZktZMGhDYmo2bzViK0l4R3UvSi9GUUkzTWpVSWUrYzZSTTJ5ZzAyWG5WTzNNelhsTldQWit4VFFIcHRiMnlXR1dBb0xXUGhXaVFzQ1F4YjJaVjZSaVZLWXVhQjA3U1NWWk5kaFQrU093UytkaitGVm1oWkZXR1BQd3VDZG1GakF4dG1ZYjNsRnBwOVQ5bmkrZUJUYVM1TVVGSTVOSWI3Ym9PMjNLYW5sNExPNDd1b1ZjVmJKZlo2c3puUXdCem9JdG9UdUIxRlJJQm9rMzB0bWM5QzdFZHRrQnBwdldob3JIblYvemZqY01SSFRpU0FqWEQyODU0bDhoRzRRWEkrRTg3dHFYUHh3dXM5TjZDVUNKS21nd0hIdlE3VnlHZm02RjIwLzVyUHYwL0tFU3BEQXZYR2ZETWV4eWtaSnRPdDNSN0syUEp3T3VRTlI4WDNyVCs2OGRWS3B3bm8rU3F4TGVYNXlOZUpja0g3Uk03WGk5bndHSnd0Rk5QeVpodjZVOUVPbDFmSFlQU005bVFXNFplaVk3ZXpUd1pOOGdFRWI1UWMvaW1EMDdDT0xtUUJZSUtvTXM0L3E5b2ZLcmVwc3g5alIyVGdUbXRrMEowZUFrM200VHlhMFppc1NVdTJhQjRjOU81em1EM1hBZWJSbHBrK0tGUlZEYlVEZmczSUNRZGhIWXNXM0FNSGJzT3NnUXIyRE93VDJlRGJoQ0paY0d6dUN3WTJTVVQ0SGlvbCtsOHFsV01QT1R3RzhzeFZLN3NYOFFSNzJTUk9GL1Y1VHN1MXFXWUZmYzRlcnFJYzVvVWVrNlF4Uk5WQzJlT1U5WldLUEtLaFJwNVRzRmF2N3c1VmVONUZYRG1mU3VuZmFJa2l5OXdZcTNSYVFFZXNlbjNRYTRCR3Z3STAxclM3TnVtTmlYa1FkelRQQVdpK3BEdmY1Qkk0TVFOVEFOa0J6MFRjOHdLNUxjOXRTUmkrcmNNYkNDaGpwY3ZEV1NkVVc0eHprOWFXME5sSVNMcHQ3bWhNbzZwcGtOM2o1M2dHak1TL2dIdW5ncFVzM0RBbDFxOWxJOXMyZGl2M0w0WmpDZmlzM1MyTERGd1FEOFF4QVJ2VWNYUWtLZTd3dmdqWU9OcWdTSWV0L0hWbm02elN3V1NoUlZNbkJNb1RTbFpDb2NWdjRDQ3JTWlNmakRvYktndk9FRDNNcDIwWGNqa0tzQ0MzM3pMT3VzN01nYWxZSGZGUEVUTFlXVWFzNnRCR0E0ZFJnUktTRVJZdzAvVTRBQjFhdk5rdHQyYmVVdk03Wlp6SVNPdUVGNHkyUHgrSmtsZWlmY0lxVEsxZWpUNnR5WFdnOG9XbklML3Bidk04TWg5WW8wYVlENUMzOTN3cnlNcGhEQkRmVGpxTFN1RDVTV0FITlpjVFJRRW94dDBKdHNIMnpZS1kzQkxQRllpR3FSV3dVUXVLVVgzcnJiZ01NRWk4M2htVE1OdVNMSmVuSGVCd3RkTENEeEorclJtbzVpSmlLQWo2YnBGRGNpSWZjZkc0OTBidUVzblNERlpRc0RTV3pibnMyM2dNOHJ6UlV1ZzFFaERITEUvWEJaR1lhbWIwRzhmOWRiMlZBZzY5WWRTZ1FqT2ZFekd2ZklheVBPcmNrWGZ4SW1leVpsbG5KbkU5dXV2NEZ2V2MxNzAwWlRMRC9keEtwbG5MZlorQ3J4L2p3VytvSW1wK05jQ01YS0RtUlU5VUtRVzhhelN4bFBWUkFFbEpYekdpTWRwVE9tbGtNakxReXNYQk8zcVJuOFdvU25QK0Fyb1hzdnNXaGM4WXpJUVpUOHR4bEJ0dUNLVVp2MkwydnEzVFdnREZNaVUxNit6N2h4ZUZUT25UNGhRZWxrTWcydkYwaTVuRnpiM3huSTBJLzJEaW9ZZVJwL0lsbG52cWRLVjdzWGtvOCtCYlNSbU1TbnpkeGhhLzZUSVJVUjNsRUtsc3lXYXowR21VRXhlb25wUUN4eVdXYVc5YjkxYm5JWk4xL2w5RUh6WXN3bU1WWHM1bitYbHJ6ZzJFTFQ2d0hKT0pvSUVwb1FmbXVGRS9Hd1ZVQ25TNzFhVVZ6RnZKdUlrZEtSd0JYVUJiRDZBdVorL0pqRDh3eEhLcUNHQzdLYWpXazFVT2RxTDE3NEF4cDZqUDR6cEkwTGxYZE9DRnNIWXEvMG1SM2V1Q3F4ZzJ1TVloY0xSOG1HQlBKSHIva0dNbCttZWNjZVdjL1RzRWNRM0dnaUd0di9pamJJS3AwYmh6S2JDWDNHMlVuU1hjUjBNYUpuSG1OY3pzaUt4UmU2clh6QlIzejlIVlIrOU14UVJydkRaTDY4Sk5hZTgzamVmaTllSGJVNWpzL2xBeVZXWlRsTUNQb1JtZW1sTmlEQjUxVmlxdFlvaHdHbmRPMTcvSHJYZ2lRdzNYUnhoUENaVW5yRmMwa0ZoOFN1Tkdsd1hrWnM0OFJseGhTZUdicm84NGswd09nMEVKN2F4TWZOT0tGQkJzRGhBSTRmenlSblV6bGExMVNVNDY3ajN5OHBGZDBFZ1JmV0FScmlTYVhVdkhYanlJRStLWjJXVUUzeTNlazNMRVhkbGFZWFEwUWduSTlhdFNaTTZCNzNSbGxQd0hoWkJoQ3IxeElBKzZ3SkU3Q3p2OCtObHpMWXlqNkdqZ1FUVk4zOTQ4MjJTbWtIZm5VbzFJWU54SlZjMDJsd0xITUtUczRhVTM2cGZ5RWxGZEZnL3BYSnYycGdrTjgvS2xudUpFMFYxdFl1MjR0eHovcXdUazJLbGpTemdSeDE5YncvZXlWcHQzU0dEeFBnd1JSYmdnbUxvZTNMeUxIVHNvVjM4d2lLdzJDQ1QyNVM0Q2Nid0ljVVdBMnRrb2ZKR2daWExTVVoyUnpHalR2ZXU1OFMzOENsOVF3ZWNsU2xwK3hZSFpFZ0dReHp3UHg5SFFlQ0RmQnc3NG45N255eGhSUWZxb2gxa1hqbkZ0dktSRVNadkVZQnZZVHczTCtMeUFqc2FMdUFzc0RHNURFSU5rTmU5dkIwaGx6Q2Zwa1ROQS93OVFzbU5JZnYvNjNUSzVvcGJ3VmhUUDB6ekVkMzdMQmRJaEFkNkpzTGxEcW4rc1d5ZWc2SnIvblJPL1pEZFViNGU5eTZ6YXp1MTFsZUF6Q2hmZ0ltNmhoeU1mL0V5dlBpUHhEQkFuWjJScDE3S1oyeExSKzNoRlM1ZzVrc3I2QWwwMWZkY2hCcnhhT1R0cGJ0ZEttREpqaE1LT2FCODBQSW9QcjVJOVZ6MUtzU2JId3RXV3dXTmp6Y3FOVk5BZ3p3ZnYrV3B1cWhwZUlUeFZpTmtSYWJkU0Jtb1JvUnNQaWpNN0JFVHk0bm9PY2EzQU5nVUZMUUdjS3hiYUpQNnF5TDVlTnhkM2JaUjZoc2M2M0VReWJJbFEzanBqdTErU2lGSjRCTURiK2IwSEpZWXJIWmRTcUY5Rm8zSUtIYTZ1MTlPUG10dmtkQW4zNE5jNURHL1ZnZXoyR2lzREcyci9iOXpmTmtXa2hNRGFpN1NDSFB4U00wUW8vVllPOEZoQ3h1TlJscjRpblowMHNqdVEwZUNNVGJhVkpnTXhZNVRvQVVjdnE2TG5ZeTJaZlZBbXhHWnlRd2h2d0RwNWNPNVRuMnVJL3VlcDViQ09mZnJDWi9vN1FVZnhZTHZHamlFbDRjMjdFTElBV2g0TzRzU0Q0KzRyb1VmU1UyOCt5aWpOTXV1M3Z4Zz09IiwibWFjIjoiNTgwOTZhZTQ2ZmU0ZGYzN2FlNWNiODhhYzVjYjYxZjI4NDVkMDhmMWIzNmQ1MzMyZTk4ODkzNTA1NWQxODUyNiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Brainfuck mode created by Michael Kaminsky https://github.com/mkaminsky11
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object")
+    mod(require("../../lib/codemirror"))
+  else if (typeof define == "function" && define.amd)
+    define(["../../lib/codemirror"], mod)
+  else
+    mod(CodeMirror)
+})(function(CodeMirror) {
+  "use strict"
+  var reserve = "><+-.,[]".split("");
+  /*
+  comments can be either:
+  placed behind lines
+
+        +++    this is a comment
+
+  where reserved characters cannot be used
+  or in a loop
+  [
+    this is ok to use [ ] and stuff
+  ]
+  or preceded by #
+  */
+  CodeMirror.defineMode("brainfuck", function() {
+    return {
+      startState: function() {
+        return {
+          commentLine: false,
+          left: 0,
+          right: 0,
+          commentLoop: false
+        }
+      },
+      token: function(stream, state) {
+        if (stream.eatSpace()) return null
+        if(stream.sol()){
+          state.commentLine = false;
+        }
+        var ch = stream.next().toString();
+        if(reserve.indexOf(ch) !== -1){
+          if(state.commentLine === true){
+            if(stream.eol()){
+              state.commentLine = false;
+            }
+            return "comment";
+          }
+          if(ch === "]" || ch === "["){
+            if(ch === "["){
+              state.left++;
+            }
+            else{
+              state.right++;
+            }
+            return "bracket";
+          }
+          else if(ch === "+" || ch === "-"){
+            return "keyword";
+          }
+          else if(ch === "<" || ch === ">"){
+            return "atom";
+          }
+          else if(ch === "." || ch === ","){
+            return "def";
+          }
+        }
+        else{
+          state.commentLine = true;
+          if(stream.eol()){
+            state.commentLine = false;
+          }
+          return "comment";
+        }
+        if(stream.eol()){
+          state.commentLine = false;
+        }
+      }
+    };
+  });
+CodeMirror.defineMIME("text/x-brainfuck","brainfuck")
+});

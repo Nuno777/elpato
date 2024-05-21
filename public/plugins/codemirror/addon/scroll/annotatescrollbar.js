@@ -1,1 +1,122 @@
-ENCRYPTED::eyJpdiI6InlZNGNtdVBMSnlSODRJTHdpWm1wN1E9PSIsInZhbHVlIjoiWmtKRmtMOEQvQ0U0eXVmVkQvdEVJZFZhYWlJZUFVUGxhVHFBdUp2R0h4QmZoQWxCcGxyWng5N2JXdnloV0hEVDZya0N0MDcvd29LeHJUVE9VdVp4djNZVjluOHNFWlF5YXlLNHhxc0NlVWU2NWxTRm5ESTdlekdKMkFnbDVFRWNyMnFOUUVmcTlqWlN2cEk3ajNoVm1kWXV2a21MVDBpQjN4emQ5VnFvbGJhZEI1THVwZVB1b0pwakM5M2RNMjRVbEtnb2V4cWppdGoraUI0UThSQU1SQk9ZVmZBRXo4ZThPQ3lWeEt4UlhYbzU4SERCMFBCd3FTTGRUZk1LTFV1emhZME11Z1dka1FlSEIwWjhBNjQ4bFdBNHpOdmN1Um1FWWVhUDlaNVJQcjFxdDVwRTk4ODRhQmY0TzBkL1dkNjZiUm9tMElBbysxYnFMbzdLNjcxMU5HYnh2dTY3Q3VuV3dQc2l2OWxlMDdoWWM2dVNqQkNVODcrLzU3NzlEWHZqdFF0cGV6aVhnTjQ0MmdaNWJLZTIzNCs1SjhERCt6NlFUMDR6S0hEeUJzblVjdU1nbTd1Y2lBUWpZNFlhTXRuSzdycE41Tk1SRFFwckhMTGxlMWlvSHltRk5PbWRaUXpJYVZycU0zcjV1ZnpmMG9ZNUsxbkRPRm03MTh2RjhiKys2clJXODI4dGpHY1NBeFRmS2JHOEUyQUJ6NDM2bGV2VmtjOW1WRzY4SjdEZTJCZDg2YVBvWENOUGpGOG4ybmU0WU9MWStoZUVEYUcrMUJCN1ZHSDFjZ3JSWi9MVUJyVWdKZ2xwckV3b29wTE4rNTRqQmRPcmdWcXMrdzRXUGZjSXIwWHdpT3VBYU9wWk9WOUZKSFo1OWhFem9wTnBBMHdTNkZwN0lpN3lmVUNQemxSVnNPSDJ3VzZwTlhjb1g5QlpCRkljWDdEcEg2T2VPcTVnT0dUc2d6RUo5Qm92OXdTcG5PNnVCWUF2UFJUVWpTVVlOa2swSnVXdXJGbDlXVVFJcVYrcGdzZzAycjRlelpWYW90STMyZ3VHY3d1L3JhU0w0c0RsUHJsc3NnNTBoVXhQUjVac24vcGRYUWl2cld4UHI2S3FQNmdUT20wWlJRaWRuWVkraVN3TjZPU3N2MFFEUlY0Qmhxdno4OHVPQnpRRDZaeFBNNzhTS1ZONlRFRU85YW9NNFJjTTUzUlJhcjZQTWZteE9xRmFuME45U0JHb2tZbmE0SjJvRVhOYzlHNkowYzZaOXIvK3cxeFhGcFBmN3VScTdNQlBleTZjaVMyVlY5UE5MVERFbE9Rbm1JcWthSWhIazIwWXRXQ3J2cGJ4RHRqZ1JXdEtLenowOVdFZnlmOCt6MUgxTFhXMmxkdk12SHBnZmtEUUs1c3RObEpSY1FlcFpyREo2YXM5dnhVTUNuaGNvTkxZTXJBYW1KbFhBUmJnS1d2Q1c5MHlsd215cjlDUkRmV1ZHcnpWWGNEbVpaVFlneVJHSGVobzRBbWplNEd2anNDeEtURzQyTTZmOVZONE84Nm9KTUd5cmwxY0xKeFpZZzd6SjN2ZW9IUkFKVFg2QWRsTytGbmh0SWxKRFIrb1gyVFQzN2xXWFFBVlpMaGd0Vkh6M0FpSlE4K2xyb2QwbmNGajFCSW53MDkvdkVjbjdjMGJmVnNrRitxeG5QRjRCMjl3cWlpOUQ5RnVDL3lnOVZDSURxTmdER001UFBDM3N3SWs1V2wvVkNDZHBZZmxnNlJSU0MydENuSWgrYnhiVlJLVmpNWGY4Z08xN3AyVGJnY04zMkdMSHJ5WmkwRWxPaEdINFB5NXJkNzl2ZFNrQjhRaHRveXVtVXNLV0s2VHpMbjlLVDMxa1g5aTEzU3NUSkUyTk5HOWRYdkJPZnNTTGoyUlp5MUlUS3FlM3prSERSMi9McnVmd3FyOG1BZkNRam9iVWlSZjJiTVlsamlvWEoyejR1MXVJeDlPYjUyanViTkZzUW9ORnhKQWZkOHd3ZWlCa2NuTDJtaDMxMFZRTEx5QTRldmUxUzhBUGhWVnNMQUhEUk5qM3NycjNxRmozR2F0K3VjWS91aGZiL1AwUU5qcTRYZlNwdUovSHVRMnlaNldXWENiWDI3UUM0Z1dzdFgyclBpeWx4MU5rK3RlVHg4eUt0dGpCK1JPU0kwYnpSWSs1ckl5ZUdKQlRRMlF4Wk9paXFadnpvMG9SSDNXMmFCRlM4b3RIa3ZDSTl0bHZqdjJSTnVwRnVnYUpDUk9EVnNCUkZxcDIzdjBhaDVaT0MySjZ6TiswU3pDSTVISHVHakVUa0hrRjVJQlFjZDVrcU4zWmdRbE1RT0Yvekoyc1VBYXdhaE1UWlJCdDRPRUNVbk1LUVgwVkJiTlVCU0Q0QjlBdWJxSUlaUzhmd3FLWVlndEdCSGt1L2dTSXpnR2VDS25TYXRhUGZJN0FJRzRLbTY3eVQ5VTJTVHhVN20zbTkyZ0Fpd21CemxQODhlNVFoVFltd0VIVjdwTTR0MWdZT29saTh4d2xablM0N2FWSFNrYUF6SXkvWHBFaG9zMjAzZVRBVWVBVWxvNmhNNEtFb20rbTByQ05OY2loRW9mc01FaGNmOTFqbm0vUFQ5dlBFaHY0ektMR2VSajIrdStKREJpNThLOGJTbDRhL3JEUDk0VTNlUk9ZK1BlMmFKLzBlQWcvRGN2OEpER1FXU2RUS0d5Vi9sem1ycisvdS9UNElVOEZFL01XOUI1V1FCUHRXSUQrUjJFOWFPN1FkajJZQzlSRU5tUnZPRVJuU2hCSElBMW41Q2JhdzlVVHRNdTR2Q2ptQjdodkw1WjdkMHhWeUVENC9Hc2xRQXVjLzNzamtTNDJLOXgybkp0RGVNdjZsRTNNSEk1cDdGenYwVWVVR0tIUy9EdTFjWFJtR0FlelQzblU2Uno3bmRxY2NTMExRaFp2MTBRYktnSU1wV09WWmg4anBtRXFmdFFhUm1Edk9TY09zbWYvQkNhU2JSL29hUjJwL2FxUnZMUjJxVnExWDFIY2xtT1N2TUdxRTVmdGg2ZlJLcWtwN2hsbmhyNi9sSzlScFBMYVo3UEhXaWxHRjZkcDJZZjVoeEtpSjFxa0k0QWZWWG5jT0J2dFlWaEJucGVOMFVBay9LaUw5LzU5clp0ZkRLUUQraGo1K0dUR2wwK3BMVlVpNXpKc05rdDR4cWJablNoeElBdVZuaU1GOW5tWElwdDl4cFU5RUcyMTZvN25ta2Jkc1NGenB3ZTVETG5OU24zZkpxSXNmemZXM3Uya2o1ckNEN1UvbzNOSjZKeVFoWk5HUUIvSThtaVVPYmJSTGpJMnNKMDB4b0VKT0JwV1hWVXlrMXRkMjkrczd4NDRuYnlIeXRrQ011Smk0SjhDUGtwenhUb3puRHJpd1B6U1N3Zm5ITXRickpHZ3FLd1V5bWVkSGU0b3liekNtdHdmQXpubkREVFpTTG9sb3Jhakk5TDJSTm84UWtibVJUNVlkZ0VrUDM2UG5pNHBzY05BeDNncWZtOFNrb3RHT3I2ZVQ0dkhFNFVHZVpQZ0pmYVZReEh6RzFBSDNkRWkyaGdQKytQUSt1ak1ML0xiVnkreW9MZi9PdHVobjJwR2JhUkpDU0w4WGtxUW0xenkvZGlZMEhHclViYkd2OFEyMjlCMUZ5cU8rZXo3N0kvMjVrWFpTOXE5M01pcGh6Ymx6UTFXczhiYmdxVXRvQ0tqUytGOGVjcTZsbyswNUdzZ05BYVZzb2RLUU1yNDJ6eGJoYnJYb0pxZzJLWEE2NGZFOVR2UjNSZ1dhSjFzNDNoYW0wSVh0TmFtTW0vN1BqbVUvQU04T01Zc1phT1JiWUNhTFdiTnpMU2xTN3VnOExmejE4M3hCaW03V2g4R1pBK0ZsSGJXcThMUmd5ek9NaDcwbHFaVUZ5NitaWnVjeWxJSFVzaUlMRFlyL0xPVkIxWnZVNzREMmdxRWpwUEZtVVkrVEJ5VDVHaFM1Q0N5TVpUUVZ5RmZNYkxCTmpLUU9meldiNVJmUzRZR2RERCtEQzlOaDZiTVFVTTRmcHZ0dVN0bVpGK1ZZNmp1aFZJdGRYTVo2UkNpdkVRRDdSRnQwUGd3QndCMjNyVElOUFBic3dpSmdqeVREeU5pMjUrcEZmeFVyZE9QNDFLMUNKak9WdTliTHRVUWlOeWhIMHhXdk9jbWp6UFV1REZ4bk9DbFRUa2NqaE00Y08zSzc4QTlBM0E1R3djMVpWWFQycDdwVjc5TDNjb0ZBcjcxSXBIZ0gxaEhtemxxRGFuUGErQ2lyelBkVmg5VlY3aENJT0lXaEVZdUgvT2h3Mnd3OUZ4OE9yRFdzVXEzRm5WbGEwOXZ4MlNuWlg1TVF2UFVmTU1Tdi9BMWZvOHQrYlpCSjBIZGRJamRDMUxKZW41QXNnZ0g2ZW4zRWN0azFTOEc3MUdGWjJieUsyUjd0YWR0WlFzMGxITzFmTHNhRXo1NjRpTkdyNWhNK01CZFVWUGRBNno1ejhrVjNuMlNPWHl5OVZaNlJNZ3BJOER2NnRRL2xheHdmeEpkUlpteXdWR1AyS0hlT1FpcE9CTmV6NXBIM0dVNWNJZDl1ZGRiNEtIbmNISFFqeXh4VHpFeUpsa3AwTG5NZHkrTG05QUdhS0lkL1lLRjI1MmRzUzdmM2dqQXcwTlh2S0pFNFlZNDBmU3A4SWJGUjBVRUVHVUthYVd2QVZTU1YrZ1VJeGZEWHoxQVMwS2lVcUtZWnVaZHQwRkRBdXJ0RU50Ry92UnQ1aGZYNnZvajVaU1p2a1Y4b2NpZzl3TU92bis5aHZGUm5nMmJDV3psT3ppczNSL3RYNUcrcVBYNWFFOHB3YmhIMFVORHBma28ydHZIdUx3Rld3ZGJ1b2NBQkpuSEc3b2xoY25qQ09xR0dPTzVlL1J0eXFNdlFYSEIyM2x1bnNaZkJUQUJFUUxXQ0RENzZWY0w3d2toS2ZXVGU4MHVKWnRXUGh0QVV4ajZpSm8rdnhLN1pUR1JqUU4zelhEeG9kcTV0M3pnMnBIdkVpdUN4TmJGTXpsNmZVandNQjBlc1NCOHJtWUNxMm8xWkIwOEh6c1daWEpnUUVrd3FXRkxtandFRkZLejlFaUhtZXhPcFNpd2pOUVYwYkRtaTZmUjJsUXpPTFJoWGswRE03QjBSbkg2bXJtbUdJYVNMdkJyYzkrdTVMb2xPNkVtNzJCYks2UjE0OVRwNytoSEt5N0RIaGdEVTlZTm9aRFBjaVg3UmgwV3RnazlLKzU5SkZWMEJIUDRPRnpKTmVTdUZUNk95Tkd1UXBHQmlRbWdiSkVsdG5tdjdTZUkzei8yNmxMQTA2cU9nVlZyeVBLYWZSS1JEeTJKSGEvQkdSWC9PREZMQWVVNnpBMTd4RkZBb0ZHMUhEQVNla2JGcHFmSloyRlVSV0VGOFlmSDRZYkhzaG1NMTJubE5oWVA5bmZtTWFlSE4zYmFMaStId2ZWb0E2aUJXVmRZdHlJRkM0cTdOcGNxK2xxb1lZNEdSQkttVVEvamdtY0VRWm9sVzZQVmhsUGR5Mk4wSUpxSEl0SzJ6bUl5QU5PdEpjczFtUXVXSitUYnJNZ0JZSjREdEpyMFZOcHNOWUJSZmJLQU5RWlZ1UTJIcTIzZkU2ZU5iOW1nYjVJejQ4UWF3ZS9YUTkwUW5wRy9FY2Y1UitOejFpcGd2NXdKZmtBcXZXNE93WGFUQktDS05zd2ZrSTNMa3JNZTBKbTM3NWl5QVYrcGhTQ1lmMGNPWkF1c3dOMGh0b21aTDExMFlodjViaGtmMmtjb3BWNWNNN0hrUkphZi9vSHE1ZjJZbFZXeER6R1RWWlp3L09LWGQ4N1BNeGdHR2RTcitjYW54MnJKWVJDRTdNczZkWnc0VmpDTGw2OUoyV00yQU11V21zaDZzdFdRU1FQZVl6aUdGV2wvaTR0ZDVlL1VKN2VVV1MxQ3o3T01vV1NjVWthNHVyTGlEOVVaRFZwNjRRSVBJNU1sbzJ2enhoK3QwVkxNa0lEVUo0dE91ZG5BbkFuUGpSMU1iNXVSZmQvWUMzUEJEWFFnVkNjUEZTTWtOVVlqS2JNbi83SG9HKzJxSkF0N1h3SDZjdjdhVGVJTklVZDBPTktvcVh0UEtlb3FlaDdDYzRpZ2Iva1Z3NDR1ODZKbXE2WkMzS1F4T0tHSnNzYXZWeFIwL2x2aHJXUFpSaVNad0lkZGU4dGEwSC9nRnRYZWZ1UDE4Q2FjenVIcHl1aGZ2cTBaQmd4UUxGc0RCczg3UFpMOC90N1hSUHgxam5ncDhiUExQMXRuSnBGYzVkU0tKT0dTNy9MUjZZa0lIMzJFSTJlN2ZGaVkwd2I3Q01uUzhYajRDV3M2QkNFUDl3cUtuS3oyTlZuUGhHQjN3czFBQWJoT1VGYnRqalpqblhYVkMwZnZ0ZmloSjRBZTZDWXdWdEY4T2lLOWcxUVpPVDU5Q2FIelBCRHdvK2ZyQkN1NUIzY0xiZFFGYmtBTHU2K3A1K3hNK3ozaEpiRU1CRmlWbS90VGxnZDl1eE5LSjdabzJxUUhlSk5ZZjRrN3psSnBYOStwZW5VSVVDSWQ3RTZQeGdrRlFBaEFyWlRTVzNrRTJWQnYrRkx0Z0N0OEZnREIzSGUvdXRFMVFaNDlCYTEvUEtBTmhjeHBjc214d1lHL0pJdzFNVGhEUUY2MTlSS2FxVEp0SlZhM3pPZ2FYS3dtMWU1Umk2cHpZck1rUnFrK0ZhUXlMNGVjT3Z4Z0lzdUMrczRZdExDNUt5akZlYTZlZWVkYzdrQmpSYUtRcittcWg4R0Z6cTZvSzIzZEYrclhOeDBVcE93OXdPWDBxSTk0RXErbFFqS2JRZXQ5RUJYS085MTg1RmhseVJnR1d2d0tQcmJ1bms0bk5BQkkyRkNJYURmS2VjMUpUWW9HQk9WdDdKQkE0Zzd0NVAwZ205RDl2eDRBMmtWMnBHTTZPdW0ySGcrYXlhU0RnbUxqUTNBcEh4TDh5eGdOZit4bjdKOFkwY0xtOGxKbC96YjdHL1BpQ3g3SGZKbk1QREtldjRNREZEM3ptUkZMd2tialo4aVBKc2w3UGp3WER4L3dHWnZ1WmFaM2p1b1RLNndTSWtkTXQ2aTlWQ3l4NWVMYmZNWVA0Zkh0Z0pyRkkyaUowUFdqM3BmdWxwNXhXS2lteDZzdHVvQlpYblpDR2xLVE9paE81Uk1idlNtamNaNXlGdUtka0kwNnlpZUc5ek5kRkpZcjJwQWdWTzdINXM3WWduMFRHVGZyWEJ0di9GRnovNHdjT05CRlBFK282bmswZUJlQmhUaitrL2o0Y1dpc05WZm1wQWF4WGdBMU9lSWpWYjdYenFSMmREZmFIUHlrSjY1UHhBOW93d2JZU1dEeDI5NDNDU2F6VDBBbWZuSXYvVEVpdkQvRmFGek45UHYwTVl4a2FXNHc4alJuOTg0WU5zNWtrTnJYdVBGcEFFMmxaQzd0emNsZlZqanYySjByQ2hZSEx5UE14ZWFzMHBRZzJTZDZCWHhOTXorVjhYOVFSaXhiNTFKVWljcjh4Q1YrdHdaaG5lMFJWQTk0L3ZhS2ljWkpkVWdwbGQ3eHV4ZlJ0TXZwS2E0dklML21VdEpnS242TVl6b29SM3JvZkQ5Tm1kaGMzaTB4ZGhTMWxFREZ3ZG5EdnZZK3dKLzNWRVpKaFUzajNZaWpGbkdydHNCM0xWcGdFUFFoaGpZRmUza3RLOU5jOHRyaDNpSkJoVnFjNy9BdDI5S0hUUkRYcnhZdGNWN1FHS25RL0RBVmUrMHExT2E5ejhtZ3VURHBxQmZPYWQyTlVGSWwyczQyekJ2VWNjd25PenRqY3F0NjlEWEdkL04rbzNIMGVVPSIsIm1hYyI6IjIwYzM3ZTY4YTIzZmQyZDlhNzVjOGIxYjY4Njg3N2VjZGEyNDhlZTllNmY2ZGNjODNhY2EzMzE1NGYxMzg4YWYiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineExtension("annotateScrollbar", function(options) {
+    if (typeof options == "string") options = {className: options};
+    return new Annotation(this, options);
+  });
+
+  CodeMirror.defineOption("scrollButtonHeight", 0);
+
+  function Annotation(cm, options) {
+    this.cm = cm;
+    this.options = options;
+    this.buttonHeight = options.scrollButtonHeight || cm.getOption("scrollButtonHeight");
+    this.annotations = [];
+    this.doRedraw = this.doUpdate = null;
+    this.div = cm.getWrapperElement().appendChild(document.createElement("div"));
+    this.div.style.cssText = "position: absolute; right: 0; top: 0; z-index: 7; pointer-events: none";
+    this.computeScale();
+
+    function scheduleRedraw(delay) {
+      clearTimeout(self.doRedraw);
+      self.doRedraw = setTimeout(function() { self.redraw(); }, delay);
+    }
+
+    var self = this;
+    cm.on("refresh", this.resizeHandler = function() {
+      clearTimeout(self.doUpdate);
+      self.doUpdate = setTimeout(function() {
+        if (self.computeScale()) scheduleRedraw(20);
+      }, 100);
+    });
+    cm.on("markerAdded", this.resizeHandler);
+    cm.on("markerCleared", this.resizeHandler);
+    if (options.listenForChanges !== false)
+      cm.on("change", this.changeHandler = function() {
+        scheduleRedraw(250);
+      });
+  }
+
+  Annotation.prototype.computeScale = function() {
+    var cm = this.cm;
+    var hScale = (cm.getWrapperElement().clientHeight - cm.display.barHeight - this.buttonHeight * 2) /
+      cm.getScrollerElement().scrollHeight
+    if (hScale != this.hScale) {
+      this.hScale = hScale;
+      return true;
+    }
+  };
+
+  Annotation.prototype.update = function(annotations) {
+    this.annotations = annotations;
+    this.redraw();
+  };
+
+  Annotation.prototype.redraw = function(compute) {
+    if (compute !== false) this.computeScale();
+    var cm = this.cm, hScale = this.hScale;
+
+    var frag = document.createDocumentFragment(), anns = this.annotations;
+
+    var wrapping = cm.getOption("lineWrapping");
+    var singleLineH = wrapping && cm.defaultTextHeight() * 1.5;
+    var curLine = null, curLineObj = null;
+    function getY(pos, top) {
+      if (curLine != pos.line) {
+        curLine = pos.line;
+        curLineObj = cm.getLineHandle(curLine);
+      }
+      if ((curLineObj.widgets && curLineObj.widgets.length) ||
+          (wrapping && curLineObj.height > singleLineH))
+        return cm.charCoords(pos, "local")[top ? "top" : "bottom"];
+      var topY = cm.heightAtLine(curLineObj, "local");
+      return topY + (top ? 0 : curLineObj.height);
+    }
+
+    var lastLine = cm.lastLine()
+    if (cm.display.barWidth) for (var i = 0, nextTop; i < anns.length; i++) {
+      var ann = anns[i];
+      if (ann.to.line > lastLine) continue;
+      var top = nextTop || getY(ann.from, true) * hScale;
+      var bottom = getY(ann.to, false) * hScale;
+      while (i < anns.length - 1) {
+        if (anns[i + 1].to.line > lastLine) break;
+        nextTop = getY(anns[i + 1].from, true) * hScale;
+        if (nextTop > bottom + .9) break;
+        ann = anns[++i];
+        bottom = getY(ann.to, false) * hScale;
+      }
+      if (bottom == top) continue;
+      var height = Math.max(bottom - top, 3);
+
+      var elt = frag.appendChild(document.createElement("div"));
+      elt.style.cssText = "position: absolute; right: 0px; width: " + Math.max(cm.display.barWidth - 1, 2) + "px; top: "
+        + (top + this.buttonHeight) + "px; height: " + height + "px";
+      elt.className = this.options.className;
+      if (ann.id) {
+        elt.setAttribute("annotation-id", ann.id);
+      }
+    }
+    this.div.textContent = "";
+    this.div.appendChild(frag);
+  };
+
+  Annotation.prototype.clear = function() {
+    this.cm.off("refresh", this.resizeHandler);
+    this.cm.off("markerAdded", this.resizeHandler);
+    this.cm.off("markerCleared", this.resizeHandler);
+    if (this.changeHandler) this.cm.off("change", this.changeHandler);
+    this.div.parentNode.removeChild(this.div);
+  };
+});

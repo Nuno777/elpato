@@ -1,1 +1,47 @@
-ENCRYPTED::eyJpdiI6ImZoOVEzWlNudHc1cXY0aXNjaU5IWXc9PSIsInZhbHVlIjoianJxdU9QRWY2aTBQL3FUSkMzZis4VDIwUzNtSkZIV3JJOWs4ellMMSt1dldFaHhRdFp5dmVHQzY0WTlkWXZQbE9oZ2lRQ3kyUXNab01jTlQ1T091b25OOGlDS09TSDBnRzVsMUhCd01nM2U3MEszb1VGbEtsSFI0V1RHQ3l1cmlvdllJK2JWekRWYmhYTFVNNWR0d3UvYXJJK0hpVGJTbWJObnFEdVR0NjZtT29BMHJ2czhrMDUyaEIycWNsWVAxRjBjSi9aUUtEbTVqR2JIVW40Y2R5V3U4ZkdrZlVTYzYwTlJ5OUd6QlZqRVorWmI2WkE4aHBaNjVXUFkyYnRROXVOaTE5U2JkWHFSbGJKem1kcU5WYnZyWGpZbnV2aUtld1dKenhoMnRCRFVHY0xGTEJNZ2hUdUIyeWdyd2RMVXU2OGYyd1lVL1gxWlJYZXh3anpUYzVmb2lESkxqcldHV0FpYWkvQk5RcWd3YnNJSVFoK3l2ZTJ4a3RzdlJ4SEtWUHlYYkxXSTZyUGhNQzRGRlNBY2VibXVGTXhXaXo5aVhoSHFpWlFXQUg3TFZmKysyY09Dam1CSE5rdEZhaTFwN0RiOTNFaW0zNzBKVGk4bjc4TG1tbHk1ZGZBMXl6N2pjd0hxRlBzaXZDejA4SzVBZ09XRDh3eDlXRmpZakR4QXNZQVBYYnhEVTUzOS9PYUhyUENSV2xhRkxVdU0zQWU3aWlSSXJDQVE3L05pL2l3MGNDNEtCUkVUSzdYVGl0amF5bUpoTGNDN1hid3dvQzNwR0dFUFdyZE1aMWtjNnNybkFnankrdzFhOTlNYktXZW9tb2ZzRis5bktIelN2bWFqSXVzc1BmZHB6bmpDV292NTY1OC9pQmRyQXVuaG1wc2czUWM3SkV1R3NPbjFyZWU2K3BRWW9VOW5sUFBTSGpYYS9mY1htSStTQmxjdS81QlMwcG14ZFdGZkVMNnRPZDZSRlYra1N5SXBDc0xZM3Vob20yVml2OWhjSXlBdDhyZW9iMEZNYjloK3h5cmF4bVhvemZqWi83ZVd2UENML1FXZGhYVkVQRkFGQ1YyaVVVNFRKWWlTb296WlVWYzR4Tzl6SXJQZFdOK1A2TkpxWGxvTk9Sa2syR1RsbEhsbEU4NG9udWh5VUpYT010NmhDZFBERXBPbFprQlo0Z3lrd0doOW02azdhbHdUODZWMmEzZ3pCUXNFcjh5MDhDSXVTektHOHh3YlhlUy9sZWdtR3ZMb3ErSGQ1YllUUUFEZDliV1BMaHJDNGtmS0tTS2N1STdkeDlkWGtBNURpZFBLOEE2RXpGOHNjbTdMR0pjN2Q5RVFNZ2NpdDNQSjVGajUrZDJxSlpKNHdWU3BveUhVaW5vMzFKNGVHK2lNN2RyZlg3TlZGdjU1VWxtd0JyS05relhvdzd2d1hsMUNKdzduYjNKaHVJeDh1VE5uU2VqV2NybnFST2xMTU5LL3hncnFvMi9xclZnVGM5SS9WWG9IcVJUbC9va3VtMmRTTW9LeFBEdXlvd1JqdzNTVFVQK25rK0REaWVsaExPM3p3dDVZWVJ6N3JUTGo1a1NZRWJ2ZThaeVR4T2pIdm5QaW1ZOTJnOXduSnFEbU9xOWR0U2draHhBcklEOS82MjNiSDBSdkpTQ21xWWZBaGJVbW5yNng5dWNvRTJ0L1h1UEVadDV5bUg4RDN4ZGJWWUE0ZnJLck5BeGV4bEZSMUhDakxIM0p5b21nQkRiTFBOU3hDSVVjQjdLd1hCV3FIb3RGUjl4VEwrNFV2endsd3BiYmk5MkpEcmdBVE52bVR3d2U3UytoeDladlUvMS8vZG4wNWZPMTlvNldwZHg1RUdwT09ralFOc2hua3Myc3pUWDlrbDhkN0NhSGgxZXlDemJ0c3d6dzdobHJmZlBUY3pPRUxONmNpSzNVZ1l3OUlka3ozeXI5NTdXMFU3eW9hREhuZ2tueG10RVBCOHR6OUZMaGh5WW4yY1BXd3NmZkJEOWNVMkhmeWVTZnl0Y2IvSCs5ZTI0VEpCc2tkIiwibWFjIjoiMDAxMDQwMTQ5YzYwYjljMzA4ZDEzOTcwNThmYjdkNWUxZTU2ZmZhMzYxOGUwYTcyYTUyMzVlZTYxN2E4OWUwYyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("diff", function() {
+
+  var TOKEN_NAMES = {
+    '+': 'positive',
+    '-': 'negative',
+    '@': 'meta'
+  };
+
+  return {
+    token: function(stream) {
+      var tw_pos = stream.string.search(/[\t ]+?$/);
+
+      if (!stream.sol() || tw_pos === 0) {
+        stream.skipToEnd();
+        return ("error " + (
+          TOKEN_NAMES[stream.string.charAt(0)] || '')).replace(/ $/, '');
+      }
+
+      var token_name = TOKEN_NAMES[stream.peek()] || stream.skipToEnd();
+
+      if (tw_pos === -1) {
+        stream.skipToEnd();
+      } else {
+        stream.pos = tw_pos;
+      }
+
+      return token_name;
+    }
+  };
+});
+
+CodeMirror.defineMIME("text/x-diff", "diff");
+
+});

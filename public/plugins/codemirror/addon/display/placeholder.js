@@ -1,1 +1,63 @@
-ENCRYPTED::eyJpdiI6ImhsZFNuWS94RnBNMFZwMW0yay84ZFE9PSIsInZhbHVlIjoiNFJyN3JPZDZRdWlxVHU3U0tuc0UrOSt2YzY5OHg5NE9MdkdzdGZTZlZRbzBrNWQxdHlqSUV0K1pwcFRQVUs5U21IbytnTzV6Y1VFUVQzN3BKVjlWZFgvQk9QSWJoc21JZE5TN2g0bXFKWFBCY0Nhak84ZWZScU1nWm9GVERlZUU5dzVFaXYyRVVjY2wwdFJuaCs2elAveXVSWnhuSWxSQlAvSURtNVlLR0VkcHJpYzNTdURLakRzOW9CcFBoN3o4UDcvRk5yNFhRNExJV1B3c0hXZEFOMHdrNEEwemV2NjZBM2QzOXpjcVdBZHptOUd1V0dRaEFhWjByV3gxeldGTmdwbi9iREpJaWhBenJxTVRpSzFySDNkSWRxeUpNdHdWUjBuZWNjY3daM21QOTM1RlpFeVhpcHBnRllyeWtnRUFCNGJpUTZtZ2NPQ21USm8wK3JyQmw2a0N1S1p0REx4bUIrUDY3dDhJOTFLTVUxSDVqSE12Vm1vd1p0UlF3UlpmeFFSejdsSnRQY0xZdFJSVlZoMENtMG1UNGJiWGN6TUNQQ3hRaEdDTGgvUHQ4OHZ5NzB6OGlmWkVmZVFIMHFNTWJYcmE0TXN1Nld0MWMvdmtGSjdjTWMrcUFWRzErdEliYVJkek5RV3Vrd0NHS1NraFdjaDc0V2w1VmdHMUVlaGVwSGxhb1gycHREK3FES0paMTdSWVRCaDFQS01oRlp2YW05OVpmYUJacGNwVEFSRi8reGYzMFh0NTMwaEZxQzRLNG5TeUJWZXYwMWozRjZUb0l1L3FyVFlDTzZPVzk2TzMrNjdxeUlnWXNRNnZndTg0VmIzanJ5cnlScmQ4eXhOTnF6WkNxS2FKOGpVRlVSdTlqcmhDUjFlOTdVaUN0WDRMSENtN2V0RmhYL1lDYmhKdzVrclN6bmRSVnJFMmhiN2J6TjFjUHlKUWFtUnl6L2FtVUpQYmg2SmVmbTc2ZmRQdTMyZEV5U1BNZmdaOFlSanIybWp6RkxlM1Ewbmt4c01aVkRDajJBdFh4QUJaeVA0RkxmcjY2ZWVOVDlxdHl6ZEdmMHl1WExQTFNJRUpidCtyUWNBbUVVM1NCZGI3WXRMa3NxQmFCYWUxd0pWa2dLWlYxU05TY1AvQ2NaYVFuazFzUVVxejl4cVpQbElDTE5FeW1SeWs1OEJNc0hIMlM2RWU3SjNTakV1RWdGREY5Y2p4RTJJUFB2K0svWmVMcmtBSUFpb2dUVmNYT2NEOHdwNUZtYVVGajM2T0hHNTl0eXpaV1JhcjhlNHJaUWpWcWU0RFlvakttOFNtamV6NjlnRHhQb1k1WkFYRmFYRmxOZEFjUVM1a1kyeEJrMnRMaGFsWGZ3SzBJOGtjV2pRM1J6aS9pTk9PSm1vNVE4TlVTUnBpeHVESlFzUjRHdDZVdnAwMFl4NVNqMTRyOUtvNlBiWHVWdjJsYkF2Y1hCdHVabkdFSXFBalgzMmFKMjkrdkJ3MnduVmpTZS9Hb2trYnlMOGJZN2oxQWxBekNibEdOYWVoVXVKMm1XNUpMcG1JVmNIZVB0bDRrTDE0RzI0T3MzdnhtMHVVSitzb0QxbXFTYkQzWTlidm1YQTlZdWZMNWNrNnQya2I3RVM1clYxSUI2aEg3cTFJV2liZVRZcVRtcHY5Q2tRdVByUHFWZGI0WFhNUTM0bElYb253bTJqNmZoem0rSnFQcHJnMkdlcjV2RjZWa3dhdGVpa1I3dmoyTXYwaU9GV1ZxNlJYTzhmUVAweDJLYVJabGt5U1NScWMyTnZKRjk0cDArTXFrUUhFVmRHSEZMZ09jaDhJNVhHNHZFTUJnTTgvTlZXLzhzWklXTm9xeXdtei9aM1RJY01aRE5zaG13WlA3WE5xNlBnY0FIR08yN3gvZDRMZ0RpeDdGNEw4Y1p4TXlFQ01UTDBCajlXZjMwL2RsRlhqQitZNklDNnB1TGhtZWZkd2xob2g5ZU5oWFM2eG9RMXJ5N01GOVNkUlY1ZnJtbGJ1aytOdHNlc0dLRDQ2THJMQ3R4S2o1K0IxcGRESTV1RERzcU1tckZyMzhUZVRVOUk4Sm9OY3U1a3dnNVZ4bUVIcllueW9OSmY2eFZyWDI4MkRvb2UvUklTVWZSanpkWUMxY0NweXVRdnd1SFlmM2Voa2dkMHpRbGNiZjRMNjNqbExpR0ZVVXRXUmtMMDdNdGpiWklKYmMxVHRoano2ZnZWTGpyUEdSRjFsVGtWNm1XbHpyUEIyb29rYVVvUVM0QmR2eHk0WjRmWnNWZkZiMDZWSmR6UC9aZW56dmlmRnhoVi94Tjd6bG1ZeXNxUi93ZDFRZkZ1dlRpUW94R0xSYmpDd2NFa0d1Ly9PZHFMSnpxaUdvV3pOU0R0cHZxbVdpSXZ2YnFUNTg4SzkxRzJtVDBZYXdMV3dXVHFYeCt1MGh6RG1aYU1BTHd6aThjMVE1d21URURTYitBZEszRVJXeGYwSk5JU3dVZHF6blBzNVhwNXhYcnFRN1lrS2FaNDVhNngyemt5WUJhak82Tkp3VngyRVIwUVF6SXNiOFNnYy9nUTFRRUFkcDMvT2EzbG9iNm9ZeEFXaDVoYzVaUWdtODU0NHgrNFgvc29Ic3FBd0x0NFEvQ29PeUR0RzBkSjdtQmlRSzN2ck5nY2l6MUttREdyWlZkMTVmWEpzWWdRUU5zWUp4OFJYc0xaNElqSHIvOERFTU41clNNODRVUm1NdVBmRmM1TFBhQi9ndlhLU0EzaE05V2F5T1dVTmo5TFZNaU5WdVloTWkvUmZRUTcyeERycHBpUDJVUnFCQWR5enB3U2xPbjFxcE5YZ0lrYmNwdzlsZGVCQ2d1VWYrbEk2eEU0S0ZwZTZwU21iVjBCSlhLL1RkMVVKNmdaRy9YZXBXbmdyWVRTZWZDL0NXWmkxNjB2QW9Jc2lXbCsxdEZaOGFjVTdhQUhzejRFYi9iNzlYUk5CRzlaMkJsY3JKRTZXSFVwRHMwTWdYVlFsSDF4MTBob1Z1eVl5TFBNUG1iT0hTOGJTRTIwQXplamppdURVbFB1MWt0TWVvcGEza0lkMzhYQkxmY3oxZmpONnhZdGhUN20zOXBnNTkyK1JQdnducEgyMERxbVlQMnZ5WW1CUzhEL0NIakM4NWRnMTljaFhvaXcwVlFrVXQ1aDRNTzdZMmgzS0Z2WjVYQy9QNUV6TTdrbVNGcXo3Nmw2cU1PcDhxeU55ZHArSVYvNEhlc0JiWUtDTVVxR3F5RkhhS0RuQVJhaWRrK0p0WnhaZFM0aDBVRE10OWFpVHdxZE9uTGUwSTE4MW90V2lHVFIxNGx1MDBlVGQzek82WTNvM3owcS8ycTk4MWxQMEVVVHIxVitSN1Nlblk4MlZxU0ZnTllyNXlNMXNKUGJ3ejdCVFRPa1VVNmxaRzdzUXZSMGtZWHd5MGNORUwyYldiRjNkd3JHUWJuRjZ3SDlTL0R0bUlsSGdwMW9sNEEzU1ZTZi9tZHdHMndoVEYzdG83djRQdS9HNUlkUTRDR2hNSzJzT3c5WVRVZlE5Uno3eDA4aVp4bTV2Z2lTOW93aHhHdzg2QmVUK09BWUM2Mk84L2ZlSXRsT1N6dWYxYzNGWnBCRFVINGxtMnlDbnJMbE9ITjJKWE9vcVNVdjNSa1NVRVFJY3FWeHZrODNvYmZackd2bVlCWEduQ0N1VHUwVFh2VStPNEZqZ0NvR1FPVkhnQ0tyNFdSZlN2VXhVdUdJQ29DTEJlRFpiRHQzaVFhTWR5OE5HMXlPWVlKc3phREc5Rmg5VXJvY3lOOGhYbkg0Z0R2WVd4SzRKdHVvZ0tOKzBpSDc1ZytVdUhVckFLc1AyRjdRdWZmUnpYTmx1emowR3IyVGtweGpzK3ZlWENJYVRsVkZFdVJqcyt1S29LNXZiQ2FFMiIsIm1hYyI6IjRmNmM2MDgyNmViMjUwZWE0Y2NmODVhNWM4ZmQyNjg1ZTI3Y2RmNTlmM2Y2ZTQxYWNlMWMxYzZhYTZlZTNiODAiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  CodeMirror.defineOption("placeholder", "", function(cm, val, old) {
+    var prev = old && old != CodeMirror.Init;
+    if (val && !prev) {
+      cm.on("blur", onBlur);
+      cm.on("change", onChange);
+      cm.on("swapDoc", onChange);
+      onChange(cm);
+    } else if (!val && prev) {
+      cm.off("blur", onBlur);
+      cm.off("change", onChange);
+      cm.off("swapDoc", onChange);
+      clearPlaceholder(cm);
+      var wrapper = cm.getWrapperElement();
+      wrapper.className = wrapper.className.replace(" CodeMirror-empty", "");
+    }
+
+    if (val && !cm.hasFocus()) onBlur(cm);
+  });
+
+  function clearPlaceholder(cm) {
+    if (cm.state.placeholder) {
+      cm.state.placeholder.parentNode.removeChild(cm.state.placeholder);
+      cm.state.placeholder = null;
+    }
+  }
+  function setPlaceholder(cm) {
+    clearPlaceholder(cm);
+    var elt = cm.state.placeholder = document.createElement("pre");
+    elt.style.cssText = "height: 0; overflow: visible";
+    elt.style.direction = cm.getOption("direction");
+    elt.className = "CodeMirror-placeholder";
+    var placeHolder = cm.getOption("placeholder")
+    if (typeof placeHolder == "string") placeHolder = document.createTextNode(placeHolder)
+    elt.appendChild(placeHolder)
+    cm.display.lineSpace.insertBefore(elt, cm.display.lineSpace.firstChild);
+  }
+
+  function onBlur(cm) {
+    if (isEmpty(cm)) setPlaceholder(cm);
+  }
+  function onChange(cm) {
+    var wrapper = cm.getWrapperElement(), empty = isEmpty(cm);
+    wrapper.className = wrapper.className.replace(" CodeMirror-empty", "") + (empty ? " CodeMirror-empty" : "");
+
+    if (empty) setPlaceholder(cm);
+    else clearPlaceholder(cm);
+  }
+
+  function isEmpty(cm) {
+    return (cm.lineCount() === 1) && (cm.getLine(0) === "");
+  }
+});

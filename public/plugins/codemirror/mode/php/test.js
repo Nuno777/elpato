@@ -1,1 +1,154 @@
-ENCRYPTED::eyJpdiI6ImhsY2hXamJ4alhlVkVrb3MzYWd5VXc9PSIsInZhbHVlIjoiaG9tay9XWUJoMVFKWVBBYVVBU3BoVWwwVzNoUW1pMTNwbXd4Qm5aV0lFNktaRTRqOEFGbWJEYUtGVlhlQ0dBVDdDa3JUb28yRldSN3k4aEZ4eUh2TEthU2poSlY5RnVWRnNiZGRzcStyUmJTT2I3ZzZWNDJpSHFrTHoyTnhJNmE1Wnk2WFc2TEJLMWptbGs4cldZVC9MaFNiWFRHYXdSbUhCcURYbnNkbTI3blFsd0FETEVIWXlFMTlFWUp0WStBbWZValdCWE5LQm12bnpvN2I3UDkxVWdFendDRGsrQXpoVzFpck12SnM1SHhtYXJPRE9Jb3BXMU9haWoyeVNNY0xiNWRMQ2ZtS3lGUlFZNlVoczNiVlhKNDZrQ3M5OHgxSlFxYmlJL1dKeWZCY3M4UFVCa1dKUVArc3FxZ0JZTTUrb3VDTm1hS09RY20wa0JkUC9kMnB6R252OW41ZXBXK29XdWNtcFdoa3dKVTVUc2t2TXhMQ1RTaDIvZ0tkQU9KVTN6aVZWbUZKSjdBQnF5TTFrdkxuNHFUZE9BMDhTUDZyTmdQK1FISmo1WDFUeThiODQ5TXZDMEZ3Wk5kd0pkMzBoQ3lib1cxMmZtTG9pTW1WdlZkeDVwSmpXQUhLS1JGTk4yY3NUNkJXVzFINXlGeWdBOGd3UDlBUm0rNWNZd3VSYXVkbEppM2s1aU1XejBvdklLSkUwRjJZWjAyUmtONWRXU2NvYXdEWThHUlcvdUsvSUNYSHhJd3Z2Q0tYT2Q2S3NqNnhsRDErRm9JOWFVY2drWEVhR2Q4b1FkdGdqTGp1enFrNnNXbk8wLzVCWCtNWVR4SGZYejJQYlZNQlJYZ05oZHNOWXhvN2RaWE9IaUFIUUV4bHdVT3UvS29aVitCZEZDM3ZZWjB3aFY4aGtNR2pzOExONy8ycnVONkxzQmRyRTA2MU00Y3hDQTJUVlJYcUtIeG93bE9FaUJjUk0wVERlSG1mZ1BONDIwQUc0bWkwbzB5Y1ByMDEvclU5a0tWVGx4Y1pkTmF6aWg2bFVyaFoya0FJYkxJaWxMOHhHd3VyUGp4dExUMm5wd2oxSS9aZWVDK2s2blBRUjFranZXem5vNE5ySjF4TU1yMkh2Vk4zTzUwSUNjekNYdVhZYmFhUTd0ejdMU0lXOEtYMWQ1bVJCZVJRUHRNQ3g3T1VvNm1waDk5OVNzZDRwclFWNGNFM0M5eHpMWEdmWjVhSHlWR04wY05HK2FEcmVUUWJaMEJ0YzlhSjdvZEp2eVhpSHlXZElkN1NNcFpMOTNkZHUrTi9hOFd0a0tPLy9tMmtTUEc1S3hpWXEzWHBDR2RNVzhpeE1sZ09DMld2WmttT001aE5ZbXJwa3c1WFkvQXZyckF4eDg4M1J6ajJzYUptbUNlU2dZUHRPWUNGSGE2QW5IZ0pLS3pTcmo5b3ZoMzI5R3d6bE9FbFBleThTd3B1Um1oUW5EaytMbFNpNWZXNURXUi9VT2xzUG5XUi9JZjJaKzd6dXFTVjJ5bldjRDkycW5YVUlHTDdoR1M2dlg5RjkzekdTQ3BTWHkwaFJTZ3Q5UGlUbHg4YURyRlFFOGJpemtVVVFDUDM0NUtTTEFqbE40WlRlL2x4TFgyS0N4bmZVT2Jtd2dVYiswYjdzNmhOWUZ5Rmx0VUhVUEhoU3FXMVQ4UHJRVnlrVVBSVmplTXJtTnlVdlJXSDhRNngvZFVORWNUdTMzcGdqeWlySTgyb01FSksyN0NaVzZWeG5KYmVvcHRKcXNTWGl4UEN6aEpBT0VXaUtINXk3aG80NUZBa29CZnVvc2RZS2w2d0F1ZVM3NTBUSGQ3a1dkMGdsb2JtenROYy84dmh2YjV4MzhHN1JFdDYxWUxHcnNSVXNBRG9TMURoVDVWbmZzUVdxcVJyL2N3UWZqa04wazdTaE1uQUZrRHEyWGFYWmRHRWd2RCswYU5hK3I1OXFRODRSaFFZM0FLbFhIeHk5Wm5ZWmhFdGprQ2tmZ1Y4WjdDYjZTRnI3ZmVPNkJEcVZIN213NzBwSG4vVFlETkRBcmNQL0x5UXBhQ1pMUnpVb3dkSnFRYkk1MmM4bnBoZEZ4M1pndlB4ZDhyNU1JM2IwY0htRnFPSGtHL09Ic1RqeUNnK2VxZGRXTzVieU1raXZHYTkzbk5lY0ZFdldITlh1Y0hKUWgwSXJwN1k0cU1sd0ZWZklYUDV3dGRuVlErbmdOL3piQktmUVc4Y0lGZVpTK2krdE5KMnpEMGZJMDV1TFc1K3NZWWl5YlkxRVQremZZb0d5R0EvZTBuU1dQWVN0bkNHekQzV2ZoRFh1Rk1GQWNhbWFDOGhvS2RhaktCaXpoNXpDSHhhMHhCenB4cDRNcHF3SkFrS01mOUZZUDZGSUoyRE5BbTJPZVNTUExoNDc2dmgwNjhZelNPUXRNTWNRREVON3Q4R0VTU0k4ZkNZd3VmdGJuMmhzS0ExNVhiNWFQRlJFTTRLbWhsWjdxWDd0N1pkODlTRzU3V2M3YjVUb3B1VTBjSU8rRE1ndUsrZXF4cHIxTXh3UmQzVWlOaHl2TnFqcGQvRlRxSlAxZkFvQ292MEhNMVI1V1I5c0ZrNjFSU0JQb3B0V1M1UW55V3Nrc2tvZVNPN1VacDhCZ1AzTlhoMHFpN2lPTVoxSjhxV2VSWmFvK0dWWUZxZzBuVGRIeHZXMzBheFlXQU5uS0gyS1E2Y2RXTTlKRDhLSVVQRW8rUXJybW9yeFhmQ3BES2hIVkxnYW8zR3VOWWVZcmhZNWN2WTB2VFJJK0NIUVNNbHRJaTFNNm14cXRKc3Rya05TK0hwWmJFMEtBcXJDVDZoTC9qc2ZOVy9ZeXN2ZjE0YXE2cHZlMTA3bWR2VHZXemdreVUwaVUvaFJUVnhMaWcxdlkvSnlqa3NWZ1pCb2JpNXdGUklKMi9CdlhqOFNSZzJzOGxlMnNKVlZGYVF0Y0hUR3dHU3RQdkk4K1phUWNSYVpGcUNwUmgxeUZUV21SNVpBMHZHRTl2U0ZyYTR0Qy9LV0M3TGtNeE14QkYrVjRTY2VJejJvV1ptSXhVeG1naGJBcytmOW04VTVPZzhFUGdNUndJa3BBYnpvY3NDY3VXdXRuT0puS25DdXRsT0JZV2hTWWxMVmFwaWNHU0F6NVJoSG42alBKTnFyMm1qbW1UTVRVc2x6SXgyZlROOVNWUEp6U2Y4SHVIYmk5UXl3ZzRWRVhqZG5CUUhUQlhzU1RjUVZ2dDVid1F0M1puazFlTmQ3a2pIWDh1RXlIcWVCQS9la1RIU1lsNVg5ZTUrazRHd0oxOWk5Ky94aW0xRFFhdWxOdE45VG5abDFpZ0dhbU13R3RsVi85bTVkdE5sV2NabktLdWRLeWM1aVZDbHMvL21CZGJVdnNVdlFZNW03d0J5M1g5Z2grQmNGTDRwK3JoaFRuSW8vZ3JnNUhZSWNkR2Jnemx5K3VYQWtuNC9NNHNtQ25CeUZTMEZtYlBiTTdybUt0MU5XNi9aK1J1RDR3NGVqK2x0Vnp6aUlFNU9OVlA5cTdSd1NKUWs1TjFLWWUzeGZhMEEyWVV1Q2I3dkIrNXVGbjRHR3pDWlNKSytVOU1ZZzc4N3BNUDNFOCtHOUY4WFFsU0FQOGozY21hYVVGR09qcElkeThyK1lvTFYwWEE4L29LMDRObE52dUxqbkxzQUhWL1B6UyszQUgxQlBZSGFoR1VYR08wMC9mVklTRzVHR0NaTm9qNXF1MHNZejNxTUZCUmQwcC80MFFTbDFydVV1S2IveTJBd1d3c2NBODJxZEZ5bVRWSUFBZjdRQ0QySEFrYm10VTAxRjFYVUNaaXJha0d4WFFSSVgrUSs3ZEErb1VqMW13SE5VUHhrdnlRK2NsalJVdkUwYyt6bVhydjYxYlJ3L0tja1ZZczV0a3FkdmxHdVV4NUZta05qb254QnVERUJMNlI2UE84TkNmL0pabDJqb2RaZEh1NGZWY3lIR2Q2SFVxUTQ5MVg3cllBeDUrQlVEbW5tTnNmZW9WOTY4bUI1MlB1a2JrZHhzY2p5VWxvWjFhNXMxTm9XemFTWkR3YnNKQmZlb2JLcnpTZXBOUGNYWVErUFpVZFo3Ujhmb2k2MmlMTXBZNjZsRjVKUWhPMWh3MTkzZ28zdXV0THRuNEN1NXByZHFGQnpQMURJQTgxdzlNTm1yS3d5MzlIb0dscE0wcFhwL3hoUE9hY3oxRjZrSVh5WVRNVXFCM3pJSW1yb29hQlF6QkljWll1ZUpja1RqZ3lZS3gzVlBzU2JuN1FtbGJRWksycVFqcWZuT0oxd0dsVUlMTlFVQnI2SkZBRTBrbWxEVXRIeE5MK2M5Q09rWkNIblJWcE96YzlqVm44UmdDTVVtelJoV3FMdE9NV25wVmpTQkF1Q2t3YXEydUtRSE1vZVRpKy9GdXBRNWNBdTNrOStEYVpZZkVGOXR6Q21WUmpLd0JDMkl0eE9KZkp2T1Y1dVRBTStpQUVLd0F6TENiL2p6QVBhYnJURGo2NWFJK29Ua1JHTEhic0FhYkt3dGdnMEl0eDl5MHpJNkttZ3RKbFJrVmdlUCsvWFo2b3JTdGJBRzFwUDd5cG1UR1F0RmxCSExHU21iSzlzclRGQnZIeFdBZC82SWNHakR3UGluNjBOV2ZCSk5tYmpTTTlCckRPSE9rVjlCemxIMDBqLyttOURjNEJZajJ4SEE5K2svdVQzSHowMk5nc1Bhckh4dCtxbFM2VU1YZ1kzd2w5WGxYWnVJenZtUXRYR1hCa2FkM01HbXFGOHB0MlhKN3Z1RHBmNC9oV2Nabzc0ZkZ4UFRhVVdhVFNpdWkzN2ZHNW1UczhBSjBmZUxsTmU2QUhxbWNocVFjcGVVZkM5L2lrTmYvRjlTWlc0MHJBVGtnZHdLWVB5KzFhazRCazVvd1l1aEFOUm8razRkaU8xRStObUpoQ25taEp5RnlhU0l1L0tuNzlyVUEvWXF6eHAxdTVSdjE4SS9ZekJwbFJTanRQS29iUUJYTzhqS3dtZ0gyU0paNTd0cTZkT1pneUU3eDlCRldBRFF4RFBRdktBV2krZktQYTNGRDRobFRPYktLbFQ5WkRxRFd0TUtsa3RETEN2S1VKWUsrR3RrR3RhSmNyU1JTQ1V6S0oyMy92TXQzUGQ1dE43R2haWG1xQjZScVB3ZllVM2tMSDhFTHV4dnJjT0x4TzU1cmxWR2VscXNMSFZlMEhwOG81QnZEbEdoMStzQjZ5VXgrbHhGREM2Vk1VZWY5ZER1ZEVra3lJU2pkNU92aC9PNlJaTkpwN3FkNHJNM2xvNUlLclJIL0UyaFpNWTYzaFdiZEpmV2ZGZkdYK3BBVmtWYjJPK09VeG5LdEZjaGhkUS9hM3ZDa0xiZWg5Vk81UTVya0Y3Sk1Udk43K3pTVTBIZ21VNlZ2cEdiUVpHVDFNcER1MnZmZW9LWHA2V0ViRk1DNE9TQW1uNkJXblF1QkxXOE00c3RSL0hGV01NUFo2V080TmFFYzBieGRONmd2Mk9ZT2xqSTJMNy81bDY0N1V2WmhuVldVS2JubFhGdk43d3NPV0NRdWplM0F1Y0hnb1FYSFhxN3FUd0FwVUkvVUJWYWp1cndjaEljV0prMUFOcHFlQWdDNkpRVWN3T2tVbXh2VjhGWWV3V1VPZ0d5b3NET28zZVNIanFRMlZoOGZ4aVA0MlltRCtWS0psR1RVcmZ1VldKRStGeXVtVjIyVEVsTXBmclNZYjNZRkdkazNsWDZRbXhMZUFxK1lnK3BTSHRsckplNHZJT2R6R3ZaNmRaNit6Vmk2ZTEvVzV4L2p6T2JFZVVVMVVLYncxbjZIbXF0MSsxTHJXMDZOajQ0bFZCZzN5dEVxYXM3SkRRRlhrclpBdy9HZThMaytKTTdUeVF3WGRCL1Y5Smd5bjBEeWoyaHVIbUh2WUJuaVZPekpYZ2RZcXNqMVZickQzZzF3RDRNQXNmUk9ERTZtY2Y5OE13bkkzMEJpWEltU0I3aDZkdzFnTG40d0xaOS9zc25ZcGpmUS81MTBScXl0ZDBSc1YzMEdvMTF6T0wzWENmQ3ZLd29WeW1MMWpaZ2gzTGR4N1NLM2VIL1haaDExaC9CR1BMQTlUYlhmSVMwcGxHanZyYlhvN2t5L0s1ZkhvZ1VDTmNKZWZLbk9uTTNNdFpUemd4akFGZkNRRkpqRnpSbFBDN3NodUxPdWoxZ3JIclFKdWY0Qjl4WUE2MDFiL004ZHdTNEVuUmdDazFWNDFCMWlDVTZyTUczaDNpYlJuUGhwMzQvVVdKZElBWkY1czRmSzJUWWlNL2VJdDB5WlVldUFSMWZsMU82d3dzeWxjalFyNDlNbis4K1laVGFwc2V1ek5MN1NHdVpYMy9XOU1ZWkN0ZHYyK2dqbG94bjM2V25LY2FDb2VFbG14Y05uQUQ5cllqczZkblZZc3d2emE2cStkTlRNQnNnYTZXa2RxTGVSN0t5ampxUCtRRnhNZ2IwYzViK1pjbVNiOVBoaVE1NVN5NjUra0ZGaHl6SW85endwSis2UXpzdkV5bzRxL1JJQkpXeld0dzZKVkwvV05GaHcvNW1wS04wcnkwT21yUWw1Q01kbVNBRmROUGdiTk44dVFpVnlUcGVQdURaOG9yNFpRU1NCTXFnSEtqbWxhNzNrNGJUcUdZMEthZzZXZVcwbUpibjl6eXJuQm5kUm9jMWR3d1RmdVo5TlVUZkZXVCtON1ZDUzBHb3dYM0c4S2ROcUlWL1N5Y0RaWC81NEpJR0lzVTNIRlZJRG1EYXlqeGlUL2paakNRMXpQYzFUaFRIaEpJN2ExWThpeTNWTThHVlVBK2JONjNpWm9CUzRGQmFpWlUxR2VMZWxNZWw4S2RMaDRONnMvZjlneFpZWWN5TkF1bU0wcERPTlAwQ0EyMEN6OWFNcjRYdTd2MWRNSEJORzNzclRxZTBQbXpUeDU3T08rTEVJWUNZazU0ZlJKa2xobEFuOEhGTEJqMmZZdGpUWEttenErVUhyZ1ZtWjJGSTZIanBUWG1lVkU2dEhyQlhUWjdxdWpNbUZvR0M4RS84bnhBcld5akFJSmNBeWRXR3k4TTRpVUo5VVh1cFJDL0dSTXQyR0krMWNqdzZ3M0hWVTZrOVBraGxyMjArYk9NS3BQM0Y3M3g2WDkySG9RWVFpb29EYTByVkd4OVRRSXZVdHZMT0dzRWh3dmpNcXdVL0lOWUhwRDF1eTVhTS9ta2dqSExJNHp0Zjd0UUE0SHlSMktUaURmY3Rady9BV3AwWjREb3k2elBmK3BYanNqVy9aUno0UDZUTG50a0pJV2RBNDkvcmJoTGR5L3VUNlZPR2s2dkxGTTNxWW9aRTZTd01WZGNaZ1RDUWM5VWMxajFjNTMwL1ZCeUFxbjdLV3NSODJDMGRiVjNEMGx6QmREWFNRbkNsY0FJK1h1VjVzYVdJTXRXRFpQaTlxSklhMWgwQWRKQ2lwcmNzcm1naEpuQ0Jqcm42NDRsSW44WEJ0Z1kzWDFsekZITG03TXN3N0xFRmxSNVEvL3ZTSzVQajN6Ty9RQ2Irc0VKaWdUclBNdnJOQ2FhV3AzNE81T2dDV0ZOMjFLbFRUYVdMMS9XNWYrVjVWUHdWamN5N2ZZTTZxMi9KR1BUbWd4YW93ZVZOMStUZDNlbmVXUGoxdWVjcUd0SzdVcGFGUmoySEt6cyt3VWwzUUp5Zi9BV2M0RkoxeGp4bjRGM3FISy84VnMrR25UWmJXdW9ZQlIvS1YwOHZ6VFp2R1RlVGZGWGdRQmcrODJra0txYndpbUxFWGpmTzZtbHFPaHdRVWdJSy85ZFE0OVptY3BzditIVzZISTBTZklweUxVenlhU0krZWxQbmV6RWgvUUY0aFptUlFKMENWSHN2ZHZyNmVoSjBHZ3pDKzB4VlFNVUJQMjdKcXpONFZORTlmSWY4eXcwWUhZQlBsMGJBZXNUbGVmMVRodFE2THlaeVphbm5ZL1lPM3l2THpTYVljUWg2b1NOdlZ2R3N3aG93bnhoMnFldjNpeDRLQzJVNytIbDlsRnBtV0ZoM1A5WWo1bGR4REZhVE1PRENIenJJUVNodzBqLzFkVitxdVNpY214VTVaRFl4emtrTkd6ME05YTF0dyt3MDdPRnJPU2psSENaZU0zd3RKNEhuejFCbkttUHA3bDl1Q1hkc0ZIWk5KQ1RiRWZuRWE4NGdOZTRrVThLMkRlZTBHazZmbE5wOVdwZ05mNXp2bE1Fekg5MDlnak1CY2NuaFhSNWhGY3dYTWVkakx3VEFLTUVaUUhKY0lJdHY2TFd0c0lOQUliZzlsdDRtZDgwS25BMWUzOU4vYmNtdzl0a0g2ZnZYZWJNVThZWE9DdUpja1FoeFJZd3IzVjZuWUwzVm9vUkF1ajU3b3dET2VnUVhVQUwwbi9IRWJyVHh2T3BIRU9pMDdraEZSTThVQ21UdG1SVktQRW50YkJZcjBmTi82L1hTRis4eWxVOFEyV1ZsU01NSkVhRm1NYThkMFVZVGtjTmZtVC9lY0p0cWJUNk5mOVB0NjY0M21WMFVSTVYwZ2JvU2t1dWM2bzV4M3RrUWZiOXVPR0R2V2Y4dW9NUzlpU2I3bTZGekVjQlZ2TjFidWliRjdwbGpTSG9jVDNzVEZmMWlRc2xXSk0rS1BNS1lMTW9WQXIwWjZnOGdYTGt3bG5Yc3ZPT0Q1Y243aXZvT0VWU2FXc2tPU2loUVJ3THg1U0dHWUNhaENmbFVRenQvMFhGbExNb1JpYnF4NHZpR3J5TThWczA0RUR4ZjdNaG9VRjJxek5ib2NaVDhhcm51ZUdpTEdWMllsYitBUEkwVHpLTXI0Z3ltbXVidUdEVmxXR0p2Y0Q2dGhPSlZiTlpkOGhwRWQ1WFNWMnlWbVVyRFdNMkY4UkRSa3ZCSWJ5Rmt2aG05M1AyK1RYejhBMHRqWkZzU1NwdXp6UFJ6OUkrYzlaUTlCbXN5b1lBL1drY3cxYVVGK0E2NjY1QmkxSlRERURRS2wrWkdDTkUxbWI1UWM4eWQ0dXZ1OXNUWTJIYVN0WUFtK0R3THZ5RDh5c0dNVW95dXJRRjF0Y2w0QlBjZ3NKMEdNaTQ2UThJYm1SdW1udzZnMUZFdEVPS3dPWnkvT2JFTUZwbkVtRlNyUUJZU1RRa3hlbjJkOTg1TDVZQmdDc2hOVGcvK0tiVzR2UnJpWXd1T3lEbmE2dnFUUHRVVkFFUEhCUzZ5aUhseUxqT0NmUEg2c2ZJVDlTZ3FScDhFR041WlMvdFpIWndGV2g4ZkUwR3RvY2VQR2xpVXd3N0l6aG5nOUltazh3c3ZWTWRXNFoySWE4UWszbDdOVWhlV012QkVMZTU0NDNxdTJDZGNQSVpuZ3VET3NLV2ZGK1pTZjZhUGlTMngzTXhuc1pNcTV2bnNQTXdhQnRsYm8rMHU1eXhVQ05YdmVTZWh2ckN0TUY0YU9YMDcwUmFmMWVEeTNXU3ZCUzF5Sk5rNm5VVUtNVWtnVzROOXBoRzd3czZGNUlxaytFb0dZZGltUUsrYi9OMGtQaFJhc3dWRkhIeGEvcm4vWGZNekR0R0lnbjhpNllPTnZIdWxvaGhkcDN5VThYTklxUkZUQ3FEOG5Pb3o5M3pkc3VwbE56MWdJTG82L24vZVpYVHlRK3Q0UjkwUmtEb3AxWkx1Tjh6OXhUY21GM01SMFBBTXJ1OHN6M3hVOGZoZUdRbWRrVkVqUlJySHhXRDhxZjZvZkl4aU04V2VyT0V0bW16SlRYTWI3dFVMcFJDU3BseVJOWWsxUnA0V1o4QWE1L0trb21ETHJoWVp2MWRpZzAyc0g1Y3EraGk0ZnRydjE2NFprTHY0OUExS2thSlhxcTNSQzhyclBkRkI3MEhIKzErcStVMm1idWMxUEQveUV6dXRqV2syV2M5Z0RHSktwTkF6aFpDMXBhWHdiczZpeFB4dVlUWHFJaStXMU9HT3JydUl5SEV6WGVYNVhRNEVKVjNPQ1JLRlFIdEF0N0ZZY00rekI5VXRVcTFKbmkxYlNLMnFJMGdSZDAvV2tKZTVIdE9rYjBmYmdUUnNtUkNBT1lyQlBKV2YyNlcxY3UvZXZMakpSTDhXMjhsTjhHV0I5VlI0UExTTTd2VUVnQ3NZTEVLWHg0b1FycUx6YVdFaXZ2aTZTMXJORG10MGZtalhjUFlkekIyOTdqZTJjWDFjSkprbllsdC9mUlFpN3B6WnM2cGNIck9WSnVHWnZzZmZYcm5vdzh2c3habVB1OEpOQnhaZW5OOFFSdVZjT0tQcE1CRUlBV0t6RlRVcWd2MlJySG1QakdUOEtQRFp3QnZUNm5DSEdRcXl3UFRWYVozNmlyZGlkODNJQnZBVlZSVnppZ2dFb0UxVTBWeXRGSUlHUytNS1JJdDZhbFlIeHQ3V3ZNMWwxWGJUU01RekNBaEppblFHa0dzK2xMTGgrWHpwSzFHb1oranh2d0RaL2lDL1FLdmx6cHhtR29NRWhEemNwNHdNc2dFNkxpb0ZYUWZWT3Q1dlY3VUV0T0FTNXRzYjVWSmVRdVNaVXhUeFg4VmNOWnhYR3F0QjNOckxtaXhoN0dkbUxmU1dLVld3MGxmemxRRS9lWWxKRFY2ZnJ5c09xVUdzY25yRmxVM01DVHZCZ1RHaW1rMEpuNFU1bllVMTRmR1ZTYXlKYVVXSTRKMmN3UDZrT0ZqNEtYb3JYcy9oVUlTYVNPYUhiaTFXWnVOOVJQbGwzTW1aOXlLc2tpdHRYUlJQR3J4d1lQakhsRFFnTkF0d3FTV3BnV0x6Tm9XS3pzZ2VqOW81aVBpd0dMcGdqMlhGNkRySERzMUpWT09BNkVDcHZSeGN6QTlkdGtFRDAweXF1VDhiTGJSZ0lMa3c0bGV0Zkc4aks0VDRiWEFZWWFtUzRhUE9zY0Y2YUV6Q2lEV0E0UlRGU0dBVFdYZWxNN2ltTzUyVzhiRHZ6WVduRjBrcVh4dUdSVjN3dnBGZGI5L0pnSlFxbmk2WHFxdDI1NFRSWEQ1WHMzNVl2Z245UkcrSXBkbFJqM3Z4RXBkUit6dWV3NFF6SmM5TEIyNFFtZUgySk85K2tSRGExTEJGc1VsTWxzQ0V0Q3RscVdMQ2JodnFYVkFsUS9WYzhsVXJKN1luWEJYZ1lYamlKdUpNb0FmUkUxOGlUNFJYY0k3UWVpOU95RDE0NDF3d2hOR1RIa1h6YzFpWFdRdWJHRW9TMDJ3NFBnbW1kS2VTY2hXcWsyaGlSM1h0S21reVVpQnZxVld0dlU0Zk9jUjlsTzR5dEpMR3R0WDFXWE5jNTh4OGt2NXZNcGFHcUNtbkZ4b0ZIRHpHVlRnZ0c5UWJWM2lkUHZhZUx5dkdUUkw3QVo0ZFp6NzE2dytQVHkxc0J6cUR1S1pNQ1p4U1FKLzRnL3VqTDFPRDIrUnpwdDBmTTF6cUNDcVpvK0JhTExHMWF4b0pkSDdiTnJVM2VDRFRZZjk4RTEycWZMdEZUZ09GdlZlYnNsc1J4bmUwSlFmR3dISVZQZEg5aVhLV2lXQUZRYXpoekJsRkNHU3pQeU9ZQk5US21abG9MQ2NCeUNoSzlPbkZqblRDQW1aR1FJUU9PZnVRM0xoTjZxSHZSZlNkUWlMQnhDaG02c3huWGtCYXhVaXZXNEtUdGJBZ1d2THAzSEp3T09WdXRvOE5BSVVjZm1yRFovWkpiVFBIdE1jRnI1L09VdFNIcUo1OVFVb1VyS1V3K2ZKUG1VVlN5cXE4T1FMQT09IiwibWFjIjoiNjg5ZTk5M2UxZWQ4Y2NjNzI3ZDVlNDZmNWQyZDc0OTg4MzFlYjlkNDU1YTAwNDY2OTgzNDljNDA2YTYxZjE4NyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "php");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT('simple_test',
+     '[meta <?php] ' +
+     '[keyword echo] [string "aaa"]; ' +
+     '[meta ?>]');
+
+  MT('variable_interpolation_non_alphanumeric',
+     '[meta <?php]',
+     '[keyword echo] [string "aaa$~$!$@$#$$$%$^$&$*$($)$.$<$>$/$\\$}$\\\"$:$;$?$|$[[$]]$+$=aaa"]',
+     '[meta ?>]');
+
+  MT('variable_interpolation_digits',
+     '[meta <?php]',
+     '[keyword echo] [string "aaa$1$2$3$4$5$6$7$8$9$0aaa"]',
+     '[meta ?>]');
+
+  MT('variable_interpolation_simple_syntax_1',
+     '[meta <?php]',
+     '[keyword echo] [string "aaa][variable-2 $aaa][string .aaa"];',
+     '[meta ?>]');
+
+  MT('variable_interpolation_simple_syntax_2',
+     '[meta <?php]',
+     '[keyword echo] [string "][variable-2 $aaaa][[','[number 2]',         ']][string aa"];',
+     '[keyword echo] [string "][variable-2 $aaaa][[','[number 2345]',      ']][string aa"];',
+     '[keyword echo] [string "][variable-2 $aaaa][[','[number 2.3]',       ']][string aa"];',
+     '[keyword echo] [string "][variable-2 $aaaa][[','[variable aaaaa]',   ']][string aa"];',
+     '[keyword echo] [string "][variable-2 $aaaa][[','[variable-2 $aaaaa]',']][string aa"];',
+
+     '[keyword echo] [string "1aaa][variable-2 $aaaa][[','[number 2]',         ']][string aa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa][[','[number 2345]',      ']][string aa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa][[','[number 2.3]',       ']][string aa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa][[','[variable aaaaa]',   ']][string aa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa][[','[variable-2 $aaaaa]',']][string aa"];',
+     '[meta ?>]');
+
+  MT('variable_interpolation_simple_syntax_3',
+     '[meta <?php]',
+     '[keyword echo] [string "aaa][variable-2 $aaaa]->[variable aaaaa][string .aaaaaa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa][string ->][variable-2 $aaaaa][string .aaaaaa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa]->[variable aaaaa][string [[2]].aaaaaa"];',
+     '[keyword echo] [string "aaa][variable-2 $aaaa]->[variable aaaaa][string ->aaaa2.aaaaaa"];',
+     '[meta ?>]');
+
+  MT('variable_interpolation_escaping',
+     '[meta <?php] [comment /* Escaping */]',
+     '[keyword echo] [string "aaa\\$aaaa->aaa.aaa"];',
+     '[keyword echo] [string "aaa\\$aaaa[[2]]aaa.aaa"];',
+     '[keyword echo] [string "aaa\\$aaaa[[asd]]aaa.aaa"];',
+     '[keyword echo] [string "aaa{\\$aaaa->aaa.aaa"];',
+     '[keyword echo] [string "aaa{\\$aaaa[[2]]aaa.aaa"];',
+     '[keyword echo] [string "aaa{\\aaaaa[[asd]]aaa.aaa"];',
+     '[keyword echo] [string "aaa\\${aaaa->aaa.aaa"];',
+     '[keyword echo] [string "aaa\\${aaaa[[2]]aaa.aaa"];',
+     '[keyword echo] [string "aaa\\${aaaa[[asd]]aaa.aaa"];',
+     '[meta ?>]');
+
+  MT('variable_interpolation_complex_syntax_1',
+     '[meta <?php]',
+     '[keyword echo] [string "aaa][variable-2 $]{[variable aaaa]}[string ->aaa.aaa"];',
+     '[keyword echo] [string "aaa][variable-2 $]{[variable-2 $aaaa]}[string ->aaa.aaa"];',
+     '[keyword echo] [string "aaa][variable-2 $]{[variable-2 $aaaa][[','  [number 42]',']]}[string ->aaa.aaa"];',
+     '[keyword echo] [string "aaa][variable-2 $]{[variable aaaa][meta ?>]aaaaaa');
+
+  MT('variable_interpolation_complex_syntax_2',
+     '[meta <?php] [comment /* Monsters */]',
+     '[keyword echo] [string "][variable-2 $]{[variable aaa][comment /*}?>} $aaa<?php } */]}[string ->aaa.aaa"];',
+     '[keyword echo] [string "][variable-2 $]{[variable aaa][comment /*}?>*/][[','  [string "aaa][variable-2 $aaa][string {}][variable-2 $]{[variable aaa]}[string "]',']]}[string ->aaa.aaa"];',
+     '[keyword echo] [string "][variable-2 $]{[variable aaa][comment /*} } $aaa } */]}[string ->aaa.aaa"];');
+
+
+  function build_recursive_monsters(nt, t, n){
+    var monsters = [t];
+    for (var i = 1; i <= n; ++i)
+      monsters[i] = nt.join(monsters[i - 1]);
+    return monsters;
+  }
+
+  var m1 = build_recursive_monsters(
+    ['[string "][variable-2 $]{[variable aaa] [operator +] ', '}[string "]'],
+    '[comment /* }?>} */] [string "aaa][variable-2 $aaa][string .aaa"]',
+    10
+  );
+
+  MT('variable_interpolation_complex_syntax_3_1',
+     '[meta <?php] [comment /* Recursive monsters */]',
+     '[keyword echo] ' + m1[4] + ';',
+     '[keyword echo] ' + m1[7] + ';',
+     '[keyword echo] ' + m1[8] + ';',
+     '[keyword echo] ' + m1[5] + ';',
+     '[keyword echo] ' + m1[1] + ';',
+     '[keyword echo] ' + m1[6] + ';',
+     '[keyword echo] ' + m1[9] + ';',
+     '[keyword echo] ' + m1[0] + ';',
+     '[keyword echo] ' + m1[10] + ';',
+     '[keyword echo] ' + m1[2] + ';',
+     '[keyword echo] ' + m1[3] + ';',
+     '[keyword echo] [string "end"];',
+     '[meta ?>]');
+
+  var m2 = build_recursive_monsters(
+    ['[string "a][variable-2 $]{[variable aaa] [operator +] ', ' [operator +] ', '}[string .a"]'],
+    '[comment /* }?>{{ */] [string "a?>}{{aa][variable-2 $aaa][string .a}a?>a"]',
+    5
+  );
+
+  MT('variable_interpolation_complex_syntax_3_2',
+     '[meta <?php] [comment /* Recursive monsters 2 */]',
+     '[keyword echo] ' + m2[0] + ';',
+     '[keyword echo] ' + m2[1] + ';',
+     '[keyword echo] ' + m2[5] + ';',
+     '[keyword echo] ' + m2[4] + ';',
+     '[keyword echo] ' + m2[2] + ';',
+     '[keyword echo] ' + m2[3] + ';',
+     '[keyword echo] [string "end"];',
+     '[meta ?>]');
+
+  function build_recursive_monsters_2(mf1, mf2, nt, t, n){
+    var monsters = [t];
+    for (var i = 1; i <= n; ++i)
+      monsters[i] = nt[0] + mf1[i - 1] + nt[1] + mf2[i - 1] + nt[2] + monsters[i - 1] + nt[3];
+    return monsters;
+  }
+
+  var m3 = build_recursive_monsters_2(
+    m1,
+    m2,
+    ['[string "a][variable-2 $]{[variable aaa] [operator +] ', ' [operator +] ', ' [operator +] ', '}[string .a"]'],
+    '[comment /* }?>{{ */] [string "a?>}{{aa][variable-2 $aaa][string .a}a?>a"]',
+    4
+  );
+
+  MT('variable_interpolation_complex_syntax_3_3',
+     '[meta <?php] [comment /* Recursive monsters 2 */]',
+     '[keyword echo] ' + m3[4] + ';',
+     '[keyword echo] ' + m3[0] + ';',
+     '[keyword echo] ' + m3[3] + ';',
+     '[keyword echo] ' + m3[1] + ';',
+     '[keyword echo] ' + m3[2] + ';',
+     '[keyword echo] [string "end"];',
+     '[meta ?>]');
+
+  MT("variable_interpolation_heredoc",
+     "[meta <?php]",
+     "[string <<<here]",
+     "[string doc ][variable-2 $]{[variable yay]}[string more]",
+     "[string here]; [comment // normal]");
+})();

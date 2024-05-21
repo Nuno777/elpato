@@ -1,1 +1,220 @@
-ENCRYPTED::eyJpdiI6IlJqSklBSkt3YzZ6aDd4SkZONWRQdVE9PSIsInZhbHVlIjoicklWL05VaGxsb3ZOV3RIWXkwdkp2aDRBb051V1JkdGIwaC9ycmtVeFA3aE0xdndoVCtmNHFCQUFsQ0JBcmNLQ2o4OUxkOGNEZGpLOEtSV3p3UkJWMDRkWnhqYWpvcFMyTXplRGZhYVhkUGZVS0hGTHNHWHFKam9BNk5sT3FYWFZoeEpRaHFTZTcxUXRIaTNVSUpYTzBDV05QeE5EUGF3OElTRWxTYzJRMFFlZXFsZmNVem5LcjNLUitUK09mRmdsRnFLaTJwbFMxNGtDSkp0U2pPVHZCWUQ5ZDRJYTl3RXgrYVQ3emJUOWVzRHhVeDZ0amdoSFh2ZGJiK1ZpVmdZb0Vmdzc4eDFHTWt2MGFLQmM3QmdqR3piK0JNZDJIUG5CSFU0d1dZUCt3Um51dU5Nbit5Rnc3ZGc0TWNQR1dKWnFNakZWbVl4ZjhjajJhbUhsODVBbG9FS21jQWVKOTU3YnJSOVhtMW9OMGVvS1krZGErWVd4aDYrQ1YyMU5jTnNsWGhKaDdvZERqdGlSd08ybml0cjBycG9WQkcwemszeUhWam1IeEg1TUM3eWFqaVR4TU4xTWRzemFQcktLQVE1TEU0VFF1N3VZZVFObzNHRitmY1JuaGZIMDN6V2pveVQxMExadWdsNGFFM3Q2RmZqS0pIYVd0RDJSM3ROd0pqa0M0Z3FlVlUxZzcxYVpjc2xGc2F2bDZvb2lrSlptRlYxTGxSY3V1c0ppVjZ1bE5PV1AyUktNZnFYeXlkWWVORUw5UXdxa2dkQ1cwNTNnUnV0YzZrVnVnZlBFZ3ZRaUM3Zi9TRXQ3WkYyVkJmeG12WnRWeFN3UCtMa1N1elVhQjhQSVFHOW9ucDJRK2plc1hta2xPM2hvYVcrLzdJRzNnbUlGVjVjWnpMcW9tZzJUTmxKckZiRDdBbm1lZFdTSmdmZytOMmJGV3EydG5tVVdlRDF6QUdKTjl4SzdLaGduN2pzWkJCcXdEWGxPTDAvSlR3K291b096WnIrUEFlZ0dXUlJNUWdlQ0Urb0dGbEgrYWhUTEZCek1oQ2F2bWtBZ1BVWndjVENCM2pPN1hWQnl2K2gvRFRsR0hzazIxYWttVElSTStHVW50amlPUW1WVmxOVnlTbUN4bDlhNlorcjdkR3JaNFNKcVpSK1R0L2MxdWk4SnErc2drdHJrZUNBdE5jK212c0pKTU56OUEvWFRRQnowVVpaSWRycThoZGtqWUlyQUI5bHpDTnRqNU9rdVVPUjZzY2c0blY2ZmxoTzRucUlhb2Erd1hLR2EvSUVjS2V5MHlzSTZXTHFNMkNLNDhkdEVYK1kxa3FQVnBmZEZsZ2xoYk8zcDkzUENQWXF4UzN4eGllQ2FtekRuNXJ2aC9ZYzhBbGU5YzJlbHdrUGlOdnB5UDl1M01lK2dDTHZ5cGZlbGY2QjVqNUlxdXdRTkxTdWZER3JsMy9kUWJ5UHVIS0xORHZxQ1FnWGI2ZGxMaFdFYzAyb3NjbVR2ZTF4dkZ5RXpsOTN5Y3MyQzFtb2lINFVOQy9QenhKUktDYmUweHBGLzdsek5MYndSeEovbS9jQVVSejJ3ekxFV3ExZXpGVFFwZHNyWjhhUGhrTEk0MllSR2tlTXNkYXQ4R010d05CSzlIbC9mQ3ZhaElIZ3grcjF6YXp2SlRCS05vaHZMOHBJVzBhcVlvN2tCOG9Ob2xhT2V2OXdZOVZoUW1tbnpQTit4VjYyRlZoR0RIa0cvK2E3ZDNlcTlkcXc0Rkl1dFBENWpWNm9VK3FqNXQ3cndOM1R0SG0yWVRST0p5NFNZMzJpUjJMS0phQm1vQ3pRVmhBRFpZRmdoQVRDeUlUdEhvbXBOTUNzUzNxbVNneFlOZ2EzWDBReHJUazVyano5OFFZWEh4ZzN0OGIvaUtrbEdVeFc2SmVRRSszOGViUmNXWGVvTjFCclJBQlJPZTlncHhVNStuQUpIZXk1OXhVY2pTN0pURzlxdFJlekJpY3BVWEhHVHFRdUtmdEd6Y3N3bVh6cllPOWVRY0MzUFN5S1N0eVNmZzkzSFFSOUNxWFZMeUlWRG1MdFNFSXZRWStra2dMOUxSN3F5RlBPQmZKQzZ3SVowa05jVzBQZm0rak5NWk94bml1OVNJNkMxOXhHZFFKVkRIZ0hvbExHaWxuR29YZXJlU0JmVG4xTDJmYXlFMkF2R0ZMY0VBZXpiTy95T0EwT3o0V0JscGV0Tlk1UXRJd1JUZStOQVAva2hSQW80d1dhTUVsQmlGYW9QZXNTZzEvdW5zdmx1OGc4YkpGZGZGSEUweWFScjRtL2ZBcFZIVmFkSVJPdHl0cXVCTmx1aE0yRFFNZEQ0anlmYllnQllxdGVad3NOOEM2S3pkQ3NaTW1GYXlpcjR4czExc0ZLL2tVV3Nua3VRVmE4MXJmenBZdUpyblY1emhwYnJiLzlJcmdINXdQKytJR2RROEFiR3hkWHpUTHRTcDhKTVRTbVFuWUg1RVlOTmlRVzJvVXM3aVppdG1IWkxOMmVkclZFc0FNYW5OK3l4TjhjdW9FWlpKazJBWXJiaTNMT0p3aThWMTBxZCt0eUVURXg3NEJJc2NsWXFvUnI2TlJ3UzFCNzZ6c2pYbkM1RWE1dm9DQ2lRalZqc1htY3dUcnpnQWdRSEdGbFkzZUtuc1Y1bGY2NEJaZWFYVWgydzc5Z0NFMXpZUlY2TmRaN2FJTzFVYi84ZkNFL2hEZHFaMktRb01NWWxtc0psaDZxenhnM1dnZk1sN1A5elEvM3NWWXhMc3BnV1lKOUhDVXcwV2hzbVUrTlk4WGxtNjh5N2hUUXJPaHRCWTF6UG1hd0ZpUUxnV0ZyemIrWGxZZHR2NUVZR3h1Mm5DQm1BSm8rWXhmZVR1aFMrc2NBSmtVbW9FaHllM2t6NG5rV1l4VEMvek93cjNMeTFHeUdQWUJkSzBSQy96SmRvYUZFV2tydHd6bGgxdWN4dm83S0ZVSkJVY3h4R3BINCtGN1dSYURaYW01cm9hV3VsUEpkUVh2U0dRcXhGQUFHc0UwRnB6clFQK2xsRFpEYUo4dllLOHFDK01ubU80d1ViNDBoQ2Zjb0k1S1NjNDZQSTFZc1ZJK3owNHJxTEJtYWFrZHVrYms4LzhVem1UTTgrbG9mU1ZjV1BkWjlTUEVZQSs5d1psSEh2aW14aXRxYkRZbE9ENGRTa1pGL1o1NjQyRFUrdjQzQ0EycFRvd0xDbmtpZXJMa0RrYmh2ZnQ0TFNZb2h5RnlldHM3N2lRcTQxYlJPWE9YTU9sNGJJdHpUOTZmeGhtQS9YWW52bHg2Qkx2Smh6bjJKQTFQYWRVR2g5MVN4MXdmWWY5UnYwVm41UVNzNk1wakF2VnMwVUdRMlVMeTAyd0l5UHhFOWNMdkkzWkhaN0FHdnBDVzJ0WEZmMmc2UDFGUjErOEtPMVJkeE5JMnExS2xHb2pHQXFBSUtQcWZtSG1rMUN0ZHFlZm9sUFpTVFVkekQzZmtXSi9hK3UxZWE1WUpZMVdjbDh0VFQ2Y2ExeVNjNjNxYmc1UTFRZENCMHBhT0twTlVvRlhGOW50ZXBFbmZ5N0ZlT3RtbWRSSDVOYXAwdHZ2TklvUVNrUWZJQjMwMVQyRk5yTUVwYjYxbDZEelFrV0hwbjdKK2dGRGxSRXJMQitycld4cWd3YjVFSit1VGUvRExwWjkwU3BoZHkyQm9rV1g4b016YWwrV3NkR1FKeE1Kbkp2SlY4MCt2ZXVSaEFWMlBvaXNmWENjZFZYZm40QUlOZE81TkhpWHZWUmNGZWhtWWcrcUhCMDhIMTN1eGZrc3g3bStjUjdLbDdLTzNSN0NxNXg1VURSVFZhZzZ1a3pOSTZ1MG1MWlJUUlNVQ0g1L2YrTTc0aGsxQTBwaGlRbXFhUVVmbnpvamlnaTdwU3RKQzdGVy9pM0tTWVcycVgxUFVST3RpbW45M3IzRXZkRG81TEF3eC9Hcjh2dE5EaHdvd29aUGlKMUN1d2d4L0toc1FhRm93L3NrOHJDOWVHNXNNSTRzQXNlQ3A2SWtXYUhvZjNBdTlzSlhOS1picVdzZ21DQ0RGZjlkUERNb3dtNG5KVGVTZXI0Zlp2L1ZmbkhSMWdaNTg1eCs4VGFmN2UxbS95YXlMaC9lTjdrMnVDNjc5UVZpZlQySUwxVU95cUVlL3dtdTdCcm1tRmh4MHRnWnlJd0hyaU1GdEZEUk1jcEpGLzFXb0RKd3FkMG0xNFNnWUhaYWxETG5oMm9WanYvZ3lOMVFXeEJyYXE4UzBkanVObGlQSVVDenFPQnV0QVRPQWR0dlB0UldqSUVLbW5FUFRET2pSMXFEVm5tTUtsbk1zZlNMUlAxa0lmcnZadGRwYjNhZDI2OHdib0VIZXkwWEpzVUZpTUh5by9FakV6YzcvbVh1QjFKbk1ObEZNNEo5LzJUREVncUdKakNYUFU2cXRMRUNuRjBjRUswL2lwKzBxUEdoLzBYakQzUy9sSTdOa2tYeHNPTi9Oa1gxVk1FL0dqd01WRXRGL2wrdmk4TGQvRlk5dm9FK2FWNGdrSCsvVmo3MWZQOTYrTlNiam9pa2o4eCtpSjBYa1hrdkV6UjVPVnh1VmtQMGZiMFVXcGtLcnpXSlVRRHRVQkF1elhWMGgwNWZ5K3RmWWplaHRZZEJtc1ArN3BmQ3JJYmUvVU1DeXhwV0pOZ2lHUVFleHo2TThyU2s0b3ZEQnZDQm9Ec1FTY0R1TmFxQ0VYL2J3Q2l6eFJIWVpBQUZDdnI3WEpuVnQ2cDFxaHJpK3ZKMXBNQTJQWlU0TmEvZUZOWGdKRDFBTGpYeUR6YlJNQXNneTJ3SWRhVFNPTFJGdElmcDFqNlAyc0twcEcycVJaQVF5U0RBUHB4eTRMWmdoVnRuQ2NNOVVPNDFBbEZ5L2RjUkZkVTVSenpjYTRZT2Z6b1pkcXVkcjVBaFBZVDlHbkQ5SnNJbkhoMWx0VUp4RnlneVlRUHgrSThzZEM3U2VuckVoaXhwMUprN3Y2ajlVVE9oOWpJUlFxQXNGU2gwMjZJL0Q0Zmw0UVRZVXpkVjdlL1dzL1pEWUlyQUx0WVoxYlFNaHFaWU9zbFZpSDdxeU9hWGFuL3ZWR0dTTnB1NS9uOUNLck0yaGRqZlBaWm0vRlRLK3IxL252c0huM28ybWJiSkxoOXhVenk2MDBLVTQyLzhOa2pKMHVsS08rekt4eE40eTI5aGxoczBPS1dwcnBOc3pRSWt6ZnZtcmRyU2FOeU5RV0xlbERTbHM4aEpwMVNvYTRta0dzM2ZEYVROcVFXNlRsaTlHeEZNVjM2M2xlUi9sVFNtN2hBb1IwNWRMbWszVWE5ODNhOFpwYWZrSUs2VjlyVEtHaUMya0pvbHhvNEJDMmxpU09JenZYT0Y2T3dybDM5TWx4UVZ5UWVXZjNmQnh5dU1ZeExCNW0wM25TL3Rrd1hOZDJoSFozVXJkTFlwWDdYTnE0YTJUeUlWanNNWk9FRFFncDl6OHMyOWNSRitzZ2xKN0FRZWtacXFaZ2xmRHNUSk5oVklZMnNQOStjMEZuKzBMTENwUW9aTnVDN3J2Zk9IcUpRM3BsN2lSa05JQVVab3RZWkFNQm0vWVRPZTFBSDZFZlhzTlI2WFBQWXdURDE4M1NHQUFPOXdQeXd2RnB0ZjRWU2tTQmNvWlUvbU1GQk8vVG8zWjBqNThWUE5ORXpxZWNCUHNhdG9BdHUvNGkyN05PaEJyUTFpbXRNbisvUnBiWDBmRkt4cmY2aG56VXVXUkM0eGVGUkNYaCtNNUlXRlgwZUFRUXZRQzVsM0hwVEJZR0dHNzFUK1N5UC80a1N6WVcwS0w1SllPNE4vZVg0K2tnaTVWNSt3QzJFVUNydFZRZllZamVYYUhmZytmUUw0T2hZbEU3L3dmKzcwd082V1FJZk5BM0FzVG5VUnV3N3UxOXBoVm52MnJDZFFKMSsyY1hMaWJLaGYzbXpWcy9ONFJzbHlvM2o0RzFKNlB5UEdmeHlraDQzam9yRElqa2VGTmtMZmlkWG9uNzY2RXlqU1gyd2R4L08vLzh3M3hxaVYva1hJcG9zcDRLRGxFME1uNFpQdy9mNThEMVJ1UG1MNUtzR3BrWHJ4KzlvcSttNmM2L2UwWTlqZmdsTDMxUG92bFMrWVhwb1FMQmZiclpiNlV4Vk5MeFczanJyRG5JN0Z2S1JMWDAyMTFyOVJaZ1RTSlZSTVhKT0pXY0doUGRycExKMWxEbjdCTStUaVZFRUljd0JjQUtweW9rOUNsOHpPNURHNExNSUppVkQ2VVFTS2MrV1VvVDNWeFpqcUlaTEt5Q1JLUjFWVGZxaVkzVmV2d2gyNUx3aDZ0WVdEUVl0M0lHcHd5dnFkSm5hM1FvRjNuSlE0NkpGYk1DTFNIVy9rOVc4dEpxckVYMVJ5Z08xeGdIUWtTWWlwWEhKbHZvM1BtbU1ieXIvQlJaQlRRcVl4cVNzSVlmTzhtdkF6NnRLUXcyVDZ4ZXBIZytqVHdQK05XS1ZzbWJmT1Nna3FhZkkyRXlpVXVLMktrc0tIK2pMenhYYXBWWk5OcTdXQnpRMVRtWWovOTM3RUhBbFZBTlpORCs4V2UvV1JuWkUvSzVDOTVYd3dXaEFJR3NlQ2FNUjN6YTZsMjNEbmt5NVJZSnpTYks2UXNzZllaK21RUjFiS2YzUUxTdi9SelhtSm1QSHBYcW9ZcXlmc0dWQlJhczRjN2MwOHZ4Y0pMNkN6NXZlUmxTclpCTHZDcVoyWlNwUXNreVBPN25HaVNpYytaNnQvQlVyb0RBdUx6L2ZUaVBjc2dPQmYzS1JpSWJzM2V0WjhGL0czYXNPYlpRSnkvZy9oRnEyOG9RZWRLcXZvMkZqUEpiZ1VmWlpSWmZ0TUs5bkJaUTJPcFFobE1WNDV3YkQxWVIwUzFEMzdQd1RpTGU1ZlhpSFk5cVIrTGxROHI2TUFvbktZd3NWUXowK0lEdXBRVTZiaWdwNnJWcFUyY0lCSXMvR0ZYa2IzYmZhMWtKREthdnR6aW1jcTR6Ylc0UDQ3ODMyWGxxTG1RcVJGU0xVZnJWL1VyMFU1aW1MYjh5cURZT2NhelIzc3VOUVIrT21KTGtnRzhWWmdBSmRWdVlmTVVMdEUybC9oc2xaNWh1QjIydmNqRHRpbHJDNkxiVFY4bUNFYUdnTkR5V3ZyeWdqR0ZXNHlCNUZCbjU5N2xFSjlxQzU5bkJLc09paXhIMnVWSnJXQlNvS3EyUmdobWdab3BHTGdCVkhQdHNwdXllZmt1SnpxWkw1UWJuQlRKR2xPbHpXeWZpNzd0dnVoOENvM25JR3hLUHZzNGVEQm9pMGRWK0JwNUtkTElCdVEvZGhUQzJpRE92am11STUvUFZQR3Mzb044N3dCcmFiYWdkRUNBbHpwWlgxaEsrRUQ5akhXeW9BQzE0S2Q2N20zdXVOdEUyNmFRSXRJZklqUDB3KzJ1Tkc4UWZJcm1XeWQweEdIUVlNY2E5aVpjWUFCa1ByeE14bnA5T3BpakliSkNibEk0RktiZmM1T3lYQ2ZvMUhpRE9zV3BuWmZLYWVWZzRoSUxjSlRPNndOVWFYM2Rsb2RlV0ZKZ2djMGI2d0g3R0xISlFyQzM2azJWRjRPMndzUDBzYjd0S1U4b3BJVVNlWGxaSVlRd1NjcUdCUzZTcGRVcnZqeTAwZzRLbGxxUE03YmtTVHY4aEhyVVFCZjFscGZuREh1cDNQNmdNVW9JckhrOVFNVHRhNVpOU0tmQ1dYVnVpZGM3MHFGK2tGZUtrU0JCTGZLemloVkdyTGM4MlY2UFJkUTFRRkpPV2JJUVFNSVQ1K3NoQVYzeVZpNWx4bktEbmQ1V3pBYmtRdE81VkNYMko5WE5XZEpTQjdkWHlmU09oSHZma3hWSTVEcGhTNUR0VGNvZUhvRVBSK2RVc3loTkp0bjVNbkM5Z0g4bGJKVFVwR0Nmbjg0aC9CSjdZdTUxK1J5andodk9NSk1BRmRzMXlQZkUzTXBVY1dUbTJiMlpiMlVtaG9ZSkpmNG91RE95MVR0VnpwYVNXV05KTTkra3M4Ym1DcE1XYldDbHRuay9md3lGcVpFaE80OTVhMnJaa1JxVDJldmwrclBvbEhFd1hMYnprVityVXhodFJCRHVtV0ticEhQaUs2a29tRmZYbHNUSnN5U2JQVWNVeTNsZkw2QTdWdjBCSjBEVlRMV0Z4SCtkREFTZTV4blFzQlRiV01mS0dXRVM2WWJmUlVDRjhsMEtsYjJqbzhIUERzMEgrR0lZbXJNU1Rvcm50Sktud0hnZWxITlNZYnkrWWtMUDM5R3FZcUl4OWVkeHpoeTAxaWJyaHBiTm96RW5tR0IvS0szMGlkb2JzalJWbVBnc1NIU29sN2grbGRGNTRORUg4bXJidHBqOU5KZ3VveEx6eU9kcjhoWjdmRitXOGFPY2s3dHhjQzhoUFRkejRpa1QwY1FVc05Lek9XcEpLbk1zNXRRZjZSR3BzeUdEeUFIZlBxeWlkM21SS2FMTmNHWmx2Y2F3UjFGVGo1czZUeHhpT3F2aTRxalo3MDN2alN5TGJBcFFTNVJDVEUzUDRSY1VMb3loVG5lQVA3YlZwZHdMUmRZekR5d29xa3JxSFNHTmhzU3lUdWJXbHRQcm5yZFFBa2hJVVhaQkhiRy9MaXd5QnEySnBQdUZqNktFWXRRR0hEWXRXaXdmTHZ1NkhKWDNHcUdLMGVkQ3RLN2hTREdhMHdSWjIzUnFGL1p5RGs1VHNDdHhBWXhWN21ocVRyNWNBNEd1MHdCTVc0SEFTZ0kwaC85aGdoR2NyZ1hCVXR2MEZEdWc4RVUwQ0RYQ2hxTXEvbnJad3Y3QXZiazNsWms1Zjc2NTRtanRYRC84em5xOG01RGp3ZVFpRGdMaWl4YzQzdlVCdk9GNlN5aVltWGNsUUlmZVJWQ2JtNlBTdC9GNzV6Q1lhYkkzM3ZVOUxiYm5PbDlNd2ZVcndJVEtuekVtQkhCdjYwZEVBSWU5bkowdjJRbE9JVDRWRHlZcVNPNk1UWGJXZE9tSUZPNGFoVmRrb0pZbEE4NE5NanlERjhaOFdTWE9TQUNCdkNLdGFiMG5uTmU0c3p2Tk9rWk4ycmVHZlRUVWx3R25iRzhLRm1xYTcvT0Z6NlE5SVBwdjltQ1FhWVFzMnI0aElsOUErSTNsNDNzWXBJTWpGMWV2S2tiaEZGemNGdGQyTm01U2cyTExHeXRDNFRqMXZFMGUrS051Z1dmV3orNkg2aFZHZ0s4TVNIWWszUDFkck5qdlJ1UWUvWC9Xa0R4ei8wM0lWUTNaSlJ0eGFINWU5MXpyNTlORWg3R2dKQ05wSGszbnE3djVUTDJoejBzU2NQL1lOQUVqOHdvTWhjNHRDK213cVltSVcyOVhQaWNDMUU4ZGV3QUpKUUtDNUhtNk9oeXFncXE1bmZNLzFEUk9sTE80Sk9HcjNPb0JYbDNnUWtuVTJ1Um4wWFBKYTZtMThWbjhHRHByMnZFSFRDaDJoU2dqbUJpemFqR3orbjNsaFF2a3Nyc1BUZ3Rka00vVXcva1Fhd0JkSkVaMWpTbmtqT0I4NzhUS2x3TVJVRXRaa1NGSmgyc21XUjZCYkRybDFtb3pNaFR6U0lGa2RyQmRwSWhQYjZSOHRPdDdrU2VlQ3c5R09XSmY3MUdGMU1ZL0lsdWNsRS9hbml4RGVYRkluVGNnYmtJQ29QRkVEbkw1ZWdQUnNKNE8rUldwQlNwajRtdVNKQ2FmWTB2S1RrT2dLc2wxWE8yQllZWXJNSTZ3cFV2RG9MbW03eUlYTGhDWS9iWGJlRHpYYVlPZ3VyS2RSQU1VM2dQL2Rha1ZrMVhuR2UvZDlXbGkvSlEwYmhXSUUwOStHOGwrZ0ozVitsRHNYa3FOWWJ2YU5PWnRrMFJnZVZWWHZpZ2wyQWszZ2VwZVZIUytXeDJzU2FvN0oxZzE1WTNYaVE5TWYzNUUyTGtYVWhuM2Y1ZVpvTys1OXdnTlUwTEdmTkVZN3hJdHl5ZVRQZmMwWS9oamg2ZDR5dTFvTU9Cc3dLbFFuWkNRbnJCL05nRTdRRlh5bmxScEtiNTJmdHJ2VHhNSFhyNXFGWngxYVlzTUsycndtMUxEZFNBMW5qR2Z5RDBYRS9Sd2lIajE1RWpSQWl2STNkS0pQSUt3TVFDby8yYzFpMVdEWjJHaU5BN1RseHo5UTNIZnRMVmZ5RU8vZWs3clBnSytzSXNhRENPUi9FNXE3YS9GTFM2emh6M1NhUTdzTHN5dENNREcxUjVHd29Ja2pYYWp4TWdPamQ3cnc0SVNTNDU0cmdJOXB2ZkFGQ3VKcC9LWk5IYVlVMnBLS2h2eXRnLzBicFZCQitTdGNRcndLMEhWYm15RURHdDBWZDU0QVkyTjJ5djF2REFHVnNxdG1rdmcwK1grWTVXZzRtNERsNlJYMkFRYmhMVzlFRXFMKytxZVNnNzRwVndxTThoM3FEa0dEUXJ5R3JNSEgvdnZIWDN6N0xmYll4UVU5U2prcHVrWjZEZ25DZnJ4NVAzSXkxKzZoc3oyTSt4aXg5S3Y4WlJVS3kyZmRYcVVwbU1xRHVraVhja2FnajVDZHJQZnArWjFHQ1dHMjh4eWlnVUZZL291enJjaWN0RzFSRW5pa05XbGRtcit4V3hWWVhRSjFiTXJpS3Y5OUZYYVF4Z3ZPYjgrQ0QwUzlTOGhjOWFuTkNIZWk3RmRaM2VuaVFKZHRHYXRadGgrdFh4dkp1NGY2dWxzUkM1NzBXMkZ4SlhJU1ZtSTZmM0FYaFN6cHVkZkRabWVMbnNUaVNlRWJHUnNsZng0OVl0WGxNeWVPVHMrQVZJZlJxR3ZUa2hNMjB0V0E5Q3JUWmtiMGxkN0NGT1hYc0lLRzc1U3hpeGhWY2RiWTM4UkNjNk1SVW9xM080YTVlcGFFa1dvWFdMQlNqNmpQbVMvSW9UbWFjMUZEbEFJRjFkZ0FQMklOR2pTTlh5WkYvZ29Uc3dBVjJXWWNjb3BoMHc2MGhEd2dRdVVZaFJ3T0JRUFRkZXZlbXFHc1FvZFdQU0ZGZERseTJPelAzSm1UelJYUzc4dGd5UDhEUVI1WUEybmtqd3RFMGRrTitJdjV5dXc0Y0pGOVdJaWk3WW9BeTZTVk9yaGIyV3Y0QnpwWkNtcDk4TzE1SnlEL3AzRkYvUC9NRGJyZURDNmRwUG1hTFJ2aDVteWptOUJ3N1h5aWlXeVk2UnNtNUFROFBxa2FFRnlhREVhRGx6ckNVbkptOHhZeXpuam1ESVBoTS85b3dFVE1RaHFHd1JqeUcxdkJDZ3NOTE11YzRMVXJ5RnR5bVM3R1FDaG5wMGxXZkJoUVVMY3N5YkJqMlZVVVhaRlNDRTMyeVFBb01rRDBqdCtoQjRwRk9XL3V6VDZKSWlGTDdpcjc4LzBLUDBLUlp4b2Z4Vi9VMG9vM2toYW5sWnF2d1hEMktDSkdUaWc1RFUvOTd2OFFQRDF1RXpycVJZRzIwbXZQd1h3bFljek9BQndwQ2U5UG4xZjdPdWZHTFl1OWJlSUlWcGZMaEV2NXFJdUk1djAzUktqR1prc3BObVRvWGMwampkdWpqUWFtNGJORnA4NUJxQ3lnZDNQQWhzMjAwM3RId3ZGeVMwVnIycjJPYTg5MGVBVDFuSzZVTWlsbDF6Y1lkazlWNzR6VGV1SGRsTUFQTE9ETWFKNHQ1NjhId1ZjM2tHQVc1bUpsdGlWNTk5Z0VHdHRXVFlZYWpNM3RESElYQm1iSFRMSFNISEt2c2o0dmpZeEllcXVaYlFpY01QNWc2R3lIYnF0cjlCaitQVEV3dy9LWlFEdHBaMmMxd1Byd0xFcFBSeG0vcHQ5LzFSZllQRnBvNXVlNkhIcWNxaTVla0p3ZG0rdktITWhyZmFBTnZZMHVhWGlHb1lIR0JxenhDU0VkNzF3czNiVFNrWU1VZThxNk9HVG1DMGp0Sjh2a1dYbG9lRWtmZ0lnYzg2Ni9kZmtjOXJySTB5WmZVMEkwNkRjdVdMNGorb1c0Qno4Y2hJWWZJMFBka2JZK0NrdXhQNkVFdys4b3M3aEpOTlRWSUFoWlZHZEFnS25HWUQ2QUtHZFdFNEtKamR4b0MrZ1JFbld6RnBKUkdkNm8yb1NTK1UrQzlDT2VDUTRydW1rb1BnQWk2YlQwQzRWQjgyQitXMGY3M3VnenFSdWRNTXBIOFJrelZGMlpDNWFOdTFUQnJNUmVFWFBmVVVKL0hnRGhIdERhcmk2NHFPYkN3d0h2bUVLME0zUFFUL2c2eVMzVHFFc2xpSHRoeUpldElNN2d2bDlJVm03OHE3R09JSWN2Z0s1eDVsMk43Y0RIRVI2alZVcUVLOGwwbitDeHRRandZdXlRaitqUFJoZCtJRWo4T1Z1V2o5Vm95RWdHeHNadktvUnMrWDZvSitEeVlobnNMKzNBUklyUTJlbUJDaXZNUmFBa0paTjFKSkpHL1dSdTgrRnBLMWZ0V0RseVF3TnkrN3RCczFDQktWYy95cC9PR0I0anpVUHJkSXA0cVNqVVFYRUs0QzFQV09vQ2YzdE93QWJnRnV4QlNUTk4yQzhJTFlzbUN0T1J0bW5jK1hScllpUVYwdjZiNTdYZHI3VWpkRjFqUkJQem1SRzRoOVY0ZkV0Q0Z1amRrMFJTUmVPc2lsUGkreFlGVkpYN3N1eTlQcitpUU9yLzIzd1VxbGhxV0JrdDhWalRnZ1JiNFoyekplbEhMUFREZW02QkR5VUcwWXhBOFgvU3lPRGpTcE4zZEkxYUxCbDMzZVhNNHdZWWtqOHozSHA3OWtITHdUM3ZFa1k5dmZaeDZHMXcxMnc4bWM1c3ZMOExXekIvRHJ6Nk4xN3JVenY0M1RaRm9hUzJRdU5zNGVZOW01N1dDdWlzaVlTNzlSN3VETGFZM1d5REl5MjEvNzYzWXRwbzBNQWVZWUhuYjl1LzVNd2tMbWNIeFVMZUd2UzhCREpjVDRSMG9lUkVZcDlkUGY5MHBpQVNIekQvVzczMExvSW5URC9ZRjU5MFpWNERMdHZ3MFNNR0FsZUZNc00yS2JsWld5Y1hiMjFtNnpPVnBJYmFYSUN1cFRCb1hESlFpWWJQZm82QVF5N1R5Ym5yemt3YVQzNkxGY1l2d1lxOUEyamoramRWMGNsc3BpTEswUjVJSkJEaXR0dWIwcjl3anl2bS9VbzBROEtjRU9UL01tNjJpVlRzbHkxOHdjc3ZrbFZtVlNUQmlvaWVwSHN2UW8rTnltWDBwT0FLcmRDYXl2aXg0OUtacXltUjdQckcrUzJwTUpsaVZqMGI4d2FIM3hCT3cvVUhhM3ZwUk5yZExEaVpjNjN6R3hUMWc4ODJVdVVia3M5ZENLUWtmTEVacmJuYVBXaU5mVkMyUCtQSmp1cmhJemVpL1NTTWx4K1BvVkRQQnJQWlhZeW1XanJkc0FsWmx0OXJuOTI2cWxKQWNqNjFvaTRGKytaazNFMXlyTWM1a25lNlZyVU1DblhpYmZ0OFZwUkY1UkpKTGR3eU9TRWw4SllPd29QYjlyZmtaQmxiWXpDbVZuYWg3Qjk2RVQxRTBieFArUzJ2VklrRmM2WUNtSUlGdGpwTUV1R3h5SWxEN3RwaTRqUFE2TUc3b1IwaXJKVWNweW0wYXBtWktBOUR4MHNPMVlTbXczcHd1Z1VwR0I2SnlYbEhBckJsV0EvZTBhOTl6TUpoZENyMGxLc01wWFdYZXF1azRUUkJyNTRpU3JrWHhybzkzOXJGUnhKVnRqUnBBZE9KcWxyMVdzL29BVEhaa2tKZTZxMnpYOUFmbENQbVZIdDg4TWFyUUZ1R0F2M0owVWNRcEZNV0xPMGdUME1PUDhmQ2k0NUtmM2FOZm1zNEoxMUU3TmMxVFBPM0dTcEJ0eDQ0em5wWVNoa25XWGxPUkIwYllXVFIyMWVHMUExMUg2MmVraGJhejJXd1ZVaEJ6OXZUSTVJcHVrWGd5VEwrU1VZTjVQblhlUGp4NzArNmgvV09EeEF5T0FzcWtpYktROG1rRVZBa2VxYjZ2c0VPUm9PY215TDhWbTFSY205cnp0L25FM0Uzd3NpdUkzME1oVkl6U1FGZHlzbzVBWmoxbWg3ejF2aGNEQnc2M2ozWE9EYlJZNk5qL1hEeENSVXpDS3hOb0FOMWhyWDcvWktmalR6UXVIMzhJOEhYSnY3M0pMVHZ4OWgwYUJPcGRrNFd5QWlkRGljbnEvSW5LWExWam9ZWmRublFoWXFEb3MxL0dyTytxa2tqR0JkOFJtTFV5blYwSkg1QXE2M3l6L1FrcU5IOS9nUVVEcFdnK3Fud3gxeERLM2J3Q2JhRnVVZ1ZaRlpVaHJVVXJiUzFIQ2RWMTkrWjh5a2lsaGFiQWhhT0szbk5na01PWXBDZEp0WHlyU3JIOVREOGU3UjA2bWozL3k5UGZQZVZqVFh0NkU2aDhBYmErZmxiemdSTkZmcE1zR3lzZ2RQQkdaV1ZGY1RmSXFEUmczMk9jTVdUdkhCeVJ3Y2xMeEg2bzJrSk0xQUpGMGJpKzVYSFZsSU9DUHNoUHBtbS9lc2J5NFNWeEtuV05CZmlJNFlIZG82a2E5YVR4UCtOMTkvVER6SGhuaSs4TlJ6N2V1NExBRDNKemZOdUQwT0s4ZU44SjQwTjlqL0ZOeE5BUEkvcEhPMDZXbVJaeUJmMEtCbGdjSGNMTXNBMTZiTGVsemhjNXZySlA1R2ZCRC9lMTQ3dVByakhXakFrMS84YkdSSkw2RVIvdHFrVEk2QUFaaC9yREErdG01Z2ZHbXoxOTZOWUIyeFRiQlFkSENnenZIb3k1Nk9sN2s3dmIrdTZnTjdMRUVydDFBYnVGdnJwOWNBSHh0WVBlQTY0TUM5eU5JV0VObUVyaUVwYldUakxWdHpraExTa3QvbnA1VDNEQlVKYU53OWorRXM2c2dBeFdJK1AvUXRCK3p1Q2J6YmhZUVJBeDByTzlWeWNsbjdzQmQ2cXkyc3liZHdnK29xb0JDaG9GdlhFay9FQ00xQ2JsUFZvd2d5dXVTVWozMGZqd0Zqb2RKWHVNTzlKR2F3Z0pnRmMvVzNwclZ2ZkhpYzdYRlJjcnN0Njc1YVZzeTFLdXBsbCt2eGR3L25ubTVmdHpBWEhXd0poQWY0UktRNWVLOGVid1pOMGR3cjJURkpoaFhDV01xREdHaGo3em5Jek93MDBhbTBTalZORFpVRTlKeHJDY3BZVUFTeGY0dVNScmxCZDB0Y2NTcWxhNWg1bTNoSGc3c3I5Mk1IQU52KzUzTHhxQWlxZVNGaDA0S1lTdWVUK3J2RHhlb2Roblc0YS9FQ09OK2lndjRsUXNTMVgycldBaDZ5RnBTM2w1eTFwemlERE9NVFY3RWhXcmxuc3BqYnBENHdjajAreEp2VW80UkJ2TW4ydmM1RnJuZlU0azhnc0RJWk1DQVlFeEg5a09USjl1YjNkbFhBbG0wUHJCcG1nVWE5S2c3Q3BLYk96UlVsdXkvQU02bnYzbkIwZ0plSzFtalcrYlRtc3gvS1BpTXk1c1FNMk1nSENCSHg1NnY2dkdFQ2krS2NhdzVjMDhIaUE5elZVUGV5Z0syQ0tGb2p2bTRqQkRmN2xKZ2wzRW9ycUJtV0xlWDA2Y0NVMUwwK1AxUHdPSmpWYkFKL2lqTGxKa2tDS2VFZ1BpU242Nkg2NUpZT2JZbmFEQzVrKzU5ZjdnWkc5dno2aWZ4R01tVG9pRkdqbmxlS2JTNmNPRTcrZzI2WVFEeVdGV1JRVllwY3kxbnpaNWtSUGE3VUE4NGg1bDVTZ2dlWnNtT096dElLeHBvVG0wblZVV2QvbGxlRjZJWW9KVEVzREhvQ2lnNW5tUTFZVHZncCs4TTMwcmlwc3c5NXMwVng0SXYrNWNHaW5qSjh0SzRoZFd6dFl3ZTVLOE9zeTBaTUdQaUI3SGl2VlZhbVYrRUVBdkpLVjNXV2FFR25mb1g4WmhDbVMzR0drRzdocnkyN1dJUGFMc3ZTVnVaZ0R5aUtnZnU0MnVEazN5M056c3JzaFdxYjdKL1lNSTFCSWlzZmoxY013d1UzbDFDYVlMeU95dWlwR0JBQWtnMzJxbnhZZ25VN2YxNE5HMVVLeVNMTVl0cmNuY3d3SzFFRXIyVDF0anFaZnFqY2lyd2JRbmhtVzROY1ZRbTZnWUgza3lzSDVrdlhpc1VCMjd5VkxSVy9MQ3d4cEthOFdXMGVVUStqbC9udkVGeWphZ2lMemVOY3ppNHdIMzBlQVVJbHJXN0tlbjRwUnVveEF5aUhURW13Sk5zQXFmY0VyUi9hdDNpUEVKN084Q0l0OTYyT1Z2YmdHcEl3amMxV0dlZlN3eko4SnNacllMTUk4NmNSUUdzeWJHZmIrMXZ6M3BzM01YNkZxM2g3aDZkekh2V2ZZYXpXeDNxM0xUei9vTjZZUCtOZngwaTV5b3l1L0ZudHI5NnVQSEVUZ281UEkwS3diR3Fvdk9DdTh4d3NtRVJML0RCdlQxd2dlOEM1V3k5ZzlrL0loNjNvclBVeDl1QUVtYUJPTE42bTYrSlVJTnpYK3VteWxJNmdBOEl6ZGpVeDN2WEU4aU9MdVh3aVlYNlAzUkh2eXJHL3VOR3VjYVR2elBMRTNERGV4VXlaNE5yTEZTUk9BWUJLWDFXYzhjVG5vRDBPR004WEQvd1M3eDBiNVR3UVk3WjcxeHFjdFVBak10WU5PNDVQWmdMTzYvMXFGUDhmOVFMaGdiSnVreFVhMGhrTUxXRjJ1WDg5VWhNVk4xd1NGSGpTeU1xTkpDMlF6S1ZVcjE1ODVFemd3anRXOVJ3MkRwZE5pcldSVmNZWng0bDh6Y3RhT2VYRE9jaTBzK3h3bGsyRkdpdlVIUTdMQ2tqNXdJNWJOR0piM3VCcTJldVMwWWFCR08xMXM0cVg4cnFWbFRSZklKNVIxZUpmUXlUaUh5QjVuSHEvTHBIZVRRM25DR2NPUFg2WVoraWRXNTdzdGpmMHlaMks4a1BJKzQvdlF1bUF1Ni9mc1FCWXNjdndqalYwMUE0TmVHdkZwWU9iZU0xNjN6dVE1MmNnVTJuRnVlRXFTakFaWUN6UkhFUHdzNG9iUzJyS2Nzbm9Jdm1Eajg3WmZOY2xsWVhWYWNwRVF2OURDUmRCVllBOG5URndrTHVmTjFmVXQ3SWh1RlhISWRwQ21jNEQ5NDVhT01Sc0gvSDhUM3lkZnVMUjcvSHptSjZicGhBTld4U0N0bTBZL2Nub3FVUEVBSkV0Y29CVHdWbktOWWF2YkY4cjQ3VHZNbld1dkJVbW5qU3I3bC9RQXkxM1MwTDNRQWloNHIxeUVYMXEzcTVHZlRDZlhyNldBV3puNWQwSGttWXkxZ1RMWHczVW9Fa3dOeUdPYzVER2ttbEZlMUdNOTR2eVl5UVBzZmJ5S1RIc2t2TEE0aGhrWm05aW13eTZ1WGFWa1Vab0pzNEwrVzNJVWhLazIxbytzcThpS0NIMzJTMVB0ZnFtSFhONmdzV3JIZnBvNGZvRExIT251NFVnbWZyejZIbExrU2E4QWJ4K1ArVXdJQnhxVVpmM0ZoWlFqMnBHbWdLZHF4TnVDUUJCZkY0ckp2WUE1SUp0Ly9wNWs3NVIzc1lTci9FV3dlNHFTRC9pMHYrY2tTMzhTT3lMcUdaNlByNlg2WW5YRXdub3NwUWt1ZG9FTHpXM3lJR1gxYWczVnNsWUNXRDlQUFVETVBvcTJQdE9La0drdnB1Z2NCTUNpOWhIaURPMWxGRm9lWXBrR2NsWitaTGlQYkZWaSsxZldNU2U4WjY0TTVaekYySUlmQnBoSUZiOU9TQ2M4Q0RmKysvUC95VUJzcmpGZWh3S29zeFFsTDA2aWIzallZcmZnL2pKbHU4dWZQeTVZamhBREFrUCt6bXNTQnNzcXArMHEvTXl1bGF0K2hjbzNGVkJ0cEUwMWEyalBhUmFnQU1FZmk2ZEZJZHVZdEg2SEVkZmFIMEU0T1ZyL01INCs3VXFVKzZsVmtBT3NmczdKZ1BzWmpiVExUSFJZL0ZMb2tENmcvU0orbnBpTjl5VXJBVmVSb1NJRytvNXV5SHI4anJkazQ4L24zWEpKbENLMmtqNXZHMnh5a3EyclByelhzTzcxT2NzY3J0cTJWUnhPSjlkVmlhWm83YmcvYVAyYjYwUFRSTUZLOWxDSmRpREdJUXo2Z0RmelJGWjlraFRuSUxJQmdwMm13UWk4U3MybHorK3BBMFp5TmdRQzZVMjA1ZE1GNFpzVzJoazB0TXNBQUxmcTBlL09hTFA2ZzBpZ0Y1UFdra2VmWDJla2ZxcFdOb2pPeUtCbmMwU0loblh5enk3VnB6SlBVKzl1TXRkZDdHS3NlMmNSeWdGTitrSHM1Z2tjUFhnNDArVmhwTXdhVW5WcllseVVtRGhtZmZPZFhhTG9Uc1JUY0pleURNNGdldmVIemN5TGtUWVIxQUpibkg1UTc3RHFCSXBMcG9zVTd3c081N01sSFM5NENPa3VrTjZwUmpibGpBdmExaElzTkZNcVZlbnNPMlltMkZ1VG1UVDlTbHpVSVMzSGhWLzZYdXBadTUzekRiVVdTQVJvNEtEUlNzaHd0aVVzV0N2SENtbGxFK1NpbXErSnNvYy9yUXFPazhsN2JmSVBCR1czZVJQN2VIK0lOaWhYVlVPeHJLeHh6eHMwQU9TU2tXcGNMbG85OCsydEJKWXZWK09vK0xXeXBab1lYejhYbWZYNStuVmFqSHZYWW9kQmdNK0dJNGFiYjZzMHJWTkxlTVRSaFVxMndaTzFuUjFGNG9LZ2JHcTlMZU5sUHo3ZWNIWW51eDdpZ28xcXFDWkczZTJzeEhwVm9yeG0zdCs0WDV1YkNQK0MvR3hKL1pQTmFYZWFHUlExMWNyYVBQWXNZUG9EdjNpRVhIVkNtNmcrZFFZUkhTOE53alRvL29Lc1B3aTlCS0UrSm9tY3ZzMEdCUHhYdGtCdVhqNGoxMzNZbkROcFFHMzJqbU9GVUo4OWUwR25qL0hDN2NBazJmRVhhVURMa0V1Q0FXVUcxZGRNYk96RGhOSTg2c2VMQUh3Q3J0dXlhRkxCZndiSW14eTVQNUdqaGNNa0JpSncrVmpiUFpwM1N6aU91Z1ZvZmwrQmF4QWZLZlVINzNCdzJZdEVoN0t2U2lSQmdiQ1hUL3YyMGNocVgxTWpVeTlOc1FUTDYyendtZjB1Rnk5bVdBaGw4M05NZWdVSTF4NWhTbjQvaVYxNjV4bmk4N05VUXZzcmUrSVFBbkc0YVdick9OWlQ3WWN3YXBaSFF3a3dVVDlvVEtlNUJDcU5OV0xXMCszY2xpU1NDTG1xRDhnQUo1cHhKNzA5S2hpMnNHVm1xSWE1dUgydmVmUDBOMXN3YTV1THZPKzVlUnlUNWJxMndWSExwL0EwL1R1cU1wbmFPcnYwalJWc1BFT2hXVUdhdC9wVW5mMVo5YkZsSUE3RjZFUGl6azgwQ2JJNStOMVJRZTFWTUFnWlFaWm5TZ1l6cUxDbVlaRUpvcGVjeWJiVTI5K3VYRUlVbWlTUURxZ2VGc2ZMYTY0cldVS1RRSjlHb3g0SFdPcnNnWEoxZDlsNlBlQWpOUjM0Snp5OG5CeEl6MjRxMlM5MXpTR1J2N0cyVWs0Rm5COTE2M2N6Q0IyOFZPYUZXRnljV0RpVEJoTzU3eWhhVUNyY1N5bmJ4eUx5UERCVDJ4N0xkOEZMWEdNR2hyT3BlVjdBQTJuU3U2VnFHc3hiTllkdUVEUEp5OWFwd294Z0tTTTZzOWVwRkxZUnVjdmlZWmdaRzA0bk1panNIRElKQldIZW1sdmlQQ0FFYktvRWduNXV2QVJqcEhJcUJ1QUxOVVVKZ2FJc0M4MGljbkhqU0pFV0h1dno3TFhHSkJvdDZTMm12V2wrV05wM24rNEdaT1RUZEF1YmZtNkhpWUl2RUo0T0lXbkNYNVpjVGIrdzlKR21GNndKSFA4RDZPS0ZZOFo1NzJKb3lNVkc4ajhOc2lQallIcGhrQTFlbnU4b0RsVHJ2c2cxc0tPNTd3UEp0WENSZmZpZk5keG1ZcnBHR1llVEQzS013OW9wQkJZQThYOVBMK04wK0Y4Qkp1bjE3VHBpMFVrdWhIczlKdm5EUm92eEJxcWJZUkljYUhvSngxNVUyNm41VGJKRG85SGRIY052aWVjNzBEMnp5SzJiSktwVHpHMzA4aS9uQit6dWdpNFpadk9rOHgyaUJ0cTdWL0NIelgrckpZUldLa3dEZW5HZk8xdEczK1d3SVp4WVhoQkI0MDhpVjdCN3gyYW0xKzUrcXlXNDZwZHR6YkhKTTFsM2kxUjRKcU8yTzZ3Z0JNR0hEeG55by9aalZFdmY1LzhhcTl0NDFnTnJvZVNTOWFYOGNzbC9JQW95eXpCekR0QjVmcmE3WUdJZlVNUzZPMjB2VkJnbUJlanp1SGd0ZVFTV1FoQ25XekYxbjNWaC9PTmVya0NTR3BKNVYyL1JUaW9IamdXT294UllhbUN3VzhBbHZMdlVaNHdSVUV2c0d1TzVrbXhtVkFDTXNUS0dzeWt0cFZyNTBkUEtFUFNuaDJXYm9oV210U0o5dFFxRUVraExOQjBYRHcrQURMY0VvQkFRM1RmMEZISHJHdVZQNHZxeGxrV2xBTHhJMklpWEZQWkI1cGgxODZ0OVhrZ2RXMEZYc2NQOVNydWpzOXM3TUZBSU1ISFVhaTRwb0hMcXdBM2R5ZGNjK3BnY21PT0dHdE5ZWlRqeUg1WDRiQitpMXppNjFJU01SK1FhU2FISWd6b0dpMXBDOERZODRhMFFFOGNvc0RtQ05ZbGxCbWRCNDZtZmdOVjZRSmo0PSIsIm1hYyI6IjYyZGU4ZGU1OWM5MjdjYWU2MTMxYjJkYTcwMWU5NWIwZjRkZjRiYzY2MmQxMjliYTIyYWI0NzgxOTQxZTA3ODIiLCJ0YWciOiIifQ==
+<aside class="left-sidebar sidebar-dark" id="left-sidebar">
+    <div class="sidebar sidebar-with-footer">
+        <!-- App Brand -->
+        <div class="app-brand">
+            <a href="{{ route('dashboard') }}">
+                <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 100%;">
+                <span class="brand-name" style="width: 100%;">ElPato</span>
+            </a>
+        </div>
+
+        <!-- Sidebar Content -->
+        <div class="sidebar-left" data-simplebar style="height: 100%;">
+            <!-- Sidebar Menu -->
+            <ul class="nav sidebar-inner" id="sidebar-menu">
+                <!-- Dashboard Link -->
+                <li class="@if (Request::is('dashboard')) active @endif">
+                    <a class="sidenav-item-link" href="{{ route('dashboard') }}">
+                        <i class="mdi mdi-monitor"></i>
+                        <span class="nav-text">Dashboard</span>
+                    </a>
+                </li>
+
+                <!-- Admin Functions (if user is admin) -->
+                @if (auth()->check() && auth()->user()->type == 'admin')
+                    <li class="has-sub @if (Request::is('adminpainel') ||
+                            Request::is('createuser') ||
+                            Request::is('allusers') ||
+                            Request::is('allorders') ||
+                            Request::is('allftid')) active show @endif">
+                        <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpanel"
+                            href="{{ route('adminpainel') }}" aria-expanded="false" aria-controls="adminpanel">
+                            <i class="mdi mdi-monitor-dashboard"></i>
+                            <span class="nav-text">Admin Functions</span>
+                            <b class="caret"></b>
+                        </a>
+
+                        <ul class="collapse @if (Request::is('adminpainel') ||
+                                Request::is('createuser') ||
+                                Request::is('allusers') ||
+                                Request::is('allorders') ||
+                                Request::is('allftid')) show @endif" id="adminpanel"
+                            data-parent="#sidebar-menu">
+                            <div class="sub-menu">
+                                <li class="@if (Request::is('adminpainel')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('adminpainel') }}">
+                                        <span class="nav-text">Admin Panel</span>
+                                    </a>
+                                </li>
+
+                                <li class="@if (Request::is('createuser')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('createuser') }}">
+                                        <span class="nav-text">Create User</span>
+                                    </a>
+                                </li>
+                                <li class="@if (Request::is('allusers')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('user.all') }}">
+                                        <span class="nav-text">All Users</span>
+                                    </a>
+                                </li>
+                                <li class="@if (Request::is('allorders')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('orders.all') }}">
+                                        <span class="nav-text">All Orders</span>
+                                    </a>
+                                </li>
+                                <li class="@if (Request::is('allftid')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('ftid.all') }}">
+                                        <span class="nav-text">All FTIDs</span>
+                                    </a>
+                                </li>
+                            </div>
+                        </ul>
+                    </li>
+                @endif
+
+                <!-- Drops and Orders (for authorized users) -->
+                @if (auth()->check() &&
+                        (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
+                    <li class="@if (Request::is('drops')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('drops') }}">
+                            <i class="mdi mdi-truck"></i>
+                            <span class="nav-text">Drops</span>
+                        </a>
+                    </li>
+
+                    <li class="@if (Request::is('orders')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('orders') }}">
+                            <i class="mdi mdi-package-variant-closed"></i>
+                            <span class="nav-text">Orders</span>
+                        </a>
+                    </li>
+                @endif
+
+                <!-- FTID (for admin and general users) -->
+                @if (auth()->check() && (auth()->user()->type == 'admin' || auth()->user()->type == 'general'))
+                    <li class="@if (Request::is('ftid') || Request::is('createftid')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('ftid') }}">
+                            <i class="mdi mdi-file-pdf"></i>
+                            <span class="nav-text">FTID</span>
+                        </a>
+                    </li>
+                @endif
+
+                <!-- Admin Functions (if user is admin) -->
+                @if (auth()->check() && auth()->user()->type == 'admin')
+                <li class="has-sub @if (Request::is('login-logs')) active show @endif">
+                    <a class="sidenav-item-link" data-toggle="collapse" data-target="#logs"
+                        href="#logs" aria-expanded="false" aria-controls="logs">
+                        <i class="mdi mdi-file-document-outline"></i>
+                        <span class="nav-text">Logs</span>
+                        <b class="caret"></b>
+                    </a>
+
+                    <ul class="collapse @if (Request::is('login-logs')) show @endif" id="logs"
+                        data-parent="#sidebar-menu">
+                        <div class="sub-menu">
+                            <li class="@if (Request::is('login-logs')) active @endif">
+                                <a class="sidenav-item-link" href="{{ route('login.logs') }}">
+                                    <span class="nav-text">Login & Logout Logs</span>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </li>
+                @endif
+            </ul>
+        </div>
+    </div>
+</aside>
+
+<div class="page-wrapper">
+
+    <header class="main-header" id="header">
+        <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+            <button id="sidebar-toggler" class="sidebar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+            </button>
+            <span class="page-title">@yield('page-title')</span>
+
+
+
+            <div class="navbar-right ">
+
+                <!-- notificacoes -->
+                <li class="custom-dropdown">
+                    <button class="notify-toggler custom-dropdown-toggler">
+                        @if (auth()->user()->type == 'admin')
+                            <a href="{{ route('user.all') }}">
+                                <i class="mdi mdi-bell-outline icon"></i>
+                                @if (auth()->user()->type == 'admin')
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                @else
+                                    <span class="badge badge-xs rounded-circle"></span>
+                                @endif
+                            </a>
+                        @else
+                            <a href="{{ route('dashboard') }}">
+
+                                <i class="mdi mdi-bell-outline icon"></i>
+                                @if (auth()->user()->type == 'admin')
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                @else
+                                    <span class="badge badge-xs rounded-circle"></span>
+                                @endif
+                            </a>
+                        @endif
+                    </button>
+                </li>
+                <!-- end notificacoes -->
+
+                <!-- User Account -->
+                <ul class="nav navbar-nav">
+                    <li class="dropdown user-menu">
+                        <button class="dropdown-toggle nav-link" data-toggle="dropdown">
+                            @if (Auth::user()->profile_image)
+                                <img class="user-image rounded-circle"
+                                    src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}"
+                                    width="150px" alt="User Image">
+                            @else
+                                <img class="user-image rounded-circle" src="{{ asset('/images/user/user.png') }}"
+                                    width="150px" alt="Default User Image">
+                            @endif
+                            <span class="d-none d-lg-inline-block">{{ Auth::user()->name }}</span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-right">
+                            <li>
+                                <a class="dropdown-link-item" href="{{ route('profile') }}">
+                                    <i class="mdi mdi-account-outline"></i>
+                                    <span class="nav-text">My Profile</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-link-item" href="{{ route('profile.settings') }}">
+                                    <i class="mdi mdi-settings"></i>
+                                    <span class="nav-text">Account Setting</span>
+                                </a>
+                            </li>
+
+                            <li class="dropdown-footer">
+                                @if (Auth::check())
+                                    <form method="POST" action="{{ route('logout') }}">
+                                        @csrf
+                                        <a class="dropdown-link-item" href="{{ route('logout') }}"
+                                            onclick="event.preventDefault(); this.closest('form').submit();">
+                                            <i class="mdi mdi-logout"></i>
+
+                                            <span class="nav-text">Log out</span>
+                                        </a>
+                                    </form>
+                                @endauth
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>

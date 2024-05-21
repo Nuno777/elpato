@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6InQ3MEJLOERtdU5Mc25DeWQ4OHo4Qnc9PSIsInZhbHVlIjoiNXp1ZVkyZE16Qm1QcUJVTlBrNURjOTU4d0crNTR6WGVLQlNRZ1pBSEM2N1NKNEY5czRma2xINkF4cUtXZ3dDdlQ1R2Y2Z1dpR1A2cmFCd25PWHV6cnIwWk9ma3lpUy9hVGhORzlWdW1NZS9ZWVJGNjVCaHExRWFVZ2dpN01oR2FtTm1nOHRlYURMZ1QzS1BtWENKU2xXRDlDWmJOYVJubDNGRnRBdk85RE1XTC82Vys4TWF2Y211VzYybFR6bTF4TUFYbHRDMkM4cHlaMlhDTHZIZXRMUU40UGk4TEFvSEowNG95SkgycldkdTlZb3FlbUdwRUFqbU9Ic3pzYVZUNmdzaGlhZ1YyWGlSd2YxTUlhOHRUeVUyZHZRazFpK3RwbnRwRDZ4R2UvVkZpMmplL0JHKzNuMWRXMDA5bkF5Zld3MzljakU4QjBXSmN3WWs4UkRyengvNm45TEw0ZmdNbEtacm1jVUFVeWJjR3F4dFI4UkZQYUZRNEhjRW5xRmpZdUJOVElVMzRESkl3eGVXcmVxOUx3TU44VTU4eEpWekljSG9WK05BaXQ4SC9xcGwzcWtNUk5MdEFWMzgxSW9TSjRHcGkwanRGRjcrS1g2REdzNmdUeFp2MzN5d1d1dEVNZ2FnMW94SHdrS055NXl5aCtPVmdwcmxQaXdDSjVxK2FFNjV3VkFSaHVJbmtVWE9OZnFWZVdhbGFmRS91S3NEcG9sdmxnZFdNeFNjMk43c3ovL1ZvS0t1NHJMOUt3bUE5MG9OY29SdjFkZHB0bzlLWHpSbnFFZ3crelJsMk9ZQXlTNWtmbU1kM1d6SE5zN3EybGd6UmIraGZUVy9sRFVjaGg4RnhoRElQb1BCL1d5UnEzV2RoYzFQTGhmT2hTWGVTcnZMbGg4TFpmTkVBMTBCWG9ndDYzQjg3dGxKdEJPQnI0dnc3dmsvUEhvT09tMmxQa2hJeG45dU5NcVRXMWM2ZlBBUE1SK1Mwd0N5THBBeXRkTlpQc3RYb0RKcko4UEY5YVFFWldaYUpaYTVBeXVqTkt3KzFZK3hDMXZhL0RsK29pdStpbFBVc2Y5Z0Q3Z1RVU3U2TG9EcndVb2o5QU1UeC9QK2FyWTBVaUM2Zm9xVlE3bURZbmZkY3B3U2Q2VVdQTTBaWU1FaTJyL1RnTE5BcEcxUS90Y3E4eHIyMGV3K2NDVE9HQndhSHNocG9IVEhqaHZBQXpLS1lJcmZhQTlHb05INEdzellJMjdybXFUZjBXQlR5RHArQXlvdC9HdzlNWnVIeEtuRDZ3d0ZhVUkyRWpIa3VuaGlqdUE5WWlBb1B3c3ZMQkd0UEtKK2NTT1UzL3Y3WHRVRDkvVW1SRGFFVyIsIm1hYyI6IjkwNjIxNjIzNGVkMjNiZjAzYWMzOTQ1MzVhMzFlMjUwOTAxMTlkNDZlYWYyYmE2MTY3NWYwMTc3Yzg5YmUxY2IiLCJ0YWciOiIifQ==
+{
+  "name": "de",
+  "options": {
+    "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+    "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"],
+    "days": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+    "shortDays": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
+    "toolbar": {
+      "exportToSVG": "SVG speichern",
+      "exportToPNG": "PNG speichern",
+      "menu": "Menü",
+      "selection": "Auswahl",
+      "selectionZoom": "Auswahl vergrößern",
+      "zoomIn": "Vergrößern",
+      "zoomOut": "Verkleinern",
+      "pan": "Verschieben",
+      "reset": "Zoom zurücksetzen"
+    }
+  }
+}

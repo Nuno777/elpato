@@ -1,1 +1,62 @@
-ENCRYPTED::eyJpdiI6IjJYQ2FXU1A1eXN0WG0wL2FlUzZPcXc9PSIsInZhbHVlIjoianhpaDJRMVpDMFQzeFpuVWx2L09XZkpnbmM4aEpyMWtEZXFweTFYTTVud2IrMnh0MlRSdm1KQmhKNEtaZW5CVVZ0ZXZnYTAwb1JVWkordlhKb3FZNnE1SENjTVQ2cUxPeDRhVVFOcGJIM1FqeWlFbGowMmQvUTdBeUU1YTJLUlBnV0NjbFQ3dS9jeXpsNVhpZU1CUXFkTE5PWGNPRldUQUQxc3JwZGZrRVdzN2R3cE1Wb2hOaUE0bjkxcXVVQjhURy94MDVQSDFuYnZUa01tRW1vMGtJYzNSRk9GMWdPaGo0NVNTaXBvL0JpWUI0UXBDcThrcGlSakJnY00wN2xGTEdqV09YMWxwcDNCVTZHRVZRZ1gweXpiVFFINzk5c1Nhejltb01JWUcxNHRGTjBvY1pqMkFCNy9jdzJjU0s5N1JYVDJFcFVvaGpHaGV0V2U1QUU3LzY5Q0ZzV2ZUQkN0cE8zT3pUMDhjd2RuU3ZrV3krRnFyTWIxUGJ2TTdIL2NPclJaZEMwa09sQmhCMDVnVVNteUd4UlRKQVQ4d3hkWDh1aDM2OHBNd3huRUtnWFhOOThSQ0IzekRITWdKQVdHMWVGTXhSODYzYUw0bGxCN3k0L0tOdHNYbVNYTWViWVVuTzdjOXFTZWFXRUo3U1ZWUDljaDZHSzViVWpSZ2dyZ2FvT0VEQ2xiOFFGZmNqVHNHZzkrRVQyTFNwbTVoc01UZFloUXhTZ0c5bGpuTDVLdy9rN1o5OVBMZUthN0dhNlFrYmtNa20rcHdsOHkvSExJZDByNEN6WEk4bjEveEN3QXB3N3NOVklxWVYxR1prc2g5dFVuUWhLbE5KWS9uTEVEWllKNTM3ZkFwK3lQZW1XVm5WY1BaQmxIMU5CUExnNnMwaVl3cFlVQkxkb0pPb1Z0US9qd0htamxTa2xQME8ya24xRG9OQXo0d3FVMC9rbnpJTnpMMW1yWXlocTdsQlhjakFMRzRlWTRBLzRVSElPMTJwU0ltSHlTNllzKzl0QkdZZk4xSXArSHZPR21VaVdlV2RjOHBZVXVUUTBQdE5wbCtDaXNwMkRhMzArc2RkM2hFN1NCM3l4RWVUMHRpNmhpcDRySnVnSTBsMTRvSmd0MFcrK29GRHNWdXpNM2h4REFiWGxrbHJpVElvV1Uvd0NMdjlFN25HZEhoNHZLZ0ZhNVl0Y003VDdocHlmbldDbHVDWmNnRzFpRm5RcmRqOFA3SzF1SEVoWXB5L1VBQkZZTldiNmVjY1IzTWNXYlU0NFF3UFVCS2hJSEVHdFJ2RldQeFlGSXlTYW5IMDBKdzM5UmVtRFgvR1BOc25jZERTTSsyWHQvVWlYM2c1MEJoYk9JMGVWMTFPMEIzRk8zYzA1c0VNSjN0VVJ1bzZrOTBGZlU1bEtxQ2Mwbm1WQklOaGRBcXZVbko1cGgzR2NqOXB1OWc3RVU3OUN6WE1YMmhkc2tOTmgzQUI0UzZwd1BSeG95TnQ3M2I3N1BEc0UwVnFmT3BvQ1FYZXZ5bzFnNkt1UmpUV0w4QnFQdEp1YkcvYjFGSm9DUVJ3TnpTbE1NZFo1RnM1K1A5N3ZqbS9hOElZcTVSYUtxcDVLa0JHSzd4WWZjK2V6ODNOWldER0prTCtUZVFWNnY2bzZaMGFPOENYNGtEZGNsNnFma2NvTE4zL1ZRY29ubXRrbWFjeDZ3eEFOZnVtbWZxZWpJb0gxdEFuNmJiV2tDcmZxQUs3QTNXMk1FWjNsdDJjajRqcVBNeTl3d2UvYTNPd0tCQ01VYnpKMHJ6Q21iRXVRam0wZEdTUGF3cVB2WExua2Zxd203YjNFLzloNnUydlZpU2pXR3JDZFBZVCtqYXZ6NVRwSnhvOUduc1RpcVl2MEV6MVluTXNKcWMvZGdTV2xicGJZL096bnoyeDVxcGRuMWszVWM0dm1seGFZc2M1OWZVTnVBK01JSjhsWlVIUXM5bVY1YVo5VGVRSVA3Q3JIcFhjRk9yMkVWdHZ5dFR6VFBmVEdXZ1Nyc25KOCtBSlpxdzV3Ym9UYmNnajVrd1paQTRHQmYweWllU2JaNGJybGlvV2NXQTVDUXVOa05VdEZNWG03dnVHb1Q3VUh4UlpTZG4xekY3dUdPV0pqV3BPWE5DdDRRVFlDbmJsRUNIWjFvSEltTzFZUXBYZmdyR1E5RzlrTHhqS2ZUV0tIYmFvcWEreUVMaFN4bVVKdUVVM3REaUo5Wk9VbC91dk9RMStWdVZWU2FjU0tlMTIvM05HdFg3d2JuMTNhTDQzVzlyb3hWSlo3alZwUng4Umh1bzRrMWpLeHBPYW1HRTY0VXBhci96NWNPTDllc1NrdXhoamFwdnc2YTNzaFR5ZTMwVDlKNkdxNE9uNWtZM3ZkVTFyMzFzNUpqOXBScUVWYzUwbU12NnpZQzhrdUlGZGJla0dvdUwxOGNPN29WOUdvSHdTZkhsMUhIWFJxL2RuQlFjQVgzcHV5aGpsOExYQ2tKYjRNNkQwR2VTbFM1NFhMMExLczNFVUFlSGZUVVgyK3dZQXIyRDdtT2tEM2QrTVYrN21KOHNLTkFjbzM1OFg2L2FYZ2tudk9NNmw4dzRJbllwZ0RPN2hscjI5ZFJWV1owVFdkZFlHUnBSeDBBZGsrV2FncGNQd3orK2tIMmgvaDV0bFFKUHZqcHlCelBwamkvRWhySUQ5YWNUUFoyTXhLZXNjZ2E5UUVQTDhwN2FPTEU2SkpXbHVwb2FQa0NzYXVFUVdYbU1yQzM4WVRwUUtLYzVFWTVYakJlUnJtaXZieEM5UTFaQUpIS28wVDlUbVlKOUgzQkNEMG5kbnljRWpDT2RaUUwrL3BpY3NhN3B3WXplakFRNDJaYTRJc1dtOUtib2pxRmVnWXQvbmNuUHpGOEFYWEkyZWJUK0I5Nll5Z3YvcDdjLzlFakFZTldHUXFUdm1uTnh6NXN2eDcxK2ZYakhMQURmdVRZNVlRR3p3MlFUK1RJU0pRc3FEVVczMjlLS1lDc2pqSUs4YkRXZjJTcnBDWHozVVNhL3N0QjY2eTZxQnBrK21tMnhTM0VTU2NVYytpK016d1BUWWYzVnROKzZ6ckhpNE5qdXNFTUFBcHRkUjJBMjMwQWxFOU8wRUtCYXRpTDFadG1McTV0TmpYWWx1Rk9GeEQrbVROcUdNM3lpaGViMFhJWDU0N05KSEFyVTR2UWl1MjFoWlpWS1ZETE9VNWt0VGtMQ09FYkE3eWRJTGI3V1ZTK3JOekZHMWRPQ0lkR01EODVHcHoyMCtWaTBzZW0yOENsVWNqUzQxZXB5emp3ZUt0Wkt3TE8xTXhNN3dHVlBmOXNjRDNIeGQrazVidGRXblVMRThxWVVNOXdvZ0FlOHQ5ZGFNZUhvM1pzeThNQmhicVRiRmxrSm0zSzRCNy92QUxuQUkzc3ZpOFNqaklpcjhqN25xMUplcm1vWVlzVzFNV1ordGYxeWNOMUhEVTNndWhlUVJrRUY3RnhIRm5TamRlQVZpMGZDMmY2TGo5ZkNMendScDRkN014Zkx1NXhFWEE4ZmtHN0lsdHdFYnZybXpBZFdCd1JFSWk1TWNFeks2a1Y2eURobFNqSGxCVmlVdTMwOW4zcXYwdElwcktrM1kvaFE0MEd3K1IrNS9pTHh5ZCs2NjY1eTRWOVY3ZWRRK1JtcEQzdC9FTDhiYXFzZzBGOFdTdmo2K2h5S3k1akJiYXk2dnllTUdxL2dYNFU3Z3pqRFFLczhYbWozVW5xN2dQK2twM2NpTzVWcVkvRmVNSDc2R21scitYd1lDa1FTL1c2WkIzS0d1eUFqOUZPbkMwTDhJRm5KaThxay9rNkZkMmFDb2Jzc3VUL2dSdz09IiwibWFjIjoiYzY5Nzc5MGM4MTY5OWNlZGUyM2FjYTZmYWFhNmFjODRmOTE1N2MwODUxMGJlOWE4MTIzMGZhMTQ5NmVjOTNhMyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../../addon/mode/simple"), require("../../addon/mode/multiplex"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../../addon/mode/simple", "../../addon/mode/multiplex"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineSimpleMode("handlebars-tags", {
+    start: [
+      { regex: /\{\{!--/, push: "dash_comment", token: "comment" },
+      { regex: /\{\{!/,   push: "comment", token: "comment" },
+      { regex: /\{\{/,    push: "handlebars", token: "tag" }
+    ],
+    handlebars: [
+      { regex: /\}\}/, pop: true, token: "tag" },
+
+      // Double and single quotes
+      { regex: /"(?:[^\\"]|\\.)*"?/, token: "string" },
+      { regex: /'(?:[^\\']|\\.)*'?/, token: "string" },
+
+      // Handlebars keywords
+      { regex: />|[#\/]([A-Za-z_]\w*)/, token: "keyword" },
+      { regex: /(?:else|this)\b/, token: "keyword" },
+
+      // Numeral
+      { regex: /\d+/i, token: "number" },
+
+      // Atoms like = and .
+      { regex: /=|~|@|true|false/, token: "atom" },
+
+      // Paths
+      { regex: /(?:\.\.\/)*(?:[A-Za-z_][\w\.]*)+/, token: "variable-2" }
+    ],
+    dash_comment: [
+      { regex: /--\}\}/, pop: true, token: "comment" },
+
+      // Commented code
+      { regex: /./, token: "comment"}
+    ],
+    comment: [
+      { regex: /\}\}/, pop: true, token: "comment" },
+      { regex: /./, token: "comment" }
+    ]
+  });
+
+  CodeMirror.defineMode("handlebars", function(config, parserConfig) {
+    var handlebars = CodeMirror.getMode(config, "handlebars-tags");
+    if (!parserConfig || !parserConfig.base) return handlebars;
+    return CodeMirror.multiplexingMode(
+      CodeMirror.getMode(config, parserConfig.base),
+      {open: "{{", close: "}}", mode: handlebars, parseDelimiters: true}
+    );
+  });
+
+  CodeMirror.defineMIME("text/x-handlebars-template", "handlebars");
+});

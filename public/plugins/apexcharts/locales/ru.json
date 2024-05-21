@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6IkE1TDZPdHNmSlRzVC81Y0pMcjRIZ1E9PSIsInZhbHVlIjoidFQ0Vk5UREx6RUFXenRLVTJiUjZsVGRpU1hQMWJvV0dSTEgwZHFXcldTOUhoNEQveGsrVTYxanZWQUw3a0ZUOGwwSUc4ZjJGaytLOEYrcE4xVWk1dkVRSTU3Q25XSXJoZVBkbCtTaUt4MmZtYXdydVR1ckdyTjN6UUJFbmg4ZUIyM2xISStldkw1eFJZVWdrcENTZzRyWXFDWHZDT3c1V3JOelU2bURDR0ZoQm9rdm41N0NKSjBySjhSZFlsbGdmZ3JPd3E0YzlOUy9OYUZQWXlSUFQ4TVlQUGkvZWFnTjBZMGVKejM0OTNmdi9XazJPZ3RGOGM5aEVjdm9SSmVhaVYyNWJ1Q09rMUJPZlFmYy9YR1p3dXBCOU4xblduQkxHNmgwR3c5dnlUbklIVE4yOEFEME5HOVlyN3hWS1lLdEhCb24vZUpGRlpZZkdzSjFqcERhV2FGakZ1dHhlOG9BNVowTm1ObXpvV0VaM1RpQmpPcWNGYkpaU09tV25xekNFRUUzVU8xMUkyaVg5cUE5MGcwMkd2YlNTcktyLzQxdXlmQS9hNnkrcHluMTZXWFZ0eGlsMWVEYUUxUDJPM2hDdUdZK1JmSzVIQWpqeGFZVU5kMDh5SkxVN01qOGltaVFPWTdXNmpjZ3FtbnNKNUk1LzRMMWtjckJpVkZKZ0FhbDFFWFVXdnZKSGIrYktMK29Kb1BTTHJmeHdDVDliRTJpVmZVbFU1cEt6aXFlUHNZZDM1VnA5UEt4QWs0dG9TUE9sMktjMUZUMHc1aExsbSthdDhQSUNRaE5xN2Q2NERDYktwdXBOYTAvalZXdVVyUXZBRmJCVFpuaUcyckFCL2J6d1gweDJUSUFvTkpIK3lZWUtUZndYV21hK012c2hOczUrVG1pQlhZb3JyMjdOM3NSZXkycnZIWGpWNHZ4MWZjRjdsMGpjWlRPakNHTXJ3dVZhVkJFL0Z4WWljNWRvSGhDTmZwYzRJbFpxMWN1QTN5OUdnMmhwSWZ6STRVa2tNYXpqUm9BNWFKMmdOZDEyTlJ2SEVwTkdoWmxyWXI0OFdDSWc4RnhQelpFdk5EeGZ6TlE4Q2ZLUGtDcXpkOXBvVDFVeFp3N2J5NVdWVWlBRGw2M2ZYWFp1WG01WkVNVjJWNXpkNmkycUc1NzNZVXhGSjkwenhLZEhxemt2RVpYY3NVRHVCK3lDZFFVVUlpZk83U2k2L2I3dEV3NURBYUpYOTVTWUc3eWZlUU95bnFUL3NxbUNGemRtTFlNNENqZ0kzN2VxZ3RpaUQyQTRUT2tIUC9udUlCTUZNZ1dUQ1JTS2trbTRJRVFWcCtLZlF1OXhJcDA2dE9zNTBwcmpncVltbytCYTBCL2lwdWhyK2NFeXBaZ3ZhdmpKdDloWjJ2cGw2NXZxSW5KRXptU1JkcHVwdGt2dmk2TmtzNkxOVUVSK2VuOXB3bVJQbHd5MnJ6ZDlFMzNIbkp1SHZQVnZ4QzN2bHZvUlBsUFo0S0w4bWpNaUxOU0E4T0pYSVpHWHFRVnZPanRJcHlDSWo1L05aSEgvSU03Q0tpaTZ5YkpTeTEzc3BWaktPYXMzQWRCUmJaVmlFOTR3V1NmZWllNFE1S256b3F5V2JSSzJvR3l4YVpiQTRFcjN6SlN0NlREQ0tlOEJoQ3E1RG1kNGxFc1JGM2EyMzFRWWpWQXBvOGJ4bE1kNVhXUGJyL0prNjRvMlRJWE9SWndNT0VBV3ZLb1QraTBpc3MvLzJhRUdvSVkwRnE1cGlQSGZaMCtPU2gxeVJrNzdiYVZ2WmtFT3RWei9ta0xkY0xmNG00dlV3QT09IiwibWFjIjoiOTdmNDgzZjhlNmU1YTEwMjQ4NjY0MjBhMWI2NjIzYzVlNzNlMzhjOGFjY2I3MWMzNzIxN2IzYTRlMGY5ZTc0NCIsInRhZyI6IiJ9
+{
+  "name": "ru",
+  "options": {
+    "months": ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"],
+    "shortMonths": ["Янв", "Фев", "Мар", "Апр", "Май", "Июн", "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек"],
+    "days": ["Воскресенье", "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота"],
+    "shortDays": ["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"],
+    "toolbar": {
+      "exportToSVG": "Сохранить SVG",
+      "exportToPNG": "Сохранить PNG",
+      "menu": "Menu",
+      "selection": "Выбор",
+      "selectionZoom": "Выбор с увеличением",
+      "zoomIn": "Увеличить",
+      "zoomOut": "Уменьшить",
+      "pan": "Перемещение",
+      "reset": "Сбросить увеличение"
+    }
+  }
+}

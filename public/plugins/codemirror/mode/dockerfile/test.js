@@ -1,1 +1,128 @@
-ENCRYPTED::eyJpdiI6IjlZcHcrRWs0TDdyT2NjOENhUmNQelE9PSIsInZhbHVlIjoiM2RKZG9VYjJ1TlQrUDFIbkVITnphdktTcHl0dVJpcW1hUkRzb21xSGptS3dYWHVVTUNwbkd0RjlSWDBCT2FUSUtGSU43eUs5d1hnNmRJVExIbG55SzR6bTYvUnFBbSsxRDZNUjBzbTNkejJoZTkzaHdjVlNJTW5YZ0dMMU90K0hEWHdhUmhHMXR0SjYwSURaUUZyZ2FZRkNyNlN3Yk12UDBDRU1oYjI2S1gzVWF2VzNxQUw4bTZjVndFUFlsOVM0YTFyWEEzWkN3Z1pCU2Y2K0x4eVg0MVp0M0RYQmNuL2NoMW1QeHlmUGxZZG1VN09XT0w4azF0L0dvTTMwMmRqVU5URlNmMFVUSUNEM0NmZUkydUpERHpGQkh3MEIxSnN2N09IRlRZbzY0RS82T2M4SlIrZTJJTFVtSWRsOVp5VzVUUGRnR0t5UzV4TkEwd0Mrb2V4TnZWSGhoK3k2cFFvVkxyOHk5cjMzQ0JENTdaNkxCK0dMRzlkOTY1YUI1QXJOeFdIOUJUV0NWZVRMZzBYSGhOTlp0SjdoZm5tcUJVanEyVVVsQ2RTbExyWFNOcDhTTWRWbGtFR3NmYmxiaWRzemF4cTRHUGJzdmIyNnlOMzY2MjR6dmc0bER0Q2JpVW9ENHhvSVdDck9kcktKRTNTRE85aDB5Y2lKTHZDcTZkZmFjM1EvRERNZm9Ic2psdE1NblhmSW5lK2ZONm5LN0R5S2NlZHpCTktKT1lzMnh4UEcyeDNtbnFIbUxSSnNUTTBOMUhpd2E0RVNadmYyMG41UTV1WnhIM2hKZmdSM0s3dWQ2b1BzOTVTREdXWWpCZm9IRm5xaWNqbEM3cFRJQko1cWlCK200VXFKT0lWdlZWQmlhUGR4SHpia1lGeG81aUNIK3dpZGRVaU5HZHIvOVZDdEMyd0NVYkRzM0QxRVVtMlcyU0EzS1craTllMTNhSjBOelZZeElZNWtFd0RTZGRXaGp5ZnFDUlVRY081cFVHVkRmbUdlcmFYRncxd3FBUnB1SXo4OE5KazY5Wk10ZkxFT1BYUjY2enFsWnlyT0F4NWJCbkpqdzk1cWRCbUZqdk1XVDhoYlZFSGk5cFR1b0pIeW8xUDBTWmpWR0xCbzJLS2Q2czFpZFdPRGdwRVhkeWQxT1ZzekVrdFRuMjVDSUtIUzYxcXhNYThraGRwNHlxL3piZzFOb0ZrVzlBSjNXZG1XTVg2MDR3M1J1Y2FLamx4ZnpHRjZ4TUUrV0pyRXNyRWlITFBMK1VVMUJRRk4wOGFvQ3R3M0lwKzRLMkZmYloxZ0FCUWlGQ3NxL1pJbnRrT3JoVm1sWnNWYmR2VktwMG14NHFyM3p3OGozSWZKeGU2UVhteGRQRkpSd294NVJnNFE4MDcrZHBKbFJtZnozaUIzd255SGMrZXdyWFBaU0o3cEs0YTloSW9MQjhmWkRQelhySTY3Yld2Z2tjWXFqVW1VM0s0T1doVTBmcEZ0UGU5TXdKb1IvYWFFbUJpSWxhcTEwRldHMlc5WFY1Y2cwYUs5clZRMSs4Q3pVT203MktOK0RhUGRxaTFoVlZ0WmlVWWVqUjBEVkhxQk1ScXRuVVJaNkFVcXFMRFNGN2pWRlBMbVpJRW5EOWpYSmhQVG15dHFjZWlDZjR6VzY1OXhqNzh4THRKV1J1K0JzUUZ1RkFCZ2xFdUNTL1dSVGI0K0lhemRlOTY2Sk9UdUJaR2RxUUFvT2dmTTEyLzRrZmhhU0ZXVTdEQ3lIZEdZMUYvSkFqWUhXcUwvYUhOVmlqeGcvdE1tdEZ3QWZ2b29RRXo1OTA0aVI0SEltTDBXK2JnVHV3NWdEZVd4WGZITGRZLzBSbmliWG1BSkdrdnRXN21JK2dneVZiYTRVaXZVVmFsOHVaRWkrc01ZWGJ0cFZQLzNpY3RjL2dwb0IyL3VWdlJNQkIyaWRkZGIzSDN6RUdjOVRiWEc1dzFNZUM5M0pqaEtQaVNmdHRlWjdtcFluNHdwZzdzOVc3Q21qY2wwSW1jRHBWdzhDTlUvNUVBeXNIdDdqeURNdzNXN0J4TWxIakxmSy9VdE5VUjhIektjcldaTXdiK1BFYXZ2dmhpbUM4T2pObjhVYi9xNUNtblo4dWdzL2MycytQcmZMY1FHOFptWm9FU3JScjZrWlg4WXpiTkQ2Y1FvOVJvcjVia0ZKdFNMbU9wVXJ4YVBnYjB6UkxDQXN3Y1YrZmMvUHUyYU8xN0ZiNUtXdWhia2VGSDEwOTVEcGZML0M0RkJyNEQ4YWpkQWs1eitpQm4vTjhNV0FQZ1NBVXNWdFgxNmFLQ3lvU09BdEhLejBjWW8vZmoyNUtod2w2WHkzQ0JuclFNWXRaRjNKSFIzcVlLa3JTcTkzSWgwZllTci9CZE1nUFBKUE9NRFpOMW5GMlBvWWY2TFA0M3Z3MzQ2V0M4eFBpZU16SnVkZy9lb3AvZmY3aCtUY2xrYVRNYVFJVWROczNML2xNR2ZjVmQrRFJ3ZDFYdnNWZ1FESHlkUG1vTUcrZHhHTWhuazJ6ampQdjdNL1JUS0hSVm43cGVKWllBZFNTY0pkZnRUUGZNZmlRT1RZampEQlNqK3p5ZjBoWjJGQ2w1emUwajl4U2VtL3JpTFJSUFd6ZmVkOTloVTBhSnowVWtMSHBJcWJ2MFhXbE1nT05BT2wyeWZGT0VhaFdVN1dEcXpaNlJmUGszeWUrQ3F5RHA0VjZEMXprMUsvZjRXT3BlQlNlRlB4c1dNUzl0WDByTk1nVnhrK0RoMkpDS3lvY3N0eUFGbE4yZE9pdVByNDF3cmFpNVN6RjdXbFFac1d6K3F5VGhMWkFZc3dtL1J0R3hSU3AyUURaRnhTSm5FYzNIUDFFOVFpa01lUjROVzhBbGJzbDFlc2VmVmdMSnI5YXhJUThyZVV6S2wyTEFhWktReHdFczJ6cVRCOGtDbVhpQUJzODZBcy9Odld1bDc1WURoNllCdk9LVzVtcDZZaTBmR1lqTzc3MG9Yb1p6Nmp6eTd1V0I0N0RGVjVLanRKclBrSzlzT0x1L2FHOGpqNnNxZVJjeHRYdHhFZEZQSnBpNzFQSGlWWE9oakZxQndBcTlqQmVYRWtqYTUxMXdQakRDN2FPcS9GWFNFNFBqMlZQTWUyZVNTY01DcjBmZzEwdjFUbDZ6em4yN2hBdlpOc2Q4VzFUdERXN0lqOGh2bDFBVHdQVWpsektRRGd3cG0rWFVTTW9MZU9oM2xoTGtadGNidGJmclY4U2ptZkRHbXZDUWNlaW1Qd3FEMCs0QkVDekt5eWxXM3dYR3E4aUJ5RDNyZVdMb1crS2EybExTbXdjNTI5cjZsWXgvT1pSc0Jzam1kc1Ava1RkeEpFZnd4RXFOZkM4Q1hOdHQ3c3BDMmxaRUJNZzNiV0ozLzh0MFhORGhVUUIyaTRVZFozTVh0ZnNhcXV6aksybkR0OVBVdHJmQ01DdFhIdlB4Sm5RanloRzZXaVJUSFY2MXAzM0RsRU1ES1IrbjBKaGxNaXpFM2FGMzZWcmVtc0Zra3VZZ0FlMktSaVNIZWFMayt1eGw1NmNxWXluRUlCc0JmcndMc3M2SFpMdkJqWDFaUk41aGNSQVJJMmFPLzRIUWZFK0R5OWhpVDhoNXpDZXgrUFlzKzV0NmNaY3c0N2tTa2VLb21UbXpRU0JSMUx1L0VzSDZFME40VmVGWEkxeWE4WmFLczhYSWVGY2J3OVJqdzZEUUcvN2ZNVjlydjlhM29JbUhkbENLcE1DQ1lQVmxkRTkyYVVpbjRYUUxwMlBtckdRcXBCWGYxTDN4VmcrYmFtZG8xRjVHY1VTNWdxa2RUQlpCTmtUZllYMWZJckQyMXBIMDJKQ29RVVNlR3kySVhVOXZqRGx5TWJBeGNSdjZvWUJ2K1pjMktqb1ZQa2p2c0h4bmxpb0JNaldCK21TT292ZVJ3RXIvRFhmeXJhQ25xWUFaemlJQmhza2x5YUtlSG52SFA5VFhibi9iWGQ0azZOLzRjbU00UTg0cUwzT1hRZVFmNG1oRFNkTFFGNXVNeVByZUlQSk8vZDRaNGt6UzVjU2prZ1RYZWx0ZFV2cXh4MnJhZmNvRDVuNllPMHlxV2pWMHZRcmtRSHdYZXVMRURuNHhvNUMxYkZNVjFubXdFTDVOcVFnbFVvU0VkeVNuM1EzM05Wd3QzRkY3RHpUaVZkeDh2M1FxSWxhVmV1ZEM5bis5VHAwSjNBME5GTjlyVUJFendqSStlamdjNE5VdWh5L3plR1hpaEJNbm14T2IwRTBpaDFrMzkxVkpEdEd3bStSZWdtOUJzajhhQldXanNuZC9tbUllNGkwU29ub0tCb0xya0kwM2ZQRUFpTmVOZFRDUTM1UnVQQ2ViWm1JYWFoQlRscm11akJPREtqQThUSFdnNzNta3IxNmFCbXhNZ2JuQXBNaE16R3RGOTk4ZGxJcGFraWZ1S1VhNmVxZWI2OHB3aW1CcFRRalZJcHd3T3RVb0ViT0VMUVpaSGFNd3MvTjlBcGR3RFZsVXN6SWIwRGx2blJ0NXZ1T2E5bUFFQTl3MFoyanhKLzNIWk9iVFJWbnlqeGp1SlB0c2FuMXVhZit1cFlPdkJ5K0NMYTZsay9xOEFVczhsa0pGYXM2S0hmLy94UmZEd0xrQ3Nva2dZdjM0QUF6bHpPVUZhOUFxZ1VLU3IremxnVlZNVldML1pCNUgwSUdPMFVvakNsRnBQWGhPWDdUZzczZGYyR2N5NUNTYTRxYkYwaXk4NVFESWVmbUxKMkhpaDVLMWJnWGNMSlVzdGh2NXc3UElDdDIrdzVZNTRVaXE0WTN0OW5PekMzbXBwVTliSmltT3VubjlYRW8xZkphZTZieFgrQTIzN1A0NW9uQTBXZG5vR0Z3RTRMN2Qzakd2R2ZqK2hza2hXS0NFZDI2RG44Z3dhZXJDM3Q0cWplZ2d3bXNNdGNRbitkNW1SQmZGdVdCczg0M1IwaHF2TlZKU2gzYk9nTWlrbnorbHU0ZldjcnF1dVpUWVVRZVV1UXF3Y3FQUTZmdXRBaC8yM0JuMXEyN0xqTHFpSzY2aHdudEZPVU4wa0p3ODZjWlNOdFdwU3FqaXJkSWNmSGo0ODFnWmhQWVZxUmFoeE9SV0ZzOXhhTVFEbDd3aHZEbW81c1d5S1dtZUNUc1hUZnBaY1FXYU1vT2pMN1BNWU9SbndUTS9iejlQM1lMWXRZd29oa00zdTVHVUtoTkU1TUlzSGdwK3BER0hiL2EzaGFWdVhndUJCRUVsZ1pjM3NVWWl6ZXcyQStZU2tZd3ZJT2lTdnN1S3ZRdmNweXdLMkhVUmpzZDAySGtNa3VEd0pHUW5ab01sY0tzTnJ2ckppcnBuWm9nc0VOUlJpZDNqeWxsUWhVY1FMc2kydmhCdnJDaDRHUVlUTHlaRG9zY1JIZDYvOFE4amk5S0lhd2FkNXI0UUNaanY0VDFlS0I1ZEtsQURMS3k2S3lPUFQyMlpNbFpQeEhvVW9Ibzl4Zk55Q1Z3WEJLT3hLdnRrblhsM2xKcmlUR3pyZDRpL2ZJOVRaWGQ5cG1abTJON0VwdlJGUThRN2F4Q2VxREJJdEt1QUdZY2dreVU3NHhnNnZ3RTliYkVwVWR0cTdDbmo0K3cyNVVzL05paW4ydzFPQVhjRGN6NVFOdzl2dlh1ZElMUU44RUMxVFlobzFZYjhqNXY0RmhqMDNRZjAyd1A0dUlTNmcveElzN1F1QlI4dGdSdllsZGRtRzE4MzdjZnZRYkphaVI2SkpUTHZlT0RDWjFOZEl2UndaVWl1ZC81OXNoWHdnTUo0OTdjQU5Zb0wzdzgyUllacmJieTU5N2pXS1BLWWRQZFZGRFppSlhvTGlFUDR3S1hrdlZkNmxpbnpNSCsxdGtSQTBsVGw1MDJiWDN5MGlUZE43UnlHMFhVOURKMk50eUc1K2FsTzhzMDVkNW5MTkc0RTZ2NTBCZjdhYXB1bW5wa0hSZ3V1VFhMR2FkeVVKNFdUTnF1WXdJYW1NeEgzcFJWTkc0Q2dJclRocHI2WDQ3SDIrYnpyOXFnUEpVUERBcDZWWWZNUnBYSVlNWXBuNFZTRTNHMEhnalV5Mzl5YTVCNW1tMDZLK2F4V0dGQTBkbmtYRkdMZkNVZ0hXWkVObTRtVExPUkFZMDg3UGJ4dHh6R0U5WUlSOXZpKzQwTjZqL1NKaGpWai9KdmhCK2pLc3FxeThBN1J1T1QvMTU2c29TNDNxbng5K2s2V3BYd1ovTWp5a2NxaDFyQ0FUczB0RzBHU2piQUcvWFJVczd5VjN0czF6ay9tZ3RDQ0VBcVVFWk0xZCtRNzNzOGJQUWdrSTQ1aktxZUI3UnRSVmNzZVZJa0ZuZUdvbFU0Qk1hLytMNkkvZ2hFR2ZqNDZlSXhvY29jODNOQS9lUVFmN0tEdFhUTkVHUU45SHBQdmo3V0VEc0ZrL1l1YjVmNEFPdkQ3RU1RUjRFU0Z2d0FYZnhqZ2lRdGgyL2dnU0U1NEFTZWdUenEzK0s2MDM3dUFobitoNEFVMTFyUzhVWnhCbXZ3MmRvcUpwbldnRG9PSmxSNCtONTBHbE0raFlmMWpoSnppRzJpbmk2V0hBdTVnNlhRRTU4eXk5SG5QT09tYS9BS1c5Szg2b3N1WFlwdllNSU14QmlDVEY3YnpaTVJyVWU4OUkwV2tBQXpMUGpHREc3c1VwMVByNmtEdkswQW9mbUJsc3l1L1NKdWtyd2dpNkRoVWJWWXNHcHY3aHlnSU1OV3VTTXpBWUJHdHQva0ZidVozTnNmdHlvOTdKTGxaSTNaclFDZlhHbDUxcEhUY2F1R2lCdXdWNU9uYjBBWFpDQ0NpQ1hxVjVTQjUyU0xtKzh1VWtRVjMrTjRyVno5NS81Tmc5SnhwQ1lXcStxb1ZxU2tVeEY4KzZDMmxHQ1VNTTYvUnVoK2o3VEVHMFMwazZvdTFHOHpEcXRUUEVvKzQ2eFVGWUpubGozOFlZQUJDSWR6Y0c1ckVZcHFhTERrSHFzUURLV2xIQS9uRGpJVTlNL0hqNjBpbzBmcjRMUVZlcDlpSzFERmtscDl1bVI2QW1yeC9FZUQyWE05Mkt1L0tkcHRuL1JSaFcwdlYwT28xT2NuUGRRQUdDL3hTSE95QUs3M0x1WlFheFBYQlJDeEp2cG4yaW4xNit1aCtYU2M2Yi9lVjRsTWQ5bDhvUkhndGVWYTE2REdYalM0LzJEeG8yWXJrOFVZTEdXdEMzS2s4N3JPR3VKaVV6R2RsR1FsZVZZQVJkMVRhM29ocDFmRkRXVmd1dFoyOXFXS0V6aTdKVkNpUkozdGJseFRET1E5WnBCWUJFclE1UWZBOWhaQW44NXFJdlF1aTR5OU5lMmUzLzRQMVhNSkRRTjBuZ0wyaGdaSnNNRzNuSEZzdnZqRTRPT2xFTytZRjhKNm55Uk5YY0JjcjdrbjZoQ3B0cGpUUnhPSkIzNDM0Qkl0V0xoRitqLzE2U3d1cU5Qdk5YRlA3dHE0Z09abGR5VnNqM2h2cWdodElJNFpEc3Rmc0ZOT0Q0SWk1QU9EV3BqeGpITkozMmd0UWhmRS9mUDJSUGw4a0JTa3UxRkZPWjEyTkV5UnBhanh1Znd5M1dudTZvREhCc2VObjdKVDB2TkRIYkZSa1AyVTY2T0Jhd1dremtjM3ZQeGJVVnFHdUwyZVpVTk51dWthaElVU0xPNHk0STE3M2tuZUJQRGZZNEdVWlQ2RlZ0aGtmZDIyM2xTSW1XazhaUG95Slo4cmorcHBKMHg2b3dSdytrM3dXZGR1YVpJNFhqbUY2Q2hqdmhmdlFKUUZqVWFOaTd6RE1ONis4S1U0SHNaVUU0WU1oKzUzV1poWE13aGZJQTVpNzZmaGhCdGtORlVyL0pLQzZXYU1pdi84Y3ZqVVZQTEQwZ0VKdy83Y1N0ZXIvcWFDZDVBcEQ4ckpRSFBZdHNBbmpnSEwyRDRQKzd2QXlPb3I0azhYdEt3ZUFCWUFvWVJoMWl0ZE8yYXZ0OWNPNjhacGlMS1RUNjZWSVM0aWZxaE1Ga1JzV1dyVi9nU0JwUTFNQ0ZTRWR1b2pHOGU3YTlLVUhkYVhJYlh5UmNCTnNMeCtGZW5HVlNLeDZraHY3dXZtOFB3aXBwNWt6UkNwWlEyK2RZQytFcnJVK3UyUzN0akkzTXN6QUJyTjFNVVUzQytVaDZOcFhocHlVcnN5RmpVdldhMlloOXhGMEJKT21FMVZpc2pvbkJBOU9sQVZKWUNoTjhxYkJZZFVlQVloV290bDBveUtpdVk4UmUyQUVKRm5ubC9JanZxTitWeHk5RDZpSy9iQkU1NlFYRXh1VXNlVUFKYjRuM2hmSjlpYmV2Q3BPeHZuNmx5dTY4ejJpZ0tDenU1Y3dTR1NTMkdCTmxta3hVU0hibDIzUHRiYXY2aGRCbERLUEx4Mi80S0VCM3ZtRElxV2htd0xucXJJUm9EKzlqT0RzYjlHRmt2SkVlaTdlMTlvcEprWXFIQ0lHQzZtSlN5bC9ub2Y5MlFjSUYva0Z4NUVqeC9JaWtpd0JncWI2K3R2ZkVacEJZSk5odE45NjI1T05RTkt5RjNjRUttZDFhcTdZdnNIYVprLzROMzZNbFBvbXpRS2wyWWJ1N3RjeW1TU0tYcmhPMmxabkNwV29nVjg4d01rZVBCRmVMZ09yZFp1WGxTbElwbUl4dnVIMUZYbTVVd09yTVRELzBvLy9WYWVhOU9vUTJISDhRd2tvK1VTY0xUU0txZWN6MFB5bnNzc2JoVUZkMGE2REMyYVE5TWJZYkRnQTY1cmhvUXloOGdITnFWbzhVa3dsNWg5ZnZZNnJNSWxzUGJQNzFIVStLb1hsb3lNWEd0QUdJVXhFdlIvbTlCRVEyZGdQeXhwd3R0cGo4R0hUcjU0VXVmUXN2Q3VlV0o2elZ2ZUFvTlVBZEhzWUphT0JKUjB1YkdtS2EvT0VxZWwrd3VQdXhuUjhvZ0FleTBQMUtNY2dDUWtPZ0p0dUJkbU1SYXVISStkMDcvNUZYRFpkRzlkaTZna243bHJIT3F4YU1kSlM1d0IwT1FYVzNBQ3ljZW43VWN3SnlVeFh3bm81bWFRRFV0V0lNT3RhcFh2bnROalJucXBDaXVjN2puN3FrNlozL0gxZHBWd1NqT3N3elgyNXlPdnFXUHczM1JGTWxwblNadmduZDdTVnUvbDA2ZnJRMnFCRE9WWHFuWjRHYkt3UWJjT1k5NjlkV3FTQ2J1Z3Q2dlNXZHpiNkxhL1JCK2l6aiIsIm1hYyI6ImY3YzY2YWZiMTNjZmQ3NTJhNDEzZjkyMWM4NTA4N2IzZTcxOWUzMzExZDQ2OWE4MTc4MjdjMWUxZmM4MzFjMTQiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-dockerfile");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("simple_nodejs_dockerfile",
+     "[keyword FROM] node:carbon",
+     "[comment # Create app directory]",
+     "[keyword WORKDIR] /usr/src/app",
+     "[comment # Install app dependencies]",
+     "[comment # A wildcard is used to ensure both package.json AND package-lock.json are copied]",
+     "[comment # where available (npm@5+)]",
+     "[keyword COPY] package*.json ./",
+     "[keyword RUN] npm install",
+     "[keyword COPY] . .",
+     "[keyword EXPOSE] [number 8080] [number 3000]",
+     "[keyword ENV] NODE_ENV development",
+     "[keyword CMD] [[ [string \"npm\"], [string \"start\"] ]]");
+
+  // Ideally the last space should not be highlighted.
+  MT("instruction_without_args_1",
+     "[keyword CMD] ");
+
+  MT("instruction_without_args_2",
+     "[comment # An instruction without args...]",
+     "[keyword ARG] [error #...is an error]");
+
+  MT("multiline",
+     "[keyword RUN] apt-get update && apt-get install -y \\",
+     "  mercurial \\",
+     "  subversion \\",
+     "  && apt-get clean \\",
+     "  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*");
+
+  MT("from_comment",
+     "  [keyword FROM] debian:stretch # I tend to use stable as that is more stable",
+     "  [keyword FROM] debian:stretch [keyword AS] stable # I am even more stable",
+     " [keyword FROM] [error # this is an error]");
+
+  MT("from_as",
+     "[keyword FROM] golang:1.9.2-alpine3.6 [keyword AS] build",
+     "[keyword COPY] --from=build /bin/project /bin/project",
+     "[keyword ENTRYPOINT] [[ [string \"/bin/project\"] ]]",
+     "[keyword CMD] [[ [string \"--help\"] ]]");
+
+  MT("arg",
+     "[keyword ARG] VERSION=latest",
+     "[keyword FROM] busybox:$VERSION",
+     "[keyword ARG] VERSION",
+     "[keyword RUN] echo $VERSION > image_version");
+
+  MT("label",
+     "[keyword LABEL] com.example.label-with-value=[string \"foo\"]");
+
+  MT("label_multiline",
+     "[keyword LABEL] description=[string \"This text illustrates ]\\",
+     "[string that label-values can span multiple lines.\"]");
+
+  MT("maintainer",
+     "[keyword MAINTAINER] Foo Bar [string \"foo@bar.com\"] ",
+     "[keyword MAINTAINER] Bar Baz <bar@baz.com>");
+
+  MT("env",
+     "[keyword ENV] BUNDLE_PATH=[string \"$GEM_HOME\"] \\",
+     "  BUNDLE_APP_CONFIG=[string \"$GEM_HOME\"]");
+
+  MT("verify_keyword",
+     "[keyword RUN] add-apt-repository ppa:chris-lea/node.js");
+
+  MT("scripts",
+     "[comment # Set an entrypoint, to automatically install node modules]",
+     "[keyword ENTRYPOINT] [[ [string \"/bin/bash\"], [string \"-c\"], [string \"if [[ ! -d node_modules ]]; then npm install; fi; exec \\\"${@:0}\\\";\"] ]]",
+     "[keyword CMD] npm start",
+     "[keyword RUN] npm run build && \\",
+     "[comment # a comment between the shell commands]",
+     "  npm run test");
+
+  MT("strings_single",
+     "[keyword FROM] buildpack-deps:stretch",
+     "[keyword RUN] { \\",
+     "        echo [string 'install: --no-document']; \\",
+     "        echo [string 'update: --no-document']; \\",
+     "    } >> /usr/local/etc/gemrc");
+
+  MT("strings_single_multiline",
+     "[keyword RUN] set -ex \\",
+     "    \\",
+     "    && buildDeps=[string ' ]\\",
+     "[string        bison ]\\",
+     "[string        dpkg-dev ]\\",
+     "[string        libgdbm-dev ]\\",
+     "[string        ruby ]\\",
+     "[string    '] \\",
+     "    && apt-get update");
+
+  MT("strings_single_multiline_2",
+     "[keyword RUN] echo [string 'say \\' ]\\",
+     "[string   it works'] ");
+
+  MT("strings_double",
+     "[keyword RUN] apt-get install -y --no-install-recommends $buildDeps \\",
+     " \\",
+     " && wget -O ruby.tar.xz [string \"https://cache.ruby-lang.org/pub/ruby/${RUBY_MAJOR%-rc}/ruby-$RUBY_VERSION.tar.xz\"] \\",
+     " && echo [string \"$RUBY_DOWNLOAD_SHA256 *ruby.tar.xz\"] | sha256sum -c - ");
+
+  MT("strings_double_multiline",
+     "[keyword RUN] echo [string \"say \\\" ]\\",
+     "[string   it works\"] ");
+
+  MT("escape",
+     "[comment # escape=`]",
+     "[keyword FROM] microsoft/windowsservercore",
+     "[keyword RUN] powershell.exe -Command `",
+     "    $ErrorActionPreference = [string 'Stop']; `",
+     "    wget https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe -OutFile c:\python-3.5.1.exe ; `",
+     "    Start-Process c:\python-3.5.1.exe -ArgumentList [string '/quiet InstallAllUsers=1 PrependPath=1'] -Wait ; `",
+     "    Remove-Item c:\python-3.5.1.exe -Force)");
+
+  MT("escape_strings",
+     "[comment # escape=`]",
+     "[keyword FROM] python:3.6-windowsservercore [keyword AS] python",
+     "[keyword RUN] $env:PATH = [string 'C:\\Python;C:\\Python\\Scripts;{0}'] -f $env:PATH ; `",
+     // It should not consider \' as escaped.
+     // "  Set-ItemProperty -Path [string 'HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Environment\\'] -Name Path -Value $env:PATH ;");
+     "  Set-ItemProperty -Path [string 'HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Environment\\' -Name Path -Value $env:PATH ;]");
+})();

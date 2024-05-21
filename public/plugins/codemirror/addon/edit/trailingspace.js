@@ -1,1 +1,27 @@
-ENCRYPTED::eyJpdiI6Ik8yUkJYQkFjSVQxRm1zRFBVY2J1MFE9PSIsInZhbHVlIjoiY3M1WndCTWhLTlhLQ1I2bFFHK1FDV0EwbzdJamJySGNGSUhXdGdtblB5c0xMTmp0elRrQ1J3R3h3UFJLRzlLcjh5ck9WT3JmV3llSTVxM2JzSi9TVkRGcllzdmNYVjFzeXFwQlN6NCtxMXNuYkx3ekpUMjdlOWZLTUpLczJFbyt6bE10UGNRTzhIVytic2w4UnVyUExLYmlQQ1E5dVlOQS9BcXRCazlzQlUyZC9NQ3Y3RjFTQUdYR0plYXZHR3ZMamNIL1BXNnFQanEzZ1VabGJJNmdSdE1FTU5UbFB5VHRKNFlKZjd3QzE3bjdBMThtSFdZWnhjc3gyMmJXcThTUEh4VlB1dW5UNXBmbnRRaDBhbjlITk5IeEs5QlA1QUVma2U5UG9BVzNVZjc4UENsNmxXQ01BcnBOeEdoNmhmaVo1WjJORWxBdjBKbjVqd3A2bE5zQVJCblVUOTZxRUl4UmNYRjZZMWJxdzJlNmtXcXhPTC9lTjNLWE43U2dwbGpRcy93amdGQzdRRDFjK1p5aFhpOEpCMitNeVhmc0RwSndJU001VjVMaW9idENYMDNkeFdVOFVtU2tKa25uMmkrZGtQU2dhZUMreDBXVUxTOUM1enhUcnJ2MFVaeXRUUWJIN0orWFVwUWdpdm5YdlJMNlN6WlF2VkptV2Z3WWdROVZ4VXE3aEJrWmgrUkIzUjFRSVlxSzhSanAvemZlTnJBY3dvMFlzK3BSVlBjV3Fud0U2dnpWSm9VOXFCNEhYbnJLWXd1Z1ViUlJxSEYxbXNsVVFjOEVRZTNTaXpiWUxPZk9jWithc2VzVGd1Ym8xN01SdlViVEFEN1kveHVCekk4Y0lsOFU1ZzJDd0V4SnpGWEIwcGxuVHN3S0I4TWVpbmUyaUQraWtIenlBMElCMTRFNXRuOHRmMnZpQ3RRZEpERElKVWdnTnJTNW5MM0pTQ2RKeTdhbjJ0SDBCSjQ5YlFvRkF0STV1UVRic3J1QVh1R3lJakJ0YnAwMFJZOWJsS2xsU01YcjQ0UUZVOGs2SmZoT2E0Y050aUxxNkRLQm1WL2E2ZVBRYys1cEdWRjJXWG84NkJkNjUvNjF6akpmN3V1OCtwUUJzUlVCVFl3ZG1veTJEMC9FTmdkRTM2NEJ0eFNEdWFoek1DVTY3TXRLQ25ydW9IYXdoLzIwL1lCSzBUbkU2bE1hT2JDYkxUc3FSWWs4cEtpVlRxVTNKQTFhS1FneXgvV0NJbFhRa2JlWXp2Y0w1N3VuMXpMY3Z6N2R1OWlucFNJZ0JyQitPVFZwL1FHNG53S0dOeFJjTE5VOEMzQzZ6SklKOGI4T0h0RUtUYnlRU3Z0T1FPUEFTVllXbmdqdlA0UkxlNjZ1SUdJVjIwQ3dZemEyY3pXN2hNd1ZsVTlCaCthWlR5YzErMXR2ZWo5WlVhZFQ1bHFvV2ZRMkcvbWlEaHNqdEs5QzFEMVloTjFKM1lvMHlvR3p4RGo5anpIT1FVZWMzendkZFlKWlNvcitzMlZETEY4L3YyaHJvdU5nb3RhTG5MaWw0TFMxd3llVjVzQyszQXRTNGxyRHpnTFVLcjhMdVdnYXM1eWdMWTdCQTgrVlViZnVhMUk4Q2oyU1p6R3cveW5FTlhKclFUUCt1YlFjdW11VWFMRDhmS2htQjJkM1hkaDkzZGF1UDVlS1pIdVM1Q24zdmVIQmFwcTgyUHVBWUZmTlRnZ1ZFcnVsV0psanpveitTSktkYzJLSFZkOHIyb3RkR0UyUmg4S1BHZWNjNENjV1BOemxCV1VoIiwibWFjIjoiODJhZjVmY2MyN2JmNDdhODEwNWQxMTQwNWE2NGZiYzkyZmMyMjMwODNjOWU2ZjRmZGIyOGU1ZWM5MmU0NTAwNCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  CodeMirror.defineOption("showTrailingSpace", false, function(cm, val, prev) {
+    if (prev == CodeMirror.Init) prev = false;
+    if (prev && !val)
+      cm.removeOverlay("trailingspace");
+    else if (!prev && val)
+      cm.addOverlay({
+        token: function(stream) {
+          for (var l = stream.string.length, i = l; i && /\s/.test(stream.string.charAt(i - 1)); --i) {}
+          if (i > stream.pos) { stream.pos = i; return null; }
+          stream.pos = l;
+          return "trailingspace";
+        },
+        name: "trailingspace"
+      });
+  });
+});

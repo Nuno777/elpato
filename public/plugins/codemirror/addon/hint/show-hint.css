@@ -1,1 +1,36 @@
-ENCRYPTED::eyJpdiI6IlNFVStxcEgxSXdPSXVENVZhRUpuOGc9PSIsInZhbHVlIjoiOTRFL08vbCsvVExSYUZYbVVuNmxSVzJkdGtueFhaYmZKL1JMTXdLYmtCL3ZSS05CTzk2V1kwOFIyRW9lTldTc1ExVjVadGN6UW9uMkFvNjFiNm55V2VvRWlaOUFseXRtSXRiSEhZRGN0dXFLRkVEZ2UzVGVOVXVLYTZ3dVpmSCs3dk1QTllGOTBOMUJENHduMmNLY0J2SFBPcTY5UVd2bSt2cERkYWF0QjkyUTNXUHJDTmlFbEVienhaN2E4QmdvK0lUQ1doejhBeUY3cEptM1RzaC90WVIvSHpUWXhncXRKWDliaGM0RmlvTEZqek16SUl1b1djNSttTEZCWURIZFN3NzFJeWl2bWYxWTNjNjBQMHRoSUxBREJPMnVMYUhKdkgwYUUyWXFTM3F5ZUVzbWUvVEpoSW43OThORDVoazYyRnhKU081RUJwRGRmYkk3TjRzNFZlYmVtenNmYmJlRklWVWhqZDZDWjBVM0NQRkwyYUEvQVZ2RzVNNk1pa0xlY3VoQURwS2pKbVNKeTY2eWZ6b3NVNjIrT0VxbFJYMzZiRnQwQy9PL0JXZ0RQQ0RaZjlVWXl0NFZPNFptaHBlNlhpS2pjbDdkL0pIOUhlYlQ4VURCeG5RWFlWTVNQMlJPMkgxOHBGOTZpVytrZmo5TjM2YUNMYlhGWEJKYUUvT3pBcFRiRWdTbjdnZ1kvU0FuMm9ibFJxb3BHRTYzdGhBQXJTUkhzK3Z6MUU1NjZRcW83RGVyZlUwcnlVTk4reVoxZVNyVWpwMjJxbG1iV2hxY3Z5YmNRbFZCWVBrbUZOVThBSTdrUXpWcTlhanNBRHJIVlBKQWdqNDVJbnQ3TnR1d2VNODdXOExLaEp0MVptSDBDNG96ZEZ4Sy9VVXVCMFcxNnAzOUF6Vnk4TGxyUm5EUjh2OTJxb3VCTEhySW1ZQTNTb0dkeDdJTXl6YVd0Z0VwVTg1K1FlcVd5Y3c0V255UmdGbytveGpRbDl3bW1qdFQ1VDVsa2JTbDhIVnlZODRrMHRnWVlIVDlSMW51cHJwTEQ3NWVSUFdPaDVTT0RibTcxaGlXbVFxNi9ObHlPN215SlpaVU11YnVsMDFMTTVaSyIsIm1hYyI6ImZmNzI5N2EzMmQxMWE5NmIzOTA4ZGYzZTU1NmM0Zjk0NmZmOGQ1YWEyYjI3ZDkwN2Q1MThhYTUyNTJlNTRmMjQiLCJ0YWciOiIifQ==
+.CodeMirror-hints {
+  position: absolute;
+  z-index: 10;
+  overflow: hidden;
+  list-style: none;
+
+  margin: 0;
+  padding: 2px;
+
+  -webkit-box-shadow: 2px 3px 5px rgba(0,0,0,.2);
+  -moz-box-shadow: 2px 3px 5px rgba(0,0,0,.2);
+  box-shadow: 2px 3px 5px rgba(0,0,0,.2);
+  border-radius: 3px;
+  border: 1px solid silver;
+
+  background: white;
+  font-size: 90%;
+  font-family: monospace;
+
+  max-height: 20em;
+  overflow-y: auto;
+}
+
+.CodeMirror-hint {
+  margin: 0;
+  padding: 0 4px;
+  border-radius: 2px;
+  white-space: pre;
+  color: black;
+  cursor: pointer;
+}
+
+li.CodeMirror-hint-active {
+  background: #08f;
+  color: white;
+}

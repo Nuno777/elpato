@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6Ikx0YWF4UVYzTXoyL1hKNlMrRFQyRmc9PSIsInZhbHVlIjoiUkVwTnNQVW5lazQyNjhVUDFGQmh2VFhHRlVjSTRJN1ZaOHIrVFJ6akRPdTQ3RVZaTS8xUFY4NVdEbkV3RTdzNEhCK2JnTjM0MXdSNWhhenB4NmVEZXh3QjNsME8yUmpEMGdBWjNNYVpmZWJ0WUFBQVpLaGUrcnZaeVdPTVpRdm1DL01SQmp0S0d4YjVYemUxVG5pNnd5a1E0MHJsbllabTZ2K1R2bW5rZml0eDlXbzlyY1d6dFZDbnhQQzVPaUpCeVBMZXliSXlDdUhvRTJ1Zzdhc3RMNzhrWTI5ZUpwL0U1czBGK3A1bkp6enJ2K2R3bWZSTWt4TWZ1UzVUWVJDWWJYZFNHRzhZWHBreTVlMlJNbHZTc2EyRnAzeXN0RCtFc1YrVkpNZFZVbVlOc3dtSEJDdU9iRTdZMTVVZzNMd1VXMW1idURBUk0wU1RSSFJnNGpSWkFHYmhpU3pxMzY3VGwyaDM4eHNXSkFVQll4eUo2UHMzTmF1RmRKRVp4RUZtQU1pamU1Uzl1cElhWUhGZ0grT2c3SEZOZ0lzNmJtRDlnVHN3dENTQktycW5YTkV5bDRCOVI5bE5rUzZmY0pkdG0rM1JkS1RhWGo4K0ZwMWM3MkVxVGJBYXczdERrRmtDdG44RGhwSXdEenpXNW9tU05hNkN3NkRjcS9iYUQ3RUt5NFFFOUFjYWdzWVIzRGRPSnA1UW5yYnVvU1E5SGJ1czlMM2NOS2JaVWVkZkVWbFAxci9vdG5abXhyOGRHSzlQdmlrRTZtblZpM0pvL3dmNzVydU1raFV6THpROXFFTjIzckpuTG9lOE9nRFkxQ1Y4Y2NRb28wMzZsNDZpNWFQZFhCNVJQMVhxNUNXS2RHclJEVUdVU2xOODNRQkhlL3c3Qkg1bjFobmloTjhXTUZxV2ErcUlnbXYzR1BqZVprU0dGUVF4NUcxRHYrZU9SemRVSm1zd0lLb0NOd0ErK1R1NVQ2dHNMek16Z09oK3NZb25QRHlwWnpFQmRLMjhwbUxQcXdMbFEvbXdnUmxSRktKRWpBcU1VUHZ1VlNWYlZNTCtidi9RZGpPdUVveGJ0TlhvZEcyazF4K2pOZTlvOFBNUzY0TUR3UVNkbzNGNWhNZ3ZncVo2QjhKVDJuSHdGc1pmZ3c3VWx0cWJDREVXZ2Nka012cEQxL0pIUHlObGIreWNhbG9peHdHSkZiakFqekErQU1IQ1F6RWEza0hyOXpQQWwyTUt1UjFRdXVzZmV0aUdjK25pTXJqL3FYOUtHUDJZa3FTTlcvYzRicnVjMmdLUmFVT2c4eXQzc3Q4ZklhUmNUZ0tvQlJ1THlScXlsKy9yaGRDdGZzRElvQ3d1TDJtRXVEelp4UWR5UXBzRmJPbmNPZCsweW1CZ2NKVGsrTUJxeHRkamt2VnU3a289IiwibWFjIjoiNDNlMzYwYTkyN2FlMDAzYjgzNjJhNzkzYjc0MDk1NmY2OThlYTY3ZGZhYmI1ZmY2MmMzNDQ0M2FmMGI5MGZlMiIsInRhZyI6IiJ9
+{
+  "name": "es",
+  "options": {
+      "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+      "shortMonths": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+      "days": ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
+      "shortDays": ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"],
+      "toolbar": {
+        "exportToSVG": "Descargar SVG",
+        "exportToPNG": "Descargar PNG",
+        "menu": "Menu",
+        "selection": "Seleccionar",
+        "selectionZoom": "Seleccionar Zoom",
+        "zoomIn": "Aumentar",
+        "zoomOut": "Disminuir",
+        "pan": "Navegación",
+        "reset": "Reiniciar Zoom"
+      }
+  }
+}

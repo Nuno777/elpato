@@ -1,1 +1,53 @@
-ENCRYPTED::eyJpdiI6IklYNis0YlltNSs3bER3elNtT0JnSVE9PSIsInZhbHVlIjoiQVhiQ2JqWHcwb3A0WGdWSVNqRyt5MEtERjR6d08vcEcrU1BQY05VN3pKUmtpdS9TUktJTlBMSUlzOFE5NEZHMGo5eDBRa3l4SzhRT1h2S2w4Qi9lME9mdjRiWnlzVU9GSTVpaXl6bUo0MjdsZVlBbS90RVplL0UxNVRhNStlSHd0akFHd2pyTVY4SHZJMVY0K2t5REtXN1FlTkZKVlo0cVdzZkd5QVFuMmJvNzBBSjRRcElVM05UQzBSRjRHSDZ3WmpwQjkrcm85L2VDSEphSW8wOU1Sa1ZuaVUvVlMyYkRWQTR1UjVZT1NUUlora0VaYWR1TU0yMkZSdGdjc2hTaGZFem00RDZHOVdCeVJIWDc2Nkk4ZEdvazBTbFF0d1dBN0pXcWpldVhkVnRoV1BJK0lPRnNFMUU5QndzRVd1YWp1YXdEMitkL0xsQlc0UHk5aGs4TU4yY2FPcFpkcWpKOVFycWNKN2p5ckU2UjViQjVmbmMvK3lYMks3cjFoQU9FVmNEY1cvOFd4N1ZnUnliMEM1ZXFKbEY0UmhMT3I3M1pQMEYxb2p0QTM5aTFjYkJtY2VhTCtGK1ViakpHM3pvOFdIMDJ4alc5WnRWT1R1dTEzT0NsN2VCeHVhVE5KZ2l0WWYrczR1dmdVRENnY05sRmx3R0dVeDY5NlNQaGtBbTlaNU93aysrM2lHRVFPemNheW5yQXdhTGluOFlFUkdnVGhEU24wTHhOWTdqZDBOYVJ2a1pBVUkzZmpPQlZkYjhtTXR6YjFTMDF1aHBkZU1hcnBzY2Q5Vk13K28rQnk4ek9LSURFb1FBR3BKWDYxVWxWL29JR2sxQ0pXazVYdFFMcVhkQWJlOHlqdldoSTRYZWNMWHN6NTlTLzhvQS9tRzlrWWJvWThjajl2d3Eycy96RVE0cXFCVmsza3AxZERyZERDV1Q1VUZXM3ROZ2VreC9IOE95RTkyYzFHTW9rcjN2NmxEb3pCMWxzV1F6NUI5UktnVDVSLzRxRXBvK0dEbWFjbnNzb0x1NTYvaDhBdTYrd0NLRFBJalBEQXg4RURZSE5BWExOYlEvb2JYaVN0SXF6TlJlNGJ6SUxXUU1EcDR3Z2hyR0wyeW8wNzVvTUJqN2l4NlhkM2tRbHBQeTQzLzMvdmpjSmVDeitWN3AxNC9KWWN3UjFMc0F1eXcxZWE3ZXFRdnRHeGFQR3pSanBZU3B0SGdhR3Q0aEQ4V0VYSmV3NWxCdWRBc2wvYnhRd1o2QlJ3OTlmN0N6N29zZW1FN3F2WktVNnpaTHhhL3ZtcjlRZDRlOStIeG5OYzRXQ0ZKbVNUd3l6OWJST3Z0dnp4ZEFHVHdyei92cE1nbHBrajNQRmhzYWZhbklzejZUZVh2Kyt2elBJVi81M29OL0ZSVXNjYk12RzVhZExRRHkwbmFrMk1iMUljK1owTEZma1hZSTI0SGdXdU9VTFl2RHlmeFJNR0ZnYXV4MVlKVFh5S0d3QWhUZlBodlFRd2s5c1dqV0hZR0dXdThzSy81Z3pkczVGZ25ia0pmczhmTEZQK2tjNWxkZUxVa3FMWit6OUtWYkZYNTBqbjlvd043QTQrQ1FKMlVHNWNlV1J5dkxpOGRGMENvaGxPSXVHRHVZcWZhUVFoMFgrc09FQWFMVFhRdUZGNlJnaHJSVGpPUlJ2dHNzc1hqOURTRk9hU3J6ODE5c0lTREV3OWk1YmcwWjh0K2hVMVloRDFEVTF2RjE3UG5Lb1huQzNwdms1NFFUZVdNQVBYemU2YUM0Q24zdHhkaFVhTFJXL1RXbHUrM1ZOb1luaCtPUVNjSTdSUWRWSEd1K3MzNmpoaS81RGorT1lZMVc1ZXl3V3JDTjl1bDJLL1RRVUdGbzRISEZBdXk2M1ZLcWNKQUhQQUcwZlBFZnNCSndwOWFieUlBZ2VsWFRFOGlMRlR0NTk3UFRDdDJLRGFwNjJLTVV3STVoaTkwRWZ1TldPY0JQZUxuZXhTcGxjRnFFaEJ6eExCZGtjODB3RC9JZDhjSWZGUFRwdVIvSTlXNWdHWGVsc1hTZktLc1JwMkJiaG5PTENSVlJmODVmVVYzc3M0OE9UU29YNkVGYUFoSEtpRWhKcTdRMFpBZEZjS29jSmZNWUdjVUtwVGJCZlhoeTRrZ0g2ZUtmT2hDNC9tYmhSNURwOU5sYm14UnVCRGNGMTRCOUZjSFFkNndpTkp5RlVNaytnK000VVY2c3loK1VWUmN4R1F6bFo2OG0vYWNsZnIwdkFmcEdERGRZWEdDYS8zUlhNd1lyZTJZYWpEazJ4eGhpM1hTam84ZTg2U2h2NHFpQTRsWVd3TTMrY1FyU1JFamxodlVQaWsyelIvd2tWbFNrTmdWWnN2Ry9vR1A4Ykl5dEJjcUw0TVRkdjl6bWE2STByRTcxSmFGWXl6YzZENi9CMERkNnlqT1NYTXlXUjBZN1V0dzgzS1V2RThCUjhTdWNGeWc3NStTRjR0QWh3U1VnV3hTWW0vNzcvWDNQMVFuaHZSck95M2VNVjF2K202ZnlSdE5PbTBiM2xBTHVOQ1Jvc3ZtVm9TMTRlUTdYWE94RnI4My9ORWFxQW1IaVV4U3c2WXZxTG9ERnRPczJFUzhrbDgxVURUbnFZenN5czhVZkRwOHNtcEFUOXhzZUFLOHAyS2NleEZXODkraEJ1MHVyM3JMWXBoYlJDNklmU3h2MHB2UEwzaUxUSzBuQTRaK1M4bkVpRWJJbWZocktDY0YxTTBnWVZWSlcycGNOWE5jSTNMbWx1UGszTTE1MHNHY0UwdXpDczgrb09mTm04aWtyY2lKaFRsNTZQNkVRTjBwd1ZUVWFzR1JKT1BONklyRzM2Mk9XRis3cHByMFZpY1ZYaFFkbVloaTNWTVhNUzhNazE2UzZobVV3ckZ5eDRKVkJRcGVtWjR6Y3BVdTlVWUR3SmZVSkJVRTd0Qmg0c3BQdU9DZStxYmtYeVZKVmJveS9KZmR0cjVoV0NzZWxiWkxYT0Z6bGhSZ1R4b1ZiQUsrdmRLL1V5cGxNUmhHOFN0U1R0NFltY2tNU1ZDTGxqR1RuV1dpek5ISTdhZks1QUg5VHpOS2xiaW5TbjlxVTJxVkQ2L3Jod1VUNVR6Y25LSXN5WXE0eVpCMHlVUTFoU29uK3Y4dDZYT01rUVA3MC9FSytOQTJPZzBabVhtamxOcjVleDZOMTAvOG5mNVhCR2R5Y0RkVllEM0hucWF2NWt5Mk43SUJEL29nWWFpNlpxam1xeW9UYjZjR0pPMGtzMUtiRmR6WEtvZUZLZ2VmSER4a0R3OElHM1VVaEQ1aHY3IiwibWFjIjoiYWE5MzNlNzQxNWZmZTViMjQ3OWEyOWU0ZjBiYjBlMzQ2ZDFhNjk5NmMwMmMxNzE0ZjQ2OGNlNjM5NzQ4ZDZkZCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Depends on htmlhint.js from http://htmlhint.com/js/htmlhint.js
+
+// declare global: HTMLHint
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("htmlhint"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "htmlhint"], mod);
+  else // Plain browser env
+    mod(CodeMirror, window.HTMLHint);
+})(function(CodeMirror, HTMLHint) {
+  "use strict";
+
+  var defaultRules = {
+    "tagname-lowercase": true,
+    "attr-lowercase": true,
+    "attr-value-double-quotes": true,
+    "doctype-first": false,
+    "tag-pair": true,
+    "spec-char-escape": true,
+    "id-unique": true,
+    "src-not-empty": true,
+    "attr-no-duplication": true
+  };
+
+  CodeMirror.registerHelper("lint", "html", function(text, options) {
+    var found = [];
+    if (HTMLHint && !HTMLHint.verify) HTMLHint = HTMLHint.HTMLHint;
+    if (!HTMLHint) HTMLHint = window.HTMLHint;
+    if (!HTMLHint) {
+      if (window.console) {
+          window.console.error("Error: HTMLHint not found, not defined on window, or not available through define/require, CodeMirror HTML linting cannot run.");
+      }
+      return found;
+    }
+    var messages = HTMLHint.verify(text, options && options.rules || defaultRules);
+    for (var i = 0; i < messages.length; i++) {
+      var message = messages[i];
+      var startLine = message.line - 1, endLine = message.line - 1, startCol = message.col - 1, endCol = message.col;
+      found.push({
+        from: CodeMirror.Pos(startLine, startCol),
+        to: CodeMirror.Pos(endLine, endCol),
+        message: message.message,
+        severity : message.type
+      });
+    }
+    return found;
+  });
+});

@@ -1,1 +1,148 @@
-ENCRYPTED::eyJpdiI6Ii9BMEcybmNkYjRCbE1SN0k4dnZDTFE9PSIsInZhbHVlIjoiSXpPRGsvMUNqcEQwQ2tCT2Ryd0JaN0hLcU1EQkxLSFNvSHJEaFZnMEwwTmxKbk9scXpCeExueDMxRUdnUmJCdlVXb3dGUVREanJzOERqbWcrWjFzNGdGWk1tWk4xOWhadlZQa3d2citib3hUaTVkL00zdXEwUDVYNkQxU2NLa2hnZGt4L0FFVm93UnJRYTA3K2pvNWVjdi9ONmt3TUwrZ2VCcXNoSHFCaU5aU0oyWmY5VFltbWJEYWNnaWRSV2dPaDVLRUgyaVZqRmhlaVBCMVZmTjFrQ1FUdTAyL0U1bnA3cFFqZGlnTHJjUTJrZFdBNmhmTGYrSHdUK2lLNkJ0ajM0Tythd0NXN0R1S0NVYnlrdlpPMTlRbFJSTUtxT0FPZ1lFVVBwWW96S2drdWs3bUhzOTlVK1laRWd2c3JLOGI2QTZyc1M2emZaMGk5c01yU0VIQVVZOGFRM1N6Njc5ODhwbm1pY1VpTkRUMUIwSTY0R1hXYU41VFJLRFNnNk1GZ0g2c045RjgzUTJ6VkhCcEl6dW5kZFR2UE15TjUwUENMNjFwWFppWVAvZHlFMU0vZ2lGS21RQ2MxY1ZuQVNoSndmNFFVTkVEYXNiUUdJOTJ1eHdIODd5Ym80NDdJa3psRHZXeGRpa1hxcThaMUNVNTF2REVXMllaQUtxaU1rVHBKSmh5NTBpZEZCYzZqOVU4TUJZTWtRMFArM3JrUGpsdGw3bWpaMWJrSzBzcGdyTUNjZkxGeTZIckpoR3FFOE9GWHBEak1ibEt5TlBRTG1hOHdoK21HV0o5Y0RUTGtpZ1hiYXRhZTdYK0NMNEttOTliUlhqVS9idE5idVk3ZmVtRDFBS21ieUN6YVlxMGtWMk1ReXArc3Q2cFdQekVJQXYxY2hZNzFwZzJvWENHb29PajYxYlpZNzB4NUxWZHkvODB4dUxYVVBZWDY3cFZlOGN4eW9lTDJWY0hLbFdpblJzUzh0eExtYWFtSjdGTnhQbkJ6WHcyNVRLRnRldHZ6RWR1dXh3NzJBMnNUaVNJUXJ0RlI3T2hyK1RDU3kyNS91Z012bHVWSEUxNHRLY3FoeFZpdGVpMmpUNHhOVHJDbUlHMDFYczhzams0NzZhaUU1aWxBR1cvckdHVXBNWUZnazBHdFdtQmFTMFpiaC9kK1g4eEFhRnpKMTZHS2tCbTVQYXU5WVhHb1hTN0dnL2RSOWhqTmxIZXhldXN5T3VMMlRWRktsaXJURnBpRGRjaVk5elhTeXBKcmNWTzhuLzVURmlrcWFySkpRN0hXOS9XMWJ0QmNDS2lSUzduTU8rVStOKzNycUV4NldFM3BLK05xSWJmWlB2akdzRFRYamdobzh1TzdldXI5QWlRVzRZYTR6cWpoaUU2VldQVVJBVU5ONlRhdTRSOWxBZDVoMWFPbEM3dEZQMDIzUkJsQzV3L1ZNeFNSclUvVnpRVUF5QU5QS0JtZGdibXVKVG1LSzJjSEF3bG9rYWRsbEFjUGxLMXg1UHRJR21ubXd5a21BS1pveGRhMWlZTDJwWXBmNkpnd1NyOCtQQzdFNzZoTzdRdU0weHVwSm5mNkFYTTZlTHlMcCttak8rSEJqcTB0MXpzQkJtNHpWRllnVXFPNWw2VncvOUNzTSs1Vm43dUVXL3JGaXpwL1RaS0RIN0hjT3JQQ3R2UEsxY1A0YmV2VUdydFIxbENGT2xxSnFiaTV1RndOMlNTeFJvUjRiTXhJanVHbzBOSk8yV1Fnc0ZPSHR2Rk1WbjlyL0lHeUd5WGpQVy9CME13aEF0TFhDVnpQMkFSUTJWeW5JZ0hCL2tUYnU3bkNQUjFXcktBaXhSYWc3eDgzcU4rN1pwR2xqMkE2K0tMNGwrOHhQYmpQdnVlZUlxUmF1aTJpb2RUc1UyQTRLUUNOT1I3bWdrbU5PQ3FpZTBGcklKM3FLMGduamovdTdoODZYdi8xam00Nm83NVhrUVMvaFBLR0dLNUlZRU5QNG5OWVlzUFJwYnNrQ010aWJrMkhWOS9yTFlEUzlvMXg1M2hiRG11bFJINVVwTmptUFJQVzVpSnM5WFdJS1hVc1lLb0xnU0s4dFdmeFk0czRoUnJ1bDVJTnhicTV1ZVNaanhjNjNTNWlBQlZWTzZqU1QwSzJtRnpIT2Q1ek92TUgvZkxuOGhpYktsbXdjdERjUzNUR1paUEUvTFlDZ2Y5NVpZNHk4OTMrR0NDdVJVMUNvazdYUkF2djltMXFHYk9WdFAvUmVrc0s0VWx2YmR1eXB2a1BXQXdQNkdKWTZpNnhBVzdCNXF4ZHpLOWxLUGhqcXVsdHZxa1BZRnNFcEh6RnhqemRRV2JtQ1BHNUR1bjVzamNkRmFvYTh6TWVlNW82cjFVWUd2bjdrSllRMVk4eEt2TWg2aXFVeExwY1RsbE94RFQ5MGx0UWJOdHhHSGxETHVvVlFLdDB0Kzl2MDJGZnJCVzZNZFNmZURna0lMNVY5NmRsUFlvMFZSVCtiWk1WY0RDTTFDRXhWeVRkN3VvVlVUQ3duSTZqbEFRQ0VnNzNyWVVxa3lMQ21OcExvU3RkN1liTzZFbVdDdTVUd00wOUY1MzFmdmhDZm5OQ05IRnh6NjVrdDlaNHZxb2MwS3R2TVlkOXVCZm1WNkYwMHBsU0k0TWxmZ1lRS21oQ3ViejZVcFVqQmlYUXFkcmM2QXROUDB0Sk5NUGVhQXd6NEN5dFAvWVpmMU1pUFgyL3FLT3oxNzgyYmlxVzN2bTR2czljNGpRSjEvOTJEdWwwMmkzdmc3L3FySHFKaUR3M1dKY204clEwdFowelJBRGhZdTREOVdvRG9LSHVSaVpTenlua1cvUlpVS2FtN1R3eVA0Tml0Y28rSm52c0w0MEtCWkRMRlE1TzJ2enNwK2p1ZXdqYWF0UzBsVkJ4Z29aVEtBRTNOcDVkZ3Z6K3NyMEhFSTBDbkhGWEtaMXV4UEo2MldEeVdnYm5BOXB2eENRNXZ1Sm1nQnVFODBDV3VqVG4rRjdCbmNOU1h2dFRtVHlGSHowb0kxOE5IVGx0M3F1dS9PcHZZUERHMnZNUWJORFBzOTJ3NDcwWlRFaFdKb2NscjBMc3JRcnprQzh0L0dGaW9FZXFOSHJxUDZvZEplSDVRTkRHMlh0VG5ZTm1hVHk4MnhhZkVOZG9LcmYzSGxJSTZ5RDZOUVE0UkJwbnFJL280Y0tjZ2dOViswbDNuWEZtUGxHVGpMazl0SzBjUUM3SHFxMjBwWEoxL3ZNWEUzdXo3bE12bWlnQTVubFg1bDV0czIya2FUd2VMcEN3SkJ2dHd1RXVqWEYxQy8rSitCNnFCQjhNd2EzZmZFMWdrUG11WG5VYWluMHRya2hBNkYxVjFDZTlucjZEWHVxNEVtVU8xY3dIN1lpdFl3aTNmS2V1bDRFS3VZRGxRTWt0blN0dkZJSjB1SW02UDQxN1YvMVhCWWlTR2hCNGdhSklJQWpDaTBiZUtOdXpuSmdOWDIva3dGRDlSekw3eXpaN1EyK0tjQVpsZHp2ZnhQTVBkczFVVDZnZm8xN1NZZXMzMG5CdzFCcHpHOUxMbEwyZEdDQTRyZVhBZTVqZ3FjUTducnBqS2ZhSjBLOEcwZG1SODR3YzhKU09EbnVhZDNFYjVXUU5waFJnaHV4ZjQ1RmlPdlRTQ1RkeXBMRjFtVzh6OEFweWdSOHNjK1VOTnp3SVdmZ05ZbmpSNXQzQnVjOFpzWFEwK3BQNUk1Y0xmdG16ZnNWRVdPNGtwTGFpdzd2YVhNcUZ4M1FTS1p0QmpwL1dpU2ZhMmhGaGppOWRkbE9EVUl5N2VPZjlreFE5d2xvRkl0MDFOVmRCZEd2amJsTGo4RFdhb0lKSUpTTXZyNGpXaXE5VTJlUHJ4TlJSOHIrVk9DbVFzTHdTVjI5T1NTNlhxdTdybXRWRFlQS1d5RlpnSk5BUzRmWUZOTk1DU2pFSG9QczV3VWFaNUR3WEgxUmt3WE5GckhLcjg1a1FSQUZCRDFrcjBjK2EzWjZZbndxZ01leC9WWTdXVkFzOU5XVDF4aE5KbStraUltdGNVT1JXWkk2eW1tM1FJSEdETEFlazFZeWxReWtPamhHV29kaFZ1dlJkUGJMZWFBZW9EU2NtaVZ4WFg2VjBPM09zUmtxL2lNcXhaSkVJVzN5UEV6MFpBMlVJZk16T0NXNmYza1Y0TW9FL1U3bTVKUW5pK3dqcVE4RWgreVVQekxKUEFodFRVbC83NlBlS3BsZkhpODNva0NpMXJ3S3JiN2xMOXR0MERUV1pOVWgwM0JEK0xGQ1MrNVZ6RnpYRWp0TlEycmNTRlcrVEJCTE5lRkhaRTRDaFV6REpDdXYyNzZaOXJwUkZROGlLSnpTbDlsU3NDU2xEQkhkdkZRT004Z3JEb1B3Qm55NGFPUjE3K3VIUFV1V2Q4ay9mSnFxV054MjllR0FlRWxSdTdicHhkVEZrQlNJRU5seTI0TXZvdC9CZWYxZndNdHpRT1diMEwvOHF1OXhTSS9kcFB1c2lJdlZWSW9TZ2RpTSttRGNtVzFicEtxam1IbnBZaU8xeXk2ZVVnVWxVNHdta3MrRGROSEszQm9aSmJQcE1QVXJkVERkQ2Rmbzd3L3Z5L1RNeHExMWc2WWZMQlZWUTBZeUh0Yk90M0tQU3E4RTNGTnNNcW84UXBZYjEyNHhQUWRsTVFLY0lsTDlkc3dRbU4yZ1M1VlhBUU1Fa2xoTVFoWlZud0FpZit1VGVQSGJCcWlibmRka2Y4REJ1WFJsN0FOMlI5Q3hTMHFrOFBXNEVQSE1EaXBMbzZrUElQakZVa2JzM2RMUTJmbGlZMXdrM0tlYXlPWlA5SUtsZERYMW5KK0VCcTNJbHJiK3RmamRnTERFeGFQdkZibVdGRWpUWVhqQWtqQmt3QjJUZ3VVa1h0RUNHdTIvb2E4bVRiaFlaTU5pYmxTQnNhUGdablhLN212TDYzc0hDQ29OQk5KbjFncTQ5eDdEWWJoVG9UTlVlMmxDelppSjcrUitvdkhnLzdodE5DSDRneVFQM285b1FZaEZYM2hxM1VGMWxPRk8wYTVhaDhQcUllMGhTZHoyckI3djFSODBkcFhVMXBzcHFSUzFBV1ZKbzBQWDZPREV4MjZyakdZb3dWZUJDRGUzcVdGMjRHSVpRd2k3eU1HOVMrSVpSUmMrSWxuZUh0THhEWkNwS25aZDY3dUsvVksyV3VKWVFacWt1T09MUGg4NmhtQ0FKNFlJVS9ZVmxRZDU4ZXIrV0JJbXFjTytleXl2N0pyNzY0Um51eU9hdS9QTllWb05TWnZmWDE2QXpEL0xPYjBoREpVZ3BsNjhRZjR4MHJxTDRrOGpxSG51dUQ0bSs3ekNMcEZ3S21GVlpYenJlNjhKVW9vTnBNdkpnK0crc3FFRndvU1lreUUrWlExak5Sb1UvQXkzOVlIMG9wMU9jT0FCVGUvUzVDdlJ1cER6VTNoMmxJaXhjVkhTaDd0UGNCSUc4TzRyZXpRckppY0dVREdDbUd0TlN2MDJ4YmIzWE1RRFJCQU5ISWQ5T3M1anlQQmM2RThxa0ZWN1VQNElYdFdvN1VGSkdYcUJlbHRML3R0YmRLUzVDS0gvbmZOVDhaME5ITFduZVFud2UxZ3JHalF5YnV3QzBNaEJvM3dJVkM2dFM2NjI2b0NHaUMwRGpFeVBTR3JYTUlMNGxlUE1NNVB1bGhZdXFxSFI1ODJ2Y2oydzFyeUd4dWJYcjMzVTFGMjB1SUQ4R0NpV0pTSHU2NEsyeVBCUExJSk5WMU1WWnlsUVZhS1JmdUNRTno3QWF1SXNubTd2SWhzQmh1aWtObWIvM2VRdmZUTzlyOFZHOEZxQWlhakFoQ0NQbHZMS0NRYktzNkQxaEMvQk00UDdoMm8zOFNTanZTVndxZjZTN0kwWVUyZVg4QVJGMWJiK1FzWkp6dUVJdThjWWhidGpNSEk2Q1JST3RlbGJCR0d3M1I4UVRFVWRKbkFIQU1vc3hSV1JmaVhLWHg4KzZXRHdLTUhTbk1PamlNS0xRQ2NGdnlOMENmVEVhdDNXQnRiMHpPcGpkMVpvSXF6czJaMk0veDZ0b1pLQWg2Snd0SldESFlQcW1XRWphWnhnRnMrd3J1d3BUQUxGNHhHbGtNNXFuNXFvMjk0R2gzTGNtazVqS1U5emVwd3FWSXdqbUtqcGxFMHNxR09MVmxFTnZZak01NXlHRGl0WWRHOTR3bUw5L0FlRW5qLzNWSFVUMHZJanpQUmk5L2FCeHBnR1RkM1NIOG80bjdpbjF4ai9hV0RUYjlaUThhc1hnYmt1Z05oT1Avam9mZTZmUTJEUTEwSHQxRWNpM2tvNTBMdjNPQzYzQnc0REJGQkhLdksvcXJLZHZpaHl2YWQxQW9nS3hIeXhkSHN5UVJEVnFoNnRwN2g1L2tFbk80R01MNmVTZFZlREhQZTc0bEZmZHhhd3BESDhBZ2hvSERoRGVSd3padk9pcE5jbFJFN2hmZGZuYWtpYkdUTHpuZGhJUUM5aGlOVUVFa0k4YjJ2ZnA2VWJsNUh6QmFtMVNLQjk1WFFlVEQzTzBPY01HemZ1U3l1ZkpBU3RSWUtDRjNWUjlTaUJVWDBrV1k1YjFyS281UmFNb3V2L2ZweXVUUzNKVnVLM1ZNcHFpcmkweHU1UXFVc0dRUWF1UTZWRTZ4bFFZSmhTUXB6THJHZFhiQXFRWGNuK2hEd0gvVW5GVHA1T1dmWmxwMDhlZmhLNnZwU0hLam1JZlNNSytDK2ZWMUZEMlJsRGQrVlY4VWF0c3NYK3pSWndvQ2VEaTZmd2VqZ01TOVNQWXFvZmxtNDVQWm1SNTQ0TGVQUFFOZzlMRDVMQ2ZBNWR5S2YvSThua2FXbkJsTlk1d044V28yVWFtZWUzQUNxT1IrVXJUYUErbjh3TVpvb21Eclg5OUlZcE96T29aWC82Z203UWtITUZqWkNPck5wYjYrU0FDV29KVFV3dkw5dGhBbjZnSkJpaytGUEI2aU8yeGRtZC94VzR2anVJek84SUtURVltR1NsLzNvN3lmK0JJOXZ4cHpuaXZMM0M1Q2Nqa3RpTDZOSUJkbE1vdStQczBRVFg0V05aejZoZHNaSHhTb3ovdXVKR1dua09IRzNLUEdOUzhvandqVXd4SjRRVFlaa2JLRVdUQjN2dERVR2t1NjRlbTEzYmJmVzdPbVBrVDJIcHJCSW1yYnVNUXh2OFA1Z1lTWnhuYzV5eU1lMzgyV0w0UlRtY0lUVGNFOTNnUXRaYUFKOXRQTHlFZ256NzdhS0t2Y09YMmR1K1ptdkZZVG8wSWg5THBobUxCbU9saS9HekgycExEUlZtaEZMTHdGODJSMVFCYnJhcmYwcmkwczdESjFHdE5seFo2cFU5akhRaE5DOFBSMDNSb2VkQ0NMdXRzalQ1SzhTOXUveFlOb1JjVWtMVFkyNktnU1ptbmVmaXJac3hZWFdIdDVPbUJXTE5aUEVTQUxSWVhhWDZiZXZrZDFkSlAralpzOFptbHlqYXc0S0ZMMExGaTMxR3VSa0N0NWRaUG5ZdE9rRWozdElnaCtaeXZwQ3ozM3VaSHU4NkFyUkNvd3VGU3hyN0pobGFDSHEwNmJSQkltL1AyOWxaMmRrV1dHNGtHMEN2bXpialk5SUtMQUlkM2pIREJSSGc1RTRNODZ5Z3JMbXNVR0liSkxWQkFFb0tndDhkUldHS1ExYzMwekZlbitURnRHcUF3d3VoUFhtV2tKRG9xbllGRlpZZklmL0Nhb1R5QjJwcVBOUEdVdCsyekd1RXlzMEZ5bEF2c2tYb0JCREZrN3RlOTZBV0E2SmQ5U2g4NlA4VTFMV1NqVXc0dlBOV3dZU2htUHBhWHV3bTlMcE5aNEVSNGQxTFhsKy96VmpRdGIxSWFmNHJoWWE2a0NUUVN6Z2xOZUlxNnV2TWRtSWo3TkVRMkxTLzFCdzNTN2RDMExLNldzeGJHc0E1RUhLTERRYm9xQkE5MGVLSFlzcHNsY3BSYmRwU0ovQmQxeW92cGwrK1ZROUlnUjlwQ3g0RUg2V3U0U0dnY3ZFSjc4UWViZVZWRUxkOEY0Mk1YVjh2U2FSOTgyT3hCWi9YTC9sZnlxcURvSFN0QzdhVGNjSDAwUnJzTzR3OWFuNTVONHN3R01BbUxldzNXNXBRbzEzTUVzSFIzek5mSjM0bzlqTmhpRlQ5Sk45V1A4QmZiV0RVYStvMXRKdGs2OWNoS1ZlbUtCNExQQzJEUVVyWDVTdERZVWpjVTlMdU5yVXpYZXgwSTRlRDhMTVFtREhaUkxOdTEvSitvamNtVGlGa2ZURnBXMHpJTmNGSXV1V2J1NVpKODhGQ1VEWDFmdkpsUkh5Y0p0ejZhVUVNL2owTVByQnMyYlY5M3dCdVV0Z29BTnQvQ0VhNWh4d203VnhZdHhoVXltUXBCUzQvdDEyLzgvelp3d3IzbnJIbnpJTm5oaU5PMEtIb0NhVHFYWTZaMktHT0FQaWxBVkx5akROUlpPZEx6bkIrSTNXTzhTWWY0UzV3L1luQ0h4UDl4UmVXbUFDaXhTb3dHcmFsVXB5a0hYQTMxeWpEV0JRUFJTU3lsbkU4MjJGYWtBYTkyamt2dTFHWFppSCttTmh6SWI3YXl3VDZnVWlqcVF3eEtoSkxnUGFBSlZtSFZTUVJBZmJDTnBmMDZLMStjMUZtYTVqY2VtOFpNNUx1VitIbHpuSEdYRitaTFFQd0RXcm5RN3MwN290TVUxTVJFSHVJdm5OODdwRVM3Q08zeGtqdFowREowYVVyQVB2SjB5VHNIeFpoK2NFSCtPQVRGOTQxbG5SSVlZTE5yNnF3YmJzckE5UnRrZ3pmNWErRkRmMFBlTU9lN1U4Wk13NGMzRGtUMVVwNG1sR0VWR3pJZjlsTGdkRzFvaFd2ZjFWbmFBSnpLaCtmWGJBS0FNR3RqRHNhTW11TGJxNjRhRUdYUko3WWM1bmNvcTNXenp4YS8rVWZOeWtVeVU3eTZFY3Zsd3g5aHNQUFRmNjBSdzlJdEVaRmV1SWZScHZSLzNBSCswWHYvQmdXQlRseUF5MjFyZmhWTnZKdmROdXgxYnhIdm83TUhiN0VYb3cvNlltcmhxeTZIYTVKbnhpeVQ1emlSZEpPSkJYL0V6dGo3bXF0NVpPS2JRTlgxdHpvODJnWWY3Q2hHajBsSTJJdFgyTlBuUWI4Y0lKVjFTa1UyUHduSjhMczV0M2VtdHIydXl6R2tEb21xUjlNSzMwdmZTbmJZYkhLMjFvNmhsRTBPMjh6c2ZRZ3hZNUloMGtuaVZCM0ZuVHJ3LzhwbmFPaC94NlFpOGNDYStoMFphSDJYSE1WcnpkVzE2SE45NlV3VFVzS3RGdGxsUWN2bm50Z2xKSkQwN3I0VEVNWTdkeTBld2V6cmQ0QTIrRVBHZnJFaW1EKzRWemFEWlpoZEpDbkdJd3RXSFpNaTBiTlMvUER0dGdTcEZSWXFIST0iLCJtYWMiOiIwMTcxYTljY2I2NGEwMDNjMTVmZTFkNzA5OWQwNDU4Y2UyNDYzZjY0NjdiYjNhZGFkNmY4M2I4ZDlkMTk2OTZiIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+/*
+  This MUMPS Language script was constructed using vbscript.js as a template.
+*/
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineMode("mumps", function() {
+    function wordRegexp(words) {
+      return new RegExp("^((" + words.join(")|(") + "))\\b", "i");
+    }
+
+    var singleOperators = new RegExp("^[\\+\\-\\*/&#!_?\\\\<>=\\'\\[\\]]");
+    var doubleOperators = new RegExp("^(('=)|(<=)|(>=)|('>)|('<)|([[)|(]])|(^$))");
+    var singleDelimiters = new RegExp("^[\\.,:]");
+    var brackets = new RegExp("[()]");
+    var identifiers = new RegExp("^[%A-Za-z][A-Za-z0-9]*");
+    var commandKeywords = ["break","close","do","else","for","goto", "halt", "hang", "if", "job","kill","lock","merge","new","open", "quit", "read", "set", "tcommit", "trollback", "tstart", "use", "view", "write", "xecute", "b","c","d","e","f","g", "h", "i", "j","k","l","m","n","o", "q", "r", "s", "tc", "tro", "ts", "u", "v", "w", "x"];
+    // The following list includes instrinsic functions _and_ special variables
+    var intrinsicFuncsWords = ["\\$ascii", "\\$char", "\\$data", "\\$ecode", "\\$estack", "\\$etrap", "\\$extract", "\\$find", "\\$fnumber", "\\$get", "\\$horolog", "\\$io", "\\$increment", "\\$job", "\\$justify", "\\$length", "\\$name", "\\$next", "\\$order", "\\$piece", "\\$qlength", "\\$qsubscript", "\\$query", "\\$quit", "\\$random", "\\$reverse", "\\$select", "\\$stack", "\\$test", "\\$text", "\\$translate", "\\$view", "\\$x", "\\$y", "\\$a", "\\$c", "\\$d", "\\$e", "\\$ec", "\\$es", "\\$et", "\\$f", "\\$fn", "\\$g", "\\$h", "\\$i", "\\$j", "\\$l", "\\$n", "\\$na", "\\$o", "\\$p", "\\$q", "\\$ql", "\\$qs", "\\$r", "\\$re", "\\$s", "\\$st", "\\$t", "\\$tr", "\\$v", "\\$z"];
+    var intrinsicFuncs = wordRegexp(intrinsicFuncsWords);
+    var command = wordRegexp(commandKeywords);
+
+    function tokenBase(stream, state) {
+      if (stream.sol()) {
+        state.label = true;
+        state.commandMode = 0;
+      }
+
+      // The <space> character has meaning in MUMPS. Ignoring consecutive
+      // spaces would interfere with interpreting whether the next non-space
+      // character belongs to the command or argument context.
+
+      // Examine each character and update a mode variable whose interpretation is:
+      //   >0 => command    0 => argument    <0 => command post-conditional
+      var ch = stream.peek();
+
+      if (ch == " " || ch == "\t") { // Pre-process <space>
+        state.label = false;
+        if (state.commandMode == 0)
+          state.commandMode = 1;
+        else if ((state.commandMode < 0) || (state.commandMode == 2))
+          state.commandMode = 0;
+      } else if ((ch != ".") && (state.commandMode > 0)) {
+        if (ch == ":")
+          state.commandMode = -1;   // SIS - Command post-conditional
+        else
+          state.commandMode = 2;
+      }
+
+      // Do not color parameter list as line tag
+      if ((ch === "(") || (ch === "\u0009"))
+        state.label = false;
+
+      // MUMPS comment starts with ";"
+      if (ch === ";") {
+        stream.skipToEnd();
+        return "comment";
+      }
+
+      // Number Literals // SIS/RLM - MUMPS permits canonic number followed by concatenate operator
+      if (stream.match(/^[-+]?\d+(\.\d+)?([eE][-+]?\d+)?/))
+        return "number";
+
+      // Handle Strings
+      if (ch == '"') {
+        if (stream.skipTo('"')) {
+          stream.next();
+          return "string";
+        } else {
+          stream.skipToEnd();
+          return "error";
+        }
+      }
+
+      // Handle operators and Delimiters
+      if (stream.match(doubleOperators) || stream.match(singleOperators))
+        return "operator";
+
+      // Prevents leading "." in DO block from falling through to error
+      if (stream.match(singleDelimiters))
+        return null;
+
+      if (brackets.test(ch)) {
+        stream.next();
+        return "bracket";
+      }
+
+      if (state.commandMode > 0 && stream.match(command))
+        return "variable-2";
+
+      if (stream.match(intrinsicFuncs))
+        return "builtin";
+
+      if (stream.match(identifiers))
+        return "variable";
+
+      // Detect dollar-sign when not a documented intrinsic function
+      // "^" may introduce a GVN or SSVN - Color same as function
+      if (ch === "$" || ch === "^") {
+        stream.next();
+        return "builtin";
+      }
+
+      // MUMPS Indirection
+      if (ch === "@") {
+        stream.next();
+        return "string-2";
+      }
+
+      if (/[\w%]/.test(ch)) {
+        stream.eatWhile(/[\w%]/);
+        return "variable";
+      }
+
+      // Handle non-detected items
+      stream.next();
+      return "error";
+    }
+
+    return {
+      startState: function() {
+        return {
+          label: false,
+          commandMode: 0
+        };
+      },
+
+      token: function(stream, state) {
+        var style = tokenBase(stream, state);
+        if (state.label) return "tag";
+        return style;
+      }
+    };
+  });
+
+  CodeMirror.defineMIME("text/x-mumps", "mumps");
+});

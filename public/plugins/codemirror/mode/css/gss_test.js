@@ -1,1 +1,17 @@
-ENCRYPTED::eyJpdiI6IitwQ1dhQnBaOGtBdmpaUWV0ZjJqSEE9PSIsInZhbHVlIjoiTEZaRldYcEUzZ1Q5UmIrRzBRcVM2aGFrYTFTMDFFWFdQYXQyMXZ5UFBURkFDd3AvSFk0OG1IZHVYbGUrR0hGWVpCbnFHWjUxR3JNc1d4UjdHckRUMVh4OHdac1plcEUrMUNGcklpangvQU9FRmNsOWRKZ2QwaEVuWHNzU05NNHJVak1WL2FWcEpNazQrZWN1dlBxeWlvckdYSVovM3RoaGlGUTB2RVBiTnpvRk1vT2tkN3ltOVhXQjZVZ1QzaXMvN3BLQkl0S2RsYkhJQnpEN2V4aXE1L2J0alQ4bVBhRHo5cmd1bXp5M1pTcGlXb2xpTTk3RW05cjV6UTJmMkNUZUZIc2NJa3hIRUpVNFQ0dVlnWGdyVmx1V1A4aXhSRUZoZk5vSWozVmRGT2Z3dWk5Q2RvYitTSVhzNUFHSkdBZWZLQXlRR3VmM3Flc05Wb2M4ZkN1ZmltQzJJSkc1a0p2Nzl3b2cycVZkK0svaGNEZHI4MVlvNTJIMGJUWjZ4a3V6elh2Z1Q3V3RQMHZHV3NNMlhjNGE3aXROVTZpVVlpNlZjMm1MU3FNV1hSc0xIOU83OHNYZWRxTE9waHl5aDBpTEw1clp6aHczeVg5OTRsWGYwTnBsc2RJUW1LMFF2ZEk1dVJxSXI0RmV0RVRWSXdkMzlua1dqSDVWMjlSL25lS3p2eFpuZUlFYm15OTF6VWV4d2RtZmtyRjBPM25mc0VuSDZBKzNRNjhkWktSSFZLVzlPUE8rNmoxTU1Hd3lpdS9QdWxyQkREVnJ2YU1WMGVpQVQ1OEdBWERURkErb1RiMGo5c0FsUHBlYlZ3bz0iLCJtYWMiOiIyY2YxODliMDQxMGU0YTY5ZTY4NTBmYzUzNjg3Yjc1ZDZiNDQ0MTE0OTEyMDMzYjU5NWRkMGFkNTRlYjZhYjNhIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  "use strict";
+
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-gss");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), "gss"); }
+
+  MT("atComponent",
+     "[def @component] {",
+     "[tag foo] {",
+     "  [property color]: [keyword black];",
+     "}",
+     "}");
+
+})();

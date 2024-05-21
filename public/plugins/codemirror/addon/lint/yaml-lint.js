@@ -1,1 +1,41 @@
-ENCRYPTED::eyJpdiI6ImNvZGJyZ2VOMjU2a0tMU3BocnBQZFE9PSIsInZhbHVlIjoiY2RFRkhuK0RwSjBWZHVab0d1NnVPZDVzZ2ZWQjg2MnZnWk4vZzA5UWdLN1VUR29hYUJLWEhlVjFpK1IwWkNqYWFNQ1Vkb0V3eDNQVUkzbFBzaUhhUEVoZmxYdFF0a3QzNUYvMFBzNFZCdHZ1RUk0RTNQaDV6dktySllmVkNKaXRoeHpraEp3djVuK2lKN0tHVXdENUJKYS93NytVWmQzdnN6WFZDN01Hd3Z0bTgxS01xaGg5UUJQRXVCRzlCU3EzVXE4QjF2ZS80NG5pYXNHdm9zNUh4SmdFOVN3M0VvSUdKZEZQbVg5bVNWSW92OFhEOFZtYWF0emdaZ1FiOHc3RDVVUFo2K1VnR28vdDR6QVZFTXE1M0dLbXV6UUlOYXhNYmpOemFpbjQwbmE2d1ZLTGhoeEtvMERkbVMvQ08yMW56MWsvRVhTaldudzRsc2EvcUUrSGtjRjZBbGpzUnprY2hKNG1pTEpMQjZJY1hCRFl5L2lULzNycVdjN0tMMnJSRHJtbTZXTmE1UlFsQXB4WVBFNEFJVytSQ09uaW54VXBOcnpLWHloazIzMEo3S05lVW1qSXlVYTJsdVRlSTgzNHQyMDRxQ0tGbHd0Rmw4SlJqLzJsemUzTU1SbU9IUU8wRm15QUphUStvaGpkazZ3S3hVOG1IUWF5S2hLR29QM24ydncxYXI4WDliM0UvUUNDZXhZenR0b1NsVjRvV1NyRzFuUFUwMFd6bUkySFVPeG5DaWNJbEdxWkEvY1FSaTB1RUFxSDJOLy9SR1o0V3QyQUEwNkIySldYUFUyT0ljUlk2emFNcDRhNXY2VThPQzNubUg3RVVuRWFHbUpMaERQb1BYcGhUbzQxWjkyRXJ0eDh1M1VXVFMxVjRUQXVZSHplQXd0MGswWmRsK1Avd2phWTZDTzAxNlNZZDgycFo4VFdIbE5CRzNadkp0aUNoK05QSDVSell3UURSTEpjNHp1YzF3UkhXcU5JUlNVcXBXQTZ6dmtDdXZMQmxOVkhCak9lbTlWeXcvQUtVdjhkb1RMM0JIb0NaUjVVcUVyOFV3eFdERHlEWmN6cTlNUjZTYUUrWlBON3lzVUtWdk5EN1d4T1FLSW9iM1dRRERkTS81Vzl3U0xwUDVPNi9wZGo0b1h0bnQ3czQ0MytVSHlWNXpEUENHK3hObkwxWllTckMvK1V2MDMrdjJlZmkrZmJ2OXpsN0pqK1lmQ2gyQmRYbXQ1eDYxRG9YVVFVVFlYMFRNNFNlTU8wVHI5c3JRVEowS1IvUjdobWJLS2ZoN0EvM0dSTmdMQW5LdTBiWnh2NjZSV3lTR3VBWnVuTW16T1VBSzlvMHhGR1JnbURWY0dYQ1djYzZEdU9hb0VINUhBa2FESktQQnVwT0lwRkhybzA0T0p0SEF2TENwaTZiWHgrN2t0R0ExRkpVZUd1ZDlvVFd3RVlFcVpySlNVWGNRbGdPdEw4ZG9XckdMSjFaWkgxTjhRbm9JRk5JelpQQ2VQKzhwVkowZEFYNFhvTTBKUXJOaHVudDJBc2hpa0lpMjR1MEd3TUVjL3NPeVBsaEZvU1NISVYxc3k0TjFTb2VlTE9TOGlWRyttdzRrTkkyc0NwWnNqTUs0K0NVY1dRcy9BU0R0eVVFOHg5NjQ5MFd4dHgxWFQvcFlaNjFGVUU5bTYxZTNUcGlvcDdFMUg4a0FNUUQrUnV0K2xuZnZqU1F1T25hbmdIc0t1SDY1S1RReUJPZndpaHU5bk5kNG5CNGsxN1I1b0tQb2IvU2JHeW56ZmV4RWFDSnFJUmdmM0Zjekd1RFZBRXpVc1ZHdWJYSW1hUnZqV1d0SXNWSFMvRGhzRlZlZjJkb0ZrUmpMS1p3ODliZlNVZnJNV3VJUHVDUDRvMHhQZVdoU2t1RVowNmxnT0VFWkNDRGt5cFozNTFPUThYMUFuWGlqQVIvRyt5cXB5c01qYUZRMWpVRENOVDQvbi9YSDE1ZnVhQ1IyMThKVldxdEJUMXF5d1BldFhPTVZVLzFwWS9vdWYxVU5TSE16dm56NllaVEdYYk1zM1VQTGhMeEhMQUVSakFPMEg5QWxJS3hSb2U1K3lqakRvS2dGY3JUS0syRC82ZWhYenVRbDBsdVFXTEZGaVBGYms1bFphbTZwSC9oYWM2QSt1VFF1RXAvU0JWTWUyZkh3OFVIeWVzNFJYajJVbHFrR1lmYTlwRXRYZ2NaVERBRk5hQlNwOXRxYkZTNGFjckpBPT0iLCJtYWMiOiJkOTQ1Y2I3YTBhYTU4NDkzZTU4NjQ3M2Y2YzhmNjMxYzlkNDE3ODA0OWFkYzY3N2JhMzljYmE5ZDBhZjE3YWNhIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+// Depends on js-yaml.js from https://github.com/nodeca/js-yaml
+
+// declare global: jsyaml
+
+CodeMirror.registerHelper("lint", "yaml", function(text) {
+  var found = [];
+  if (!window.jsyaml) {
+    if (window.console) {
+      window.console.error("Error: window.jsyaml not defined, CodeMirror YAML linting cannot run.");
+    }
+    return found;
+  }
+  try { jsyaml.load(text); }
+  catch(e) {
+      var loc = e.mark,
+          // js-yaml YAMLException doesn't always provide an accurate lineno
+          // e.g., when there are multiple yaml docs
+          // ---
+          // ---
+          // foo:bar
+          from = loc ? CodeMirror.Pos(loc.line, loc.column) : CodeMirror.Pos(0, 0),
+          to = from;
+      found.push({ from: from, to: to, message: e.message });
+  }
+  return found;
+});
+
+});

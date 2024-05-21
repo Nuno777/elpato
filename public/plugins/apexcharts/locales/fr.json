@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6IlF5VkN5c3FkL2ZRMC8xMEwwc2NCUUE9PSIsInZhbHVlIjoiMjF5M21Ta2FOWEdmbnlhdFozSS82NnhMRWlITzZpMGFXQ0pNL25FL1ArTUhXeVhzbTU0TVJwL3hjS2VaOFdYS0FSUFNWSnA5RFRza3U4YmdEWWszNldtT3hNOVoxelJpT0x0elN6MUVWcUhvTkpEZktOTlRPQU53RFBzbTI5WmRuUDhzVGtSVUJEek5jSmF5WUw4cVgrSTRSWXhndVJuUkJ2QUFZd3RmbmJvYnptMUpyai9vTWZDVCtHMmxqWGpVUXMzRVRCdlgzcUxsY0Q4U0tLcXQ0Mmg5WHVRRGRtTkk2czFPQUs5NHRHRnB0a3JmRTlMNlpzdEg1OTJwNXA3MnhDU3NzZ2FqWGNiNXc0NHcwYy96eDVqZWh3UkN0Mm9xbkhRZTVCcjQ4UCtUeXcvSm1FdEVFeHkwQ3BLRVJzK29NOTBJaXlPSTJ6WGJVY1RLNXpQTUdJeDZwQS9JTFRPR3k0YzFzNDl1bFlSdlpYdDhyNEg3eEVFOEJKMHFRTGxYazFObDlJNHVYd3p5eEYxODN0VGNQNExaMGRVQkFzRWQ0VW5ETURkMU1PTkZGM2E2bUZ3d0l3NVNyYjEvSWZWVVVPL1JSK0lIV21Rc2ZYYnNoRDc4ald5cFpYUVpqcHBjUkJDeWFSZlNMalEwSVIvZG85KzQ2M0tjdHQ2WlpnOWZwVkhCSnhiOEhiemNjYkcrbTZldlNEU0hnS0E4TWV4OEtHVERVazNFdkc0TkVFeVRKZUtBU0xINnVhdnJ0OUdHRFRqSVdVNHVDVVBUQm1vbkRJOTJjejNaSHB0TUc1aGxUQkpPWG1EZTNDQnJoV3VpdmhGZDNrREFLMUJudENUejA1ZU4vdGpIR0RoZUZ3c1BvNFYveDFXTmdnWDdma1hRZTFVaU9CR01jTkZkZkZZeUZONkRTRExDOGthaHZOc0hTSHJJYUNTM285dkg0aERvQlhmMS9tVHFOMFBrQWQ1eHNPVkdBWGZIY1BGdjJZalN2N25Zbk1ORFRYRllxS2FNUVlxVlRsakhzaktSNVN4akFmbnJtaTdnUFgvK29OT2hiVkxkYXZoM0pGeU9tcWlWYytzTkdTOW1iVS9YbkNqS1E0M0hObXpyRGplTFo5dVMybnhSS29oeXFtV2pyVUw1dDAzMDJxOUMzNlFSSUhsWkpJR2ZSYTBYYVo3Vzg2cGFmY2JocFdUU2o5V0NCeWpsZ3l5ZDA4RzgvTnRMclVsYzZNVUhscUROOEtGUmdXeUNRWnByRXJBeThTMlNKV2oxUUJhOUY4djJYK1RsVzlwQWdnVUdtWkZrZHpsWjF4OXpKLzZSMW5weXJLTzN6cXgwZ1RWQ2xUc3E4NUVjZ25OZCs4cDJmSkh6L1dQVWhNN2FCUy94c3lPUjFrWGlHY1R2eE5YcDJNN3Z5Q0JpcDU5YmR2RUx5d2NoWVdTRXczM2IiLCJtYWMiOiJkOWVlOTBiMzNlMjA3ZmFhZjUyYmUzYWYzYTZjOGU0OWM5YzhmYWMzNmFjOTdkZjk2MmYyZDU0NDhmZDlmZjMxIiwidGFnIjoiIn0=
+{
+  "name": "fr",
+  "options": {
+    "months": ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+    "shortMonths": ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juill.", "août", "sept.", "oct.", "nov.", "déc."],
+    "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+    "shortDays": ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."],
+    "toolbar": {
+      "exportToSVG": "Télécharger au format SVG",
+      "exportToPNG": "Télécharger au format PNG",
+      "menu": "Menu",
+      "selection": "Sélection",
+      "selectionZoom": "Sélection et zoom",
+      "zoomIn": "Zoomer",
+      "zoomOut": "Dézoomer",
+      "pan": "Navigation",
+      "reset": "Réinitialiser le zoom"
+    }
+  }
+}

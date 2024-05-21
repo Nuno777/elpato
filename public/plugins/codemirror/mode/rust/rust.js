@@ -1,1 +1,72 @@
-ENCRYPTED::eyJpdiI6ImxxbFkxN2IvNXJKN1NXKzM3WXpIN1E9PSIsInZhbHVlIjoiL1FoUytKeTNvTXNZc2hlVDdZc2VOek5FSHdoUENOZlRGQ2FCdFdDTVpFOFJ5YzVhRit2cFBUYUQ4b3pEMjh0YjE0dndobUpEQWVCeTd3ZWZ4Y0tDYytORXNSaEhoM1UzSklXTkJRWTNoNmEyVFBFMXl1U0JCYWNSajRKT0lXbCs1UGpYNElNQ01OUUhkSVBiSytYUE4zT0sxcnh0Q0ova2RHbUhreUI3OVFSdUs3anhORm9zVlNhRC8xR2JTdm9lc0svY3IwUUVacUtYb3V0TWZ3NE40QzR3R0pBYklHNm1KbjVTK083QWtLdkVpZDJpTzFtbXFsT2hYbzM4NWJvY0lBRFAwd2tiOU5qNUNsRFRJYzVxY2Iwc0d1R3Z6VExVOXUwZjB1eWdKbUM3Zm5oaXNtLzV4U1ZmTGFidkYwdndlUjBoMlgvWGFHeTVXY1ppd25aQWx0ckp0Yy92T2cvS1FISW9VZks5cGU4Vm9KMWx6cU4zeEpBZjN6K3Y0c2s3c2NIdU5xcHlrWWRNd1RWNnFxcks2NUIvMVk3Q1VBQndIVXoxU2dDRHZZSHhqSXd1M1gxc2xacDVSaVZKRWhHSFN6ck56b0pETnRtWndWeUFYTjJzQ25pb0RGclpHZ3duK2lPV0JuOVY4ZStWbERWUlYxQzgrS0djYVc5aDVJQkxSSEJYcDZtdUlRSE1hK1ZXWC91MWdUUENFb2pWWVp3eEt2Z0ErN3p0d2Y1cjE5a0lUc0thb211c3ExeUpKcFNMcmhDWVB4NWo2d3NjTDN3ZjhZS2d4WmxrQlpLeHZwdG9IWXJBeXBaQmI0MDc0ZXJvR3FtUHMyUklIY3dleUxaT0JDYUltS3BNN0pkVFE3SkEwY0pLeW9NVFZJbTVKSkNIRGxnSHdrY0o3Z3BXMml3TUpuM1dxTWpsQ1dYKzdtMTVTNHJSc1B1K2JMZkVTZ253UkExSUJMc3RCZkZNaHpjWXRrN1NJcEZmYU4vdnl5VUwvOTBiWEI4Qm1WYlZqMVdZYy9WZmQ2QVgzS2Q2TmZsNEhFV1ZPUGhLeEJmQ2liQXgwbmU2ZGsyMDRCUHZzcjlOWEJYZURDMUV2dFhEYU9QZjBWcGgxeGFwSU5BWWVMeHRodjFMRFg5Rmg4TW0yOFJ0dlhNK3haYlhHa1NWK2JMK2FWMnRpSHhxTkxOcGowN2ZmbFFsRnN0RFhXT1c0R3ZqRTlPMVBlbnU0TE1EZ21zTWZmZTMrTkxDR0hSR0Z4R21IVk9pSFNaSHdPMEZxdkFpOHl3MmhUcjNXR2dzeEp4NTBXYVNWSTArQnFBRnhkUzFEOVc2b283Z0hubG9Fbm1rRWpmanRPRGZPYWR0Z2NIbW9IOXNFVXhtQzBpZTZkVDVxN0FjUHJ3V3ZBYVpiU3JwSXJabzVZejdxbmp6eXowR3lYT0pYRng5UlhDdzdpOWoydXFEL1pYaDRiZS9KUU16dUxTc3JGK2VxbjBESnFmWGhrRWI4cDQ2N0g0OTVseUxZcTZMNUZSdGR0TnRRakFKOUtzSzJkSW1YaG96WkJLOVJqUitRSlY0cHdqMG9VaWpWZlNaZW93cWRDQmRiMlNXd3pqcy9zMktGclA4MVFRRFJUQUo0aVJIRVhPVXBLbVE5NnNXTUdRRTJsL3FMcnVia092STdkRDFaVVB5QUIrek1TRXh4ckcvMXU2VEh4K2htVFk5SnhLM2dtc1R0d3hmRVJmRlA5bHVHMTI4MnhsZHZaT2V4NUV1Z1hWT3AybmNJMWluMERjeFhKT25RaWx4UWkva3ZnTTF0akVKWVBUdXhOSzVxOEhUcHRBWlRrcC80cnhDcGY5Wm5IYi91Um8rV1NQUTdxaGUyRmNCeDZuTjI0U3pEbGR0c3N2MFhmais0UTR2SXMwb0hkYTE0WVpkclZkdlJpYjRTMFBYZG51ZUJraURGVkwzS0dTaGJGU1krZ0R6UzdOQ0lXa3gyZm1PV2pPd055YmNpWEUxZ1gvUHVwblhsZXdoRkl5MHVPUmpBK3ZhK2xVNHlwRmdQYnc3QnJ2ZWtEa3JEdTdGbk1LU2lIOTg4cHYwTXdIZ3JYU1VRdEJTSDZGa0ZCaUlJSmdraHhhaWxwQkthRlVpNEFndHVybnNFekwzdlZmY0FYdURRV240eklZYndRNldBbFEzMGJNb2RCYnhQS3BmQmI4Z1JvQ0dWcVhDakdDaUZsYnZhT3JTV1hDYUJlOSs4cnNuQ1Z1UzV0V2h0NkhwNkNmbG8xd0pncHRiL0d4NmN6MEtjRnpFWjh4TGhTN1d6OGhRcmhoeitoTTMwM1FXdkRwUnBCODcxU0FRWkY4RHdyVHhvM0RYSFFxZW0yczhPTDZPR01sZlVvTENhZVpRc2d1bzRjT1IzUjgvaUJ1U0JPS0J5WDRJcjhLVDQ1emZQUzU0N3BqNGxmWCtZdVZqdUROWTVXUStGdm5tbWNwYkJXMzF0THJobWdKQU5pNjdnbjd1RzIxN2lZSHJvWWtiL1VlL24rY0ZlSFVFeG1admxIcDErQkdhTzZzbEo1WEo2YmFiME15M01hbGJGVHlZeWQ3dkprRnpXcmJnbHoyN0tTVFFVeUlWRmxqdnE3cDZXTEFQTldoTm9BQ3MrT3pxekNFZHFSVm5QNURqa2d0WWtJU3JGbCtPdU4vc0VjZ0RzUzFRVHZXZmVZZGwrOWd5RDZWNWhsOW9vMk9vVVhlUllvQXJHWkVtMUprZzB3T2NxNGJ3K3ErLytzUGZGT0NkLzcwcHhuVGtoNUZkTkYyNWRQY3Z3aVc0Z2svTEhPVkxyd1RxTlNRcFhsM0Z5ZTRMMFRLcm9iM0ZpdVBOR0dHYkhUYWNBVUVOd0VxSUFYczR3VFFYeERlOTlWZWlBWlByUGJUVk1kZDZPdVR5RGp2WHFVUkVRbFplditxcnlBc1ZPNnBGWGFFWlpIQysrYjlsWVRodVlhTjRLOXVRTTVLVHBIZys4WDdyR053bGo3RXRuZ0ZkdlI1ZjQzVGdYbzRmeU9OcC9RU1VjNlZkWnBBZnJ3SW5mMnE5ZkllWUJMczA5Y3VKWUp6RklFMWtPNExSZDJWb2FpWVpJV3daKzNiOFhkRlRXcFRmcnFwWnRTQ3MvQXM4enJ1MXJSeHJNQ2xwbmpMSkp5SExvVEw0UEVpUVdiblB5dFNUeUxwaEs4cENlajVKa0pZVEJ0bW4xM0NkamJLUkI0VjR3bHJ1d2N4czlzNU4wM1B6RTBSRzNOL3FQa3FBWVFWL1VWQWpxTjJwU0ZzclVHMmVqMWFkTVJxRzFQcllEWmhiOFczam4vdmZhTWRpODEzMndraGR5a0FFbDZkaTBLNDBETXdEcFdyaEdFZ1VEQm1DemRyTURocXF0aFlySlJHbGZOMU5LZDV3bDJ0MXRibzl4a296TDVFSW55MG4vMzJCOVR0eG1OMjlTUTQrWHovYVIrcWNTTWhDOU5vUHJTVS9iNXlXK3lJZzRpS3B0WUZVbmRGSm4zNklPQU9EcGVTSXBiTzJUSUYxNXBaay9KYktUYlkxZXB4R1BCYTJQSGJWbmFObWZDT3NFYytxZ3A4NHZPQm1GVUVacWZlLzljZkMvWC9aM2pMejQvVEdNcGZ4T1I3emhSU2FoeEZua1M3aXcwY1NqdnRKTlJjbjcxZjVSMDhYbThySUhsMWxXaVVsaC9KZW5hTUJpcWpiNjE4MTdsTG40ZDlpUXo5TXZqUExuOE1MdlJ0RkdlRzk4cXRaaVJuSGw4L0dKYzJzTDQxTXc1MEpjOWZWVnUyYk1NWkh6NEdocUUrTngvSFY1U0lNRnpFSEM1N3h3OVpZby80K3VTQjY3QXc1dFYwb3RTbGcyNXJUdEZyc0hPZko3MGZXcThyTGYzQ2NpZS84ckRSQ3lhZjA0cGFqUEdPMGJuWTFBSTAxb25nY0RFV0szd21SZ2tkcXJ3QkJXdlpMSUNMOVdDMzN2Uk5Ccm5uVmQxVzVaVlc5ZTdFSnJNTXd2REZoUEFxTzN6MiszOFlWTWRubGNYUU83Qk9LMzRlOGF5OGp5VmY3V3RSdmx0Z3IwTisxUVlQVmtPSzdNMnNlWitMZkJ2NlR3MVJWeU5jYW0rUElVL3ZCTk9VdGZKZGlXZitBWUlOZlZJK2RZSE5pMlRjRlZ1Rkh1clNqZDhxM0pqcENJS0FtRHJXNzZHdU4rRUpacWdOd2pUVkEvUm5VNEh1TmlKV1d6Wk1zUVNKcms1eFFBTmNCdTdQb1RNeDhPWWJZNnN2L3VrQU1TaERpaE5RT1lXbXhtY1o5RE5TTWJ1a3VaRkVRV3I1ZDhiTitISkNXd2F4cFdmYUQxQ1QxOTBEem81bHhFbjgwTWFXWTBNRVlFODNJMXdlRVhySW5nMmI0cTB4b1VzeTE4YldsazdqRlhpVWQrVGk3WXZsZ21KUVZvMmRTcGVQS3M1bkhxcXovTFp0NkZJVm0xeENaWW1HamhYRG5WblBGZy9CYndVc0lLSE8zRUZ4enlPMy9Fak5FVjZCYjNBRWkxaDZDQTNQUW54SGUxSExIeldIVERXSklNMDJkVkxtTHhqMy8zcnpqS3d0bmFrR1VTNDV0WVhoQkpPem1oaHhqTFZUeDZVTmNyMlpJSHpyTndWNlVEbTFRRndBanBLU2F0azJRMzlpc0lVNVRyZ3NCbi81QjdjMTRGWkJtYjJQeVJyaGFneStyVFk3NmZiR1lBWXQzRTVGMFdCbEZWa2c2cFpLWHVrQ3VwWS9MSnl3OGMzdllYM3FVamFMdWNsUGpJeG9KcmpjTlhwWDh3L0pIUHI1R0RaRHhtTEEyajV1ZDNFb0krYkJzSnUwQVRGQjVnSllLUkpmZnhVNnJnemd4V25tV25MZE5za04reGtlcGMwTE5TYm9pdzNvV1NnbTljVXRXcFVzSUVMMm94MW5ZUkRPSU1HZWFvMkNGY0hyK3BYNTlhUndEK0dmK2s0R0R4SkRHUEI2QTdtYU85TWoxVEtOMFNNR3BVOUU2OTZ1N0VRWHdqUlczbzI2L0Myakl2ekZYQWxiWks3dUFkcU1VRW9Jd0tURGhrOHVaR3NOUW10Z242eGE4dmdQcnFGV3Z4UVpIUTBRMk5sM3RLdThDbjVtTU5pYmk3YkEwWXdSYTl1V2FXTEVlQ3NybWZXeWN0NXBQYi9Nbm1HM0NmeGxUMTVEdzYrUXBkcEdRNkZMNE1mcGswL3RPbmxsZWUwRXQ1cDZ3aW1NSTRsc2tKS090MENQWnI5NU53ZmhRUDhvWEFoV2ZTWG1ZQk1XTWJVbDM1RW1nd1V1UDBUNkZDejlPeHlTZ0g3RHdGazBXM1YvdFJmRXpwb2l2WEFJM2JhNUhTK3dFSHl6Z09tOHkrYVk5YitBMzhSNDNmM3NEcUtLN0FnU0VvQUdUWEZEK0dkQStTVTRyWVk0SklIUUgxampmTVdFLyIsIm1hYyI6ImM0MTQwNGE2YmMxN2M4ZGUxNjFkZmI2NjdhZWE0MDkyYTM3YzRlMTU4ZTZhYTRlNjk5MTRhYzZkZjUwMzgyY2YiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../../addon/mode/simple"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../../addon/mode/simple"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineSimpleMode("rust",{
+  start: [
+    // string and byte string
+    {regex: /b?"/, token: "string", next: "string"},
+    // raw string and raw byte string
+    {regex: /b?r"/, token: "string", next: "string_raw"},
+    {regex: /b?r#+"/, token: "string", next: "string_raw_hash"},
+    // character
+    {regex: /'(?:[^'\\]|\\(?:[nrt0'"]|x[\da-fA-F]{2}|u\{[\da-fA-F]{6}\}))'/, token: "string-2"},
+    // byte
+    {regex: /b'(?:[^']|\\(?:['\\nrt0]|x[\da-fA-F]{2}))'/, token: "string-2"},
+
+    {regex: /(?:(?:[0-9][0-9_]*)(?:(?:[Ee][+-]?[0-9_]+)|\.[0-9_]+(?:[Ee][+-]?[0-9_]+)?)(?:f32|f64)?)|(?:0(?:b[01_]+|(?:o[0-7_]+)|(?:x[0-9a-fA-F_]+))|(?:[0-9][0-9_]*))(?:u8|u16|u32|u64|i8|i16|i32|i64|isize|usize)?/,
+     token: "number"},
+    {regex: /(let(?:\s+mut)?|fn|enum|mod|struct|type)(\s+)([a-zA-Z_][a-zA-Z0-9_]*)/, token: ["keyword", null, "def"]},
+    {regex: /(?:abstract|alignof|as|box|break|continue|const|crate|do|else|enum|extern|fn|for|final|if|impl|in|loop|macro|match|mod|move|offsetof|override|priv|proc|pub|pure|ref|return|self|sizeof|static|struct|super|trait|type|typeof|unsafe|unsized|use|virtual|where|while|yield)\b/, token: "keyword"},
+    {regex: /\b(?:Self|isize|usize|char|bool|u8|u16|u32|u64|f16|f32|f64|i8|i16|i32|i64|str|Option)\b/, token: "atom"},
+    {regex: /\b(?:true|false|Some|None|Ok|Err)\b/, token: "builtin"},
+    {regex: /\b(fn)(\s+)([a-zA-Z_][a-zA-Z0-9_]*)/,
+     token: ["keyword", null ,"def"]},
+    {regex: /#!?\[.*\]/, token: "meta"},
+    {regex: /\/\/.*/, token: "comment"},
+    {regex: /\/\*/, token: "comment", next: "comment"},
+    {regex: /[-+\/*=<>!]+/, token: "operator"},
+    {regex: /[a-zA-Z_]\w*!/,token: "variable-3"},
+    {regex: /[a-zA-Z_]\w*/, token: "variable"},
+    {regex: /[\{\[\(]/, indent: true},
+    {regex: /[\}\]\)]/, dedent: true}
+  ],
+  string: [
+    {regex: /"/, token: "string", next: "start"},
+    {regex: /(?:[^\\"]|\\(?:.|$))*/, token: "string"}
+  ],
+  string_raw: [
+    {regex: /"/, token: "string", next: "start"},
+    {regex: /[^"]*/, token: "string"}
+  ],
+  string_raw_hash: [
+    {regex: /"#+/, token: "string", next: "start"},
+    {regex: /(?:[^"]|"(?!#))*/, token: "string"}
+  ],
+  comment: [
+    {regex: /.*?\*\//, token: "comment", next: "start"},
+    {regex: /.*/, token: "comment"}
+  ],
+  meta: {
+    dontIndentStates: ["comment"],
+    electricInput: /^\s*\}$/,
+    blockCommentStart: "/*",
+    blockCommentEnd: "*/",
+    lineComment: "//",
+    fold: "brace"
+  }
+});
+
+
+CodeMirror.defineMIME("text/x-rustsrc", "rust");
+CodeMirror.defineMIME("text/rust", "rust");
+});

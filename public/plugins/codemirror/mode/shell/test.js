@@ -1,1 +1,73 @@
-ENCRYPTED::eyJpdiI6IklDQkpsVGZXbGdDSVUyMk9QazAwWWc9PSIsInZhbHVlIjoiSnR0Uk5UVVJoUE5qL2xsT0NZSVBrR3Q1UHRUMzNWS2lTdmNUYmNad2pZN1poVm5UaTByTnBFSWVqbStOQ0tlNGsrRVJRL000a0I2eDJyMDZQZWd5YkNlOEFDWko5dHRXSGlJaXRGZUxiNSthSjcwclJGUitJZFVWaEZBWDhUeVJKVVlWb2cxOWdtVVdxaVc2SWpWclFiaU1xbDhJK21RY2Z4WUc4c3o0MXJFUDViUWI2NFNDaGFmZTgwZkloaDkrTDZ0SDZadUs1SHlpUFVkSTFXVEdvTGw0amRrc2Ewa2E0YWllcU5OQkt6Y1J0eUN0K2FsNFdMNTk0emx4WGYxbGpjTnkvVHlIUVJmMzZWY1hMYnduUHdMWEN3QWZmQlNjRTZsUHNQRUlvLys4SEsxV3Q0Uk95bWRpSDZaeFBpVTRweHF1elJYRDl0OE5HZmJNWC9iSjJyaHRmd214OWsxUEgvNDMxMnNJckE3cy9COGtvUHBJZ3lJNnZWSjF0Q2p2WTc2d2JGVllib3pYUFRHY3FoN0ZMK3Y4aFpWODNVVUhJb28rYzNROTZ2eWhhMWlqWENtdDlDQVIzeStURXMrbm1Xc2t4QUdGT2Zqdk9XcGNXRE1wZ3Q3V25mWHVjWCs5S3lndFhQMTB0VXBKTU02RzJxVXlWSEpTcXRPWmZNdkp5M29NSjMzSndnYzhGbGEvWnRTeEtWcS9yclFlOFNRNVp4bkdhMlJRUGFqak4xVkczRWYzanVuSHZ6WS9paXdtVzBubmswVW5JQVBMVVpLZjYxTlJYZGpyTENFcUF1c0xXKzd3Q3krRkZsWlE1STFOZUJObUY1eldFTUVENTRhRlEvcmg1S2ZGMitkYkJsbGN3WUU0R080UGo5TlA4dE1PSXRTSDlIdlFmUmVRZGM1UDM4d2dMVTlZOTlyVTl0L0YxY0MxQU9vazc1RTF1UlBiSXdpTkJXaHVSRnAzWGdwbU1EVFVWNVZ2QzV5c3JDT0JGZS9yRE50V0E2UncraWYwR0Zoa0FRMTQvNjh5NGhiZWMySDg2ZEEyK0dLY0dxVkRmT3g1YmxreG9GbHMvZmFNM0hLWlUrTHhpK24wSFZtQVhSSUZKbDRpUkVQaUs1SGJBS1hVRTdyMDA0UG55TGVSVjh4emxkaTdiekR1VlFlL295SHo0ZkxlZmtOclBLR0cvbTNhRi81aVhLVW5Lb2VscHVlTWxlNTFiRm54K1pxVXhWb3VYYyticTk5YW9ZdUZXRDlDdk1WWWZFRU42aDl0TWNSLzVXREs3Umk3V1hDMm8zelZjREZCZlBmNUtzVTd5c3ZKbmRDQ1NhN2dwNm1iNWZ3K1NEYkV4c1dWOW9vMW5ic1R2TzVFUDVQeGhUK3o5ckozZytmWGtYRjFZdmZDT2ljd284WlVoRFBheWdCTW1qa2JLR3dESHluTEtJdGF0ZGF1VzRNWnZGTE13ckUzVjhTRUpzWDJWVENZRWVPc2tiUVo2TnlTS1dLZEROaDRHM0JDSUV1U2sveFVkYXB6SlFlb0RCcEpnTTB0cFFMUXB1MUlHcUhTU1h0NElIanBybkF6Z29XUFdwN0JZSEZzdmFwVEw0MDlkTmE0eGVoZHpaMEFOTktIeEk4bTBnQlZHV1FMcStyMVJKSUMyR0szUzlLZENwZE44V3BIb0p0dUMvLzJmTzhiUG5VbGp1R3ZGZ21rc2hFWityTzdYVmhuckdYQ2JwSzVHZ2YyZFhlMmIwNjQrTWtzMUFpRkVIMHVCdXdOb2oxS2FhMkd4MHhnYTB1STZNS2JvZkRxU2UzcGx2KzZVQnArbW92K0d4QXdaZjc4Sk9jMzM2TnlPRnFwQm5CTXhXbnJNZCtOaXEyQi83YThYRENvc0JxMk16cU1aYmJtQzFYV0dHc2g1b3BiWFljSytVMUNldkpnYjdFbTJNTGhZNFIxTGFXMWJNOGZNZllLRE5VYUVVbTcvNmNyUmhsMTlyaWJCNno5VGJWT2piQjJNaUQwTzNsY1dTOXVyR0M0Y2FYaUZlUVpxZjE3c1VBS3hJaDZVYWdkZ3Q4KzY2VjRSSXJaNEY5MzBvU2dNeGZTYVJvckxsYnBRV3RVd3l0bk1RSlJnY2RxSVhNSk1WYU9aN0l4cEMzODhNYzBLMUFSc1oyc2QzcThzU2p5bnF1N3lqeVZkbXg5RkdGQWF6ZkNMNy9QZXJzblM1aldvQ0FrUHpwWDdpNmtyWDNsUTFRMm00VWFJSU1Ra0RUVnpPckltNTVDQWdKL2RTamVRRk5wR0g0UEdxODNCd2MzRjJheEE1MUhiL1V0d2ZlRTd1VzRJRTMrVUNWMjhCWDN4L2pMTTYvNzNRRXBZYXlFUWJmeEcxZnBQS2crT2VhT3JmZC8xalFjTkNzWU1OQzg0WlVPWjEybmFxMXhwNk9LcTB4b1I3aSt4U1NXZGdYN2xYY0RSTEFmMTF2blIzaVA1N3k5TjZKajZKRGdNN2Z4cXprUWdQTkIrVlZpOXRvbUpac1BZY21iS2c4N0ZMbmJ2MWxYNkpJNTdMY2liNDA0TkJITVVnNVRRYldLdzUwVFhobjQxcmJsVnpWZFIwdnRjdDZGTlpYRkpDSUZOQllPRnhBZWRkWTVUdm1lTzZranFDaFRJVlo2d0FsL0oxZVBhSThPZlpneUFYelZTd0QvdmxMbXUzYlB3QTNZWlREdzhJRk9BY21JZFRVcjRVVlpvTDVhZ0RyVnBQV2Y5a0RqM1VOV2JyUjA2OTNCeVAwVk9Vb3JVQlFLUzZqcm14S1RSb29yNVV0WWVQeDhHVXVUYXpPQllBWnUyR1BLMklDTGpCdFpQN2E5ai81SVVwMGswbzAxSXZ2K28wYWd6VUxtcXQ5RGRzcU9DajJ2U0tPWXZZQ21FN3c4Qm5OeHpldy9WeGYvWlpnK25mM1hpcWhrdjhsbTR2Q3Y0WFkwZGtlODR5cmtpRlpmelNUQXR1TjZRc25RZmpNY0l4ajVJcmRBNzJTT3FpbDRRTlJpQ3Y2cHNWdHJocTdST2FsNVNuNEYyNHNiVjhwemVJc0hrZWRXWHVQMm9FNU4zL05DZ2ppK1A1VnM3YkNkMzdJbXlsaDU5VDdDZmsveERMbTJPQU9zK2NPd081YkkwcmZpODUrVTlENlowb25sUmhzb0xCZUpJSGJZSGJEaVNKbUtGUjlNNkI4c29kVzR6NVZsY2RuOUJVSmswWVVULzErdkZzR0drSGFxbkFIRkxjRW9jbmhHTFBCNGhSM29rMytORlY4K0NUdjE3SmVoVlZtc0pWWmQ4c2Zjc1dJbE5VY1loSVNqUGpYVk5IMFBDWHc4ZTBQOHA3Tnl5N3BwYkVyS0NvQ291UHJzc1pnMjNTeDI0aWhmaEhXMFZNS21SWGtONVpsZW5xRkpFL2JTcy9MYk1jV041cm4rb1crNFZtcjhaQXQ0V1VnbmRsUlVzN2Q1NW92YUpON1I0Z1llZExYL1dVTXZhK1VJaFlPQjExd2FxcG5QMXJvRXBjODgrWHVyWWFGbmJ5Q2lmYUFjNjE1ZlQ2QnJ0R2VGRHdCc0FydjJEZDVRQmVEeUlHd2d2bFBVQ0o1NUt4V3hSVGJLZ1drWjgra2p3NmlDd0dvZGwvMmh5L0hhK0JvME1yRk9xOTJ1MzJHYk9JSDhGN1UrZHlValJCNlRiUkdRSkUxMmZhSVBNZXFDM1pHZ3RrV1ZBMm10UjI0YnpXczlRL2JXM3l6L1VUb0RNZkQ0Y0F5TS9sMy93bkhUZnlIT3l4QURZeFRyUGw4WGtCbWUwZjhPK2RFb2xPMWtuQkdVMzhJMTZ6Ti9rSTNGeW9Qc08rYXdkK3FrZEh6cmdUOGtRR1hZYWRSSVA3eWxtaGtrU0F0SThPeUpvV2VBT3d6b3U3N0pBUENLaEUxcFRvMzhxZ0J4dk5pbEQwVWdDOHJIb2c9PSIsIm1hYyI6IjcxNjMxMmI1N2E4MDg3N2JkMDA5MzE1NTBjNjljMTcxOWQ4NDdhYjM5ODZkNmQ0MjIyNTVmN2U2N2ZkNmNhNzUiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({}, "shell");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("var",
+     "text [def $var] text");
+  MT("varBraces",
+     "text[def ${var}]text");
+  MT("varVar",
+     "text [def $a$b] text");
+  MT("varBracesVarBraces",
+     "text[def ${a}${b}]text");
+
+  MT("singleQuotedVar",
+     "[string 'text $var text']");
+  MT("singleQuotedVarBraces",
+     "[string 'text ${var} text']");
+
+  MT("doubleQuotedVar",
+     '[string "text ][def $var][string  text"]');
+  MT("doubleQuotedVarBraces",
+     '[string "text][def ${var}][string text"]');
+  MT("doubleQuotedVarPunct",
+     '[string "text ][def $@][string  text"]');
+  MT("doubleQuotedVarVar",
+     '[string "][def $a$b][string "]');
+  MT("doubleQuotedVarBracesVarBraces",
+     '[string "][def ${a}${b}][string "]');
+
+  MT("notAString",
+     "text\\'text");
+  MT("escapes",
+     "outside\\'\\\"\\`\\\\[string \"inside\\`\\'\\\"\\\\`\\$notAVar\"]outside\\$\\(notASubShell\\)");
+
+  MT("subshell",
+     "[builtin echo] [quote $(whoami)] s log, stardate [quote `date`].");
+  MT("doubleQuotedSubshell",
+     "[builtin echo] [string \"][quote $(whoami)][string 's log, stardate `date`.\"]");
+
+  MT("hashbang",
+     "[meta #!/bin/bash]");
+  MT("comment",
+     "text [comment # Blurb]");
+
+  MT("numbers",
+     "[number 0] [number 1] [number 2]");
+  MT("keywords",
+     "[keyword while] [atom true]; [keyword do]",
+     "  [builtin sleep] [number 3]",
+     "[keyword done]");
+  MT("options",
+     "[builtin ls] [attribute -l] [attribute --human-readable]");
+  MT("operator",
+     "[def var][operator =]value");
+
+  MT("doubleParens",
+     "foo [quote $((bar))]")
+
+  MT("nested braces",
+     "[builtin echo] [def ${A[${B}]]}]")
+
+  MT("strings in parens",
+     "[def FOO][operator =]([quote $(<][string \"][def $MYDIR][string \"][quote /myfile grep ][string 'hello$'][quote )])")
+
+  MT ("string ending in dollar",
+     '[def a][operator =][string "xyz$"]; [def b][operator =][string "y"]')
+
+  MT ("quote ending in dollar",
+     "[quote $(echo a$)]")
+})();

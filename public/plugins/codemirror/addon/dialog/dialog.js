@@ -1,1 +1,157 @@
-ENCRYPTED::eyJpdiI6IjZ1bXIwUmIyUWVCMjdUbUM2QWJSc1E9PSIsInZhbHVlIjoicGxpNnpPNXM5UXFieHdsLzczVCtaYXAzRDZZR0EyZGtyTlNQZ2Nha010MHZLa2dKSis2eXBnMFdGZE9aM3ZMSTk5ekE1bVBRYm5SK0ltTHY4emh2MEIwT1VKb1JCSHQyWEpueURONUowM3o4YVdZbUkxMnFjc295UTJ1cXBhSzhheGwxMDN0Rjd3V3NSWTJCWmhxTXhZUnlMR0pPZ085QkN2dUw4TDhZb0I1VjAzcjY4M3RPbCs4S3ZnNEFRMEtiQ2pFZWhQTmtQa0wzcDBmVXZiY2F0cGJSTTNPOWRQQk5WRkxmYTJJQ3NxbE9YWDhYRjZ4VWZwanFwNFVUN2QwdUI2cEZGNUExSkNVMXdUK2h3OXF1dHZYa1RRNWVpL1RtOWY5RkFYWWhXYVhhcDE0cW83NGx3RUxLbDBDN2ZVVGFLNWF0NkVIbzdIK1NQanFkd0RlYWZibjV6eVJHQ2ZnTytWTWhyQjF6bkZDbG4xaVc4ZnhoeS9JSXRtdkxXUVBhMXhtZDNuL0E2eGFZa1JPTzhiNzZGbEQ4Mk5ub0tlTmI1SmxlQ3cwSzI5a2RWalU0QkVJWGkvR0xlZHNPZ1BleFk1YmpSNkpYWkJVUjljV01rWmZHZGV2bG5memdwOHpZMVRvZHU4WGVOUjZBUmdtV2pNeVdJSEdNTm5Ka1d5YUt0RWZaSmszWFl6aUs1UEZtSzh2YUFaTjFOc2NRVVpPeW45alZhMWxzV2g3M1MwQTd2U2hrK1Nac3F6Vk5YVHZtNzVsNlNDR2VWZ2NiUjlxQmhMTVRXVktXdzIya01WK2g2Vml5OE9XaDJTM1BIemtFbXNCVXRxRUF2MzhHdmlOaXV2VUh2UEErQTRxYUhabU03Qnp1K1YwVnU3QW9ib2R2MlgzcFZqRG9LYlplWkpxd3lNRU4rOFY5UHFiV2g1MUtMeGdsazBmZmRIeEVqSnVDQjlEb0lJVDJQZkpyRm9vd05zdE1zNUNpZTE3SzFvc2crdkNkMHlVZVlSSy9mT0F0UDV4VDlpK3V6TWJLQmZPcUpGSVFsT1JwYkNoODY1RysvRytiQWRsTCtKY2kwa1IxME5WVzBObms0TUpjendzSkl4ZmI5YkVCbHFsVUYzWGhCcy9ZZTdYMjVKL2I3MFZGTmVrelZ1NGJxQUZta0RXNzhtTUx3RDRZelZ0OGN5OVM4UFFteVV1emFUaVdXQlVZbDd4YXlTYVBNNGZ4Q2EvWmtjL3Y1MkpoUWlQYTRxa095OVF6c3haNWk1TmRTMWdBTWRkK3hmWUIvOGhicXdOMUZCVnJuTkRMU29HOC9zRGp5OXRpT1A3a0l0VUFpSlJHSFRPS2pGZE1hbHpRR1NabW1PSG5iR2Y5ZGV4ZDN4SWx3aU1YWmpDOENOODhZNnJiNFU5MTFhUno2U2UzdzUwRHc2SFB5RXVxd0wxYk0renNDWkNTOURWYjB0alMzK1JsOUxSbEVPa21WV0kxSHJsVEt5bXJPRkJGcW5XQ2RkS2xiZG12ZzBaaWYzR2ZiNFFkVmt3OVN5cWNEQzBQcldEY3F2VE1mQTZETWFNRWYyanZWeUVxNkxpb2JDN3V1VGxzS0wwbjRxdDBNMENDaVRuQ1BpN25DUDh3YVlNeUFEVW01dzNkNjYrTzBnZUxwRHV4bnNaSmFZQytiM2Z5S1BhMjZOaXJmL2JpTVRPOHA0SWhWWUNQN1N3M0dmZ21WWGkvYTlMNC9GUmVpbWtFeGN6UVVPWjVDWWtVTzRUY1JibXhzRXdXajFUalV6MGtRY1JHZm1ZVUR5ZzlFcERqbkR6L0hBcUp3YkJUbzZNczlWTXZvSWp1clBSUkhxaGNPWHliN1RLNEdQbmp0SWFEM2t2dE4zS3FDRVFOa2VWc0FsVHduLzRUbXZSZWlhb0tZT28zdm02N09zWHplMnVjeHNRTTljVkFxNXVZQVVzb1dkZVRYQTVKbDlweGJwTEtvdDZ6WTF2bDU4WHFrNXh1SGp5V0ZUMEI3V1d1MWNRcmJsYWg5YlZMYWVsNmxTSlJ5YTRTeHBmcnhERXBNbWdqS2tpVDBXV2hDN0s1aW04UHkzNkUydStOc01PcVR2UWY1U0JEVC9sNVdESHFUSUMzbytJWHRRZEl3TXVnY0N6M3VwY2h6d1lvYXZqV291d2hlRzZYam90eFV2TzNGSjZjUG9EdnVFc0JDZFFzVXl6a1pBR1VaenVYMk5BcjhaY0s2SEJVRWFHYnJZK1JuRm9UcnRxYy9pU25zMjU4TWxGRGdTN0hsS3BESlFMYUIvVEFLOEV4Yms5S1R3eWU2bmZRUzl0b28rckgwWFhpWVMwMHhGOG15L0Q1RHFhUnJzSVRMK3FRQzJqSU1wWEVsa3paS2NpZVpnZXh4MzZaWlgzSEdRbGRVaUxOZWxWWG42WTZBT1JCOEJoeklOcW8rT2VrYUx1VkZFdDcyOWVwRExKb3B5NkJHQ1dVZzg5U2NQa2ovSG1WTzJ0cy9qNkpIY0tZV2dZVHF4YWM3WjFjb2ltWklBSExBc3kraVhIMTEzaGx1UU9XZVVGTVltSGJONFd0S1lWTzdjRXF1Vm82UHluNnhCK20wdW90T0xzMm00YW8yWTY2TU44eDk4bWZGZFBRa0ZaL1pNSGFuWDBUWVdUYlViVm5OZWVGRVlyTEhrQ3NtWUc4L1RqcmZZT3NPN09ZcUFPQStRWFBRWEVMYWloUkVlWlAvVlMrQ2RCRTB1TktPTWNRUndMeS9vVjhVcXdWZDliVEIrQ1hkdkJUTld5K0hFZnA0NmIrd2xiNzF4R1BESm5FdkVtMEwzcUJBVXVMbStPMXlzVzlDQWNnT2VBaXRNaG44TGMxaDdDTXIrQ0l1N2hIQ0ZLWkZ4WS9JSXYrMk1saVo5M3dWRlluNjRheEFQVnJUSnVEcEI4czlkeEtBVDhnQ1lwNFl3elBIVmFsVFN4NXJHaW1IajUvRXZLKy85S0pwb1hRT2grQmYvMUJvbWtJc0xTMHQ0M2pRdVNsUVVId01OUkw4ektjRU5GMzJBTjh6Z3QzTlNGY3NZci96WWthL04yN1d6a3FhSFl3NnpNTUFTZHZEUUlxeWYvZVgyZ1RDRFBFeTB5Z08zUVJMZUFjZW4zcUtHRXlFMncwRWwrVVExcVVOZEdOQmVDejUzbktkcjNBTEt0bm5LcmZSNWdDb1pXRjBBODlBRXUyMlpZV3RDVW5QNk1hRnRCeTZKSGErYzB5K0ZKV3JWQmlsMWZsM2h0Vk9PTG9lUW1OamRkWE40L1VBandCdVVzN0hNYXdOanFxeFVKZExKM3hiSHlDQzZiM3oxNDd3a1c0TS9LOWpMRlhsQ1l2bUhlNHNpdWpRaWpOYmthV3R6RXdmYjRNbGlBQ244dzBINFdoRkoyYkdQOVBZdFdqR0lYK2dYNEErb0pUektoT0tqT1RIQmtqVFVWSGhHT3NTU1laaGZkNUcyZkNnU3ZVUWFCL3UvTjRNODQ2d0lpL0JtZmk0eFQrbU40bjZMV2J6YjZCdnZpaFNIci9GN3RlTkY2UDc2cUg3TW10UFpCQ3lJTUFKYUJLUW8xMGRNTmdFYzFNVjBqQzhnVFIzdVg1K0VGV3N0RGI3ZnJuT3IvNFplMlRMRjFPNGFyZUkxK1l1Q0UxV1ZVLzM0cWNXaDZxWXdOUGJoRVRQenJkaFRCU0tKRnR4WlZRY2lEeXdKeFVScmUxMzlqdUJ0dVcrQmNTVStkMDV4VURnYWUveUs4alhrZmdCNThUTGZ5VWVWbkVuZ3oxYW8zVU5SM2JSODlMcGIvQzR1ZnptYXlpK2FHaUZUUTdjYVZ6d2kxdjlkbGdLcDFNbWlvNmNNcXA3TDBJOGsreXFsQnhBSWRaUk5HcG5QTHVGZ2l5QXMxellJQkJPdFhrUG5PWFJkOS91Z2k2K05mK2ZFSTBseCs3cUh1MjZqU2FHZ2IyTmd2RHpoNWppRjFJRGsxYWJXMTZpaTRqdzlRMW85Z29ueHVGelpSQ1JoY1kybk9ycHNVQTd1QkRuajBnMVZ0bERQYVNwbkZwMjVoczRiVEdoR05YanM1c0YrdUJhVXppZHZXZm9sV2s3anNhTHdXazlhZ2thZHloYllpaTNVOEpOTm9MZlo5Ym1CR2xYZ1dlZStMTDRCQ0ZDTUxWSHRFQ3dmMzlSM29mYS9mQlk3Qjc5ekFHMEViNnlvUG0vc2hRM2NObTQrRUlUSzlrdmpGdCtQYUFReTlaTGozZWJSSHJubGtmZlh5RllxS2JNaVgzT0VxMGJRb0xJWHNDOFROcldxMlpTSENlMU43N1RQWEJPL3BocG5YZjBvS1RBNnZWSkJKT2JJa3d2UDdRclZwRnNyVWRzMEdoSlFoUEpWT0oxQ1lTbFhoSTdCSVRITkpCK2kzQUpIWHNFTXphSUxiUU92QWFiNWJjRlBPTXI0SlBvcUQxZWZnQVpwTEd2R3Eza2tNdWpvZDVwSjhoODJ3ZXRkQ25ZeUxlODFHQkl1SW1BTmZGdGxVQkszYjAxRmU1ZTV4cjFWMEF6TzdqcVdPRnZSQkVIS3hSQ01xaS9wRm9DM2E5NEpQRHQyU0dyMXN5TUdkU3l5ZTJSVjZiWTR3SWNaTlhZSGdGL2JrSDZkOUFNSVhveWxOYnRDQkwwTXhTR0lPMkQvODdzVmM1Z2lPbVhEbmNrSjJGTjMwbEpiSkxkelVmYllpdWRVV2lodjA2SlpOcE81UC9FZmdjR0IvMGEzRHNuSFl4R0NEWTdiQXB4Y1c4Q3BERk5PcHFrbVBpcXlSSTJVQXg4a1RLM2w1aEx3WkRsTkJGdVhUZkszUzNiV3VuU2tYaHF3UllsNEprNGlubzZnQkRCRWxmb0x5aDNRd0xMK0VYZGYzeHZPYndyamtxdTVCaURMb01Gd09mYVNDODdWUGVab2RmTlNHanJLaGJucHhtZm5jZkUrUHg1WlFxQ1p5UUNFaFdhYm82VXhIVHArMWM1cVpqS0FXZjFQdE5YLzRITGY1L3Z3RzIwSTZOcERlZ0tIRVZSR0cvclpiQlg2UGZBOUJuTVVJZ3o5N3hiSVFBVmtxMjVLTUhBRVJhcWdYYktYbUIvOWFSVFlPYmkwL1gwMnNHVWc0azRJMW9zdklWS3VQVzcrWkFNUUdzYzA5VFF1azd2WDFKU1N5bzJlQVAxekp6cm04YnVzZVZyU2MrV29OWjZpM0x2NlFmdGFYL1hNeDRkd2lQM2FBQjR0MXRuQ2VUc3lVaUd5OCs3MGh3d016UFpCMFpiV282dlpzN1RReGJpNUEvb25jVnh5WjVvT2psbkhNYlU3QVA1TFRha2k1aUppeWRTWEh4V2xocmE2NTFuaGwzZi9WblorbHVxNjhSY3pSWlorWnlLM1NvOFlNaS9jZENSUnY1TFp2TDZha3EwNEVlR0N5eE0wbDhoMnYwc0JrNW4wMFVQcGFuWCtaak9TdjRPMC9jc2xoZ01ob0Q2ZEVaZUFIU2l1Mm5PREhXNGYrMk5jbkhsbDZTZVY3T0pqQXRKMlZwU2VaRWUySzBDZDcvK1Ircjd0ck82SStGSTY4SnlhWksxTXlNa0txOS9rL0w0c1Fzc3Q1NEp3TTdIOFN1eWNuSEdTWjRVNFN6WUI3b1VRQjFUdktrQ3IydG9ZVE83SnJWMy9TMFp6TjNaTVptRFVWbmdIRmg5TGh6NThsdnVldVE5ZEN0dHdaY1ozZ3lISFFtUVpyYXhXS3diRzNLYk5vNys2dFRGRzlOQU1sRXl3ODdja3kyK29qeS9iYVlDVnYrR21oQmgyeDJ4NWdadWF3OTZKd0MzbGI0b1ZCY3RPT05WTUdpeUNCV0F5NEltc2djL0dGMGdMRHByUm5PRHZsT2g2RENvTTR4WGdRSE8vQy9KVEtoaE5TbG93QnpHMm5VNDM0eFlDNFpld09lVk5PNDRoelJPQkhKNDlJcm84ZytkWGo2MHNabFpRc3p1cGxnZTFNNkFYQy9JV1VJa2FqejU1M29QMzJlTmVVcXljVWlXQ09BQThXQjdiVWc1TWJxNHoyeGhqVlhDWFYvTGpkYlU2N0QvdjIzcHhRekEzam9mcXNmbXNnQVIyNXlQbDhCYXliaFZwQ1AzQzVuczRIcE9Ib2tCUGdlcWVBZlFQK2pQNXNKWDFuejlwMzRXcXNhRTQydVA2bUNxWEVoM2M0RHJRbEhvU0dSMGlPZDdmWEp0Z3Z5Z2ZIOG4yQXRIL2krMkk0TnlhMUhabCtZcHcvcFJsdDdSZjlyRHZrRjVHQTBMbFE0Y2hJcEYvMndwWlpMMjBEaTJMMC9PeW9IYThaRzRUT3FXY2c5UGVBRjd5bXNTblc5dXpoQ25LUldQQ2d5TVQ0QXZrTWE0ajhXdDhvbDJzazlBOVNDQThhK2Z2d05raFNob3ZqZUUzVERoS3AxQm5qNDc3SmNJYllHcHQydjk3OWEvRGFWWDVpM0diYXdsUXk0MHJnaTRVdWpPQy9xN1BOS3BCVjRlVlp6TGFGUTlZWkx1RXNVM1EzMTgyLzNRb1pwUHNHVjhmVUxmcW5xTjBBNGgwWlBVVitSa014anpaa1l4aUlFa3VDdktYdEJvTWdPMXdKdUR2ZDNxM2NTaFE1TUpMZkpsQVZZeDR4QnRPUWJIRlZ5QU9Ha2dRNU1jdE9lN3o3cGJlRmJLZXNlcU1xRm9GS0FTV011WWppMjAzZGQwK1c5S01qdEUzT1FBWDZnSWZKcnFVV2RmT1BDaitmcjRoekdDQ3VmMzRIdjFucGkrQUM0RFgwMS9FNjRGOUFZbTJDRVh4YzFqcjFaUUNjVGtTK1lWT2Z6SUcwcGtPZmZVbjU3RzNGdXBMY2ZjbWFvQmFsSTJBbkdIcDg2LzVkOG1sTEVBTk1RRjd4alF6Z1FhcjFyV25DMlRia0RrdkZUMUxLaDgzbGt3LzlkQ3J1OGZURzJvYjRYN3c3UXBCeEd1OUVBMHRqb2g3L3F1TWdMUkhOTGRpWU8ydk9KQ2g1R1JkTWdMY2txQ1h6U2ZDNkZqcjBpQWpWcGxoalFwL0hZMHhhTFJKRTJrazNUcnIyL3Y3NnRmV1BzaWJJZmtCajQrVVVJSEJ0RWpNNWNlZFJyMmx0VFdzN2cxZ2psY3AycFdwYXd3VWRSMUJPc1pxVGxTeUdVallDbmlib1ZYT25IdVRwaHRuOXRuSjl1aHpmVkRzY0VpUVV4UDJSa0JRZ1JSYmNwVU9sem5VVXFKaFg2ZCtaRmpWYVBLYnJWdmZMZktNQ1dweDJFaVZuVzRiRHBYRUpmSUV2WmZHZ1l2SGNVYjlidVgzWWpaSDhaSWhTL3JhMXNKVFhEMW5lOUxjWDFQalluNTFKM3FodEZqMXpaTkx0dmswa0llakk0QVVOVTJUZlV1OTR4Nm5zYjZVT09Iam53ckh4OS9YTS9tUFlQZVNEdFJTcUNRVmtyVVNiaFZhTytEUjhwejBmMjJhbE9BVDBZRUljYy95SlhaYUhJd3pBNUVieVJNTUQraUNwd1M3bHJGcitsdGt3a3Q1ZHpvTjVNU0RDZ2t3UGtMRzVRNHhBZHVyalBZb3lQWVpaUGJHSFoxV2ZzVVUxc3M1L256cXUvenJtK2g3Nm5UK081ekgydHI0d2d2c01qZDhicCtSU21JMlBNMVE1eHpsUllHSGpYTEVNdDdpSlNyYkYxNTFrUzgxa05LNytzT0VPU0o0TmMrVFk3QjZaU3NuMnNuSUJnRFJCcUxmcDk4amlFUzhMSWI2a3Q4Q3B4RStHNFVvZWZxTExzYWJwbHk3MDJxd1FFZFFhZ3l1WW9EcWNSN1lUWm1DSmN6OFk5SzVWVVRocjAxcjRGNGlVZGJBWWo2ckljdmhTOWdIV3pGTE1OSXhWczZaWHJqNEo4NWpEMk9HSHVmTTdlbjI5b2puaWZsUUgwSW9BdUtMS0VsajVIMHdVWC9QZ21LWHl0NWw1MXVmbkgrVFNSMHpBYWhwSzVQbVh3akRTTkFUQytVSmFLVjRkVjVMY01hRW14VHIyb2VjNmQ0Vkk1eWl1OGdjYkhra2VBTlZQUDkvV0FoSXFOMjZ1T2JIMFhmUjhIY0FCanl4Y0tMdFhEc1JhMUNKbVcxb29aMk9qSlVpa1d2Y1IvTUQ5blZBb0hnODFhem9FZFIyQ0tFV2JZRDlYNzNUby9paEhUL0x5MnI4Zmd6MmxwQThsV0x6NE80WTNoNE5wRm90eGdTenpqQkoxNW9RTDAxNU5OMlc5OVdZQlZDdWtrLzlKdUhPSUZQVXNxVXBUVWs2cDAzWjladTZFK0x1UTNxNVNOclJjdTVySUdmT2VhOHpBTUZROTBTbER0Zi8va0IrRStDQktsUjM0ZTlUelVsejlibmdTTitEZ29hMVMzTWprT285eSt4U3dUMm1VOUs5RFk1M0d0eStWV1RTV2l5N3VkZnVmeGw0TldVWktLSHp1ejlJR1VlczkzWm1IUUVUWjhrSExUd3kwOEszOWFQai8yVGQ2a1RORzRrS25wckVjdFQwakpzM3ZiSzlTdDJRZ1ZNL3FzTHdOS1FGSkJFZExHTm1jT2RqNjRPTGdXZkNZbXRRL2c5KzJHVU5oTjJuVVc1L2JNLzk0NVFzbnFEOFQvc2s0Ykt3bHdZTEpucEQvY2NOcVplRTJ2ZGFTaXJmay9DU3FBdTIvZTFXM284MzEzU1ZFZ29RSHhHTnNuUFNxMXB0enVHOCtUaVp4MzZxWDRNMFJ5dHhFbzJSQ3dKSlk1aUd0NCIsIm1hYyI6IjM4MTUzZmM1MjNkODkzNWY4YjFiYWJiN2Q4ZDUyODA4YTc0MjYzYjI3YThkNzNhYjJiMGViZDQwYjdiYjQ2YzUiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Open simple dialogs on top of an editor. Relies on dialog.css.
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  function dialogDiv(cm, template, bottom) {
+    var wrap = cm.getWrapperElement();
+    var dialog;
+    dialog = wrap.appendChild(document.createElement("div"));
+    if (bottom)
+      dialog.className = "CodeMirror-dialog CodeMirror-dialog-bottom";
+    else
+      dialog.className = "CodeMirror-dialog CodeMirror-dialog-top";
+
+    if (typeof template == "string") {
+      dialog.innerHTML = template;
+    } else { // Assuming it's a detached DOM element.
+      dialog.appendChild(template);
+    }
+    return dialog;
+  }
+
+  function closeNotification(cm, newVal) {
+    if (cm.state.currentNotificationClose)
+      cm.state.currentNotificationClose();
+    cm.state.currentNotificationClose = newVal;
+  }
+
+  CodeMirror.defineExtension("openDialog", function(template, callback, options) {
+    if (!options) options = {};
+
+    closeNotification(this, null);
+
+    var dialog = dialogDiv(this, template, options.bottom);
+    var closed = false, me = this;
+    function close(newVal) {
+      if (typeof newVal == 'string') {
+        inp.value = newVal;
+      } else {
+        if (closed) return;
+        closed = true;
+        dialog.parentNode.removeChild(dialog);
+        me.focus();
+
+        if (options.onClose) options.onClose(dialog);
+      }
+    }
+
+    var inp = dialog.getElementsByTagName("input")[0], button;
+    if (inp) {
+      inp.focus();
+
+      if (options.value) {
+        inp.value = options.value;
+        if (options.selectValueOnOpen !== false) {
+          inp.select();
+        }
+      }
+
+      if (options.onInput)
+        CodeMirror.on(inp, "input", function(e) { options.onInput(e, inp.value, close);});
+      if (options.onKeyUp)
+        CodeMirror.on(inp, "keyup", function(e) {options.onKeyUp(e, inp.value, close);});
+
+      CodeMirror.on(inp, "keydown", function(e) {
+        if (options && options.onKeyDown && options.onKeyDown(e, inp.value, close)) { return; }
+        if (e.keyCode == 27 || (options.closeOnEnter !== false && e.keyCode == 13)) {
+          inp.blur();
+          CodeMirror.e_stop(e);
+          close();
+        }
+        if (e.keyCode == 13) callback(inp.value, e);
+      });
+
+      if (options.closeOnBlur !== false) CodeMirror.on(inp, "blur", close);
+    } else if (button = dialog.getElementsByTagName("button")[0]) {
+      CodeMirror.on(button, "click", function() {
+        close();
+        me.focus();
+      });
+
+      if (options.closeOnBlur !== false) CodeMirror.on(button, "blur", close);
+
+      button.focus();
+    }
+    return close;
+  });
+
+  CodeMirror.defineExtension("openConfirm", function(template, callbacks, options) {
+    closeNotification(this, null);
+    var dialog = dialogDiv(this, template, options && options.bottom);
+    var buttons = dialog.getElementsByTagName("button");
+    var closed = false, me = this, blurring = 1;
+    function close() {
+      if (closed) return;
+      closed = true;
+      dialog.parentNode.removeChild(dialog);
+      me.focus();
+    }
+    buttons[0].focus();
+    for (var i = 0; i < buttons.length; ++i) {
+      var b = buttons[i];
+      (function(callback) {
+        CodeMirror.on(b, "click", function(e) {
+          CodeMirror.e_preventDefault(e);
+          close();
+          if (callback) callback(me);
+        });
+      })(callbacks[i]);
+      CodeMirror.on(b, "blur", function() {
+        --blurring;
+        setTimeout(function() { if (blurring <= 0) close(); }, 200);
+      });
+      CodeMirror.on(b, "focus", function() { ++blurring; });
+    }
+  });
+
+  /*
+   * openNotification
+   * Opens a notification, that can be closed with an optional timer
+   * (default 5000ms timer) and always closes on click.
+   *
+   * If a notification is opened while another is opened, it will close the
+   * currently opened one and open the new one immediately.
+   */
+  CodeMirror.defineExtension("openNotification", function(template, options) {
+    closeNotification(this, close);
+    var dialog = dialogDiv(this, template, options && options.bottom);
+    var closed = false, doneTimer;
+    var duration = options && typeof options.duration !== "undefined" ? options.duration : 5000;
+
+    function close() {
+      if (closed) return;
+      closed = true;
+      clearTimeout(doneTimer);
+      dialog.parentNode.removeChild(dialog);
+    }
+
+    CodeMirror.on(dialog, 'click', function(e) {
+      CodeMirror.e_preventDefault(e);
+      close();
+    });
+
+    if (duration)
+      doneTimer = setTimeout(close, duration);
+
+    return close;
+  });
+});

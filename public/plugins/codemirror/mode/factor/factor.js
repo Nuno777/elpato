@@ -1,1 +1,85 @@
-ENCRYPTED::eyJpdiI6IjdsYWhvVktaWTNUMk9LeDBBVFMwY1E9PSIsInZhbHVlIjoid01TM2pzSGppbzB5bmtWNW51Mnl5Ym5ORzZzWmdmREc4NDVoOHNOZVJCUTNrVm5VSjVpdzZrWmk3R0dsUDg4UGYzd0NHMUN3dzkrejNtbCtsc21GMlAxakV2RlVPZ29hT3ExT0lKZkM0eUs0NExScUxjYlFQeHgrUVVBVnBhb0VZOGNoMFd3eWZzSU5OWHhXOU9RMm9KRUE1cS9KWm8ybHRIM0p5dDZ5RVQzdjUwcFNjYnZtMDBhK0wxamd5enkxMEQyZG8rVUVLM0dBRlpuSzU4WUpNWGQ2ZGxlSzkvNlQ2MjZwQ053UFFXTGhKT3piTjFnRlR1L0RsTUZyQW5yZ3ZvY2QzM3V1Z3VWN0dobGhRZEU0NllTeUJIeTUxc3lBd3dOMEErLzZ4WFNNR3lKeXJGcnpOMzhKVis4NG9QSjdwYU53T0kzOU5rRitVdHU4b3IxMGVhKzRLeFZuVmRsamdTcVozeitONFdKQVI1eGk2UDVlVGNoaCt6azEyOTV3ak1HVFdDZ1RTOHMzVHQvYXU4TWJjb1hJMms4ZC96K2dEa0pET1ZXQUs3NFNPWkFJYXg0UTRWNjRsVmdiUm9hdXR4UkhZdEZXQSs3SmRSV3FzMVdMM3dGd3k3OEk4WHpOS1Y1dFV6RDFnZmhKd295cXo1VHFTdU9ISkxRSUowK1lOUndlajhLNnp1aTFKZ3hKM1RTNi9na0Z6R2ZzamNETzAzVklvMkZtYm5RdGpiKy9neXh5bVFlZGU3aHRHWXFrQ3NmMEFpbmNYKzFETUFlM1p5aEZXbkoxODhQZ2NUMytOYkFSOEVjcjBSQTFvZTQ1bTREQkRyYmp4TkRpQmg2NkZjUWJUNDRSbi95ZWloTW9HdHlEOUlONlRhUjViNFRSQk0waXRyWjZJeUk0RndiZEFJN2c1UkRVcldvMDEvM2NlcHkwOW9GTUxjY3dXMEczNnhrMWxVTE1XaSswcFJpRnBEOXRlbnBWUG5UaW9ack1GQ2MvYjcxd3kzSkt4cWYwelVjQytHQ0JxQ0R5UWw4bFQ1bjA4MzN4WWcxTXJhNnY1enlUL05pWU1DTmFuNk5BS0NGT2FTdTUxbVNjWFhqUWNTK3dWZDdjZUxjdDJyNFNhQ0t5MS9aQ25XczgzeGJKVFR1bWVSQnJBOEpDSUdWNDZKdG13ZE5LZHRjNnYrT0ZtVGlJQnBnYmxzSmNLSmI1WkpISXE5U3hwY0l2a3U5eUwxalJWemtBOHo5OStvK2w0M0tRdzlsSzQzbUdhb2lPRTFYN3FQZ0lYUk1PL0FIRFhENnFSVWQ0blJ3bjVRQmVJcEpjYzJQZEFHYzJvRXRiemxjM3hQd1MrVkZUMlhHZTlMamo5d2hOMHJWY1lZcnRyNlUrTjkyZlJPSGlWdnBaQ0RwbEQzUGlHNWVoMXRXRmhOZm1OUFUwRVVBV0JyeGhJMVlIN3A0MlA3Njh0cTRWWGdQMzVWeTBMVmdKcEtkSmc3V2VNTy9FMkJJKzBkdStFcjdGdUU4MXRtYWF5QTRvcnVEMEMxLzAvNlM4dE5tOU5tQXFmR3l2cWlJQTN4N3dHWitqS1BOOEd6UVV1akw1cWorZnNpZXM5d1NlU1k1LzhsVDFpdkNZMDJuU2RGdW53d0pyeUFLaytmRkQ5L1FxdGNnUk5zWVdDdEprNUNIVGZuc0JsQ2pHOEFQeTlVV01rNHZzS0RnRkVFemY2ZW1uUE5JcmZDR3RaSFZNWFoxRXphanRkSXF4QThhZzFyNDBHN0JSRGdRdG5BYjF3SGd4VkJCeVZOY1JCa2lUM09ya0FCcDYxQ2M0VjdHcmhMUkNYZXZ1SUxxRUZPNlZXN3J0ZXdVVlZ3SjNpNERhUTd6NkhUZk1nRS9qcWZDN2IvY1FMME9lVlFoSi85WSsxSFJ4eEhrRXc2Zm5icmRJUEtpNWdMTUhDUHE1NVk1dkFVcWdxY3pWRkdRaHl6KzdCS043Q1MrU0hnRkVpMXNuMlI0VUNmS0hPZ0JPK2Zyd2VVZ3d5T2F0R2ZWVkZpVy9zWmxnaVhpM1VzeDJvdEhBanNiRlpYajA4QzdZbmY1YUJpMUNySjRrcFpldGUwRXEzeDl5VHJ4VytyLzFtakdrbnZVVHBsYlVCZUozeUp1ZDFlMlNVTWZZQ0ZMaU9ZQm5BTENZTTExWlVnVVp1ak4wemFvWFdKYlJTZTREaG9JWTcreWRkUUVqSlRCek1aS2xVbEdFNzFNVXdaYWRaNThpczRQWUxrdzgxY2d0MzhKZ21aVW45MHEyY3lnOFBQNXNiN2thVnBiK3ZqYm9nZVdsSDZsOGhxM2NZUXhYdzRveWlpZ0pJWVBsWGUwRkRuMkxxd1pUWnVtZGdTRjUrbkh5b1RQTzlmdlZsQjB1b1J5aGN6QUtZTFFNTkp3WFNyZlZpSGxkU05ibkYvME85cnk5TlJRRVE2OE5XR2Q3UDRrNTIvQlhHeGVwOWJNeEVuWjhiNllkRXg0bUxSb0xEZk41WDRVT2U2QjdSZHNyK2tJOXNrSTRFVjVsNHJpVEt2c0dtRUdyOVpnQ3lPODZ4Y1pqVWQ2M2xYRHk4eTh1VHlVYnNPcXN5SXpubXc2SW1qU2p1SEVQaVJmdE9sVWZVSGFMQjNlb3JvbHFaZkJzdEpCa2VDWjdSeVRXalNYanRFaUdOSHg5aEVlNDA3QS9PUnQzdHZSUXYxWDAzVjd2VFYxcG8rMkdkVlpxTzhjakxFOVZDNEIvbU5FS2hiWWwzOGl0Z2QzNVFMTW1sUlhnMHpjU3NWcHdJbER1VFFPclc1VE5scm8xWXdzcWpNRUJ0VHF2NGJta2luL0RhU2VHK0QxY1d2MjBJY3paeFNxeGNhTVF5ZzRuTnJrVE9BTGV0V1FkOTZLbTRPUFdiMS80VkNwZitOS2pRU0h3Und3bVhIMkUvNHZOa0tWMjNObUlIOEdDbjQ5bnV2NWdaN1BPNEI2b2JGSStVOEFFMjUvR3cvTFpHOUFrN3l3Zi9oQjVVaStLdzgwR1VjM1FQRlhUdW53OW52ZHBOUGlPdlYyeGpWUDVodDRRZGtyUkRKSmUvVU12OHFRZEJJK3NjMWVCb2E2NWVtM01GTGNUdEU4RWRzK1hqRjdkK2V5VElLME1MQXdDMm9zemJld0liRGRINzRtNmZoZisrS0RmZWhhSk9Ud0NBU2w2K2VhTmFWUkttSmVuQzRRcjV2MXFrMzBZSVFVRnRrK1ozb3AxV1VCZ2NhR1VQc2M0WlljRU5iT1p2b3FUVlFLWkt5TEd1VWlqd0NibUVkV05ENXV2eWdsTU9rNUVnMnljQWFSVnJJZW1sTXJMQVhOM1MvV1dxRzRWNlFuTU9LNDgyTE5wWU00ZGJJSTliOEZWdzdKeGRJU0lSaHdjd3p5S2NRZnJjVWJhM25ER2hXU0thejVKUHYzVTlpeU9RdXZtYnZHY3BrUWU1ZjNtaHFSZjJqQ1EzUzYyM21kKzFNQXFqWExDTE5DT2hXR2ZyR1BZdHI2Q0JKd2JNU3dlNHo0WUs3aW1FQVloRG1RTUtNUTJrUEdIWXkrbUJUZThIQkZNMTVtL1RHQ2FMTlJubTlYZ3hNb01GeUEybGRmMFU1VGpPSWNtdW83TjMzWUgwRmdVWHNqRDQ1UnBsblZvejJaZ1lkZXNCbXdkZjZhdHNZaW0rL2JaM2srcHVlZWtPUzc4K28xWnlpci80SklxbjArTS9qRVZGMTdUME9UUFFMdDFKeWxwU0JYQmdiUnMyTVJvaGtjdm5EeEhBcFRhRm42YUJUZzM1U3FzSEV2aWk2RUFDdVViemgzRVpaQjNzVElkMFBpZDVlK0xHc0QweWNWWkVIOVQ2dGVCMGhVZWZyMDZudjVMaytKTjNEMVJqenpNTUJMVCs3U241NkZtL3dwc0pXN002cU9KZGxrVXJjdnZwR0p2UVZyMjNmb1pzZjlrenNMZzhaQk1Gb0hqeEY1dnFocXd3aVhZUlhpT1F0NldYNXNUT1RNWFpzemlpY0RUNGIvZ2hKd0FMWXhPa1NpRE02YjI1eTlBRmtQUEVORERYek9NT0N6ZGNHdWYrbE9hVEg0eXpsSUkzbVhBMXByZG1MbC9QOHg4azB3WW4zUTN0NzhiVzdHbFBqZzlCK2xWVENzMzlCbDI0VFlIM0VzZU5ub0FIZmp4Q2gxY2t3aUkrNUZ2NTFPTU5FRUVsMC83N2o1d1FyaFlFRmt4NWN4Y0xUQVpOU2p5YnFJQkRvcjY2MEJYUnp3aEdjcy94TUd6b2hXYU1OYTBIWG9NMUppRmg1OGt0V0NUbUdTSVdWTXNFdVZySG9KL1liTk8waHBURHQrU1RQVlg1a01HdWo5UDN2QlJ2QzlKWWptSEk4Zk5SQXdYNEpha2FHWGlmK002Q0xxY2pWNjJWQ3djVTR6Z2FtaTE4Mmovazh4WjdqaEQ3Q0FKVlkxL282UStwejBxQjkrRUlYM1lHYVhXM0ppZ3hLYTErZXhuWG03bnJSSzNCcFZxeFQxRnlqQjhpeTVDbnhER08rVlFybExGUW93dkJzZTQrN2dmNEt5MUNyWTF6WGFPTVYrYkFOZjlJbmhETk4zTGpvUnVZL2Q5cWF3YmZrSU50UEhoN3pWNUQ2L2NsMko0M1hDVTdSTFBWQnJOT2ZML3YwdDNpbjc4S2lHSXpaMHRyY1FYRHQzMHlVeSthNGhXQ1lzSUtOV1ZjaTRNemJ3RjE0ZHFlRWhRZ2FZKzlORVkzTDBpN0doNEk3L1ZqQW4rMGd6NFI0dlcxQU5oQ0NlWXNtT3pxaFl0WWFQWlhwSFlSWExMdXoxb1Vud0lSYjRYZGF3enhTaUNKeWMwbzNvcUJvTVg4NjRWOUYveWpwNk5IMHZkMXVHQk1IaEVXUi9taHhITnBBUWdhVnFkTlpralB0UjZlaXR4SjNDc0lVc2EyeG9aZ21nakk4NklSeFoyWktaYlF4ckhraTFqMk5zY2xGT1hta1JpUldJV29QN0x1SzdrV2pSTUlWVzc3OGJiOVd3RVgzcldmSWJSRDZtaXM5ajQwMHhMc1ZqRzRNY3ZSZGdHNFIvTlBhUE1QREY2bGU5b1Y3Ui9Id0JLaHJ5Q0RnOU81TjZKa0tXSFpsS2QzN0xsclBSVys3ZzlXdUR0endlcHJ3VEdmWkZjdWNPOFBYeTVTQ2dUOHFjeWVrRXE0QURjVmlOY2NjRG1wSUxKNmVuUlZ3YVRCVzM1L3JTY2VGVG1ncmprL2QxQ0IrOWh2ME5RTW5uRHFSUkRzb2dWejJvRjIxa1lidkMyMHlhdFdyWXRGMFl3ZmdZc251ZFZXdmMzZ3E0dkhVWHV4eVhrdUtGalphMzJ2YnZYakl3OWxhQWpPVWgyaUwyUlVRalRaZ2JwckRpSDdiemtHWGpOb0RSbzB0NS90eHlpdjdDWXptMGVwaWpka1YwRE85SXJwZm9IRDNJR0hrOXNGM1FZUkhTbFRmUVloQU9QWE5hYzFKeUxBeGI1bTVwZCs3U0FveGx5eG9ubERuRWpnRy9IRHpWZUR2V1ZkM0VJTUJKT1psQ0hDcitRRTZPM3lvTVRxaGxTK3JWYUNWdFllTUllcmN3YzdSRlBYeEVIK2xNMWgyakNnNzJEMmtDZ1BCMVZsOW9JRmp2dGViVVNvblI3ais0UXpXNk14SGFUNFVObkRJS05hSWcwTFJqS29lRnIvZ3hERHg0bkcwY0kzRnduQTcyTktTR3hIYXFHc3NvVmQzV01YVlZiaTBiVnZSU1FLbW5Bem15ZEFBalhuVzllZXNHbWRHT012ZTM5T0cwOUFMRlhGbHdiSXRpUkx4dU9zOWZvc2dYNFl4cXgwTit6bmlRZmpPUHFVeXB5dldMUzlIcUVCcFdZQm43eVNTdDhGWHQxNkMwdGVLVW5RaVJKZ2FLRitDallXWXI4L25oWmZDM0E2M2k4c2VLTEwrMXNpTlZuc2JZVU91MExrNWo3dktDZk14RGJKaDNuWlQ3dFNvamR3d3JBSVpmem9odDJ5UFVIblBsaFVZQTg2N1hGUFdQd2RyMmtHTnRwUUFlUXBhY3N2dC9DVnl2aXFYajhBckRwM0VESk5RMXVEdXNhQkVHUDVlMWg5WWI2NWVaOEZRek1JVXN6OEZkL1NDM3p5SGUwSkhxeVh6L3Qzb3d4UkNYUSsxdWNIbFFNMUVPcWdwOFlERWRTWjl5bm96bmIvUlNMT1hFajVRY2xlZUd3NWJaYTF5THI4WmZRTk9NZ2pUampVMDFVcnIrVnpaZ0ZNRnlyY3FWa00wUGljdHRBRGJ6R3BPZFR5bjFKUFFta0FRPT0iLCJtYWMiOiIzYzE3YWNjOTBlMWNmMWY0ZGM5ZWI3NDc4MjM1ODBhMzQ4YWFlNWQwODI0ZTRhYWI3MzU4ZDZhNmE4NzQxOTQ1IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Factor syntax highlight - simple mode
+//
+// by Dimage Sapelkin (https://github.com/kerabromsmu)
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../../addon/mode/simple"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../../addon/mode/simple"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineSimpleMode("factor", {
+    // The start state contains the rules that are intially used
+    start: [
+      // comments
+      {regex: /#?!.*/, token: "comment"},
+      // strings """, multiline --> state
+      {regex: /"""/, token: "string", next: "string3"},
+      {regex: /(STRING:)(\s)/, token: ["keyword", null], next: "string2"},
+      {regex: /\S*?"/, token: "string", next: "string"},
+      // numbers: dec, hex, unicode, bin, fractional, complex
+      {regex: /(?:0x[\d,a-f]+)|(?:0o[0-7]+)|(?:0b[0,1]+)|(?:\-?\d+.?\d*)(?=\s)/, token: "number"},
+      //{regex: /[+-]?/} //fractional
+      // definition: defining word, defined word, etc
+      {regex: /((?:GENERIC)|\:?\:)(\s+)(\S+)(\s+)(\()/, token: ["keyword", null, "def", null, "bracket"], next: "stack"},
+      // method definition: defining word, type, defined word, etc
+      {regex: /(M\:)(\s+)(\S+)(\s+)(\S+)/, token: ["keyword", null, "def", null, "tag"]},
+      // vocabulary using --> state
+      {regex: /USING\:/, token: "keyword", next: "vocabulary"},
+      // vocabulary definition/use
+      {regex: /(USE\:|IN\:)(\s+)(\S+)(?=\s|$)/, token: ["keyword", null, "tag"]},
+      // definition: a defining word, defined word
+      {regex: /(\S+\:)(\s+)(\S+)(?=\s|$)/, token: ["keyword", null, "def"]},
+      // "keywords", incl. ; t f . [ ] { } defining words
+      {regex: /(?:;|\\|t|f|if|loop|while|until|do|PRIVATE>|<PRIVATE|\.|\S*\[|\]|\S*\{|\})(?=\s|$)/, token: "keyword"},
+      // <constructors> and the like
+      {regex: /\S+[\)>\.\*\?]+(?=\s|$)/, token: "builtin"},
+      {regex: /[\)><]+\S+(?=\s|$)/, token: "builtin"},
+      // operators
+      {regex: /(?:[\+\-\=\/\*<>])(?=\s|$)/, token: "keyword"},
+      // any id (?)
+      {regex: /\S+/, token: "variable"},
+      {regex: /\s+|./, token: null}
+    ],
+    vocabulary: [
+      {regex: /;/, token: "keyword", next: "start"},
+      {regex: /\S+/, token: "tag"},
+      {regex: /\s+|./, token: null}
+    ],
+    string: [
+      {regex: /(?:[^\\]|\\.)*?"/, token: "string", next: "start"},
+      {regex: /.*/, token: "string"}
+    ],
+    string2: [
+      {regex: /^;/, token: "keyword", next: "start"},
+      {regex: /.*/, token: "string"}
+    ],
+    string3: [
+      {regex: /(?:[^\\]|\\.)*?"""/, token: "string", next: "start"},
+      {regex: /.*/, token: "string"}
+    ],
+    stack: [
+      {regex: /\)/, token: "bracket", next: "start"},
+      {regex: /--/, token: "bracket"},
+      {regex: /\S+/, token: "meta"},
+      {regex: /\s+|./, token: null}
+    ],
+    // The meta property contains global information about the mode. It
+    // can contain properties like lineComment, which are supported by
+    // all modes, and also directives like dontIndentStates, which are
+    // specific to simple modes.
+    meta: {
+      dontIndentStates: ["start", "vocabulary", "string", "string3", "stack"],
+      lineComment: [ "!", "#!" ]
+    }
+  });
+
+  CodeMirror.defineMIME("text/x-factor", "factor");
+});

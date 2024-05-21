@@ -1,1 +1,44 @@
-ENCRYPTED::eyJpdiI6IldGbVFxS01wYUdLUE9TWVo3ai90bHc9PSIsInZhbHVlIjoiaUhLTDB3MURNV0ZyWk8xZXdHTHJxSnh2VFVKNGNLbjFaUGI4bUkwM1Y0MlZTOHdRN2ZmcE5wNmZiQUxHVUNmYjhPVjloVnM2dUt5TzdUT2hwTFpoTnFPRFhPQUFBcC9kN2wyVVFvSW9iaXlWeEdaWGY5eGZWWURHZEltSTNNZWZmcXFuTzd4RnE2dk5LVDh2SkJrSVdaVmRua1hGYldObjVhZmJsSE9nSkxDR2NZUk1VOXdZVlJIOGJOeGtnRzJXZ0hOaVgzWXU5bk4zSi8wbFBVcnRlZjVDcmpGU0FBL2lqK0dZS1hRM0g2SEJYVmRDWVpMNHRrYXVmOXNTaTBBazN5WVdNODlqVTdBMU1Sc3U5Q3kzdHNjUFRjdFhCRUNLdnBJK0hOZFJiOHFIOGN6MWRjbjYwQ3VzSGs2dHlwMmRUdG1na2FkYTVYMEtNRFRIdWpMTi96YStqQm9qdHQrRmtGUGNzMkd2TVdXSVlmNGcya09wVGNVdFpvTVRYcjVORkE1RGRxMjNXUjQxbzJIdlcrZlpEaTJmS05yaXdRRXVMT0RmRjRYR0UwNzk5TExtdnA5SWMwOEJoVzV4S0xFMnQ2MUhPZnU2dWs0emsvT1lBbHEyWmZaV0NXTUZ4T0Jsb2ZJdkhmVDdyNmt1cUZqRDFOU3V0THdBekF6L2lyYnlzUFhpanZKWlRNaTQyZmZKcU5hbEFPUzlCWVI0RVVhU3VJbytKT0N6K2VXSzlLd2ZqZmlRRkZPZ29hWDV5WGdkZ2d3WXBTYWgzQlE1Z3l2OW9kNHNXSEFMR2MwTlZLWHJ5Rm1QU1NXQ0UzQjMvaGt1Uk5CWFZZSnJmZGxXZ1R3WlpWd2NMZElzcE5SdEhTbnFBdW1MaFU0anY0RzJta2tVM1FCS1B3NE9wRk40SWtPamN2RjEveHRHenFkaUdpSWFrWlJWR3E1RUI2Si93cGJzT0djSlo4czV1OTBWa0lyL29CM2dKMHZUUjRsSVR6OGE1UW01VWJBVGJUYW1YV3I0YVo1UnFGY0dLbm9vaGJ5bW1YUGl1VXF0bFI2RTNYVDUvVkpnYXdmZ0huTUFPTk5xWFFwdDZVMTR4RmRDblNDdk1vbXdmd2VHaWZXaWxqR2s2emhaUlQzOEtRaE9hay9uWDVmTVZFb2oxczE0Rk9wdmQzcnkrZS8vOU5tZXk0VGhLaUpFcXVKaXVQTHo3Y2RZTC94ZXNTT1J6OUNQbVcycC9BT3VkaVV6ZHNRMjNOVUh0VHJpb2d4NzFBeGlBL2dtbitybDBVTjJPS2pCZENLOFFxenBRUTh3cEtJSUV1VWxpTytTWmpEeEhVWnNXRTJMcVlmV3lFdlc5QlJKVldxdWxYR2JPWkJFODRxdnZJMVdVQStMc3dFZ3NUcU13bCtncWMrOVRVczRnRFRTWHBGamRSWmJpZVRQMXBOWmVWWjhaS0IzU2xFUlp5NmkxSDF5UklGTWNzbGc2SC9Uai8wQXI5MG1Bb1JPelgrbGxGUkkvb3Uwa2dPTytRR21kVlZ0QzY1cml6NytSejBEK2JiRng0cmhpTGQ0eDQvZlBuLzVoanpaZjRweVBweUhtREpBVStFWEE3aUt6OXdPMU52V1RtWFMyUENSTTNNd0crMlN5dDdQWnVUNE9kQW10dXlnNDFXV3k5eVd5emxEU3I5RXhUTGdEMi9ySlN0VnVFR085NktlNE1NTmQwazlCdFN3K2FUMlNhMC9LeUdUaCs4NlVOUWdSV1FFcU5tcXVWdWtQUmNFQ0lFUVdwTkZxMks1VE4xLzloOVR1Q1libGxsQU9YUVFmeFZqdzg4bzlJb05NcFlMREE3aDVSNjNOWlBsVmQ4dng0ellJcHY3ME9jMmxHaVpXWk1uYTRZdGd2VklTL0Y3bkdoOHJVSGswenkxQ1B3M09mbGJPQkZzR25Ray9sVmxkbWRCUitYR0VOQnVWeTdJdHVxSGQ0V1RFVXV1c1NUNE1Fa0ZTdXlnY3BxVGNYcVlDSmR0M3lodlFZdFFuT1hLekI0N2dGTGUxTWF4akNxRTdwMEZGNElsV0docXowb2p5Wnk1Y2J0SmdJYzc1dlF5K0Rkc0NCdmoyMjJ6TTM0akJXcEw2TkRPWndnWE1wenJOYk9uY2NtYTRremZYT25mNlE9PSIsIm1hYyI6IjQ4ODUwYmRlOWFhYjlkZGFmZDg5ZDM4N2QxMjliMmMyOWE2NjIxMzQ4ZDZlNGZhNjA5MzI3YmRjY2QwOTdhZDYiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// declare global: tern, server
+
+var server;
+
+this.onmessage = function(e) {
+  var data = e.data;
+  switch (data.type) {
+  case "init": return startServer(data.defs, data.plugins, data.scripts);
+  case "add": return server.addFile(data.name, data.text);
+  case "del": return server.delFile(data.name);
+  case "req": return server.request(data.body, function(err, reqData) {
+    postMessage({id: data.id, body: reqData, err: err && String(err)});
+  });
+  case "getFile":
+    var c = pending[data.id];
+    delete pending[data.id];
+    return c(data.err, data.text);
+  default: throw new Error("Unknown message type: " + data.type);
+  }
+};
+
+var nextId = 0, pending = {};
+function getFile(file, c) {
+  postMessage({type: "getFile", name: file, id: ++nextId});
+  pending[nextId] = c;
+}
+
+function startServer(defs, plugins, scripts) {
+  if (scripts) importScripts.apply(null, scripts);
+
+  server = new tern.Server({
+    getFile: getFile,
+    async: true,
+    defs: defs,
+    plugins: plugins
+  });
+}
+
+this.console = {
+  log: function(v) { postMessage({type: "debug", message: v}); }
+};

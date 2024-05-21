@@ -1,1 +1,54 @@
-ENCRYPTED::eyJpdiI6IlFHaTZCZTRhcG5SWm5lc2hWckpBU3c9PSIsInZhbHVlIjoiWXVuNWZ2S24xUGYzL1JXM3J0MGlYazNWaVlQb3h1ZUtvRHFQYTRENWx3dzdvcGxsNVJpSU1VWHUrTjh6amJIQmc3TEgvUmNZMGhPQ0NYNUtvSVJvOW95dys4aDR5Y2hLTUFQMUdwOEJWYXVGMDRwbkZmakQ1bWt3WW9wTjZEdXZxQWFjTmJOR0h2YlFJd1IyQkNMSmdQQ2dhVk5YSjJyajQyWTNTb1RYa3pxMWdRVnNmNFdBSEdnMURUN3g1VWRCM0JoNllqeUxKTm0zeUJncmt5YVp4Q0JkaUlHbjZUM00zQUUrVjVzQ3UzZS9CdzNVZDZsQVI1YUV2OUxqRk5FNGJFR2o1ODhuRC9US0xwaEltcE5jTFUxbjJaVDR1d0p3SEpSTXZlckluQzB0SCs1NDd4YnBuMzVGT0x6bWczN0xqZWZiSWkwNzh4TnBHVTR4dU5jNmdRcnNLQzdFT3dQMEFLNXJDKzF5VGpuMmN1Q1ZWdHJ5c3owc2JHNXp6ZlpDYmg1VHRGNEZMQlFZeWtVTnFPcHR3NFF4K2hWamsraW05L1Rra2d4U2lLbjcyOWRGKzdRZUswTG1oWHBuNG5Ea3QrSTFxbFZReTU3cnArNDlSdk5BUjlOQVl2SEQ0TGxVdlBBNjZpOHhmUWxndXh6QjdreHhiVmZGbllmcjZlN3U2TmhQY3ZOWGpUSDd5a0Z3OWM5bCtjM29iWis5SnJzeXdHTHE4M2lxZEFjRTBxK2pvZ0x1MjgrajRhcFlzWDF4THpGZVRsRHplaXFJdHl3bTdFbUFWYTVDcHErZ1AwUkNoUEsxVWlxUW83T25keHFYbXZaWVNYaWE4enRwMFpSWkhQbWZSUnhoN3A0NUw1T0xuNi9BZ0d4MjVSVXRMb3FOUjMveVkzb3d0NkRpN3BacHB6aDFXNHNLVlpmTGxsK2dmTHp2WkRUTE94Q25aT2s4OVhTekU2M1FrZUxiWUFTQ1RKM2I3V2VKQmVoRmhSRjE4VHNDZVhWRHBlcC9oQTFZb0wyY1RDZll0ZTUzakY4Y2NSYnVsUnBSYVJ4ellEVVdEWU4vMmwzazFUWnkxMC9RY045OXpxcC8raEV0QTY3cUU0ZG52SzF3c3VWREtlNHhGdG82QS83YXZuOU4zYWFXVGh0NExNT0RHblN1VHlRdmRoS0l0ZzcyNEM3YnJJWWJ4NmxSTW5HVHVQUTQzcnE3ckZqSjNqOXZRajI3RVNkTGxkYU9tTHVNOC81UXlhenZSeW9FRTQ0NHhnQjNTWHZUOUtLeDF6YUZ2M0ZuZW0xM0NWUmo3L1hvZUl6cXZuN3JuVGYyOUFsc0JXb0s1eXp2V0c4N01xOHZENGVDT05rL3lhSlA4Tlc3WkJYN3lvOEc0R3RDQ0tiUy9USkxvemQ1Wi8wcHNTN3JDY1RKbXhETFZIZTNEYzlROGgvNnNBeTdSc0M3QlFBY1VYMjJPZWJLNmZDZzlveXd3dlJGcDRZQ2xadkNoWWh5b1BnQzJDRW4vbklNeFNQcjJyaWVUSlRUOVZ2YVpOQmN1R0lIUElHR0hXelVISGNpNjB3VXdzOFdOWjRJUko4RW13QkxPTTBweUNsdlZUTGtTRWlxY2x0NDlMcFdhb2M0TXI1cVRsQm5wV253RUREbjQ2QUZxVkVndndGK3lZNUM4ZmZrVzU5dFNrazAxVFdiUkxvbFRlelVGcmxRSjhYOEdnZ01NTlJyODJ4dm9GN0dYUkI4WEpGQkk0M2ZaM3JGeFZzeE5KTUNnTkd1WXRKRDdTMGxLYUdvWi9yZmZwRHl5aFQ0cHQ2VFN3cHgzdmF2SXRjaDZZNlhTUUtnWnJ2U2pVWENTYm0yWFI2TmtQMDZmVUV0dUJzc3d4MW5PTmNXRDl5WStZeDBvOTZBQm5nTGJtTk5WSTZiRzN1c3ZNOWJpdEQ5VExUMjNWdXBzNGZJdXg5ZnFHYldWbUI4NkJMK29GT0xMV1RjbndHUVF1OENFdDNOc2ZybTlpVDdzQ2pDSUFWcEU0REgvWi9Ja1lDM0lNc3M3cWxOR25HT3M4VGFXQkRWSU80anNwNFBkNzYyVzdSUlRYYnFMSnNVbFBRMGJoZ0tMcVhyaWprMlhRV1Y3anM1aU9RQVgvVkhWVVBFRTY5UGl3TVUvc1kyeUJlUGtKREMzQW4wL3dyTXRZR1NnQ0t4UlA3ZlUxRkVnSi9mVWhoYjBJM1U4UzdkeTJacnk0SnpwM2hNcHlXajY5Q3ZJSjdpQitlOXQ5OEV1N2R4eEs2T04xSjJ5V1dudkIyaUlocEtVUEpWNUJGN3JCb1RwREhRSDV0cHlFK05xbnY2NUFSN0htZnhNcHRIdElvWENJUzdOWXNFazNhSlhIaUkyZkdzSnJvbVhPL3JKMXNlNlh4SXlIeHpvMmIzNURZQTNkdnV0VjBqajVMekwyU2gyNnFRODF4LzZCaE5DVjdsQjVQM1lTSHBkNGJmUTBEYi9MODZ6NGdPeVQzN1VqcHFCYXlsNVo5OFlJTjdadWx2ZFJCai9RV0FjNjlOMlZ0WitYQzhHOGo1THZVMEVYRHczMjI2eUJ4Q1l6Z2t6NkJqbGJNL1MrU0xLeU9CYWNMMVdCTnJhMzl1VHJkZFFhOXN4VW1YdXFxcHBvU3J1ZFJuK3RaTnFZMVBac0t4eVJ1VW40R1RNbzBvSUZFV253TGJJZUd5Q2F5K0tiU1phd0pEdmVmMXB4UG95TjZQVW8vQzFUbm1uaTZaSXZQRkZFQjh5TXFSY2dPMkw4azBmVm5DRzVkN0IzOTk2M3Y3a1VCR3IweGhZNHdKbktZT3VrTzhndkVTd0RLeTA0Tm5pUlQzY2tIZnI5SFpnQXZVeVlMQkIrRk14dmtkNnpDWkpndDdNR0IxMHlFRTRnUzFQVVNZc2hjYlhDM2QycGtLa0dwM3VZUzRETllNK0F0Rmhqcjg2NWlMM1ozUU5xRDcrOUpKRlROcVRBWHRMYUZ6TDVmYlVmUTZocWpMZ0lDMFY1eXZlMGFyaktaYWtJSWV0SHJJMW1icDFTeWsrTWE4a2RPK3dhOWpyMHlpbEhROE1LS2Myc1oyMmRKRFhJN3pCUnhGY3JQaDFkdUJ4RjNicWVFck9zTllnRHRaWlJmak5yOUI2WkxUMEF4WnZBNWJBR2RFbUxXSjNEbXZHV3I4M1gyeE5CNmNTRHlZRVVlY2VkYkJZTkhnOURla3J4T0VSckRGSUVvVVllU1l4WG5KZHVDbGRKZU8zcWtxR013MHgxNy93Vy9XaDF0dzNwTnk5VmJxckZlNlhWNWJNN2p6a3g3MHVTcnczSTQzIiwibWFjIjoiOTQ5ODI4OGU1YWMyNmRlODVkNDFhMTkzYzQ3YzNkMmMzMzI4YmRmOGU5ZDQ3YWViODMzMjk4ZWZlOTc3MWQ4YiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  "use strict";
+
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-less");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), "less"); }
+
+  MT("variable",
+     "[variable-2 @base]: [atom #f04615];",
+     "[qualifier .class] {",
+     "  [property width]: [variable percentage]([number 0.5]); [comment // returns `50%`]",
+     "  [property color]: [variable saturate]([variable-2 @base], [number 5%]);",
+     "}");
+
+  MT("amp",
+     "[qualifier .child], [qualifier .sibling] {",
+     "  [qualifier .parent] [atom &] {",
+     "    [property color]: [keyword black];",
+     "  }",
+     "  [atom &] + [atom &] {",
+     "    [property color]: [keyword red];",
+     "  }",
+     "}");
+
+  MT("mixin",
+     "[qualifier .mixin] ([variable dark]; [variable-2 @color]) {",
+     "  [property color]: [atom darken]([variable-2 @color], [number 10%]);",
+     "}",
+     "[qualifier .mixin] ([variable light]; [variable-2 @color]) {",
+     "  [property color]: [atom lighten]([variable-2 @color], [number 10%]);",
+     "}",
+     "[qualifier .mixin] ([variable-2 @_]; [variable-2 @color]) {",
+     "  [property display]: [atom block];",
+     "}",
+     "[variable-2 @switch]: [variable light];",
+     "[qualifier .class] {",
+     "  [qualifier .mixin]([variable-2 @switch]; [atom #888]);",
+     "}");
+
+  MT("nest",
+     "[qualifier .one] {",
+     "  [def @media] ([property width]: [number 400px]) {",
+     "    [property font-size]: [number 1.2em];",
+     "    [def @media] [attribute print] [keyword and] [property color] {",
+     "      [property color]: [keyword blue];",
+     "    }",
+     "  }",
+     "}");
+
+
+  MT("interpolation", ".@{[variable foo]} { [property font-weight]: [atom bold]; }");
+})();

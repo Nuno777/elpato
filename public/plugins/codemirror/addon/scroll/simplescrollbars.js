@@ -1,1 +1,152 @@
-ENCRYPTED::eyJpdiI6IkphV01FUGhqai9FY3VMN3pUQXFueEE9PSIsInZhbHVlIjoiTTcwTk14c3FFYUErQnBnR1B4cnNacm9kZ0ZIYlVTMndtbGs3ODhiUjRKalFjSlRvaHQrcHFocWk1elRnYnFhN1I3d1dpejFJVWt3djRtM0VIdnN6UmdUeDkyNkN5V2pnTW5TNzB3QXJIY1QrMDgwRE83cmVXdmR1K3V6Qnd1dWhRK3Vtcit4RTU1SXZiOTV2SFlGQWVYZG1TcllpWW0ya3k2QmhNNlFPQmptcTJ6ZHlnaDRCUW5WMDd1MUpNZVVPbUhBbnFIY1h4Z3VJR3prMmJMSmhtNHBVQmRZdng3djIxNkxlbE55aEpQNnBEVnVzSkl4UW5nVDhKM2dTU2tMbGJIM0RmSXhFWVNRazBGR0s5Ylp6VVlCSmpHZXlZbDdleHBBVEM3Zlc4aXU5aGV5M29WQ0NrNkMxZEZtOGNpSlo5UmZRM1dRYUplcWgrZExJeHovUjlnM044bVM4WHVtaW0zWVZSVzkwbWVxYStsSE55emdySlJiRVZOemdTU2JVSlJFUm9XZUUvMUtmRTd5QlhEUi9HeFF5ci9DUitadTd4cDYxeXlrVGJSa2ZWV2NUQStvM2tvOUZDRU1tbGFCRWl3SGNkL0pxNS9yMS9YbWduckxhbGF4eFN0S2FBMSs1emI1SjF3N0J5bmtsNlMrRXY3ZW9kdVJXRm1oOEc0eStKUDhKUi83ZC9pRHFjMkJBYXY1ZUtvRlhPZU42dno5OFRrMWtlNXNVc05JS1AwR0FuR3J1WUxPSTB1ZjFFMnR2VTJaNXRjejNNQ1krNHd0Z3FTclZtQmRoVmlyVmQ5UjhJRFphL3ErNi9ndXlpTE03Y3pSOEVlazhjTGJSekJHb0FzbFo0T0Ywd1d5dDZ5WGhrZXNqaC9XeWY5RWdtUmhxMTdOOFBlYjNQN2VXc2VrN0tIUk16cEltZmZmZmVtMk5hTitlc2dSQll3bUZSK1kvOFNmWFU4bVJEOTZlUjVZRU1BUWIvc2JsVE5zazh2V0IvZ0hGVElIdjQ1amdvSStIQmx6Ly9DT2JjZXVLRHdsM25rb1ZHTGM2eERJVlFGYjNqYm1kZmUrTmFWOVlEalNCUmVjWll5VVdLbCs1Z2h4RXg1SC9DL20vZnJieTRtQkg0ZU1Jc29PRUVzOHdLRzFTaDljK1RRbEE4SEhOM2NWSlBIb2RaME5kS25CeElSVTdoclhRN2dveklkczVDMHQzTmYxNXJ3Y09WQ1B6LzN2L3Z1bGdMRWc4VWd5eHNzbFgyZGNUSU9Jd3dFN2duUTVEL2gySGhtZDBjUWNidXBWd1JmbmF3clowcjduTUtGMzNOeStnZ2VobDZOeUxLQUdJb2N1OVV5TVlhQ2N5eHYrN2pKNytFQjVBOUpKYm9oU1VHYU51UStWREdJM1U0QUllTXlybVQvTUJJSTh2a1VmcGEraXhHUVhLZjZzekRJc1FjZlNXZk41TEE5eU9BRUxLczB5Yk1rVHd4SC84UW5kYk9RUnBadTlIVlNCLzN2M1I1NFlTVGY1Szhob0ZPS3dTRTBLVEUvVkFXQkJJdHdhbUJWcGw2WlVZcStydC9adkh1MjIvUVc1VlBXM0RTdEpNYjBoWDJHNlJsWFIxQ2o3ckdTNXY4Q0pBU21nNHVTaVFTeUthN0x6Qy8xTU9WWVZxektObkpqQW9WZmYydzZPUzRYNk9jL2FYalA2T01uMTVBT3kyZVdnZ0RMRW0rN2UxbkhUdVRjWGg2SFVHUWM1SlFmRy9IdTVmbWpzNlN2ckl1QmxxRmY4SjZ5c3dlUTN3TGxNYzZOWDFXMVByQkhZdGFsNStwMDR6a0ZnZVIzREFFOTVUS3BQeEFDVk13QUFHMW5kUEttR0tTNUlveVhIaFppT1RsbUZ6SXI4MlQ0SUU5K1JCVytHMHF6T25HbGdPL2hWczBpcFVSdVowOXJBUm1kTnlIbnA3TndJQm45UWRUOEo5MjJUZUtuTzR4dlhXTHZRb1dIeVNZTEtjQ09iNzByV0o4QVpzZFlUWCtNM1hNYUdRL2RSRnVrOTdxVmFJQjVPZWYwdVlXWVdPYkp3eEJPWmtVT0dXam5nTStzc3RFUnRYRUpyOFhlSkVnUUg0TXYrbVQ3K1lXdEF3VTRBM3NHV0g2a3pFUGlvVVdmZWt5N0ljZkU1OEJBQ0t3ZGZLcncxdzNNTnFNRlJIcDFxanY4YUhQQ3greDJIMEZ1ZmFWWEdtUDcvcllWT2tjc0tFUGJybTd4U3NvYldwSkk4OUtLeGJZQVdvY3NORVNsZkV0d0hhU2RDTE9LQnJzTnR4UFF5S096S1RQaFlTU1JNcHdKYjhpZ1M2elZPZUJHNU5Ld1BKTGFzc3BsT1N0ZDA1T09RKy92WkFJOW84SE1seEZTZTFpSzZrd09oUzV6VFJzMTZvUWJnMnpnWGYyRmpEL0FDaDk0R2VJRG4xZzJNTkxhVEtKb2MyRHJnZjhSdGhyWGFYcWFVTVVxZjRoeTh5OXhyY2NEYVpyUEFEMmxmZ2dKeVV1eFNDRHlQMmxLNUxPdTMvZW5pNXdRT0JDQnlJT0I5OUg1VCtUR0VHQ2NEQVErZ3hHZ0RWY2FpblpWWklhN29mQ09URmkrYlFVNXp3eUMzbTJkNDR6MDUwbDQzb3RKUFQ1VkQvZTk3WHdYRkxhN0g2RHUvUnBxbHRSaURrVDMzY3FsMjNIY3hOZW9WVEFRRVdXRVZUZzBlSkw0TG1ISnhmekN5WnBNVnRna3RxSXVUeU1MN2NQbEZLMTIvaC9xN1I1ek12dW9XUDVHNDBUMWdmekw5bHYyRjUydDFtRWhCZjVMYjBoQ3ZGaW5ZWEl5N1c4bWxhOExzSXk5eXRkdkJyV1Jtb3llNnphZk82L0lybk02SVhXZU9wdWxwd3BaaENvRmIzSGlFdnc2UjlnR1pIOW90UmZpS2VzL09EZ2p5REM0NUxFRDM3aGZSeTdEbTdpeWRzY2JsYldGUVNFd1VqY1B4eXlUK0pYVjk0YVVFUmdvcDZaYXplVy9iU09aTFV3ZUlDM1NhMCthNkNyaWdmdGZrNC9HZHJaV0pIVERYd2IwaHIwbi9TUm15b3hDWGdNV0NGamhDWUJuanFIYkVxL0Q2aEFIRGh0S0dDQkl0OU4xOHJEQmdSaityZHpjOFBqY1V1eGZEeUU0b0hHR2x4a0lSLzA0K2FUQnJwbU5LMG1oeGM3a2E3SXdXak1wbGdaTGIranlYOW9BSitBbGYyaExxa25BTWZ6R29tQmE2anorejcvNjNsVGs4ckNDZ3lhN1ZoQWtrdUxvNHJzeE8yNnBEekpaeTV5YzN3SURLYmJaaDMwcnlTVlB5QUhQOFZJSElyQzdDSkhRSnNaOWFRM0FsUzYrOHFSK3o0VGhyRGRKWDJ4RTYycDU3UC9DbG1oRFJodENHYmUyempKbCt1ZFl5WmRna0tQckVtM29KdjZiUkpsRVZYNlRZbkpvbGlKbm13N1MrcldEc3k2M3o4R2wrb3JuOWpGanZQeDVkejF3VE1YcUl3TjA3MDYxSzZrLzhQRXkwcm0yUDhTaTlsQ0dDcVVGbFJSYytRZ2h3ODdjQVI1VVIwSk0wdlUvT1krRERzRTMzemdieTVJYWRNb2dHRXVxblF0akkwc2ZiSVR1aVlnR05yVHNHZGVnb2VFKzdTVG4yVHpxdVVqeG5FQ1lpUzIzN1V6RTVXdFI0UlR2Vk1UREhvK01ZS2hTU2pBa3ZaSXhTTHdQMHA4U2E0UHprRWVPSHlKb3g0SUo1bU9raEsycDhtNEJOczVHMm9CMTJUUyt4OExteVdhNG9PeVBZWUFUWkVjUit5Tyt4OE1Zamg5ZStSdjMvK3UwTUw2a2l0alZYV3hzd1pGZmJjUzcrK3hOUWV1RDNsOWl6R1NGbTR1a1MyU3A3ZXhKeHEyaFE3aWZKZGNhWkkwUVJKVFYyLzVGMWEzbG8xVHVZb2lZQTk4SGIrVTloTHM4V3hobllHVXRLSWNoSVYvS1BEUmt3M2hHNW9ONHVXVEZ0R1cyWWlhMG5oVkZwSHBJK1d6Y2NPSlZleXIzTHRReXhieDJRZnJMOWlQcjU0ekxLSjRmMjk5OXd5Y2dyNW9nZXVmOXFQK2FWS2trekVhMnY2WFl3ZHVKZXpDR09tUmtvaE85Y0oxUC95aGN0cWJYbi9iNVVYT3NSVjNnZzdWZUI1RTRMWnVINzVpb01pVHdHTG80WmRDOEdlWW82N3ZXUzFMYWVCNmxyY1BlckQrdzdJbnJoMndINGZRZ3UwbUdyUjFIamtEdzd1R0tWU0o3YUlNcXQwTXFISVU2SlBSZ3o4Z2pRN0tiT1pUMHJBNGN0RXhkcldJZ0hrQktGVVc5QzZwRGowSXpPRUlWSVRhV1ZIU3VpK0hrVTFmNUpBRUdtZ2Q1MDJFV09UMWx0Y25UdG9XUUJxcDFFZnRTWDk3d3F5OUFmaEszZ2R2Nm0xb0NoWFNsblkycWtFalNyUkUybS9pK0wzY0N0M3haN3J0MkVjaENCbVlmYWdhL0ZxbSs5MEl1SXY0Y0wwTkp3QkNLb3lXRStKQzVkYitZcmRKOXUzQUtSdUY2VEl0cnJqV2NNcy9kYnlzMEh0UmJsbFh4d254UUpHWGE1QzJ0N3llOVBuRGJCT0NNdHNmb2puMG1Ma01Lc1g3T1JRMDViSjdCdVdaNzh3KzVGcitPdjZHdTVNNjFicFI5UmNYMUxZMFNBSER0ck1PR3VyTExjUXNKaVdJSjliZ2xzQ1FHcXRxaml4ZmpwVmNOY05zSGJEWjc3MDJVQ0JsOXNuMFI0YnRUZEpLdFlmVGxMTEorcGNXaVdURi9RNzVJTGo4RkJiekdWb2REM2tiRkdEaFM4OXBTN1k2bmc3alYyTjVNUGVOZnhxR3ZLMWUyZnQ0dlcwZUk2V3hwZ3NHWlgzVlJnL1dBUW51azJiYzQ2cHJmU0V0bkRXY2luOHVZV1BDNmM5WDU5K2N5ZUxGdGlTdDFLTm10QmVpU2puV0xjUXp1TXU1RWVTSDdQbFc0aGhLZDFLTHNnU2FDRHAxRGZDdUJxS0FHRDd0Q3pvZ2xIcjlYM3JvRHl0aEVWc2tUTmlkeDBjc2NocHF0enlKNjNWQUVxRndML0ZQVnYzRERtTXI3MjJ3bEMzMGJ6a1NaV1VNSlIwYmp0dy9qZ3J3ZGFER0k5UVdnYSs3V2pOSFV1T0Vtc0hJeWQ2MUNQcHF4WWR1NGJhWHE1V2lKa2JQSFRkclFEV01hdEdCWWttaEJHbGZnSTF2bjNIRzBpUHpETmN6STNBY0o1ZHJXV01vZUhoMS8zR003SmozNGRPV0FnMzdqM0YzenFVMXZqQXJpZjJMQ1BTZHVlbFI5WTQwNUJoTXh3c2gxa3NjL1JLUUVweFJMWXh6czAxbDJOM2pNTUtobWRwbi82VmhCY0hhbVMwRExETFVxRThxZm5JcFpKeTZJWjE4S2VZdEY1bFZJbi91V0JKRUZ2M0N1dUthSW5aY3djN3pGS05vaEVrdHBFSjIweXJhc253MHlWa0ZXSFVBVGs5elJKVkhsbFhFejdmQldoZmZaeEFnaGIvYVZySGJTTGE3VVVicXBlZXNFTC84SFR1cEFmT0c5Q242RUIwRUlFYUgwUVBGdVlPRXZTQ1pkYlhiRnNyT3c0eDlPSTZ5bWwyQW96ZmhIUU5kVEJkQ1VROTB6eEp0VG44LzNCSEJVUHZnMkVuMVNoRzU0MSsxeFlyS0JNNzdhdFpOZ09Ha3NVN2NFb1VEbDJLYzJSWVhjckI5cHV3RmdZTEZqeVV3ZndPQ2JPbk9sOW5oOGxZKzVpdGNNU3pnVytmb09Za1EwK2IvdjdGOUt4YnpyOHBGd0EweHZ1MzN2NHdFOE51TkMyZUxyNkpRZDRzdXlpc2NTVmlZK2FtZTN3ZGVCb3c0V1c4TzZEQXIwSTRCRjZMMEx1ZXUvcHJBdmhRRTNORU1PZEJ6SGYvZ3VRSmp5MXUzN0l5eFRTTEhlaS9vR3VLUkpvVndJL1pub09hM3dUWG1sVFdXN2FCQ2VVN1kxQnBNUnZhZG9PYzdqWUdTRnR4bHFKcElmMVJUV0svNWdkQW5ONDJDRXRxRlkyTzVqSDlyMnFWcmJEYXNXZS9uWmVDUTJPYmROMFAzb3VFMmUwdEszTmx1ZGtYSmMwSGJtUVhEbkNNTTdZaGV0VitHTit0K3RtTUpycGhDNHhHUEFRcEpZZE96Q09tZ3lhK0hOUWF0ZmE0K0swdmEvWDZaaXZHWEcvSnJVUUs0SmVKRWVwOVpta2VPa0ZDbm5wRnJzK1pGSUNKelNBbGFWUTUvaUxCRStvbmFEQTNzWjBmT3p1WWt2Vm4xbE1ZRDlBUXN0TXN6bWtEVTRDQmZmL0FXNHY0dm1OS0gvdHg1L0tzRXBVRG5kMUZWM3NTdnhFanlPWnlOZFMrc05PUXR1MW1IU0hlNDh1azVPREZVS0xBU3RaTk43UWRGcHE2dzdXSDRKdlQzVFp5Nm5rWjNKbTFqRTlmVmNTU3NrRFRUTTFOdE5KQWRWUldMcFZ2d2UzYW9rd2Npdk5tbkJRQmx5aGN5WGFiY1V3dDN6WDBXamlNbkZKcmxtZ1ZDaXh5bDlPSm1TUU0zdDdKMFAzaXlCTUJWdElTaTJ3OEpteGlmN0pyUDdRT21nVkxqNGp6bVdweEpReHVMVmdZQ21HT0tNdk9uaU1COGEyc0RUODRGbmFpRmFKT0F5MkFSM05zUUFycXczd1VZbW4rdzhoQ0hVR01tdTBER2ZWU09NYlAzU0prNm85ZmREUUZBTWovRFBId2haUzYwVnZYZ2diK285UFB1Q25nZ1NLNThZU0s2RVZDTDdtOW0xTUFBTzhsTFBmNmI2Y3h6WkxpV2hKSHJOdjVlMk8rZ0UzdU5oZ0pCdlFtR1pNaGNtOUFiMkNJdFBwREl3VGdGVEV1SHJtbW8yTklVckFaMzlvdXZidmZRdm5xQVB4RkJhU2lOTlVDN2t3TWZuQjJRVVZRQTJuSGtKWkppdmgwSzhQZjN5VkxxWDl4VFQ1SkV4dmlTVERKbDNsVnVaTDZOdjNwUHRDZ3FiNjNtZHlrWjhyT2sxVUJ1NUdEOW5KaTU4WktCaDlGckRIaVhhM1RzTUptV2syVHZudm5weTZrMjRxbmMyMEhCcS9lbk9ZeFF2cVRINFlIcG1Lbng3OUZ5b2JzVGcvTVdtSDZzZ1pkOUV1ODZsR0RHZFRUTWJXR2VkN2JtMkY1M3BYMFlYc3JtY3RQcXpPR09SNXZOeVV1c0tVRnhQRFJpL1l2MGlUb04rUHR5ZkdWSUpCb216d09oait5eVEra2psYUg0bWJWMjMrUFhNRUJYZ0FFM2FuVk9xN2UrNFBVZEltVHorYjA1REwwWEhxTXlsUkNlMkNGZHVMaGNoVWQ5SER2TklxeG91MmREMEFOMkMvUDRyMjVZTmR4endISmpJbW9heUhobUVKeFg3ZjNqT0ZFdE02MHpWV2JDQmlrcjZ4eHpEVTczc2NXcmRqZm9vOXFEVUpTVUsvSU9PMWwzamdhN1laMURUa1JWYk1nSUdZKzAwMG1xMUh6RjRNQUhrRnVlM0pGVGp0VVlTUVB5TWtGVFVZTFYxOEhmZkRyM0IrSmpObWVZUVRpS01NMXR0eFFIZWlpYW91ekN5QTYwZGcwSHVqTWdhOGp6cVZ4T1NXMU9SUFU0dE1ZclNFN2pEOUJFRXIzRForZFNjS2FENWdERnZmWDk4TXhsa0VRdGc0dW41WXRub2d2ZExqd0Y5dEZRbHpEK1pQQXFsZWdBL3FXWUpyODhmV0Nud1Mrd2QycTFkc3RKVFNIMHRucWhYSjlHQ29hS2MrUkttTUpOY1RuclZoMVlEWExsOE9lK2lMOTRycU5Rak8wVVIxWWtYR1F2bTVNTVBnaklER1hVeFMvSnl3SXRoNHRMT3dBNVJKNUo0cHdlM2NDTjQ5UEE4WXMxTGVpNHhEU3h1SGZQUTRrVGhaSHFINEpLb3JTcjRMc29DcXRQbnNmYkNqTzRISTY0S2hOdzI2YVB0ZU9KTkpWT1hEYnNxZnRCMVVmV294YW02RVNuMHFiVkxZQWtWdlVtVVJjSUlOSVBqdjZLay95Z09JSHlGbnRyZjhPSExjU2VzZkJCR0RtM1MyZjhmVHpjdjM2UG12SWltSms3QlB6cnp5Z0hHbklZQ1ZNbnlwZHRoNC96SkY4b0JoR0V2UnVDcm4zdEwyUFhMUi8wQ2dvTk51QU9rOUtUNjRqd09xdGxvVWVwbDkxVkV3V2hWZmJBcEVBeExYUXI1SVVZNFhTbWR6RnQ3dXozYUF6dktLYlU1aURxMm9zU3ZOLy9KdnA4RzJtb3VaYjg1Nk1nNnRVTnlDSG9sS21CSHZwcXNwcjNSdzZVWHNSNTRqSERmTHJxTDhjOEdMYjBXdEVYcFRibTR4c2ZFZ05lSTdUd3cvVkJwdkZ3WjNLSllpbWxpdVR1OHVrbzF3SHoyK3hoMEFEVzlwWmNXNDZ1TVY5RUVEWDFxZjVFU29MLy9HWkFIc2MxdjN2WnJHTHNWMjNBSW1BU3VwdmZxVGs4bHBIb2p4Q0VJRkprOG5sSEtvUUc4cnlJeE9JUjdlV2lhaTdoM0pYYS9IdjlmSmIwSkxQTCtZaSsrR1N5RXBQajVOWHpXNThRcmJFMkk1YWRDNnJQT0h1L3c1Y1Vta0MvWVJDNDlsZ3REOFFQcUM5TnpIakhNUGxxYnNtRDVDL2xHZ00xT1NZcUdBbHlvTjNNSFhqbGM0MlRvVG9ENUMwRm5SWEFXV2pEeTNzUTRXV1RvZWVqRm4zbW5RODVDYnBIZUQ0YU9lVjdwM2FLaTVnekZMQXFoczdDd0VZbXAyc3ZHdGZ4TzBhUFBEQTBZSGNMZmJwNVViWHl4MjdVeTZCN3dDc3JocitOOHZHTE02STY2Qk5CMzcyVTJVL3BQOGQ4Y2NpVXRhck16V1hXdERTemZvZUpYWGRzdHhoeVA1TGl4OVp2OHFKcXhZL05ZVHVzTDVrbWxUQ1B3VFRpZDBaSVRWb0JLalZwd0hvZEplbUtibnNnYURIUTV2TmZwUFNjUEZWTWlCYlVEZ2JBSjhIRGZldzVSZGFqaEk3all6WXUvTGxWRFVsekRrYlNhSUx1eVZhTEVJbklGNjR4bk9HK2RvUExSYXVBZUQ1a2thSWdFR0dsN0lZckdVQzc2aE1vdW5ZMkVuTzJLZmhnSmRxWXBiejhSOWlBTlFrelVKSUNLMlIwTUUxZVVHL0lCTHBBcXNNUTBicjNrNlhWMjZyUUh5bG8wK1hpblI5eWNJa0pySHhsd1M0Q29oTTdPMW55aWJrdnByQlpob1hUa2g1TC9VZjRUNlJVTGE3Y0hlQ250TmhnaHptR2tybnNGODZzelRmREsvYlJuTGpRNjZ4NEJENktPVEVFNUlrYmc1RDFtemQ0S2NFUGd0MGt5VTZabXZNakRxOWdpbXg0Zkd1d3BkVWFYWk1tS2d0UmgzZkpveDRaYTA0K0xkWjRhQWFoc3NwUm5NeTN0bUxwVmpjZTV5MmhaZUV3TDVaUzh3T2RlSzd4a2txRmFPTFl1U3EzRXQxUnUvcUY1VnRGVzZNaEt1ZHpEYzFxaVYrc2xqZTJaTzVaa0VvZ2ZiQ3dxQTIvTkt5VE9uY2llMmRTd011IiwibWFjIjoiMjM4MDVlNzI1MDBmYWM0MzQ1MzdiNWY2ZDM3ZTI3MWIzNmYzN2I0NjM4N2I1NGIyMTQ2ZDIwYzhjMGJjMTMxMyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  function Bar(cls, orientation, scroll) {
+    this.orientation = orientation;
+    this.scroll = scroll;
+    this.screen = this.total = this.size = 1;
+    this.pos = 0;
+
+    this.node = document.createElement("div");
+    this.node.className = cls + "-" + orientation;
+    this.inner = this.node.appendChild(document.createElement("div"));
+
+    var self = this;
+    CodeMirror.on(this.inner, "mousedown", function(e) {
+      if (e.which != 1) return;
+      CodeMirror.e_preventDefault(e);
+      var axis = self.orientation == "horizontal" ? "pageX" : "pageY";
+      var start = e[axis], startpos = self.pos;
+      function done() {
+        CodeMirror.off(document, "mousemove", move);
+        CodeMirror.off(document, "mouseup", done);
+      }
+      function move(e) {
+        if (e.which != 1) return done();
+        self.moveTo(startpos + (e[axis] - start) * (self.total / self.size));
+      }
+      CodeMirror.on(document, "mousemove", move);
+      CodeMirror.on(document, "mouseup", done);
+    });
+
+    CodeMirror.on(this.node, "click", function(e) {
+      CodeMirror.e_preventDefault(e);
+      var innerBox = self.inner.getBoundingClientRect(), where;
+      if (self.orientation == "horizontal")
+        where = e.clientX < innerBox.left ? -1 : e.clientX > innerBox.right ? 1 : 0;
+      else
+        where = e.clientY < innerBox.top ? -1 : e.clientY > innerBox.bottom ? 1 : 0;
+      self.moveTo(self.pos + where * self.screen);
+    });
+
+    function onWheel(e) {
+      var moved = CodeMirror.wheelEventPixels(e)[self.orientation == "horizontal" ? "x" : "y"];
+      var oldPos = self.pos;
+      self.moveTo(self.pos + moved);
+      if (self.pos != oldPos) CodeMirror.e_preventDefault(e);
+    }
+    CodeMirror.on(this.node, "mousewheel", onWheel);
+    CodeMirror.on(this.node, "DOMMouseScroll", onWheel);
+  }
+
+  Bar.prototype.setPos = function(pos, force) {
+    if (pos < 0) pos = 0;
+    if (pos > this.total - this.screen) pos = this.total - this.screen;
+    if (!force && pos == this.pos) return false;
+    this.pos = pos;
+    this.inner.style[this.orientation == "horizontal" ? "left" : "top"] =
+      (pos * (this.size / this.total)) + "px";
+    return true
+  };
+
+  Bar.prototype.moveTo = function(pos) {
+    if (this.setPos(pos)) this.scroll(pos, this.orientation);
+  }
+
+  var minButtonSize = 10;
+
+  Bar.prototype.update = function(scrollSize, clientSize, barSize) {
+    var sizeChanged = this.screen != clientSize || this.total != scrollSize || this.size != barSize
+    if (sizeChanged) {
+      this.screen = clientSize;
+      this.total = scrollSize;
+      this.size = barSize;
+    }
+
+    var buttonSize = this.screen * (this.size / this.total);
+    if (buttonSize < minButtonSize) {
+      this.size -= minButtonSize - buttonSize;
+      buttonSize = minButtonSize;
+    }
+    this.inner.style[this.orientation == "horizontal" ? "width" : "height"] =
+      buttonSize + "px";
+    this.setPos(this.pos, sizeChanged);
+  };
+
+  function SimpleScrollbars(cls, place, scroll) {
+    this.addClass = cls;
+    this.horiz = new Bar(cls, "horizontal", scroll);
+    place(this.horiz.node);
+    this.vert = new Bar(cls, "vertical", scroll);
+    place(this.vert.node);
+    this.width = null;
+  }
+
+  SimpleScrollbars.prototype.update = function(measure) {
+    if (this.width == null) {
+      var style = window.getComputedStyle ? window.getComputedStyle(this.horiz.node) : this.horiz.node.currentStyle;
+      if (style) this.width = parseInt(style.height);
+    }
+    var width = this.width || 0;
+
+    var needsH = measure.scrollWidth > measure.clientWidth + 1;
+    var needsV = measure.scrollHeight > measure.clientHeight + 1;
+    this.vert.node.style.display = needsV ? "block" : "none";
+    this.horiz.node.style.display = needsH ? "block" : "none";
+
+    if (needsV) {
+      this.vert.update(measure.scrollHeight, measure.clientHeight,
+                       measure.viewHeight - (needsH ? width : 0));
+      this.vert.node.style.bottom = needsH ? width + "px" : "0";
+    }
+    if (needsH) {
+      this.horiz.update(measure.scrollWidth, measure.clientWidth,
+                        measure.viewWidth - (needsV ? width : 0) - measure.barLeft);
+      this.horiz.node.style.right = needsV ? width + "px" : "0";
+      this.horiz.node.style.left = measure.barLeft + "px";
+    }
+
+    return {right: needsV ? width : 0, bottom: needsH ? width : 0};
+  };
+
+  SimpleScrollbars.prototype.setScrollTop = function(pos) {
+    this.vert.setPos(pos);
+  };
+
+  SimpleScrollbars.prototype.setScrollLeft = function(pos) {
+    this.horiz.setPos(pos);
+  };
+
+  SimpleScrollbars.prototype.clear = function() {
+    var parent = this.horiz.node.parentNode;
+    parent.removeChild(this.horiz.node);
+    parent.removeChild(this.vert.node);
+  };
+
+  CodeMirror.scrollbarModel.simple = function(place, scroll) {
+    return new SimpleScrollbars("CodeMirror-simplescroll", place, scroll);
+  };
+  CodeMirror.scrollbarModel.overlay = function(place, scroll) {
+    return new SimpleScrollbars("CodeMirror-overlayscroll", place, scroll);
+  };
+});

@@ -1,1 +1,107 @@
-ENCRYPTED::eyJpdiI6ImZvVExxWEJxN3JvY0ZDOGUzNkJUT3c9PSIsInZhbHVlIjoiTGt1WGhoN3hsOEdYMDFMRHNJdFltUlpHVVNLbk05VW1hWnRnOW1ROURIK1czWHkybG50ZlowT1QzaUdvOFB6OEpEazNqb0xLUnhFWUNTUGtyUkx4V0tPZUpVT0pOSHJDVzFoRzVsb2RtMzNLOE8wYWxZZTAvcGV1RUV0TVpQR2VDZUZ4Qk9qVXBpaDh5NnArOUhZek9Vc1MyNTJlbmgwd09LenI2SnR4cWo2ZHFpZ09BbTdJZGdBSUFiTlZ5V3l5TEZHWU9rTnFkNzlrcFZZNjlpWmpzaDl5akl6ZVQ2OFppcm1kcTdQazdGTHpaMHN4VVp6U0RkZ0poUFU4KzVSb2VHR0FmWTU1eXVVUnlsY3BHR0tYUEFjNndIck9lODViMHRIZDFoM2lDalNFWHRlVDNkV2p2bW5CSzNhZzk4bFRxS2QvWFV6M0dVZEVRMnhZQU9BMm9FNmYwbTZOZkwrRFA3dng1N1BnVWRxTHhZMUVzUXpEZmYyWFNneVA4Z3VIWmY1YnkwclZKVGF5NU9YSWQ3YTBFVFJPU3dpUW95UkdPVmNNdmVpWWFBbnlJYUJoNVRxT3lHV3BrNzZyZXBnc0RkU09WamgwMCt2MUxxMmNMck9SZ0ptYkx3Sm1KTFR1YndEUDFQdVUvZHdOMjZIWUY0dko2L21OamNqczltUExTUmEvbjdQRThIV2c3NDRoV2k2MFR1azJ4c1JCaTN2U2JtakU4ZVNnTmtEdTRub1V2TmtyYitiQkNuNVpzaWdaTlVIOHJFNUczcnVYa0tRd2JTVUxFY1ZJUHpCanJNOVI3UHAwUTgybHNKd3ZkcSsyVktCMEhwSTQzcXdXM1ZaaFduTXJXQ2J1T2kxbjJmeFk0ak5KVkNPMldhL2JXeVl0UlF2c2ZRSEV2aWFCUlA4dEZCZlkrcmdPQnBMdVJKYVl1dWtJNUZ1M3hEUDYwNmoraStOQ3pVbzdLUTRYbzQyWlJLVE5xalF4djVhMjRrL3I2YldLTVhnK0JMZTc5WW9RZEhWNHdSVFU4TngrT3kwczBKNjMwM3JLUFA3NUd1RnRzaWJ6aS9Wb0xtN0wrNDZwS1pXcDY1TElsSCtiMS8rV3NycytMeHYwcGI0WjhKeU1TRmtrZ080Umt2NUwrR3JMUmk5K3hwaCtzTzdadGhLbDRXc2p1eWRkZy94WHBPYXowMDhDZEhqdC9hWWVkK2lMVmhUWE1lNmpkRWx3dGNOTy9hRVZnc2JkK1pWUGlaczZ5YmMwYmU1eVRxTjVUcHd4bTJ1TS9VdXV6azVRM3B3MitSbXdQdEVEM3RUbW14dnZmNmJsY2xLZHhzZXlkbjhUM2RoUE5RUTl6YXN4clVJUGdMUVQvVnc0YjBnS1kxbTB2amduREpxc3h4bG5La2tabXd4aHdmSnVFdlFhbm92bWtHN1J4d0k1ZTU1Rmw1UERPclphNHBkZng2YVcyUWZSaDdvSlI3T0NONTZ5NzZGSXJSb0llZWx3V1lOSWYyUmJKd3JQSXFNT0NSL0ZPN2l4UlpXamNaS2ZhWDRFVThCTU1SMWNNQytBWFFkWWo1R2hEMFpmdFM4ZUJpbnhtVnBUaWRBRU9kcmtLYXkweDJua2NNUCsvWnBVakFtOWFZdGxUdWowNlFzU3AvYlNSV3ZtUjBEcVkvRWJzaGhFU0FreE4zc3FUVDd1ZG9IU0JiRXFVYWliNWIwc0I3QnY2V2svQnEybFJuQWdhQktaZ090Z1FVb2d3VWo3cjNrUVA0dEVmSkJHbWlQZ0RHRVQ4MlJsS3dIZVRSYS96ZWNxVzIzNnBaVVlMV1VIVDJGaEhKNWhKQUVOOUp0azVmUmdpMGRBeHppOTFQNkUrV0daSGdOZlhPcFNGRytDNlQ1UHRiS0JRRmZUK0tjMVl0OVhGVDB4dktXMzYrQTJIK2JYQmFqV0NJZ0hzQ081RjVSZEpaMGVGbm8yRThETllPcEF2R0tDVEorcUlEVnlqcmtSSi9hSFMyTmhlL0M2UVJqb1Nvd3pERU9yNGlYcUd3ZVZhb3JMVVlMMUZRZEZGb0hUQ003bllvUWFWM1pqSGpFTzRMZkx3K0tRbXNJNUFwdlo4M24yN0Rab0ROdXVxenFWT1o4MlgvN1MrOWFSNlV6RFRNY2diampTQThtNHdqbmJCeXRlRkkrM3U5SHpPeEFJOXV4RWRQNlVNQkpoMkxxckpqVjB6Wm1vWTJTVE00ZGM0U21FVXVTQmJTNHd3TGNxejVBd3U3U3FSbVdiTXdhTDZ5enh5OUx6ai9rWTVHdXdESm5HcXdOdWhQeW0wM3kyYmpxdGpmUmNWMjhIMnVjMkVQc3pKellIUUMzaHpUdmIzT2ZueGVhZURzQmgzYkVvaXUvTEx2TWR0UWVKUnRjdVVDam4zWVk5VEN6bXJUNG9WNzBkN0NkSUthY0c3LzEyUnRpWEZQK0NyaGRBYzU0SG4yZTdWRTMvMkJRSWpMNTc4NzR4MXJBdGo4RWxIS1pvUk9NdEFJdUhjeUcyZG9Pb01LVkVGVXN3ZUlkdVhHQUx0Nit3aHppeHpFeTdDRWJoNVdXdGNiWXRBVEFxWExwcDZ2cXB0ZHhVb3VyQWI4dXM0VGhiWnNmenFmYkNnS1lDb0hQeURCUFBIMGg4WS9PSmwrdkt5aEhDeGQ4WXVPeHJmQTFHVFlBaTcwaHVZMjRMcXE0TVp1RTNhVENkZlFPVC92MkVZNENEZ1huK0RCWE9naS9VZVhKdjV0SHFUZENaNVJEYjV0ZUNDZGZNa3g3ODlUblo1WGRvcWp4MHk0Z1hKQ2hmbXFZQmVRMVFOTDk2YnpjdTdnbFJ1cWlCcjREa1lTNzNqTjRzMGE0aVplQ1JMUkJsenZxd0ZzbjJVblIxb2JTQ0d1V1hETjVjYnZ2R0NxamFzNTBWN1gxdXMzY0JISk5QSjVuUitYcHlZcTFEYjRhQWl2QmZ4QUJsOFBYS2Z3MnBWb0tLU2JUVVdIblNCYVdLMUtpN1p0bFB6WWovSHdFWjFaU05HdmIzUm9ZZHRldlNlTHlOVGZFTHdiR2hSWFZnWjlqRGE0VExxTGMydUkxUWRsZXV1bGduajZFblNFSFl4OEpLUDE4R3VuREh1OUJ2RW5Ydk1rTVNMbnpQYWMvMHU0TVZtSkVNZGsyVkhRVU5UclhSSHdoaWg2MytGMnprRkROWTN3OWZGN2NrVS8xMDRvdzBjUFBObnIydEg1U3laenBlWDhTalZPNGJoSVJBQU14ODhDcWdrTjl6d0I2cXRQL0pqdjI0SEZKS1FzOXhmQ0pJMmt1c0hqWnNKNTN0azB2cTNPT0RPblZZbElXN0t0aG1XN280YkIvS0ozeXBYK0VycTdjQS8yWkdpYkpIQ3FmWVYydXRsaWppdXZBM21IZElCcFMxWTd0cm9seEdYaWMwZmpHRTJ5V3NCSDBpbmNVa2hSWGRRSXN6YXF2c1FVbW56RVZybWFyUVFDVVhycVRhZm9uL1JCNGg4YU1XSkZOa2thVi9mMGZ2WmRqOW8wMXhjSitCekVlRzZzaDNaSXJQWnNRc1lPdTJPSjh1aTJGaEFwWHdxdG45ZHBRRDJxMXRoL1MyV2pCelA4QXRCbkxOeDU1Sk9iajFXQmN1eUxJRE1vTWx6UGsxdGxPbkFwb0dCaE1Zejl1czRCdkw1T0w3dnA1eWpzWjQralB0M1lHVndaZTJaRW9tRUE0N3ErbXFacVhkN2xMbmZ2TVoxSnJNYmNHSnhFeU9YNGJ1OXlNSndQR1BMYzAwUjVsUFlLejZGVytpOUNCV3ZQLy96MjZpU0hEWlpsYUpKeVNnWmh5ZWJkSzJiUjFIV1A3bmM5TnU5eWdaK1lSdGd2VTJZWC83b1BKSlhKOFFsS0FGMGR0QW5RU0l4dlduVjZEWVYwRWZrZGMzQlV0NHlKZlpRVG1TS1V6QWhGeGpaTlg4ZlBMR2M5ektLdUpvbzZpaVlMcHoxZmRFT2xIQWo5TDA4b0hnVGZzcWRUK3ZTbzhCMk9oT3EvR05jclN0M1VVYnB5aExBOEtWRmJveE9IeWRCajc3V2IrK3R4UUg0elhxdXVheFNmV24zaWsvbElCd29CdWZmTjYrUFhJM3RTUW9aRWZkOVkvTDVyeCs3MTdPRis0WjN6TUJ1T1VRNXFhTjVXZ0FRYU1RNlZEbXE3TE4vMHlEa01BZTFmSkhnMHVBa3dIeDRITjBGQk0vR1ZTZ3orNE1FeEhXNm1QUXIrK0ZuT0tQOGk1T3NSbE5xanlRa1RBRVRkTlB5dVAwaFlwR29ySG41MkJ5Rks3c1dwN3FiUTAxZERUYjFIaUQ0WWJUSXoxVnZqVWdPMTVScnFNZ3dkMm51aFcvMW0vVlAyVWw0enF5UW1DUVZRclRHYUxyUjJQeGV4U25qdTNYU2NxKzJ6SWlmTVpFWVBnSmcraW5wNU93N09qMjJmdERsak9lL2l2bGxxMTFUdktQWmwyOXdKdmNyTEM4eEd5bTZHMEIwUWxIRzI0L1BSQ3NoSlkwZUF2MUI4OGExY1RWM0Z2SVdtWEk3ZW5SV0dyU09KeEZKMXN5dzFBUmY5R3UzY2tCdEF0VFBibnJvU1RXWWhjNkJkZG02S3lzMnY5djV5WEczdkZhN1V2QUUwOFpRblp1SisvQm00dGRCczJCQ1dJeWsxMUFxcUVObWRDVk5rZS9TbEhaMTEvLzFzU0lrVlJTT0xyMDlYbW5sY1c4aittOUUzZ210NDNhZmdvd2xPMGx5RHdOQVRwcTdQY2NkUkVJeG5JcXowN0hhMnk1TG44b0o2bis1S2lUdUFGaE5vT0RvbHhUdndTR1ptMVVGSkxuVDFDeHBTZ0RUVk1La09MMUNlZ2JJQzlMYm5mV3gwRnQvRm1qMGxqaHc5MW1oN2swdEM0Vm5iUmd6a3JManRrVG11eTFNNngvU25TRXlVcVhXYTh6bFFFSi91cFNFR3NYLzhxcXQyL1Z0MTdMYTNWM0RqNmVvWFNISWU1RHhCMjNHYUs2Q3JFNFMzZ3JjYndvaUZTeDZXM3ZpQ3VvZHNPMm9sVnhmL1NBc3oxOTVGWjdpREpQd29xUkFJYitaemxsYnY0dkpiMHR3R1lNM1lMRXdwTjBxOWMrelFRMHlRVVdRaGVDRmp5YmFneW5tTnNuQ0YrYzNuZU9EekZpNDF6d3ZsaG9WOU1CR1Y2Z2lGRi9uZVRkZVNReE5uS2loVHVoSGFWM0JaWGVtMXFaKy9IUkV6OGQ1bURPQ21DSFVtMmNSOUNEQkZJSVdGRmZVbmE0dHpLOUZNLy82Uk1yNzVPamg5WU9xY09BeGswMTRFZUNTcnJYT2hua2JxMFF0MHIvYXVScklTcjFEakJPbmNwRWRPTml6ZU9KMjRIZGVwNkh1VmhiWHVhSWRjcExtSEFYNzlCUXF1WlViSlR3enorRmpZcjg0Znd3K293ckpyZDd2OWxOeERQSXNURHFTSDBjL296YkJ1YmpiZTB6b2kxa1BxOUxqVUhYM0VzTzFqWXorbldzZVhXWEtSckZldWdCTmt4M3FBVDhDUWZnaXZhQTV4a0Vja0dmZnRvNW9xakRrUnI2QW1CeW1UN1cyWFYwTEU5WSttVFFERWR3QmFEZmg0YUhoRjFBNFhIbXlDaytQd2hDNUFtajd4V0hwNldiV1NqckpuSzg2SUIvQllkUnROakFtZXF0TGY0MXlXQUw0bHJpQlNZSkkxb05tOTFSTmNVUUhkUkY3Z3ZoV2FtYmIranVlcG5WY3R5bjVHNlNIMEJyN25YNFliUVdxajRmVXJ3K3pKdFF1bThubkw0Nk50K3B5NlNZWjhCa0NmSVpqc2RnSGhKMVFkeXNTM0JPTFhzWEJYb1BIbTQwWTd2R0orcFI4cTlwcnhKUVA5aUF2MTUzOWN1ejNhNmRHeCtBYjFVSUZ6U3RqWjJXNEVzZGpuYnhkSG12dlYzWW0rSUhPVHBGOThNVTJBbDJwSjRSbG1TT1FjR0VCQ2drSFIrbHozaytFT2djRTR6cVZaeU9LQkVtRk1XUHRWWTBsVjJmMEJ6VDM4MkFBenlxMjRXK2xKWnhPN2pLWWR2c3Z2S3ZGdkhkd3BWTVNNZmc3WSttK1VzZUppdGRDL3dtSWJxQm9IbktjcGJ4bUxJL0xBdFozV0xEQ3BVMzJWL1FSemF2ejR0Sk9iUzJ5OENPVUdtYWNNT1htMWI1ckJjSUF0WkFwQVVLNzEwM3BlN3FjZHJuRkNPcnpzcDN3U3NucHBkWWYzQmVqMGRzQXRqYy8xRFlvSG42dTdLL093NDkxSHdxdnQ0Y0l0VVhrcTRFS0g0aEJ3WWRjVFliV1V6enZ4Y25MK09EWjkvU3A3cFRwMjR6RzVPL25RZmJhMTdsT1pJb1dQZTN1YnRQY2dxeHBsTXE4TWE3KzNycFNyUWtmZ3R4SzFQZERmZmFTYzZyVGhLSllWWUVEM2l5cU9LWDhwMlBjemcxcGFQVzdFTFV6eUZNS1lsNVgwZ2Y0RHhXU1ZlOUN5a29lUzJWUGNCU0lPZSt3MUxBem5YN1I3WE5ZRTArR29lZVZyMFZWZWcxWGNhWmdJeXBWTFBkSkREeGp3ZTFTUHg3bVVGang2VVVNT20yczJpVDRWOFhmYk1uZEdOWWVwbmRlRndrWGJZQkVXQi9iaUoyYXRlWm5COUYrWjJtU1FUcDJJWXUxU3c1TWVMamRySWxRVG5RR01VNmpDVlh5T3QvU3NRNVJXSkRSRWxPK2JhdHFDTkk5Sit2bTVEWHNKS1hLMnl0aDY1QUdXempRWkp4WnFaa1M1L3IvdlZxSHRVNXdUcFk3ZmdVbHRSc1VyelQ1QmNJdk11ZGl0THRZUWVDRElUWGptdU9pdENIQWU3UEU5aGdYM1JuTkZ3MjR0cVlDV2dYRW11S3gzKyttSS9YWkVRQ2ZSNU0zWHZmQWtnOVZ4UmhZaEcyTlFIRS9yTWRZTnk0WVlURzR3a3FlQlBxMVB6anZwZjdTRlBBbndPR1drYU1zaHEyN0hGQ0RxQ2VkMGVLMlI3Z1E3WWJQaXN3TjI1ZVdpNDl5eWFmMXY0cloyRXRONFo5NjhmcDI1c0pBN1YxUjB1b01nTVlYRitXb2dSQ21tSy9zdzJuZFp6WlpHM3htOFQ2cmJJWlU2VDQ4R25MQlR5a1V2NEc3NGlkRmVrR3hBbnRiY0RJVkQ4MkUybGxkNUtKdER3SzFpTFk5T3VMelVuaHR2eWtsZW5iR21EcEpDMlFRNkJnTzlSRzVJSkZJbUFncjFwcyt2c0lZdXFCbmpTYnFsRXRUOWtmRlUwb2RrR3YvcTh2L2ZJY3RYR1JoS0czbHBRTXU0N3o0RVpMM05jNXdKRTkyUnhUS3Q2ZXBTTHdsdFI3NHZ0bjczeWxkeTBRV2dUeEZCRWl6Y0dzanZkTGpIT2xQV2hERkx0T2ZncXRwS2VxM1l4VnVxdFFkaVlvZ3BnWkx5SlBvNXQ4ckx6akgvNzREZkVjUUhBajBDQkwyZ0E0VHAxajRIRXc2QUF0aUZNVlB5RGVYZHl3SzlWYXdscFN6S1RXVXFOTlB6bGNWZS9UUEpvZUVRbEdLdlFxNDhkYW0rMWZ4YTRUVXVMaWlBWURnbldoRXJVVjJIRnFRRHZ4aTBoQ1pLZktjRFVaTi95aGpQVlMzbnVQRmx6SXlOK2NGN21DZTlRbzF3TFMrWlc0cGdtS3lJeVdaS0tJVWlLOW1pRThsNTNyaTY0WnRYeUhraGFqRG1ObDlkbkxpZzAvdzN3eHNMODMzQ2FEaHJmTXdoMVNsNnNKVit6OHMwOGZVc3R3QnVSY2g0L1JOQ3Z2b1lpSlB2V21KSUN0bjRDdFNCa0FqampaVEZKdFZ4MVBDQi83UkM2NWZ2eW01WldyQjVBQWJ4aTFncDdOSHNMalBjNWZZSjc3VWJlNTlkcWFRcGZpeWNObFBSaGJOeGF3UHRXbEdmbGVWT3VrVU82cWdGVDRVYjA0S1RFdkFTT2lPTm9HcUpzbXRJamozc2tDaTQ1bWtEM1VZOEdEODBmQmZEc1hVTUFxVE56N1pOb2h3SS9wbFZLZjRUSTFGNmM2NkZrSnJCY0JPSkZ1N3QvSHd4MGp4VGZUK3BnQnZqMGRXU0FKTzNhY21EclFNSHM3RzBWcU9IRHlGZEtra0diUmhFVjZWS2pRU3VHMFdteHJ2UFlobnN2ZE5JUFl1ZGhPT1lWcEFVRHFybVBoOUk1MFdtVEVmQllqY1dpMEZLSTNuUWxkZXVwR0x1RGwzdkIvZE9IZ3oxQ2xDNmlreEppV0Mza0gwUHpIWVN4R2dGc203MlMycmNMT20vekVWd1BwRjVwRWk3U2xSTUpWZXNLOWVMWUtseDIzSUk2cHVhSHNqbFV1MGdNZXdnNmUzM1ZsRy9uT2VWdGdBOWl4Lzhjb1pCZlAvTXBJaXhlcUk3M1BVMUdtalZMdzBEbk9tRmVPMko1MUgzNklwUERSS1ltcGUzdUtaSjRxTmlURTE0dGVaTzRqM0Z1ZUVUakNLTjU1MUtOOXZVQ1VodVVGaHdSVng2VHE0TUZXVmdCYjBYeVBDUVhlWUFrOGxacEpQS0NlRGJKWHJxT2Nlcjd5YTNtOGh1RGcvOUd5MG9vZ0x6Y1ZIbU9wY0FFNFlmZFdiM0Y4bmNZemdwcms0eXJSWWY3L3ZzUHRDMDg3WUs0bWg5TFArY0xLcTlNNGJMbGFYQlV5MnNtbk8vY2x2UFNqMlJpd2RneXpQZGJsWjBGMEwveFZSajZhc0pUWlQycy9FMzhxcmJiTUY0RWVuakRQQnRvZnlGV3diZlNkTUtyTDhRRkZUUHlmUkZyS3BXNEdxeHRRT3hpeTEycmt0RTArQzVZZUgrbVlZK3NtQ3VIRHdybVcvdFNCM0JnVWhqNmYrejVvWG1UM1ErRWRpbndlcFRjNmo5YTVXR2x5SDl6MldkM0NIVkNkZ1pOTmcrWU45MjN5cTZBYnVRTDNxVXh5ZWx5TENTUkVYa0NEQW5yUlp3RHVqZUQ2b2NJYzZZMUh5OWtuaWZrU3VTMUhPKzd6SlBWaGNINWJxL1NvZmVQUGV5d0pDL3JyaWRHUmU3cy81YkZCaG40c2ErenpUUzYvOVN6T0doS2ppQUVKR1MzWnBOWXpLYVZhOWg4V3N4V2VobmtFcjRzK1Jsc2xIMFp2ck5NNUFyeVo0UTRqTTRqRUVIWUt3SWlWdmNqOUx5NUJzUjZqbzg2VFNtaEtzOTBtWDU1TmFHYWl1d2l2M2NCaUFiNnFpTFh1M0V4RU9OQ3ZJb2IvWjhnbHBFandqVTZMZnFDc3NDVlREZ3M5UUZ2OVkraGhUWlNJc0l0cVorQzZsVEl2ZytKSjBxb1VVSzlEK2NOM0V2dlg3UUF4c25BUXBKWVEwenYyWDlaWFdITElla3NQc3ZVVjFzUkY0S0hMU0ErSkFvOWF4bXRCdS9wMkQwMCtLbnFSUGZZR05uV25QenpBc296NDg3Q3lTODkyT0FqTVpEUHFGUGtRTDlGVlcxNkIzNWxrYTZ0MU1SaTBaMmpRWS9oeTZtamZwTTRXTTU0NjYveGZtQ2ZYNjVySzZVeUlqNnVmdytJZHJUemVFMmFNT094OUpSZnhjMjhUNkdPUWdsRlBLZ2l4Q1o0T2pqSkRuS2JDMWJ4L0dXL0p1VVdZUDdqaGpDdGFjb2xrQjREVkpSNS9CaEtYTHpjU2tCc1A1R1psNUZMeXhoYlhPcHZBN0lhbkJqOGl3RUpraXdjWiIsIm1hYyI6ImVlNTlmYjQ5MzVlNmNlZTM3MzI0NTM2ZGVlMjc4N2JiNTlkN2Y4OWM1OGFlMjgzNmY0MzM1MzYyMDM3Zjk0YmYiLCJ0YWciOiIifQ==
+<nav x-data="{ open: false }" class="bg-white dark:bg-gray-800 border-b border-gray-100 dark:border-gray-700">
+    <!-- Primary Navigation Menu -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between h-16">
+            <div class="flex">
+                <!-- Logo -->
+                <div class="shrink-0 flex items-center">
+                    <a href="{{ route('dashboard') }}">
+                        <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 70px;">
+                    </a>
+                </div>
+
+                <!-- Navigation Links -->
+                <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
+                    <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
+                        {{ __('Dashboard') }}
+                    </x-nav-link>
+                </div>
+            </div>
+
+            <!-- Settings Dropdown -->
+            <div class="hidden sm:flex sm:items-center sm:ms-6">
+                <x-dropdown align="right" width="48">
+                    <x-slot name="trigger">
+                        <button
+                            class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-gray-500 dark:text-gray-400 bg-white dark:bg-gray-800 hover:text-gray-700 dark:hover:text-gray-300 focus:outline-none transition ease-in-out duration-150">
+                            <div>{{ Auth::user()->name }}</div>
+
+                            <div class="ms-1">
+                                <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd"
+                                        d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </div>
+                        </button>
+                    </x-slot>
+
+                    <x-slot name="content">
+                        {{-- <x-dropdown-link :href="route('profile.edit')">
+                            {{ __('Profile') }}
+                        </x-dropdown-link> --}}
+
+                        <!-- Authentication -->
+                        <form method="POST" action="{{ route('logout') }}">
+                            @csrf
+                            <x-dropdown-link :href="route('logout')"
+                                onclick="event.preventDefault();
+                                                this.closest('form').submit();">
+                                {{ __('Log Out') }}
+                            </x-dropdown-link>
+                        </form>
+                    </x-slot>
+                </x-dropdown>
+            </div>
+
+            <!-- Hamburger -->
+            <div class="-me-2 flex items-center sm:hidden">
+                <button @click="open = ! open"
+                    class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 dark:text-gray-500 hover:text-gray-500 dark:hover:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-900 focus:outline-none focus:bg-gray-100 dark:focus:bg-gray-900 focus:text-gray-500 dark:focus:text-gray-400 transition duration-150 ease-in-out">
+                    <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+                        <path :class="{ 'hidden': open, 'inline-flex': !open }" class="inline-flex"
+                            stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M4 6h16M4 12h16M4 18h16" />
+                        <path :class="{ 'hidden': !open, 'inline-flex': open }" class="hidden" stroke-linecap="round"
+                            stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Responsive Navigation Menu -->
+    <div :class="{ 'block': open, 'hidden': !open }" class="hidden sm:hidden">
+        <div class="pt-2 pb-3 space-y-1">
+            <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
+                {{ __('Dashboard') }}
+            </x-responsive-nav-link>
+        </div>
+
+        <!-- Responsive Settings Options -->
+        <div class="pt-4 pb-1 border-t border-gray-200 dark:border-gray-600">
+            <div class="px-4">
+                <div class="font-medium text-base text-gray-800 dark:text-gray-200">{{ Auth::user()->name }}</div>
+                <div class="font-medium text-sm text-gray-500">{{ Auth::user()->email }}</div>
+            </div>
+
+            <div class="mt-3 space-y-1">
+                <x-responsive-nav-link :href="route('profile.edit')">
+                    {{ __('Profile') }}
+                </x-responsive-nav-link>
+
+                <!-- Authentication -->
+                <form method="POST" action="{{ route('logout') }}">
+                    @csrf
+
+                    <x-responsive-nav-link :href="route('logout')"
+                        onclick="event.preventDefault();
+                                        this.closest('form').submit();">
+                        {{ __('Log Out') }}
+                    </x-responsive-nav-link>
+                </form>
+            </div>
+        </div>
+    </div>
+</nav>

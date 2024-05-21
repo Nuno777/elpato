@@ -1,1 +1,552 @@
-ENCRYPTED::eyJpdiI6IjlTMTRjdUdQZ1A0YWE3M2ZZR3U0a1E9PSIsInZhbHVlIjoiNWloUnlXb0sxU3FGZ3lUcHVtemVXL1MxZVFDR2ZvNU4xTTFyNVdIemFiRkU5M21kQUJtVlBlVXZoVWdWTTJNci9land2d0hWcExCcmxqenZUNVpDS1cxM2NyZVhPZkJSVzlNYzVsTTcrMHNMZ2lNQ3d3MnRGN1FKYXd2S1B6U3I0eVBQbTlqVXJYc0dmaHpBaW0rUWdMcyt0MkFzUEFWdTFnUHp4MlUxd0VDSDljamdtS1pIRUpFaEt1NTk2UUdYVEFrZDVzbUxpU2NZd0dxa3g2ZlQ0bUNqNGJjYy9qUWF0Z003UnZqT0ZabXMxMkVBTW93cE9xVDBHZW5BdUtTM0oxMndvVDA3YUEwWHVPc0JjWEI0anAwKzkrNjZ2NVQ5RmNSeEpSVytoS1IySzA1OUkrYWhsTHZXOE5UOTRvMlJEbFdLZEh0MmhlOEtKTm9RSlN6Tlp1bk1FaW5VYjdwa0JacTlhZEtTeTFKZW1hQUIwTTRhQkIvSU9jUTc3OVJRSlUrSzhPZnlFUUZTNzJCV1JCVkRVZFl5K2dSeW5ldkcxUytkQmx3aUFlTXMrdnhDQkhGMFZ1U0J5bEFYcS9Vb3NRZExxSXU2QkNQMzJZQVAwaXVEamVxSW1hTEI1ZjZ5SExIWWo0MGhXREEzMkVQdWRKQ0kxZ0NtSE1zdXZMTGVaeDhlUUhzdVhQc3RLcFpRV1phN3IwZmRBV3lUVUNIWmlpWDVFK0p2cHJXOHpJdTlHbStqby83YnIwTEJqdERRSnM3SHhkN1E0UWRSdHRwZmZHMHpTbTdzS094b1lMRERGbGlYYzAzNmhoQWJ1NFpqbSswMzZCTDlNSUlXdjJmY21ZcjN6bE5LQk1EK2lmK21TRk9iVERvRVJGakpiRTIrSWxienBlUDRhdGdwNVZiM3BhdFV5cHpmZkM0Z0JBbzZGR2o4bFIyejRnNFFDdUlQRXBjcnU1NEhTWnZ6MXhqd20yUkRzcTlSSDN4NDhPN1dweXBnKzYrWC8xLzI4ZWExaFZwN2szMVlxN1p1bk1rVW5DQjJobkkxUzhTUmpPS0hxeXBoZFZWZGVQZnc4TGdDYzNUc0V3YVZRUEo5U0ZnZ3phWkVFVHVnRTl6MHFiVEQ5S3FmNzNUWTgrald4dnFzMlZVY1ZkU3Uxb1RXdWo5RXpLUHQ1Y05XWDJLNVFSTHAwRVJHUW9SWkF0QXg0ek93N2R2VE1ZWGkvenE4akttOTlSNWw2K1hUMEhndWVBbGlVOVhncEhEdjk3Tzd4NFpvS2pRb3ZuOUVuZ2JOVWlKdVBGc2ZwdnpMcWtBOEdBMjZWa0dYV3pEZlkwV0Z1eldoQ2Y5V0c1L1hGeFlWZjh3MEtIeGlLczZWM0k0UTZ3OTl1OG1NQitFRmZVVVc1bmZ3QXB3Z0lpUGt3QkRPVkxWTFJKOC9razlaOUZmUktpdlFaU2hiUUFiQ3k2QWRKVi8remRVRlVvVUFmYmlDTUo0YUJRcDZCQzFjUHV6UTZpcEwyUHpXRCsySFlRTUMramhIenlEMDhia3FxLzg0dnRsS1huYUwvSVAzMS9ZNkVwUmhZOEM0dXREem5rLzRiRFlHZmtiYUdEcWdYbmV3ekF2cmZMS2NxeW9lSFJQWWFzNUJ1R243a0dSTzRFUk5hSnBZeWxhcVNPMjFoSGczd0xHNlpXaEZLY0pScXI0aXZJNVlBOTZkbGZkQjdXbWNpSnZtWGw5RXRmcWdXcTZyVmVlR1NvbDYzWlhyY3JPOVRkWTlwc0NUcXFPSTQ2MkRNNWpHTk5yMVIzNHV3aTVEUnNra0hxSFNwMFp4TkxuSUV2WmdOL1VZWG1rSEtRbHMrQUdhb1VmVmdtYWVnczBMalRJaGxYY3JQNmt0OXM3cTlmeVlaUW53RkhNY0ZZOEd4VTR6Z1l4a2pjY0E5NUo4NkUwT2Z2VHdXV0RNaFRwZSttU29WeklwczhDVWZ1U2hSakJpeUszQWxDNGNHSVpvZ2lVZkhGK2FuL2ZNWUNESG1wVElETGFYK2U5L0dGN0pEVm1zNFUyY3FmVlo5TzI2dW15ZHFpVU4xSmxzcnpxRXdjTW5sMFBpelVudVEzYkNZMVg0OW1SV2lOSEtTK2UyTXhPR21weUFFa0xqSXVoUkJaVXV6dFhaMUoxV1UyOWJvT3ZIT01RUW9nTjdJN212V1RZMlRpaHN5OTREWDVjTFdXOForcDlQVWVidm5rczFtRHBVNE8vMXhMYnZHYUtSYTdRSEJLRCtIYkpVMWxockY1S2RJclB3cXMzcC92a3BXeW0xZDkvTnRQS3hnZmpMNXNKWkhBdG1XdzdTdFhxMEtQVjFLZWJKeVUzL29PS01hVVVraCs1RnZManJRSlVReEhFbUM3REltSzc1VVhaQWIrYkNSSmozYisxUFlIV3UyZjZLcTZhMnl1UFNDREFkblQ0SmxxQlJZUEFHaVVDUE9NM3hXSE0rejhWeGtJU2xUelBFZEk5cHZkaVhkck5BbzNlVVRTc1AzM3h5U1lzZU10VmVYU1YyRGVuSGhHaGZXbmdkUFMvaWU2b08rUlVvTnJGZ2ZEdmdoSC9YbkZCeVlwVzY4NVNIbEllTnA1QmZOOTdEMG1VcDFuK0NmVGdnVm9jeG5uR0hQZmZzY2J0OUs5MTFWaEF6MkIrdWthTVdVUEpwU1NqUTFpUU9KR0dEeGxsY0VEa3Q1RUM1UEJGczdrTDlEaVI5Tjd4eGpwQkUyNUE1RG12ZXlWWkVISk5KOXZoYWVMcjhGOGxxWVkyTWtXZ2VGZ0o1OExTbEV5UlQzV3BVYUZqdzZraFpEbEhGb0VDdkZiYTl6Y0t4TTUvQSt0NjdQUVFxVFFCQlNicEVRMVh1ZGFqeGpZRk1aY0c3Qi9MZVpROStNVXY4NlAzdXRsY1NRd0pmWXBtYUhobG9LeGk1YzZBb0Q0dkplUS9lczQzQ09hNGNQbWlRdG1DSkpWTm83cmJWS1BEaC8zakl1L1FUS0JQRGg4NnZEcUhmSFFmRjBvbkZZdVoySms1alhvNDNTcU1RUlVITWNWbFhVRDBLbURDc2pDZzlzcWQ1RHBBU1pOamxHVDl4d292TWpQOFkzdi9XUXU3K0xSbzJ4ZEU0Z2RGc1MxQzBuaU4rNGgvczhncjlVN20wYzdUcVRiaERWRzZmV0hFek9lSkkyUjA4QWlwejBXbFBzalVya2RSck85R3V0R3hlN2o5d2ttZkJlZlJEemUyQ0o4SldwS2s1cmpyS0tuYkpmNWM2ekdyaWc2RUhKWTJGaW5ialUwbGdPTzVtTm45UFE4aFNsMS90dTJxNGhCMUdXSG03dVZ1blVYVEZ0ZUNlT2Nwb09MRjRtNkp6Rmhnb0ZHOHFpU0d4NWhITEgzY1h0d2xjcmJPOVhNbWFVTEUxSnBjNUVVU290TVlvRDRzazYvMVd6dkptODZZSWZja3RLVVFMMnhpbkRaTmU1VWNDVGU2WTZDOHZRNVNCVmNETnJIQXVLeDRZcWJEUFE3TmhtUlY1N1hzdUtOSjlOS3hkZWZNU0xIYS9rZUphVnIvM2JmYWtaQXFaL3FBSmhpNXdnZXJMOE9xS3RYYmtVVm50eVRwTHduOVFlelRGQ1ZZK3ZhTndibTcyWTBTT0dHUWQ5cWplZjZrNVNaVUJDZ25EZklMdnFzVTN4bzljdkRMZHFJUmNUNmU5THZJUTVIYnVnUklnOTQ2S1RSWDljSzAya0JnU3BnWFdDWXd1U3RaY0lJYTE1Mk5vbEVLbUJEWmt4Z1I1M0pTZGRqRkwyYUNDejJBS1Q4emZqejdadTd0Z3RVNmxGemxhZVNjQkh6WkFxeldIVWRZdTJXWFV2Qm5KRVJPanF6azFkZWZidVM2T2tmOXJ2ZVNUVmVDMHVlc2tKZjNsbEhSdTcwRHJrTXQrQXNET3VGdlhVQmRSdjk5Y1dyVy9ucmZlTEJtVkZuamV4TkEvVlZZbE1uL2NFS1p6UGlVR2F1cTBqWVJCeTByZGZEV0pIVGU2TVJhS1cyWUJZcDVrRmR3ZUhpalJDbkQzeGNRZjZ6T1lUUmRxUUJ1NDNVbGEwVlJrN2QyVkNVcFBDVXRXSnFaek9lNTRTdGtyTENTRDBvNVI1enpCUWFnaHZidDNhS0dyL00zaUNrN0ZPek5Qazh1cXoxY3hWY0hNKy8vRkpTdHFEd3NkM1pQSUd2cGJLNDNvTlhSYm1uelVCbFdjWW93aFRnRzhqZEU1THVNcnVNWEdEZTV3b3FrYnlQY0U2Wklhamg5d0xjYTluYlJpSUY5OHBxTC9ERW9UaU1zQThiUXlBaHVsY1hXTUV1VlhmdGpNY2dGV0U5SVV3WkJISEFFcG1XaFhZLzhYRWY1UUYzWWdNdTBRdCtWeFg5UzhiV1FscElEcG56cmpPSW1EN3FJNDgwZkhFcWdnNjJqdmZnWFBkb0FEalBZZTRMZTZoRmJNM2dTZWVDRVR3YThDb2pPNmhxMHIyWm0waGkyK3hzVlNLeGQyM0Q4ZjlacmJ2Ym9xSGY0ZURFbUdXT2ZGeGQ3MVNIcDlCa21zMmhWUzBMRno0aGtyOGg0ZTZRd2wvZHZYTnFRN2lZSnUxM002TnJsSUo4ZEZhRlMxU2sreDFkdlVJbFFTaFJFbEpCeFlMUlNEeGoxU2VaNUV0WG1oNzV4OVUxMW8rQVUvMW5xQnIwTlRzbmRPNE9yMFMzYW8vSFlPTW04N0RnUGxIcHF6a2ltaE9TMVRjQmhlUFJlcUl0QUI3TUttekxVUnN1YzhWRm1CN2Jkcmpacmk3SUNHcDVDbmZ5NEcyNDhxZlRGeGlrS0tPK0IwdjQ5Z3VGS014RWxCQlE4WDFYeWpDcVo2ZlU1ZUpUYnY4cmhHVW52aUNiQkoyVSsyMnlBTVhBWjBHYTk5RVpYUmxLRW5Mdnd0KzBJT0UxWjcvZUxCQnAzQ1Jydk9MNTltRFJxelJZcG1NbUk0MlJ3UGVnZXd4ODdCSm8zZ2hjRWV3dXhxbTZVOVdLZlNtaXNROGIrWDR0ODhyVkVjeGF1eE9vOGt4cE9DcFoyZzNsbnJJd2l4dzRqNnRmS0ErRUFWZ0t5Ym5HOEIyTXY0WEJkamVjanFhT25oR3EycnhzL0l5c0h4SzJZbFl5ZGo2blpGWWpXY3lkMmRrMjFJb3kwei9yY1BuNVBUMUZhdjZOcVhrVFV1eitxYWhTSy82T0IyOVRJV1ZMLzdMMDlTS21ERVBiVk13S1BrTkpvc3JYWThDdjBGZkhvUkkwNitHdm9MdHBHRkJRMnpVQXlGckc2di9rSWNCd1dyY0NjUmVNVWtrVExsdTcrYjUxNjhGenNIMVQ0ajZqRzhCRkpqUUx2anNkdGxvVlhMQWJ0dWpDWkpyTTV0UEFSVnVHczVoS3hIeTZOLzZEZWNwVGlFUEl2Qk83M3pENnYzNjNzN3M1WUdMQzVHREh0ekswcmRQYmF0ZHd6eC9mK3J0TjBsTHdIbllPMVJ3bzR4Y1ZWNzBtK2pORDV4RFpIMkJNcytLcjExT2g0T1YwNEZFQ3ZMcEpHaXpHRFI5M2l4V2R3L3ByRm84VnNiVWgzekN0NitYaEJra0NvQXEvcDViTzlSNThzWjF1NDZPTnJ4K2k2cklhYytEM3FHbGZpTndlUHkvdjRzd3J2TmVLc004NG1vUjRGOGRDUUpaSUpXcXNWMUZMRHJ4ZGtsVHRmM1I3ZmVmTXhQUUZEeDMxVkNCSUlPY3hEWCt6RjJDbUwyc0ZVVTExeVhwK0pxajBiT1RqUTl6cjdpSXh1MEpiazcvWktVYWZWcjVUUENuUi9xZk9LQW9ESmMrMDd3YU1ESXRXM2hOcHBxUE1PVldvWGlCV1cxRFB0RXVCNllUTnNhUmx0cHJsYVdqTjlDUEZwcG1OUjhoMVR2SDA2MXgveHJWQ3VuaENDbUs5R3hYYnRmN2FIa0xHUjRlMjVkSUV0RHdCdXE5VDR4d3JGWThLZlN1SlRPV0hacnB6Q2hiSHFoOW1SL2l4aDhzL25BL1ZwTnFWSVI3bEZTWEl4Nmd4Wk5LdG9FUVl4V0JqV29oOTg3OGhRbXRWTXNSdmNoVTdiV1U5M1dGSG9SY05CMDk5bWpRODJVSWprdHZRU0xkd05OenFTRkQwY2dBSTQxd05sM045Qnlkc2Y3a1VyK3I0RDFUbjlYSmM5LzJuSjgwalZlbVp1RFVhTFd1U3ZDLytEV2VOYUtLeFUwTmgvWnI0ZjFNMG53SUc0OXVTWGQ4T29SdGlxZVF2V3dRUkR5SnZPcS8xa2t4c1RQc0VCZTRpaWRWMDZXZWNsNG43ZjZKbUtuNGpaRUx3dEdkWVNQQ01XVk5hQVk4dHBqdmZPR08rZ1BQTXg1VDcwelAvOUIzV0FoZHdLUEgxNVo1cjJENmlzV1hDYUJQdnNGUTg0dDQ4SmdOTkc4M3U2V0ZEYlpuSlFwcEdwMzIzdTYvc3hXaTh5Z2VyUm5wRmV3T3VDaHFzYUtkdkFFVjJPNStzQnB2NmZsNFBwK0lYdkl2VjVMcDJ5OVBBQmo4dU9ZaFNVaXYzZ2NqN2Yxb0d3dm5nYTlQbk42YXdBSFdMUHJjeUwwZm5rbi92TlhXalJjSlM3akNjSnA1bS94L24wOVRScXMwK0M3RWhPOWowbnB0NHBMQjBwOEdXREVnbWRHM29UZjNCaGhNeHZYMVVESThiNTAvNjdxMW5hWDd0RVZwVkt5QVFyTVFVODFqKzU1R2ViTDFmeGlFYjJ3VEVOWUFIdHBZcy8rempDekFqdUZ3NUFOMHhJM3NPai84VEFibVR6K3VzeEozY0U3cjJmeHJrVGtqUmZHSllLbGRRWk5mT1ZIMndwVUIxYlVDSUdBMHNIZ0xMa0Z1WmpWeHkxRVAxMmFteTIzaHVFcFArdHJOeldBVFVvRWFFSnpWYUIxZHZJZmhvdHdmN2poK0VjQXM2Zm1JeVVLNWRhMTFVU2pRMC9kbHE5RDVuMXdDYXhjZUo3SkRQL2FmRDhwbnd4a3N4dm5nU0JQT1M1MkRzYUR0NG5tUDVNWDYwQVVjNm5RZmRMQVh4UUpld2Zxc3BRN2VxTDVWaXNDK2NEUkdTWS9wL0pCc1AyS0pmTE0rU2VCRlB0WG44QXQrM1kzZkNxMGRWTE5kR1ZpT3hncEF3QnFYbWJNOTdHV3VDNmhaczhzR1Zxd3BKYTlmSjVOQkF2U0k5NTNycjR6K2pGbWI5KzYrY2xtTW9VWm5ubk4wVTBLTzF0cjdKbDhYbzZDVmxhZ0FjS1Q1dzcxR2VpdGVWODhXaWl1V0V6M0lUMnVaZmhkM0tmc1BpcTU5eWhHb09URDZwRncvajE5NTBuZGppR0NQdnkyNXNwZ3ZDREVLcllJQkxRMEZGMEE1TlMzL0JUMFg3OFpzTWFyN2xPQ2ZoeDgzVEFTT1FodTk0b0tTYU1ySmNjbnpsMk11cW5MZ3Nud1IvUTlRY3Y3UlVBS0VqRS9HWU4rWW83Sm9sa1pGU0QzcXlBT04zS0VzdHI2UHBUREtMeHJPMDV0WThPSDdMWG5FdVg5NXEyUkl1ZzFrRGRrVzllVTB6VVJKMHIxNjNWdGI5UUVFQ1dtbHFvZVhlcDUzbXhYaDhhc0Nhb1pkK2t1eXdlUXFLRUtwTFMySHVTU29vRWsvMXJlVnI2ZW1EMDdNM1pDWkhOaWhKWFc2bkFZdTNCT2hmNGlKaXlrWEdNTG5vUys4Y0xBTnpaY2VqbHZ2U2ZIMlRBTk1zdEszTld0dDZ3ZU1pSG1neHNOOTArTDRNUGJZakxuRVh5N0lXR2FhNlJHMDFieGF4VjRybEgxamIxNGhXcktNUFVXMUlqWStZSlBlT2l4bWsrV25tdVJYRXRQNEQ5YzJOMDVYQ3h2VE4vNlpvOW1iT0d2dXZobXcvcjQwbFd5Z2RwR1p6eFRiV3NoOWtJazN6REFVaTd4NW00ZDQ3em15NkhLL3JvNHY0anRoVGU5QWd0ekpHRzBYY09pZTBYY1I2RVZOeG0reHNreHVpYTlDa0dHOXRMMndVc1NIQzI0OEh6M0dYdGRhRzBuQnh6REpETlNyZFFBSkt6UXU3UER1akdLRUtQS1JjZ204eHNSc2c5SDMwZVZpNHFnbHRTQjdYTWhsUFo2ME9yVUlxbDB3M1crZzhxNFo1Zjh3THROdTJXTEFxY3ZQRFRwTHFQbW04UmowSC92ZURzdnZiVHpEUWE5eDF3MDBDTHJUaFV3UUQ4OHB3N3dzd05NaVFzUjRPQWNETWFUOEM2OTFYZThTM3B5ZlloNko5bjFzN2EzTE5kWW1zRUtqSUQycG1rTFRrSnExY1ZSWWlDZDk5d3ZMb2M3UThzR3E4RmJIb3dSTFJnZ2J5V2EzRERzaVpPem9kMm0vOTN4QlJjT2dlellBTmhCMVVhMXlndi9mUjRrdVdrWFRXYlg4Q1duZmxORU16cWpndTdkQmh6QzRNS1Ard240SUFCanlKZ0tBK2IvNmV3dCtaaDZBZE5ORU81NlNvZHd0QmlWZERSdzlXMUJqbkhvQWhXMmErQ0gyQVZsR21jM1BDb002amRIVTB3bGpWbEdWaERPRnFmTkxhTVJvSzNMcG1adTVFSXZIalJUS0pNMVZEc0l4RXhEZ0pTWGVBMUJQeGdnTWpNeDJjN1JhenlyWERVTHV2QjVNRm42NzZjSUtad1ZkU3pQUG9iVHJMMTdkRGxGMVhGbjVSclpDSXFtZUVsRVdqQ3ZpMkNtaUVyL1NyZmdKS3VIS0Jxcm03d3RSK2JqYTFzU3VOK0JTSnpwK2FpY1lva3pESFltZXlzOHRuK3RENUNBYVB4d0pqS3hmeW9wSlZ6NFdGOGl5TjVLbk9HaGM5WW41SHZEaENPek1iV1RpajFkZ3VMLzcydFp2MTkyNjhxUlNhNnlMZWNRb2ljZDBjakZlL2lQVnBZZ3dBOXNJb25OVjhYbDdmNWNBemVKTjgycnZxSVVoZktIWEIyaWxzYy8zclIyRllhTFBYQ3lkNkFXWVh0aUlMeFR4RUJYUy9yaXh4Tk80U1h3OGRpbzFVQ3VoM2hVZ2NDU2xWV1NURjQzQnBBSmZpbGtETXFtQzJ6QXhzeXlYd0hDTGhsK3YyOXIxT1VZK0VQQktFeHhDYzdJa3F5RHdKOG51UUUwMXFRUnBXSno5MUFtU2VZeC9ZYVVSa3pGS3Zzc2gyRm1GU2x0T2lnZk1ydjZvSGg4cWNQQUU3YTdjd2RZSi9Ia3kvSnVOV3p5SWpZVnlYNW8wVk1BM0k1cDhIWCtpeHpyL2dRWENaTTVLd3JIRm9MODBwaFg3TFJsTm0vOGxXczQ3T0YyM2QwNlc2MTZmVXZaVkJQYlpjT1dZOU1MTmJoTDhWVEhrc0lFZWcya3JzdmlkU3JKSUhuQldjYk56RlV1MnUxRnJOVU15SDNEVXB5ME9hN2M3QTBoYU9HZE5rTUREZzFHSjZhNTZRSStYNFdZMWN5SUluekZPZjM1ai92L1ZBL3l1L0N2TUNiOHYweTZURjVXVUJVY1Y4bkY1Ty82c2FENHVoTEtRcm5FazY0aTRpbVV0Wmo4emdxY3B1eFF2aHA5YkNKLytqQnBkWTJQT3FoYVJiNEpOaXRXWFhYRmUwK1JCbTVldE0yUm81dEZBN0xnV0NzUFBtdHB3Nno5MDZvVGFWR09raHVHd2RLTm5RNU81RHFKdTUrdGtYRGhNd2IyQ0YxZWh2YlNsVG9oRU91WDRQMHRMb2k3bUl3eVdpZnlJeTZxTVhIRVZNM0tsZ0VwVm9LNWw2b3Y3d2tLejJRWEU5TEFEbjgxSUU2bStqd1hUQ20xL1hnK21rSnNUQmxjRHRhY0M0c01IZ2U0SWp1R1g4ZGtJc1JOc2x0M2IyNStyTklzZmkrcUl5MTVIaGhMOWxWV1hMT0NHVFJNMFlKQVBkb0Z3K25CRGxFdGdzcFAxdDg0Rzd0MXZ0UXZ1WG81Q0tRUG5PM2ExdWF2SUUvQ1QwZ3Y0Y2J5bnpKYXhMODBiSkZZUW1NOE5RN1FGR1FncFZyLy9wRmZlMGlxWHVNMEFGWGY4OTN6akIwSFVZOW80TjBWQVhaZXlnb28vbHlpT29nSVFaYzlvUFZvSGwrZW1uaXVFaHltN3RNdnorZFhScGFZZEo1WXhZaTlGMkg3SFR3VHAvWUdHRThOeHMwejlEOERXSEZlMDRXMDJWcUltQXpzYWxHSVpjWTJCeFNzWEgwSnBOZXlYYXZ2V3oyNlorc25PS25vcHpZZmdsNm9nYytValBKZUd6S3pMb0h1dXFvY0RYZG40WUhjOUhrdlVobFBmSi9SNTdzdW5ZSjlycUo0aE5MWExTOGZnS2N1ZXdFUDVhdDNWYVRWdXQwUnEvZnkrRlZvSjV5VXNveGp6RFhlUXBPK0EvUDladjBWeERtcTYxQ0s4d1ZDbmdXWWJPdXRIRmpiM1pRRnJma3BPM0dNMmZWNmpmNytlYzFNMGdjbVBLT0hmL1pncy96Y3I4M1pidk85Sy8rYnpuOUwreThhYTBmUE9McXNTdW5jMURzamVVaWQ0djFwano4L3IxS2VsTnZOZjdLZlJBT09PWXFxV1YrZ2RaRFo5S1RkNUJERnpVVk1CUzMrcnJSRERxVzJtVjhBY1piUXRwNmRqRlNSOUJGUWhkUFBCbk0zTHlXYTJmRDdIR1dOYXhzbFhZQm1oZVJ2SGZ5L2FOWDBtVEtMd1J3TitERWo4dGlJR3NxS2QwNDJFSElXREtkOXUyeER5TlRlUWhwUmtTZC9QTWhtSGNGL0k4aHlDcU51OUxHZ25ROURvVkgvM1Z4Z0hydWRqVlliQUlXSGlLakNlWUhha2dodCtoQ1ZEVTlJTVR4RWRpWllKblFkN3Z0VlRiK1JFZXhxN1lMcjVpUkdkdkRBQzZJbTYwdnhqYkcwaTk4WnMrTXpkOGlST3dSaFJuYmc5bW1YMU9rV015VTlTWEpQNS9VZWZ1TC9ZSElkYWIvZG13RGdIRCszSEZyVGpSeXROY2hEelEwMTNUalhZNE5KSlJDUFFuVEtpL3FUcEtweU1UY2VtREJFR0gvaHkwTHdjOWdOQVArUXZuRUp1NlBmeGNURk9vYnFGclJQY0dtK2hScGZ1SXhmUTJIdUszRElBdXhxTmc1emVTdGhuN3NvUWIyak04TmN3dlpZWjdxZ1lqZzhTWTBxUStWaVBid3M3R0FSWGZZN2NvQ2o1TllpOXFLSE5PRkE5eTdya1U0bkxVS2tnRkpoalJ4Y0c0STR0S2pCODdFeFJjY0x1SENveGo4c0NpRitBdmh5VU5EOGZXd3k5WStabTNsU3ZyT24rcnpSVzFWQmxNSWxZVWY4endCclhBOEZFSFUzMzl2azFOd1pNTUt5UEFzMXcyRzlyUHJySjI5a2xvb2QvRk9MOGtnaCtad3BtTnNmOGdCdm56eFhRMTdpa3h0aE9qM2RCb3FOQmlBWjlDQ3RUTlBqSlNHS25uK3FmNkVSVHJIYloyUEd6RSszenBHV3RGUW1tdVRWaTgrK3B2Z0JURDUrWFNSTTVBL0NZVUU5a2xSUkVJV004NWVyeldHQkVLRXh0TG5US1dHM0VoN0lSd3dWalpjSmYzZ2VUNVlMZmZ1ekh5M09TbFNONGJnN1c2Z0lQWjZwb29OVllXS3BZajNEcklCMU9hanJiUXVHUlhnTTlVTHpMTHhKZ2g1VGpzRlp4dGh4M25JdHpIbk1Wdnk5WU9mM1BwdHFLZ2RQOGI2UHM4S0RvVXFla2ZjVnNNODFoYjhhQTJGd21idkc4ak9hWjRWMWV4cHlLZFJEYUFYZExkTHo2Rm55SFhwaTI1Szh4YzZEeVJybjFENFNMb1QrZ1ZoQWRDQnpXV3NLeGhQSTJUcERFaU1haEdTM1VYUmRTR1grMEhab2JYQnFyTjBEM1owRkFIVTF4TlZzVExjTkE0Vm1hamxoRHJkSlpablgxUGptdkhIbUR6TFFhZUpYV1ZGVmI0eUJoU2FtdnhpS0NRUEQ0SjVlL29jV1hsSHhtSndTd0dqM0ZUUnM0aitDcmE5akxYY1VxUG5EU0Z5aEk1VWhNNmpuODRQUzZVQlo1VlU0Z3RYU3hNNWRncG9Sd0xRK3RnaEw5VllIM0EvcytzTC84USt3T0dGUHFneHFOSlFVSk5DN3pGRVl3SDVPVFROOGdCVklBY1lvSVBxZ3JEcmxINDRnZ0pGTFdWVG5qMUV6OHMrYlkvSG9vZlZEMFNLRDJZUE1DZm5TQ2Zwb3dTY0prS3p6b1d1dGVkR0FSNTI5ckgyeFptdFNDSTJaWlV1TS9lOTJmNDJobmg2dXFSb08xUHN6QkNJbGN3VzhjWjZFQVRCVEx2ODRITlc2MW8wSnBNQkhtQWE2WkZVTENFRlUvSUhnYk9HSkwya2dscFV5ZVh0MEl3c2U1L2dkT3l2T1YrVzBpdnM0RERpekNsd1kyL1BFaFZ6MkczajdSZWJBdFA4M0kxVUxTYnFvUnkrakloMTdpc29ZRWNyT3NIUmQrNUVaMjJZRlBYWkQvcy9FVHI4WnMrcXhNK3MrcGM2OUZmNlhuSlNCWS9uVkZaK2pGT3lHbXBnbno0Rk5lK2xGaHQyNDFtL3MwdjM5Vys5cFNTb2dNb1BRQ2RyV2dZZGxVRGVSbTcvYjJ4aXVlMFFxMEtENndyeWJTZUNEMmNqNzJwNGF2UEs2OUtJVm9sd2pDaUhiMFMvWXh5SGVvaVVKc0RtTUlaNnUvNW5XdmpQMmNkMDc3V2VGYlBiZjdQeTN2YVVtWmtJU2xVY0pkcjFnZExPdU91dkJwNTYyeUpxREVsQmgvUGFRKy9KUU9qR0RmbEZGb2NwVzltVGU3ZU44Z3hBMVRVL0MyU0JETCtUbXdZR1R1VUgvVEJjRFZhek1BU2kwbG0yOGRZTVMzYWJsZkZTdk93dkFZdkUycmNxSzlmVnpzYzNlWlAxamdWQmlKdWtvdFVwUitIR1MxQkxGMGJISDNYNGVnLzZ4b0JBR1NIN2NiazBhTXhLVUdaZHYrMFd4RTVMYmMyUk5Fb2V5NGJzY1NjY2tJUTJWQkRJT2Fxakk1M2xIUlU2OVc2V2gyMHArRlZydS9MNjllUGt2RFIvVDFDQ3V1bWFuZVBUb3lmUm05Q1pMRnNYdWNTSEVjMVZlYXhzMG02WkJ2VFBrZk1hSnI3dUZqNVlBbmxmTnJBcWY4VUhHZ2p1RUt2d0V0UzNLaUMzbGs2c0tIRUVYSjZxbW5uZDQxWk9nNlhiWkNpVlJ2Sm54cjRCckFmUDBCR1lUOWZpRG1nbzVwT3p1cWM5MWE5M3Q5TnE2aVVuaXV6N3hMWnBoVHNTcm9WaE9BaENZZ3ZSWVhLWUxabTBBUkNWNUVsY25tQytNWGV2bnN3Nk1KemxFRk92RVovdTZsRnZ1cXloL1RlRFBhRklVVEYxeHc3NDAyZkliT0dqamxOUU83d0pjeWJkaWpxcGRlNTNtUDNINFdtMXBic21oSjJHUXJtaEIyYXMyeWQvZkhOaVhucm8raEN3cFlFc0lEaXB1Z1BrbW5OaXhmSk0xRU9BN2JBR001YSt1NVZCenpqVFA3d25uWTN2SFZYWlAyWlY1dGRZYVExM2VaZnNkWXRSZWRtRVVxcUVuZzIybkZvMzg2K2FtcGt0ODhjZXoxRTVwYkJ1OHArYnBMMGtlUHFqR2hKUGRnLzNDdk9DSlo2WnNFVURuQkN2RjY4UGtVNk0xWXg2OVBFNVZlYUlPZTlBTnVkQ3JZTmsrajJMZkp5Skx0ZG5kZ1c1S01wQ21WN0tLdFZaandDT3BFaXZuaTJ3SVlkcGhxbEFZdFYrbUtURHdlK3loZDFuMnptdHVOYWh3WTBWVHNZS0cybTFNb1h2cjViT2s5NllsdUFSVzZVa2xzNkx5aFVPRzlCVXNzWDhLSEd4Q01oZXRkUUR1dStGNWRpRVFTbUdlNlhNVGdJbHp1eTFZeHpQVThlWVVUQ0hkSnJhZ3FNUnNrVTRoRUxCYzJEdE16dUg4eXQvTFUxbEVnMllxejc0cWFGeFlJTUN1WjgyNEEyRzJWV2U1NnBvV09zNlBZY1h1ckxvcWk4bDFhQWl3ZHhObU8wclE1d240TFp6dnplLzhxcmw4dXpTeTFKeGR0aWFjNXVVMXRibHZWcU8vc1hsSUY5Q0VoV3AvVm4rQVR4YzJUNFRNckN4d2tIK1NUcXhZZU50QWQ1S0ptM0VLMWoyRWdyM2xPSTFoOHFJMEpWZTkxYjF6SkU1ZUxHUnQzOEFXSExDSmJrSmVWd3ArYUlTOEJUUDV5OTVjUVpUYWU3MkVINkV2ZWRLVmJBQ2pSbEo0bm5qVzU0VEtBdGpPdHF4UEdSL0h3RXl0N1hNeUlrOHBpMHJES3YxT3F2bW5zdmpJNVFEekRaRFVqSUowbCtIeXVkSTEwWEdMTWNaNGMxNTg5eEJQN0pGMzVMcG9yVTltYlg4SnZUWFlHVzRrbWJBaG0yOEIrcXAyMi9GVW9idXYzTWZxU2pKV3kyV3JBMGFzeXV3cnJOb3JiVlF0TWtEUWdnRjlKVCtSVTVhQ3lVQVV3VUwzc1hyV2U2Wm1WdGJNaTFHOU5XOG0vNDZRZzE4MnczbkpPWUhZZENCdTNQMDRpbzI3Ym9BUVh4T1dyTHQzZzZwQndhQnZXRElWNlZtUWpMR3ZBUUV6VTRuMUJSZENCdkpPQTlDTzBRV3Y5ak5jQmxrSllxaTA4ZjJERUd5cWdSR0FxVzJXTWYwSlUzNlkzUnZWd1dwcTFtK0hWUmpSeU03TkZQQjhKZHdlNDk1bHFaQ3QzRi9QSVFmOHo1TUQxbTh2YXl3c05GL3J3Y0VONWxiSlg5czhUUStXQk1IOGtvWHpBc2NicXBnR2tDTlZIR0hJaTI5YXRUdkZPR1ZHL2Z1MloraU1TekgvM1laUGREUzBqNWJ0bjFkZ25NSC8xS3FjUmZKbzJtY1VRQ3Bja200b1JYNFFBQitLemtER3BReDlFNURkN1BwcVJyaGNGdk9ESElkSXp0ODV4MWtYemJCdFJzOXhPdm5JYlhUdlB1cUN5L09aNVVaSitwVHFPbnhJUXBwbjZCNEgxMmxTbjJ5b1c0Mi9aMFlqVVlXWlloSFBEMjI2OFEwVDZxSTdpeWxNZytXRlVoZkQ1M1gyaW1BSW5oNUxVMmY3ZVlaK0lBazdCeVo3TW42aFBnWDVEbW9aQytmU0dCR1gyZVFJVlRKY3BSMXZzMGZKRHU2dnBpelV2K2xETmRYOUZvMVBqRlhXK21jeEZZTXF4RlVpWXlZaVRKRmJ5VTFOZW5pc1ZHMW1FcHl3MHd6SGlBWWJqRlR3RkNtekxXUjg0WFZQRUF4NFFNcXozeGVuSG00bm4yVTVua1orMW1LOXBCQng5YmVHempYeUx3YWRrK2lXcnhqOEp4NWtpT0pLT092ajhRbnViYW1KWDZOLy91R0VZS3IxRGpIdWpSTGVjUFB3aFVYakQvTjN3ZjBFSmM1Sjd3WUxqVGc2TmtlTUpRVlp1ZzhQcmlDUjR2VkJDRzFzWGM1RWFWZE05TFFEK043Mnhhd0VzMC96VHRTK05rNGhNSmlRN3p3Wkx5djlxaVRzU0NoelplM01qZitrOHBBOUZxNm9LeUFVazhmUlVFa3FRTktGNUJ3ci9ZdmlGTGVSL1AzYXc4VDNRRTgwN2docnJud3hLaHdiejhaN2JqdnpFa3FXWS8rVXlmTDNIaHpxOE9PWkxhZWtZcVhiTXVSRnFiV2xuMTkyL20rcnpNWDhwNkZ1d2hKT2p6Zy9taXRpZW5DdFA1UzA5YzQycG40dHUvWWRwa1NlT2dOUUZuT0RNYXUrOEdsTWdxbEJpS3drYzZiMTNreDNwL1JCK0RINFl1dG1PRnBHZTlXZlFVNHVUOHd5cDRaUFgyR05WRzY1Uk8veHVLN2hJWk5FdkJqTnFTYkhUR1NzSTJlUzIxajRvZUZnRjhQQ2xuSjJlT1NRUlY1R1pwTndFTVdWN1BqQ1RjWmdYVWFBeHZVOWRsRk9NSVBuWGM5aG5WenRZSGdTM01sTysxQlI1OHdzWjl3QldMTHNLWXJZUnZOYmwyMjlRNjVUVy8vWGw3MFBLVXFSOEl6R253RUxrUEx4OXlvT3FCVkswM2Z2d3haM2NqVUJaVTloTlI3ZDBhMG53NFlKcysxSmtWcDhBVlhockFVS3JIUDBHUDB3NXEwdU16aTB1TnFPa011WkhWZ2Y0dEtNcExUWXgrRThwQVUwaXJpS2FIdXNEZEZrOWtQSTgxVjJTdnNGMjJPZG1Xa3V4UGJObFBWNC9uZ0VBUEhYQnJjak9WcDlVWkc5NDA2QUp3SjJxTkFOamVMUTRwdml1bnlMNEh1b09kQlJGQkpKWnFKRG1rRFZyRFc2d3phUWZlUHp5Q0VXZ0xuTlk3SVhmSmhhOFZnOC85L0xzUjB1RW5BWGN0WjFVL2p6aWFDcnVnWnZWMGdZSXJXMEJUdVVxVGJZZkcvOTBUMllaWm1mKzFFSkVTWFViL3hibUgyNkFsNzhLZzI2bklDZHVDUy9vci81TG5SQlFFRHhUQWU4MUd1citWOHkrT0dZRktvSDFlVURVTm52MlluUTZYRkhmejExdU4wL2R2QU5PTHQyZlN4TkZZWHJsOEdOM2oveFJQVnpuRnFzYVVzZUlKWTJPWmJBb2RtMU00YzZRb28rUEhETXJaS2hiNnBDdkRJeVQxWjhmTXhWQkRvLzUvOE5pTzFienBxUm81alpHS2RtNi9yWk1GV3VNbTZoVGhSNnpRM2xRK1RSKzRCVzdLVXNkdjJUWkJieGxQWmxFSlVqQTlxVHpoVEhmTGZDUEJnbXNvKzlEcW4zYTNZN0pkTGxXK0Z6QUVLSTdBeTNyaUthSmlrcXBFL0NvY2dkdk8zQytTRzFMVU80UkRaUkJ5RGg5bnQwdytlVWlWT3hITCtIU2ZZSUN2Tm5oY2JaRFJEUis4UUJlSGtrWmZsNTZZY1NZVXRkcmZ2TUd0U3lPTWJ4dEFZNGhCM09ucHNlR25ubG9LQzY0dGhnMERTMVBNckZhSUtXZE9tblJtTWhvTDQ1ZEhrTTBDVmRlbFJCRkFNc3ZSTlh5ZWo1cGhmYk1wWVNTemkzdWlVb0VkaGhYakwrZnpiZGJZWUg5MzIwM2hENTAxYnhtNnp1VXRkZG94T01namtSWXl4T2IvTndrOGxueDM1ZUNsQlYwaXpDVjd4UWhJcm5pa20rUmF2YVBmT2lwSzIrRW5ZSlBISFR0TWFaT3hyR2F5U29zVElnMDdnSjZVa2l6NjkyVmtvTUxWUmg2cjdCbnNDTlBQZHN5RGxHcmV1VFc4K3ZYZVZVaFNWM3lxYVNDZlI5dGRWZnlPY1FtQzVidkN1WCswREMzeThaSUJaZ0JKRTVGUDU1VjJJQ3NCbWFtdnQ1RVduOFRnUmdtcFBNS3NwcERiWXU5cEJGQnJwY0l5U2JGd2IrQUdYK09HTGIwV253Nk1EQlpReUxhYVFrdExZSEtrTk1uZjdlUGk0MVdITnJneEdRVFNlUUFSOU5pL05FeTllekpyeXE4ZS9GUys0Z0UrMUE1OERKblpJTnpvc2xXSUdlVlR6QWVyaWhoRnA4NEF2N1dSVWRWMldLSHNQVXRUcjFudDMyZ2tLbHgrZm9JSnBpby9GMlB3WUxWVE80V21BWmhuaEUyZng4TUJWeDZxZGlEQUlBNGlBcHZRc09iUm5XQ0JPaG5NdnN2VlRCV251akovU1BhVVZzcEdIanVlYW9xUHhiMk1EM0xOV3FucXpHSzN6QWwvQURNZlZOdGlCS295K21MamRVSHljZnBRRmxZd3B1ZjdPeU9YbDd4UVBrd1N1N1NjdXB4bURyVDdDQ2IycEVjNTRRYW5FS3cwcGVhUmNpOXIvQkE1TkhCNGUwcGE3cUFZenJzdjAzaGoxcXJiSkVJZnNLNXg2dktSd3JCbVhiVjJNcEZ4Y2pWbEdicTB0cmtFbEJLdzFMSFNSVW96cDFvKzhPTUEzVWhKVS9MaHFTcXhUVHB4RlRGMUs2NUhCVm5WZlhNWmZNMGxGZjdZSmEzRFk5dTN5M2pWT1EzSWZwU2Mza2RTVDhYZ1B3WHo3eUE1d0swb0F5dUtzUFYyQmp6R3RsemNRM2UzK0g4UzVNNThWV0ZKbGZBVllLRHQraGRKbXN0eWgrcHdTVnRGYitxRXdPVzZFVjRiRE9mMTZpNU5TZmtvWm9JeXlSbGdRNWZzbThsL1hBUW5xYndQQXFnMy9QMkFLZG9VOWFBZmZMYUYvMUV4MXlnQlpjMk9nenFhV1BCUFNPR0Y0Zm0wVzIxRno5MkI1dVdMM0plTUl3djloZ3B0UkFkNWlDb0ZWYkg0YU02aTFKdk91MExGTHVmQ2orelp1NXVOWjdnSTMyVHBNL09YaUQvUEV3VEp2dGxxWTA5Rlh0WTU5aHNkMFJibW5IeUhBMUtDTlpveTdvNVRsMnc3emxDZXpBSHlRTHhRT2orMFVmZ2VsYXd6b2VPT3ZldFpiY2cwYWpvQk1OSVZ6eG96M0NteUN5SmdvN2Z0dmZBRnI4cWgxN3ptNDUvek83ZFN4UzNTOG5yZVhEbEloR1o3eHh0QjJveEx5eERlcFoyR0dKenNhQmd2QzhzRzBYWlM5QzBDdGJNNzlsdjZLZVg3R25TUEZKTGljMXdFTm55a2NZelV2cUZlUXJ2aWJDQ3JMSkVnN0lZWlczeStzeHFJZHVqUXl5SjFhbjltd2Z3RzhHVFdSekZ2M0JVeWVLMk1oc00vSjA5M1JPNk95RnI4QzBpTDZiT1BWMFpHOW85ZWJwWVF0MWxSRmRXaXpneDVvZXFmN2xpdXdpL1FtcmtMcmRlbXpMZUhyUmNHcGQyK0FYNyt3N3N5aGtXTzNRSXd5cGRjRDZmU1EzbXY4YnFuUVViblZPdGNEcFpqb09mVmc1RFZoamZBOGJ3cHZadmVoRUhsSVBIMkNFTzA4c09XTDVqNFQ0a0JmUHpGZnpBYnFFUmtYS1k3K2JxUEMzS0xtUlVuMElqZXF6YUpXRXdGZjBrd3daVlNKM2o4c2hNZzc5aG11MmJXV0VPaXN5S1JsZ2FreGg4Vyt5ZGJIaTlncER5WGxxVGkzbmRrTkV1d0hTYWVNT29JbzBZaXNlcFdHWDdnT2R6dTVIQURTaWdzdjhXUU9ialdKOUZBeHd6aTZKK2ZQKzFHUjRzTFc1U2U4OGhaUlBEM2lITFNqbWlQTkVDRFh5U0FOdVZsTzY2K3VRWDZiV1F2N0RCZ29iV1dVVDhUT2NUTWZkR21TTzBEYTFiZ2tmK0t5S3VXcG5mR0FSclJNZG5vYS9tUUxwQytGUFJqblF3cXhIRkdkS1E4NDV5NWZRMzRIdUNwNDRsNUh0SXoxenRybGtvT1dRT1FtNHRHOFFCM09Dd1l6ZE1zY3J6MVpTRlVhMkVGa2VMU2pQRDNTY1VDZVJobysxOGNFWERWWXJKTVFMcUMrWmM2NkpjbE5udkdUVHVrdDQ3WXp4a0xkR1pRdnJFQ0h2Rjh0NEx4dUlCbE40RTVKZi9mSlBpcDVsbVp4NHFEWkhlQzBOa2poUHpzc20xZ3B1VEd0cGovR2ZnOFBlSDh5SEhRekRNbnAwWTRmZ3R0a0JZYXZJdGZ5bVhvOGtaa0JNTTBVREgwY296eHAveFpsZTl4MmhVSkdTNnVRZ0YwMXM1QUlOc1RrekNJa0lEUC9MQmwvOFVpUGxsTkFQZEpRTmVhdWFyN1RVOE00Vy9iRUdVMUlBTTZPRW5ZVHA0VHJ5azV4NWZGMDdjZXRBSldrYUZUZmgxYWRxOWJSeUFNVEFJSEcxREZrbnIwbmltTjBDMFdBZWdiOEhLZmRSWkxKbTFiZ0tCcHhRLzlnTU5Ja0ZSMzNVbDVkWDBTbG9zRndzaHhLcmFraFFrUVc1bmNpQ0dNemQ0cGhGNy9PaEw0UCtnaXhPNS83aEl2RUlIMGNRMjdGMHU0dlZKTEZRR1JCdWp5bDd5cVpTWm9qQmZDa0ZOTGR5LzlpZlhMSkFxb0ZhL2pmZXN0eGF6UGp3VjIzRUFhMk1Bc2Zpc3hPRDRxOGZpdGthaGI1VHpUN3BRNXowRFNuWGtyaGNwbmlSbmpZc2duRWo4MGRzYUhHZWI4STFFaEwvT1Rrbm9PN0d0VGZFRXB1d0JnR2tvaWp5MDI5T0JRWE5KMy9WQ2cvUjIxbTBTN054WTdxaHBaTVZwS3ZCMEdXZks5SjQwVmZDeUVNZjlnR25ZWHVvZFg4c2J5dU91cGJoajhuMU9aQkViVWE1K1Q3aU5GeVN6aVBNYk5MTjJ4bldTR1ZVeEV3b2ZYWHYySEhnaytEMkdab3grWXNPZkYxR2hzZlJaTG43RkpuLzF0clBRL3FsT1p4eFNaSnJZUXg4NFhuNXdJVWs4T0FjbnBzMFRVaGxJQzVUSGFKK013UjhncnlTeTJsUlhnVlVlK1FNaGFhMmthV0VFYWg0T0Frc2lTNEF5N01lSE5JbW9HM1JRLytURWRvZE1Pd2FSRlgxRjUzTFpVdUJoYVFmYTU4SXVWVm9DVGVLUndtR3ROdElnRnBRRjRqU0s3Smp0ZHlGeDNneGlMVnJ4dXZCN3g3SU5HU3o2VjMrSjFhMG80MG41RFA1SXZqOGF4VzhFdncveUh3ZlRzdjlQTGlTRDNDRzcrdkhqUllPYU9jQ3VOTzNLVW8wYjdaaGcyNEQyV2NrMXdPc0JWTDFOZXNKQWpEdjFQYU03eHRJS25udUs0c0t5ZjBuN0M0aHJvdXF4aVZDMndVaFFlUThTVGdPa29UaDB6dTdZRGhEL0pxbXhIWEdjUEQza2V2NFhDZlVqQWRkTGpNT3dTU3lhVmNSVFlZVjZWVlJId09qSmRaaWJnbXlMSHYvOWpSaHp0UXRQVVpWbHJSRlZtK2xiNWU4VVI5aDBuY1pNUUxRcVdOUmJ0UGhUM1NxcVVuQnA4T2NOSmhFSVB1UUJacGFkRENtb0JicFF2cTdwdHloLy9KVjBOd2d3MW9LaFRlUkFwMFZ0U2I3TlhjWVBhYkdTYlRab2pBWTg4TTFtV01BRXJwNkoySFg3SEhhbzdZNWVSOUdHdVpCSlIzTm90ZnRTZEIxYXJlZzQ3cWVVVElNK1BTQTRTV3QybTROaDkySGNKM0QvanhlOXA2RXFTN2pkbmRscUI0TmVJSUNQNk01SS9TREtIWUtjblNFWGxHV1FZcVBlMXBvRytrbGxrS0Q4clh0a08rdHUveGJQbVhtaW1PSHhNWWl1TjMwQUtwRFhSRDdnanJXWEZ1SEFycFdQYStOS0xMNC9XbXFNYVFabi9GUEJSek90azhsRkhrK0Jvakt2T0RubGJ2R2xpNm9sOGh2UCtidldJQjlLTDFzU2xuU3AxZlRRK1RBdjBSbHowMmE5ckh6MzJmSmdDeEM4ZjB6Zkh2NGJONERlTTlQSFREbEc4S3lKWi8zSFpVclJpbldYZWFrWFpBZzVpcGxXUUVxN29yLzZjZ1ZjMG15eEtGVmNvVjNOb0RIWVd5SmM1bmJjT0g2RnRRRlBHQ1E2eVhZZWRFcHNtaW5yTmN3bXM2M1dRK3pwV1A4enhKcGNhMUtVL3krTXlHVXB1UTE2RFFqVitzWGUzNThYQ1A3azdLZmVzT2JYZU85OVY2R0RJelJvV0J2YzVIN1dUcmZpaTdhOGNrc1E3SkVqaXhaNkhjYVdXLzBqN1lWOE1DVkZDM2N6cGo1dThSeUlObk1RY2xxM1BWOUJhc1JnV3ZOamJ0Nkc0NG9MKy9OUGdOMGxxdWtZVUJKbG52cG1VVlp3eHpRdmRVWDNVUW9SeGo1QzBiYlduQzN0eFRVUHpwYkQzZE00VjY0YW53QXU3dkwyU2I3a3oySVU1STBwdlVWTUJvT3FmWi9WWjdiLzBTY3YyS0dVQVV3WVVMMmRkZ0NySkM5cmR3K1JiN2VpdCtGZjljeU5zTEJUbnFua0ZHMjRML0FKaVUrQ01oUlpFdjhYK1NLQ2tPQWZyak1XU3M0UUM4RHh3THBIM1Z4SkdBd0dIUVJSQmM5ZHdJRlkrMU1MNDU4czQxcGRPZTU5TkZSWWZzSnQ1Mm45Q0U3djB3U0t2bmRWYTMzZWVhRXV3UFl1SDZTbExocFFYdk1XODk5S2FLTHI2c3h1cEg2SGlxNmpzZ3ZWenRQQXloYUZTQlRkVTRZN242UUxXTUxMZSszOXdUalJGVVF1S0VRZGJMWDdVMzJiTjZDbUlOY1hZQWZCcnVNZVpMSFpaRG1YTXcwck1NVWNnSVZXOFZ1eEs3dGk1ZG8yZnZRejZDaFZ6aERtRUxJUlJvSmdpNEs2ZVZrcHRNaWVSWHd0RU9Vd1hoSGlubVJwQ1FrdVVHWnVMSzR2Y1hQZldNdlQwa3oxdTFEMXMvZW8vaURRN3lHVmxUVEp2ZHkzYkhpT2FnWER4Z3VIcVBwWjIyWW9OV0NGYjVOWktyWXdWR3graWJKQmVqVzZTeUVBTmI2eWhFd2VxUk1tR0dwUlFVNG0rY0RXaktFRGJhcWM0VUErajllQnVtelppVFZ6bzZad296bnJDYTdDeWEvcS81SzBpSkFUejY1WmVieEFxRnNUZDVKUXVVTWh6V1ZiRXZyWjFiQTg1UWhlOXZOVVZ1eHBxUGVDRzVEczVlQlFBS0NlQ3hPb1h1a2ljQTRoVS9EMVo5bDdzUFRERjBFdEFGd3lkMVYxYjdvL0xMeVFVNUFjNEIzM0hIYTY5bWtGclRqTDhIUlE2eDhqaTVlMWw0YnVGRHdiWTRjNjJUZlBKYUFscWl6ZERVc2RiVTVWYm9adUo2QTY0OWhtWlJHazV3VlAyWUZvRmI2MlRjdHEzWnpTUjBvdWJka3ZkUGd4QVBsRi9OU3JTMG45c1RwMnZBVGg1SU0zSjB5NEFWeWVxOW1NSVVubThFUkxoNVVXbTZsbk9RMVdUanVPUnhFSmlaSyt6V3lnVXRKRWJ0M2tDdXZ5SmJlbHp3blAyMWhsN294MEtFVnFFV3hjZjdCbEsvZzFqY0hXell3SlUxMmJVZ2RrK1lSck9SODdnWklQUCsvV3l6UHJJbnBYVlMxdldYMHcyR3daV0lMayswbmlFdm85VTRCbHZXdzFYK1lsKzB1RW43STBEUkZDZ1RJZmNMYnlPSjMwdVBjTVdRZ2hPTXgxVEV2N3dxK3QzK1JKNUNWQUsreUZaK3ArR3ZHdmhLVUluREo2U2x6NDIrN1Z5aE9TSTU2cFpiUUd1cWlOOWhlMG5OMHRVanZPSnU1ZlJkeC8rY1NtWVVFZkxqcGFxL0JuWUl2aHhnTWVOeklDMW5GajBibFFlZUk1QXRYeENtaWdrQkdZRUNSMng2aUE0bEZDWkU4bEp0aFN3YUNJdndlRC8xSmk4NFg4RnRCWExkTDZaOHJuYkU1VmZISFFZN1Qvd3ZWVmtqQXB0M1dpMzdNa2VrNkh5d0hyaVJsTlRGYmNjQzRQL05Nc2JuVVBCQmw3NXRkeVArTUQ4RXhCazY0ZEVkQmZmV0dzdkhJK0JIckw5U3VrUElrTElSemxVV0hZUXlaS1lhaFQ2VFFldFQrZW5JM2t6R0JrRUsweWFNQWZCVmFzTTZqNG5UOEJlYkpFcnBBRWtERUpHbW9GRWxYdnRxUkVWWkc5MkpBbVA0TkxvSGtIYzZSUE12cjd0VmNzT3h4SFRSeUFXQlRTYXk3cWhhMHg1UzR6RnRnZmpPOVJxTFNsdlg0eldlTjllNmZSMW9ZQjg2bmFyVThBUnFETDBKdlkrZ3NFaitJKzcwSzB4dWZSY3BFVTFRU1VHb1hXb0xoNWVtSTZLU25GeHFnQjJWQWdrQlR6b1pXYnNNK2VnZEFGT3VqVHp1amtDM2crZDB2VXVneDl0MnI3UGtsQWhBby9kVVBtUk5iOTVoN3RsTE5Mc2dJVVRZWFkxTnlBTjJ2YisyVjdQdkhUdlo1M3pCSldHMlNndEtMQTdlWDNpR2pZQTRxUGw1dlNNTXF4Z3k2djNCSkRCNGVlOVNmdk03ZllwNjdiOFUzb0pZMU91ZHZRci9KWmEyMDU0Y0tBdkVuU1lnZmkySVVPaTZrR2x5eTJuWkpkZWdpT3FVY2ZFcWR4SDJRbEhCY2l2a01xNC9tKzRXK3haVVBCM3BOTGJ6UnFsRzFGTENpMVJhOWQ0WEV4MGJFb3EzZ1NJclU3cjhueTdWNWlBUU1IYk1wenRxMzhVdTRhcG9sZUdKWmRqMXBFOWZUNnRBZ2ZxS1V2ajk0M2FjMk5UejFkQU1pVmI3dEgwcHQ5N0IwdnA1MTkrY05NNVJUSXFoMnBpMlVNanNhNjVndklVb2ZLT2FVemZUSGNtcW4wZUtPYWpLcHhjU3ZTR0pBcWY0N0FTTW1XUUpLblNlNGxKaDRrWVhyaFgxaTJNVnNKNllSR3htT2R6ZldQNDludDFFYldaWG4rWUJkUWN6Z1gzMmx4V3FHbjU3Rks1QUJWNFFJV1dXZS94K3pxRGNkcGJ5YjlHRzBVRHorQ280S2VGWWJMK3MwZFFyam0rUmhRRTJObU1Eb2dIblY5K0hETGtvK3JJNlFXNU5OeEtuZEVnMUJsTWQzT0Zja1VheFJhTkFTVVJsYUU2em5SMTBvNWxhOVZjWmZEZjRnWi8wN3dKNVg4M29sRnJqZ2xvakJVLzAwK3llMmdZbzRid2dxL2N5cGdsdDFOTjdmNElCdkNJcG5qN0hJYkxMZDduT2JiZm9SVkIyZUdZNWpUN3pYcE1pUEhGZHhpdG1udHpMT3BaSkNYSFpkanQra3dSV0hQazNLSEFka1UyOEFydkplQzFGbWhOMDZpYVR2cUJtU2NJK2lGSFlWbStxVDdPZ29ncHNXdkMwcnRUQXU5TXdpaG5YMkU5VmFoeGtoaFlPak1KR3pSeVhMSDN3b05iTUZSZi9GbXNvOHNVRmt6MnV1NFBmZHFmWDAwT3VxUjFxSU5zWUUwOHgweDVUeEdFUENIQjJrbW9IVlE5TXBWei93UWxtVTFnMzJIUXllOHFtOFEyK08xbUgvR0wzelNBNWNnN3NLSzhGMzh0WTE4MkQ3QXhXMUxPUFFVY2l5MnFibmdWemErREtqaUV0Qm1aNk8wZHU3RHk0RlI1ZlN0YmluV0w2dVJNVDhCczMzaEpneTFIMGd3WmhuT2IwaGFNK0xUeEZhblA2R2F0MEFWTThrenR2Zi8rOCtnTkNQdmhEVWF1MmJnWXAyZERkQWR3eDlkSXo5Y0JUUDBhdVRyL2d0RkczS2JubjlXazVscGNWT2M4L0lqRzRMN1dPOGUzcE9RWEFNQXFqMUFZZldlYlp1QnBHMHRrWGd2Rlo4emV3NVdRd1NBaGNRN3d4SUZ0OGZoMXltOEZqdEF1cHgxK1VPc3RkUjUrOE5kcG9tSzRsdnlNQVhKdXJtV3lLL1JXVzNwaHpvc3UrNElTb0FHSy9DcTNKTEZEanZpa08rQWpiZzZvdzVLTGg4WU1SR2FnUmV1NEpqV2pLYU9DVjlsN0cyR0JKMjFYUTlzN01yT1ZmcVZMcjRMZWdEcGFqSEFvUCtRMnM4clBVUW9uVTJKQjRMOUxPcUxIUVpIdzdmcTJmUDJNdkd3RzVxTjlOWGdpSU5yLy81anEzVWhyUnVkdWVhK2xWNndyUlRPWlZ3Q2RkczFib2lCL2Zrb2hacnRVdmFkekxSRkJCelFzUnZtdkhxT09XeFQ4RGFZU0JPL3dyM0pVcUxGTnVTRDhZUi83OGpSUFpaQVRFd0I3b2p2NmZ3ZGhtNkRGU0dzNzVOY1dFamhCeCszSFBDclM3TzIrd2piOEk3SDZieHhWK1QwSlFGd2dIQXk1dG5pVUZQdzh4UlNBKzhmRmdVQU5FMmY3Z053YmJadzlNTjFnUGgvZlJHSVAyemtsOTNCUUlWVE50SzBBQWtRZWhPa2h6UHRKY2R2V2phZDhZYzRud3UxZDZ6K1hZZ2VBYUp6aHgxaGZSMHFlWkVNV3AwVDlra2FNcTJDOG1TRzZQbUR0NndnNjYrZFNzdENjYzlVUEJkVzQ3OUlDMXZEK1h4THRnMFNDQVBURndSSWZYZmFsQjdCempIT09vK2s1UEhuc1RwUEV4dEFPMGVDd3NPaHViSGdBT05USmpNSFJWc21NOWdxK0xBaUVTMFhzQWZjVkJqSC9aNDZkeE0zS2s1RzFpNWZqSjRxSEs3Qjl6R0tlT2thbHBmYy9aMDRqWVh0VEdER202Ni8wS2ZWVGQ2RW9mRmZnZkxGZEljdlhOZklRa0JHMkVuYXBzTzNJMU1aSU04SDFudEd1MXRNbjZmUFRoR21DUWxKcU5DRXcrbWRVVzR6czAvaWVxRGhuQXdvZ3I1SXkrV0JDTDA3SGhhb093Y3Y3UlFSTGxFZjBKb3pnUUdpY290cW1LeTlTcW5ibGhWK1dTRGxCczNpa0VjRXJBM1B1VVpHSDBFWFkzTStjeEV3ZmhUenc1V2xKY09OcjhlRDY2NjFsdWpaelpGcFZqQ2h3WnlOSHNNQlB0QXgvU2tIK0xpcFVjTFFmdHdTelU5T0NGcC81aitCSWFaZExZNFNrNnJONUFhVVcwVFVhMHRuM0hxMm5JTEtUdFNDd0NLOUZXVnI1eG93dGVIREJzS0FiVi92K0NENG9VTU1nak1RTDdWd01rU2NVcEN5VHE0TENsZVFWSmQvaytrc1ZZZi9WcFZDc1hZVjRGeU5Gd3N0YTVLdTJyM09VemRBRmx3c29nUFJaenVwTTRLdU05Rm1WY2Ria2JEdGYwVHNwb0JzYVFHT3U1SkRudmZZcnI2Szk3MndIMUwveURvWXJTeVBoaGE5Q0hVc051ZHpOVGFFT1ZUQ0hNbit0Tk9weWFtSUhyRSs0OXpKVkJ4ZUlQejIxMjFzYUlaSzRtSTd2empteUIvbm9hd0VNandxNVMvNXV5dFo4d0tBN1JOdC9hYmszeEZJTWkrNittZTFsUU1pN081QkVZQ01ZdUFDYzBCQlI5a0dMcjJmS0NVK2xuVnFOTVNxTHRwaG03NitjWHJ3NWRqVjhLWjQ0L2MxZ3lkNzNNMFl4MG5wT2ZnYmFVZjd3WldmeFBNU3g4TlJuZ2c5WTNwZWNjZmp3bk5GQnlIczJrQmdJSkJZbDhFM0hnWkNnPT0iLCJtYWMiOiI2MmI2NGUwODkwODBhNjdmNTMwOTM2NjgzYjYwNGY5OGE3NDUyZGQwMTJmMzc1OWUzYTFhM2E5ODAyNzkzZGM0IiwidGFnIjoiIn0=
+/**
+ * jquery-circle-progress - jQuery Plugin to draw animated circular progress bars:
+ * {@link http://kottenator.github.io/jquery-circle-progress/}
+ *
+ * @author Rostyslav Bryzgunov <kottenator@gmail.com>
+ * @version 1.2.2
+ * @licence MIT
+ * @preserve
+ */
+// UMD factory - https://github.com/umdjs/umd/blob/d31bb6ee7098715e019f52bdfe27b3e4bfd2b97e/templates/jqueryPlugin.js
+// Uses AMD, CommonJS or browser globals to create a jQuery plugin.
+(function(factory) {
+  if (typeof define === 'function' && define.amd) {
+    // AMD - register as an anonymous module
+    define(['jquery'], factory);
+  } else if (typeof module === 'object' && module.exports) {
+    // Node/CommonJS
+    var $ = require('jquery');
+    factory($);
+    module.exports = $;
+  } else {
+    // Browser globals
+    factory(jQuery);
+  }
+})(function($) {
+  /**
+   * Inner implementation of the circle progress bar.
+   * The class is not exposed _yet_ but you can create an instance through jQuery method call.
+   *
+   * @param {object} config - You can customize any class member (property or method).
+   * @class
+   * @alias CircleProgress
+   */
+  function CircleProgress(config) {
+    this.init(config);
+  }
+
+  CircleProgress.prototype = {
+    //--------------------------------------- public options ---------------------------------------
+    /**
+     * This is the only required option. It should be from `0.0` to `1.0`.
+     * @type {number}
+     * @default 0.0
+     */
+    value: 0.0,
+
+    /**
+     * Size of the canvas in pixels.
+     * It's a square so we need only one dimension.
+     * @type {number}
+     * @default 100.0
+     */
+    size: 100.0,
+
+    /**
+     * Initial angle for `0.0` value in radians.
+     * @type {number}
+     * @default -Math.PI
+     */
+    startAngle: -Math.PI,
+
+    /**
+     * Width of the arc in pixels.
+     * If it's `'auto'` - the value is calculated as `[this.size]{@link CircleProgress#size} / 14`.
+     * @type {number|string}
+     * @default 'auto'
+     */
+    thickness: 'auto',
+
+    /**
+     * Fill of the arc. You may set it to:
+     *
+     *   - solid color:
+     *     - `'#3aeabb'`
+     *     - `{ color: '#3aeabb' }`
+     *     - `{ color: 'rgba(255, 255, 255, .3)' }`
+     *   - linear gradient _(left to right)_:
+     *     - `{ gradient: ['#3aeabb', '#fdd250'], gradientAngle: Math.PI / 4 }`
+     *     - `{ gradient: ['red', 'green', 'blue'], gradientDirection: [x0, y0, x1, y1] }`
+     *     - `{ gradient: [["red", .2], ["green", .3], ["blue", .8]] }`
+     *   - image:
+     *     - `{ image: 'http://i.imgur.com/pT0i89v.png' }`
+     *     - `{ image: imageObject }`
+     *     - `{ color: 'lime', image: 'http://i.imgur.com/pT0i89v.png' }` -
+     *       color displayed until the image is loaded
+     *
+     * @default {gradient: ['#3aeabb', '#fdd250']}
+     */
+    fill: {
+      gradient: ['#3aeabb', '#fdd250']
+    },
+
+    /**
+     * Color of the "empty" arc. Only a color fill supported by now.
+     * @type {string}
+     * @default 'rgba(0, 0, 0, .1)'
+     */
+    emptyFill: 'rgba(0, 0, 0, .1)',
+
+    /**
+     * jQuery Animation config.
+     * You can pass `false` to disable the animation.
+     * @see http://api.jquery.com/animate/
+     * @type {object|boolean}
+     * @default {duration: 1200, easing: 'circleProgressEasing'}
+     */
+    animation: {
+      duration: 1200,
+      easing: 'circleProgressEasing'
+    },
+
+    /**
+     * Default animation starts at `0.0` and ends at specified `value`. Let's call this _direct animation_.
+     * If you want to make _reversed animation_ - set `animationStartValue: 1.0`.
+     * Also you may specify any other value from `0.0` to `1.0`.
+     * @type {number}
+     * @default 0.0
+     */
+    animationStartValue: 0.0,
+
+    /**
+     * Reverse animation and arc draw.
+     * By default, the arc is filled from `0.0` to `value`, _clockwise_.
+     * With `reverse: true` the arc is filled from `1.0` to `value`, _counter-clockwise_.
+     * @type {boolean}
+     * @default false
+     */
+    reverse: false,
+
+    /**
+     * Arc line cap: `'butt'`, `'round'` or `'square'` -
+     * [read more]{@link https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D.lineCap}.
+     * @type {string}
+     * @default 'butt'
+     */
+    lineCap: 'butt',
+
+    /**
+     * Canvas insertion mode: append or prepend it into the parent element?
+     * @type {string}
+     * @default 'prepend'
+     */
+    insertMode: 'prepend',
+
+    //------------------------------ protected properties and methods ------------------------------
+    /**
+     * Link to {@link CircleProgress} constructor.
+     * @protected
+     */
+    constructor: CircleProgress,
+
+    /**
+     * Container element. Should be passed into constructor config.
+     * @protected
+     * @type {jQuery}
+     */
+    el: null,
+
+    /**
+     * Canvas element. Automatically generated and prepended to [this.el]{@link CircleProgress#el}.
+     * @protected
+     * @type {HTMLCanvasElement}
+     */
+    canvas: null,
+
+    /**
+     * 2D-context of [this.canvas]{@link CircleProgress#canvas}.
+     * @protected
+     * @type {CanvasRenderingContext2D}
+     */
+    ctx: null,
+
+    /**
+     * Radius of the outer circle. Automatically calculated as `[this.size]{@link CircleProgress#size} / 2`.
+     * @protected
+     * @type {number}
+     */
+    radius: 0.0,
+
+    /**
+     * Fill of the main arc. Automatically calculated, depending on [this.fill]{@link CircleProgress#fill} option.
+     * @protected
+     * @type {string|CanvasGradient|CanvasPattern}
+     */
+    arcFill: null,
+
+    /**
+     * Last rendered frame value.
+     * @protected
+     * @type {number}
+     */
+    lastFrameValue: 0.0,
+
+    /**
+     * Init/re-init the widget.
+     *
+     * Throws a jQuery event:
+     *
+     * - `circle-inited(jqEvent)`
+     *
+     * @param {object} config - You can customize any class member (property or method).
+     */
+    init: function(config) {
+      $.extend(this, config);
+      this.radius = this.size / 2;
+      this.initWidget();
+      this.initFill();
+      this.draw();
+      this.el.trigger('circle-inited');
+    },
+
+    /**
+     * Initialize `<canvas>`.
+     * @protected
+     */
+    initWidget: function() {
+      if (!this.canvas)
+        this.canvas = $('<canvas>')[this.insertMode == 'prepend' ? 'prependTo' : 'appendTo'](this.el)[0];
+
+      var canvas = this.canvas;
+      canvas.width = this.size;
+      canvas.height = this.size;
+      this.ctx = canvas.getContext('2d');
+
+      if (window.devicePixelRatio > 1) {
+        var scaleBy = window.devicePixelRatio;
+        canvas.style.width = canvas.style.height = this.size + 'px';
+        canvas.width = canvas.height = this.size * scaleBy;
+        this.ctx.scale(scaleBy, scaleBy);
+      }
+    },
+
+    /**
+     * This method sets [this.arcFill]{@link CircleProgress#arcFill}.
+     * It could do this async (on image load).
+     * @protected
+     */
+    initFill: function() {
+      var self = this,
+        fill = this.fill,
+        ctx = this.ctx,
+        size = this.size;
+
+      if (!fill)
+        throw Error("The fill is not specified!");
+
+      if (typeof fill == 'string')
+        fill = {color: fill};
+
+      if (fill.color)
+        this.arcFill = fill.color;
+
+      if (fill.gradient) {
+        var gr = fill.gradient;
+
+        if (gr.length == 1) {
+          this.arcFill = gr[0];
+        } else if (gr.length > 1) {
+          var ga = fill.gradientAngle || 0, // gradient direction angle; 0 by default
+            gd = fill.gradientDirection || [
+                size / 2 * (1 - Math.cos(ga)), // x0
+                size / 2 * (1 + Math.sin(ga)), // y0
+                size / 2 * (1 + Math.cos(ga)), // x1
+                size / 2 * (1 - Math.sin(ga))  // y1
+              ];
+
+          var lg = ctx.createLinearGradient.apply(ctx, gd);
+
+          for (var i = 0; i < gr.length; i++) {
+            var color = gr[i],
+              pos = i / (gr.length - 1);
+
+            if ($.isArray(color)) {
+              pos = color[1];
+              color = color[0];
+            }
+
+            lg.addColorStop(pos, color);
+          }
+
+          this.arcFill = lg;
+        }
+      }
+
+      if (fill.image) {
+        var img;
+
+        if (fill.image instanceof Image) {
+          img = fill.image;
+        } else {
+          img = new Image();
+          img.src = fill.image;
+        }
+
+        if (img.complete)
+          setImageFill();
+        else
+          img.onload = setImageFill;
+      }
+
+      function setImageFill() {
+        var bg = $('<canvas>')[0];
+        bg.width = self.size;
+        bg.height = self.size;
+        bg.getContext('2d').drawImage(img, 0, 0, size, size);
+        self.arcFill = self.ctx.createPattern(bg, 'no-repeat');
+        self.drawFrame(self.lastFrameValue);
+      }
+    },
+
+    /**
+     * Draw the circle.
+     * @protected
+     */
+    draw: function() {
+      if (this.animation)
+        this.drawAnimated(this.value);
+      else
+        this.drawFrame(this.value);
+    },
+
+    /**
+     * Draw a single animation frame.
+     * @protected
+     * @param {number} v - Frame value.
+     */
+    drawFrame: function(v) {
+      this.lastFrameValue = v;
+      this.ctx.clearRect(0, 0, this.size, this.size);
+      this.drawEmptyArc(v);
+      this.drawArc(v);
+    },
+
+    /**
+     * Draw the arc (part of the circle).
+     * @protected
+     * @param {number} v - Frame value.
+     */
+    drawArc: function(v) {
+      if (v === 0)
+        return;
+
+      var ctx = this.ctx,
+        r = this.radius,
+        t = this.getThickness(),
+        a = this.startAngle;
+
+      ctx.save();
+      ctx.beginPath();
+
+      if (!this.reverse) {
+        ctx.arc(r, r, r - t / 2, a, a + Math.PI * 2 * v);
+      } else {
+        ctx.arc(r, r, r - t / 2, a - Math.PI * 2 * v, a);
+      }
+
+      ctx.lineWidth = t;
+      ctx.lineCap = this.lineCap;
+      ctx.strokeStyle = this.arcFill;
+      ctx.stroke();
+      ctx.restore();
+    },
+
+    /**
+     * Draw the _empty (background)_ arc (part of the circle).
+     * @protected
+     * @param {number} v - Frame value.
+     */
+    drawEmptyArc: function(v) {
+      var ctx = this.ctx,
+        r = this.radius,
+        t = this.getThickness(),
+        a = this.startAngle;
+
+      if (v < 1) {
+        ctx.save();
+        ctx.beginPath();
+
+        if (v <= 0) {
+          ctx.arc(r, r, r - t / 2, 0, Math.PI * 2);
+        } else {
+          if (!this.reverse) {
+            ctx.arc(r, r, r - t / 2, a + Math.PI * 2 * v, a);
+          } else {
+            ctx.arc(r, r, r - t / 2, a, a - Math.PI * 2 * v);
+          }
+        }
+
+        ctx.lineWidth = t;
+        ctx.strokeStyle = this.emptyFill;
+        ctx.stroke();
+        ctx.restore();
+      }
+    },
+
+    /**
+     * Animate the progress bar.
+     *
+     * Throws 3 jQuery events:
+     *
+     * - `circle-animation-start(jqEvent)`
+     * - `circle-animation-progress(jqEvent, animationProgress, stepValue)` - multiple event
+     *   animationProgress: from `0.0` to `1.0`; stepValue: from `0.0` to `value`
+     * - `circle-animation-end(jqEvent)`
+     *
+     * @protected
+     * @param {number} v - Final value.
+     */
+    drawAnimated: function(v) {
+      var self = this,
+        el = this.el,
+        canvas = $(this.canvas);
+
+      // stop previous animation before new "start" event is triggered
+      canvas.stop(true, false);
+      el.trigger('circle-animation-start');
+
+      canvas
+        .css({animationProgress: 0})
+        .animate({animationProgress: 1}, $.extend({}, this.animation, {
+          step: function(animationProgress) {
+            var stepValue = self.animationStartValue * (1 - animationProgress) + v * animationProgress;
+            self.drawFrame(stepValue);
+            el.trigger('circle-animation-progress', [animationProgress, stepValue]);
+          }
+        }))
+        .promise()
+        .always(function() {
+          // trigger on both successful & failure animation end
+          el.trigger('circle-animation-end');
+        });
+    },
+
+    /**
+     * Get the circle thickness.
+     * @see CircleProgress#thickness
+     * @protected
+     * @returns {number}
+     */
+    getThickness: function() {
+      return $.isNumeric(this.thickness) ? this.thickness : this.size / 14;
+    },
+
+    /**
+     * Get current value.
+     * @protected
+     * @return {number}
+     */
+    getValue: function() {
+      return this.value;
+    },
+
+    /**
+     * Set current value (with smooth animation transition).
+     * @protected
+     * @param {number} newValue
+     */
+    setValue: function(newValue) {
+      if (this.animation)
+        this.animationStartValue = this.lastFrameValue;
+      this.value = newValue;
+      this.draw();
+    }
+  };
+
+  //----------------------------------- Initiating jQuery plugin -----------------------------------
+  $.circleProgress = {
+    // Default options (you may override them)
+    defaults: CircleProgress.prototype
+  };
+
+  // ease-in-out-cubic
+  $.easing.circleProgressEasing = function(x) {
+    if (x < 0.5) {
+      x = 2 * x;
+      return 0.5 * x * x * x;
+    } else {
+      x = 2 - 2 * x;
+      return 1 - 0.5 * x * x * x;
+    }
+  };
+
+  /**
+   * Creates an instance of {@link CircleProgress}.
+   * Produces [init event]{@link CircleProgress#init} and [animation events]{@link CircleProgress#drawAnimated}.
+   *
+   * @param {object} [configOrCommand] - Config object or command name.
+   *
+   * Config example (you can specify any {@link CircleProgress} property):
+   *
+   * ```js
+   * { value: 0.75, size: 50, animation: false }
+   * ```
+   *
+   * Commands:
+   *
+   * ```js
+   * el.circleProgress('widget'); // get the <canvas>
+   * el.circleProgress('value'); // get the value
+   * el.circleProgress('value', newValue); // update the value
+   * el.circleProgress('redraw'); // redraw the circle
+   * el.circleProgress(); // the same as 'redraw'
+   * ```
+   *
+   * @param {string} [commandArgument] - Some commands (like `'value'`) may require an argument.
+   * @see CircleProgress
+   * @alias "$(...).circleProgress"
+   */
+  $.fn.circleProgress = function(configOrCommand, commandArgument) {
+    var dataName = 'circle-progress',
+      firstInstance = this.data(dataName);
+
+    if (configOrCommand == 'widget') {
+      if (!firstInstance)
+        throw Error('Calling "widget" method on not initialized instance is forbidden');
+      return firstInstance.canvas;
+    }
+
+    if (configOrCommand == 'value') {
+      if (!firstInstance)
+        throw Error('Calling "value" method on not initialized instance is forbidden');
+      if (typeof commandArgument == 'undefined') {
+        return firstInstance.getValue();
+      } else {
+        var newValue = arguments[1];
+        return this.each(function() {
+          $(this).data(dataName).setValue(newValue);
+        });
+      }
+    }
+
+    return this.each(function() {
+      var el = $(this),
+        instance = el.data(dataName),
+        config = $.isPlainObject(configOrCommand) ? configOrCommand : {};
+
+      if (instance) {
+        instance.init(config);
+      } else {
+        var initialConfig = $.extend({}, el.data());
+        if (typeof initialConfig.fill == 'string')
+          initialConfig.fill = JSON.parse(initialConfig.fill);
+        if (typeof initialConfig.animation == 'string')
+          initialConfig.animation = JSON.parse(initialConfig.animation);
+        config = $.extend(initialConfig, config);
+        config.el = el;
+        instance = new CircleProgress(config);
+        el.data(dataName, instance);
+      }
+    });
+  };
+});

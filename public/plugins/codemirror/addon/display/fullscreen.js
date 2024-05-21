@@ -1,1 +1,41 @@
-ENCRYPTED::eyJpdiI6Im5BQkdwMTBJTVhnUTRhMVUzSjRNeGc9PSIsInZhbHVlIjoiOTJ6SC9vWGRaeElSYkxkUDFpVjdaZ0NlRDlwdE90Z3BJSnIrbVhBSWwwYmNLdzczSmV3WStwaXcvcFU3NnBLdUM1QmZSNGtEZVR2em5rUGVmcE1zTzBGSGJhZUYyb1haWC9GSW1OOEwyRlgxZ0VITTZ0TmJ5SDdtVmdCWnBFbDZ0UGFhSU8wblZxYkRkY0xwb1RSU215NldxWnJoYnVrdld0MDY1dkFmRlhIa1grbTBiVjF2NHI0cWI2ZW4yaEZBMGlLNXNWRWc0S2xNWTFIOHRvVFR6eWtCdUtMVFVnR05ja1VpMEZlTGdGTWZnT3dXRGNNc1pYOVBxLzhpUWFORjZJTUJDNWJkVXpBMzhOTTFOTzd4czdubmJSYzB4bGtYMjhucytQREpDejJpanRtMXpRb2p6SFdiMkhXbmorTUZQVHlQNkpSWmhWdmU5V1g5R2N2akc4cCswUVdFR2VwN0Z1U3g3KzRFYmhQa1N0b3Y5amJQKzZId1UxSEJDUEhEWXJ0ZUJsejNScktqd1Z0L1BBUG5EaEF6dWp2NHlNb3J5SHJpSDdwRHZqYWVobFR3SmRwczFpcVZjQzVFelh6VmsxT3VGMnBRdHMxZlczZmVEdVhiL1M5NWVIdTRMbkhtOFJidGE1Z3Y2ZzloY0cwU004dWwwdlBVY2ppcmQ4K0hDVHhtQlNKRlhEd0M5ZUVuTHZyODBzazhLSTQvTUV2aFZqQkJjLzB3YSs0MC9ZVkxJdklTYitva0JKYXplT1FFOWJWTHJ0WjRhS1NTZWt1bEtVQVUwWGIzUERXQWw0emh4VFZkTDNIanhPb0RMc0QyM2FJc0pTejVtOHlLQnlGOVNqUysxTnl0cDlXTzdFdmVIbHg2bXRxRVdHNncyZTJGZFhWeDBoS3RMQjljNXNmZnBJeTRQZlRPQjVGYVF6Q2o3NjFjdklXb01tRjIwMlQ0bS9GMkoyenlseFpKWUtVZzIwbHppQmRYTGRONUI3QWFDTnhSL0t6ZUtiaHU1M0RBUGJYSklKVVN1TW1vSitNQjdLaDFQWjJBMnRaRTVCdkJxMlN4UXRHNDhTeTlJNktneTBKVlJSSmFwN0lrRUQvY3cydnNZalgzQVV4S2l4ZnhCVGRma09IY2duTU9hbm9jVVIwem45ODZrTVB0TW42eW5BSFpxbWdOM3U5V2tnVE13SjNReGEvWXRVMG93THpJVzVEYjVHbmovM1hQRVFIM0s2V0c4SWwxRU5tbGtrQW5wclNoUUp4bVllOGxUYnJMSVdYb3hZZ1pkWEE2K2xaWXJCQzJUVG1zZHhhSmViQXpRQWowNFFwN3hFOXRLRFJGY3l1ODQ0QmZzNjZLcDJmYmRaNERlcWJSYXVHakEvNEM3UGpLZk5NS2VOcklZUWRhKytXUVROK0RCWWtYOVdqWXEwL0RtVVNJa2o2emJxL3EyKzRnbHNUYW94U1RvaDNtcVpWVnIyYlJnYTFJY3l3YjNuSk92RUlQKyt3c0tmdGRwM013aTJZaVNkRGNhc0I2YVZ4L3I2L3FNdUtIVUJVMWovdTZnVk1qRzMybmpqall3bUg0eDFJaVc1THJqMi84a1MzWEs1ODhWSkVvS3lQaS8rWEpCV0JxMkJnQWNPOEVzNVdCdXNwbVVTT0tBOE5WczFOaXlJZ3gzRXVJOVEwamVmUG9Eb1dCK1Y0bE1pRUJ5ZkJRSmYyRWpiU2NocTR3T1VCRGUrUWlXYisyVGhWUThMYkVaVGYxcDVJL2hhUDR4Tmk4OCtSZU9IdzNFNU1ZUm9vcHlrZ0oxb1RtSXdJbFlmZ1l4Ry9HM3g4aDNFZ25VK0w2TW90blVsQmNVWE41bFdLU2VEMVJhZTBwVHZtM09TdWVma1ZTQ1lTemJLY21nazZYdkxhb0xJdVRqeEllYzVWUENDeHRxaUFURGJOVmJKVmtOOUpEcnBHTitrbXkyaVJsVThzY3FnRkFIOXp2WjhnMlpVcTFGYm9QaTFRd1F6ME5CTnFta1FVK1hsWHNrRDNlZXBZRVcrM1g5ZDJpRU1VN3JmM2VtWklvTms5UXJ2UzBEdzRkQzhTc0cvaHo1Y0VPV3hVUVI5Vy9KbXFvQXI2ZHVUYlh6YVJ3dUJsY3RTd2NhK0RWQ3hyaEIwMCtjcVBvUHc2clFBYzIzS2dqaEFySGkxTStMdGdYSFdlTGkzVDVTL280d0lDcVprWmdXUVl4bUhDZXVOV203N2JaMEJJZ3BlNnJ3enAzZWhMRW4zaEpFdi9MYlVILy9BNjN1QlpGUk9zMjcxVEFSbUg5bzRTWXpod091UklXVEt3R3dpaFFZdXdmNlg5UGlQSkxPcytNL1grRGRIcUUyUWxYMlpzNmM2TlpMMlBtK2tTcnc1U3RpcTh3RTZCSURHYmZ5c2NrRFdzRDZPSWxFYWNya3pWbmRnK3Z4dnNxYy92Vm96Y1lIUlZSRGdzWFA5MGZwSFJNbWdaSW82VTk4UXAzNUVVK0xia25zK2xRQjNaakNFRTVHcHc3ZzAwSW0wa25YM1ZVWmJEY3JhNVpFd1lGQXJ2R0puREdTQmFJYmpDMkdjTVNHeU1qN2UycmZKcU1IUzBGK3MxQWhJcUtyRUhlaHcxUEJTa3FrUzI4MjFMMHZPVGpaRERNbjhIdm15Z2RQZE9vN3c9PSIsIm1hYyI6IjUwMzNiODA4ZWE0MjVkZTdmOWE1M2M2NzUwNTFmMzcwM2FiYWM1ZmU1OGNiZmViMmQzMjczZGIyNmNlMDA0NTIiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineOption("fullScreen", false, function(cm, val, old) {
+    if (old == CodeMirror.Init) old = false;
+    if (!old == !val) return;
+    if (val) setFullscreen(cm);
+    else setNormal(cm);
+  });
+
+  function setFullscreen(cm) {
+    var wrap = cm.getWrapperElement();
+    cm.state.fullScreenRestore = {scrollTop: window.pageYOffset, scrollLeft: window.pageXOffset,
+                                  width: wrap.style.width, height: wrap.style.height};
+    wrap.style.width = "";
+    wrap.style.height = "auto";
+    wrap.className += " CodeMirror-fullscreen";
+    document.documentElement.style.overflow = "hidden";
+    cm.refresh();
+  }
+
+  function setNormal(cm) {
+    var wrap = cm.getWrapperElement();
+    wrap.className = wrap.className.replace(/\s*CodeMirror-fullscreen\b/, "");
+    document.documentElement.style.overflow = "";
+    var info = cm.state.fullScreenRestore;
+    wrap.style.width = info.width; wrap.style.height = info.height;
+    window.scrollTo(info.scrollLeft, info.scrollTop);
+    cm.refresh();
+  }
+});

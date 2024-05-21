@@ -1,1 +1,100 @@
-ENCRYPTED::eyJpdiI6IjZDVi9qd2VwZVU4QUk0WnBkeW5BMVE9PSIsInZhbHVlIjoiOVFZLzJBL1VPdlZSSitNSXR5NzNLQmNoczNpbU03ZTAxc1FmR3hzUENGcWppb25SN2xkeHVaVUIrTVNTeHVBb1pyMUR5Sk1MRTl2cXI2VmZ6K05UWFhHenRZME5vQVdTU0dLWWEwRkJuYVBsbHNUOVZxMlZMSDQ2VlJaaFpVOE8vUW9IYzlnYTZobjJzdWduSlNOUmx1OE5TT0dSZHg1cC9CcGdqK0oxNGxZSVI0T20rNHgxUERwWnE0MkxtTDVRMEFwNmdsOXh2QytrdlRlMC9Rb0tmMW8xR01ZN21lYjNDa1kvdllaTHdKdGYvdE0xU040TmxVd2FpNU1wOThRV1lCY0VLMzgxQTNJeHFJdWtUbjNTMUZPUEVId2V1a2NoZFRGK0NvZTZyeXoyMksyTEQvcXBselFyZzNvcEhldmcyVXdaQ0I1bHh6NjRBWmJ4Q29vMFZNZWhzVzJiWVRyK3ZUU2FubTczNVhqZUhVNVMvaXJva3ZsWFk5eHdlNUdVRkhLWjV5WnJmaG9rVWV1clVENy9ReXpSQ0huaHhHaDZjY1N3dS9ocnhUbG5QczRWbTNvRXFOd1RKUXZ1NlBXV2U4bStOMDNBT2xCTnpjT0ZnZXJ3eDN0Z1REMHI5MnBaZk11clBFeldaM0o3OGZmWTFvc25JUjhqUG9mWFJ3eXJkaE54ZU1qMzQ1TkhrczBzcytGOG9TM3F1RU5oWGtDUHdxSlMrOVBobW5HK2lEbktESG0xNTVoNkwzUytWalJCbStTS3lkR1ROV0hlSENoSXU2cml0RTU1NVlDcFVaSnl1czVEWnZVT3B3ZndNVWtiZGY2ZGRjWHRTNi9EOFZ4cE5ORy9wOGhvdC9oUVhOSk5ETGdaZ1NJdjV3MW0rcmgrRThqT1Q0YVhCRmVkWkJvWXRCd283eFVRM2gzWUI1TDIxYXFOakpBV2ZFSWFDdk15VDBFQ2lLYklCQmxzNTRQblI2amF2WnMxdU1zZ2VQUmJyMEFUeWFIYmVKRm85VUg4elZsVlhjY2xyRldsUG9Zb2ZDcm9jZW5oV29VUnVhNUk0MG40cDhwWFpuVklGVzlRMmVkQk1EWkxZSk1Uc0dicDBlUmVqKzhQd3dVSkZ2a2dya0VYQmMwbFVZdUIyREZVOERkTk55ZTJ3YUdWVnE5QzdsdTB5RUVTbVRsTWdaZ0hzYkoxVXp4V3ZPaDBjNXB5L1BLZ2hwSnlDSExsTmU4NVAwajJydm1Qc3NkYU9ud25HR3VLeER2NVFSZ3lZR0VWYmkrelcrQURNdkNzemJVeUdXZ3Arb0Jra2EyNTFPSk5yM2tBRWRJNThENTRZK3VrcTFVV2t6V3hrT2pCbHVFVkhQbkRORmhxWEgzUHRyVWJMOU5BeDIreDNVZ1BtZWNLMHNXbC9BNFJiOG8rcTVYRFlZaHdoM1ZTQXQ4eEdheWppZ0ZCcWJEWDRRTVd2cGlvT1A0NjBXZm9ZdmVrendTVXl1VC8xcUNDclIyYm9VQWFmS2UrNmFvTDdsMFE1M1lkQitQbEtOL2Y1YmFsVVJHT25nZjJucUFqTERldlVlbmkxOUpSWjJNK3d1NWhtZFJhZ0R1Q1BSUFdOSkxhNk1BR1JiRjZ6N1NSMWtMeHc0ZTF5ZzFiQmVOVFdzandyME0yMUVRVWxzWHdyeXNXc3JWbTlVd0lTb0xOQ09EZEt1c3gxWjVJeEFrbjBvWnpyczdITkMwRHlkc1Q3ODNsamhPYTB2YUN6Wk9BUEpCeU9oV2hMNG9LejRmWGc0R2VYVHJ2ZUlwMUtsbGw1OXJ1UjFzNEQ2SFg3cnZlVlpoUWRwNklnbjYyRE1SbGJxTnBHYmoxUVp6UkdnQXRlbW5JRnlkK0JjYWFyUks3QjlTUFIwZkNhSHYrakNDemlHbmJYRXVsVjZiWVorVkpoelNkdENPTGpML2FvdDN2UU9GdFo1L3NBeVdlYVFFWjYwV2J2TkQxMzNlNlV1dkxOdXBXSnRrOUU4b1hiZFNVRkVnNW9Gc1NrSzhNVHhuZHRSWWMwK3BMbCtUTS9Cc05IUGt0VkJFZ0paTUM4QW9LNi92SUczVXltak4wZkRCTmpYL1pra3JQVHpkNzQxaGxSVUVFeEpua0c4Kzh6WjhwYnpaVjBLZmpySGZYdko3aHhqS1hYZ3dnVW1BMXZ6Q1FzU0lMYlFJWTFyTXV5MUtMSGVrVG1icXYxaldWbXNuOUZYYlNYa3dFaTljVE8zSVlYdXhaQno3V2o1YVJqb01HUk83dHNYSHl6RWQwYkxUSGhyVGlPT0xaMWFLQ0hnbURUMCtDd0NRemtvZTJyMjc1SlRSSTRnaHJCSlR5aTNzUGRZVmI3bnVleG9nRjh4eHdwTUhpV1ZRdnBsb3RUZUpxZW5Xb3UzZ25odXN2dHhoQzFNdVMzbGR4c3lrN1crOVNKM0k0bjVVQlhWM3JTR1QvOXdIemZCM0JjNE1vMmxnTkhHcHp5V1ltZmdHaUNZQ0JFODJVbklGOEFFazNXbkJDR0d4TTkzWWw0bWJDTGVVZDhNQ05EMk1iYkFVeHYrcURFNDJjQ0pvdXdBUVZFSTJPNm12NGpkRFVTckprZ0VUYUJjRmlnTnBYRWJ1eFlzUUxnZ2tZSGVGdzJQRC9mVFlzanJmeGZDL04vL0M0eXA0ak1kTnh1TzV1WDl3dkxDR0dxZzNLdDhSLzRtSWw4QUJja0RnWVZSckNWM3I5dWdNdkxUZjZDVFl0QlNDSTBsSmRTZDlXZmRSZVNNcTZYYWErd0pvcE9BVnpJeWNUaW1aNm1xRlY0Qm1sRmhad01Jejg2VHFPN1d4SndoVXpHU0ZWUzBNZGQyaHBpdURMYzhuZHRCMDJ3R0RnMks3bFFGc3FHTEJEZTZucGRnd3JTV2huMWFoQ3JpMFEzZUtQZjlkQXBRaFBLQnZXekJSOFl3elJTNjY5eHZKL1V0MnVyWDFoMkkvSGMxS1o4cCs5bVhnNFVGY2NNNUFTL2RTMSs1SG9JWXJWblRhdVkyRVRHT3pWdithZjlNMFZYaThKYVA3YnpldGNYUTVwU1h4emZQR0tVcjJMZXdQUHUydlAwRWJyQ0FQTnBGTDJYQWJJOXNhakVIcTJjRW1jV1hxRnBGaGhUT2lxRG1qRXgrc1NBL2orU2JEMjBWTUVlVGI0YTJnWGRpTlZwMVFCUFBHM0JjZmxQRktxTkY4Tkw3VmxBK04va0ZvQStJMjhVa1dZKzRWYmRId1FNY3ZRYkdhdE1vMys5Q0VNQW1udVIvdGpSUXNBZ1JOaDFySXlpZzVSSmhzWXN6bWlFNEJxaVlhR3ZSN0dKRXo1cnhhRk1pN1c0dkh4SnduSms1a2xDck14cUhyQThkTmZBM1EwMllwcDZ1czh0Wkc1d2VEZm5kSk1IaE9rdFdDTUlkRUNwVUdQTzlJN0FKc2R2cjJKdVdJU1VDSEtWZkZQOXNiUjgrR1VMbEZSbFZIcnlmUDRvTDJUU3pwdFI1dXd1cURuQUdvdHhlOElCNXp4dDQrTHhkdHhFek8rQTI3QXZjemZaTkZuVFFlU3lwZFArZXQwZDVEYjdJMmliaFNpc0ZEVDZmbWh2RkR0eTZGQnBLZlRxM3BVT2hFUVQxcnBDRnU0Uy91QlB1WTlRdGFDSFU5S25MSUo2TFF0cFQ4OGw3RTZjZHBLcVRXeURlL0JrZEV4cFRZYlB3SU1ycUdDM2xMRjBVc1BmYlBVY051MVJhY1AvUVoyNEZEeldYckRPMGUvakI2ZnJnVEdQQ0l2N3M2MGpRTk9DcWdFaWhvTE9DOElMMDB4L091T2hUMjhXT2VEM0IvSGI0UmxIeHlRUG1GNkVBTDVNZzczQ1dablRhcElybGNxMjQzdm1UTysxUm1SSFRoS2VTZXpzTmcrMnh0ZUh3empMa0NveEE2R0kvbHhPQnJ2YW9mTkxSRjhiSGRGcFJJSTl4ZDFjSXovVTY4TzVvak1vaVNHblk1SlM0MllOQXA5cDZ1S0V4NHhjRFVZdzZVbXFsTUVMYXRFZFY3M3JlNTdUZ2VxUThDOFM5QU5LOW9JVU5MZXB3OTZ6VTRxcDBQd0xuOVYydGJWWjZLby9GUVZlWXRWUjNWVXJJMkpFeTNNeFp5ZkVLN3pORlBWOVVTVzEvREQ5Ris4MTc0Qms3N2NHM2hFdEI1OEJwVU9hR0Q2MHNuYUZYdWRnYi9nWklNaUZpZzh6SWxVeFRCenliVDNCemdYdE9IVVdoUzlINnYvcmgxNTFXQWEydWxHWEY5NGhDcnVZNVFWOEtUck9MRFdkTUlhckwyN3lxMzNJZElueTRNOXF0cCtXZk96dmpsRkc1a0I2SndKalZrTzEvT1ByUVd5U2RPM2ExMWQwV0pnc3UyR2JsN0ltQ0lyQzM5RE8yYmRESitZS0l5SXJYNHFTM2pudEtXNnNlMFp4S2JXKzRZWWoxZG1MZ2Z1aTFKV3hpNm4wc2pkdGRLRVN0eHMxTlppZmI2SG5rUVZsU2NvcjdDWW9rSElIU0FUblRNZjQxMW0xNit6R1JyWDNuQWk5Zm5aYStHU2w1N0U1cmhnN28rbGtEMVI5aU1MRTBKckFrV3hSYThTOUg1SndVbnlOcEFJa2h1SU9QNmh1eVRhVFhiQlVQUTluQ2JHZmdjYm5lUk04OG5NdnhNeHVXWDVWQ2RoRndxK0lTTEhWWHo2QldZV05QU3JZRC9Mb0c1UkRZK3FHZHRLZC9WTUJOaVBHSWc3UVNmVWpPRnd4S0JzeWRRaC9USzZYL0w1STR0amhobk03RzZuTitCajRGbngyZk93L2ZDM3I3ZG5VRWVoSnEvZTF4dWlPOVBQMnZHMnBYZjd5ck9CdTFPZm8ycDBLNmlxNmZEdVMvVUMxbTFiRjhhbTZNRWR0UktZWFNMd1plcDlQR2x3eWhsM2hrN0ZBcmloMS9YQUcwelEzRllnZ1dNU3E4TytpKytNQTZwaHAzY0dVVmg3clltOEl6MVZURGVZZjk5S3hSd0NKSHpYcjNSRDA2TEo2T29DMXNHRkZkQ3dkdnRZZmwyR0s0aGxSVzJVTFkyT0pDODhxeklPV2ZoT0xWSlRqbzB1ZE91ZTB5UUNrdy85eFdERU8zM05Wc3p3TXhkK3dTMFpFYUJuTXIzbHFPcEZONlp2anpjMFVpUVlnZ3A0emRyTU95VWMzY1l4bVVlWGxtSmJuRHNLZVpvOVJqb24vVU5pRXhUWmJXQWpDVWdrZlV4bmQ2WUZJSnNJaDJCOU9XRHZCdTE3QlJpYUNacjU5VTdmdzYwZ3JDeURmTG5mOWk4NmZ0b2FSclZIQ1ptWThoWW9aQ0hoRFpYaW9wQTVtMi9TeE9uQm5iMWw4SVRPT1pqaUJqZUxEMVFsVVNhUlN4UDAyaDRvaVBoRkNieU1ZcTZyaUtvYW1uY1VDcFpCaDE3Sms4S09vdnpzb2tzdERiWGlBWmtqeGZzL0pKM2ZZMzlSM3RsWU9aUlEzUEFYeVdrQ3l3Sms2T2dMTG5oL1RVd0hKM1k0cjhuTm9XL09WYWVsTXVOeXUzaDBHc0hpQU4yZUFrVHJKc3RabG9BOThPa0g0MHhra3NTeGRneHNka0hDbTBGSVFqelAyeXNqTW42MWkvd1FvaStkWjJYc3JlRlFpbXFGbk0ya1IrdExPUTF5RzRwMVhxY291akNmSkEvT1ZpMjdDMWp2N0o5Y0VDaThYKzdPQWFDN2hTMkRSenJlK1ZrZVZza2JwdjBYczh0UnlvYlF0QzBhUDZJb01JU2pxM0RrZng3Q3E4RjJPVklsNnBZQkE2S05OSGhDQTJ6WmxTWEhKanRrSVdMcER3MjBGMHFPeEIxWEJKZ2xyNjdOQkttcy9TRE1wc0h0M2hOYkprZi9KQ3ovRjUrTjlkL0pnMmxveTA5RXQ2MU1xSmMzQ2RqQjNRWnI4VlNCRThqeXdzL2J0ZzVhSW5hS1RBblB3Q3kvTyt5aFlhNTFMN29JaUYyRFpSMm15NC9hczRjbmJqWEZ4WDdhUG9Ebk0wSVlUNVBCc2FMOUhqME5YdXY5UmhDeW1jenJjSS9ZbjZTUXVtK1VmWEpXRWYwdG1WYTFPQnQ3S1FIMDAyV0tQeVpoaTlsOERIV1lDZFR5WnFVU2NYYXVlSW9YYUZZaytxRUtKQkZ1WHJQMHoyNkJNNDNoSjk0NThqKy9LN3ppZTZJZEJEdERhT1RRb3pxSk9ydkhnTEMzT3llSXdKbHlmV0JibndpanB0NUFLRDk0OFA1eWcvT1ZUZy9uVzY3MElRelg2ajQ5bFYrWGtvYmhFZDEvdVpaa3pTWi9aT2pOZ2dSdDRaTW1aWlBmUkI1K3kxV2x5UXpoTkRPM003ZUFVelpJQ2dHM2N5ZHVDcFNRclVPNGRIMVJWZGtlNkJSVUg2bVhMVU5BRVFBbS92VUlXQ0J6WnNMN3c5U1duQ25iS21QVGUzM0Zqb091NFlwdk9UNTJjSnZ3RnVZbmJITlI5bWZJclcrbjZCK0xVVjlOTXVvejgrRFlVakZKMFpialVUYnNBY1Bhczl0Uk1VTXhsSGpsek5CSzVDUTJkK2FyaElpWnBqeGdMaWF3RzRTV1g1UzJia0tFNG1yUm1WcTdEeDVzSVNFd2lqSkduRVBRL1haVDJEOTNob3ltNXdPNm82enVxcElod0JLSzBzSmRsdEFNOGpFRXFzYStyY0g4SzAyUTN2TXlHbHFYU0tkQVBqZzZNSWgvOWZIazhkRW1RTGxWTENaekF5S1ZmZG95azl3dW93T0o2RnBjMlhOSE5NNmdHSms2VEZMYXlrRkRvM3hheS9FU2pVakhZcFk0dXUraWNrNE9GUnUzeHh1NnAyQVNHYS8xR1Mzc3FxWGFYUTBPcEEyaDRKbmltOXZBOE1rZEtPanFsWjdnNHBnWXYrak5yTDBIL013RFlXc29wR1p6a3EvUTh5VWR6Z0xoWXhwcDJPTDdOT293YlQ4U2NFNjJybGNseWlEQUNVVFdaU0VSVElPNkJrMnQ1em1TbDQ0aWlmOC9BdXI0blp0MS84b1ZRTlk1VWozbHdOS1BTWDFxYWl1VHlYR2N2NzdnUUtaamM1QmJ5SGRvOEowK01HeUhHN1YzcVltMXVjUUVPL1dwa3NRbHI5ZE5kWGRWWUpScWFuaEh0YnFPWlNNQUFMMHJubHpjQW85alF5UUtvVXlSdWc3STNJSXJlTDNkUFMyUWZwMlBDT0lPbTVzbDNKSWJ5V3hrR2FKS0tyN3pLbmhwd2ZMalZ5QzdRbzVWQ0lrY1d3SVJtYnRvVnlSNU5tQUlqN2NOb05xd25TckZVOEVoa2I1Q0Q0WEpOcVpkVWU1MlMyeW9veWRNZlROTWdtaWpJT1JhVkZITWx3cWJkSXJLWTVpRkF6dzlsS3l2Zit5RWtWN0kwcWc3VFpqbjhERnVDQkdRdWhpa2JJa1cyZzZnSlAyY0ZkbW90OFI1RDlxenpJVmxBTEN4TzU0T1RDUnhIeGorb29ramZha2FiMVhwSFE1RVhGcG42NE1SWktuYzdTSWduWWxLb05TL1dsOVNha2dWb3c0VW5wL2tBQzlGQzBDMWpNamUwQThlZjNNVXlHWnFpN0IvRnRsUVBqdW5nV3kreGlkWGV3QXNsRkNxNmRpZmtlTFEvS1M3ZklZOERGZ2t3NnR0VlhBMTE2YkZualZTMjVmdC9CdWhlelRhTjRsOUx1QkJBWWl0dTRCanB5ZkZMTytTNFo2blo2ejUyN3FuZDlkU3lIUW4zdjRtWTl4RlltcGw4cktKZno5Z0hKUkJ6NVpOL1FTYVBuNi9EV0oyVUFncjJwUUdMWTR1TlpNdHVmQk5Cckx2cllaMHZKdFBOVWx6cjkxUWZNS3pzU1ZmNUhtR2l4b05tdyszcWRSbFU4akkxUnhnZnNQNXBCelNoWUF6dXFwRmxESVJWMFByQVJTVjZHMkp6RGt2SzRrSzhtRmQxVUsxMnFqRjFXQWgyWktXc3JtckVXRXU1WGJGcWtJUXF6bnkvbEFOdVhHSTBNZmI0aVJnV216SmxOU3NsMi8weCtyZ2ZrQlkxc2YxSXhURk9BVy8rNWVSclBVYVd0STNYcFZCMTdSQk9BcHdqUzB1blgzMVBxaGtVRnFPdlB6aURTaUxRc01MSU1IMUc3bk5OK1gvU1B4RDNyNTdNYlRwNGsraittMGdEUGM1K2poMTR3K2Rxc25BQlNuejBkNzdWdjRzUm9rUU9UdFZSeGFaVHpzZnU3UXdPeG5TVTZYUWJxalRQTWt1VUJXNnRLL1ZWQSsxNy9XTWw3VXpsMGd0MzFCVlJTMENaakFjc0pWajRLYTJJZE1vQW1XWEs3eFAwYktubDJwV2JSOEZKRnVVcnQ2U3hUV0ppd0pPVmIyUFVQNk5NNHh2dTAwaTR6REhTUm9uZkVuOGVGS1YzR3F3VFZPQ3V6UXhwTjc5YUltLzRKN2xTeE5FVTBYUVVCZERkYmZqY3llL0lsOWdseTdKM1hlaUJUVXlKV2VpN2VhTkJzVE0rNWd5VGZlRlZ6em1kaUJNaFVOeTVycitDcUFUVVUzSHRNVlpWbHZOdEdPU1UwNGgwZ3Z1QkdXUmx3bGRVbERwT3RkKytWYmhKNXhsWktGc0dqaVJsOWVOdTMxQXR2UDYxRzRuMGZkRWNWcGRTVWZKT1A5R25qZlU2OGtidEtkVVlsd3ZucXpiNXB1Z0N4WWN3ZFpNZjZjVG5DZWJzUkVVSGluRnUyWEdGMzFrL1VWbzAwM3Z0bm4vVWVkN1R6Snd4NDdJTVZ5QlpFNytrcGtudWhMWWZrbjQvd1dzV1RabWtXcWFrYzVhaXI4dFhHNzZOWGplelVTV0ZxdWN3MGhDQmJpa1cydmYrRHBZUFRib2tKMWx5NFk2ODdoZEVxMTRoekJGRE5XTVBMTXY3aFlLNldjUTl0RmdFc05pbnJ4THBuR0lSVHd0azkvNXN0Z2lPRHUvOTVSLzhhU2JNV1hBM29IeUZaR1I1TWdCMXZDM1FiSnpySXh6TVZwV2JtbzhFRXF0aW14WmhhZy95ZE1TMENibEx0STlibm8rRnZhZWE1NWhOS2J6aGtPdCtMa3dKcjRNNC8vKzd2TkZUYThkWlBUTE1ZTWtPWk9XckJUdmFJZGc0ayt5YzI1MDA5eXNMOXpUKzhWbUFPbEU5RUJsNWVKSXFyeno1RnBuOVBBaGU5b3lFS3VIWVJ5eUpTK3hSNk5Pa3l3ZGNIQ3hWa2RxZU5hYy9OaVVmcHZPNmRRTTBmTVRoK1MzR2xsVks3akp3TE02UWkzUjRIbGR0TG1RdEwwUkg4WmNNVzQyOWdsaFk1UkQrQU5aVUZTcTNJeWlWVWRWczZKaEhkUm1WTWlFQndmRkd0ZkgvUVFiQWVUbi9yUUpweVZZL2Q4ekU1aUtlT0tKc2xRejY3TkJYdlAveXpEN3VMNDJwTEQvdHJ3eDl6elJGRzdic0xNY1E3bnVGZkl2aG9rSng1aWV0R1hJdllKTDdEZkVRSXVlRHl6NTJXRlJkc0V3Y3lYVFhWWHhaMmYxeUVkL1paVUNONDBTUzhHZVhDLzQrMEdYNmJQb0UrNmVnT1RKTHFTMTFyQ2xoQUQ5Z1YwUXVUNUNyNllOY3hvRXduT29ld0FkZll4TjdoUUhnMzdsTFB2bUNmRUwzMHZsVlBoWGcrTHJqeHJZWjF6SXBONnRzQkR1cUo4UDAvTW04T1NVREJmQWxHNVFKb0xMRi8rTEY2RiszdjM4R1ZRUmtrYlZRa0o3ZmFSZ29BVnR1bHRoUmZJVTFBcVNIRzZtYnVEQjlhNE1EcjhydGI1KzZSRCtxdnVheHhPa1RaOEZ6UDE1MnRNRWdYSlJCVE9FaFluTEFRPT0iLCJtYWMiOiIyMDg5MDMzNzYwMjcxYTc2ZDVhNTUwMGY1MGI0MGE2ZDA3ZTE0M2VjNzRmMDExNjA5ZTlkYzZiMzAwZWQzYjc0IiwidGFnIjoiIn0=
+@extends('layouts.master')
+
+@section('title', 'Edit FTID')
+
+@section('content')
+@section('page-title', 'Edit FTID')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default">
+            <div class="card-header">
+                <h2>Edit FTID</h2>
+            </div>
+            <div class="card-body">
+                <form action="{{ route('ftid.update', $ftid->id) }}" method="POST" enctype="multipart/form-data">
+                    {{ csrf_field() }}
+                    @method('PUT')
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="carrier">Carrier</label>
+                                        <select name="carrier" id="carrier" class="form-control" required>
+                                            <option value="Fedex" {{ $ftid->carrier == 'Fedex' ? 'selected' : '' }}>Fedex</option>
+                                            <option value="UPS" {{ $ftid->carrier == 'UPS' ? 'selected' : '' }}>UPS</option>
+                                            <option value="USPS" {{ $ftid->carrier == 'USPS' ? 'selected' : '' }}>USPS</option>
+                                            <option value="Ontrac" {{ $ftid->carrier == 'Ontrac' ? 'selected' : '' }}>Ontrac</option>
+                                            <option value="Lasership" {{ $ftid->carrier == 'Lasership' ? 'selected' : '' }}>Lasership</option>
+                                            <option value="DHL" {{ $ftid->carrier == 'DHL' ? 'selected' : '' }}>DHL</option>
+                                            <option value="Canadapost" {{ $ftid->carrier == 'Canadapost' ? 'selected' : '' }}>Canadapost</option>
+                                            <option value="Porulator" {{ $ftid->carrier == 'Porulator' ? 'selected' : '' }}>Porulator</option>
+                                            <option value="Australian" {{ $ftid->carrier == 'Australian' ? 'selected' : '' }}>Australian post</option>
+                                            <option value="Amazon" {{ $ftid->carrier == 'Amazon' ? 'selected' : '' }}>Amazon</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="tracking"> </label>
+                                        <input type="text" name="tracking" class="form-control"
+                                            value="{{ old('tracking') ?? $ftid->tracking }}" placeholder="Tracking Code"
+                                            required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="store">Store</label>
+                                <input type="text" name="store" class="form-control"
+                                    value="{{ old('store') ?? $ftid->store }}" placeholder="Store" required>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="label_creation_date">Label Creation Date</label>
+                                        <input type="date" name="label_creation_date" class="form-control"
+                                            value="{{ old('label_creation_date') ?? $ftid->label_creation_date }}"
+                                            required>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="method">Method</label>
+                                        <input type="text" name="method" class="form-control"
+                                            value="{{ old('method') ?? $ftid->method }}" placeholder="Method" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="comments">Comments</label>
+                                <input type="text" name="comments" class="form-control"
+                                    value="{{ old('comments') ?? $ftid->comments }}" placeholder="Comments"
+                                    value="N/A">
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Edit FTID</button>
+                    <a href="{{ route('ftid') }}" type="submit" class="btn btn-secondary">Back</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@endsection
+
+@push('scripts')
+<script src="{{ asset('js/colortableftid.js') }}"></script>
+@endpush

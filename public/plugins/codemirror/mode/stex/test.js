@@ -1,1 +1,132 @@
-ENCRYPTED::eyJpdiI6Ilkzc2p5ZTdHWWZlbWJ2QVZzS0NYeFE9PSIsInZhbHVlIjoibnVPWlZZUDVkWEhuYWVEK2VIa1FOaVhpOVRNRVpHaFV0R2kyZ1ZQMWt5SnNjTGp5UVRjbFY0bUhaSHlmY0xQdDhBeEVWUlZ0V3pwK1pDa1c3TEZLckk3ZVBMZElQdXUyMGNncEdjWVlLQ05wNmlpTXlrR1Q5WkdRNWVrQlJ3QkZ2cFNvaGQ3TFpmYVcxdGtIbWxaUk0wc0tqN3BDYlYyOVpESFhuTHV1akJJZFZuTDkzTWUvRXQyN1pUSit1ano1Q2h3Y0NkWW5QWFY0RW5KbjloVmpGMTc5V0tsQVhTOE9VNS8vbWhkVVRQZXlvZDVGaGVlSHIvRUFmZFFaWkJKWjMzcnl5cnkvMExlL2phWmRCTTA4ekJBUFowcEZTUEo0OEExZWtidHFZTGZERXVVZ0p1RGFSbURLc1BwTktoK3FEQWl0T081dXZJTjR1c0ZHRzF5Q0xFUmtlZHRFRDBBMUg2aUU3UHk1K0F3RWtPVVNIQW5kQUc2WkFybG1LMTNHdjQ4d0FvLzlTakF6TGw1MlY2YVZZUWlMcThxWnlPci9JRHpIUmFJYm5acmRIR0JFdG81VDIwb2FEc1NkRUVEaUZxc1lWRjNGRTd4Qjk3RVV1MTk5eDgvYjVzdG5LNVZzZmhJbXI0VWNod3pFN3l3bGtudzRGV3ZDRFQ5ZW1sbGFwdVp6dXNJRXlNVGZITVVOR05CQ3VCYUIwKy9oQjJSckpWTzFnY25GZHVWWlgzVmlXcVZYK2ZkSSs5NXVoYTJBMkdvWFhxNERacEpBcEFSQnZwZ0NjcUJ0NmxhTmlIOCtBNVdJSUJuYWJKaWhFWVo3N2lBNXczRFREOHhISmRtUVJ5eElFV0E3bkZQZFZhaWVQNU92QjdRZG4wNU1SWkRwaUsyRUpKYnl4ZUVYNkJ6clVoZ1ZUdHc1YXl1WDBsWHdZcEdhWHd2S0RzTEFQeEdzTnFtcjEwdVVOdFJJaW1xUndMaHd5dmw0aFJzTW1Td0lZbHBrVzQ2b3dQQnlGZTM0YW5zNUZiSDlNUlFNNGVsT1ZHb2J3K0MvK0syaDlhcG1RVFlZODdqSnFlY2dqUkJha1ZVbUtmT3VFWHhMSEkxcGtPSFM3VDNoY09zQXByWHhwMFB0a3FjcDNuRkFsS0ZKSDAyVE1KcGJ5bStDaTZZa1RNaUpXSXpzLzBqKzNHQWIrYjhFQk5xQmRaOUorU1p6RTkrTFBqVWx5Q2p0emJESUtkNjcyWHlmQjZjWUVqTWgzaUJ4aGR2OG8xY2ErZGpHMUZHN3hMN0ZOWExWaXRwZ0xSNU4yaHV1RHN2UGwycnA3RXFVaytha1FkU2l5Z25ZdmIrMUJVRjRZUzJsY0FkbWhvMldZZGxRa0R5c2V1dktiQ0lMU3Z5ZWl6RWsyWHhwNnR2TUczVTJuZmE0Y2QxOGZTR29QaW1aZFA5bmMwYzJ0YU1tUFlPTjNEdmJ5SHhLRFNMd1pSdDJudDk0TjhISHRKODdUNGpYZ254aHp2WXpjWnBvR3NjTzhZdzR1TndVTlM5SFBwKzB3NTBoVml5bHRyRy9mVWRuVFJBS2xCeVB5RE9OTkhlMzMwQjIyY05XdFNtZG5SV2VjTmJJRTVsLzZCRVg2c1F3OEpoTTNGaU1oMUJqUUZ0dS9pVHN5T1dsdmdpdGRaRUJablpXTmwydVJ2Q0NEbVJ5Sjc2L3dybXU2VE5vemx1dGtJTkVwaWpGaFZOcXQ2SWVMczluRHlpWEhiV294Qmt5NlJvZElZWlh0UUZNRGJTNitac2xkdGZTUUxIeUZ1di85SkhCSFNKRXRBZ3VKRzlVQWpCUVlUaUx4VE1DY2FobmFEckl5eGdQTTZKTlJQWVBvdkdmN2hydmtsQlQyVXFiU2lmcVovWk83STZrY3JxdXFGMCtwazU1SFFWVWg2ZEdPRXl4a0NwV2FCQm1zTXhXaERIaHc3WjdmZTYyU0J0eDY1VzdHS0IvazlVUkIydFhmRzNza09QUk43NnZQTHJIaWZFOFdqU2JtNFRRU28wZlM4ZEtubG5aMVFCUWg5SkthcUl4RXM2QWpoQzQ4QXQvYkpJNk5sNDFLdVRmVXo0WTFpN3B2VHVEc2Z4NGVuMXBMZXBMMVJoRDVuWElWSzQ1cXVjamZjeE1aZmRPYlVZYVhZN2pXNDg4WENPTzlSTEpMVFYySHJNVCs5TWdlVDBCUitLdnRVb2hOVDdYbkdmenYrWWdaT1BKbU9TS2hEelJXZlppRXc4VUNwcXJkTk52c21FcENLUXRGOU9Kb3hnVFphWEx3bVZJN1cyTXgvMTJrVXNvWVVVbDlzYk5tSU5iTmcxZ2JDUGtnaXd5ZGhDSjVZUDkwUjVaY0twaUVocGFsWHRMbit0d0F2M1BPR0cweG5WcUxGSGVnZnN6WlI0WWhBYko0M3lnb21la0FkTDZrb090U2NBc3FERmRuT0hYRnRmcjFZb201Z0tLYWhzdjgyMldDK3pWSXVUZ0djcjZna0JpZ0UzMEhFcFhmbm10QllJRjBaRWRJdTRQWGlvUXArdUJDOG5xNlNWN2FFTzFhb2tIc3lhMERHZUw2QnJNZW9hTmdIaUhZMmQyanpPTmV0UC93VjgrZXlEVXY1ZWZVMjArK2poazNBTGtsQVFUdy9Fck1XQlJ2aFdvc3QraUljdGgrVXMxNzNKM3VSeXJZcGZIb3JuK2NGT1Q0KzNEcUdXdCt4NHpZNFd4Y09KV0poc2FuQW8zckU3MExFaTE1Z0IvaWU4WUYyOXNqWXJ1UEFPYVlyNTdXWHB6cVRHaVRwa01YNkxxQ0pCQktWcmJaVEF5S0I0NGFtdWZBaXJya21tMGVPK1dCcEN3UGYyR04xK1ppWXUwbCtpV3hObnJRVkRuaGtSVkNQYlVScm1SdlhpWUU0SWk4dksyQlcwdGMyZXh6V3ZGU2pEM2ZXd1VGbjVWdUFlbjhydHVrY1hVaEJxTlkyY3RBbE1OUXFjeCszWDNnZTFTSWtsdGJYL3kxcjJxZUVQcUR4cUpNMXNPNC9ORE93NVJlSDJiRmhrSW5rRG13Y0RsdDdxY3pvQmZ2aG4vSUZoQjFSdXBVNTFudEMyRXpHbU01VmpESjFhdWRaWURqMEsrbTREOE9sbFAzWUtCM09aV2FRTWxZMTZVNWRHTk11MjFGRE1uVnFKMXlueCtoa0pVajVrSms5YlNVb25PZ3ZWdGUxVnFsM2lFR0lZbzJRc1o5UHN1aVVYR2p0NUw1S3hKL1NvTVo3YkhkbHJYTEhuYTY0eUdFRzM2aG5MTGhHSExpLy9QeDR1RjRpQ3JsOXo0TDFmdXN4aGthc0ZJYXJrRlZoTG5BcndCZkovdjhoY2NudG16UW9ycWIxQnBKenBtS1VUamU3SEZDeEl0TElqVnpPRFIrYnliUWpLV1JsZHdiSHdEbk9RQ3hNNnhIeG5sWTBpYW5DV1dhS3I5cXI0bXVLdXpJQWlKTVFXeTZpcXpYTDlaV3NZS2NuTVhjVm1EellhUWp4YXNKUWNuQ3IzUTBOR1psdjdXbSthcXRzZ2dNT2lTLzVkaGo3ZWI5NXZPUGUrcXpvZU5XaWkzUTQ5V2szZzlTWDBEM2J6NHZxMFB0NzVhNUhKakFTNG4ya2NCSkZyWW1JNTFYTjNKbjA4ckFwb1JkdUJVeFpxYkhJcUdjbGxEMnkvMVNSa0trYzBaajJHMldMbUQxeUJrV1VvcGo0aDI4VHFYOVdIQjgzUVdZVUdaN3R6QWprdWdEQmZkV3BjZXVxMW5kUFdjTUpVT1RCaitZYzhZcmJMODRPemlqSzBBVTArREVZL1dKSlU3VHcvcHlrWStMQzRRZ2lmNmtWcDhsZUJzUjJxY2Fod0RMMUVJZi80VkdnZytiMDlpUW1GWUZZZTY5bTZvemE4RUMyM051SWtxdm1VcE0vSzc4N2Jxejk3Zjh5N2RVRm52bmp3bEhydGUxaFpRdm1SNHJYeStjZFVVZTZvQ3hCMjJMMFVSZjNMOEZzb0xKV0VocU8wcnlBUHRzVDlQWVB3ZGR1dlNrc1JjNUM3Ri80Vk05NS9KcEhJcmJZRVpSaVFwVk9MYmcwZWZpdmxwNUlYd0NNUDFjM2d6bTYwTjY3VjEwRzBhdk1BNDNVRmkzQUFMTUtWdDBidjQ1c0h2YlgwTTFzT0Q3aGFMQ2l0bVZlY2QyekszOFJlTHVuNXhVT21TZXhCYnh6Y0J0Yk1qa3pYL2FTZWdUakFTOURjT2EvTkp3Nm0wcVhLdDcxNUFQeVFlTGo3Yy96bGc1YXcwNGQwUkZkNHk5M0JQN0J2aWFQa2FSUjZPUWE2ZmFzdHcxYXRkcmNsemhuMHF3QUtQOHVHRXk2eFFKNFBMYW4wSnhnZ1hIbjJFcGJyeUxadkZyTktVY0pZUlF5T1daZjIrN2F6QUJmUldTUTFLQUtoZmZuejJtdzExVGZ2SnQwQ1FQb0drOUFsYlprbk54SUxpNFNPc3R5bzFTUHNSdy92WGcwYjNLeTJxa2R5dllUUmpnd2loMmQzdThTSUh0SW5SZ0djYXV2YnptY2poT2tUcjdQSDcrQllSclQ0VWoyRWtYU2NuSkdXWVJ5NFVjYlpuODJOMzRqckRzWGxJbWdIejg2b1NVWGNQM3FwSUwwYnFIYm1KU1B1d3NHQnZwUXRGVnBNV0p0eGF3aDdsbEZyNktPOVJUSTgvMy84b3BiWHRzR1RBRnA1cUJEU1d5Y3ZEOUVXbXE4WC9LZU5BaFVDRjlhZnNpT0dsbkNISzMvdkJJdjRtYm44L2FzY01BZjdWcTE3ckIvbm9FUlRmdmRzUys2cHFlZXNYUU1mV2o4aFd0UVQ4WTcvTTJVSGlTeG1hcG0zS2Q4ZEpUU25iWTB6QjZHUUkvYkdhaFl0c2dHcEJ5OEhsUjZ6dUtkVWROVkhmUzJOK3ErVEdrRkJ3VEVkTlUxUklSTitCWnZiOHAvVW14SVRucUR1Sk9VMDFQNVhvajFNeWF2M25TTzFsT2R0RjVZajJQSkkyblN2eHhsRHppUHR2bnFtRmU0VW5rdGNVaHJNZjFpeXRZZTJNWTZ5a2Rmb21pczR1WEhtcjg1a0ROajFnTVU5dzIvaWdUb0s3MnFlUS9hQlc0NVV6Mm9meFVyWE1uU09wQXhCVW5qaVRkTlFPR0NiM2FVZngxR1BpWDI1dmFWT2tTMnk2ak50NnpXY2JENWpuNW94S1BlbG5La09UdmZVdnNWUEI3VnYwanlkeStPTllRLytrWCt4UzVlazRMamZlckRVSFQzbGdCMHhjSUNDQjlORjFCS212aFdMSkpQTW4zVlRMd2RXV0s1amNwekkxMHluNDB1RXRLc2U4VjRaYlZzcjdxcU00YjFQTEVRU2dub1IwTUphYy94TmlRdkUraTh4S2xtbU1NUXNiaWcxaUJ3dEttTFFsN0FyT0lKNXh0akh3SUh6ZVpaaXduS3plUEdRQW1Db3RaMklKOWcybXFZeDZ4aFUrdXMrMVpRQVNVOHdvT0U0R0NIT0lDaXVBajRNUTFCSlY4OEkyZ3pGVkI2WWd4bUhXNkJUSFp4S3dlaUxVaFFTY2JyUzdvZ09uUzhqb2lqdWhnMGpWaXE0NThmbkc0b2o4dWMyYktBdWx5a1I0cGM2cWxrbTRPeWYzZlhjOHUreXFld0JnMnVWeTJNaEpZczk5ZzhGVnpDa0RIZ0pvSnpMSFBVOG54Q2hzNTF4RU5jdEVvWk40M1VRYStrR2hEZC9Sd1B4dWZYUXNVVndwK0EyajZwRXpzQlhMenJxOFhERDNVdWg5bEFFNzZKOGcrWlhudzBGSlNsSHd4TW12aXRBWURoQTdIMWMvWE9DUWpxYnE4OEhMUXkycnl2TjY2eEVwRFptM08ybm11WHl6a1BKLy9BV1F3TnlIWEloVHhMTUlJdmRjbWlkSjlvN2NuTjMzY2tUbW45cnVYUmliYnJWb0lEWHhqdkhVbUF2UVZycUhnb2tIL3piTm1TT1lDZkE4T2w4REw3SGt6R1VoMXBMSnF1MVpFRnFsang3QjJiR24zSUVPdGNnU0tteHRHaFI0VWY4ZmxiWkhsMTZQQ1hUenhPZVMrcXlIc1U0VW9NcWFhK3hJSjU0SU9KWkJMaG10d0xxanpNNk5jOWpWcXVhTzVjMlY2d0ZDRTFwdjJPUGxGNjZNYnRvS0l6TndzdHhxQ29OUlp3eXJPbGxGWHVGaDdLVGRJK1BRQ2RRdXplYTd2N1NIMk5SWHJJUHdaVmpoUlFmeWR3Z2VuVG1lSjNPTWxJZmhhREVyNFdFN2hXNTBvUitjQ2Y2b2EwNjBKSDRhbndhbDVHQkQ3UzM2MVh1b2NiR2cxVVh2NlZxVFZjbW9zd0VsU1k5R3I5NXU5dlRaT1hnNklSWFF0WXJ6aFJMOGw2ajRCNGFWN1JtZEEydGYrL2k2ay92RHJiRWtyRU1sZmVRVFRrSWVvbHZUTko0Wk9IVlowaHo2Z3RwZGN3WlU1eXhXQjYrOGl2cDgxcFFkMkhnN0VOVkJGdEtsTnVqcGZoL1crYU55NE9LdkYyNXB6ZEl6d1d4UnNnPT0iLCJtYWMiOiJmMjkxNzJkNmJjMjMzM2UzNjc3M2JhY2ZlOTQ1MmQ4ZDFhYzZlNzRkY2Q4NzU2ZmI0MGZjMjllMWNhNDUxYTA3IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({tabSize: 4}, "stex");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("word",
+     "foo");
+
+  MT("twoWords",
+     "foo bar");
+
+  MT("beginEndDocument",
+     "[tag \\begin][bracket {][atom document][bracket }]",
+     "[tag \\end][bracket {][atom document][bracket }]");
+
+  MT("beginEndEquation",
+     "[tag \\begin][bracket {][atom equation][bracket }]",
+     "  E=mc^2",
+     "[tag \\end][bracket {][atom equation][bracket }]");
+
+  MT("beginModule",
+     "[tag \\begin][bracket {][atom module][bracket }[[]]]");
+
+  MT("beginModuleId",
+     "[tag \\begin][bracket {][atom module][bracket }[[]id=bbt-size[bracket ]]]");
+
+  MT("importModule",
+     "[tag \\importmodule][bracket [[][string b-b-t][bracket ]]{][builtin b-b-t][bracket }]");
+
+  MT("importModulePath",
+     "[tag \\importmodule][bracket [[][tag \\KWARCslides][bracket {][string dmath/en/cardinality][bracket }]]{][builtin card][bracket }]");
+
+  MT("psForPDF",
+     "[tag \\PSforPDF][bracket [[][atom 1][bracket ]]{]#1[bracket }]");
+
+  MT("comment",
+     "[comment % foo]");
+
+  MT("tagComment",
+     "[tag \\item][comment % bar]");
+
+  MT("commentTag",
+     " [comment % \\item]");
+
+  MT("commentLineBreak",
+     "[comment %]",
+     "foo");
+
+  MT("tagErrorCurly",
+     "[tag \\begin][error }][bracket {]");
+
+  MT("tagErrorSquare",
+     "[tag \\item][error ]]][bracket {]");
+
+  MT("commentCurly",
+     "[comment % }]");
+
+  MT("tagHash",
+     "the [tag \\#] key");
+
+  MT("tagNumber",
+     "a [tag \\$][atom 5] stetson");
+
+  MT("tagPercent",
+     "[atom 100][tag \\%] beef");
+
+  MT("tagAmpersand",
+     "L [tag \\&] N");
+
+  MT("tagUnderscore",
+     "foo[tag \\_]bar");
+
+  MT("tagBracketOpen",
+     "[tag \\emph][bracket {][tag \\{][bracket }]");
+
+  MT("tagBracketClose",
+     "[tag \\emph][bracket {][tag \\}][bracket }]");
+
+  MT("tagLetterNumber",
+     "section [tag \\S][atom 1]");
+
+  MT("textTagNumber",
+     "para [tag \\P][atom 2]");
+
+  MT("thinspace",
+     "x[tag \\,]y");
+
+  MT("thickspace",
+     "x[tag \\;]y");
+
+  MT("negativeThinspace",
+     "x[tag \\!]y");
+
+  MT("periodNotSentence",
+     "J.\\ L.\\ is");
+
+  MT("periodSentence",
+     "X[tag \\@]. The");
+
+  MT("italicCorrection",
+     "[bracket {][tag \\em] If[tag \\/][bracket }] I");
+
+  MT("tagBracket",
+     "[tag \\newcommand][bracket {][tag \\pop][bracket }]");
+
+  MT("inlineMathTagFollowedByNumber",
+     "[keyword $][tag \\pi][number 2][keyword $]");
+
+  MT("inlineMath",
+     "[keyword $][number 3][variable-2 x][tag ^][number 2.45]-[tag \\sqrt][bracket {][tag \\$\\alpha][bracket }] = [number 2][keyword $] other text");
+
+  MT("inlineMathLatexStyle",
+     "[keyword \\(][number 3][variable-2 x][tag ^][number 2.45]-[tag \\sqrt][bracket {][tag \\$\\alpha][bracket }] = [number 2][keyword \\)] other text");
+
+  MT("displayMath",
+     "More [keyword $$]\t[variable-2 S][tag ^][variable-2 n][tag \\sum] [variable-2 i][keyword $$] other text");
+
+  MT("displayMath environment",
+     "[tag \\begin][bracket {][atom equation][bracket }] x [tag \\end][bracket {][atom equation][bracket }] other text");
+
+  MT("displayMath environment with label",
+     "[tag \\begin][bracket {][atom equation][bracket }][tag \\label][bracket {][atom eq1][bracket }] x [tag \\end][bracket {][atom equation][bracket }] other text~[tag \\ref][bracket {][atom eq1][bracket }]");
+
+  MT("mathWithComment",
+     "[keyword $][variable-2 x] [comment % $]",
+     "[variable-2 y][keyword $] other text");
+
+  MT("lineBreakArgument",
+    "[tag \\\\][bracket [[][atom 1cm][bracket ]]]");
+})();
