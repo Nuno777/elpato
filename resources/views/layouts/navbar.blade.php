@@ -99,6 +99,29 @@
                         </a>
                     </li>
                 @endif
+
+                <!-- Admin Functions (if user is admin) -->
+                @if (auth()->check() && auth()->user()->type == 'admin')
+                <li class="has-sub @if (Request::is('login-logs')) active show @endif">
+                    <a class="sidenav-item-link" data-toggle="collapse" data-target="#logs"
+                        href="#logs" aria-expanded="false" aria-controls="logs">
+                        <i class="mdi mdi-file-document-outline"></i>
+                        <span class="nav-text">Logs</span>
+                        <b class="caret"></b>
+                    </a>
+
+                    <ul class="collapse @if (Request::is('login-logs')) show @endif" id="logs"
+                        data-parent="#sidebar-menu">
+                        <div class="sub-menu">
+                            <li class="@if (Request::is('login-logs')) active @endif">
+                                <a class="sidenav-item-link" href="{{ route('login.logs') }}">
+                                    <span class="nav-text">Login & Logout Logs</span>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </li>
+                @endif
             </ul>
         </div>
     </div>

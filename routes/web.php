@@ -60,6 +60,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('messages-{message}-edit', [MessageController::class, 'edit'])->name('messages.edit');
         Route::put('messages/{message}', [MessageController::class, 'update'])->name('messages.update');
         Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
+
+        //logs
+        Route::get('/login-logs', [App\Http\Controllers\LogController::class, 'loginLogs'])->name('login.logs');
+
     });
 
     //perms admin or general

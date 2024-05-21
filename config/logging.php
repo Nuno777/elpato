@@ -52,6 +52,18 @@ return [
     */
 
     'channels' => [
+        'main' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/main.log'),
+            'level' => env('debug'),
+        ],
+
+        'auth' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/auth.log'),
+            'level' => env('debug'),
+        ],
+
         'stack' => [
             'driver' => 'stack',
             'channels' => ['single'],
