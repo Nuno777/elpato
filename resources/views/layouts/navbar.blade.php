@@ -145,47 +145,6 @@
                             </a>
                         @endif
                     </button>
-                    {{-- <div class="dropdown-notify">
-
-                       <header>
-                            <div class="nav nav-underline" id="nav-tab" role="tablist">
-                                <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab" href="#all"
-                                    role="tab" aria-controls="nav-home" aria-selected="true">All Message
-                                    @if (auth()->user()->type == 'admin')
-                                        ({{ $messagesCountAll }})
-                                    @elseif (auth()->user()->type == 'worker' && !empty($message->response))
-                                        ({{ $messagesCount }})
-                                    @else
-                                        (0)
-                                    @endif
-                                </a>
-                            </div>
-                        </header>
-
-                         <div class="" data-simplebar style="height: 325px;">
-                            <div class="tab-content" id="myTabContent">
-                                <div class="tab-pane fade show active" id="all" role="tabpanel" aria-labelledby="all-tabs">
-                                    @foreach ($messages as $message)
-                                        <div class="media media-sm p-4 bg-light mb-0">
-                                            <div class="media-sm-wrapper bg-primary">
-                                                <i class="mdi mdi-message-text-outline"></i>
-                                            </div>
-                                            <div class="media-body">
-                                                <span class="title mb-0">{{ $message->name }}</span>
-                                                <span class="title mb-0">{{ $message->drop }}</span>
-                                                <span class="discribe">{{ $message->mensagem }}</span>
-                                                <span class="time">
-                                                    <time>{{ $message->created_at }}</time>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    @endforeach
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div> --}}
                 </li>
                 <!-- end notificacoes -->
 
@@ -193,34 +152,25 @@
                 <ul class="nav navbar-nav">
                     <li class="dropdown user-menu">
                         <button class="dropdown-toggle nav-link" data-toggle="dropdown">
-                            @if (Auth::check() && Auth::user()->id == '1')
-                                <img src="{{ asset('/images/user/skeleton.png') }}" class="user-image rounded-circle"
-                                    alt="User Image" />
-                            @elseif (Auth::check() && Auth::user()->id == '2')
-                                <img src="{{ asset('/images/user/pekka.png') }}" class="user-image rounded-circle"
-                                    alt="User Image" />
-                            @elseif (Auth::check() && Auth::user()->id == '3')
-                                <img src="{{ asset('/images/user/et.png') }}" class="user-image rounded-circle"
-                                    alt="User Image" />
-                            @elseif (Auth::check() && Auth::user()->id == '4')
-                                <img src="{{ asset('/images/user/calvo.png') }}" class="user-image rounded-circle"
-                                    alt="User Image" />
+                            @if (Auth::user()->profile_image)
+                                <img class="user-image rounded-circle"
+                                    src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}"
+                                    width="150px" alt="User Image">
                             @else
-                                <img src="{{ asset('/images/user/user.png') }}" class="user-image rounded-circle"
-                                    alt="User Image" />
+                                <img class="user-image rounded-circle" src="{{ asset('/images/user/user.png') }}"
+                                    width="150px" alt="Default User Image">
                             @endif
-
                             <span class="d-none d-lg-inline-block">{{ Auth::user()->name }}</span>
                         </button>
                         <ul class="dropdown-menu dropdown-menu-right">
-                            {{--  <li>
-                                <a class="dropdown-link-item" href="">
+                            <li>
+                                <a class="dropdown-link-item" href="{{ route('profile') }}">
                                     <i class="mdi mdi-account-outline"></i>
                                     <span class="nav-text">My Profile</span>
                                 </a>
-                            </li> --}}
+                            </li>
                             <li>
-                                <a class="dropdown-link-item" href="{{ route('profile.edit') }}">
+                                <a class="dropdown-link-item" href="{{ route('profile.settings') }}">
                                     <i class="mdi mdi-settings"></i>
                                     <span class="nav-text">Account Setting</span>
                                 </a>

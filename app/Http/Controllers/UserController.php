@@ -6,9 +6,74 @@ use Illuminate\Http\Request;
 use App\Models\User;
 use App\Models\Drop;
 use App\Models\Message;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage;
 
 class UserController extends Controller
 {
+
+    public function profile(User $user)
+    {
+        $user = Auth::user();
+        return view('profile.partials.user-profile-settings', ['user' => $user]);
+    }
+
+    public function updateProfile(Request $request)
+    {
+        $user = Auth::user();
+
+        $request->validate([
+            'profile_image' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
+            'telegram' => 'required|string|unique:users,telegram,' . $user->id,
+        ]);
+
+        if ($request->hasFile('profile_image')) {
+            // Delete old profile image if exists
+            if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
+                Storage::delete('public/profile_img/' . $user->profile_image);
+            }
+
+            // Store new profile image
+            $profileImageName = $user->id . '_' . time() . '.' . $request->profile_image->getClientOriginalExtension();
+            $request->profile_image->storeAs('public/profile_img', $profileImageName);
+
+            // Update user profile image
+            $user->profile_image = $profileImageName;
+        }
+
+        // Update telegram username
+        $user->telegram = $request->telegram;
+        $user->save();
+
+        return redirect()->route('profile')->with('success', 'Profile updated successfully.');
+    }
+
+    public function accountSettings(User $user)
+    {
+        return view('profile.partials.user-account-settings', ['user' => $user]);
+    }
+
+    public function changePassword(Request $request)
+    {
+        $request->validate([
+            'current' => 'required',
+            'newPassword' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
+        ]);
+
+        $user = Auth::user();
+
+        if (!Hash::check($request->input('current'), $user->password)) {
+            return back()->withErrors(['current' => 'Current password is incorrect']);
+        }
+
+        $user->password = Hash::make($request->input('newPassword'));
+        $user->save();
+
+        return back()->with('status', 'Password updated successfully!');
+    }
+
+
     /**
      * Display a listing of the resource.
      */
@@ -17,6 +82,7 @@ class UserController extends Controller
         $users = User::all();
         return view('createuser', compact('users'));
     }
+
 
     /**
      * Show the form for creating a new resource.
@@ -34,12 +100,12 @@ class UserController extends Controller
         $fields = $request->validate([
             'name' => 'required',
             'email' => 'required',
-            'password' => 'required|min:6|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
+            'password' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
             'email_verified_at' => 'required',
             'type' => 'required',
             'telegram' => 'required',
         ], [
-            'password.min' => 'The password must be at least 6 characters long.',
+            'password.min' => 'The password must be at least 8 characters long.',
             'password.regex' => 'The password must contain at least 1 special character.'
         ]);
 

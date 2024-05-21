@@ -5300,6 +5300,7 @@ input[type=button].btn-block {
     border-bottom: 1px solid #e5e9f2;
 }
 
+
 .card-header:first-child {
     border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
 }
@@ -13741,11 +13742,13 @@ button {
     padding-top: 1.875rem;
     padding-bottom: 1rem;
     display: flex;
-    justify-content: space-between;
     background-color: transparent;
     border-bottom: none;
     flex-wrap: wrap;
     text-transform: capitalize;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-direction: column;
 }
 
 .card-default .card-header h2 {
@@ -13797,7 +13800,7 @@ button {
 }
 
 .card-default .card-header-bg {
-    height: 200px;
+    height: 100px;
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;

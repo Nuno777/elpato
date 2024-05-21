@@ -22,7 +22,9 @@ class User extends Authenticatable
         'email',
         'password',
         'email_verified_at',
-        'admin',
+        'type',
+        'telegram',
+        'profile_image',
     ];
 
     /**

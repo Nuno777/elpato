@@ -74,135 +74,133 @@
             </div>
         </div>
 
+
+        
         @if ($messages->isNotEmpty())
-            @if ($drop && ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send'))
-
-                <div class="email-wrapper rounded border bg-white">
-                    <div class="row no-gutters ">
-                        <div class="col-lg-8 col-xl-9 col-xxl-12">
-                            <div class="email-right-column p-4 p-xl-5">
-                                <!-- Email Right Header -->
-                                <div class="email-right-header mb-5">
-                                    <!-- head left option -->
-                                    <div class="head-left-options">
-                                        <h1>Message for <b>{{ $user->name }}</b></h1>
-                                    </div>
-                                    <!-- head right option -->
-                                    <div class="head-right-options">
-                                        <div class="btn-group" role="group" aria-label="Basic example">
-                                            <button type="button" class="btn border btn-pill">
-                                                <i class="mdi mdi-chevron-left"></i>
-                                            </button>
-                                            <button type="button" class="btn border btn-pill">
-                                                <i class="mdi mdi-chevron-right"></i>
-                                            </button>
-                                        </div>
+            <div class="email-wrapper rounded border bg-white">
+                <div class="row no-gutters ">
+                    <div class="col-lg-8 col-xl-9 col-xxl-12">
+                        <div class="email-right-column p-4 p-xl-5">
+                            <!-- Email Right Header -->
+                            <div class="email-right-header mb-5">
+                                <!-- head left option -->
+                                <div class="head-left-options">
+                                    <h1>Message for <b>{{ $user->name }}</b></h1>
+                                </div>
+                                <!-- head right option -->
+                                <div class="head-right-options">
+                                    <div class="btn-group" role="group" aria-label="Basic example">
+                                        <button type="button" class="btn border btn-pill">
+                                            <i class="mdi mdi-chevron-left"></i>
+                                        </button>
+                                        <button type="button" class="btn border btn-pill">
+                                            <i class="mdi mdi-chevron-right"></i>
+                                        </button>
                                     </div>
                                 </div>
+                            </div>
 
-                                <div class="border border-top-0 rounded table-responsive email-list">
-                                    <table class="table mb-0 table-email">
-                                        <tbody>
-                                            @foreach ($messages as $message)
-                                                <tr class="{{ $message->response ? 'read' : 'unread' }}">
-                                                    <td class="mark-mail">
-                                                        <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
-                                                    </td>
+                            <div class="border border-top-0 rounded table-responsive email-list">
+                                <table class="table mb-0 table-email">
+                                    <tbody>
+                                        @foreach ($messages as $message)
+                                            <tr class="{{ $message->response ? 'read' : 'unread' }}">
+                                                <td class="mark-mail">
+                                                    <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
+                                                </td>
 
-                                                    <td>
-                                                        <a type="button" data-toggle="modal"
-                                                            data-target="#viewmessage{{ $drop->id }}"
-                                                            class="text-default d-inline-block text-smoke">
-                                                            @if ($message->response)
-                                                                <span
-                                                                    class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
-                                                                    {{ $message->response === 'yes' ? 'yes' : 'no' }}
-                                                                </span>
-                                                            @else
-                                                                <span class="badge badge-primary">
-                                                                    New
-                                                                </span>
-                                                            @endif
-                                                            {{ $message->message }}
-                                                        </a>
-                                                    </td>
+                                                <td>
+                                                    <a type="button" data-toggle="modal"
+                                                        data-target="#viewmessage{{ $drop->id }}"
+                                                        class="text-default d-inline-block text-smoke">
+                                                        @if ($message->response)
+                                                            <span
+                                                                class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
+                                                                {{ $message->response === 'yes' ? 'yes' : 'no' }}
+                                                            </span>
+                                                        @else
+                                                            <span class="badge badge-primary">
+                                                                New
+                                                            </span>
+                                                        @endif
+                                                        {{ $message->message }}
+                                                    </a>
+                                                </td>
 
-                                                    <td class="date">
-                                                        {{ date('M d', strtotime($message->created_at)) }}
-                                                    </td>
+                                                <td class="date">
+                                                    {{ date('M d', strtotime($message->created_at)) }}
+                                                </td>
 
-                                                    <td class="date">
-                                                        <p>Message Created:
-                                                            {{ date('H:i:s', strtotime($message->created_at)) }}</p>
-                                                    </td>
-                                                    <td>
-                                                        <a type="button" data-toggle="modal"
-                                                            data-target="#viewmessage{{ $drop->id }}"
-                                                            class="btn btn-primary">
-                                                            <i class="mdi mdi-message-text-outline"></i>
-                                                        </a>
-                                                    </td>
+                                                <td class="date">
+                                                    <p>Message Created:
+                                                        {{ date('H:i:s', strtotime($message->created_at)) }}</p>
+                                                </td>
+                                                <td>
+                                                    <a type="button" data-toggle="modal"
+                                                        data-target="#viewmessage{{ $drop->id }}"
+                                                        class="btn btn-primary">
+                                                        <i class="mdi mdi-message-text-outline"></i>
+                                                    </a>
+                                                </td>
 
-                                                    <td>
-                                                        <form
-                                                            action="{{ route('messages.destroy', ['id' => $message->id]) }}"
-                                                            method="POST"
-                                                            onsubmit="return confirm('Remove Message?');">
-                                                            @csrf
-                                                            @method('DELETE')
-                                                            <button type="submit" class="btn btn-danger"><i
-                                                                    class="mdi mdi-trash-can"
-                                                                    data-toggle="tooltip"></i></button>
-                                                        </form>
+                                                <td>
+                                                    <form
+                                                        action="{{ route('messages.destroy', ['id' => $message->id]) }}"
+                                                        method="POST" onsubmit="return confirm('Remove Message?');">
+                                                        @csrf
+                                                        @method('DELETE')
+                                                        <button type="submit" class="btn btn-danger"><i
+                                                                class="mdi mdi-trash-can"
+                                                                data-toggle="tooltip"></i></button>
+                                                    </form>
 
-                                                    </td>
-                                                </tr>
-                                            @endforeach
+                                                </td>
+                                            </tr>
+                                        @endforeach
 
-                                        </tbody>
-                                    </table>
-                                </div>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
 
-                {{-- modal --}}
-                @foreach ($messages as $message)
-                    <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
-                        aria-labelledby="viewmessageLabel" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <form method="POST" enctype="multipart/form-data" id="responseForm"
-                                        action="{{ route('messages.update', ['message' => $message->id]) }}">
-                                        @csrf
-                                        @method('PUT')
-                                        <div class="form-group">
-                                            <label for="message">Message</label>
-                                            <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
-                                                readonly required>{{ $message->message }}</textarea>
-                                        </div>
-                                        <input type="hidden" name="response" id="response">
+            {{-- modal --}}
+            @foreach ($messages as $message)
+                <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
+                    aria-labelledby="viewmessageLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="viewmessageLabel">Message Request New Drop</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <form method="POST" enctype="multipart/form-data" id="responseForm"
+                                    action="{{ route('messages.update', ['message' => $message->id]) }}">
+                                    @csrf
+                                    @method('PUT')
+                                    <div class="form-group">
+                                        <label for="message">Message</label>
+                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                            readonly required>{{ $message->message }}</textarea>
+                                    </div>
+                                    <input type="hidden" name="response" id="response">
 
-                                        <button type="button" class="btn btn-success"
-                                            onclick="submitResponse('yes')">Yes</button>
-                                        <button type="button" class="btn btn-danger"
-                                            onclick="submitResponse('no')">No</button>
-                                    </form>
-                                </div>
+                                    <button type="button" class="btn btn-success"
+                                        onclick="submitResponse('yes')">Yes</button>
+                                    <button type="button" class="btn btn-danger"
+                                        onclick="submitResponse('no')">No</button>
+                                </form>
                             </div>
                         </div>
                     </div>
-                @endforeach
-            @endif
+                </div>
+            @endforeach
         @endif
 
     </div>

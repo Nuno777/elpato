@@ -3,3 +3,4 @@ document.getElementById('label').addEventListener('change', function(e) {
     var nextSibling = e.target.nextElementSibling
     nextSibling.innerText = fileName
 });
+

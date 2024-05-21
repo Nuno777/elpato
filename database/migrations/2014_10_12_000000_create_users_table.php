@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('password')->notnull();
             $table->enum('type', ['worker', 'general', 'admin'])->notnull();
             $table->string('telegram')->unique()->notnull();
+            $table->string('profile_image')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

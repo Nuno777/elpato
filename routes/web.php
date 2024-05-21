@@ -78,7 +78,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
     //perms admin or general or worker
     Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
         Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
-        Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+        Route::get('/profile', [UserController::class, 'profile'])->name('profile');
+        Route::post('/profile/update', [UserController::class, 'updateProfile'])->name('profile.update');
+        Route::get('/profile-settings', [UserController::class, 'accountSettings'])->name('profile.settings');
+        Route::post('/account-settings', [UserController::class, 'changePassword'])->name('account.change.password');
 
         Route::get('/drops', [DropController::class, 'index'])->name('drops');
 
