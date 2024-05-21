@@ -3,8 +3,6 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Middleware\Admin;
-use App\Http\Middleware\General;
-use App\Http\Middleware\Worker;
 use App\Http\Middleware\AdminOrGeneral;
 use App\Http\Middleware\AccessDropsOrOrders;
 use App\Http\Controllers\DropController;

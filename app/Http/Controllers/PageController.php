@@ -9,7 +9,6 @@ use App\Models\FTID;
 use App\Models\User;
 use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
-use function Laravel\Prompts\alert;
 
 class PageController extends Controller
 {
@@ -32,8 +31,6 @@ class PageController extends Controller
 
         return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount, 'messagesCount' => $messagesCount, 'messagesCountAll' => $messagesCountAll]);
     }
-
-
 
     public function adminpainel(User $users, Order $orders, FTID $ftid)
     {
