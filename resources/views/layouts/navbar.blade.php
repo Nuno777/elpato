@@ -180,7 +180,7 @@
                                 @if (Auth::check())
                                     <form method="POST" action="{{ route('logout') }}">
                                         @csrf
-                                        <a class="dropdown-link-item" href="route('logout')"
+                                        <a class="dropdown-link-item" href="{{ route('logout') }}"
                                             onclick="event.preventDefault(); this.closest('form').submit();">
                                             <i class="mdi mdi-logout"></i>
 

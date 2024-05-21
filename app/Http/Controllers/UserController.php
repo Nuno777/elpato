@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Storage;
 class UserController extends Controller
 {
 
+    //-----------------------controller Profile
     public function profile(User $user)
     {
         $user = Auth::user();
@@ -72,6 +73,7 @@ class UserController extends Controller
 
         return back()->with('status', 'Password updated successfully!');
     }
+    //-----------------------end controller Profile
 
 
     /**
