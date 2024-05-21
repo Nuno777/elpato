@@ -38,6 +38,53 @@
 ========= my css =========
 ==========================*/
 
+/*eye change password*/
+.toggle-password i.mdi-eye {
+    color: #6c757d;
+    /* Default color when password is hidden */
+}
+
+.toggle-password i.mdi-eye-off {
+    color: #3E9CD6;
+    /* Default color when password is visible */
+}
+
+.toggle-password:hover i.mdi-eye,
+.toggle-password:hover i.mdi-eye-off {
+    color: inherit;
+    /* Prevent hover color from overriding the eye icon color */
+}
+
+.toggle-password i.password-visible {
+    color: #3E9CD6;
+    /* Color when password is visible */
+}
+
+
+/*eye create user*/
+#togglePassword i.mdi-eye {
+    color: #3E9CD6;
+    /* Default color when password is hidden */
+}
+
+#togglePassword i.mdi-eye-off {
+    color: #3E9CD6;
+    /* Default color when password is visible */
+}
+
+#togglePassword:hover i.mdi-eye,
+#togglePassword:hover i.mdi-eye-off {
+    color: inherit;
+    /* Prevent hover color from overriding the eye icon color */
+}
+
+#togglePassword i.password-visible {
+    color: #3E9CD6;
+    /* Color when password is visible */
+}
+
+
+
 /*===== scroll bar =====*/
 .drag-text {
     text-align: center;

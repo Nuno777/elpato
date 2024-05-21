@@ -87,20 +87,41 @@
 
                             <div class="form-group mb-4">
                                 <label for="current">Current Password</label>
-                                <input type="password" class="form-control" id="current" name="current"
-                                    placeholder="Current Password" required>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="current" name="current"
+                                        placeholder="Current Password" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
 
                             <div class="form-group mb-4">
                                 <label for="newPassword">New Password</label>
-                                <input type="password" class="form-control" id="newPassword" name="newPassword"
-                                    placeholder="New Password" required>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="newPassword" name="newPassword"
+                                        placeholder="New Password" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
 
                             <div class="form-group mb-4">
                                 <label for="conPassword">Confirm Password</label>
-                                <input type="password" class="form-control" id="conPassword"
-                                    placeholder="Confirm Password" name="newPassword_confirmation" required>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="conPassword"
+                                        placeholder="Confirm Password" name="newPassword_confirmation" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
 
                             <div class="d-flex justify-content-end mt-6">
@@ -114,3 +135,6 @@
     </div>
 </div>
 @endsection
+@push('scripts')
+<script src="{{ asset('js/changepass.js') }}"></script>
+@endpush

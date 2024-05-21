@@ -258,7 +258,7 @@
 
         @endif
 
-
+        
         {{-- code skeleton --}}
         @if (Auth::check() && Auth::user()->id == '1')
             <div class="row">
