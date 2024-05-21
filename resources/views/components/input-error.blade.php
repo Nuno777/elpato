@@ -1,9 +1,1 @@
-@props(['messages'])
-
-@if ($messages)
-    <ul {{ $attributes->merge(['class' => 'text-sm text-red-600 dark:text-red-400 space-y-1']) }}>
-        @foreach ((array) $messages as $message)
-            <li>{{ $message }}</li>
-        @endforeach
-    </ul>
-@endif
+ENCRYPTED::eyJpdiI6InJBRDk1eUZ3UDNZQWV5RjZqNE81Ymc9PSIsInZhbHVlIjoiR0FpZmdhUFIrMERrMi9GRmxiNGdvQStYODdlVWwxclR4SUhQZ3NzRDVpSFBYbjdra0s3ODljcFVtZDE4VmZIUk12eSsvbUhqNnYrRklpbmw3emxPNE55VHpmR1lVck5VU3BwekpPT1FLTXBFQnU4VWVQZ2pKdFViL05QY1R5dEY1UWNCMEdVOFZIZzkxa3VQVStSRHpTYlRhVUZVdlNGeVdxZEtEeWJJR1FZKzRHWUYrMkNvY2EzbzBRQzJ3dnppaGdVUCtVdkd1cllsNHkvc1pyc3d5T3VaQ1ZhZ01MSGxZK1pXWHZUcm81bk45SExTSVpDalV1LzROU0dibHpZaHVKV2N2b2lSYXFDNmlXeGRSbFl2NkNNSjlSYldLZEJ5TUI1d2MrTHloZEM0WDlZNjhPL0lrc1B5RXNCYWlvUWNoZ0owcWZWMksyZUFRTVdoejRBWHZsblpDSVlxT0l1OTNCR1VTb2hRWlZrPSIsIm1hYyI6ImIyYzZlZTY1M2FkOGY2ZjE4NjJiMDVkODFmZWIzYmEwM2U4YjgwYTJhMDAwZjc3ZmE3YzMwOGEzYjVlYWMyNzkiLCJ0YWciOiIifQ==

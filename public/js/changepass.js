@@ -1,12 +1,1 @@
-document.querySelectorAll('.toggle-password').forEach(function(button) {
-    button.addEventListener('click', function() {
-        const input = this.parentElement.previousElementSibling;
-        const type = input.getAttribute('type') === 'password' ? 'text' : 'password';
-        input.setAttribute('type', type);
-        this.querySelector('i').classList.toggle('mdi-eye');
-        this.querySelector('i').classList.toggle('mdi-eye-off');
-        // Toggle class to control eye icon color
-        this.querySelector('i').classList.toggle('password-visible');
-    });
-});
-
+ENCRYPTED::eyJpdiI6IjMxbFZwQlpjRU5ERnlpUE9lRjR6aGc9PSIsInZhbHVlIjoiYlVzcngwZWU2emdROUFFN0dhQ0kydWhyd1doM3FWMDV4eVBHM0phbWtJeXZoblVJNnNueWhFb1Rxc3U3MDhNanJTS0E2c1hGd1hOVUxKOU9oNG8wUlhlRVk4dUxmUm5yV01iQWFXQStndzJRZHZ1aTBiNU1TWm96dXFncy9ReFdnMllqVWhZd3dCMFZHWkhYUWhIKzFGbEErSExQZWU1K1NxT1dkdkxVZ25VMUtxSzg4Zi93MjJFQ2JScXVSVksydEJSQnl4bHNMVjdJT2ExdTNBRTNVMnVvU1YxTk9KUGlLcDZCbU8weTI1Y3VIczgyR01uN2tCSDZVMzVONUN3QW1JbzFPS1plNGtOT3k4c1RpUHRpRmFReHdzVEhvZ2ZyTUN0NzZPbi9pTVRzU3lDRVpqeDh4OVJDci9rZ3F3eWRRMVYvZkxjeW16TC9xNDBRNWx1eTQyRU50aHp4aTZhSU83aE04ZFdYRHhRRGVyNWtZN1p6cjBrZmJSZU9zc3FsU0FkMkE3VENWQWF5dllLUWtuYWUrb0Y0U1hMK2VFNVF3RjA5Q0NocERyczVWMVdFUjN2R3RabXVDVElzUGtpbnlxZ0xaZWlOdmVCbTEzbkxPaW9PSlE4bGZmSXU5eWxpZENTckpuc29lQmJUY2RIYTZUM1FpREl2OVZWWFN4T3ZjbDAwcy81dFgxWFBoeCtIMlkxVDdXOFNKVzZOY2FYQlRZNWpGY0I1eXhieW1YazNMYWF4S2xIQjJ6ckE1QXhuNkhVU2p4dFN4QVRKeVZMR09tQnlPVDk3UnhkbnNROWpJS1F6MTh0SVRYVDh2UU55RXNqUnVuNzRkbzFDWGhlbk8zNEJZbUcwd3NwNCtJMVBnZXBzQU5SRzM2NVViMGVEUlJYN2U0aVBMWDJuRkxHLzBuemNrMjNrWm5IZ2t0Z094WGR4WU83dWJXMWtUVk1HM0FWS2ZLdGhPY041QjBZK2ltMG1weCtEODhLM2Urb1RHaDMvTkRVM3NhWnBuUytZIiwibWFjIjoiYTQzYzlmYjVkYzAwMzJiY2RiOWE2NWI5NjFmMmU5ZWIwMTk3NzgwMzczMTQxNGRlYjM3ZTJiZmJlOTUxOTE5NCIsInRhZyI6IiJ9

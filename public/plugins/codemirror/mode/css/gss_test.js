@@ -1,17 +1,1 @@
-// CodeMirror, copyright (c) by Marijn Haverbeke and others
-// Distributed under an MIT license: http://codemirror.net/LICENSE
-
-(function() {
-  "use strict";
-
-  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-gss");
-  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), "gss"); }
-
-  MT("atComponent",
-     "[def @component] {",
-     "[tag foo] {",
-     "  [property color]: [keyword black];",
-     "}",
-     "}");
-
-})();
+ENCRYPTED::eyJpdiI6IlVPY2d1RWE0NzhMSFVlM1VkcEdKR2c9PSIsInZhbHVlIjoiWm5ocTZLd1B6bzNhQjAxTUFZMjl6ZHVRSk1DTHBsdVY0TUVuTW1IN3JWSXlBRnprTWdwd0N6UXd2djYvakdmaXpDSU5uZXFydDVKTWJITklTU0JRVktTMHhMOEtwOU54SVR1bXZGME5WT3E0MVNZaWFTUGJ4OVB0WWdFMThZNnZEODk3VlpmWFRxSFJ2UWQyZExrcy9oRlZ5V0ZSK3A5dm5QOXFGdGpmWldoMTJzMktQUnhWSlQvWDhPdExxelg4MXdkeURXMURXalBSTzRCLzZxajhkWDgyWHk3c1NVWC9BYUlWRllaMXFiNWcrNE1HMDNNWVZpRXNHUmlKUkd3b0tBQnZQWnFzbWZ2R1BaemdQYk9CZTVxY2ZNOTliVllkSlBDVmlLakxGN0IrblJSRG8rc1NVcm5PLzR6aUI0Qm9VSGRxcXYxT1gycmpTajdCUnJEM2NJZFBwWERMYXF5RWd0SzNkQkxDcENSc2VOalZIY3VNemJrY1doTWsxVG5GUUlDVm9jVG0vR2ZSTTJ3SThpZTJ0bTZMOHpJUXk5dWJ5ZzJQR3BzQzlEOHpsTHU0Njh2RXR3SGM0RG42SVVjN2J3SGpZZ3hPMVk2S1VWRHJYbStXQ1Yrem9BdG5LLzZrbURFOEFCRlNjRHFTZ1BuSlJvK1I4MTI5cUtvdWpNdDV0WVpucGlxRnNibXZzUUtNYW0yc1J2SlpvRWV6SkVnNlhCWnp1VFhMMGpJTU1EK1g0Mm5YTlBYakFQVEZpeFRzcWd1UGVTbWpuYzZKL2tDcnlIZ1pOVWs2Z0p2STVUUjd6MTQrV3lRKzF6Yz0iLCJtYWMiOiI2ZmZmYTkzMmM1YjY5Mjk2M2RkZjYwMjkxN2FjNGI2NmQ1MjJlNWU3MmFlOWE4ZmU4OTAwYTFhNWQ0ZDI1YWIwIiwidGFnIjoiIn0=

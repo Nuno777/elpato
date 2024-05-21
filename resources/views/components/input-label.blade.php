@@ -1,5 +1,1 @@
-@props(['value'])
-
-<label {{ $attributes->merge(['class' => 'block font-medium text-sm text-gray-700 dark:text-gray-300']) }}>
-    {{ $value ?? $slot }}
-</label>
+ENCRYPTED::eyJpdiI6IlhWYWlRS1VULzhGaC9ITVJPL1ZFdGc9PSIsInZhbHVlIjoiNU5pTzVvOGxWeEhkNXIremZoZHQxa2Eyc21UMFlOTko3ZnNzT1dhcURmNnZFdll4eGRHcUNubEVwZHNuaFByVGlvT2xGcjlJdTc2NW93WWJLWEdTTGlBUXJyaVlVWjJRK3hObzJLWC9TVmZ3cnlCTHRoYlhZakRHWnQ5U2RIVS9qK1hiOElSYWhWWHlVTndEQlNsZXhQMk15TU1DdTNDYk1kOWFXd3RURmVEbVlIWUdDTDhyOGYvNFB5K29CNkRSR0xOV3ZVT1JRbnI4dkJNNzVCWkxUekVrR2ZyZHhpMmpzdy9DejVEMjk0Yz0iLCJtYWMiOiIzYjFlM2U3MDU4NDc0MjFmZDBlYjU2YTczYWZkNGQ1NjY0MmU3NGFhN2FkNzQ1OTVmMGIyNTdlNTA1NGQyNGFiIiwidGFnIjoiIn0=

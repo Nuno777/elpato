@@ -1,11 +1,1 @@
-@props(['active'])
-
-@php
-$classes = ($active ?? false)
-            ? 'inline-flex items-center px-1 pt-1 border-b-2 border-indigo-400 dark:border-indigo-600 text-sm font-medium leading-5 text-gray-900 dark:text-gray-100 focus:outline-none focus:border-indigo-700 transition duration-150 ease-in-out'
-            : 'inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 hover:border-gray-300 dark:hover:border-gray-700 focus:outline-none focus:text-gray-700 dark:focus:text-gray-300 focus:border-gray-300 dark:focus:border-gray-700 transition duration-150 ease-in-out';
-@endphp
-
-<a {{ $attributes->merge(['class' => $classes]) }}>
-    {{ $slot }}
-</a>
+ENCRYPTED::eyJpdiI6IjJzNjZoL0pjRDJjKzdycFJYNWZkZ1E9PSIsInZhbHVlIjoicGRENXU0VUZUUmNHdTVlcWJsUVhSUUdtVk5USENLUnhNcVgxUWJsZWVKMFlpRFp1Z2tMTXBxaUYxazlwVEVXKzA0NEhuenozUkEzdllweHV5VGtUY3dSOCszanh5R0d3aWRtYy93TFZ2aXZFU0p0M1hyR28yNWdYajRTOWtpRUxnUXFmbUJTc1pFMExBbFpLZTFLZm1CNVg4c0lQelZ3QXltdkdLZHpiazhzc1BaM2lEdTZtK1YraHZjRDRZSlNtdUlvS0RxNmdKM3RrOHU2NFJsYVJrWmV4Z1BpaW5OcmlSQldSNmhKaTczRStCclBKZlViTjl1NE1mK01TRlFyWkM5elVoTldseEkxSXI1SUtiNzhkcnp0Z2dBL2JxbDdDVkVmaUY4VzV5Qm1DNjkrMEJMK1lub0grekN1MGpQYlVSdzRmeHJmRlIxbTJJTzhVQlFGTVBNQktxZy9OcDZOemcwcjZVZTFHL2hKYkpKQk9xbXR4YUQzb2VWK3hGRXhnc3VPc1psazRPQXoxMTlGazdRL255bjhDYVIrU2toblZxZmozcFNTN2xObmt3cnVXSjg3MzE3ZldTVXJSdHR2UXlzNkhEdHpES2YvNkpaVW9nM2xmSldaZVB6NTA0V0JCUG1KbzFYeCtYRmFEK3JSeFBiYTVlbldTOGU2NFpnZkl1dFJLMU8vSVp4S0txNkVNWmlpaFJLaHh3bVZ6ZHZObXhZSUdLbVB2TkEvVEh2enJzcCtrUzBaWlBaSUVWZzd3RUM2TkFPdGlhQ0JtOWpONXQ0SEluSEdmT2lucjcxUUVYTkF0VWczZVJGc2xJekwvZXZtMkNrdDg1MlJPeTVQTkJzZmdSSzIwaVEvYlg0dXY1bUErRTcrbThqWm5Tb05FMXlGZERHcW9ZQXFXdWJ3ejU3Y1gxZHFnTnM1ZUY5QlZCQXorZEc5aWM1akQzbXNnL2FmSzJrS1RmQjhoUGx0UHJrZUd5MjEyWlgwM3pGbGRBMVhaSTdvVVg2TEdyWWl1YUlvZE5WM2VlZ2NjTEdyUm0yR1pweUdzMURpWjEvOEhKaFFWQ2FjUXJKVG1FMVhtOFJTTDdIQzVEcjluaGZ5Q0RRNG51UVpFWGl6MThVS2dLSHNuVVpKaGtiMXl4ZGlyV3dFMjMwNHdua2twWlgwQUZRL0c0cnIxT0FOYlptbEx4clZFV3V6cXozb1FOVHBKbW9kbjBmdVNNTlhjcnZPSjhieUdGTjFVMFkreXNWZjc4UzNwdEtiVXlUYW5SV3hMTWNpdXZtMlZ6K2tDaXNpbjV3ZHhMajBTN2ljWGNZTEJqdGM0QWlIY3pzY3lqVEllVnE1RjlvQkVYNVhuZ2Q2WTNtOHhNd1dIWHJDdXFWSmhBRlhsTVE9PSIsIm1hYyI6IjY3MGQ1NTcxMjE1ODNlZmU4MGY5ZDYzNzNlYzg1NDA4MzJlNzdlMzIyOWUyYzY3NjdlMzNjMmMzZDUzYzdkYTAiLCJ0YWciOiIifQ==
