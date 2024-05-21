@@ -7,19 +7,23 @@
 
 <div class="content-wrapper">
     <div class="content">
-        <div class="card card-default">
-            <div class="card-body">
-                <h1>Login & Logout Logs</h1>
-                <br>
-                <ul>
-                    @foreach ($logs as $log)
-                        <li>{{ $log }}</li>
-                    @endforeach
-                </ul>
-                <br>
-                <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
+        <div class="col-lg-7 col-xxl-12">
+            <!-- Chat -->
+            <div class="card card-default chat-right-sidebar">
+                <div class="card-header">
+                    <h2>Login & Logout Logs</h2>
+                </div>
+
+                <div class="card-body" data-simplebar style="height: 620px;">
+                    <ul>
+                        @foreach ($logs->reverse() as $log)
+                            <li>{{ $log }}</li>
+                        @endforeach
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
 </div>
+
 @endsection

@@ -23,7 +23,10 @@ class LogSuccessfulLogout
     public function handle(Logout $event)
     {
         $user = $event->user;
-        $ipAddress = request()->ip();
-        Log::channel('auth')->info('User Logged Out', ['user_id' => $user->id,'user' => $user->name, 'email' => $user->email, 'ip' => $ipAddress]);
+
+        if ($user->type === 'general' || $user->type === 'worker') {
+            $ipAddress = request()->ip();
+            Log::channel('auth')->info('User Logged Out', ['user_id' => $user->id, 'user' => $user->name, 'email' => $user->email, 'ip' => $ipAddress]);
+        }
     }
 }
