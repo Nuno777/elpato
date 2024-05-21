@@ -16,6 +16,20 @@
                     {{ csrf_field() }}
                     @method('PUT')
 
+                    <label for="name">Profile Image</label>
+                    <div class="row">
+                        <div class="col-6">
+                            @if ($user->profile_image)
+                                <img class="rounded-circle"
+                                    src="{{ asset('storage/profile_img/' . $user->profile_image) }}" width="80px"
+                                    alt="Profile Image">
+                            @else
+                                <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="80px"
+                                    alt="Default Profile Image">
+                            @endif
+                        </div>
+                    </div>
+
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="row">
@@ -30,20 +44,18 @@
                     </div>
 
                     <div class="row">
-
                         <div class="col-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
                                 <input type="text" name="name" class="form-control"
                                     value="{{ old('name') ?? $user->name }}" placeholder="Name" required>
-
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="form-group">
                                 <label for="email">Email</label>
                                 <input type="email" name="email" class="form-control"
-                                    value="{{ old('carrier') ?? $user->email }}" placeholder="Email" required>
+                                    value="{{ old('email') ?? $user->email }}" placeholder="Email" required>
                             </div>
                         </div>
 
@@ -81,12 +93,12 @@
                                         <input type="text" name="email_verified_at" class="form-control"
                                             value="{{ old('email_verified_at') ?? $user->email_verified_at }}"
                                             placeholder="Create Check" readonly required>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <button type="submit" class="btn btn-primary">Edit User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
@@ -96,9 +108,11 @@
 </div>
 
 @endsection
+
 <script>
     var previousType = '{{ old('type') ?? $user->type }}';
 </script>
+
 @push('scripts')
 <script src="{{ asset('js/checkperm.js') }}"></script>
 @endpush

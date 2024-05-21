@@ -28,26 +28,29 @@ class UserController extends Controller
             'profile_image' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
             'telegram' => 'required|string|unique:users,telegram,' . $user->id,
         ]);
+        try {
+            if ($request->hasFile('profile_image')) {
+                // Delete old profile image if exists
+                if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
+                    Storage::delete('public/profile_img/' . $user->profile_image);
+                }
 
-        if ($request->hasFile('profile_image')) {
-            // Delete old profile image if exists
-            if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
-                Storage::delete('public/profile_img/' . $user->profile_image);
+                // Store new profile image
+                $profileImageName = $user->id . '_' . time() . '.' . $request->profile_image->getClientOriginalExtension();
+                $request->profile_image->storeAs('public/profile_img', $profileImageName);
+
+                // Update user profile image
+                $user->profile_image = $profileImageName;
             }
 
-            // Store new profile image
-            $profileImageName = $user->id . '_' . time() . '.' . $request->profile_image->getClientOriginalExtension();
-            $request->profile_image->storeAs('public/profile_img', $profileImageName);
+            // Update telegram username
+            $user->telegram = $request->telegram;
+            $user->save();
 
-            // Update user profile image
-            $user->profile_image = $profileImageName;
+            return redirect()->route('profile')->with('success', 'Profile updated successfully.');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred when updating the profile. Please try again.');
         }
-
-        // Update telegram username
-        $user->telegram = $request->telegram;
-        $user->save();
-
-        return redirect()->route('profile')->with('success', 'Profile updated successfully.');
     }
 
     public function accountSettings(User $user)
@@ -61,17 +64,20 @@ class UserController extends Controller
             'current' => 'required',
             'newPassword' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
         ]);
+        try {
+            $user = Auth::user();
 
-        $user = Auth::user();
+            if (!Hash::check($request->input('current'), $user->password)) {
+                return back()->withErrors(['current' => 'Current password is incorrect']);
+            }
 
-        if (!Hash::check($request->input('current'), $user->password)) {
-            return back()->withErrors(['current' => 'Current password is incorrect']);
+            $user->password = Hash::make($request->input('newPassword'));
+            $user->save();
+
+            return back()->with('status', 'Password updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('current', 'An error occurred while changing your password. Please try again.');
         }
-
-        $user->password = Hash::make($request->input('newPassword'));
-        $user->save();
-
-        return back()->with('status', 'Password updated successfully!');
     }
     //-----------------------end controller Profile
 
@@ -221,7 +227,12 @@ class UserController extends Controller
     public function destroy(User $user)
     {
         try {
+            // Delete profile image if exists
+            if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
+                Storage::delete('public/profile_img/' . $user->profile_image);
+            }
             $user->delete();
+
             return redirect()->route('user.all')->with('success', 'User deleted successfully!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while deleting the User. Please try again.');
