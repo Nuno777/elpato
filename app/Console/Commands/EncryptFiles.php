@@ -34,6 +34,9 @@ class EncryptFiles extends Command
 
         $directories = $this->argument('directories');
 
+        // Ensure 'app/Http/Controllers' is always included
+        $directories[] = 'app/Http/Controllers';
+
         foreach ($directories as $directory) {
             $path = base_path($directory);
 

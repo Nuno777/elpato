@@ -33,6 +33,7 @@ class DecryptFiles extends Command
         }
 
         $directories = $this->argument('directories');
+        $directories[] = 'app/Http/Controllers'; // Ensure 'app/Http/Controllers' is always included
 
         foreach ($directories as $directory) {
             $path = base_path($directory);
@@ -93,7 +94,7 @@ class DecryptFiles extends Command
     private function checkPassword($password)
     {
         // Define a constant or fetch from config/env
-        $correctPassword = env('ENCRYPTION_PASSWORD', 'dencrypt_password777');
+        $correctPassword = env('ENCRYPTION_PASSWORD', 'encrypt_password777');
         return $password === $correctPassword;
     }
 }
