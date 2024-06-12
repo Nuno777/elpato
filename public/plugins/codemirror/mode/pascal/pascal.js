@@ -1,1 +1,109 @@
-ENCRYPTED::eyJpdiI6ImdnTDVQYUgycG9xNTVvOVFlZlJiNkE9PSIsInZhbHVlIjoibllIU1dKcmZOVENrelhlNmxLeTFYTUNJSG52SnYrbW5wcFhGR3JzbFZEbTVMUkVFdmNnVmROVjhaM2REcVltdFJzNFNlbGtRVm8yTUJCU2dIUFJhT2RTUFpRSlAvYVdlYzh5NlBpOUFnTmlpZ241K0FOQ3lSVnFSNUwwUklmVUl5QjFZdFpXcDBwZDdzMXZKcFh1aEFZSU0yYm1lTzZwSDJzVklRSG02bjkvVTIyOFN1cWVZK0EvK1NmMmc1S2xkenVHZHZiU2JHeUNSQmhuRGNScXMwS2F2N3AvUm5zME9Wb1NlSXFDZmcxQjZUam9vWTdGV2wwL1dzWmFwL0JZTER4RURLRmUrNy9QRTRhdE9ZUzRjNDdHWG9LME02QXpSVTNQdGRlOFh2cDlpcXgwQ05SQzVJSG5XSFZCamJ1bjVkb21idHZ5RHlOSCtIMDBoeHV4RmxSYzJjazhxWG5YTGt2b3lkMFJrMTM2S1REd3IwZ05iajhHaTVjdUtNRHpCaGNkcGxSSmFpaFlBSlFTeFlBSHM4eDdVNXVxdXNUdVU5dFpZTk1RY0J0czRKWTl2M3R6L2ZTNHQwZDIwTVd2VkoxVTNaejRBNnJ3Q1BacDY3SEo3WEJ1TlEyRy9ONEFGZzN1RG1RRC9YVXNTSGRNbHB3S1o0VDBCb2VMdGQ2VTZjaUhHVGM5eEdsOENGbmFib2djUy9OanNYcGNySnZmTXNvaGVyMGxnR01QM1RPR3h5TkxEOS9IaEpMdXkxbEloR3NwTWNDK0tIZ2xwaUVHVGFwVndIakM4ckgwNUkyKzhzcUIrT2Z5RXFEcTRxRjlEOFdySDNRUXROSVE2dFhDcG1UdTFYWDBBOUpWYmZDZUhsMmJPRU1BZ1ErbGdLaW5FUEw5QnN4ZDN5eWhwY3lhV2l1Q2VXTHRrMDc4RmNJZkZFVXZZcXQxUFB5OUwwUG0zQUFMM1hXZGt6RkRBRGc4eHh6bkFGSGZBUXoybUFEYkVIQUlLOVl3R1dqaVhJbHRoUnV5RVZ3ekFRZWJOMnBpZUx4ZHJOMVVUNnJ3SHh0d3FsTFd5eFVFUUlVWGg0TEU2emdMZ0RzZk91UkNHcXlTN0pkQXYvK3V5RW9lRWpYWlNremV4REFzcnBpY1Awa3VyMVFiNmlnWk9mNGk0S0o3VVI2b3FSVlpISTViWTI5TWVhSHRaUFFOVzY0U05xWFEzTG9iYnN4V0pmWmZsRkM2R1Z0bFFWeUNaem1EZDBuaWJxQThKL2plajdJUlB1cWlWOFpsdFFwb3VhMjZiSlIzejN3MFJFY214LzRrcnBWckMzT1RNTmRIWFg1NU4wK3pXMVp4SFpNM1J1OGl1QkNOaVNYbWFCckJQSXZQZjZOTmNGeFpLSHlyV0xpd0xWbEs5S3pkaEszWDZudHVMRnpzYm1La21zNzByRlExZnd6cXNVT3hFQ2c5M3REV0t2dXpWVnVCRTY2ZHl3NGh5OWFPSEd0bHpia2ljYUo3djJJem52dkdueVN5KzZWNkhlZjFjR1FQakJUeGZpR1BtS0Y4SlI3NmcwTkg0RzFvT3pMS3E3dyttTmpDS3oweEc2Kzh1UjB2VUFtVGVjV09peXJzQ0E3K2JQL255d2Z6UDh5b2l0SWpRcU9tQ1BBTlJtTzROL2UwT2ZZUHlkRmpCdlRtQ29XTTRSRkVIWlprTDFMcE5Na2hycUNMZjg4bU8xcmIrTFQvMkttOUZpZklxRGN5bmV2aWJyZEJucTdNME5hQWtyVDYrS09GUUxNaEVkWGFDZlFTSXhUR3RkN0xlMm9RWE9DTURxaXc4UFg2Z1MzNmhzVlJqZkdyMTQ3TXpXd0EwSmZPVkZzUGIyd2dGQUVIMysrMEJvZ0t0VkdqZTdpaWJzblFjL2FUc0pxN3FQTVhPYUYzeWZ2clhJdXNHQ0hoUWRwaXNpV2w4V0dXemJMeFZuWDZLd3h1aS9RNTlPNUxRR1pHK0dSZEFrOU9YOUJoR1ZTZVlHd0hWRWd0MzVCNnd2S3NhQ1dVTGZkZ0FSNmJRaXdtWm5jaGV4amNtZEpiQ0hyZUI2Ukl3RERPUjczNC9ZakRLWERxeUc3bWZTZ2FDbllNOEtzK0ZOS080cU40NVBwQ3IrL0s5T0FSQ1ltUHZDTVk5NjZ4SXNWbVVPdXNHbDhZSEhiOS82NHBKcmY2ZXZUckVmb3hoMnAyL3ptK0ljRS8zQTdzdDZNdlFaZW5yZmNqZUsxbVRDdnozMDhqczd3WW1yaVRSTlBENGpZSkNDcFdxTisrYXQvaWZ5dkhiL3NhMWlUOFRkL1liV2kvRlhMY3FIRHdBdnpQWjBDdjNnYTJRSWZQRTY4K1g0V3IyMldmUEwzUGFTYzZvTG5pNFkrdys0T1ozMXhSd2dhdGdIVUg0SmdtNy8yUC9RQjJMMVJPb3ZDd0JrRHQwazZmZVpVZm52YnU3LzFROHdTRTVLdGtrd1pWTnQ0S1o5WnJKQmZmZjlQL2h0TERwU2VLNHg4VW1LL0p1eGZxV2hDT29BQ1RaNWJZZityYzFJYzdiVzBDa2lCUDRtVTVhL09VbGFpZmdIZzlXSSszVW1FdTZyWTZvaUxOL0VhV21PK0syNTBXZVU4MWZ5dHY3KzlrK2dWbjU2dEFiMXVRaGNIeUNPQ2p0NzRnMlhLYThyUWN3TmNmckFOVkVwdGY5T2xVT1dSenNxTlJmempOSXJabGhSa1RSL213bm1WVVlhMzhEbXZmQ3NsME9MUWt1TWlyWENZa1RmR0tqVFRFQysydk5XbHlPcXRYbVdFME9BaEQzRTJtWHpYbmNDQ3VZN0o4MGo5OFg0clNyeWxBa2RUWjFDVmYrSW9JOTErVG5iNVhCY1dqWGRjaWhKeHZ2T0lnZVgwSFFzQ2MxdWVpdytybTd5WVZwMHQ0SlgvclkxNzRIaTNVNkd0SW1JWi9XcnZVcDh6bDNLZnJOaUV4S0tPSDhNMGM3RG1wSFA3eThFTFVTazVZTEdYRWNaK2F3M214QURmZ09iTmhQdFhkRHJkNExDemp0Tkl4TG96alZaUVU2cm9IcFVVWlJoMmJ0bWdyZzVYTmo4T0xHaThHVTFSc0tJTEx0c3FpK01HVUpwL1dCdEVoZ1NaU1h6SGlJQUwxN3BNZnZqRVJnRVFLVENGT0FHZGRhV0xCSzkxQnR2bzYyLzJXQ2VLbUZDK2xuZUJJK2ZhajkvRmE2bkpVVit2OHdXWjAyNFkyUmN0emhadVMrSmRBb1RvOUhtSHRsQmhLYVJBTEFCcVd1bXFCUGhHMGUrclUrNkdPa2hZOE0zY2RvNkVmWnM2UjRuZVl4TXZ2bGM1OWNtN1VIWHJQZkIvQVFtU0JDZ24raE1BN0EwTjVJcmM5ai9CbGtkQjh2VHQ5UnVBMDNzT2JQVUNIb3BaTGpBWWd3cVlGVWZSbFhEWUNkdktQZ1VPaEIvTG83djRaaWhmOVpXU01Kb01QeWVEbG13ZDh1MGM2OHZlbTFEZTZCUkQ0TURES0luUXNZd0ZaSzFpUGs2NS9JOFBNNWxQS1BxL3duK2JhSnhRMUNWVFR1a0JZdmhWSUZoMkVEUFpTd2YrRlRpT3VvUzQrdktNWitFTmovV3V4ZXFCUHZTdWJSZ1BrNFE5UXJnVEVBTWNZeDltcFNsR3dWNWdKUUo1QW96QTNsb0JoSlNDSmp6YW9WLzhzdjdBYUlTMGpvNTFoM3NscmVXeWUvZ1ZRWlpORThNd3pNRHdJY1JqdDZCSGxOV0pIZ0xVRlNiM05HbWlxRVM2RlQzdU5MQUhhZFhoTjVueFBzb2k2OEdEODJNaG5YZEdsQkFMcXAwUmNOam9HYU1zZzNBd0czL0lSVHBrcXdCcFZXS3BsZ1RHbFZxdzZEcGkvSmdGL1F0K1QreGl2Q2w3YVRwRklTNEt0VWpCS2NXck1NT2xRZFdjS2loL3FJRjJ3T3lHbGFaVGhqUEYxUXFadEQ5VEVhR1Bna2cwbk5ET3J4L2JmNEJTd2dwMHhTK2dsTjRDeWgxVGlMenoxM05oRGlQNzBxMDR6Y0RpN2d0VTM2S1p0bDdXTWJoalMxSDdlelBCM3pDQzZ5RlY4dGZDWlhjNzlOTnQ1dmZ4U1hDV0hBMjlZTDQxMEVwS09yQ1lnUklsVlZ0dXVMVmZYS2s0U1F0L2hLa0NaZGhQTXUxcTRVZ3RFRVRUWWZOR21qRDJCMkJjSGRZN1hhaGJpa0FyOWFaby84dXJSdTBWdmEzUXl6WFZJRXZEMU1qV2haNm02WGVUZkJvVFUyK3kvUi9CWjZjYzBTbzJBOG9Wam1JNmhtTHBsb0ZVcUVFZnVnbGpva0tNQTJ3TXM1VmJqQjh6eHBWaUpaWjBPNE4vVkF5eCtzcVFWYkFGbEtKakdLZVRVaUNPZGxtcW4vSmhBcjY4NWdBNUNHQ3dmQ0VVbXhKaXdvWVdlZnUyUXppbEtMZmF6TkZZV1FYcjI0NzVPTGlxN0U3dUdHVUE5Uys5S04zR3RlU1o3T3VTRVp1alFwdVVSdGZsVUF2bnZzZEFsSDl4cE0wVFhZRDRqeVk4OGFPMks4a09CZTFmSlRURkUxWmdNUzR4VGNaa1lnMzF6L2pPTmhvTVUxa0hrWW5zQUZDT1pwK3NJWE9DTlNTZUpNeHJjNjZjNnRtdW9QNldjKzJWc2VQcHBJRzRuSW12NWZDb3J5VVd4ak1MS2U1UTVGTUw4MkZ4MktnNUh5NFB1REJSUW93T2FJM3QrQnVWZGZnVit5RExMbkRibWJDWk1iaTR4VHV0U2hWUTM1OXpPU0lWdnFqeCtSN003YVIxYVVkZVpyTFlTVmZNUTRyZnNsQ1UwZ0RRRXlZVVNMZ2QzYkhNY0s0YjkraXZEYVBNRVlTZlNkbStJS0V5cjJKZzBlbm5rR280bi9jekpoZFpBZ3h4b1UzRUxIbUE1UWZTVTJyZzl1alpiUk1IRkhWYlhHS1BJTFBSNFVuVnUwYTFhSGhWTXV0Zmg0S0hmQTYxQkFDZDNGcEp1a1kvNThEYUc1VEEyUGs2V3VBVUY1R3hGWW5mNUVvaHo0NDNBQnFYOUpDOG0wdUtSWEJmQXRBZzB1SGs4aXh4MXVHYkRXdE5YK2hWL0VUbFZXVjNnSXBmdU8weCsvaUxmMkNVM2pVdGVDODgrNytib2FxL2ZYOGo1Tmd5Rzg1S3R3d01NUENoWldLM2IwUU9uQiszd3I4ampuekVYVFo3emJvaElrcTduYU9GSFB1aEhrOXBvQllnYWJ0TlllNytVajNiTzN2em54Ym1mRzR5V2hQVktQSnlYbmJKWHpDb0I1WmUxQnB2aXRwOVhFcCs4QzBJd2dLU1pRclFHTXNPMEUwNFBRMFlydVJGUVV2ZHg5ZFBpSzdOQ0NScVNZa1pNWW5ZUT0iLCJtYWMiOiI0MTRhOTg3MDA5YTYxNTNhODVmZmM2ZjdmYTNjZWMzMzY0MTBjNGU1ZTBhOGIzM2RjNDFiY2FlNmViMjM4MDhiIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("pascal", function() {
+  function words(str) {
+    var obj = {}, words = str.split(" ");
+    for (var i = 0; i < words.length; ++i) obj[words[i]] = true;
+    return obj;
+  }
+  var keywords = words("and array begin case const div do downto else end file for forward integer " +
+                       "boolean char function goto if in label mod nil not of or packed procedure " +
+                       "program record repeat set string then to type until var while with");
+  var atoms = {"null": true};
+
+  var isOperatorChar = /[+\-*&%=<>!?|\/]/;
+
+  function tokenBase(stream, state) {
+    var ch = stream.next();
+    if (ch == "#" && state.startOfLine) {
+      stream.skipToEnd();
+      return "meta";
+    }
+    if (ch == '"' || ch == "'") {
+      state.tokenize = tokenString(ch);
+      return state.tokenize(stream, state);
+    }
+    if (ch == "(" && stream.eat("*")) {
+      state.tokenize = tokenComment;
+      return tokenComment(stream, state);
+    }
+    if (/[\[\]{}\(\),;\:\.]/.test(ch)) {
+      return null;
+    }
+    if (/\d/.test(ch)) {
+      stream.eatWhile(/[\w\.]/);
+      return "number";
+    }
+    if (ch == "/") {
+      if (stream.eat("/")) {
+        stream.skipToEnd();
+        return "comment";
+      }
+    }
+    if (isOperatorChar.test(ch)) {
+      stream.eatWhile(isOperatorChar);
+      return "operator";
+    }
+    stream.eatWhile(/[\w\$_]/);
+    var cur = stream.current();
+    if (keywords.propertyIsEnumerable(cur)) return "keyword";
+    if (atoms.propertyIsEnumerable(cur)) return "atom";
+    return "variable";
+  }
+
+  function tokenString(quote) {
+    return function(stream, state) {
+      var escaped = false, next, end = false;
+      while ((next = stream.next()) != null) {
+        if (next == quote && !escaped) {end = true; break;}
+        escaped = !escaped && next == "\\";
+      }
+      if (end || !escaped) state.tokenize = null;
+      return "string";
+    };
+  }
+
+  function tokenComment(stream, state) {
+    var maybeEnd = false, ch;
+    while (ch = stream.next()) {
+      if (ch == ")" && maybeEnd) {
+        state.tokenize = null;
+        break;
+      }
+      maybeEnd = (ch == "*");
+    }
+    return "comment";
+  }
+
+  // Interface
+
+  return {
+    startState: function() {
+      return {tokenize: null};
+    },
+
+    token: function(stream, state) {
+      if (stream.eatSpace()) return null;
+      var style = (state.tokenize || tokenBase)(stream, state);
+      if (style == "comment" || style == "meta") return style;
+      return style;
+    },
+
+    electricChars: "{}"
+  };
+});
+
+CodeMirror.defineMIME("text/x-pascal", "pascal");
+
+});

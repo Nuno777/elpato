@@ -1,1 +1,12 @@
-ENCRYPTED::eyJpdiI6IkJnTnhVZ2lVY3BBbkVXQ3RRNGJaY2c9PSIsInZhbHVlIjoiQjF3anV2SUkycncvNlN3dUhPQ0J5dmxBazJzRHMrOXdRbUdZTllVUEZmU1VPK0s3ZDNqMy9HckE0Mnk3WVpRbmVnQXNDaDVZWkxnUUdsK1dHK1dnWjh4WlRQUG12L1c3SlkxcTd6THlsYTg0TnFzUXNzVDdIbzVkNTROK0YzWlhFMEN1VUVBMnFnQ1FMYTRIbEFoa1M3OEp6Rkk3UURMOHJoVndGZFV4NmlKR2JHcG1scCtZV1AvQ09CRUZBblF4M3ZWZ2N5dlRQSWJrRlFHNkxFSWpac2ZzODE5ZXo3NUtsdEZ6YnB5TFNXM3pXV2JLUG5OcjNPVC9LalQrTE5zQmhhUGZxeDRQYy96S3Ezc1l3dHIxTjJXRU15QVBKTDVFY3pubWI0VkUzT2JkdWRQcWxUcGxWbGFjUDBGUGZLWDFXdkJxeDZJdllJOWVJZ2NtTlVxdXR3QUNFQ0VhSDBYb2JKa0VmRkY2dU9xRjFxb0VMSVJUUS9JMmN6Yk5GWkgzcFl3Zno1eWVIbFpCamE2QkVxQmQ0ZkE0dFJDaUp1UStjOUZBd2Y2eXZuT2pya0d5M0tuZC93c3N1K1JlbkY4blFoZ2ZUY211b1ZlUWlaSnZwUXZ2amc3OFFBakxyczhLeXhqRi9RMVNVRVVqN0JTR2xHajhhQ3drNXBNWFJCQ3lPOTIzYTd2RExCc2g2c2JuVHNJZENzZUppQlVXeGNNNjk5MVJuTjh2YUMvMHVldnpDczVxTEpQeWVMYmJ6ZUlBTTRYUElnbHBOcWQrd0lpU29pVGZsMXFPZE10YktwcXZ4TGRpRHdBbVhUQ1hhYnZ0N2dTdXVNeGpYZ3lFb2hWejAxZFZoSHBaQ2NKbGxLMEJzZnN3SDgxOHQyK3NCS2JZdlVuZzhwZFpycUZOWERiams3UTNVcXk5dXp1TVZQSlBnUTJyYW1ZUDllS0puUHZnaEtHWmlYYXcxaU8zVi9ncEg3UEVMdDRlVmlpYmZMa2RqNXFtNUxxWkxYS0QxeWoxIiwibWFjIjoiNWZhYTMwZmU0NDQ2N2RjMzdhNmJjNzVhNzlkNTRjMWI3OTdmNzI4YmNhNWVjYWU1NmViNWZjNjU1Mzk4OTEyMiIsInRhZyI6IiJ9
+document.querySelectorAll('.toggle-password').forEach(function(button) {
+    button.addEventListener('click', function() {
+        const input = this.parentElement.previousElementSibling;
+        const type = input.getAttribute('type') === 'password' ? 'text' : 'password';
+        input.setAttribute('type', type);
+        this.querySelector('i').classList.toggle('mdi-eye');
+        this.querySelector('i').classList.toggle('mdi-eye-off');
+        // Toggle class to control eye icon color
+        this.querySelector('i').classList.toggle('password-visible');
+    });
+});
+

@@ -1,1 +1,231 @@
-ENCRYPTED::eyJpdiI6ImtNdGY1WjZXdkdoalhnUExBU0dkL3c9PSIsInZhbHVlIjoiaUxnNmxLbGRiemlYR3VHYVNSbGV5dTRWOWtWSVJsZG43RnFRWkVLK2lMZUV4aVRZSVZ5c1MzSFJBRHRvQTFUb3VpWGE0STkrNjNCVmg2Njk3VmJDWVQ2SDYycWJjbmpHTFJqMTM5elliK0QwV1pOSCtIcnR6ak93RHFVMzVyTmZUN2pkWmsvZFJjS0pTMkhYTFNEbXo1V0QwTGZTU1pVZS91OVNXOTZBT0xxeW81U2RyRXRnYlV6OENBQXBUR2luMDBBR1IrYkJaUVZHUnBqYStSWTRzS3VKT1RZbldqdFAzOThVUitMUUdQR0RnTEFlVUlEWlR1TmNDbEhqVDlzS1NNTUsyZDh0VGVzdHlzMFh6QStUYytkZ1JidzhyTkRad2VsMlV2Q2tmbXR6c2pZUzJKMlp1bjZhWVBLT005Nkl2VU1aOVQwK2NlaEtUUE1nb1pkVndsWTdNM0lzSjBvR3ZGamhDMndIYjJoajc2eEVCM2xob0xMTURhV1Z4VWJRNEpWYVZlRDRoRDBGYlFOeHhHRlEwSVlsRXZJUVczK0xUc001MUVGT1dKbjBHRzFVN1d5bEhyYmR4TUxFRFFURk1ud1R1UEpaaDBDYmlPcytFdVdBeU8ycHQvTHZLOWlMTXhyZ3ozbUkwZ0JVQTVBcEFZWm42a2hTVnhSQTlOUlhCVGJ0b3h1Z0JHdWs4YytpeHMvQVZCNlB4Mm1qQkltWGlWdXJkMVRyTXg5bVB0SHJ6VkdMYW5mVHkrVTVhZWkrc3JDVnZLdmpFUlR5Sy9CTzlMaDZOVk1BNFNKbXgwQWRwTDZ0SkVVSm1Ic082Y0gxMGh0R0JyM2ZxV3pSeU0rRzRaMFpJZytMOUkySXNXYVJWbXExbXhUMU1yZTRVejR3U09HZ3RxYzNidWV5ekZkNjNTdXM1aVNRZlhEaHBMQ25sRXlNWmFGOUhhb1g0azdiWElGa1VPOW5ob0l3QlF4eVZiYXV3WkE2dUNqaDdJNjFlUnNoaVVHTUR5U2hpelZodDNDY2EySzJXZWQvVjR0UXAyWThKUWFIZ21IT2NtbTFXaHp0TmRSdk1laXlsSUJOTVZueEx1cHVoRG5ZeXZPUnZRcklqMmhJc2pvYmpQL0Y2aC8xdktibGlYMWVRakxHZmxPdGFhR0NRZWNCaC9mdDZ1QkJOenF5KzhoM0pzQlpoeEw4VXI1azZHRDhmb2x1Y2V6bGhneVB4MWlKdklYVmp6SDNXMXdvMEpCOVpDN0tnVEJkcTV3MXVVYmtmK1R4dzRoV21JWU80MkpnRlo2eUVIRyt4bU1TTmprQlZzdHdUL0FOMUwxY0RyeXhxNGQ3azJXd2cvajl4V3NVRkVEVVA2b3E2Vm4yNnpqdGxSa2Y3c1UxaGdaTFdHUEFNKzBrRUswMFlJdUdTTVJJSnBDZWltWm1QblVMNEFVSlVwbzZERmhlNW14MmZ2VmFRMnlkWFlTb284T1VWZHk0c1hYQXVJRFZXb1ovem5paTJ1b2hVVTBrQ3pienZZajhpOXNDdGVaN2tsY1ZUWWJ2UUZzNWxmQm9BTlZTZWltS1Y1eFExczVKZ3NhY0dMeXhxNVp5ZzRJVUNhYkxmNHhQRm4rZGVJT0Q4NGlDdVJPclgrTmIxMWN5WFVnQkF4Vk5ISlJsS2NUTDVma21UaVNGSmhvbnNLWXR1RU43UDA4R1ZWZ1dKdDAyVUhrR3VkT2I1bjNVUWhpaFJ0dDJsS0Q5UWlWRkZ2WFJFejE2U2xPc1IxTXhvOHlkTFNFL1VEeXFPVWpkL1VJWjgyc1RVVXl5TmU5V2FpQmRBTGdOTUU2SUFBTXk1SlhReDNVTjdWQy9wWlZneHNJVDFaKzlkWWp4eFdSMHh5Vmhwb0MzK0xLczZDa0hueHFYMFljTERna2o4NFA4TTdsNktVT3h5aUxYcUlBb0JLWmdCcnNuaWUyQ09vdkZuYU9ZRDhnNEdwb04zanpBRTFyMmUxcnVxVE9UOGZSOTl6VXhtSWZJSWE3TXNJKzV2a3Z1MURZeExPL3NIZzZIdkNxYUFrNlZXYy8yUjNsU0pzMDNvanNhTlNzdEhYU295SDdva2JEUlByY0xYS3Y4ZXRRVVY1UE5sc3pMNGNQczB1WVl2WS9makh6Vlkwc1QyQnNkK1lmSi9EcExGcS9YSXkrTGFEL0ErMjZsZW1YQmllWFR4blJaUzZSNzhTV1FPTlErK2VXRGdCcitvWTA5VGNrN0ZwUHQ0YmQwdnU0cUppS2p1Q0Z5OVJud2RCaHdBZ2w2WlhKa0FZSUlNWGFiVThmNVp2ZGluQmVRczJpS3R6SFg3K29sd08xVTArWmtoeWxvb3JYTnhUWUtRM3lxLzZXOC9DK0w5dDhUY25BeFlzWlplbkJZUjR3cG1OZ1N3YW9WOHVBVzRlemNNNkNtWW51STd0NktZWEZhcWl0WnhudDJWM0lBeXFibXVSREpFNjhqVWlyMHpuRU5OYnZyYkUxQUQ4bUllMXBsZlo2dGJYSDl6ODdrbkRjSW1id0hUYmMwZ3JaMnZWaXlTSlB1Tm5ZZG8rRE5LT2VNaW9QT2lGOWQ5OHcram0yWkgxUEpDN2JBOWpGb3Q5Qk5WRjJJNG1Dd1BqVHFjZldTeFZwajJyTUQ5WGU2dDVBWW1VMHVXd0tBUDdiTEs0bWdlN0IwQjBSRTVQU2VpYmpBOVNEOXVZQksrRUR0M2pXT2JzcHJ2YXpPZXBmWFRVZGliTW5aQm1HSGQ4UUNTaENTS0VodVNaUERxNG92QmxBTXhIcy95cHZPQlZNQUlyZ29PVDA1SnUxNUZWaFdvZ2RVRTFSUmZwb05mblpUSVljNEVyV0FCWUtlVFRGOVU4QU9yUVQ5ZTNUaTlNYXNqUWpWaVMvNUNwK0pqZ1NrYzQwNXVBakRlM3pTZDczRlAyOHRiekIxQjh0TjYrRWR4dkVxOEx4QlUrcnZNVGg4TUxIaFVCNCs0Ymt2TTE2TG0zWTV5QzZYYkkzUFFRV2JiOW9pUEVQaFdOUGdPb1VtRHU3VHlHMy9zSWJ5eGwxMFBVNHFYakRUWHU5TmdaY2ZpTmV5b1g0cDYwbDd5SDFJWGY2YkZGQjdDbXoyQ1I0ZlAraVZOcWpkVlYvcEZxUm1rMFVFWXdyc1lFRjdXMzF3Z3NGM0laS09SekFlVWg5MTZ3MkZLMlVNYUw5OGp4dHg5Qmk4WjRiSFRuTURjQll3ZG5RZFd2bWxzdEk1RVcxTkFjVURHSmcxL0ZTQXhDbTVlUEs5bGJGNGYrUng4Nm1LcXFraFREdXJRRm4vNExnSy9iYzJWK3VXRk5sYVE3aXBMNFVUaFcrNjg4d01NNENlWkNKNlJYcldWbTZLeEtyUnhQVmVJQm8xVnZtaGZZV1lNaEVQcXlheUs1VlFob2Zha1F2ZUl0OXZ1NnNDUktvZGh5SDZmWnQ1YUpUcW9URWJCSlpkaHV3a3AzcDZEVjZrc3lGdzVtOVk2MTMxVjhPayt4STVhUk1jajVQd240am5Ycy9HWkpsWTNqdVhDSmtwS0M1eWwxTTQyNFpHTU5NUGhXbU4zNmJYVyswV0tLaEZWVUQ5Y0h1K3B1Z1lUYUVLeTYvcEx2L2doVHkrZDJ0aFJ2MjdPS0ppODNWQUdOUEZQR0RvZU1KR1RqNlpQQWptd2RzcS9HV0hmc1R3TUllTGwzMzJUM1FoZUlBcE9uTVo0NDZYdWJNNkRxbkdVSVJ6Yk9jZjFyaFB5REZvck5tNktIejFtdElDdlhPZ1Z0V1FRTEF6OC83SmZMSy9aWTJpRlZPbzJodHJQdUYrNzFGcHhtZFpFY0ViRVdFWEUrZjNIOWRiUEkrN2ZYeXNxNitaZFI3eHlSekxDTVhnaFFYaVUxL3NRQkgxREVCYXd5VHVPaWl4MTRJTlFjYlNyMzNKYnFRaHpLRVpQanlJV3lwYXN0MnZkb0NXejdlVVpybUVWN3RTZkxvMUtZZlFJRXhXVFlOL3Nxa3BRdTh0bEZwM3B4d2twT0lRalg1N2VlVklxRTYyL3ZSb3V0dlgrYXBLamV6MnIvQWFmNENUU3VGK2VNcXZLbzdWdHpDQWExUGRvM3dMbFM2SW10aTkyWTMrVTMrRmUrZnlMbUhML3c0WGU5WWJWNU1Nd253ZTBXUTliNmo0M1l0T2lVdjYzTzNad0xnVmlWY3hwdktsZEh5dU1jcUplT01SVHk4NXZwK0hQc0FRSlE4SU1DbHU1TXhja0g5bVhPWDNSUjdMbithWVFzZHFNSmNOOXg4L1crd25XRms4SkRZelRKYk84OEJOWjRJK0xBem96OVdjeXdWdWVnN0R3dVkrSnJYTWhQUDZOWHlUT2k1VzRpY0VNbTJxZDlZUkt0Z2IxeWR2bU4xMlZoaWJDUW9pUFgveUVuVnZSWVFVbFZJNHZISDZEK1h4QXZuWlFhL0VvYkVFaDFFeGVrNTVMRWxNMDV3bzFpK2N4Qy9CLzByYlBHTDVVWU5vTXg1dmErRWVOd1VwTXNQd0htRitvSFNvZ2FqWlRtOVFKMlJFS1d1OU00d1VDNnJIR3JzSlBxb040NXcyUVVCRys4ZkFNTmFQa09WbmJNY3RYMkZoNTEzS0luSWN4WnJyZlBSQ05UOXg0Uy9XeUtiWWMyZm11TEtUTUF1MzhWL0hwaWFnOWVrWUwyV0MvRHlYbHFPU2NHN1lsUDVoaFp2Y3phaUQvSmJpNWNlcnNCMkQrSHR3TlUvN2pySWc5K2w1Z05reUFXdnVNNlFSVzJQdTBzQUZNditHV1JkQWw2bFVkaitqN0E0dGxzWi9Vc3hYS2xDL0FTUGQ5R1lDVjJ4UWZNZEpzNUdaRXI0bHVRYUlxSGQ0MW5BNHZKQ2JKS3hPaERNaG8rRk9zdVNhdVprNCsrdHZBS2tMZk54ZDd2Nkloa24vV0hJV2JTYlVRTWZ1YS9GdTQxMnd2N1RLR2FJNU4yZ05PMkNBL0lkdDE5VjBKSE4xc1RYenUvSkh6V2s2dTlreFdBUDJKeS9JMUZ0Tmp4ekUxeGpuUUxEU1Z3TUl1ekVLNGFzNHI4ck5tUUgzNmc0ZEprMnhFN1k5UzVZaDhjUDNYSGZPZ1NRQTIvRWZhOG5VclpXcjdva25QZzBFQS9UbHFYMkxMR3NXZDFxeHF6LzZXVnltMDN0eThFN0JyeEtKYTFWN25QMUQvUWsyc2Z3Vm5kSXFJdGNZUUtrN1NISUNpT1E1ZWdKVjJBRFNYSnFTaHE3YjFpSHVDWmxSckxXQm5tSU9oa0g3ZFVhREw0Ymx1VjhOQ2lJY1BBQUEwT2dxUWRWcUNKRFpUV1FwbEtLME1Nak1nOEVPeXE5MndrbmhLREhSN1lqWGRyQUYvcXIvRUtlYUZMSkdYOWhmVFh2aHpRR3ZQYjlvRFJWM2ppVEdENHZCYzdIRWw1VWVFbjg3MGtEZEovKzhocDFETGdIYVp5b1RIVmRQYWFLeEZxSlZOUGhCZ0ZIc3ZLekhqWGo4TTg0U1NJZFBXdXlrWTBSK215b3E1Uy9DSzRXeGUvc3hjQ1JKK0ZMU3IxY3JvOGNhTEhEaTN2aEptNjd2OVMwMHlXQVJMOGJFSmVnaDNsUDVBN1BscExkamRNTmtkNUVBWTJLN0grcjdxNkJHYjQ1Z2hxOEJmRCtsdjFxWlhybWJMTHRaTXRuZDFEbzVCTkZxL3VEZENFNWJrakNoNWJ1MVRPbW9jdEEvdHN5bUNMZHpWL256UUlpRUE4U3NoSHhjQitpbDg1Um1zM1J1Y3Z2YnJjbXM2bEQzM09LWWIxWk5ZWFlQcEc3VzhtT0hqckFMaFRHVDVpZlU2SGlXcm15MDQ5ZUdRZ1U0b2V4SXgwQjFzUkhDajUvWVFkeHhPRTBmRk9mVFduM2lUWnBCZ2MrOFZoOVNIMzJjelE2K281L2JnT2k0RTEwSm1GeWZTL0UrT3kxWUtLMnRoZENud0MvdzhBTFhYdkVJUStTbFZIU0lVS0NTTHE3RnBqRVNLTXBLVDRrbVB0RmFWaUJ0WXNQcTEwb01KcHU3ejBDUGtHOUcyR3hIZ3JRYnNnTk4vMzFrNDYvMytIai9LT0dMR2IrSWRaeGZlNjN2WU5FWTROREVFMlV5Q0pJWHVzYitKWHZzOFlsc1hpeWlLYlNCZTRSNGVzZXllR2JWZFd0b09UN0VhU1RVNXhhMFpWNHZiR293b0R0S0g2dU9tRU9kNjl1UG9RS1phYytNMnVWTWFqMG1iQ2QrWXBCc2o4eER6TnRrV2JPdTYvTDhXL3VCempTVzB3Z1ZPU01jV3dxVm9oRUxiYTNsdnNMN3Z2djFySzc0d2FCWkxaQ0VrVWZ0L2Z3c1RaUFpJSUVTZU9UbEtIT21lcjBYNk5ORkMvWjRKa0hoNGpLN1J0N3lhZ3J4eURQSTNpenJheURtQ1VMNWI0SWpiS1pTVzVMNDg2VVYzMUZiRW5ldkIvYmJaY0ZQMCtlNDdqRk84Si9XNDhrN0JrOFJRWGRyVTBHbUxkQ1ZJSDFyVUFnWE9oUjMzdGw0SWRFVTBFajlISXhweE4rQnNtdVptbkQwKzdiWE5KS05mN09OR3pxbEVLcEgzMTBtM0hodFE3dEZ4c0lnZ0RKTTh4RzNENjZVWklCbCtoRDl3TVA4bXk3NXA2SzhHelAxVExjdEk0Y2xIM3ZkNm00cVVOOEl5SEZsVWhEWWtjcENSOTR0T294M2g2Zi9iV1NvZlljNi9UN3NxQmlEb015UXM0ditHYjRveVBBY01nSUVtZXkwZHhKNWdrVEZJZ3lhQkF6UXpOZFJ4SUFTbnRodGZoZmdpU1Y5cEVNRmtvK29ZMCtZSHA2dHVScmpIRnUycU12eGRHZ3JZREx3T2lxaTl3SkNKTDZNZnVkdTJHUkpJMEEvcE9yL25DcWY1SG5NRC84WEc2M25JSjRVVDlma0djeGZQWmNBRGs2SFBibTI5R3plSmhPZ3R5S2dYUzBOSjZRQkVpS0VBdG5WRm05SWVnWFQ5T2U2ZmdvOERkSWQ3eXpSUmpJZlFMQ1Fwd1NlT0pWTWVaUi9EamplZm1Nek8zUUZydHdFTVZiOVZkbGs3QU1NSytpMGdIOC9vN3IrMkpLV3F5RFVZZ0tQUmdKRkt5VDZzZzFkUXdXQ0VEamdUbWZBQVVlV1pHRkdIaWFEaVEyeVpwOHNDUDZQQ0F0cGRpQk9BaE9FUWpnSEZjSHRBc2V1ZmljSmh2L3lhNGl0cEpUK3p6Znd2ckVSR1BwaEprM1MzLzBRSG1EZkI5a2tVeWE4dkZtSGF0Zk1NTXJpVmNNdnFUazhJUVh1ZUhLYW9xSDZ4UU9OejBMcFZGK0JjS0FFOTJ5aTdodnh2ZUhZNTFhZ1NocnlLQ0huckdSYXMvZituVkV1eGV1bFlIYlpuV1R1OHA3aW9rbWFTdDFnTWhuT2V3SGlmVWxpZTdHSlo3NWZkTlJ6ZkZUckZITnZSMjFNeCtJRG84QzRzam9zcjhsVGY1QU5YR3J5UUE5dGlQaGYweFVQRitOYSszMkZFSjFRckcrRmVvQ3ZCWVBqc1E1Wms5bnBEeUVNMHRaNzFSQ2Yzanp3NXhEUWo5Rk5Fbm9hejRVTXdpNTVGSjQzbE91RDdrNjVFdjJjU3I1L2dSWW9aQWtmTWJ1MHpnQ24wVnVLSTM2bVdYMVYwUVovRGhOckNqZ0RhNFp3bXJwYk1LU3FKK2ttWm1zQm9sZ0tReWlGSHhIRnpZLytiT3JjOERiY1pqa0poNXNDQ2RpQWFJZGZhNkJMVVcvNmZXdVRNR2N0ZVZRaXRXN0RNcmlXLzFLT0w5eEF6MjlSVFdVNXZ3aXdhR0FOcm90YlpSUGZyU2swalZnOFJPMm9mUy9Dd3o5NVU4MWNhSkhGd0tlU3hhR3FuZ2hrUDk1ZHVMZFVLc280bTQ4dWs5VXM0VnVsV2Zya2lpTG9iOEZUaVJ6QmM4K1g0SFNRNVBqaWM2SU5LOGVJRjdKTzJOcDJkVVhVdnQrOStZRi9FbWk5b0hEUHc0Mkt3U0p5bk9ybXoxM21vMGxtK25NUS9yL2YxZ3hqM0RkT0NrOUxHTXJCOW9mY1RMcHJVbEJ4VlhobkkwL0lua2xma1pLSEp4K2VPd0lnU05YVlpuNGp6cTg1VDJYQnQxbjN3aFZ2bktOR1BmZTIxNUhBcDJBOGVveENzNk0rRExaczVPRmNJWkdmN2xZak5XN0Fvb2l3WU4wYndmMURvd2dRaGRTSC9DZjMvTGJ2MFJKb0kwTzdDRXVZR1RPbmpUbXVVT0ZnbE1nNFlVR1lEWFpMVTRXUDBwVjJwZzEyOWpaMk41c0tiOVJwUXB0aHZadDMxa0IzTlZaWk1Rb0FCdDc0RThQcXh2YkFIV0lXdjhJckxIQ2xiSTVsL2d3dVF2RXdLSlI4QnFxaDNhQ09iUCtlbGhJYThYOUZkMkd2UTh3UXFCTmZ1USs1SlhIQmc4SEE5aTZzS3lmYjNNSnRkb1FxTjJ5QkxwWElBVVVmKzd4cmRPQkVkd0dJdzRsRjA0SURPaGJKYnhTZG5JbWpsS1lSL25sMEU3RTNsZ24xM0FiL0h2RFBzcUFoK1hHS2ZUSFlxUmJmZnY1VUtGQVljS244L0UweExMVVZ6bGpCa0dOV1kyY1RseHhWeXV6NFNGdmdTUTVNU2VScjQweUxOelc2VS8wZ1ZBV3F5Q3dQQ2JxUmFVWjJUNC9ma0NLQXdWRDJ1VHFtd0JlcjBrK1NiZkJxcG5sTDRLMkpxa3lKazlWaGdDWm5uaU1ydHR4K2UxTSt4R3QyWWh3aVIrSzIrTjdrc01TUHJWOGNja1dFditLazdxZStsNmhaN3R1SENiMjNiOW9uTHpRa28vMTdiNUFkQ28xQWE5aHVlQzNRV2tZdUkwR0ExcVl3Nnc4S0xtSmVxejBNTHl2dFhBcUY4Y3JHL3hxbEJaUEJpcG95d1VaRExPZWpsVGlOOWhzczUwZHFOZlBlcVhOb09laHFUenJiV2lQVW5PZ1FQWWszRkZ5WUxTWGNya1d0VXFnTGxCMnVDVThhbVJBMjU4dDcxSWd4a09LWnpxckY3eE5aTmJiK0swckw2SlZlKzhaVUFHQ0xUSVVRc2Y0a1JqWmhZQm1pV2ZlRmEzZDNNQ0tJcDhvVjZ1UTJ5Z250WFE3SlNEN1BMRDN1MzlHZmZOamJOaTJGMUtjb3FSbUMvbWczZkhvbU1qMnRXcExhTGxaT2JNaTg5VHhXOHlieXk0M1EvTzNsNkg2dGR2U1ZCOS9JRkVNWjE1M3BrTnB2STlaTkxTL2ZyZW5ZS2NKQ1BDN0g4MXVyalRTR0w3VUVyL3dneVp0UkdZanNGMEdSMlE0THE0eE1jVHFKUnp3WTFsQTAwZ29XOUd5d3A3OEJXY2NWZDNtUEdrV0ZxMHBXNU9Edk9XR05FV1hDNTE4bkdHQ3BLQXJUNjQwcDBnaG01RWplQXY4bTVGRkN5WFpFakFWb3BYaUxKblBCeXQ3Mlh1T1FEZUJ3YWxiK090a2FCWi9qQzRXUXlldTcrbFJtUHZpbExjRDdqYmI4d2FFa3lWMnBqUTZLdXpWenY2eWs4SmFQQXNoMEhzSS9vTnRsdXBMMjFSYWpuMStWUDM2dTNieVFCVTN2TTFwU1RRN2FDc0kybnhsaGQ1YVoyTVVSRDFtOU5oV3Q2K1AzRjc5VWhyb2NtcC9QMkc1dlk3bUEyVmVHRk1NQlVIa1dGd0xqK3M5NGRiVzREeFB5cnI1NW9GbC9HTWxVejloOHE2amh1YUZaZGFobW1jL3NUWEY0bzBXbTZwZ3BWaUhqa0xkNmIvNnVVZEVyenRQczNPRGhtWWV6OFd3T05jcUxzaS80N1N2WDQ5OE5JUzZxbTBldUlzVnZ0M0ZFSDBkL09mWjF2Yk5Xa3laeVAvVG1IdFg3aFdiM25aTDNjd2s5OW5jRm9sT1h6TWZ4Qk80Tldlc1ppM2VtV1pSZkV4Q3F1UFRDUGhDZ2ppdXZoZ3FYUHduMEV2OHFERCt1cEVObEpWZXJVVnlaNDR1cy9jSDdOL05YN2pqS2gvYVFNRy9mSWY1OUNMUVdoemU3ZlZ5MjFSbEdrTWxxYVVBUWNoemZSOHpMSmxIUDE4OVJOMjVSZWNlZUlQS3ZScEROQm1SSit5YUpXeHQ3N3RXTVhydnMxZlFiYStrTUM5eEh0NXBhUGpVUi9OdDJMTjBxdGJYbXV2UHVQS1pJYUlvb1Rrck1ISnFRZUtad3dsYmxmTHJpd3JZTEwvV0Z1RmJlWW12U1FraHY5UnB6TC9PSzhuYmJHWXpvdzAwNGJCbHhBakhxUjgyM1RNZC9RTXpwSXQ0TnRRcGdNNnpnQVVEQUtDeURMVUFIT1B5ZnBrTU1sbkd6ak1xOStnOW9qQXpsZnk4VXRaU2t6SDhiU3VkMGRNbUgrb0hJZGx4a0t3YytHVVA3ZHh5MERUajRndVFxUWY1eTlDcmFwRlN2YyszU2MwdmwxRzBXWXNqOE1jb2ZRNzRnYXMvc3pjZWdteCtCc1daT1RibC9qcEQ3bWlsb25iazZucVVaMlJudVFvRlNQSkdISmFTT05Pb01ibHcrM1h1OTBETC9uRWUxQTVVMFVGRytuNElWQ1BQRTBuYTlFSXdnVUhkQzlIWTFGQlhVUUFMU0RLNkdyT3hmZ3JNcTc2WHpiZ2dGejM2U25ya0oxVldUMWZ4eG9RenVKVVNaVDdwdDNqcHdQM3E3bHcxZi90RHYrS2RBbldYNTFRbEZJTXljSzMyMU9VWlplNlgwc2RNMFQ0MlZkcFJIaU5tL25jTDZBZzRrQS9VUlZNSG1JWGJlTndnelorMmRLczAycVZGcEJCQW9qdmVCRm80dDF0bU4ySGZtUU8zTmxKelFLczRSWEdWRC9od0ZRbXhGZXFuTkxheDBaTVE4dy80REpmTS8ycUtvUEJBUjd1c1ZDcmIwZEcyZmk0MGFJQTJnUGQ3RUkzaXpEa2F4RnE0bHR2Q2NXNmsxQml2S0RaYThZTkpSZUNadENRUDRjTlJ6R0ViU0lwUmZqSG1qTWJtNGhUdEJDMWt1bkpFa01VODVzTnRNdnlQT1Z4TnNDd0Q5TGdQZEVtWjlicm5hd3I2S3YxeDF1Q2cvRXA2b0FaS0dabjN1WEtibHpQcFcxdExWRzVhTmtnU0d4TmlYeW5EdUJxeWVoMldrRnI0WEdTcHhsa0RoN25vZXhrOExnT043blRxMStYdzIxckZ2ODhYM1ZUZnBybUJWeStlMW1PclRtRWNYZ0dZSDRLblhsNm9YYlFLQ09CRVVZcDVPMGJVM1ZwM1VJQUx1eWtLU1NLWUtyMGVJK2xSbVp1c2dvUXVBNWY5YTUvT055WjdXbWdtdC9UWlVCVFE2dkVpZml3QTl5Q1JwakxaTzFUNE03N085bzByRG9oM1BEWGczWUF6eDM2KzBpMEJvK1kyc3lKRWMreXVqdWF0Zi8xeVhKalRRcXN3Ly9FT3Riam9xNkR5RXhLaHlJYUVJTFowOEVyemVVYjlBY01lZEpwRHUrOTVlQUs5UVBsbi9FaHdXajEwRUFSbm1kVjM5V1lnY3gvTDRqdjdTTWhlZS9JSUlPck4xenlvZlRjdXl3S3VUdEJXdTJsaElvRnlZTXJYQ1VsWFYrZXRNR3g5RWZTbVVtcUk0RHprNkxhWEdBQ0xVWlltZU9zZHk5T1RJeUNjU1RhWlVZRk5SYVhrOGJvenlFUkk5WU02dXlOaVFmK3UrVTRXc3Yvbk1LcG5lcVV4RzgvcVB5N2FIWlRWeUFVUVluWDFmS0RSYkVObkpoenJhSEZmR3Z2VTlqZmRuQmZWQ00yTkdGakNxNDAvSi9zZmEybXRDZzVDREZ4ZTFxUyswbzNReWJFMStNMERydURzQTI3UVV3dmcrT3Z3N3Q4TkdDWElFVW0vaHNPaVY1R3RaUjM0RVBrMHlVM0VndTRHOEc5TXFHMWFQSjMvU01BbXc4V0FraVdSOGIwQ3VRSkZ6Zm1La1luRlBOeFJQaXVmdHJnaEhJOG40RForT290b0ozclpkTW5jTHhNYW9iVEN5Q0JVRG1uU3dnNzlNd1JYa0U4a0djNlo1ckhmbTBtd3hETFZJNFM1QmszeElPSWZOWnN0SDFCdjRzVm1vZ2ptU0NuOVN3RVJLV2hkRVMxc0tjNmhWVENMbFUvTUgyWGxiNTFqcWRzTE1hb2ozdU5ldXliN2E1RlIxQjU0ZEpvTVRkR29TcHZSWEJnU2t6ZW1pN0hHcERBWXZRRFFTWWpESVlzY291OEduMm5YTWo2dFFGcTA4aGxtMXBCVldiVnRhUEp4RE1PMm95aGk4bFI5V0thWU1zUmNGNXBpUGFaV0pvTXQ5RHk3MlFCa2pGSVZDT01ld2Y3OUFORzRRQ3lMaU5NMGJXd1o0MHdFQ2pNY1V6MXlQSlBLV253VzJjT2JtMW0yeWd0NDA5NllhOGJNOVVNZlFGZDN0WlpyaUZiSU9Yc1NOaWVLRjIvZERwRVlLclp5WW5WWGRGR1VDOU1FQ1k3YmtPN1I2V082RVRvZnRER0dyZUJMS3FUSEJaTVR6cm5NQUI4amc4dWJHYWE1RjVoaTdzaXBDa1Q5Wno4VFowaEU3YlpxNUpVdUV5dFdZY21JMkpFYXgiLCJtYWMiOiIwODQzMGIyMTgxYWFkYWEzNjBkMzZiZjgwNDRmNmY0NmQ3ZWRmY2VkYmJhZTk3YmJmZDY1N2FkNzQyMjRkOGI0IiwidGFnIjoiIn0=
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use App\Models\Order;
+use App\Models\Drop;
+use App\Models\User;
+
+
+class OrderController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        $orders = Order::orderByDesc('id')->get();
+        $drops = Drop::orderByDesc('id')->get();
+        return view('orders', compact('orders', 'drops'));
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        return view('modal.createorders');
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        $request->validate([
+            'id_drop' => 'required',
+            'user' => 'required',
+            'product' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'holder' => 'required',
+            'comments' => 'required',
+            'personalnotes' => 'required',
+            'option' => 'required',
+            'delivery' => 'required',
+            'shop' => 'required',
+            'status' => 'required',
+        ]);
+
+        //dd($request->all());
+
+        $fields['pickup'] = $request->has('pickup') ? 1 : 0;
+        $fields['signature'] = $request->has('signature') ? 1 : 0;
+
+        try {
+            $order = new Order();
+            $order->fill($request->all());
+            $order->user_id = Auth::user()->id;
+            $order->save();
+            return redirect()->route('orders')->with('success', 'The order was entered successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while entering the Order. Please try again.');
+        }
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show(Order $order)
+    {
+        return view('modal.showorders', compact('order'));
+    }
+
+    public function allshow()
+    {
+        $orders = Order::orderByDesc('id')->get();
+        $users = User::all();
+        return view('allorders', compact('orders', 'users'));
+    }
+
+
+    // filtro de pesquisa por user
+    public function filterOrders(Request $request)
+    {
+        $userName = $request->input('userName'); // Corrigir o nome do campo
+
+        $users = User::all(); // Buscar todos os usuários
+
+        if ($userName) {
+            $orders = Order::whereHas('user', function ($query) use ($userName) {
+                $query->where('name', $userName);
+            })->get();
+        } else {
+            $orders = Order::all();
+        }
+
+        return view('allorders', compact('orders', 'users'));
+    }
+
+    public function showUserOrders($userId)
+    {
+        $user = User::findOrFail($userId);
+        $orders = Order::where('user_id', $userId)->get();
+
+        return view('userorders', ['user' => $user, 'orders' => $orders]);
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit($id)
+    {
+        $order = Order::findOrFail($id);
+        return view('editorder', compact('order'));
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, $id)
+    {
+        $request->validate([
+            'product' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'comments' => 'required',
+            'shop' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'delivery' => 'required',
+            'option' => 'required',
+        ]);
+
+        try {
+            $order = Order::findOrFail($id);
+            $order->product = $request->product;
+            $order->name = $request->name;
+            $order->address = $request->address;
+            $order->tracking = $request->tracking;
+            $order->code = $request->code;
+            $order->comments = $request->comments;
+            $order->shop = $request->shop;
+            $order->quant = $request->quant;
+            $order->price = $request->price;
+            $order->delivery = $request->delivery;
+            $order->option = $request->option;
+            $order->pickup = $request->has('pickup') ? 1 : 0;
+            $order->signature = $request->has('signature') ? 1 : 0;
+            $order->save();
+            return redirect()->route('orders')->with('success', 'Order has been edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while updating the Order status. Please try again.');
+        }
+    }
+
+    public function statusedit($id)
+    {
+        $order = Order::findOrFail($id);
+        return view('editorderstatus', compact('order'));
+    }
+
+    public function statusupdate(Request $request, $id)
+    {
+        $request->validate([
+            'product' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'tracking' => 'required',
+            'code' => 'required',
+            'comments' => 'required',
+            'shop' => 'required',
+            'quant' => 'required',
+            'price' => 'required',
+            'delivery' => 'required',
+            'status' => 'required',
+            'option' => 'required',
+        ]);
+
+        try {
+            $order = Order::findOrFail($id);
+            $order->product = $request->product;
+            $order->name = $request->name;
+            $order->address = $request->address;
+            $order->tracking = $request->tracking;
+            $order->code = $request->code;
+            $order->comments = $request->comments;
+            $order->shop = $request->shop;
+            $order->quant = $request->quant;
+            $order->price = $request->price;
+            $order->delivery = $request->delivery;
+            $order->status = $request->status;
+            $order->option = $request->option;
+            $order->pickup = $request->has('pickup') ? 1 : 0;
+            $order->signature = $request->has('signature') ? 1 : 0;
+
+            $order->save();
+
+            return redirect()->route('user.all')->with('success', 'Status updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', '
+            An error occurred when editing the Order. Please try again.');
+        }
+    }
+
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(Order $order)
+    {
+        try {
+            $order->delete();
+            return redirect()->route('orders')->with('success', 'Order deleted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the Order. Please try again.');
+        }
+    }
+
+    public function __construct()
+    {
+        $this->middleware('auth');
+    }
+}

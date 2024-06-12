@@ -1,1 +1,211 @@
-ENCRYPTED::eyJpdiI6IlJUcDU3UVBNeERCb2VBRXFCYkpQalE9PSIsInZhbHVlIjoiUjliYUsyS00yM1pUMU4ybG00cE51bm9vNnViMHdYYWhzK0RwTXB4NmxBbzU4d2FLZFBkRFVCVE44eFVldzJxbHZnRjJNaE9EVytvMzdKZkFsWXVaM1gvc2hZU2s0dmx3NnNrSGVqQlUzUkJibEdmQlVBTjJVMkhtMGRZR2tLcUhTOEQvQm4vTlgzTEFLUHV2K2F0RTBjVUIzTk40TFRTUE80MVdNRXArMHkyWlBPRWNPekhIQzMxb0FTdUlGREdZUFlRRytIRnl4ZGtma2RkN1JpRE1hc041OThaUmhZd0FLRWtqQXZqdXE1b09ORmNDWDBDcXpIYUtmaXRsZUU4T2tFQ2hzVWJSWHhJZmpXRFlpaG5PUnVnZHl2S29mVWtEY0k0dDRxc0U1OGp6U2JqT2FEWERWLzVNbU92ak1pazZnUTB3OHVQODZqQmRDMkx4czFtaVZuTmltRXAxb2twSXo3RVRjTVE2aFEwQjRHdXFqREcyaGMyVVRJbm15c1NIQk5ZMDlkYUlPM0hKaG4xTG5LTW9kSkJPbnlyYkcwZnFaLzZDZU52c20vR2RPdlJzbTZZd0lBN0tpdmhQdUhjNVdPUmpyYm4waGwwcEtOdFJxWkZDVEI1cFRhMzAxQkFvYkhmL1krb1MxcUVSZ2hHK1FZZmxxMURET3Z3Szd3aGxtWXB2V0xJamhqUHBUR3A0TFhST1VWdSsxVlZCUzlCWUFjY2dEZVR3WmE0VWgvSFd3WndTTCtvYnlkbFJGL2N6ZUhpaDlWM3V3U241NEgydjdudmpCamJ6am1LSWdWU0V1TWpLRTVmYmtWRjJiTG9WcTNySHNkL056U2N5Mm9tZDVvejl5VDUxaUoyQVRqMXo3UGUzazhqYWd2OFVWaFFmN0w4Z1JWdHloK01UVGgvelZ0OFdKQ1VOdVZMQ2ZmZlFsRDNZbFY5VmdERHVKUVhJUHJ3WTFQekJuT1JXRGt1QkF1TlFsazE5VkphK1V3NDF2eDNwQUxjbmhTL0dYcG5tRys2UjBTUEhvd0dUMUN2allBanA0Q3VYTU8remRGeVdEZlMzb2VPd2RXN0FlT280NmtXSVpDYi82UHVBNUpVb05WNkJqRUFjN29HcXZGWTJxTFdTNFg3SnVIRHE0dHNGTFpOTStQZW9veEJJR2RmOUd1U25ETWV3WXBoVE5ySUdxc2dZaFhOUXBJbVNaZnNSK1pPVFg4YkZYN2JOb3NURXNMbFhsVDQ0Uk9EV1JQQ2NpNUJMRDRJL2h5Nk1hL2lpbnQwQ0VzWkpPMHlHZ2dJcHRPMFp5WEVmY3Jpejg1VWtvWEhpZHFVbXRPNThrZThST3FxTUs1aitFUzBudVN2S3NERGNtZmdpRUd5ZVRUb1lCMmYyRTgyaVVRaHRQZG02b25Zd2p0UmkwblVLbkh3V0RBSDkxNVRTSlRnYTIxQXE0TVExeUI1ZGJleWN1eU1IS04ySHoxcWU3eE9HbjRMY1gvcWhsUStyekEyVTdDc2pxWi9vSmpKeXZqYXk5QzVBeGxZc2ZUcU1sTFdEZlBJaFBSSWhYVlZtTTlRYzFJODBha2ZVcXNmL3VXWDV3VGF6MDl1NEJpQy8wUGlXemlIeTBYWXVqSWdiaUxQZ1pLczBYRmpOb0hzU2JaaTdIM2lVU2FMalZSRGc1SmRUc2FnMHNqRmRYL1ZuU21WcHVIaTQwN2FwWlhoVlBPVi84SjdJenJIU01ZYjk2b1ZTS2lHZERTZzhNUzdpTk1uTm4rWVZjVDczbTN2eHd3Rk5KRlNFcnQwd0d3TzFEOG1iS1dyamNWOUhWbk43TXB5N2E2ekwvbzFMaHVieXVWbWUxZENQdVZKSFVicFZTNTgvcDJMdnlyY3JOck9NcnY0ZWdNU3doeThIWnRnYzFQN1FBMDRzUDJxaHFBZ2Jqb1U2NXE4UloyTEpKa0padm1VVXlVRVhPMVZwUmlJZXNkRHRXZXA2ZzFvRXFnUkYyQ3ZuTGhOQ1dKTTg4Tm1WaUpjUStIOGU5bkVCbFBhaVAyaGMzVnpBVUNxR1RZdDFJNmVxaE4rZXNiTHl3bGJXbk4xSkNJUzZ0VitWUllyUlI3bUFjUmgrRlR1cENPYThaRDdyS0ErNm0yWk1Jc1RjRmlBWjdXSU9HbGNCSFZjYWRZWUIzK3d4bDFiOXR1UTBwUTNPV2RDTlpRN1pBdWJWT2xSdUxidExtS1RXN2l0UCsrcVk4bHpBNEhuT3dINWk5R2F1UlNySGhCRzYvSDVsbGcveFFRWktzdkErdkMzS0IxNE5lcktkbXBhZDZ0ZFh2aWxMakNRRUx5OHBXaTAyeEJEV0V2NVloQTFKY0psd3o3U3Q1bkdmRlhJaGVsRUx2Y0xoRUwrcXhYeHRYQ2tiUFh4dlNmUVlBOWp4MUtFb2pRYWhWVGhYODhhakdSOWk4cUYvZjZzMWh6aCtXaVFuekt4eFk4aFhHbzRZWnFUNUVnYm5oSE41S0NQbzlsK1MrQ3BmOVVCRXVHMk1jYi9YaWhKRmxkZmFZM1VzKzJuUXhsQk9QaDhwellpLzZWKzdYMHhaVXFleFBUTVlHZ2lyN3pERmdaSHN3eUxHMC9temF5UlVLU3A0bGMrL1R5bkxMRlVZdjZ6VFdVSmtUN2hlWDZ3cFR6UTZCWTJCbDNaYzhIR0Z1K1RqV2hhRy9jYzNEbWM4dEJIV2c1SEZ4dm9FRWVySXN5Q0ZwK1J3OFB4aVMwYnp5T0tBNUxPU1FxRHptWlZ6NEROR1RwOFcwdTRLTHF5bVhEQTMxS2hFaG5ERFRoUk1iWmVUNW9BejBsVVFCTTNJWnZjV1BMdStsdEhUbVhQaWc2bGNJNEkzMmVLNTBjWXJ1WEtrS3phaXZaT0tDNUV1S2tBMWNYaVpKR0lRa1BPY0d2T1A0bExBK2xXcXVQTXF5S0hRK3VPYkpob290d1pBZitPb2JxckNCTEpSTjNlWXFURmw1NEVrSm1iSmtTRzVadDdQTGIrYXJoZnRQNndnZjJZQXk5L3FMN0xDdHJLd1o3bWxzbEN4UkxsU1ZuaHBhWVdsUHBNNHB2bTF2STFBc1Zqc3JnT2tTOU1OUlBZd3Z4Ryt0bjVXcWxROEJLK1ZteEtCWW5ETHZQbWEyWXhldEN5NkNDTTEybUJGMjZzK3BCcWROcGNOWis5ZHA4NGJYK3hpSFZpV0dPeTBhZDd4UUVVYUprN3BGdkxCMVZad0VxRXpwTzd6Ly80cytoOGNBcW45ekVIeXRpbS8wZTcxeGo0SGIwclBjY1NaZ3o5V0k2VFZQamhNNW9BZkNSYURIL1AySGMxeUg0ZEMrUy9DaTdmdkFzYVhDOVlRSWloTFlpWTkzWW8xTVBnSWRBVWhNUmUvbHZlcFpMc1oya09KdXA0cjBGNjRHV3dTNVMrbWxCTEF6T3ZsYm1FRG5pWjd0MEIwZVpxakNXUHNMSkpucDJqcEtDbVYyTDFVajNkRW1nMVIrdkpOZ3VQemlTSG9yNUR6ZUFUQ0ZmalNHQXVhaExyRytwdm1WVTFZZzI5STh6NGMvSDNmc2JRSHc2cDhLdU9ZS3VqSmtxSGpjT2FRWnkxa2hKdWw4U3Q5WmZUV0FUd3BWMHhIanladitOUlJzcDdUNEt6QUNlQW1XS0xtQjkyN3RtckNaRnNnNktab04xZmd1NVZLd3pVRDA3WlRNUVZMRWxlajZzSEF5Vzg1d0dlRnVkQTdjTUUzSlhYRHVXME5LL2dUdjhvQjJha1EzKzk3TStyaUVoS21XWk5iSVdza1ZTd25ZQWNOMFBnL3ZWVTRHTVFMWkdSVXJtaUI4V29ZbXZDMHpMaUMvOTJwSTF3ejdackYwQkRycG9pSzVtTjllUVFRd0RBOGF5SWxMeDVIU0tnWXZuTDJEbGxKQ3M2b1VueExLbzZwY0phSkNSZHM1TUxySnM3UFlEVmkraHZ6KzN0VS9vYU1PcHNGV0grZy9HaVdTNWlOV1hzcTFtMGM4WlprSW53eGxEMlNubnZvcEdrWFA1K3NUWHhYMmZMRWxxOTl4QlNKUVE4dXV1ZGlLYkZ5NjV4RiswVDJjemgrWUYwYVBIRG1ZNEJQNjBuampXTWJtRlJCNko1ckcyU09hcUY1OG8vNlRBVE4rUDhORzFKL1RrWFVWREVsZ1lweFFUb0NJNDlZZEJtYTdkTUpENkc1RWlmV25NRW0vMngyb1FVTll6YzhDNmNETHcyTnFxVXhTRzd5Nmp5SEVTeXZvVU1TaTRlVnRiRjEvQTBhSjBDdEI3OWE0TlJwMk40cnJ6em1FZ05EYzNpRExBWE9PVG5GeWdxcTNPajU0b1pwbmdKOU85aHg5NTBoSjd6VUI2RTdSWUp3aGM4cUYvemhCNWcvTGxSQlU3UEt3Y2NrV2YxU1NtVkJTWFU2Y3BBSkVXYTJIS01abXJKcWlGQSs1U3dhTFhEQnlBZWg5OUlBZ2NIcXNlTHMySFpzZi9Ea21Gd0lhdDJDU28rSDBTeHl1WUNHa0lTQWhOcDNHTnErSU1WQXVmNklHYU1Md3NQeCtCb203eVZUY0dYam1vRUlWMThrNDlmTVpDWmN5WkVXanNYV0h2ZEwrdVNkalEwS1JhbjZZQjFMQ3JLVHh2Ym5ldXZVNitCZ2Z1RElZRU1VNTZnVkcyRHozSzF0Z2hVM01kUnpGR0ZmMmhURndMOW5sR0JlY0liZTR4ODhuSFVoc1dhYzNwNE9jL3VETTdEdXlxbmZDWFVmeU9WWUJuT0pKVWpkaXBLZVJka2pFOGp3Q1FNa3hId3BmQVNsVTRyQjVDR0Q5NytPemJKZXhzMjFsMlFYd3gxbWpOczhxcEt2QVBIN2IzS3ZWdmpsTjV0OFFLdzYwQWkyQkVjSHpYYXNWaUxJNWdzNldXQmtPQzhwSUNIcGpudVRJSHlucGtubVVWR2pVWDZncUtkajJiZGxncDgyREp4L012ZEl6OFg2NDhFNFowOUUrMXB0NFZPWlE3T1NNOE53UytEUXgwNUloQ0ZTdloyNFZER3czK0N6OHUreVFwR3gzVjNLNzJleWMvalhEcVgyTnlockxFZnNCUUJoUVQ5OVhtQmw1TldVNWtRcHV0QkpnOFpXWnp3dmU3VVdBbmxLTTlmVUQ0ek1US204Y2tKVnVNYmlqQ3orSUNLazlqU2hQUGdsUGsrR3N4MVJYY3VFUDA4WXNnY3R6cGpZTzcyU2VEQjhRR2FKeWdvaFZpc2hRYS8wSzdUOWVONG5FaVErcDBOUXZoUnNNbWx6N2JWLzJRQ3lkbFF6cEd1blUybFU4aHRyb29RSkllUjc2eER2c1JFVUJMNS80eXlsSFJFZjJFNERJdUk4L1lwUDlpNmlOS3lMQnJRRGJLVUdDZ2hYOGx2SWJxcUN5N0Qza0Y0UnprdVd5VTZna2I4WDFFaUhMWVhlWExOWS9lMXBBMTdGY3ZqU1g1V1BHYlRPMHdPSGdGVUxFazFpS09YaHV3QnEvcHNiZVlTKzBRdkY4OHhwNU1HRXN6NllJSjRTbG11R2VIS29wbDBldWF4N0FaV0xNSnVNTUxMb01IcHViQTVpc2pDM2FPazViSjdrUE5MSkFONDB3ZDA0N0lxN05LUHZuMEc3ZG1RZkNKbGErd2Vya1UwM21GdjZKYlFaSEgvbkQwOGVMbVFQYTNmc1YvSElQcWVXM0ZzblRueVUyV1Y1N2R1d3JpZ0h6amRVRlJTbTIwTlNKVlVpZUVRN29BWG5QY3dIZUZyV1QzL3hHeW54YTROdW4vZnBVRFAvcCs1NkZ5M3ROUWR0SmdmZTNMdE4zYVR3dkRpdnVvUGpOd2JWVGVnbzl4M1NJMFdMUFNnT1I3SVJoV0pIRzdhVHVwM2tFTCtVb0pocHNJQnpkNWNoQjlrQlcycmZXam0za2RncGx4Ykx5NUEvMm01V0ErYUhZM1JKOHZCVks4bVA0UzJFNFBFYUpFM2pTQjJta0trdVNqY0VYaUF3d2QyVW4xNWk0M1hGczJGM1ZKMURPVjNmUkhMRmk4OWp3dUpyZ3VCbkJ6UkJtNk5oSmRRbE5ucVBQUFZXUWI2dzQ0a2l5am9KcU5kR1ZIall1TzdWdVNyZFJmMXpnTVduaDJaeXJzUVlhQmNsUHpidVYwMEl1akF0QXh4RFBDL0pQNHVVVVhwWk13OXBLV0gzNTRlbDNzMmZhUTNKUUlhZVE1Z1NLY0FHTU1UK1ZiSXp2MFVZOVVkaHJCRW91bHpaMkRCQ0xaSHZaYXY2UmFrL250SW9wSEdFcm11cythOSthTkJHbmtUcVRJVUlNeEZqUmZwWk5HbmswUUhRd2JSLzFhaWJkTW1LZ3hoZkYzRkFJRmFkWGdXSVRObE5Xd3hpSkJnWkJ1RHhUWEJPRVBmV2o4bldmOVFPeDdoVUt0RVBSMXZLN2NabDZ2Um9MaFp6cEpWdHJIOENnam9IaXBmMVA4SVJRZGZEbWFTRmpmRkhLL3h2c3l0RFFnQ2NsU2VLb2pRbkwzUWROSTFMYmZWVHFuRHBWRmNQeUhtM09HZkY5ci9tYm00bWFZYW5zRWt5VWdKV3VtMC8xQUozVS9EbVJPcndIRVJkOGtZcEpMdFJzcndKQzI5a1lhTFdiWHpiVEFoUm5JeFNtYTZMZFI3Q1ZQQXNObmJiV25JNUJ3ZklRYW16SGdPZjBUNnNPc2tPYXRtZFloZVhXQnJFVHhCQ1dRa1ZYYW1oK2ZBMUFwWW9tZzB5TTdxZG5HNGJzUUErV014YjVjU3M4ZElrMUJ0S2J3ck41UVpiOG5NQmd2eVgrbTM3UjZPZzJ4YUdpRmpMMUY1SVhMWjNpSGt6cHJBWVdmbUJ6czhjOXluQTVocnQ4N3gxK2NuOG1NaDJWTE5yN214cnlFWmtMWUFWZ2N6N0luS3UvM3NScHYzU2dKbWpUTFJDdEU3SVZkQ2NZY1lwMVJMMXFzK0hHbWxlWDE5dHZyRkE1Yjd2Rm96T2dTbEhjN25wK0xDaGZzT3ppbmpxUWx6ZTUwcnY2NTFXMWZKb3hKRVNmSmtzYXc2S3dUanpycnhvUXYxQm5hVjRxLytSSWEvOE9UYVFhR1NTMUJQR0J5MGRCdWtWdVVtV3FhV1FBaUxZWGx1M0dmY0FFSUVpSnRQak9FUngrbTlhNWsxVDhjZHdIV1JRNVpuOXpYTHB4ZkpNbFN6YWYvY24yNG14SlFvaUVvTFJrekpPazh0d1A3N2xiS0pWelRxekV2K1NBaCtzSitkU0M0N1RwWUNSSnljeGhnWlBFdXRjSDlvQ3NKMVM4eVRkbTFCK1ZOV0FpcW5pR0R2VVRRTFk3WlB5K08xN3V2UEsxNnJxOTZSTDBMeGN4U3BOSnp4TDIzQmlvc1hQeXVuYnI3VDlOU2hGaXhPN2J5Q1FPRkZTQ3ZocUx5WCthQjhFTFg4c1lmVVhIUkZMenZoTWJLdEZFWUNTZDZYMFZBUjZvY3pTbTdOUy80YUlRNDVEUU1uUXNhL3NBTzRoU0Y3djkyUTBZY3hvOFBxeWRnRUVXMkNQR0ozcGROQzVucjVacmwyalJEc0VXbUgwOWpQVlo0UHg1N2hjUjdEVm9XeFRyTEtFVXBuUlRlQVJPODU2d2VWTTBTbnMxV1dWYUhpbUxLNXczY2gwNWpKVGJsdmZQWlRVdTJZcmNmSTkxZWFRRWE1ZSthSnBzYjRmWTF4Sk9aTVZkL3JCbG5Wd0l6ZDR2MWlyNHpEdmR3bXZOMUc3L09kVTlnbkw4cHh4SFFXeEE5WkM5SEJwaVlSQ3ZMWkxLWU4zd2o0c2dadWRzeGpBVHRxWjQzT1ZwalluTVJWdzJpUzlGZlEweUV2VGdPNFB1cDlMbVhJRzVjdlRnOTFGcTdUanljZElYWmsyNEx5Q2E1MVVsZWJhc2ExUVlVcTJzeCtwY3ZUdE4xYko0UkI2RllPS1RkOUF2WnNOV2NrMHFFSmpwdmJLNE5uSlBrbGROMmk4dHEzN24yRmE0UW04REg0UUNocjhiN0F1UlpQQUJsZEhiaVJtTFdVOTFOSWVYdjJ2dXFqSnpOc0RyS2ZqZExEK0NsUWZZTzYvWXNjWXFKZFIwdWJ2aDFzMlBpWGJIR2Nsc293N29mbnprZU5kbkhrZFBRdmxYbE1jMHFTK2x6ODBoWjVqYWMrNCtGRDF2Z3VDcXNKTWltRXAzdkhpWEtPS0Rmemp4OE0yY0hUZEVNUHpWUnBqbVhMSkUzT3MrbXcyU2pRVDNiWk9qVmRrcHdXZlJld2l2TUZQOHBzcHhubWV3RzVXbXdqTVQ3blJLWkJobG5yT2IzWStVRUFUcTZzdmJkZVZXNWk4UmdHQUhKYjIvbUVwcVNEQTJqeDZkTkFkc2svdnlERVVTR1FNaHhzNEhGWllPK2RITzNjKzhaYUZ4YU1uIiwibWFjIjoiZTFmMzFjMGUwODQ0YzEwYjAwYTlmMjlhM2E0MzBlYTIzZmQzM2RhYjNlNWU2ZTRhZWRmZWM5YzhmYTk4YmU3ZSIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../../addon/mode/simple"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../../addon/mode/simple"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  var from = "from";
+  var fromRegex = new RegExp("^(\\s*)\\b(" + from + ")\\b", "i");
+
+  var shells = ["run", "cmd", "entrypoint", "shell"];
+  var shellsAsArrayRegex = new RegExp("^(\\s*)(" + shells.join('|') + ")(\\s+\\[)", "i");
+
+  var expose = "expose";
+  var exposeRegex = new RegExp("^(\\s*)(" + expose + ")(\\s+)", "i");
+
+  var others = [
+    "arg", "from", "maintainer", "label", "env",
+    "add", "copy", "volume", "user",
+    "workdir", "onbuild", "stopsignal", "healthcheck", "shell"
+  ];
+
+  // Collect all Dockerfile directives
+  var instructions = [from, expose].concat(shells).concat(others),
+      instructionRegex = "(" + instructions.join('|') + ")",
+      instructionOnlyLine = new RegExp("^(\\s*)" + instructionRegex + "(\\s*)(#.*)?$", "i"),
+      instructionWithArguments = new RegExp("^(\\s*)" + instructionRegex + "(\\s+)", "i");
+
+  CodeMirror.defineSimpleMode("dockerfile", {
+    start: [
+      // Block comment: This is a line starting with a comment
+      {
+        regex: /^\s*#.*$/,
+        sol: true,
+        token: "comment"
+      },
+      {
+        regex: fromRegex,
+        token: [null, "keyword"],
+        sol: true,
+        next: "from"
+      },
+      // Highlight an instruction without any arguments (for convenience)
+      {
+        regex: instructionOnlyLine,
+        token: [null, "keyword", null, "error"],
+        sol: true
+      },
+      {
+        regex: shellsAsArrayRegex,
+        token: [null, "keyword", null],
+        sol: true,
+        next: "array"
+      },
+      {
+        regex: exposeRegex,
+        token: [null, "keyword", null],
+        sol: true,
+        next: "expose"
+      },
+      // Highlight an instruction followed by arguments
+      {
+        regex: instructionWithArguments,
+        token: [null, "keyword", null],
+        sol: true,
+        next: "arguments"
+      },
+      {
+        regex: /./,
+        token: null
+      }
+    ],
+    from: [
+      {
+        regex: /\s*$/,
+        token: null,
+        next: "start"
+      },
+      {
+        // Line comment without instruction arguments is an error
+        regex: /(\s*)(#.*)$/,
+        token: [null, "error"],
+        next: "start"
+      },
+      {
+        regex: /(\s*\S+\s+)(as)/i,
+        token: [null, "keyword"],
+        next: "start"
+      },
+      // Fail safe return to start
+      {
+        token: null,
+        next: "start"
+      }
+    ],
+    single: [
+      {
+        regex: /(?:[^\\']|\\.)/,
+        token: "string"
+      },
+      {
+        regex: /'/,
+        token: "string",
+        pop: true
+      }
+    ],
+    double: [
+      {
+        regex: /(?:[^\\"]|\\.)/,
+        token: "string"
+      },
+      {
+        regex: /"/,
+        token: "string",
+        pop: true
+      }
+    ],
+    array: [
+      {
+        regex: /\]/,
+        token: null,
+        next: "start"
+      },
+      {
+        regex: /"(?:[^\\"]|\\.)*"?/,
+        token: "string"
+      }
+    ],
+    expose: [
+      {
+        regex: /\d+$/,
+        token: "number",
+        next: "start"
+      },
+      {
+        regex: /[^\d]+$/,
+        token: null,
+        next: "start"
+      },
+      {
+        regex: /\d+/,
+        token: "number"
+      },
+      {
+        regex: /[^\d]+/,
+        token: null
+      },
+      // Fail safe return to start
+      {
+        token: null,
+        next: "start"
+      }
+    ],
+    arguments: [
+      {
+        regex: /^\s*#.*$/,
+        sol: true,
+        token: "comment"
+      },
+      {
+        regex: /"(?:[^\\"]|\\.)*"?$/,
+        token: "string",
+        next: "start"
+      },
+      {
+        regex: /"/,
+        token: "string",
+        push: "double"
+      },
+      {
+        regex: /'(?:[^\\']|\\.)*'?$/,
+        token: "string",
+        next: "start"
+      },
+      {
+        regex: /'/,
+        token: "string",
+        push: "single"
+      },
+      {
+        regex: /[^#"']+[\\`]$/,
+        token: null
+      },
+      {
+        regex: /[^#"']+$/,
+        token: null,
+        next: "start"
+      },
+      {
+        regex: /[^#"']+/,
+        token: null
+      },
+      // Fail safe return to start
+      {
+        token: null,
+        next: "start"
+      }
+    ],
+    meta: {
+      lineComment: "#"
+    }
+  });
+
+  CodeMirror.defineMIME("text/x-dockerfile", "dockerfile");
+});

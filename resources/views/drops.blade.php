@@ -1,1 +1,135 @@
-ENCRYPTED::eyJpdiI6InVKWlhDUXdveGNNcXRMSlh0MlcvdFE9PSIsInZhbHVlIjoieXlCTHFFanVYaXc1UFNHQVpqKzljY0JhellMRk9LcllkbXRCWXo1bkRqM0tia2JtWjFQYTZlbXFqTGFWL041aUcyUjE5YUJMZjVOcldrUHA5L01oOE9MZzBXWm1id29HS2tqbUlMR3hoZDJjSFlqclM4dnBHSnR5YlRsNUQ5bS9ET1NNU1VYaEpLOGtYWTQvT3BkQXJwcStZb1JuS1YydzBKNDF0RDAzNWk3TWZyYmNQZ0NFdkJkWHVHTU0xd2xuT2RBSkFleTNOam5DNVcwYkpWMVZyNUVzWUFBMG5GdEgxTlMxU0FXZXR4SUxzc3o1bmlSMUJiUGcvNkFQSkozUEVkMGlBRjZDdEtFSTV6bWJ2S1J5Z2p3NjVHNXdETXhnOEZPYnpLbE9hSzZGdURFV3ZBMTVoUUJFMThhZWMyYXJFRElWMlB6L1FnVnFDVDI3V2FEV3p3WDJac0VpMEh4ZUtmNTc2WkF5cDZuNndLSk0rYjdGcEJISStjVlFpVERBMCtYd3hCMllaSkIrRzZTTGYwcllxMSswRFhnS2pWbmIxR0xhMkljVG1qM3dadDR6bzhZd080TlJKSTJ0M01SM21STXNiYitNN1dLVEk3OXIxVUFZYTBqd2lOYWN1dUhjem9OMExhcWZIWjVQeXFYSk5HaVRtREtlZGpoNWk0b1pTZGVpWkNQVm10dGcxYTl4WUl4TVk2Nk5uamcrck9yWmV3N3dTaXVRblcwVHJoL2VvVWtGNjluOUZoRnF4ZTFMa0diV2lEbnRxUThOMFFnTTMwOXE1YWQyclN1WHB1N09Ub0ZHV0pNaGxKM1REYU9VUUF0RUtpTzdPMlZnU0Vpd016anlTd0M4SC9MTkZIR3Q1MjBTRmJKL0lybTJYSUJxSTl6OW1xRysxQUlGY1VpMTJydXcrOXY2ckFvT3hGYlhDdVV0MWM5T29hdzZlclJIak5QNWliRjI4ZmZXbWFEUjNFQWRIcFJQTEZON24yOHNldUJtcFZ4a1FXNkZEblByREpvN1JMRW1XWEVUSExXbWt4NGVJSFFIUkh0K1lsVmpFemdGTlEyNjRXYlc4Zm95eGFpYTVDU2xJb1Z0a3VBZmRYWlVXVERrUEx6MS9lY0JzazduZFFaN1RqTDJwMHhFQ01oc0tYTDArMVZOSHZqM2ZFK3V0UHV5RVd1U1BwQllodHB0MXQ0L1VCY0VOa1d0aFV6WFdKaDN2SU1HYXRhaDR1bkFlWUxmbGM3T0ZOT1F2VktlNEc2QlB4bWZDU2tpY0p1WVBBdlR6cS9idWlWQ1hYbGx5R1NpcU1rQUNZd0pxK25FSTJSVGNUVE0rS2pDQzViTzlMSmU0NUFrMFhRSi80YVB2UXh1bmRiays5SmU0alhHcDFuWW9NMmNGU1h4U1RvUlhhZEQ0MGptci8xL3ZnTmRXVmM0Z0NnbU5pRllieEhqc0pKbys5QkkwcFVGaGY5TGZyd2lYU3Fzdi9QcGh2RTMxSHFKMXBmY0kyeFQ4eDNidEhVdmVUc21lTHFmcDZXZmxYTm5IRFV5WjE4bkp2RlJsTkRvcnNkdk9yd1NwNk93Q1h5cnE3NnhlcXlHRGFNS3BaajgyRSt2S25JeitJT1Q3ellCbFZhS2V5TlFpOUphNU9mRGx1RjVXSXlQOXArTDl5RHhqWlI5UE1WZ2R1aEthMFI3SndtZGwyNUFOdFdCUHd2U2Z0MG9DNDdaL1RJcVlWaEhacnNoT3orVWRpa05zekpLc0FURytpVVNuRjVPd3pCenhkT0FDSXNoa2JBa21CK25Wc3hzTWZGUm56OEhJNEwxcHRlMUZEeDUyWkwzQkg3aWdFMW4zQnhQbVA5R0xqWDljbkR4ZG9uVTByVTdQckQ5UkhQUDVKYVNiWTM1REFuUVpoMXo0c3FEeEVEek9ITGYrb0I5RkdjZXN1cjFzYlBJZTRLUWtvaG0rWnIyK0F6S043WVRTYkVDUVBKUDFIaHhPM0w1S1pYS3BLeEVjYjZOZjd1cWpuaS91bUNSZmZQZlVlZUZ4djNOaWJHY0pxVlVEMzVsaDVQTmFnZ0xzM0pDL3FuYTYxK3FJbTh6UGJnV2VRbk1yYVBaMnB0dTZGQzljc25tbXQ2VHphZUlYemQ3eVFFdEl0NVlEWElqVTZ1dk5HY05UZXV2VEJ3SHNtV1o3QVV5UFQ5Q0lNNEtEc1ZnVXhmblFpVFo5aGxOemd1UHA1aWFVZlVhNkxUZjdiYnVDbm8wdUFXR01aK2F3M1BBaTRoQlk2RVU4OUlweFd6TG1KbzZaZnJwbFBNbjdnd0duUGI1ZWxmeFBEd2prNnlzc1pWbkNuMnMzTnR5M2ZEUUZNSjJzdFVKNU9KTlltNER2dUQ1RVFsT3VQOXZlK3ZFZXdiQ2pSZ0hBQytPUVY0RWVONFNITWh0UTBuNUZYU2VCbEd4Tmd6Tm8wdHZLKzdlaDY0VjhSeGZibGxtT3g5TzU3dE9Cc1dITWEzS2dscGo3cEsyNThRblRhcGlzSlNZcitpTjNVTGFYZDhUTEtEbno5ek5zQmlqZEpZNVc2RitnMERSVVBIZWdhNUJNSEozQ2dwSkVFYkZrYzczdXlYU3AxRE5LK1ZNSDA3TC9wdE5YWFA1YVlNV2xubGdWaUpqVFNEQkkyTWQwZVp4NDBGaFFjV1FBaXViek1UMkhTRVZhWlpESlorVytUMEtTUHhWYTRBNG80K0MyUlArWTBHZ0ZMUitISkNXZ0dYa1pIa0Z1emMyUDhnYTE5ODhlSytKQ1FocFczK0ptSGwrTngyOWFhMTZIUTRnQXpWYldCK1NieTlJT0F2dTd4UEJGZlpLMkRuaTdhRUJ2ZjZmcTk5Z2Z5bTVpSitabDY4aXhqamZOdWRmSEFUYXlzTnduSlFFaDdqdHBSeUFyd3k2dGhkR0ZSckhocHlhTGxKYVR0K0o3VS9lN003eVFVS2NJdmgrY3JoM1lIVzRndGIyeEVXSHNwVFE4aGg1S2Y1VkZ2V1RPTGZyckFNL2RVTFJJNG14Z0dna01udE5TUnYramZibHNGRUVMY1pwb3NqYWlpeFNHNmZaMzBrNjl5ajVJdmxlWVBFOFpobTZsbmk2ci9pTmlzc0p1bEtWU3NsN3p5dzZIZHlyYkJTbGxzMlBPS1Y4c3ZHakh5M2V5TW1zUzg2UFYxU3JUL0thU1pnR1dXSmdtNlFVL0RWeGhkZFVwMGlFSmJOYUNoNW0yTm0zcWFpSVViYkkrS3o4TUFjNHdLZ0tDVmlKSUR1bVFDdThnUjFiQWZTcDhIMzB5czV5Yy9MTCtTUVBYVlhlSUhpTkR0Zk9PbnpwZXh6VnJIdWNxUjJlN21BRU1ndmx4eFlxSklOOHpqZmRQNUNHOGJNbEhDTjNPME5zWTBqWlVpdjJIWTRBM21xSVd0TGtTaEo3YWlCQjBNZ1FUa21NZlcwSERkaXV0cCtGcW5LVUhpVDNucmpQLzRLSUhGQ09rTG94WVd1cklTRzV3aEFsQTlDOVZsRmQwSm5YbUtWM3JFejkzMnlOemdTci9Nck9BSldpT0JVdEZqcUUxak5PQ05VVlh5ZG1CclZySFRyb0VHZ1FHQTVWeXBHdDhvZjRyeENYNjdDNC9HaTY4L0FVcE15dG56YUhYNW1VcDJ3eHp1MjZmemNCMGtnWHd1bWpEcVdkU1NHMTFKdzU0R1J4dEE2T0llTVVqb2dvb0hRYUd1M1QvTWVwT0tyRnh0RFVIcktxMU05VDVGQjVHWGs4ekhhY01obGFmVjUxZ2hsQXRtOFFadTgwVTN6eGlTZ0poRHJaV2VuQ2xKUHB6OWFDc1dQa0c5ZVRGVU5xS1NicVc3ZGs5N3B4WnMra3czMmZpM0dIenZ1SjU0anV1R0RPN3pmNHhjWEpXQVVnNE5ORDdsaHZOTnBONTQ1OWgvK2RXRGJLYUlmeTQ1M0JwbUhOUThKd0ZLdHJ5SWI0d3dGU0Q0cGVaR0krU0EreEpOMGZ3NkRsbWFVb1VmTGU4SVYvdXBoRmxIdmllYVJzVUlCYWYzK3ZOM0NDUUxoQnI2TlhHVGorL1V2U0gyejZDRWh2SFU3VWxaZEZRN1poR0hNY3YwampwOTdBMzhMVGFMbzRuNnY2RUhtanFqdms0SExGOE5wTDIxdDFndDRTWExOc1NMYlRNbWJBS2kwRjhGM2NZbmNBa3RPT0RWcTQ0V1hjZ0RhM0VveldiRFpnazVCNXhOMDUrMmJXcHlZMk1ZY1FLSGN5Z0E2ZDRka09wMjhzUGFTb2JkWlptRFZERzNLTDc4K0tadjVBK0o4cHVSM0Naa3pkekt0TWJGMHFKUDJuS05EdXgvK1YxZEFWMTVGSnMyQ0ZjN3hmREVOMS93R1JaZlY2WDNZc0k0eVJUaDdYc1RXZlhGbm9EQko0MkNvcjU4WHg4YkZlK1ZzdWZjdndrU2FnTFpJU2NzYng4b0NFRGJnUlVEOC9jZlhMZUxPNmxlem93TkkwVGh0MU84VUw3MzFBZitzOWdQRm1PQ1lHYkg4NXhWYmc2UnU2WHM1aUxUYisvRkZzbXd1a1I5VUhwLzNETkQySzlDSXBDTXBhaEhPRWMxbkVlY2R5eFF6RGxtRXVYQXlQN2xVeURqWEtYVlhGbFZrOHpHODFuTE1USWdSNDRWcWNHbzZEb09xVnlIK1BZbEY5cWREVEFpdklFcHpBN2M1U0pBcld1WE8xS3ZrREp0TXdzZjlETGdtK1hKRTNteTJTR1hQZmdUTVZnRUdxclVWY1JSMkx4TUlaZnBHcmpFaFgzNkNBeWNiS056eWJlUGpZWms2b0VVWjNSUElxT3VWTUlaVGUwcXZmUXdDdmR0WkxySTdBNzFTRzZwaVY5YldPZzJqa3BBM09CYko3ZjEwcmMzQTdOSDEwc3lIeC9kK0E2UXU2WmdjaC9lQVFmZ3dVVmVhUUJOOVVxZFQvN0tYZHFVSHlXZzZHd1Y2U0xKOEdvUUwxaThBVkpycmh5UFpxemhOV3A1bHFxa1ROMUdrNlFFYjZnTWlZVTl3OEtxNWlLRjk0SlZNVGNOWEMvd1pjbWk1Uk5XL2c0Nk9LUU9BZjdhMjkvbEFTV0w2MkpiaGNsblVZMk5iMnVWR1kwaEtuUHBXcHhxT1lGSmtHYXNqSnhMSGRDcVZ2SjFHYUxwcW43R0pvaXBNZkhXbCsvOXRNa3BhOFlnQ1B4TERxU0trNEwrbTlrTnp4Z3VFOHEzd1R6K2g3YmdjMDV2VEdNTnhhSVFFZld5SjAzZXBMZnlkK0hDOTlYZldZV0V3UDlYODBWUnJTQTRYVTRDUHNEcGt3WklwdC8wMms4blg0dTFZOTcrcFcxUW9qd3FWeUo3dE5VN0xGSGZmWkxTa2UwODl3MnNsbTc4TmRWaEZ3anJ6RVVnWW9RdnJlSXZJbHpjRnlFaHhTbFJHTVExcVlMYVN0MkwrMmNXdWhwbU5hS0o0ZHRQemIyWk81ZUxya3VQemg5K29aV2JFclIyYjhDcHd5OGhKVzFmdEpUeGZsVUg5WlRBRmRXalBSWXNuZjVuYjB1VEhWbzBNd203c2RXM2tYTklNNHAxcTNJTThWOW8xNkVSUEtvWEl4cVBwMmxwU1licUpiNStYMnlvN2JCdjc5UUNmclNiR21raUlscmlCdUc5STZ6RUUvZGFtUXBtYVhVcWtNUG1tZkhVSG12Ri83MUVqZ1Jqamxzbi9zQ3RLQXc2QTBuN0NGK3ZoSFR6enlNSWNTdFZWOXdmazQwa29YaXFZbzdoN0ExYU9UYk0rVmxIY09IcEQ2S0ZvWHhsUis1NmxTUzhnSkdlLzFab0lRTGFDTktLd3E5RTZtRFR6bDJNMUJFSEpUL2F2KzlzSG9NNTlOdzVwcEdXeStpSUZxUm15YTFSakt5cFJXRGJ1cko2N3Z6N0owOW9lSVZySVc2YkRITlBXY1ROdnU5bmwwUm5CUDlHTTVyazhCTjNTaHY0M1pvWG1CbzRzZU5TTnNWd0V3alhOYjdEOHFVcFY0S1pPaEV0M280Y1pzTVBxeEh2bEpPVXhQVXA2U3JqaWJpaERtYXVMYXgvSTR5WFNRTnA3MnVKOVBJd0FwSmR4M0JISUczQkIyVVV3MHlRQk04ZlZOT0RVTE1EOUNISHhjSHRzc2RnMTQyMXFCU2EwK3V6bmlNT1I2MlE2eHpkUHRJM2FOeFliRWJNOEFPNjE5TXZQbFo2UGlENExwd3Z4Ym9iUjJDWVhkTHRkSEYxU28xZ3ZBaDE2RHdhNkpJTGxlbDFXenNPdUdQMGFlR0JSZHk4M0h5eHZiZStuaVZBa3BSZGZXODlHWVkvcFRJeVdzOCtIRVUvbEFFSllvWnNIeXFtak1DOU9XS3JxNTUrSjRZYnB2UDQ3cUZ6bllVZ3ZwbkNXVFlraWUvaTV4V1ZCSjRCV3U5SUROdkhiNHg2VFJLMXhkK21iTmtxWDBzVGpYa1daZytkdlFoK0h4ZTlXbzFyd1FYSDNBekNiMnBlbVJiYXdndmhYazdjbUUyaXE0TEVBelZ1WWtDZUtoTVNyUUQ1SHEvdEUxOUF4MERmL2F1TFpjclBJdHNvWElRaXVHTkZoWS83VkxsVUY4UjRIRUlZZHJGdnBoamRiTTRLV2dBYm5BSlcwU0dHMWVrcFBuKzZmSTEzeTRvWHcyRzJvcjZ4UGYydEwyN0wvN05OTU50azFscUg2TEcrenBUUnc4VVFqdFN6K3h0eDdmMlFtNXhpcG5IZjBhQmpuYzU4THRQK2lKNzdhMm9ua0JCaVZYaWZCUmVRSlVaMS9IeVNVT1FBZHBKbStFRzRpdXV1TTRneXo2bzQ4bFFmVUw3OEpHTnc2a0ljTTVneDRtR1Z2bFlXdEhiN3lCa3ozWVFSZWY0eWpXZk1tT3lIYnlZTExxa0RPQzNZNFJDOTV0M2d2R096UmhacjloS09wU0xBZVdQbDZ4WnNjRjBiQ2dDNkZzbXpkdFBoMmdtSmJIT0tGbGJxVHJ6eUgzano1bnZpdDJPbUR3REZUNHhucjlOOG5TaWVvSkp4TzBhQ2E1bXdMVGhvenVqdG5XdFF5bHlRbG95V3N3THBtajlib1RLNzhBUU1HbW5sZzZDaEZKZXFFNGNHNVltQkVhODhOclVKLythQjZuZis2VDRHNmJwRHFBd1Zzd1NyOHp1Snp6Nm0xaVhydUtRN3d3a2tYNG9WOVFkOVdVRGxjUDcvVU42bDRnVi9rMVgzb1QwVFRzUkJ3MnRBRkNreFFnSFNLL1pFM3BUZFpCV0c3N1Z5UGF3a2dtV1dwdUhJc280NWdsUGRIWklHWXl5UGd6Nm1meXdsWVQvS1pYaFEwcGoxNXhVTWNXUXBPS3BGYmRnMUhjQ0xIQWlHN2RYci91UGRKODg5L3dGLzFXc3ZuUjFqUUNkUVJrazdyQnJkb0w1di9td0g1bXdXVldtM0dTUHh3bmNBRDZxWFpHMW5adFU3YVJ5Y29ES3FnSWhvdHlQdDFoMG9JMHhaVDFzMGtya0p3ZURNNlVHUDBLUEFybDBqK2w5MXFjSzIxbFkwN0ZxNHU3d085eDBrRXF5Wk4zMmNsZHdkSUovcEFXd2hMZWpndGtaN0JuUjJvR0czdTVDaGtScy8wNi9BZWtSTENnTkk2YWZ5U1JCRUROZVZxY3h3MFlCV1FRRjFab1ZOc2x4L1Q5Nkxza0JpVkRwaTEwQlZMd0w4RmVCM21mMGV2U1JzRDlZKzJXVXZUT2M0d3JkNzNxVzJuSUdiRU5vOGxwdUlPOGdpM1VsMmMrL1Mza3R1b1NLNUN5MWVhR2U0RFlLVjR4cE15bENUd3RwRmlGMDRrQktQSXkrUzd6cUZscko1LytzeDFIbmhhemRDMU42OTJGQWJ3M0VIdHpwVE9zMGpYc0VnMmVhdXpnc2RKVkdWcy83aG5IUWE4eEtBb2oxMEIyYVFTaWNxdW03Q0dyaGdDRzBOeDR2d3NuNlIwY3VqQzEwU1g4MVBac1BYY2JnVWdQZm03WjhRYTNQWnBFVW9yem1zbjg1L3g3NStaY1hQVmlLd2x4aTgxUjlEZTgxRUExaFhHZ0xndTd1RjkwUWhZTzFWbnRScjMwZ1lCMm9OV05IRFBwQ205REZ2dTE5czN5TnhYK1pia2lhVDI3akxxUnJqSHhzdG9ZWUJhcDA4OUtUZDNhUXQ3MitlbGdoZXhhZTRQYVczYUl2OVlmMmdsNVI0UFJHalhxcnlhQ0F5WTZCdDhLa3hRUkhyQ3g5UUllOUFSclJ1UUx5ZFY4YldFQmY3am1qQm9XNEZFcjc4K2QxOFZuamdkSjNuOTh5N1UzNGRxSWRMa0hVN0E0Szk3c3U5TnZMOWdZa3BvcmlZM21nc01Rb1h1SUVmNnNBQUFZUW5INlBWRWlnckNyV056T0JSWkEzWG1VOHRDbDlVOVFSQWE2Uk9CMDl5WXlPald3RHNZVHAybkNHdzN4d0FTcEV2Z25yRDdtL1Y3cUkzVXQyRHhDYzFRRnNIRWNaajVLNm1xQzViTmkzekNLR1FpQ2xuc2haNFdmYlZZdTAzYjRzR2VubEdZdFZjSUxETWhGckg3ckwzV2oycHpGQjRtQ0pibmQyTnczajQwNVBrNUtRM0Fvd0M3NEY4eUkyWlFDc1BIUE0vL3JoazgyLzBVVG8vTlZGMzdMTUJLRVc0TCtPYkRoSk42T3REWlpLWXBRa3o3dDBsaXhIbktnYVlHd2xwN0huTm1JKzF5OXQ3ektjYndMQWtUTUZ0V0MyQzJCekl5bkxYTXpDYWhKMmxLb0lFWVdJOTZJeXpPQ2ZPWWpHZjN4anJpOTBsWjgxLzVNdFREQ2xmQW81ODhHYUFJUHpxYzIvWmFwdDNGaE02Y0E3OFJ3TFp5V1pZU2xDalRVTS91a1JjZzNCVk1nUENoZDM2M3hsTUpWZTk2ZWlBTkR4UXpEcVZQd0xid3draUZTU1AwVFJuRkdvZExhckhMbGthK1hjdTZNbFQvNWtOdU5rMWRWUHpPNHZ3WVJrY0NUU0p4UWl4elhOWGR3bzhUNFRXUUE4NXNWQUJQcTIzN2lGUHZWYjkrajc3SXNqTlVjbXgwcmFpTjhvcDZqUVhxYU9ObE1yU01OVVR6dWptM3hsYWRseXhDelpWQmVBeVpWMk1WcEtib1FTREo1blh3UDFVYzhzenpvMERuck84RlZVUjFyOU1UWitGMWFFV1RBbnZkOXpUbXQ0SkpIM3dIVTZ1aVNMRXYyQ0YyZms2WnFSdHN1OVFROHZOU2NPTTNFT3lFb2hUbnJjeHhZR0kwLzlQL0VaMU5ySTBCTG5GWGczRTdOa1k0U21CN1ZwelBZODhDTERKRzE1TWtIVmlUR0NIamh4UGVwbUpyRUl5Sy9FRjZPdXFyL2pjOU0xbDJGcGk0dTJrMGVWejlvS0xSR25hR2lvUmNMRWxBSS9Bd3FmYU95K0w2UDkxOHJHOVhSN3FTR1ZjNkk0S3RaNXM1RFRpWVpQRWNqMUNaN3B3d1VBeE84SDNjYlIyNE0wMHNyZmJvOFd3Y0hteVBRR05GanhneVZzL0J4TGQvMzJBVElpTEZRK3VXRm5GS0dLWlZOaUNieEdWb1d1b1UrYUhERFZrbkdxblhYZU5JdnFVS3RxVWhSc1lMckFkNnRqSzdDZGRLVkZuWVdMOTBtei81bHBCMkU3SjU5U2xzQXhaKytQeEFWUFpHZmZzZFJ5VEpKL0poZmJVN3dQTHhwWmVoL0NaMGYrTXZ4clNxMDdHS25BNlFraTlFbGM4dCtFbnp5cWRqb1RJSHY5MGFmNFQxanc4S3ljaVdDWUV4bENLTkE1RDFxdTdYNnphd0U4MDR3SkErd1ZONjRjS0d0ZjNNczY1MVoxTkZhNnVrVDczRm1vRlhzaTc2eXhxZUhkNGIvRHdVdlVuQUFsUEJGdUUvRVBTeFdMQy9zcWc1MGJoQ3RucmI4Snk3eE9wNWZBNDRsR3RORmdZSE5VSEQ2a1FDOHdCNGdmZ2I4R3I5TC80eXBqR3N3UWNhbnZRK2lSV0Jic21SMnFSTkR5aW0wU3hkanB1bi9DZzhoYmZ3RkNHMEdxTDF3MmVNT1ZBdE9kZGF6U3dYVXIrbm9JYW80L0Y2Z0U5WnRaZlFyRWExZFN5b2VGUjEwdXFPY21uNnd6YXEza1oxZ2xBZitsWWJWNzk5bjhyVEsvOE5kbkp0YzBTNmxTK3ZiVUV4dFVHYWI5elBjL1YzOTFMZkFtZGQ1V1FaTDB6Wmh0Z0N4V1N6L3BVb0c0RTU5d3UyWlBXRDRSTUlvaXNmQlFTTGV0YlBDWE9wZnN4aTFTY01YTEw5TmUvZ05NbjNUc0g2LzdMOURIK0ZMbkpFQWJRNlJ6b205L2RYUTlKM0ptZlVmZFd3Z3dYNFBmbTJSSDBSTFlTejVWTFkxYm1TL2RHYXJrcHNZR0k5dHkvL2VPZlF6RzdsY253Ykpjb2xxUGw5S3FtbVFDNG8yeWhWVEZvVmFTeUFMeUJzbG83UlZKVDBNYTRCd1lTWStBZk9xczdWbGtiWXIyTGRteHFQakRlajJXYzBnT2ZYS1loc2g4Qk4zQnhYTWplRjNrdFh6VlFPTlBaY3FyUjY5THB6cVpMQ1UzcU45TGRCSkU3cmlTMnoyMjltODFOTm5yVlpwcTgrbXlGY2d3R0tDSnUySGd3SnJtdk83bUlPbElPTStzYUkreDF1UmxiOEF0WXBsdnJnbG1aSkhzY2xvT3ZXbnlPY282MXBoMzlOMnY2WUI2TjlhdXhVQkF3Nlo5bnlFWnhFNXl2b3NiUU41MVNkV0RXdnVzcWFlZ1MzakgyWjh4VUl4Q2hWY01XNjlWQkJ0YXFncHdKRnRZS1E1T2FDNFExUmhlTTZVSzl1MkxHQmRvZnFlZUxGYmpOaEVnMXVMVGxibFM4RUdJNnBJb05teUtYTTZubzFkbUZ0ZWk2a1ZSdWZ2WFlwWDNYeGdoS2dqQVFGU1U0cU83QlhZMi9OVWF2RFp2Y25TMXZHcU1UN0h6REtsWEpMVjc2TU4zb2xOdzZmZ2oxV3N2WUxYaVU0djRtOG9qRTBEbWRzSGx0WDFjYkwxdm4rUmdFdVdhakpUZE42aXNOMVdiQ2x6Vm40bmwxb21xSkVBVDFQcXAxbTFaNCt6NTB4WDhWVzZ0ektmdkdiYkY5eE9CNGhqUFFmUmlDVE9taStWcGltYnhVdGgzRGY5RGZGOTE5ZHRONVo0ZEx2RXMvUy9UQ25uN0ljc3VtdEdNRm43bS95K24yc3lXcnVrKzkrNlgxbFozQUtQY21XdmwyN0tIUXpCbnMyVnFoWjFDN2Z0SlMzNy90R0NKYk9CbUxLWnE4R2NuQTRrK3QrZDZ6RWNNeXBtTmM4ZjliSVN5SEJSYlZQTFN0WGNtQnd5SUdiN1hzenBjenNmeTdvZ3cvdTFUZHhLdWZxbDhaNEFoMlhreTVUa1JUVCtTZ2FYVE9ac3RWUmtGSDdyZU41U0FSOUZISGxyZTJSRkNvczJYcElYNGdwWFpLQldkcjV6dzNUa3oyVklicmhVcWlvalBRZXhtOHp3YWZBN2dZTnE4UTRocjMzRHhvbGhYbWswWVFzMkFOcnpSYjZhODhCa1hMTno3ZURXWXdiRnhtZDlxK2NoNWpDaUUzdmpOWkVNanhmdEZEMjA4dFF0emFHZFNzSjlxK2NlUlBlY09aVmRieVdCN3haaU9ReEdZcGpZY1JXOVhPYmVCeEtnMy9LYmdJQWhoTGVFcko3VUJCSVlCblpDZjZEL3NPQTlsWE1iaE5KMjJDUmpsRE05Ukx5ODJ1eGQ4citOSEFHNW5GRlpXRXBIOUFJTjRIUE1TOFNPVkFNVjdkTW8vV3drdUZpQUNXZ2Y4UWdVZEVoQ3pRTXRIcFlJRVNBeHVCekVKLzVDUnM0cGNiSFBXTmgxZ3FaVS9pdzBvV0JIbnFRWWVJTndIT3UxVXdSWE5OZDdyQkw0ZDZ3TTNRRTNvVHc5U2FrbUlxcE9icGlwUUFIUEgvVGRSL2NxZ29mOFQzVXVqb3pqWXRoclliam9vZ0tVOURoZEU4aUdRWjlFTWVPeDdEMnJhRWlSY3o5VEdpQTFXcE5LL0NJV2NOUlR0NFY1c2E3b1NYM29Jb1ByYlFHTnZQMHcxUmYxMGMxYkh5Zm15N2JORGZYdXJTMHJieER5ZnlsSjJQald6WTg3bnhPd1U0ZHRPOG9CMTVLVVg1dGFVajAxTGw0Zlo5NHhyZDkrNnFROUhVSUhnWlllU09pYXhqVFV0ZjhCZ2daRExlUUd1SkNHSzdHL2VYeWs1dTh6akVkWjlFUTlSL051WXFDZVN2S1ZZak5nUGVSWWVTcDBISmVaRWFVTE4rNDVEYkxWcTVhQUl2bjJEaVBMa3dZY0lrNVZhQS9aV0FBQjc5YldHY0hsN3FMNTUwd0tGcjNHaldZblBiMUtzYmdlRnNuQmJvd1c1NGh4R09uR3BOWXpDWVV6NUhoOTU5OUk1RmZmckY1elUvU2ZHL0x6OFArQ0lXeGVZUG5zem9YU3JUR1VnZCtaREptMHJIR0FZNENyUUtnejB6SGNuMmZxdHozSU9iNVdScC9PS3JhTXpyeklKYVJNQ1UxbERhOEoreUlLM3E0VVM0R2lKTk9oT09kZW9lU0dCaUZQbm1PbVlUWWF3VVlvTkx4Z3VuNUpmWTRFTlFZbitFQlNXa21ZK3dZT2JrWXMwSTNLM2xhVnp5Y3NNK3ZIcGZRSS9teDFsUFNaTXRLWVJucjlGdVZXVW50OWJxYldUazFhcHgvVk96QUU1OVg0UnFsUGpmWjJtVmlNSUhwb3JTVHA4QVhIeTBFdkU4M0k2dk5RN0hLVnBOZEdFaGlpbWpldUtpTnlJdXY5bVRUekpqTXlFTThYaCtLZmpKbVJDN09MZkIwTVJnPT0iLCJtYWMiOiJhZWQwNDY0OTgxMzNjNWI5ZjMyNDUyYmVjMjQ0ZGI1ODY5MTdhYzM5MWJjYzE5MDA2YmYzN2JjMGYxZGFhYWE4IiwidGFnIjoiIn0=
+@extends('layouts.master')
+
+@section('title', 'Drops Painel')
+
+@section('content')
+@section('page-title', 'Drops Painel')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default">
+            <div class="card-body">
+                <div class="collapse" id="collapse-data-tables">
+                </div>
+                <div class="table-responsive">
+                    <table id="productsTable" class="table table-active table-product" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%">Drop</th>
+                                <th style="width: 20%" class="sorting_disabled">Courier</th>
+                                <th style="width: 25%" class="sorting_disabled">Address</th>
+                                <th style="width: 5%" class="sorting_disabled">Courier <br> Package</th>
+                                <th style="width: 10%" class="sorting_disabled">Status</th>
+                                <th style="width: 15%" class="sorting_disabled">Notes</th>
+                                <th style="width: 5%">Type</th>
+                                <th style="width: 5%">Expired At</th>
+                                <th style="width: 5%">Personal <br> Notes</th>
+                                <th></th>
+                                <th></th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach ($drops as $drop)
+                                <tr
+                                    style="background-color:
+                                @if ($drop->status == 'Ready') #85f36e;
+                                @elseif ($drop->status == 'Suspense') #838383;
+                                @elseif ($drop->status == 'Dont send') #fff085;
+                                @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                color:
+                                @if ($drop->status == 'Suspense') white; @else black; @endif">
+                                    <td>{{ $drop->id_drop }}</td>
+                                    <td>{{ $drop->name }}</td>
+                                    <td>{{ $drop->address }}</td>
+                                    <td>{{ $drop->packages }}</td>
+                                    <td><b>{{ $drop->status }}</b></td>
+                                    <td>{{ $drop->notes }}</td>
+                                    <td>{{ $drop->type }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
+                                    <td>{{ $drop->personalnotes }}</td>
+
+                                    <td>
+                                        @if (auth()->user()->type == 'worker')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                                <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                    data-target="#requestDropModal{{ $drop->id }}">
+                                                    <i class="mdi mdi-autorenew"></i>
+                                                </button>
+                                            @endif
+                                        @endif
+                                    </td>
+
+
+                                    <td>
+                                        @if ($drop->status == 'Ready')
+                                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                                data-target="#createorder{{ $drop->id_drop }} ">
+                                                <i class="mdi mdi-package-variant "></i>
+                                            </button>
+                                        @endif
+                                    </td>
+
+                                    <td>
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
+                                            <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        @endif
+                                    </td>
+                                    <td>
+                                        @if (auth()->check() && auth()->user()->type == 'admin')
+                                            <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
+                                                method="POST" onsubmit="return confirm('Delete Drop?');">
+                                                @csrf
+                                                @method('DELETE')
+
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        @endif
+                                    </td>
+
+                                </tr>
+                                @include('modal.createorders', [
+                                    'id_drop' => $drop->id_drop,
+                                    'courierName' => $drop->name,
+                                    'status' => $drop->status,
+                                    'address' => $drop->address,
+                                    'notes' => $drop->notes,
+                                ])
+
+                                @include('modal.assigndrop', [
+                                    'id_drop' => $drop->id_drop,
+                                ])
+
+                                @include('modal.requestdrop', [
+                                    'id_drop' => $drop->id_drop,
+                                ])
+                            @endforeach
+                        </tbody>
+                    </table>
+                    @if (auth()->check() && auth()->user()->type == 'admin')
+                        <div>
+                            <a href="{{ route('createdrops') }}"><button class="btn btn-primary">Create
+                                    Drop</button></a>
+                            @if (count($drops) > 0)
+                                <button type="button" class="btn btn-success" data-toggle="modal"
+                                    data-target="#assigndrop">
+                                    Assign Drop
+                                </button>
+                            @endif
+                        </div>
+                    @endif
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@endsection

@@ -1,1 +1,151 @@
-ENCRYPTED::eyJpdiI6ImVZOHF6NTNnKzBLSkFHWEFnaU9FVWc9PSIsInZhbHVlIjoiYkl4bVQ4VktmWUVTZkMzNGo5VDhLRUJkTDNFNDV0NHp3cmgvZTZBNEllTFBYc1pUVlpHVElmK252UldRYWJyV0V4MFdPZHFDamZVSEs2Zzh2UjJsK2ZqMis1MmxHOWZGQ0VQbTBZK0h6QWJpUWtIR3dtUUdKZGFMS2c5WnZRNm9hY1QwL3g5UHk3cDd4aGlLQy9LQUZJYS92dk5GUmV4T0JiT0NJTGNMcDRQSWEvOGdSalhwUzBadkpPNmlOK0JsNzlyME1kTVlYcFdhb1IvK1JQUmFrdGE4UTk5SHd1MGVLeXZrRWZkK1YycElOQ3VUUDhyUzEyY0dFQ1JEQTQxcXk4b2ZoWk9IYjdUQ004KzlwOC80STlrdGpiNzlMdEdZbTQwZXNxWVpiRkNOR2tRc3RGYjYzQ2lkUWl0bTA5RXM3anc1cFlDWUZkV3R1MU95YUgrbjVYaEVhbHlrQVhyOUlYYkJiQitidEU1Q1JQU3BvUm9sVUVaV3lXMFVLeWlJSm5tNExxc0NTWStCaEhRM3huc3pSZEs1SkJHVTRQaU5RcjBaUjY3RzdweUErS2xpakNuVXRFelBOU3FEd1hjTVZZNzFiWS8wcXVRaFFXOEcwMGRzTWcxYlZXcC90ZWVGWXdBeVNYaU9CWkkyRnVRTHFhbzJSOGN2SVBpZjdWa2h1aHVTanltV1ZPMGVsTXdJNk5hQi94cUpScFRVL2ZRVmM0NWgxdkZ1UUNncGMreWk0emtGK25yOWcyTDNYeHozMlZHTXVaRmQ4MzNjclFBbkVqaGM2cXoyK2xBdWh0eGVFckJWbmFzQzZKR1dpL2p0anJuRlR3Y1RXRmxwZDh0VUd3ZDYzWlQyamRlR0h1dkJCL25VNi9WYnJOSkozR05TanlsWUhnbFR0dzZYSDRQaTNicjZOSk5DaUUrM2NBS3VPNE1RMW55RGlGdU03M01qeHMxeEhPOGVTQkx4OThLOFhuMW1MRWxpUk9vL1FVRmF1RDYxTnVDRktaQnVvTVRHNTJ3SUFKeE5ZUjZyTGZmMDJaOFVxaERCQnRyOVovSG1UckdZKzFwTy9NVVVSMk1xMjdEWDVVQldaRjJkd0hPUCtnbnRKbzVYNXloaE1PWHpUZGR3UHlVbG5nYmJSalFGTlBCUXNjQTlDOWx2eS9JUEQ3K2I1MHgrbWswQ0NVb0g2d2pCU1o0R0xnV3FwblEzb3F0Nk95RWNCeFlaK1oxcmNsSDNRaGpmTnY0SldVOExnNWFnZm9LelpBMmpwV05iQ2VCS2hhV2xMeDlPckRIOTVRZGRWUEdiakdLMG9sNzVNc0VCSGpsRzdRS1ZETkNKeUc1T1E0VnlaQ0tycUdvYTM4WGdMQ3N4Rm1abmlMdDFBOEEzbmNwSWRTUXY1T2pDbC9FTVgvQWc4M0gwYVAycVR0ZkltU1NDdlRobDNEclE1akwxTS9iRVRsdE9pc3ZNaEVTT3REemFBS0xERWxWNktDcG1HSnVOU0FzTS83Q0gwbWUwTEIraWliNVIxMGFSUzJPUCs4bkc4ZFlydk9oa1RBK0FNeEEzbHZPV21Ob0JqeTBZWk1tUlJvZkRSTXhnb2FoUmZSQTY3R3EzbXM5MFRiNzl1YXlUbFprUWFTRnVTZmVSMDNKVElMOW1PaHhLSWx1REIrTzFITjJNSTRLcW0yZU03NE8zcWtvVDYxVExEejlqYVU3UkpWQkNuVEFhajJlbENKay9vZFNGNDdsbHlpaXVLaVF5N2VOQjBrMVRHNFBGeHdjYy9QcEJ5aVQ1VFJoQmxEZ1hrdzJ2NmZUeE84RVpUeHFaNUQxTVVUbEprOW50UzFxOFlvWUNFK1J0MFBJL3JqZkx1bVdzcWVOM202NE9KNjdxVUkxRHdVYWIxMHRHK2hWTnpkaE1ibmRDUGY1bm41cEtMRDVHYzUwUGhnVUpiZnliS1k2ajYwMXpVTzA2c2hnMzFXVXhrSEVIY3g0cnpXMnQrOXNVOUlKWU0wUjFOWFRHVnptWWFnc0Qrd05Kd0lSYjdDd2ZDd20zZ1NSZ0UvUkM1SGQ1UGU3Y2Q4amcwZmxBMGVEL0huZzNsdS9hdFkxeWEzamc2VnN5YmF3dlJFeHpRRUhiQVErbmt2Z1lNVERIT3NiU3ZtZkliUzRGTjVISGFIdjVaSjJ5RmNxZFFGckduSkVYUDNPSXRZb1o4dEV3L24zSTBlZ3pZcWtpMmFGcS9mc0hlVSthOTRIQzFUcHdpdTNMc0FubGIyd0FWa3VUa3Q4cWx2NTVlVE9DRkwzMEM0Ynl0dkRkcnJ6ZWJ0VkhrTFlHN2lZYUNSWmxiTTU1OWZxNjdmZ3F3UUhpL3l6YjQxaWhGOUJPQ1kvZURpRFN1STBFaHo3cnExeXFvK3BzeUswS1R6RktEelFJbWJBZjl1ZmVzeEZzTXd3NFNCUjAzU1RUdWdqd2tJVzYzeFJibVhsQ3BtRUtGb1ZOaFYwTSsxMThhbU9QM1hHdUdzbHFOQ3FTbWRtck1jeTZLU2x6c1FWSVBvMkk5enAxZnFrZGljUVIvZ2xvU0YwcnZCSGRCN3c5UEFFN2c3cHhpZERqOHZIT2plZ2xibjVpVlFiQ1hqRjR1VG9GMEFmejk1eG81TU9CdEU5a20rc2FrNy93a2hHbStSQXIzMHhxYm5WYno3aWVnMXdxd0ZPaHE2ZVFSYytHdG9hemRqSWxsNzNDRWpZSlpqcW1uVmVZenRlSHZYek40aWtqMklFWGpMcHR6NXZEM1FGRElmOTFzYk1UbjlsdjFzWE5qODNIcVMrNkJXZUJhNUZ5ZmRRZDIzVksvNG84MHNXVk02YXVQR0hlZVpPaVhkMENHQ3J0UDVTblNOWW1jVGJKVGZoME1LV2tJL2Y4TC8rQ0NremM5U1docW5vKzVCNjF3bmREaWhwdVlGNjc1V2kxYXcyYnZxSzMyREdHaVB3L21CYmdCWld3NmlNTk5FK2NJQmxUZG5PL0tYR2pPK1dZblh2SWFLeEx2Z3pFK2hmb1NZMTgzcERlVWpKVnpxWUJ3L29IeVNVc2JpeFFLbmZRNk9jR3FUak0yWEgybDJKYXJqVExIUzZiQkJFK0loRGNjNXRJNk0xUm91WlVENEo4UCtEbzQ3M256NGtzV1Mxb2xrelFGaGhKOG5KWjZ4R01xeVZ0cE1KeUxRbk5sWGZCUjJMWHQ3ZlFaMk9hYmROVGRHQWptMVJ3cWlvVUl4ck1vWjVTTXlLNnloZk9GV3JkRENZZDVJY0VUd3RYVHRSWWtOMlVWRS8vSUgwYW5JQzhMRldrSTB6Yk01UVpxUDlPZ1EraHJIZGtaeDVWYUsrRHBPL0FYZG5yTExoajFMUnJ0WnhRcldtZEhlNkRaM3FyWU9BeHoxL2JyN01JTllXWEMxNDE3UWIxNFcyb3FUMUFNZUVuaXBBcVY3RklYMEJZZUNyTW5yb05tM1MwYi9xS1JhYi9TbEVxUExEc1pXUVplYnNDQVhadVlnUjJPaFRMY3UzWnRvUmh3VFZjeDBjM1AyNWg4aVJTcEFqVUNyV01VTWMyd1dMcERReWx0V1I1d1dFcEhXeVArUUU3dmJsS3E5ZFBtZWdpRzNSNXJxeXI5N2pMRnM0U3A2QmF0OTJJeEpONEhHWUhTSmFTdnYxS2toNFN1NnQweWpEREFEUGkzeGdxdm1UUFpXVk9vTVNJcXF2MTF2ZFFiWnJVZFRpYUZkd2J5M2tndzNHQWtvc2FiYXpDR0V0Y29WanVCdGtYaHBVSTVFYlhVMGJDTElqUFY4MWRwVElEelZvR3V4Tzk1aEVmcmJXL3cwVGVYU3VGRm5uSkFtTGpMQS9WbDI4VjdGZEZHTzE4VUtlSFZ1L0xrb1BwSVcwNDFrblBzcU1zdEJHSjQ2YTU2T2lrUmZVeEYrNHNZSG4vSnErQkNEbmZaTmczbGliZGMrc1EyOXNsa3c5b294cDJ3Ym0yOVF0UHVMVWxqR0Yva2RldlpneE9rNG1EMk81elBPK21MMThPekp3THdFZXMxa09Bc1F4S0IzOGJEcmltN3M4dHhPdzNjNlQ0bUlJL05JNDMzSWdvRFBQRHFlLzNRUUxhRGVIQTZLTnBEVklzSkpWMUgyRk85bHJGbStENFZ1cUZBUnNuZzdDQVo2bktnYTM1c1pjblVUWUFUcjgvd3BVc1NEeFdKUEtvTDQ1dGY4NC9nak00OUkxQnJ6Q1U5SGgxUFBWQ0Y5MkNJM0EzYXh6Wi9KVi9VY3NjUGxTMVVhdmlnUVFHbzlRYVNHTGx6VVZab1hOSXNNdGhXNU93cEhYdHhSdXNZeHo5T1I1KzNpdmZBOFl6SytyTkt3a2NlUlhKQlhsZ1d5RXhVTFNwY3JEM2FVZG1NSmUyTEgxTXRsdExNYkdWZ0svVWhRWGRFbERCdEV2dXYwZW5oV2ZXSHZNQ21xWS9WSTlkYVN5RW1DUUFsT2VKQzNianBGSzlaeHVLQW12TitEblQ3Ykg5YjQ5RFBIdWR3ZHFCY21tMlp5Zmo0aFNNL3A2ZWNua1BFQ2lqU3FBSE9SVVVkTzRTNUhyUk9lUmRkcTMvVXhtYUd4RU5DblFYQXFpMS9JTExFREJ6M3BGOGtsVzNVeGZiUUNscU03T3p6bWxpNmJNays2S2FwVWU2cU5TcklJeHk3TW1WYXR2TDQxMG9Pa09aVS9icExadTN2ZG02MUJMUkR1Y05hQURoRW5FOTA5QVZQYkZIbm8xT09qcVo3dUhWWTlhc2duQU4vSVVCUkp1WEVmUkdvamk0cVhDckNBYTZZWW9LOWJuK0pQaWtqa213T3FNVUREWHpSNGVLUlBnNUJxNWR6bk12aW5uYzA3b0FzSHJTRDY5bFk3cy80ZTRHYlJKbDNURjdXK1VCY0gwaU1Ka3FPUjNvazJUQzBXK2NVc3doeFgzWWxEVXR3QUhTM3JLNlp3d2hqZEdISVVwTVAwWTFRdDRNRm1Qc3d4NXhESVoveDVFUUdrNk45ZjR6RG5UOFh0bVU3MEtwNnRjQzk0dFZhNDI4NWdpbkNWMVRwNEV3T0IwV3h0MjlhdjhTSTBKSWRrclZLU082ZVoySFphMFlLRWlzZ3VVMjgrcjlhWkNLcWwweUU2a1dXUXpiSjFadDRDNlRBNWtLMlpsSFd1OVoyaml6YUV3a253ejhZQWU1SUZqQ0pMdVdldFd1WmhPZ0FmZjZSZzBRZnBIcys1MXVCbkUrMUxHWEpUVVJJSHlKSkdZSU9XUEdSYUxYY2pnNGZkdkFNeERtaUkxVXMranRNQ1cvZW4yTm1tY0VQQkxCaDhCSjRNVVY0MXloSUdDU01zR3JNMW9VRmJGMkFYditkNGZ0L1JnSnlhZWt2VHNZYzk2S3BDYWdzenpLam1CNFBLQUhHYVdKbE5IWFp2SHNHeEtOQmV4bUJoRVZ3UkEySjNlQmhCZ3JSUmNjZm4xcVRTT0xZalNaUk9ZdVdESmVPSDVOcnpJc2RKOGROOTR6MUVnSUFFSDZ4dDV1eVkxVy9tNXJxNVdWZkdPTTFoY25YSHFIWlpqUFBWQjBnZFZmRThkT2JmcXE0ZTNvSG55ekpXTURVTnpVNFZQampsZVplTStWS29CNmxPQ05XSDdIRkl2YmI1VFhCdFdjbnVLVEVyYklYUFlnRTF3NzEvTlNTbnNwZXlwOUJML3hjY2JIT3dGcmV0eWlPS0hSNVJhN3pGamVvWlFFTEJYeTFqczBCUkcvUlNKVlBtZ2UyTnRILzRnTWZZdkR1cXljRXFDWHYvaEdoZHBGM1U2S3VYSVRzcWpRWDRoa1pZZjhkbFN2YzFkZ2tNVnRyamx6blA5QTJ1NDJhRXJsWHU4Y2JSUmhCeGNSdktVb0U4bEVxNWdOTkpPTHlZMjFqWDUwdHRuOTQwWkRqRlRpTCtEZ0E4RVRjNmF4VW1Kb1RvUkoxOGduSHlOVzFHUzJla3U4S2pMVGs2bW55QUh5Z2RzaWFXOVVKdUVoTUY3RGU0MGFhNGpxUW5KS1o3bklaZkF6L0tFVCtTOXFuWk4zOUo0bE1yVC9rZ0pTSlcwZjF0U2Rta2lNYWU4aEZVY1RFelR3cVZqMEN1Ync1b3BZMUxYM0tFWFV6UDlDbzNDL3dQaWEwZW1STGlER05nZlBmbWk5T3lNVUpPempINklIMlkwSzJDOC9zcmNXNGtud2ZHL1J4VHNxTHBaVTBjNXFmZjhTMWlEU0RRbGtPakxiNjVmY0pVRjB4TG5RN0gvd2ZkSkJ6WmZUQVpEZzAzV2hSdHVVTWZJaW55ZFVZTDM5eGZHbjJFRGM1ekZlT2l4OFBicC9tSzBRV3NMUExPcVV0c0kzV3JaR3g2MUpPSlpLMFA3dkVpTUxOYkpsVkxGOXUrZjduSXlFbkUyV0RqejBETVA1Q3U4KzA5YXJNdnk4eE00QWE3Wm55MDVUUHZzMTNLTlVCeG1GOVJ3L2tlSm5ETFVvMVplY1JOSTI4d3pCTGx2TkUwa2JkWFA3UG5PNjAvMVJlZWwvNy9UNGtrMlo2R3dXMGhJUXk2OGVzYVZKc3BTQnlGaGc2M1pvTkdiQUIrY0JjVlBCcktMQXF4cEFqb2htZDE5d3NJNk1kOGpnd0M2V3U3bWJPeTVWanZBYUl1a2lFRldqWGNzb3lKNGVBUjhMMkNLdXJUUE01V0tTNDJ6dG1yenBKQytiMjVrN2tYRDJiQUtkZVlUR1dkUDdVdEtabzF1OW85VEo3dVY0TjF0K0djaVhOdC9ZQ242UGlCUnFSYUoyQm1ZNDdvZzZIeGZSWW4zenM5cml4UEpOblU0NVBFR1FUVy9TQ0FoUit5Zmo1Vlc1UllDUXpOazBjcmF0MXZpYmRiUmtVOEdzb2pnVGp5NVkyS1ZQQzZhOG5jU1dqNkNBSjllcVdUVVUrZTdtR3RqWnNlUEk3U1hBclRselRBZkJjUmQzL25qNTFGL3NsVGIxb3pZdmV2dzQ3cU04QXpZb1FiUW02blRxeUpud0JnSTBkVUlMTmhlQWU3alQ1Mmg2U1dCcWF3cllxS2Y1SzA3VWZEcFZYLzhaSmFSZS9QZDJFbXNUQkFkWUw2SitIR2F6SUlxeVhaVUNRWmVSSFl0R0l5SXhMSmZ1ais0bEhYZTQxc2FjZlA5aUJWUTB2eXJlZFliTWRrdUJwS0dyS0JxSjFNVDBVYytBeS9kcGpNRHNJM2pqdE1uN1ZmMzJURytrMEExcjVra3h1UzR2ZWxlYjlMTHZzVy9GTUVzbTNFVFdsUTNOWHBCQ2FxcWVZUHFPcWlScTVhZzRnQm9RQmt1NUovQXN4VFhjdU1HeTdTQTdYOHgxc2VKc0o0REZYVVFQcDk1eGNVN040LzJkS21HK25TQmJkMmlSeVVTazVOVGdQVFhMVlNhVzF0MklibjR4MXI3RGpJZmJzdGJzOGEvc3kwNXA5cmtHdW1LdVplRklaQXhKVkRnbXI3UmJnd05ZdURQUTdXOGtQeHRlbTllN01RWnZ4elF4V1Z4Y2JzbDZWV2FnM3BiRjZaYlhGL3RuTGdjcWl1SXlTY3hlaGlOeHpKOHhRSWNBdWVoeTgwN1RmdlpkUHI5blh3WkxobENPM0ZmM09IUFNMdzh2L1Zjb295Nk9YZERDR3BDNVVnTDNRQTZReWU5SDRvTm1sKzkzN0p6S0kwU1ZtSnN0TGYyT1pzRXA5Mmwxb0EyZ3VqQUlsT2lJMk1GVmVQclI3Ny9XckJ3VGQ0OVc0MmRTT2x6SzZuMytPbS9wTXo0Tkx4S09wQ1F2ak1JaUVjbko5V1FxWWRUMzVVbXBjUXNVTnY0K21IREdvWERBak0wRUllaVBCU3ZrMDRwbEtzbmJiYkdleWczYTZUeEVxUjR0OFVvK1FpWXBlMUx0UUVLaFp6eWQ3VDVGN2t6OGNUKzdoWjFNNGV5dHhUc1hHZXpNS3M2VllYTWd2TTJsSm1scGllZjhxZmRETk4yOHM0K0NBbURHeVh4VktZVWNhWkgwbjVBUVU4TmZjYVpmOCtieDFhNDhjTDdKWk1lUk8vcHp3b1FyRVJ4NmNNV2k5S1JLMmZPb080eVNFalA5NGFZMWppOTNQa2wwMUdTWWNIcU9jdGltNnUwalFKeFVURkVCTllDd1pkMUJiTTBSTTR5eWd2ZHlxQmduSldYcVJMbXNOYWJ3eW1vemlMQ0luSXc2QkIwVWsrZFBBUkhPNlZUditYUUVzNExqR2ZaYjQ1bFFsVngwK3A1VjRIOFM3ci8zbEFHUGJDL2ZicUwyRnRLY1VrZ1YxMWI0ckwrMWc0RkwrdjV5RjVrc0tlRlVLcHNQck9VR1dqOE5qcHM0d2xIZXVPdk1keFJtZ29tT3hNOWtaM21LbE44Uk5sd1RKU3ExK1FOL3A2OGUyK05pQ0NOUkpOQXN5M1BHcjNRa3labFllMnplR1QveWh1QmdPWU5BNWh1Q3NaWkI0cjEvNlFxaDdLemdMTXBoSlZaeXBPN0ZJMlZRQk5RRGdSNnRqaWFrTDZNOHBGNGM4S3IxU1EzajRzWE1SU2dUK3hEWnhnT0tRWVVwZnRuOGloR25acWlKOE90YW1iQTV6aGd1NkxUVTYwbjd3eVMwdCszRC9mRkIvZmwyQ2lyMHNHTllBZVBhR0ZwUzFhZXVWT3J0dFh6ZzcxeE5EQnJLYUV5blpzSnVJNC9EUnh4NUJXb2xZdHZBeVBaVFRmSG9hYUN2Zm83RFY0RnVaSGtNUWtMUk5OVmV3WUNWWjJ2L2JwTE55d0p2NVV0WFVkVE56UlZRSmdpTFJHNVhIK1BBN2NXZHBFbEdvRTY4SE1WN1ZaWU5LTnRONEl1K1FyQkVhV2hRSW0yUVdta0FESzNUMWswWUZwTnE5QVJySjdwU3A5dnN1Z01Uam8rWUFRYWNZOGxCdTBIcm9PWCtmZlBWUmlyZGZydHFwWTZBRmMwMHprWFg4T0Rabm90UjZpU09KMGcwOHVpV0s4cDRuZmt1U3pPV3d1a3BOd3JrTHBHK3JLMi8yZnBWVThDM2E5NEsydmM4NnVNWDBsaWszNVhiZDlQRXo2YWZoWjJVS1Znb0pGcDM4YWwvR0o4cjZsbTNWVzVVeExmOG82N1cyVHBVbm1YV0RiZkdwNDZIemRFcTFqLzhaMnI5SmFvYzVXdUtMUXhjVGlUaGQzTlY4RVJTTVgrd2JSSDFnaU1sV2tEM29nR3VHZkhxKzFXVUhzbXhEaUhGTWRoTEZKMWNvZ1NMb0xZcHF3aGJOZTA1YUl0Nk1wcTdBcktkdzg3RmMvdmZBRHRLK1lrRzdweGY3SmRHUTcweU16UXE4L1JBWjYxODJSSkdGZU8wbjFCN2Z3N0hqejV6V3ducnlHcFBOWGk3QWNuMkJscUZzYkVCUWVXS2dlU2JBd29lWk5NQW00bmRINkt6Qi9zbjFJU2JZRFh3UWZRZlJ2bTdBdldJeXRtTFkxZFpsek9KUVNkeUVIL3RSamI1bXFhcUdIRjY5MmN5RTZGMFN5bVEydENmZHN2RWdxNWMxSlBEVlZtYVpxaUk1VGJDK1VSam9LenV3Nm9TWkppMUxJKzYwcjFqZDR0VmpYR0djY0VIRzhJZlBEZ0pjM1FnOW5NaGw3YjVIY1NLU3RGOCtwRWhpV2lXVkU0akxkZU16YTlyaVZEa3V0SzFYRFc2WFhtTHBldlk3VmQrTzFrVHA0VWI2bS91QXZXbTBFa2ZDS3diZ2VDaTFGZU03SGhCK1g5NVhzS013TWZoMm4zLysranNpSXAzMGQ3QU1TQzRGVXplcGNnSG5zOFBSbUk2UnpOQTVqdzNKeUVTbVBYcThsc25rK1dZWEV1cDA0TSt5aFFGYXdUWEs1N0Qxbjd1amc3dnpNNkdUS0ZvbFVKZFIxOUo4MVU4dGJoK2drZWN5KzhpRDBpOHZvYjlIQXJwVWJPMmJoWm9haW0zRDVPckc5OWRHU2s1M1AxMWxiMjVvcGlTZlk0VUU0WEdDK1NvU3YvNzRHbTFHSkN2Mm05cmJkSEViWFVlZE1TSGI1dzJtcUZNMzNaajI4LzhvM2N2bjU2cXZYTGlOVzQ0TmVjR0gxeHgwcHJtMHRONkpsUlBLcjdvc0s3WUJ5b0IyM0x3SkViUzBYRjRoalVrOUxuWGN2OEplNmpiVDA5NzFUS3FhWEVrVm1rUUNURlJteUpYRW1MT1JzVytEeFpRS0pzMzN2YWlIRTB0eVRwR0l1VmRKWVhMVndVZStBWUhvSGxGQjMyWTk1aGI0RnNCK01jcElZVWZIN1FZbWdKelRCWit3cHB0aDlJa3JxYkN5b0ljOGpMdEM4WFFTWWVreDkwOWFyaGJadTBTM3VnK3Vxdjljb3h5ZmovbWNUNzl0YUJVSnc4azlRS2hjODYycSt6ZTZMY09WMytpOUFyUWwwSmRyWG9MRHVSSmJaS1dyYXg4YVQzUFpmWkRlSU0rQk5VbkFpbzlwVkVJSU5mUkh5ZmxBSUtSZWsyZlZJTHR2RmlmRjJuUXVFWE9Pb2xtZGpSOUxVM0pFSjBYb3ZJaVJXMzBhWVg3YXpxaHBKQ1VxM2wwcXA0OGRhKzJ2eWIvSnBkTDRLb3BoWGl5UnQwTjBTelBWQWFjR2VkV3FJRUNnUi9EUlh1d1JJNFAvcjF5Skg1amZUTzY0RElhTW9iN0x5UHozSW5vRVlieHo2MEk0L29OWW1hQ0k1UUxHREcwRHFTZVArU3FSbkhaZC9JRFpnbXBvR0pUSzNiQ0JyazExM1Q2K2MxRFpKK3dtcmN5d01xM0d6UW5hVElucWprQ2tZMzJRQStRdzcwUm9ybE9TMFRLOVRKbGp3c0dsclRzV01YSktWckcrT2JhZjhHL2hUMjdab1ZtcU5kYU5DQUh1V1NNMU8zNWE1cFU4SVJPemt3d3pKZVBmZEg4amRnbVhRZ3VaeUY1bGFqbHpSL3Y4YTBBTUhlUU1UVGlDdFp6UHk0WUZwTEtGS2tHbnUvdUpKNGlYNFMrRXVVcHlBdDJaR2psdGcrUDZoZEtlelhnMXNSNWFPaE5JemNrZUozelM3eU5jc0RTWWtXM0dadXNISjlLMzRUVDFuWTRwTXMyQm5xb0FURTlwTjBnWkpVZmYzOE9xenFkTXdHWGRUV2dWQ0RqL21UM3l5R0lrTnh1YmJhTnEremhpMHlHZ0FtQ1hxQ2x4TDByMUVIZnVqOEtOckp6Sm5DVWNRc1ZZTTR0WmxRdVlQUzhqMVBkOVFkYlVDNnFEVUtyL1FNQTdSc1h4RnpnZS8yTFVSd1N1VUdLczB3bTQvMzA0dTRZa2NZcERJb0V6dzJXdk1JZmNKdmQ0djVPRFlIUUVLUmljZ2VPVXZNN1FYRmpwSytyU3ZMaE4wbjZnZFJzY0FMWlJuY0RiKzNLZHlxTk1NS2ZFZjl3OVlQZ2lZV3hyeFc5RTE2TGpFNFJBRnhER0UzM2ZMS2wvZlFwMXFwTjA2Y1pnVzBtbDVTenlGSkFEOXNNOUFuOW9ZOE1Dd09WNWhyb3FlakZINVc2cTVTUmE1N1VqRHdJVWdSL2xIL0dZZkpBUlNZa08xazY1L1hrSWpQZ3FiZ3VZR3RERmQ4YVdhdTVmZXdVRVNOT1VrSjZzbHpxMGRPckV0WU1nUzVXL2tZa2ZZM24wdnl1ZFpKc2lkcGZMdWRnT3pxd2daRGpHRWcvOVN6bVYxYVE3N1A1UVNHVUVtWmdBWEZPQXpvOWF6OENnUERPNFV0V1RSRzRMZFV1NUtHcFBmV2ZHWGVhY1ZJL0NUQWVhL3ZCdVdkZGxmMlZFbW1CQXA5cGlpYXJvRHp0QTA1bHNsMFlZYjJSZVoySGc1OUNNNE10Y0ZDcEhMQ2RDdEJqUzhlOG1yMDBVNm5DOWZERVRpUWFGQ0xWeFl1NkVHcm50RHRmYll0ZXp5SVN1eGJNaGNhbmwwcGJzNWtyQUJOUmlLVTl5OUlYa3NZUWhYbGhiamhXcjdOdXlDS2Y0WGZFdUFPWCs1Z3MzM0kxMWViaDdWSVJGZ0xpKzhTYkpnMU45QXpXL0ozZ0lBSlpkei8vOUVjdERId0pLYUZGMGFpQWtmd0QyVlJkaE40SVYxOFRtY25QSFA5ZGFRYnJZYjZlQ0ZnZHFjbjhnTStnZk5vYldjSklqRVJIT2lrUk9QOUtCSFVpa3lkSnp4ZDFvaEFEY1RUcWYxYjdiY0cyRnpVRzZOaFg2bXhrRWE5VFBoQVNkSTIvUGJKTEp6K0M2ZEc4WndITFc1NnYweTZlUDNENnRuRFdlTFVSRk52UUVOMnQxM0NVZVMxcFVLNjF5WnV5aXFGMC96NXhUT21SSUZ6NU9OZk1ydnBHQ0dvVE5WTVVlL0I2T0ZMc3lXMGhoYm1oSENtWHJ6UnNFMllyeTU5M3JNSDNRWU5Nb0JMNzZQaEhoZDJKV21SNEdFcWR5R2FFTS91QVFQTWVISXhkcWJkYWhpbWNtTnBPa0ozbjFRZ0pPU056a2FuVnovWHJHOVA1RXdrSGQyVE1ZZGVHRDZQWUpBWi85Vk5zMUliWGE3dXBuOHhvbVFmMm15RXlWaEJJTUY2dVJtQ2lMTjdCQXBORWxjTmM5ZVdPdld0NXBzM1cySzJna1JXVWpBN0phWDNYUGwvTWJONjVEL0FNc2dNa2lCd2JUNWUrZmt1NzNUandEVUw1R2hsL2o4dTBNZ2tnWlpmczlvWGFkTFJPZVl4emNFeW1KSEhMZFhaemVwL0ZMSStvZlFUSGNoKzdyVEZNY3JsbWZ1NElJeTgyUDR2bjIwejB1UUdFSk5PbCt3ZXlxeElTVFRwMG9jWjhZVWk3OStFelIyZ3lwSDFSVDFZN01TMkw5WkNaMDVVOWl4b3hJRExkZDJNMHphYUJOM05hQmo1UjFSTGo4bXJxNktJK2JRMkJZbjdPVmVRUEVOVFdMT01rOWo3Qmo5c2pjekFxK3JjZFc2R1VHbjVhRThGQVIzZkJSNlhlU3FBSEw1M2ZSc3dLVXhUWlZpaDA4S29GQTU5Q1ZEU2l5elJpeDhqdzcrY2RQNE5vbWZwTmlvWVV5YzJvYURpemRBN3R4aHAxWWJ2bDVYY3cxbFhxU2FHM1d2THNTRS9pYjhlalJSRnJZY0h5YytpSmdEVmlQUEU1NW9EbzJoWFFMSlNwbWRiendjeHZRS0RreXNDVUxNd0VWanFYdWMvNjBsT3E1RkJUZS9rdTBOcmJuOTJhTGJYcTdWZ21ObUl5ajExM281QUtZUHg5R1Z4TG5CZDhJdzE5dm9xMFFUSXhXQU53NlFiV0VxekN3c1Q5SWNHaGo0Y3dCRzI2c1hiR0VCc25vdGFWUGh0MGNMeVBOeEFKOTBSWktmSExnUWpaakFRUGVDZmlGQUZpS1BTNWFNaVpQK3E2TExpaWc5MElheG9URG1DSi82SlZGUEM5ZFJSenlvVll2SzZmUnlFWWRDcldBWXBTQ2RBak9HWG9CZkJ1NkR4UFhlQ1l0T29LOERaTTJDUkZ5SEJxMTN0Yjk1SG1ISFpwVkxGa0pTSitvNUxsU1RlZFZrSmk2KzVUNjlWVmNtdzVoV3FPRDBScUU2ZmhSYTM1VVVpbUNGMXJWaFJEUzNkTjFVUzZWYTY4Mzh0T1FqdjZNbCtmV2xFUjBRMVl0Y0VMZ3JOS3YvZ2RVWDZrQ1Y2VTNDcHJROU1OTmtHeXlRYitjcHpEdTZuZFpXT3NuRmtBMHNFU3VacUZ5M3EzeHRFT29vNHdnR01lYkVvY3BDT1gxWU8vMHFwWHVGUGtQdXlTdVRLUzM4RW5kZk5DOXU1dFZ3TjR2WGhGODN5d1M4TFB5K21ielFBK1ZoVGFJQmorVENZUExLSHovbVhiSnJPRXJNWlVFQXZZVHByenZWb0Q2RDdBdnBGSHZIbVBEUmhQeHdHeWl2dVN1S2pLUUF4NWVYWS9NRE41aVRPdnJ0Smh5OC96VDRmQ3Zib2lmbG1yQVNzNXpvdzhqeHhSdU5idjE2MDNkdE1Ia3dMUk5OTUp5cVJuQnVrejBXMVhGbHFMdmJsVHY5NGRjM2w1d0V6a1BPTlZuUW1tK3pEZVcxOWk3RXVyYXhjMUQzVDZtWWZNbFZVbjRJQVQ4UGUwdUorVW5TNllwRGx5QklUZS9xU282R3RzelppUXd0TzRxUTVzQ3ZMTDVJWVJDWHVUSjUzNGtyMEV3Y1I5OVhQOVF5OVJNUmc3L1Vkd1VFaWdpMmdkOUFOQzIrRmExNEdSNmhRdFJpaU1sMXlhOUR4UWhLTDRpdVdkVW1Ra1JvWGtDck9wdkZ3ZUZaTU9ZOTNHcWg2VnJvM1ZrbkVSQy9OOTBrZWVkL0RsQzVlS1JkeWxqTXZYVm9TTG5OU3FHMlh5OWE3OEFDamdQT0NBZ0FJWEdFMU5JK3dWUC8weUhlcUMzeVlHbzZwUnVack05UGFJZmR4a2QvZ3Mxc3UyaC95OWpnYmFOQ3NsMGx3VFZyMy93bGw4and1N25tRENEZTVacDl4a2JFMXBUcVNWeG5pZWI1dzBaQmpYNmlzbTRvbnlIVXBoYWVNWFlVdDd4dXQvRncreFl0N1FxVTdpZjFKcE8xcFRnVTJ1RVBlT002Wkc0NURSNTh5Y1ZYTnh3a1RvcjdjaDFzMVJ3WlBCWU1NK2llODd1a0xLT2RRamlvdGpjQ0dZLzZOOFBvQlpMTDJHZEYxT3UwYmpMeDJvUlRJM0cvU2R1MmlNRmJWNGhVUmVIbnlTbGNLRDFJdklaYjE2SFd4NlBlN203cWUwbUt2MENNN2RmU3BPVlVsU1pPUzIrNlVjaHhjVWcxZUNrNCtpWVFyOGlGa3YxTEFTSnYzOFNGenlIODM3QUlTYlVobnpENDdNR2JvTGFPdUNscWRFUmNZSkEzZ3drUSthdlZBS3dNU3JYdTJiTTZNUExad1NkMTFzSXBuWU1vd1BVRW40Qno2eHhqNFJnT2xwQnhmK0JsV2RYZjlKQWExc0V6WFNoTERSK1dDSjdVb1hxV1B0YittbmhNMGNZY0FXU2t4YW10Z3FhdnNTdFlKdGlXTE1LemZoTENEZlNkdEtFcGNXRTZOOWVjM3ZjMnlRSWVYZDEzYnBRUlVtN0s2QmNNalNFcDRlT0xJY0I1bnB0UDA3Q2RmSzl6RHl1NVYxR0FFY3BrcHJwdytoRVVXS2ZLQjIxN3pUR0tCdy9rV3J4eUQwSUZtSThkQ3ZzTXBMam5RZmV3bm1lWlFGZzlncE9oOFhuWHdyUkRzWDN5WHI3bUhuZnFrSVV0d3pxVGhjTmVTRmk1T2pWVGZmcWZaS3JVM3lHamhGLzNxUXFMQkhKNXNLbGpOS3JaUTU3cjFLOWdVKzdTcDRCZG1relhxbE56NDcvcWRQTVcwODJZRk05VTRPVjJHYVFBYjFBcStsRTBPcHVhUmdnVkZVQ1pweml5UkozUGx6K2Vyb2FHdFdVT0h2c1pqeUFpazdSdW5LZW5COHVhcHVlRTNPbGxqTkVPbXZESkxFSzlNbC9NeGlaRDRrS1NRQU1Kdk1PWEZIQkZCaFpwRlBxaS9FelNxZnpkcGJMRkVCMmlBbHVKaytYajlmVis3THBXYUxCVmJnWUZtK1VabFROSjgrZklTN2dCVUJhNXNKNStMOXlOUFZTQmJEYjk0aDl0bElQYVBQYUdOamhyYmUrTE1yNk43Q21BWWtLL3drTk9wT0s1Ulc5a1ozQ0dFN2JZenpvMVlVdGp4TUE0ZmhKQzZBVW1IdWczSE9UR2drd09yNUsxOEc5eUk0TjBJQVliK1lPdXBIdU5LbUczQXliU3RPWTFiQjFONTVrRnU1azdQakZ4TjdRaEIzYlRjUEhydlpIeG1iS3dlUlZNTGhDVUcyUGdZZG9oWlhyUiszNjNjdjc2M2ZnWW9acjF4MkxFNDhOVVBKNStCT0dQR3dRV3cwOXk3Z3F0RlhkTXE2L0Q4eUtNZzhjUndOeWlIRlpzTlJtWlJ5V0JObjBiUG5WcTAzaGNacDdSTnVmeXptVWhKMk4rR2t3TmVUWE4wUHVwWUxIQWRiWkNLUURvY0Z6SkpUUW80U3BjYzJ2bW9iZURLRWNJdEEyWk54S3pPdU8rVDh2R1BibGFLRDVTZUdXVVJTVmxkYWFaQ3dneE83MmdhQVhYZ1dqMVZRSHVKRzRoT3haSitYTTdZY201S1ZNSjQrbTMvSlJvUjdqZ3dnWXNFMkEwMGJlLzVSM2tham0yL3lhNGl1anR6RVViVTU0QnZVaVExdUd5aHl0dTVsV1pEUkZpTDNEUEh0cm1wVk5EOWlUZFFCWVNGL1hVVFlLUWpUb0ljcDlRSjBTYnVLMzArbVZzSjNNdzZHNGJOb1cxMks0dklIbXJnMGIwUzg0R0V6U1pRS1FSZUxsNGEwQm0rZ1NBK3N6MWlmWmFQanRrR1VuRkUwa0ZuT3YxSThCRjVkNFRERElVOHk2eE1DL1RZU25sc1YxNDV1RWJoZ0I4M0hGaTlMRXFOa0FyTFhJYVFuL1JXSytXc1U3TWV3a2toOEYyUUkwdUt6Y3phNVpYbGhEZEJKcDFSZ241bHZnbVpld2JSY3I0SW1NZVEvR3piZFdhWHlFcWZ2V0tOeHl1REQwckUzQTc3dm0ySVdiMzVYbDlJVmVOV1VRTjNNanUrZ0h3Z1dRRzRTTFFid3FubmJKdnEzd3V3WUgyditKQWxGRjh4Vytna2tjWkZ5MWlaTGx3bWZjYUl5OGhCQ0xTMDJQS1RsQlJhcEFrUnVCbmpZVmxXNWM0SUkydXg1NTQyZGM0UjVkQnFQdnprU3g5NHgrMktJcGRjUy8yZnlhdXlYQlZ6OG5udEZsSEpWSG1uajdvY3d5b0ZnNUlJSzNSTU1oTUZ6TUczRGRqelgzcjZGN0xCd1dXK1kyRHJiSXlUVWJreWIrNHIzczI3QjlMUXRxYzJNVEFFbmUxdjdXdzZqcVQyaXEwc3Rxd3dwQVRjamZkVys1RVdqOUpLUkVhWC94WnVCWXhOYTJaZk5SWDV2ZGxPSSs1L0FEUDg4NmJLclQ1S3lTNlRvd0lqWjlUS21iMkQ0UU05NXBNTEVHSnJTajgwblpIVTJ1VU8wd3ZKTHBvQ1BDd2wycFlwd0pxaE93bXpSUzF4WU4wZ3RiSGJlSHRMcHpGRT0iLCJtYWMiOiJmNTZkYmM5MDQyMTZiY2VmZjk0YzlkN2M1ZTU1ZDBhNjdhY2ZiZWI5NTY5ZjliM2RiZTFjZTJjNWE0YWYzNTc4IiwidGFnIjoiIn0=
+@extends('layouts.master')
+
+@section('title', 'Orders Painel')
+
+@section('content')
+@section('page-title', 'Orders Painel')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default">
+            <div class="card-body">
+                <div class="collapse" id="collapse-data-tables">
+                </div>
+                <table id="productsTable" class="table table-active table-product" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Drop</th>
+                            <th>User</th>
+                            <th>Product</th>
+                            <th>Holder Name</th>
+                            <th>Address</th>
+                            <th style="width: 5%" class="sorting_disabled">Tracking</th>
+                            <th style="width: 15%" class="sorting_disabled">Code</th>
+                            <th>Status</th>
+                            <th>Notes</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach ($orders as $order)
+                            @if (auth()->user()->id == $order->user_id)
+                                <tr
+                                    style="background-color:
+                            @if ($order->status == 'Ready') #85f36e;
+                            @elseif ($order->status == 'Suspense') #838383;
+                            @elseif ($order->status == 'Dont send') #fff085;
+                            @elseif ($order->status == 'Problem') #ff9e8e;
+                            @elseif ($order->status == 'Received') #b491c8;
+                            @elseif ($order->status == 'Sent to buyer') #ffb74d;
+                            @elseif ($order->status == 'Waiting payment') #99d18f; @endif
+                            color:
+                            @if ($order->status == 'Suspense') white;
+                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) white;
+                            @else black; @endif">
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
+                                    <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
+                                    <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
+                                    <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
+                                    <td style="width: 25%" class="sorting_disabled">{{ $order->address }}</td>
+                                    <td class="sorting_disabled">{{ $order->tracking }}</td>
+                                    <td class="sorting_disabled">
+                                        @if ($order->tracking == 'Fedex')
+                                            <a href="https://www.fedex.com/fedextrack/no-results-found?trknbr={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'UPS')
+                                            <a href="https://www.ups.com/track?track=yes&trackNums={{ $order->code }}&loc=en_US&requester=ST/trackdetails"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'USPS')
+                                            <a href="https://www.usps.com/search/results.htm?keyword={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Ontrac')
+                                            <a href="https://www.ontrac.com/tracking/?number={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Lasership')
+                                            <a href="https://www.ordertracker.com/track/{{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'DHL')
+                                            <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Canadapost')
+                                            <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/search?searchFor={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Porulator')
+                                            <a href="https://www.purolator.com/en/shipping/tracker?pins={{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Australian')
+                                            <a href="https://auspost.com.au/mypost/track/details/{{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @elseif ($order->tracking == 'Amazon')
+                                            <a href="https://track.amazon.com/tracking/{{ $order->code }}"
+                                                target="_blank">{{ $order->code }}</a>
+                                        @endif
+                                    </td>
+                                    <td style="width: 5%" class="sorting_disabled"><b>{{ $order->status }}</b></td>
+                                    <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
+
+
+                                    @if (auth()->check() && auth()->user()->type == 'admin')
+                                        <td>
+                                            <a href="{{ route('editorderstatus.edit', $order->id) }}"
+                                                style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    @endif
+
+                                    @if (auth()->check() && auth()->user()->type == 'general' || auth()->user()->type == 'worker')
+                                        <td style="width: 5%" class="sorting_disabled">
+                                            <a href="{{ route('editorder.edit', $order->id) }}" style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    @endif
+                                    @if (auth()->check())
+                                        <td style="width: 5%" class="sorting_disabled">
+                                            <button class="btn btn-primary" type="button" data-toggle="modal"
+                                                data-target="#showorder{{ $order->id }}"> <i
+                                                    class="mdi mdi-message-text-outline"></i>
+                                            </button>
+
+                                        </td>
+                                        <td style="width: 5%" class="sorting_disabled">
+                                            <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                                method="POST" onsubmit="return confirm('Delete order?');">
+                                                @csrf
+                                                @method('DELETE')
+
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        </td>
+                                    @endif
+                                </tr>
+
+                                @include('modal.showorders', [
+                                    'order' => $order,
+                                    'id_drop' => $order->id,
+                                    'courierName' => $order->name,
+                                    'status' => $order->status,
+                                    'address' => $order->address,
+                                ])
+                            @endif
+                        @endforeach
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@endsection

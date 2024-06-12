@@ -1,1 +1,196 @@
-ENCRYPTED::eyJpdiI6IlE0ZytsZjdGR294WXVnay8xOU9WcEE9PSIsInZhbHVlIjoiWEsvZ1BHZ1o3djNLRjdhZ0svYVp1RG1rbnIvOGxjRkgrUk5GRXBOblpHejNQazdIdDRMcldZWThrMlZMb1JENTVQZWhDanNkMHByN3I2MUMzUkJZQTYvWUNDaUZLZldlNFY4VG80WnFHZDgrUGxZYWl1ZUhRQm11SmF3SVlmeFZUZm9GTDBHeTZSUk1Hc0ZLaG9YeG9VeVIyVlk2VGU1RlZHY2pHcTNWUHZvOTRZMzQrNVkxKzY0V01VUVFsMTE0VEpqZTZ6N2xRcVBsZTF4b2lrR2xGbnVyeXNaK1JOVkV3Z2V4dVBkd09NK0p2cURhWmN6Y2o0ZXdnZnVScVZTeDh1ay9oRUZQZE0vWXlRazIrRFg0TGRiS0hFb3dIN1RKQlVuUE1jYlpHQXVtWlFHamEvakdIdnpFNmkycmtIYlpCRktvaTlMem1uWk9tOFR0dkRpYk05dUhPSWlxL0FPRUJUKzVWd2F3RnZSU05LRXRNNEZjbjMxemtYUm9SRGN4RnNHQ1k0bWV3dDE2VFdtakNyMFJkS3lLS3NaUWFoc2l2dksxQnlqSExmK2NwSndLbkxRRWh4bUdHVGhwd0Q1OGpLOXU3VGtDb1ZaeXM1OXhNNjFvaUR5RDFDMTVJa2xadGtiM284MkNZSGN1K2UvRTNlYnpDU0ZhRmcwV3A3MDVrekdBNDAwaVdscHhOZTN1ZXpLNENCTXBUVThQV1Jqa1hNRjF6UHpjSjVKanBlNkpkWlVxMWZWK0xkTGVFQitIRlcwVDMzSXhKQWVRZWtOb1dhRzNxMUZaUW91ZHNkRFdvcGZ5ZHErQ3Zxb3ZmMjh4TG44aGJGQm9mYmdMTStSUXZIMVVFOE9hQUtrb1IzcFQ0a1NFdUJIbnV5YzI5QWd1b3A5SGF0cGhod1kzVTRWOEZKZzVCbEN4dE1ycEREUlpncTlnSFlPMDJRNDVqUDdKTlk0Y1lWNElMSEpONDg0Q3ZmSWxvR05vUi8xTGdQV0FKTnF5eHJtUlZrOTE1OGR3VWJoTjgyYm81OEJrNXZrSWZYRW5WS25qaTdIOTJvTzQzQWIzbGR6anNMNVpIbHNwQmNnaG9SWU0wdXVTQlE3VmlBVWRnUnd6MndYZlJ0SHNpK2NlZUEyRFdCVXM0NGRucS9qRWRldXZmT1RmNk0zZjRCZFZ3NUdFTHI0ZWlWM2RNOEpBT1lUaytiTFd4N1FOdmpOcFI0d3g5ckswL0Mrd1VIeWVDTjBlc0F1RXRwVkJXcjlXeU11bG5MQnYwUXJHZmp3NldDRitmamJneTFOVEZTSEhkQnBvZExWRUR0S1ZEWlVJZzBlVUh1MWtIb2dpZ016RDNxK3BPUEpTZ3JuOWZneE5ITk9JYWx2Ykhzd3YrV0JWcnhMZkJCajNPVWd1UkVVeDQrcUxQRUhEWmh1RlZucTk1VmFXeXlGOFVFZWFjOE13RUxDVWZRVHVFajJ3cWFheGJRMTRhN05Cb3dzL3RROXgwTG9ybmlyQ2FxZ3grRTB4WDhWdU5LNXRqQXE2R2U2Smw2VnZ1VlZadkdYazVTYWpGRGFON3pNSVBMS2xvTzcvU1pKa1RiWmpHTkkvM1ZBaEdWVHZGdjBFa2FjYlZ5cXdZbmJIQUVMOHk1NUE0aG1namRQZngydldmVVpzYVpxSUh6RGJLZUFkV0dUeEw3NFovdm94OHplellkbHFUQjdPS1owWjA0WThTa3pFMVFSSFRMdHlrc1RPVVZVVWg2cWtZNFVWVU9tblYzNzE2dmhYeDJmV1BrU3V5K2YxY041MUoxYVV1c2FMUCttTUwzalVUZFFyc1o4RXE5REkvVFd4VGhsc1ROSzJBNTk4TGQ1cmorbzM2dXdnMWswOXo0T3g4NXhyU0hvcG5DdDZZNVNBNzVpVXE1ekFlRVVCVnVLWWVvWFBCeXZWQkVUTUszN1dCOXE1RHp0WE5BYnVsSVYvTm14cUJBRFltVHVZNFVSaCtESFNPcFlCTm9RK2E1WHVrMTF6UFhzYWJ6ZGZBdUoyNTNHc2hla3A5NXZzVFc3aUV3TzA3NDFzNWNvM0VVWWQraXBrRllKdEp0NnNGTkVmc0NoNEhPZFRLQ1oySG5SajB0b0tQNlZHZEdUZFpFYjZqeHVUNHVocUhEUnJMSThjcFM2ZmxQdjdjNHRuWEhheXUwK3lRWHJXUlVMa2hWNk1ZTzJhQWlpNzVDSHJWSFZ3TzByY3dhUnVYc2lCeHcweWxrclV0UmJwR0ZGbHRZOFBQTEQzenpFckloMzRGKzFFamg1MERETXVYd1VGT2c2QmxBUElUMzNUSmMwcCtpV0h4SWVmMlhCWWo0KytxU3lyYndnTnhhVEowZ1VVM1pVODVuZWVlZGxSMnFOV2dLdGdGQi84WnVOVlN6K2d2cHZ0a1hwbnRVdXk5dnZ4RnFNbGM5aDRQaGxCTUI3VU1EbEtSWmEvVXAxT3VxZ2NveVRjUjRxaFlMZExMR2Y1TGIwSmhJM3VYN1g2OElJMHlVZEhTZHVmaGZzVE1DRWZiemtxUCtBVnBQYmpMbUtiVUJXMXBaYXBsZ210a0RKYkRVRVVTcm85azkwa1VtUXBTL200Z0traFJ4NmNSNXJhcEh6SldaU3RqTzh1OTA2ZU8zemNHQkV2ZXZwcVJnQUNRZmJ2WGlxejJWRCsxZVZJUDFSSjFQTmY5TXBybWZmdVQ3RGpQU05HUEhEb2FRTmJmVkdKcmMxMk9oZ01Ud1ZacG5MVGx2aHJiSDIyN1Jtb2dkR0laWHpIeHZkYTVqdEhtOHhVWU5EUmEwcHljcFZFUWhFQzd0akRVVk9ueU1sd0hGcVhVbVFXZXBzNDFTeWcxK3dpbTRyaGpxcDdyalJndDhML3k0VG15ZWhEdVZNeDBHMHlqU1RhMFNaN3pZdFVidVdmZmFsblRjNDlUS2pCNmszZGhYQ1lDSGJuYWRQamdRYVE2dEN2ZFlta0VwQjNYSm1wMFpzSU1xMmUyV25LNGR4MmdYb0ZBNk9kWURsak5FWjFVczJzY0xqaUhyLzFNR3dWV3p1eEdhYXBEWmI5RXp0U2xaWVJFRG00ODFXa2loZDBwcVgyWmVZNG9ZaGJ5UGtnN2hLeFVzTW9WN25RejQ4MmtFc2Faa01MTDROVG1JWm9ubEpVZzg2TW9vanBneUJjU1Z5eUIwVXJteFB0OUdmMEhwcHFOaU82Y1lOUEtwcjNiVTJPeEM0TTB3d0k4Z1lGc0IwMWEraUdBaWY4RFNuVHBVRzRVclJneE9oT2tPc0p3bmQvdkZ2b1BPWEltcHFqMlIxRjBxZWRLSHowVXlhVnhuTjdPQXBHY05IQUpEeVpFd2FUTlFpZ08wdDBjMWwzYmtoZ1RPWmN1dlpyenVoeXNxQnlJUXh6VURSMnFyV1NLOG5XY1YwQ2hScU54RXpZeFdPUGFsRWRpUGh6WFVwT20yNTFJMzFjajBIazIzY2ZXYitQQ1lTeW4rWGtSMjNLVGNxdHorVFdVODh4aitRWENxZG15QVNTV2ZFbHlhT1lqNkJmeCtwbzQ5aDZUZ0wvZWl6RU5OdW5ndHArby9DOU1LQUlmRXl1UlVZdHRPM1J3cTdrNHdvWTlDZDAraHRGUFMzL1JqTW5VZ2Fpd0tlOUx1emcxMnZlMjcrakpyOHNBOEpRREkyWGt4dHptWjlLak9YZFZtZlZkYk5CS0FPREEzYXN5VHd0WnRaem55Tk9IRUw2c1plRlErSS9wakhXbFlEcVRQSFhJM25JVHhsV1h3aUZzUkM2clo2UmxpVzJEcjhtd0V2NFFhRWYrcVppWVB2RDcxeGFhdC84WFZYYVpNckowd0w2MmNnb052UGdFZ1EraDRQb2VYU1I4QVZNWjBsY2txR3p3d3BKTEdPeW5KbHI4ZzRSdHRNdlVTWjlNYVY5WUJLWHdFSXBpQU9DV3ZHSnRJL1hCZEk3UzRSKzkyNWh5cG10YjJISE5jMjJCOUt6bFkvVVV2Z0JVdFcxZG1nK3g5YWdWNEdTcmdOZWllS0k3N2gzZlZ3ZlJOU0dxWmtGUVNIajlWdWVmOWVFeEg1d2JjcGE5RWYxODMvR25aemQyS0hqWVg5ZzMrL2hEMlE0YmUzWDl6UVE4VXRURTNrREZRMDU2Z3dzQkdWNVhhRUZwdmdrb1ZLQ3Nra1ZWTFJ1d1puRlcrNlpqendudVlQM0xHL3M3MlhhT3Ztdk9PdjFVeFd4MGVEWTFuSTgrT0JkWFNpZDZUYmtkV2QxZkt3b0RNNGkya1NkR21OT1pwUkNkT0FBOXhOL0NWUTVaM2JwM2tpUUxaaGhrR1I3KzVoa09NcjFXZW0vcXFLek9vbVZjRms2VDUyRWNiRmtLVjgvZ3VxMjVmWm4ra1U0YUV2K3ZJRTJPd0t2MFBtaGpCMjQrWHdtRFZkcEJSM2JsendPQlBIOUkzZGI0a0MrVzdIVXlOcElHL3FvOWdlcmx3dnlxcHVpNFNLaTFXYmJJZ2NqMko1NUhKT25kM0xxd0ZJYk8rRjZJSGJsSVAwcXo0K3NvU3JQQXRQM1N1bzFIaG8vVWtZajYzaDlHWkVDKy9ORVlmNCtwZ3BBN2orTGh0Tnk4cnFZbm94QVFrNUFuVzRtUlZNT2w1SnJzMm03MW5qaE43enJSdVREU29PQ2J5QWdKSlZZUDJWSnRhQmlJNmdLVG91V2gwN3hNUlR0SWR0SHJXbDhtWmRodkloV21UYW9uODFHZkJYV1Qzc0J4MndralFYWGJNczdrbm5UclBxU01CQ3hkYzRzMmNmdm9FTUhRZnMwMGltZ2ppa05tdEh5c1BFeVVBU0poaXBFKzZ6Z0FvTVpGc2dqemN1R2ZrdHR3SWQxam5oMzdiRlpmUWFZbm1qYXNqVjF3L2sxNlF0dDduZms1TjEvTnI2UHZWRFduSDVhajlhaEMxMXRMOHdVRklSam5pL3V1MnpmOWVCVTZzVVpWZ1NnWW1HR1pSdU5vdzU3S1Y2clY2YXYxemErWndEU0dUaWNiVmlEb0RjdWdHNWc5aklZMW5TMzludm80bjhvTis0WG1XbTZXc0tucGVIMGFWZ293dEN5NVZLYWdIYkNqTFlIUG0vSHdKM1doc3NwMWFudTJDU01BWnVvbk1vYzJKdjRhd211endBTGV4K1VZVmNWZjk5MGdJSEdyR3kvOUpyYkM0Uk1DSmlrQktwZGEvck5IUHNuTXRuK0tRNy9lZWYyL2VWamhiN3dMMWdLRXk1N0wxbFc4S2N2QmV0c20wNWtINEJPU0RWZ0NkZ3VOVng2RFE5REI2UXNnZzNNK2ZqM3NGcmE5ajlNb2RROGIvck1aNHJ4UHQ5OWNpblV2OUxhRmVNQUluc245bkpybDhOTFIwSE14dlEzaHQrblVhWDhaRldsS0FUV0tHcW9vekRDN3YrS0I5SHk1bTZvUlFYQUcrNGc2eldaZ0tvUVFaZEUvbUZiNUxRTHl2aVRuTkRZYkdnZGRHcGdNcHJoZ1hWZjg2KzVPczJJUWVuaWhHWGhHZmZQMWdWM1Arb05pL2pEYmFKMHkrZ2NaL1RFbDFyL1g1Y2MvNFZidzRYTzduMVg2NUVRcEQvYWZXNVJETkVNby9HV1AycVJIUWhsR3dhb3M3UlBjeXl6ZE5XWlV6MThqSU43VlV6b2pPUElKN3ppUThtakJJOFFhY0tOWWhTS2lPR1djTkVzTHJ5UThvUDhIcTlySVF2V3VnN0drSE1mRmdnZnpob3ZUV1M1VWJGSE9aL1VVRWRoN0dZK1dRRUtTTGFDaEpRY2EzdytoeGh0WG41VTY2Z2RtaEFLbTFjM0RReXZwSzNaSjdoQ0Z3aWlhWlI4eEp5b2JtY2lDKzNlRy9oQ0MyR0JjOWdxd3ZxTWlEN01MbjMxY29jK1o3UzhBdjBoNVd0M1hFOS9lbUowMzAwUVN5Rmg5RHllTm5pMzBuWlRkV3hxQitMVEFHV1FhSXc5dEd4N3dWQyszaDBzazN6WU5ocE93cW9xZm1QaW9MRCtnaEYxMWExSHpyeXNkZVNTZzlldE11S21LOHRmTkQ3Q0M5V0M1blBkdGI5U0JLMGZGYTRtMDhRQWRGMjVvVUpKUkpaMXUrSWZ0dWRvL1FtZkZvNThVVVRQaE5MWUEvdXBNRzVHQ1pHcmpWSTR1SUc1SS9YaDRzbWdDcFlhL29DT0NOdklpT3pmTjhiSDlOSXAxRjVOY3FxUVBRVDlNVFZQWC9qTXNCVTFNODB2MkVZbElNb2xjT090VU91NjhQS09ZRksrQWpCcXVCZDM4bk9DMEc0TFdMdU9KTmxxWU1CMHo5d1NWMWEvbU1zWUc4WlEvYWdHZjlYWllvL0t5WkQ4MGxWNG1zWjdkTCtBdlVoSitJSlhXQmw0UU4rN3QwdXZJWW5CTmFaZm01T3ZUN3RLbUJKWXd1QW43K0htY2V2NktSbXBJUWdFRkRQRk5IQWpVeEJZNk43cUFNMDA1TGtlVzJDTm5ScHAyS1U3Tm1JTlQzclIwNldpRXlKWkhEVFduaTMyTzhiMHdsTjI3Z05kOTkvaEFMeFJWaXcyYXBTS1J2MzdsTHd0akVvNDl6dTVydDBrTE14Wlo3U092cTdrQkxNRC9RT0FkM0J2S2FTQzJVTjNqaWJseXVzUFJVejM1OTc2cDZ5K2NWUUtwVHRDNk84OThmb3drLzI2TDdrSlViZWwzbDdXRjUxeXoyRTNzdDVxQ2M3cWJLTGdhWEtmQyt4UVBTM1JneDMyR2FneGZVdDV4emI4ZFhKRFhXRGFVM013d1Rtcmd3KysvVTZ2QzVBYStNZFV3TEgwQTMwWWQxU1FPRnFmQzZjL0NkZU44dk5xbEVVcklGQmhrZkRrc2pwZ0FsazdBWWY3MkFGOEEyZmkxaHR4NVBNcGwzTmpPTHR3bGZSQmdvcWVJNFFMaEpVaEl3K1B5WjdJWjc2dlkrV3ZFdEJTWjJPdzdpOERIWUVDZGJkNUtRSUNLYndmVXpUSm5GeDRNeTNWSFFOQlhjOCtQajNRWVE0MlhLU2JsS01uY3plcGVWbzBLMGFibEJnVXRTMStMZGhsZ3Y3MzMvZkxxTFdUYVZ4ZSt4WEVuUy8xM095clNLQ0JCS0hFRkNzTUNvM3FsNnY3VVlzNFVyajl0SS9ud0h2ZjFkZDFZMDJTQ0xTN2NGMFN2MThxdTJnM3huMWFqWkFpT2Q0QmNGT3FKQU0zYjluVUI4dFlRYnJQMnJNcGw0OGk1WDBQc3QzcHpkSnFMU0NXakRjK0lsamlRWDB0TzY1SVFmT0wrclNwQXFpUWQvN0xGYlhHMFpWNmJMa283aDlMUnh2UUZ4dy9FamFSU1ZWUzJ5Sm1kK0xCN0h2SVArVDhnWmNHUTRocnRObThXaFRad09URHlPc08wWEtDRzVKTVpoM0hpTFRUV3luZ1hOUTlSbTBld1dpdTcremQ3MGZkZzFKQUt4U1pXVStBMitJb1lTeWpLaFQzSzIreC9WcGlzd3k3VWMvRHZDSGh0dUppVExqWEN4UGtUV0ZrUFhURnJmQ0RIb3hkUHp6ald4a2dvclg2VEx2N1JwbGJhZUdZNjRtdmU1Z3ZZaUpLeUowTEY2SWxRSWVzMEpFQkxrTDVXQlFLaEpycUtjMklhZUhJWXB6ZTczQjhoMjEzc2lxRUowVmRkSW56TFl4SWpVNTlmYVF5Z3NaUUhSbUloWWMxeXBYOVJMMURydWpLVUlEMlgxa04wYU1UZFhYN1hESlIrdlg0RFhYcnFFVkZ5OGlzYUQ4K0xBZnVVbXEwT29BUUIyNlVSWW5jcTU5bGRTK2VVWHJvQWN3bVNhVDcyR2hhUlVsaTZHNDZDOE5tcjE5ekFJWmZHZ0N4YVFNVG1lck5aRDh1eVl5VFQ3OVl1SHFiUTdVaDFwSExudUlUc0R6aWVkYUFVK3hMZVduMVJZQWxVMXE0MlJXU2NIK3lKcjc1d3ljV29neUhCbnlPeHRvMWRMMzdORUE3ZXUvZXQ1TllqQWZ2Tm1NNVBkZ3daTE43NE1RNmpram1lMjJFdDR1aS9zNnptRkVtTDVqRlBWN2J3MkFXMXFGbmFhQmRYYkFLK2pmc2FYZ2FxR2FKemZ5TlQxdHlISmJyMnV1TjRsWnRQRjhiKzlNaTcxRytRYjlNdmFCbWhpNFhiTUFaQkNWd2JOU0VYdzZjRTNhdlNXNlNOcUJWWHRMK1BJNkFvYlRwMTV2QW04UjhxaGtRNXdIalc5N3Q5b1g2MW5BS2NGWkRlVEtCZWlGbHV3NnY5Vm1STWVDL0xCS1IwZTNjMnJCTHhqWW5aaG92SDV2YWZjMjFZWW5zSFVKbzR5elBITTd0aWEvNEpKZ0pXQkJZdkt0ZFg0WFZFREJxMkxZa1F5NmhpL3RkM3ZMU2l1Zys0bEZUdkkvSHZmOVlaVlVKUXR1d0swVDlsV3hlVEgva3pNT1FvVkNOSkxrSDFCSHNSMExJTkF2K3FFRjRhSnBuOCtoSTFhcTQ3ME50OGJUdjdkWm4xL0RtY0EyZC9WUlU5Y1FZcCtXWjdiZ1F2c3kvS0h2RUpxSjJGZEhzQ3RFMGlHZVdLMWIxNFFmS3g3cE1RSjE3SFB2WExzUWlrR1FpaVNucS9tblV2RkVUQ2g5cXYxUUtSNG8xZW9yTlpQNDMzU0NROXNzR3RnRXZEMmVXMUx6aUZra0JhYUNDSUVlU0RPMUErZXRTT1gvYWgxdHZUZTVRTEl1dXdzU1Z3M1psYTV6c2I1NDBNZEdwSXRBY1RFcmplY0FjMXVOS2t1eTlNZkp3cG1BVHRjQnRmRDZiRnVKaTJIODdqQmNqa2FwY2lDeWNvelJpQmtzSjBLWmFleklveVEvamtDQnRKVjJWSGtOUGJVb3ZKbGJQMHZ1a1JyUVlzMWt4UEFDdUhaTm10blNGT25jQVQ3ZXRLMEt6K3ZYV2FkM3R4ajdzNkk0ZGY4ZGt2YzVHb2t0cmt0RGFyaEF2WWxNbTJZWG1jWUFEcHg2UkFac3pPeVBGc2R5T043RVgzNFJCZEZ1c2t0d1lJSW41RU02eFNRSVFKTE9LOGk4TW96Q25DcHVQWDZoZjFyQnE2OTQyTjhBTThrVHpheFhuaUEvUWRFeHVKYUNvU0dHNVpQQjVIT2lyUXNFb0tUME1Sc3ZnKzArdHFsWEYzbktCdWxZcHRmZDFNaHNSYnI0czZ2QlZWR3l4S1E2UFgyTyt3V1VuUTVrZUJ5bXZqZWJuc1ZSTHIwam5Eak1Sem8weEgyc2xLNGVRSVpmaDNjUEFLTDJWaDlDNTJrbklGdUV3Uk1rVHBIbEJ1c1ZPV3dBVXdTM2xWM0ppWkdmazZFUmtCSVh0VE8xL2NvTFpDd2lNOXlOaHIvalEwczZBdnhIZXdmWGR6czRrQkJwd0xTN1VUaUpKZEZyd0RTajNuSXBZK1dLR0l3bkxya3NRb2xUdUdSQTE2aGwvNkRWcVIrQzFpdWJwKzJUeFkxR29lT1lFWXhKeGttK2VRQm5ib05NSzVSSnZxQU9DUnhUNmtNaGJJd2xJamI1YkFNeVhHbXZ0WmJDQVJxSXluazJXOENQTXZXd24yd3VOR3BtbzB1cnBlQmtRWm1qOU1CQkxJQjExd0t3Yi8vdENSL2xYVmU0Wkd5RFQwUUxRSHkwZUtUVkhlbFhIbDVOWGhuUHgvTTU5ZlpmOGpXRVFmMXF0SmhXZk1yMWJwT1dPSHpSc2ZTV2Z6R1VsYkhJc3NEYmdsS1hreFRiN2crSG5JaTQwT0xEVHkvTWNKYmdtN09yUXpLWW9FdmJJSU10R1VFbTR3d0xKcmtFZW91UGNHZStJa2RoMTdFT1g0TTE5OE1vejJxUXBnd0tESCtOaXJvOEozcDN3aUx3WnNuQXhDRUJRWkNNeExCTWZpYndwK2gvVG1jUnFZc0NsWWpyczF4aStSRHNnbktmVW41UFBITnhIUFBGZTN5THZjTUJpcWp5RVpiOFh1cXdmcThaVXkyRzhCRlBXRERBZlBCSk5pcGhOTWtaNmc1bXdVNTV2R3V0K2Vrci9FNWFOUE13Rnc0a3FtTTBINkYxZlFFRmVGUzM0NjZhQXZaWG5TZmtkTS9YQ0tJS3F1TkRPQ1VneUh6bWxUMTJZMGVrUnEvdHBpaE9INHQ2OVNraWpVb1Q4UWtwRHZMYlFLcVlKQnFWd3VhOVlHb3k5bFBSSy90eUFHNDY3cU1QbWNHdFUwZUNMQkZwc1U4QUc3cUZrYm9Gc3VicFlOTnNsZ1JqYnloVGRkamlLOWM1TDBUMzdNS1FtMWFMWGUxWkdjSnY5U0E3TTdLd01UOERpUGk0WFNHQ0NMR0VLQ2NCNzdCMmlqdHdjTE9NcFVwRXRFUnN4K1NXYnhtdmhUeE9saXR3djlHRjNBSXBhZTBZa3drcjkyWDdqK1A1MFUwdEZGTHZzKzFXY1BPSDQrVUd6bDQ5Y0F6Ujk0aEVpcDVwU1hOMlpuMFEvK0JvZ2F1dkVrTnA0dzQvQkdMUDlzYUZCQTVWa0xQSXp4QytCclhpNWgzUWhlZFM5ZXhwV2wxSHB3QlhMZ0NackRPRm9wYXgwbmlWTTJMNHRzU1Z0d3hUbTZSRDk0KzRaNExidFRCdHhCaHBrcytMQUs1cmx2TEwxZ3JYYUYxVHF3Q0VWV1VFRmlXei9US3dRVWZqRDhVSE11M2J4RTE0bERsRFIvSkwyVWduck9xZHg5ZWhYdnlEZUg0ekRsd0ZWVXQzK1JoZWdOY05QSDFKYnJ2UDVwS2dWOEo5TllCQWpYNzJNdWgyZzRXVUN6dHBlODIwZnNjaEJvditZcHc9PSIsIm1hYyI6ImU4Mzg0Y2Q5MGNkMWYwOGY3M2YzMjQ0MjFmMWU2ODE3NTcyMmNlNmFiMGFlNzk4MjZkYWM5NjgxYTljZmEyOWUiLCJ0YWciOiIifQ==
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use App\Models\ftid;
+use App\Models\User;
+
+class ftidController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        $ftids = ftid::orderByDesc('id')->get();
+        return view('ftid', compact('ftids'));
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        return view('createftid');
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        $request->validate([
+            'user' => 'required',
+            'carrier' => 'required',
+            'tracking' => 'required',
+            'store' => 'required',
+            'status' => 'required',
+            'method' => 'required',
+            'comments' => 'required',
+            'label_creation_date' => 'required',
+            'label' => 'required|file|mimes:pdf,png,jpeg|max:2048',
+        ]);
+
+        // Obtendo o nome original do arquivo enviado
+        $originalName = $request->file('label')->getClientOriginalName();
+
+        // Gerando um nome único para o arquivo usando um timestamp e o nome original
+        $uniqueFileName = time() . '_' . Str::random(10) . '_' . $originalName;
+
+        // Armazenando o arquivo na pasta 'labels' dentro do armazenamento público
+        $labelPath = $request->file('label')->storeAs('labels', $uniqueFileName, 'public');
+        try {
+            $ftid = new ftid();
+            $ftid->fill($request->except('label')); // Excluindo o campo 'label' para evitar duplicação
+            $ftid->label = $uniqueFileName; // Salvando o nome único do arquivo na base de dados
+            $ftid->user_id = Auth::user()->id;
+            $ftid->save();
+            return redirect()->route('ftid')->with('success', 'FTID entered successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while entering the FTID. Please try again.');
+        }
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show(string $id)
+    {
+        //
+    }
+
+    public function allshow()
+    {
+        $ftids = ftid::orderByDesc('id')->get();
+        $users = User::all();
+        return view('allftid', compact('ftids', 'users'));
+    }
+
+    public function showUserFtids($userId)
+    {
+        $user = User::findOrFail($userId);
+        $ftids = FTID::where('user_id', $userId)->get();
+
+        return view('userftid', ['user' => $user, 'ftids' => $ftids]);
+    }
+
+    public function filterFTID(Request $request)
+    {
+        $userName = $request->input('userName'); // Corrigir o nome do campo
+
+        $users = User::all(); // Buscar todos os usuários
+
+        if ($userName) {
+            $ftids = ftid::whereHas('user', function ($query) use ($userName) {
+                $query->where('name', $userName);
+            })->get();
+        } else {
+            $ftids = ftid::all();
+        }
+
+        return view('allftid', compact('ftids', 'users'));
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit($id)
+    {
+        $ftid = ftid::findOrFail($id);
+        return view('editftid', compact('ftid'));
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, $id)
+    {
+        $request->validate([
+            'carrier' => 'required',
+            'tracking' => 'required',
+            'store' => 'required',
+            'method' => 'required',
+            'comments' => 'required',
+        ]);
+
+        try {
+            $ftid = FTID::findOrFail($id);
+            $ftid->carrier = $request->carrier;
+            $ftid->tracking = $request->tracking;
+            $ftid->store = $request->store;
+            $ftid->method = $request->method;
+            $ftid->comments = $request->comments;
+            $ftid->save();
+
+            return redirect()->route('ftid')->with('success', 'FTID edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the FTID. Please try again.');
+        }
+    }
+
+    // lvl perms
+    public function statusedit($id)
+    {
+        $ftid = ftid::findOrFail($id);
+        return view('editftidstatus', compact('ftid'));
+    }
+
+    public function statusupdate(Request $request, $id)
+    {
+        $request->validate([
+            'carrier' => 'required',
+            'tracking' => 'required',
+            'store' => 'required',
+            'method' => 'required',
+            'comments' => 'required',
+            'label_payment_date' => 'required',
+            'status' => 'required',
+        ]);
+
+        try {
+            $ftid = FTID::findOrFail($id);
+            $ftid->carrier = $request->carrier;
+            $ftid->tracking = $request->tracking;
+            $ftid->store = $request->store;
+            $ftid->method = $request->method;
+            $ftid->comments = $request->comments;
+            $ftid->label_payment_date = $request->label_payment_date;
+            $ftid->status = $request->status;
+            $ftid->save();
+
+            return redirect()->route('ftid')->with('success', 'FTID edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the FTID. Please try again.');
+        }
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(string $id)
+    {
+        try {
+            $ftid = ftid::findOrFail($id);
+            Storage::delete('public/labels/' . $ftid->label);
+            $ftid->delete();
+
+            return redirect()->route('ftid')->with('success', 'FTID successfully deleted!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the FTID. Please try again.');
+        }
+    }
+}

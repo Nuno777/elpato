@@ -1,1 +1,39 @@
-ENCRYPTED::eyJpdiI6IjVTUzlDQVNvajdBZVQ2ams0bzN6M1E9PSIsInZhbHVlIjoiVzZvSnZ6Y1RwZjY4WVU0UGU3d2ZLZ2MyUllFYURCU0kwbmEwMEhuY09maEh0TnFJNUx0czIwMzJlZUJuRitTbVQwOHFSM3h6RjI1Rk9wMkdiUVF5cytxMTljSkwrNitNZnU4dzVOMzVCNkwzZ3ltUWk1U3d3aG9qVTA3ejU2aVZuVDZ0a0FiSFhhM1d1V1Y3cnBaTWhXSmM3cDRTQUZMQ0d1clpzR1lTeGdGWFl2elVUQWlEN1JjeFZWZ2F6Y0YrK1lubU1HSURUZzB0M1E1b1F2MTh0MUpJc2l6MzZBWS9pMkVnR0lPZzBjcXhDNjZvVVVMYm1DejUrdTFibXIxSXB3NDJ0eHcrYkNHZG9sbWUxbWk2QzZBT0wzTDdYWC9wcngrZ2xNUUdMRCs5K3BMUklVSEFxTm9tWXB4OUJaQloyV1VnQmFuVUFQZ1pYMXlNOVlzaTZneU9QN3lZak1kdjFweUd6b1RVL0tlOTJYakF0SmxzOHl4c2srR2s1bW02VUtzWWxFeDVRcWxRc3lCaFdmTEFUdkQ3MWc0L3dJNWJEa29YYTRMaUhQcWM3Vy9HY3VpcllPcHZ2QUVFN0hld2I4c1FiZFJ4c0hiOHRlVThmVkw2V0IzNFNzM1AxMGV2WURZaGFoL0ZxdUZEc1ZrMms2bFBHdFVWU1dBc0tneDRXMENuRkxGL05CN0tUbjV4NUw0cFM2alpEVitGQVNXQW5sUCtDUUpMWFVRQ1VWUDRCN2dXNEo5S0d5RGVmRDhIK20zZkVnVWZENm1yMUt4Qi8wNEd0ZmF3WVU4MXlVVDRTTlBnRkR4YkNnVHBKY2VMaFpiNXhPOTdBbXZOUVhDNHN2Z09ucEVFZHdMalhUVDQ3a09kbGZkWVp5VnhhcTVFSDVFN0JHOXFETC9PN1hmSWcrRmd4bGJVUlNlek5CYm8vTVQzaFhSZklsQkgzOUF0RjBFL1dwRkJWN2ZxS2FLSU5MZUl5RFhzYUFlMGNOUTQ4Q2VYU2ZpaGk5eDJDeHVZL0ZqdmREaHhtVkxsSUU3WXRwYzFPVm1yMGJNdDNOci9XK2ZrT0tmYmVRM1ByOHZvTG9kWXR5bVo3cE1kYjJaTkt2Y0l4MTlFNmxxZytjamlvdWlIYmcyTjRBalRhblVZc05OYWt3c0dlUUtsQm5YWWNMZm9DenhHK1lRaGo2YWxFT2tPMHFIa1hkMFluRXE3c3prc3B2THhXY2Jsek1sSzZSTjV6KzhSNnZQcTd4OHRNS2F1VGUyMkVQNHc4Qm9QbmxoUVM2WkxPSDdJV3FsdHJITzFYV1k2NjBCVzlZcnJHcE1UVVRtZTEyRVowRmJTcjczenVZUTF3Y25jSlhjVVByT2Z5WTBYMU9WNE9Lc09PQTZsdHJXcTJXZzZNMzhCMW1tMTdENkpLNTRCaFB0UktieE5mK1psd25XOE1UVCtUYVRpU0xjSElPdGFGY3NqQ3dSV3N5bVZtbnBkbjB4cWljekR4QzV2UWdhL0dQeXhRbFJiUVFNZmdnOVYvYnZvVDJKU0p1M0pzVkR1TmFrRVE0M1krRUpmeks2WTFtUTRNSldoUlFSbkNuWGZtanNOcGZNcmRuL2FGQi9wVSt5MkhHYUJEbGIrNVhNaFRMbEhxOFBKWDAxOWtacFlCVW9iVWtlYklnUjFRQU5ZTGhwZ2t1R2RUditLSHA1SlNpeXhzUGZ2VEVXei9Pa2JsMGZYbEZuZGFIYldlZ3d4bGUvWEpMOWxlTkxkYkY3WmJyRUxoM0VGS3Q3clltbndQd3NSIiwibWFjIjoiYzllMzE2ZTQ0N2IyNzJiMzVlOGYxNTg3MjE5MDRmYTFmMDIwYTE2MjMzNTFiYjk0ZDU3YTM1N2IwMWY1ZWQ5ZCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 4}, "rust");
+  function MT(name) {test.mode(name, mode, Array.prototype.slice.call(arguments, 1));}
+
+  MT('integer_test',
+     '[number 123i32]',
+     '[number 123u32]',
+     '[number 123_u32]',
+     '[number 0xff_u8]',
+     '[number 0o70_i16]',
+     '[number 0b1111_1111_1001_0000_i32]',
+     '[number 0usize]');
+
+  MT('float_test',
+     '[number 123.0f64]',
+     '[number 0.1f64]',
+     '[number 0.1f32]',
+     '[number 12E+99_f64]');
+
+  MT('string-literals-test',
+     '[string "foo"]',
+     '[string r"foo"]',
+     '[string "\\"foo\\""]',
+     '[string r#""foo""#]',
+     '[string "foo #\\"# bar"]',
+
+     '[string b"foo"]',
+     '[string br"foo"]',
+     '[string b"\\"foo\\""]',
+     '[string br#""foo""#]',
+     '[string br##"foo #" bar"##]',
+
+     "[string-2 'h']",
+     "[string-2 b'h']");
+
+})();

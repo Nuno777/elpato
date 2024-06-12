@@ -1,1 +1,97 @@
-ENCRYPTED::eyJpdiI6IkV2RDJJVFU3cERDTUpXc2JVVnBHRFE9PSIsInZhbHVlIjoieWRDenRzV3BDYUdxZHRYWE9RWHovQll4ckt3R0pHdnkrTnhOR1JISms3WVVsendENjQ4eFlrT2pwV29YWjQwWTBNK283K3lzV2ZlM0RLUkVHZ2NCWDZEd0Q2SEx4SW5uRkdRKzJiQzdVaWR0M2xKKzZGNjd4eThaU2RwSklzQndvcUU5ekN5WXJEcDdjRTQ3YnI0NCtHdC9pZWhPblkwWWw2a3hLNHdpVVd3VmxiaG9FUUczWTRkMTYvakl1Z3BOcTU1Z2JvNTBMVWxQeXgyZHRyR3I3Ym1Lcy9pSzlYZUhlNEp1Y0lyWnN1WEFsWUNYUllCVlpQTzFZby9zU1NpYUtSajV0MjJGWUtLZVg1anZEaGFuS1lmNVRrUWlqTDdOekhGT1ErWHA0NURYMTVCRzhRTTVTSWdhaWx3OGJkU21YTm1VSFl4aGpXcjl2T2thbWVCWU1WRW90T2M4Lys5SEhieG5UdkRZUXFRQ1ZUUnk3K281dGRHTGpCR0ZqMGNsN3crb0RubklXSEg0VlVlTC9mZDlsNFBMQ1kwMll6bkxhRnZuQ3pLRHNXRk1OQmhnbFR5NGRnTzRhM0xBVFUwNlYxclFTbXhOQlRFQktwWGVoV3VxYU5MbHBTRmVJbG5wQ0V1TnJiUExUMTZ6YjRtbzhaTjhnenRpeDFXVFcvcEtYUU4rUUpjR3FRbHE2a1lUSWw2bWJGUm1LZFM3Z05Rd3JIVVovekU5RlZPSU9iV1plcUIvR2wxSW5nazFVK1l2QnAyZzRnY0xCQ0lFcWR3bHFxQ2NYOWlGUlFqTGVoTmhXaktxRlBjQ0pQT1IrcTYwcVpsRkoxRWthWUJwZnQ2U3loeXN3bWxpd0Y5MUg3em5rM0UyRzVPd2E5UGFidE1ndjFTR0dHS0xqMVo4QjVqZ1h5eStqQ2tZdm1PUU9CMEFvdHBQM1VldmRYSzVYdUNaNlV1UzFJQS9vb2h6aVpWN0ZMQUhneUpDWHFla1E3K29YOUxCMFNGdm9wNzhNbjFsR0xscGdydjNOSzZFV05RTUtObG5KQW1wMm1LU1ZIMjFiWWx2YWtFamZQaGxPc251MVJ0SWFHdFl0Sy9SR1hreXpYYThtOFJYT2I4OXFqb2FDdjUxSnZXN0gxdzJPU1VVZWpFUzlLRndrOUxFL21ONGxCbXBMdEZKOWJnR1dDc01CbkYwNGs3N2JMQjdoV0o3UEJBbzFHN0ZkbWhiczJ3TGpvMGxFUHVBbVZqai9hU3ViR1NDSzFkcm5FNzZIbEp3ZERwbjQvS04rWXdDVlg4ZU1ncFR1a0Z1OThlRE1JNmJTMGhsbFRIcVhSM3lqZlIyY0Y1YUx6dlc5WVFacUo5eE9qbFVHQjAzS2loWDRhQU1tT0QrTXFvMFhvNUFjdGZ4cUNJNzA3OHlpU3VPWXNRV1ZPTlhRY3B1TGZsSlgxenlDRjRlVVNRVUM2Uzc5cnFXU1BmTmJ3VnVobjVvRWZRZXgyUU8yMWN5NGtMMFU3emIwb1Qyb0xEWVNKa1VmdjdYa2tEOU91b3kxMHRqRnZEUnpyOThEQzRmaDVtb3Flbi9Mbis5Q2JGanZDNWhCejl6VEthcklWbUVnRFpMb3FjOHE4NjlUSnlSTllqSXhpTkNPc3pRbThNTUg5VXBQZWdHSHdRTm1sWTBaRCtobXFNWk5HRTYrdTJETCsrNU1SVHNYMXVWSmNPWUkwSGJZZ3NwMjd3ZVVWWnJ5dnFBTjYxaE5BRG5WMDM1T05HV2dybTcyVk81MUxqSVdWUldVZzZBbXZJYy9kV0RwOWoxTUtIVDRGRGM5UHJiSzZjU2dKSzZTUDY1Y3RaZzlVN2V2SkhQeXpWaUp6RmpUVzFKdkhERk1ValRkR2tITmhmSi9tZ3crK0d2cGFTVVN3UWlUWC9vVmk4Y3hOT0ZCazg1VU9uVGNkd1VRL1pDd0RpSGFtbHA0ZmNNTzFzNnV4UTAwUG5jVEZkR0k3SnM0bUVvK3RTZmhaLzJuSkVyQTRQdGp1S0NTSm40VGRkU0UrVHpCM25mcHVncFBYWkJkZkEwQjdpL0VMZGxGSW1FeFlXdXFubDhKc0RhUVl2MlY0aHdYWjhTV2xWOE9hWTg1RHVKWnF2RHVXTXFQWTZ2UEM0TDUxUWhmV3hGclVETGlEWllnTlArMjJjQnJzamZtQnFsc2QxY2M2QkM1cDhjQzRxWWR6M1M1RTJWeUg3OEZRNXhJYlBWRldQUlU2dW02M2syNlRMZFIzZXN0VHh4MXVFLzhxZFpuZVJsY2RHT2VsTE9vVFBNTGYweFp3azFJRmlUNmRtV1JLL1gySWh4ajZDZlNEUkRhTk5ON2hEckxkK0dyMG9ETGRIbHh1czJ4MTBqMWlUTEZ2RkFvOGttZnoxTVI4UWI4ekxRWGNwcFFOeHpaK1E1aVZxSE8rVzlLK1BrMVBTVE1UNThiSTZKc2NoQnhGQ0NKNUo5cThpeDlSTFl5b3g0RGtQclBncFlIa0dXbmNRTTMwUkRUUW9CTGpONnhIbUUrMmdOVjBKTHg0VGRCWTF6MU9LcDdXT0M5WUgxRFN3VnVKK3ZjRVBSVXJ5R25rWW53NmpOY3RmS0tDTENxZ2pTcFN6ODZtMnVMSHVGOGVwY1VQL1RzWkMrNlBaTWUyOUcxbmhEYUtwbnFaWmNsbktIZEpwK2RGS045dnVSSFVFbzQrSDgyUlBjRUFBbnpFeldYWGpRTng3a0lBQWhUeXNPVTZTTEpzUEw4VFpiSlE0Z3dnRzI5SllDRmwvZmVGOGNoUGFBSXE3M25VWWpCTVQrZGc2UndRQzFiWXFGajZ0aWRlelB2bjlnUXVXQ1NVZmxiS2NjMHNkd2RGOE5iYUlTYXNpV3lNTlc0ZFdjSlFndkF2M01mcFMvN3RLVkQyQnhtaUpSdFV5a2JYSS9aYXlRWUxFNElEdnBQTkJEWjl4MWZ3YTdVcVU2WWc2NTNXT1JlMkcrSFNLOVAvSnAwSVJ3RVVRbzBMeWJpRjBDSnAwVXc2VDhUaEptNTdhZnJjcUpld2xTenNtR0hOSnpRNFlpTjV0ZmNGWk02TDl0Qm5tU1YyUXdVeTZLNkg0ZHhCcGtteXJkY1FncEtmV0I5Q25wVytyZ1pzeWxNZ1U4cjdhMVhKQW5kaUFzQ3Y1VmUyQ0YxRFlXRTBPck91TEsvcWdzbWZrNXR1T3VGcU4wMUhGNWszdXFqaEZ5clZBZlpMaXUwckZ5eDAvVno0eGI2ckdZT09VK2pXWXdWaFVWYUsrWFMvTytQeEcvN1c4bmZRWkVNR21LQ3NkS21EV0R2TUJwMy95dUgrbXZFTVkvYVMxNlAzZkRGTzQ0VTN0ellMMjhYZ0xxMmdGR3FPY1N1RlpwUTNRejMrNURQc2s5ZktHaWRKdC8xR3dtTGIyM3dxclcvZStHVkMzZUI1VnhnZXlUa2doNVI4K1A2TlgyYUMzWXlFTWFuS1Q0eFFLUlZQTklrbXhhVytlcEZkcGw0WHZwTkdqTnJQVFhiTVZmcTlvcG10b2xpQjk1VWJ5VjRpRjNGazhYRnVOQTdlZDFUTWNFaFlGTGlBa2dpMUhmejRRNEMxa1JVeXF5dWtzT3QyTllSRlVVTXpNa25BVlpybzVCNUtxNzRueGx4VHNUWkZXS2FZa3MybUFDTHFIejJZOVVPNHdnRFBURWFZSmdkV29LYmlrMjFjM2dQTHpJR291T0Yyd2NMMDBRY09iNXp0cDNxRW1rekVlN3lZQUp6Q1Nnc2VSeGpxK0FYM0xsT0sxSlJQZzVSUkJHa1hvaFlCQmRmOGVDa09HcC9lV0pQOHdWRjl5c1R6TzJ5VDFWZUNHV0Ric0M5dG1RQ3lGT1NhakxaYjk3NlFoNHlTZWVsdkZEeTQ0c055b0VFc3ZRbm1GZ1BCSHI4ME5QQXVoL2sza2JwdFpPTW5HU1J4VEFadDV6MUE5NjFCelB3VGRGcUkvQXVINzErcE8vcEljdXExa3NGQUdNSGJZeDYxUitnTHNodU9CK2huR1FiODlMRUFiL0RCZWs0L25WZ1pCNHhsVXFpem5yZVNrTGpSNlVubkZRc292N1pDc01zRlliMm50aHFwNDFOcCt2VitLeVlad2UxVEdXcTFXTmVCWng2bzVLZWxHYk4zaW1LUlJ0TUk0dlhKTmdXQlVTcUxtaml6Mlg3ZTN0TktEUCs2c2dabFNOa2U1UGlRZmZFMnZ0bGdhRXh3VFB5VFhub3VlemtzK1hQcEs1b09wb3hZTHh4Tkd0bzF2aFMrZGNUN2paSG5xQXJHRGZYOUFLVTZaQk9sQkloc3ZrN3RLREV5ZzdpdmN5Yjc0ZVZmMDJGMTM5QloyeDJHdk9nSkNiWG1SckxVMmgxSlQ1cVRaN3lQckdqd211TEJGaXY4ZnVmTzIvTGhWYWllY3ZqalZ0a1dXYUJ1SzJubUI1VnhGTHpWQU5RZXd4ZGtHdkRQS0UyWXJ3ZUUxclBxZ0c3MlpGaEpUdWdMUVJpUzladEwwVUpONFlYQjdpby9HWmwra2Q0WnNqWDc0QW52YXRnR05MTnQrT1U0TisxUHBsK1RNL0VuM0p1cUpMYXJoRWYzeHpsUzNKd3V6VFQxczhZQT09IiwibWFjIjoiYmVjNDhhMWE3YThiZmRkNWJmNjczODlmNjQ4NzVlZWM1MTg4OTQwZTU3NjA0OGEyOGU2NWFjN2U2YTU5MDZkOSIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object")
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd)
+    define(["../../lib/codemirror"], mod);
+  else
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("cmake", function () {
+  var variable_regex = /({)?[a-zA-Z0-9_]+(})?/;
+
+  function tokenString(stream, state) {
+    var current, prev, found_var = false;
+    while (!stream.eol() && (current = stream.next()) != state.pending) {
+      if (current === '$' && prev != '\\' && state.pending == '"') {
+        found_var = true;
+        break;
+      }
+      prev = current;
+    }
+    if (found_var) {
+      stream.backUp(1);
+    }
+    if (current == state.pending) {
+      state.continueString = false;
+    } else {
+      state.continueString = true;
+    }
+    return "string";
+  }
+
+  function tokenize(stream, state) {
+    var ch = stream.next();
+
+    // Have we found a variable?
+    if (ch === '$') {
+      if (stream.match(variable_regex)) {
+        return 'variable-2';
+      }
+      return 'variable';
+    }
+    // Should we still be looking for the end of a string?
+    if (state.continueString) {
+      // If so, go through the loop again
+      stream.backUp(1);
+      return tokenString(stream, state);
+    }
+    // Do we just have a function on our hands?
+    // In 'cmake_minimum_required (VERSION 2.8.8)', 'cmake_minimum_required' is matched
+    if (stream.match(/(\s+)?\w+\(/) || stream.match(/(\s+)?\w+\ \(/)) {
+      stream.backUp(1);
+      return 'def';
+    }
+    if (ch == "#") {
+      stream.skipToEnd();
+      return "comment";
+    }
+    // Have we found a string?
+    if (ch == "'" || ch == '"') {
+      // Store the type (single or double)
+      state.pending = ch;
+      // Perform the looping function to find the end
+      return tokenString(stream, state);
+    }
+    if (ch == '(' || ch == ')') {
+      return 'bracket';
+    }
+    if (ch.match(/[0-9]/)) {
+      return 'number';
+    }
+    stream.eatWhile(/[\w-]/);
+    return null;
+  }
+  return {
+    startState: function () {
+      var state = {};
+      state.inDefinition = false;
+      state.inInclude = false;
+      state.continueString = false;
+      state.pending = false;
+      return state;
+    },
+    token: function (stream, state) {
+      if (stream.eatSpace()) return null;
+      return tokenize(stream, state);
+    }
+  };
+});
+
+CodeMirror.defineMIME("text/x-cmake", "cmake");
+
+});

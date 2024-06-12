@@ -1,1 +1,109 @@
-ENCRYPTED::eyJpdiI6ImNSQ3djWEhBTk9OZFc1MHNyT2Z6VlE9PSIsInZhbHVlIjoiU1JVTFhBaWVaS1ZKSlBVSjZQbVRoT1R3M2NQSmlNemZwckx1cFp2RS9ZdlFpRjhraUMrbUE4ODZrQ1A5RUdNUjFFL0h0dEtYcFlZbU1uci95VWtRSkhxNWxNQU8xb1FBM0xwR3ljbzM3ejUyU1UxSWFjUEtCOWNXOUtLNnR4SGZ0ZWowMnhUZWVSbVpscFJEZENLaEV6RlhxVFc0MHgzckdmV09MOThnYnUrNk9QOFBVdXM0Y2lKdVJCeDhKQVlrckhrU3NkNHBQdCtlZVBuWjIrL3hMQUNkV2U2MExBQndGQ1l3S3V4MUN0dnNoa0IwRGxkV3lta0xsbkFCblo3VjUzem04NUhoTXoxL3B3V3hHVi85em9OLzNKcW43NkxSMndHRUp1ZURxMGhkVWZmM29mOVk0cTI4cTVwc202amJjSlU3akg3V28yK1UySDJmWWdPWmxYK1RPZDloTWlhSjhhV3U1amtLbnZNM3IzNlFnTm1yWXYybHZlc2ZEZ3c5R0w5WCt2c1U5c3o4eFFtN0YyN2Y1dEdMb1FhV3NubHM5cVlZZGtYUnZ1RGVIVllDY29ZMXFLRWdtRCtkVkh3dGpSbGhUR3lMejEwQU9LWm1WUkpIMTk5N3dLT2kzK0g0ODk5bkFhVlhDeVkyL3BRQ0pYWStGcDBpdmhmUlZJQXhvY2RYak9wZ0diY2NxSE1ZQnVuMXp4c2xRaHFUWVNJcWV4VEdDS05YdWdRV0JSeDdnNm10V2FRUnpHWkpVZEJLWGpsam9DWXRTcDB4S3owaVhybFlxOXN4OUNmekJJeUVaVlJuNWZtRlM4UkUyK0R4U2Z6emFkcGlJR2FzbXpUK2MzenozemNpZHUyZzZQc1QrREE4UTRZNjFsbFJwemh2YjBVTUhJMUxsUmdVOWNPUmJ3anc4ODBYdWpWQ29wMEp4VjY2TlJSRnR1b09UWW4rTVRJbFVCZHFRY01ZWDBlZndwYjJoSFFBWU1EZnNNOVdvYUYrMGZyK05hRUlUcmNFU0N0RWR4SEFDbUt0WktXb3l0ZXF2T0MvQTIvNDRGNVJ1Mm0wNC94UDI4Um4va2lNNE1BOHo3ZzRLdVpPdXhjYmtmdGtWbENxSVBjczhUeWpMRU93YXNZclVEOFdBakxTaGNRUmhicFN0MVVnTGdidzlRR1pmalJpSUNNZGlrRDZHYmhvODU1UFNENFVxSnEvOG1rMUZXb3RaeXJtWDl3Ry84bzBKVm5LLzR3RjROSStuNU15SjcwVFpTaEpaekhtQU1nWS95ZXNmdnB0RjM2L20ydE9EbUxLb0swZSt2Sk5RZ20yU0grZnUzbEZKS1FuYTRZVzE4a1ZaYmxqV3NiSlVQa3dUci9XSlJTVm83NkYxNVJ0OFg2THpVb0VHZ25CdnVTWUhFbllXd3FQNnppS05rWXFsZVRsNW1zRFI1RWI3UlozOXI2c3JiOXRhbkp6WDBzZDdTS08vOE8vSWVRWVdmZmFaRzdYNVFkekRBK0pVYXFpUzc4Ly9hRk1WVTdqNXZEemtyaExuMXlhZ3BlVjRJb2VhaGc2VVJHMVA1eHhGOEZXMWptSUM2RzltQytFdGJvNWwrcHpWSHY4bjRQMlVaeWVSdVFkSzY0SnBRLzlxRlU0QnBCeVYwdHU3UWFQVHZ5Mkc5bVlhcHZFcTNhRU9TNlRXTHp3QytLdHJkK1pSQUZONHo0bEIrNmFHTk9HWkV6ei84dEphV3hZTjRKUWVqejg2STRHdzJqMUtheXpiRGVKVzhxYWlId2U1WHduVnd2ekNSV3JmTkptbUdTWllqK2EyYWZ6ZXc1Ukd5MHdqbVZqbWwrOEQ0aXd2bW9CVHRQbnJNT1I4S2F3ZkxWZ29EYzVYUmJXNkFJVDBYYXg1Y0NHWDFJODQ3OFlIa2NnRXB5K2Z4SEo3VFFaNHEyallCdWFrTFg2R0ExUDc0VlFWd1ZkZ1NvQ1cveXRTd1R3VlJwa2h4WXlWS0RSd29PTjhXYVpvelBHczB4WUFxcS85MjdrTjJBL21PaWMrajk5eGt4cVFFeGd1NTlxWEt2eXdPNW1zV0FiaG1GelhpN21VNGd6V2ZvZG1OUTQ5bHF2aFhTOExQVlptVkRGeVJmYnlHcDBVeDIwVWJTWEVvYnhmaGJPWVZQT1lac1VTYjJtZlRiR0F1UTE1cGlab0w2TTA3TmlPdGd3MzMyMlJoTUxHaHFEL25DRjk3ZUYrU2JRQURzQ0pkRTl3cjVWOVFkbkw3Mk5wTVNiYW9keEU5YVBabUdJY1ZGa0xsOU01SWN2dmViMUhJWk1Qc0FmT3UxQXd3eWFCekdBam9FNzU1emhDc09EcGRueE95TzhEeFlrdUlYQTlRbXJnSndqQXU2WmpMOVZqMkRvNithNHBpTmtSaCtYTGJReXJvVUk4bkNOQWRtTnVqeHFnaTZtU004OWxObzdseTNHZ2lRUkx0SkpMUFhpZXF5N0dsdERmS0pKZVBSczN0bW5SWVprUmZKMGpSRE9qZ0ttdFJTc0R6M0dYeklkTWV1YWZ5bCtkcWUxTll4c3QwQ1E3OGowdTl0bmdWK3E5eVR3d1pUanNkeU5yOXA2QnY5Tm1RNy9rZEdMU0hEeHJTZUpTc05MdGR4RmRJekFJUWxHMjhsTDBxYzVqWWNLQnVqTHlpd0pnQVY2WGN2Q3Jucmt0TmtzaFA1ODJITEU0RjFmSHAyNUtidW0rWUM1YkNjeDN1a2RCNzFSQWd1YkNtY2tsNmlyY08yRFgrNzJlYnh1STEwcGx5clFPOXhDZndiUU5IanpwUmZ4SW9GOXdrQ1dVc0dmaHVPRXk0RVMwMzdLbkdteG95SVRhYW1CdFRnVnpsbTJEaWdrTnJQeWUwaWhwdkVYZkY3bWhyZUtQYXR1b2RIWEMra0tyOGFPSGxpdTJoTDFaWkdDbUN4RmE0M1VSWUhZMld0YkFUUmJLRzZhcTNiaTd1UmRxUXdxWkgyRVNtZ0JtdkRzWGoyeE02UFdKMTB0L2FlcDRHekFPU29odFA5RCtIVE9qd2ZJN2ppY2RWZkMrNGx2RlNNbXdDQXNteFJMQ2RZdURjYVE1Q2xIcDkxdXpVckdjQVBaN1Y0K3M2WFMrSVFzTnFrNzFoOEZBQ3lLbzBzZlJmZ3d6OFhLYkVTMk0wR2hPK0NaUmU3UVprV3VHOU5WakV0V1dVZjA0YkEvOEJiSVo5Z0U3ajdBYWlBR0FNM2krb1hkZ25iNlBBNlFRN1JpWDdsdWxhTTFKZDZ3cE5JNFIrWE1iZm1xUk9RYlJ1SHR6UERkQno4Y0hna1V5WVB5ditOUzZjbUlleDlFL21tMkVWV3JjT3FjRmZKdDJINWQwbVFvYk4xRzQrQjFGbWJhc3VyQnl5cU9MLytERDRNanZDK3l6bHRYeG9vM0NnaUQrd1BWQ1FMU1QxbzluNmdYelpyM2VBUXdWREdzMkRBNStvTzRYMnB1dit2dFg3SXludE95K1hxc0thVHRDekVxRWMvcEVaMWtSbXVRdUlISE5kdXFnYytDajhhWXlEMFNrSkVZdTAzUFJRTzQ2YjliVm9FVzhNZWx6czF4NWVxb0k4RG91N3h0RmVRODBxaE5GNEpTOFhPaU1sQTgxajhJVnlqUmxwK1dmQ2lTNktrUVNRNHoxR0t0aCsrWWF1M2NVTUs3VW5tTFJMWTdYRjkyRitWVDNTSm1oU04rVWRUbFpsd2twK0JhSENJei9GUjZ6QnhkZDVJY2NRZDhXMmliL1NXRkNMY3RPOUtUdTdMbkJoS3Fna3NySTBleVYwQi9OYm5OWkxDa0llYzI0NXM5ZjFWNHBIaE5CVURuMEJ5Z0RKeU1IZGFYN3RtMjcwN0hiN0plc0gzTm5JTkJNYlpLT0s3alBmSVZJZ1NnaHhHVVhSWmYyUnl5UUZHSDdNZHllb0RrbURwcEkrZGl3VmtMRUJSUjU4Q3NBMEwrd0xvZldmeFZSMFZQTkJmbGFobGpOS3RDaGRCbUNyclZEc3o3THNOakpvdU1yRXVWUjZ6OVl2NE9WT3hVeDZONXRkNlFHc3ZLdWozMk9rQnQ3aGN5TVR2QmVndkxGVDJuY28yNWtWd0sycnIwVkVZL3FHVDBnbHpRSjRoaEFEL3VFME9KcnZxVTd1NTBPL3BUSmRpWUF3aG11TUlqWE5iZm1uQmhXbEh3MDNzZk5Odll6YXplUlNiWUNjbW5iMkk1dlJzc29GR0hYU0NQSTNBQUFESFB1S2hQWFhFYzJlaWxFVVh2d1J6T0pNbmNvWWZRL2hhMlRZUiswZ2lQaGJPVEo3SXlGOGFMalFPNUNmOW9HcVZKUVhxVXhZRnlHM0lRWFlTODAvV1ZjTXpoMG9UR25VblVNR0tvVGpJTEM1aXRMNEw0TVg0bVluZmttK0VlL1FBMndxd3J4eWMxaVIrOEdlbWpyT09tSkJNQVNPVlpJZDdIeFUrZTRCMmlJeCtnRW9rbk9GcDZiVXUvajdMZDNKVk41UHdzb2pURzZBNGg1YitmbFdFUGRmTXZEVDl2V0tLdWp1QTBtUWhZd0RJNXlqQVNGZ0hrazl3UnI0OUR4YWxaYndsUFVjRzNlMElMcXVEWHp5bHo2VmxRK2RDV08yVCtiLyszSFBtSjRHQ1pqUFN0MWZzZWE2dzN1ZGtSbzlLOW51RWZyeklNblRJRVdrWlFIelJmVGVFRWlmYUIxTlJDT2RCMkhuTXcraDVxMTJrdzRsaDZFSW1pYjVrZ0xGQlJ3ejVUcXdMT3lONGhpaVFvL0E4RzlUV1JJUzlpdE5uQzFiWTNKcjFEN01Dd1pSSi94RWVHVzl6aDlFN2U0TW5XVE1DalNZSkJwcXNIdUVuRXZpWm96Qi9TTjhlZFllY2t3alZiY2o0REhxWWRPblk4QTlxZWplSjZ4dStLVkxEcTFEd09VMVpsell3Um9oT0dtaDRSYm16cUk5MlZuTERGelR0SGF1MTlmOE82Qkk3YkNWQzdrK3ltdTR3NEZGa3Q3SWc4c1NobHpid3ZLeW9OSmtsZE5HQzV4ZzQ0cFBpWFY3ZDY4dWZIWHhXWmFWKzZVZXpWazdDVU1vZ05SZjEzSUpBNGdCaXhTdTYyeWRqZ1R1U003K0RoZG9BV2oxUWNBcHJ6eGpZU0VuNjltSkNOQUFabFZFZ0JYUW5KWEYvK3Roc3Q2OHdkTjE3UGoyR085SWZpVDVVMWo3Z3RVQ1NCanRuYzJuQ2VWbU1ReDdmSEZBM1NmL2lCUXRObFphYTFXK1NTK0pLUVh2bTFCSTRVSDNqOFQ1UFZTOEgzUk1ZRDd6a3FhYWEzUjhMSG1BeStPZ2RycENBV0JSNTg3TGs2Y2NJb1pkSHVzcldod2JyMllQOUxJM3NGanowdzkybDMvL0RrRkVMd1p6alQydHE1ZWw1dGIzUUQ5L0tabUdqZzdscVJRK0xraVhJeFNkS2hHeXJRMmlQVGtZTWdXdVFmd05uejdwTHFwV0REVUcvVEFPSFhhQUQwOU1xbWs1UzJvNDNmS0ZLcTgwZ0NjVVJ2RmJNdmRDWldWV21hMTI4dWpwcERHTkt3ZHkyRXMxazBzK09iVzEwS3VjZjE2cWNJWUhieDZOalJBOUlTSCtwNUp5em9xeE1LbU81cW4xVmZGVkk5MHhBaDJPVjZzc2p0YUVUYnJZeUFWS1FvUWtOQ01GVXlEWjFYMXdHS0x5MWxMMkpBKzBtcHlUeEhTU1l6VG1CLzdpYUx3Q0VKUkhEL1FMWVA2a2VUbTdGMGhoUzNyOFNBeHo3bFpVVFdEUHdXd2Q4N2tBdzJtUWRuUGVoSWZPbFdJQWsybkhyTGIya0pseitHV1cxN2RURnpBcWNGNnJMcW5sT01hZnEwdUYrKzRWK1daN3l6ZEJwK0RNYWNjbUhQeWExS0V6TG9jaUtTM25zeGFFUmh2VnNwRU95RGs0ZmpZbFMzUHBuZVlscWZrNUN6eExKQ00xQ3Y2UG1sa3dRcndZc3BrdzljdlhIWmR6VnA5RFNvWDcrVnJGZHpMelFFZUg1QllaRTNzUldCNml1WHhzYXNGbVBTLzFZRll0SHpDUlNrMU5QdEhaY0hxK0crZGszc2VZSWo4ckNsdGR3WTF3R2FBVi9RMUc2ZVBsSnpab3ZGUVNicjhyaFQ3L0dDa2l6cXFxTmxQMjFYbUYrT1NpeU82bXNsSUFrSlpUa3lsVlNZMHR5ZVpsaTNPcEtaRTVYenNZd05wOGx0eCtXRE45SkFoRGJnVXpIMGN6UkRubnF6U0h0YWt2VVYzL0k5QmJSdFJJQ04vblYrTW9DaVVjclgwK3poakNZSWNIUTlYZXpBVkFhY1gxQmFHbEx5NFJ5bW9jUjI1bjRDMHg1MFJLdjQrSm5MSTRrM0VvVjhiTlJFRy9UWjZ5WDNMaGlYRTU5RU82UnhtTlloSjJCRDBEL2VtL2hQSjRuUUlRTU54S2NEM0R1dVlkOWY5c29OaXM2bU9tS1d3Yy9lYXpNRlMyQ1Q5WXhFQ3B4UkduaVIwNjFIcHNlOC9TYWhaVkhBVjc5OEtXaEJkazBoamNsalE0aTFYVlBYdzdZeFR0SVZXZENQWWxNbU9RNEFQS3d3WFBSZGJJNkZVeXZma1U4Ykc1OHhtNmpPM2RzdStiZ2FkZnpwV3RsVnZqakw2djNOYWVrZ2NOdz0iLCJtYWMiOiI0ODliMWE3OTAzYWZmNzg0OTQxMTU4NjdlMDliNWFhMTE3OTQzOTgzOGI4OWJhZWFiZjc4ZjA1MjM0ZWJlYzg2IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.defineMode("rpm-changes", function() {
+  var headerSeperator = /^-+$/;
+  var headerLine = /^(Mon|Tue|Wed|Thu|Fri|Sat|Sun) (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)  ?\d{1,2} \d{2}:\d{2}(:\d{2})? [A-Z]{3,4} \d{4} - /;
+  var simpleEmail = /^[\w+.-]+@[\w.-]+/;
+
+  return {
+    token: function(stream) {
+      if (stream.sol()) {
+        if (stream.match(headerSeperator)) { return 'tag'; }
+        if (stream.match(headerLine)) { return 'tag'; }
+      }
+      if (stream.match(simpleEmail)) { return 'string'; }
+      stream.next();
+      return null;
+    }
+  };
+});
+
+CodeMirror.defineMIME("text/x-rpm-changes", "rpm-changes");
+
+// Quick and dirty spec file highlighting
+
+CodeMirror.defineMode("rpm-spec", function() {
+  var arch = /^(i386|i586|i686|x86_64|ppc64le|ppc64|ppc|ia64|s390x|s390|sparc64|sparcv9|sparc|noarch|alphaev6|alpha|hppa|mipsel)/;
+
+  var preamble = /^[a-zA-Z0-9()]+:/;
+  var section = /^%(debug_package|package|description|prep|build|install|files|clean|changelog|preinstall|preun|postinstall|postun|pretrans|posttrans|pre|post|triggerin|triggerun|verifyscript|check|triggerpostun|triggerprein|trigger)/;
+  var control_flow_complex = /^%(ifnarch|ifarch|if)/; // rpm control flow macros
+  var control_flow_simple = /^%(else|endif)/; // rpm control flow macros
+  var operators = /^(\!|\?|\<\=|\<|\>\=|\>|\=\=|\&\&|\|\|)/; // operators in control flow macros
+
+  return {
+    startState: function () {
+        return {
+          controlFlow: false,
+          macroParameters: false,
+          section: false
+        };
+    },
+    token: function (stream, state) {
+      var ch = stream.peek();
+      if (ch == "#") { stream.skipToEnd(); return "comment"; }
+
+      if (stream.sol()) {
+        if (stream.match(preamble)) { return "header"; }
+        if (stream.match(section)) { return "atom"; }
+      }
+
+      if (stream.match(/^\$\w+/)) { return "def"; } // Variables like '$RPM_BUILD_ROOT'
+      if (stream.match(/^\$\{\w+\}/)) { return "def"; } // Variables like '${RPM_BUILD_ROOT}'
+
+      if (stream.match(control_flow_simple)) { return "keyword"; }
+      if (stream.match(control_flow_complex)) {
+        state.controlFlow = true;
+        return "keyword";
+      }
+      if (state.controlFlow) {
+        if (stream.match(operators)) { return "operator"; }
+        if (stream.match(/^(\d+)/)) { return "number"; }
+        if (stream.eol()) { state.controlFlow = false; }
+      }
+
+      if (stream.match(arch)) {
+        if (stream.eol()) { state.controlFlow = false; }
+        return "number";
+      }
+
+      // Macros like '%make_install' or '%attr(0775,root,root)'
+      if (stream.match(/^%[\w]+/)) {
+        if (stream.match(/^\(/)) { state.macroParameters = true; }
+        return "keyword";
+      }
+      if (state.macroParameters) {
+        if (stream.match(/^\d+/)) { return "number";}
+        if (stream.match(/^\)/)) {
+          state.macroParameters = false;
+          return "keyword";
+        }
+      }
+
+      // Macros like '%{defined fedora}'
+      if (stream.match(/^%\{\??[\w \-\:\!]+\}/)) {
+        if (stream.eol()) { state.controlFlow = false; }
+        return "def";
+      }
+
+      //TODO: Include bash script sub-parser (CodeMirror supports that)
+      stream.next();
+      return null;
+    }
+  };
+});
+
+CodeMirror.defineMIME("text/x-rpm-spec", "rpm-spec");
+
+});

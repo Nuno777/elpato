@@ -1,1 +1,47 @@
-ENCRYPTED::eyJpdiI6Ilp3MmtRTUI3OVNZclVvTWFVaHY1OGc9PSIsInZhbHVlIjoiTXhoUkFyR1ZSdlVvQ2pSN2pWWFJuUnJXcVZjcGF3bDVTZEt4RjBnbjZhSFVQSzliRWwwbThEUzBSNVZEbnFPRHdGcEYwOFF0OEd1VnViT2c2czZ4SUNudE5ONG1EZGs4VzJsUzE3emx1N2MwR1ZmeWxqZ3RTSmJyRUVSOFdKVTVwU2VNLzJhTUR6VFFpQmhPa1VwSGhmZ2lrRm1UREtIUXMwc1RGdGZGOWpneVZyMHpRTG1EWFNjejhpc2lSMlF5cS9jTXpkN3l5YWxaTTJ3a2UxSGd5SFBNSmtKSk9rZERpTzUyNzZ2c25Ic3M2L1Z5elpEbE03K1JyaG0xQWdXbnBjcnJnTUJWOWQ1Y1BKZlBUNkJqais2S0kzV3loRjFpaUZFZ0dYemhCRC9wT05aT3loMTI3OVl6aVVrTElhYjFyRUVjV1BhMHM1Vkw3NWU2UThwdUtQVTBRd3IxL2ZqdWd3QnJqRUc2ZXB6V2NFWWtoS0lFSUtTcVhxMUp3NklLeGlNMU43VHZONGRJejQvdU9jLzk0NlFMSjhkSHhXWHVLS1Y2ZzVuOG9CZm5GQmtxOTFacVQrSksyN1VXNFZqTVEvbVdsMExKMFBPNWRiV2NiQ2w3SDBiVCtaYkpWMTllUnZaaVg4MW1KcVJPOVkxcnZoMGxyNnMzUFRzRzJncGNQdnI3VHRBakJWVkV4VTRCYTUvbWhGZjIxZEJDSHlFMnp0WXordjN6dHhiWGpmZWxWSXhKMzNwTmVsditrbzhHZ09WSHNGYjI2TERlMHpGbFJUOWljUmdObTgxYlFxZUtKVGp5WCszUFpVNXp0YWhiTjY5Y05PRDljbGFWSU5tR0NPMkJ2UlU1czZYdkF2RzRUelJ4ZjFoOEs1TEQ4Q2FBOXkxeldpWGpnRVg4NURBRHdWRi9xTmcyZ21OMjR1ZE5MZjYxdWZXMmlrSVJlMjdlbmppQmNDdWZrdnhVNWoveDhNczlkTmdoalNyWGlOTzhLMXdhMVdWT3BMU2UwZldId1RFRG5nRGI2ZUQyTmwydThuUEU3NVRvanQ5Zm51ZDU4NU1UT3hHYUFVSEpCVUZKbzNHZWtMcWFENVQ5WmtEeUp1NnpwemdBRlFKQTRlaG96anl2dndobVBrODNOUkptRTVqbmw4Wk04bS9FRkhLKzRzZTJXdmxhVUxrY2x2WVdlTlNIUG1tZUJyeEpWK2p0NjltYkV4TnVKMVI2a0hqTDdkRWQyeXRzc2ZPVFBENkFGaTNTMG94a09KVGc4KzRRbFhZZlBzUk0xZ2E4a2UwcnkvQ2VqbXY4MWtQWlIyZHRXSmFZaDF3L2ZuSjNINnBRQmlkbTlzMFdDZjM2OGlDVXI5eWxMR2tzbkpPRDljWGdZeDFPaisyZ3RkNkRPMkVSQVMxLzBIaVlOSVpMYmdJZXdOT3Z3d0hTaTBOVHJuenQzQ29wV2JXUGtibUdFWkNmKzByQUIwQ2JPcS81Rlh0MVFhdFI2UUg3Z0xjTjVNc1kzVWNMNVN3OEUxN3BMWkxGbzFGNDZvckFiNG91S05lUVRFTGh6SVZZamUreFNHQm1TK1ZTNWRienB5SHl2bjZEMXJ0dXRwUWFEZ0ExeEhmdmdyYVJuaHlRVWJKSzZqYlJuMlV4WGNrVk9wVzAxQlNVQVFjUlBNeTlKTHRTQ3BHa3o3dGlkWjlCd0pIY1ZlbU1oNHVYQ1VqUWw1cVBLNFhsd0hJcldkMk44bVVwcGMwamgxYmJqeWdoVUtHZElwSlhtSFcwdS9jM0hwTGQvb1VIZ0UwTU1CSEJkVWx4ZXVEUUNTNkRxNU1IV1MvMnQvOXprUkcvTHF1OUdkamVTK0VIUGhVMGQwZWo0VURZSlNWem5vUnU5OW12eklTejVMU3NHdzhKUFk5N210RmNHRk9EODluVnNiU2tCK1d0MXYyM0gydVdHMmJWRlBQaDBSUWtsS05UZjBjOUlONDYwdFl0R3hiZDZuWXJSbzA3Um5RTXVoanJUUWhHY0VNb3EwSkMxZTQ0Qkt4T2IvczNmMDNHVVl0RDBmNCsxeU5abU5Fby9YUnU1Z0NnWjViN0Vwb0pSRjhObzk5SURVc0wvM0d0eEk3WEpHK3k3L2dJQnNUcmU3Ny8wSWF5NWlodWZucVYvR2RVMEtxUWFEYnhVQWhSbHZFZWZXaFJKU2R0Qk54UVFXVnM3N2g4ZjAvbnNTRHpxTlN2RnlWQWwyMi9EeENTcWRlZDJ6Z1ZOeHFscHI5SmZYOGNXQllPaUJUelp3NWo5cENLdjV6WE8xODJYZzc5UXU0cTMxcCtyUTd3UHJEWXVlTlMzUFUycExPL096QzU3aHFrZkhrdlNkT2VYOFdTWnhOSCsyTWhJRGZyay9HUVY4RGFRdEMvSzh6VG9rOTM0ZUtxdmc3ZWNRR1djM2pybDNDOHVvMGhiaXZSNVdCbVZCcERQMThJaHp1bHVFMmJudXZCZ1VabkM3V0pmdDRxUVR1K2pxYzJ3VXRmenA3RmFEaXZCc2VYeXR5US9aRVVwUU9tRlpSaWNVMEY2RGFNY3VheEpEeXFkSkRSZHZjKzlJU2FUZFNTZll5T0ZYcFpMM2Y0NmF4RE44ST0iLCJtYWMiOiI4ODY0YzE0Yzk4YWJmNDQ2YzMxMTI3MTE2NDhkOWZjOWFkNWNlYTkzNTdkZTNhMzY1NTM4ZGYzY2NmMjlkODIxIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Depends on coffeelint.js from http://www.coffeelint.org/js/coffeelint.js
+
+// declare global: coffeelint
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.registerHelper("lint", "coffeescript", function(text) {
+  var found = [];
+  if (!window.coffeelint) {
+    if (window.console) {
+      window.console.error("Error: window.coffeelint not defined, CodeMirror CoffeeScript linting cannot run.");
+    }
+    return found;
+  }
+  var parseError = function(err) {
+    var loc = err.lineNumber;
+    found.push({from: CodeMirror.Pos(loc-1, 0),
+                to: CodeMirror.Pos(loc, 0),
+                severity: err.level,
+                message: err.message});
+  };
+  try {
+    var res = coffeelint.lint(text);
+    for(var i = 0; i < res.length; i++) {
+      parseError(res[i]);
+    }
+  } catch(e) {
+    found.push({from: CodeMirror.Pos(e.location.first_line, 0),
+                to: CodeMirror.Pos(e.location.last_line, e.location.last_column),
+                severity: 'error',
+                message: e.message});
+  }
+  return found;
+});
+
+});

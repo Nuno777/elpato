@@ -1,1 +1,74 @@
-ENCRYPTED::eyJpdiI6IlRHM3YwUVdkMXB1ajF0M3hEVElxb1E9PSIsInZhbHVlIjoiOGdjeENkdU9UcW5qSHkvdSt4dGdrak5SVnV6ajRJcTVHTC9GZ3BsODNtMzVFcTliSVJDUEpaeFJQMTZtQzFwVVZsdjBoaURzQk1sK1FGREJWeVRzRkpQaTBjakJwK3ZGclNFMWFmWjNlSm1LQnp2OGRibVk4RW1BVnJVWE1DR3FEQ2MyM3ZUeTNXekU4UytLd3BuYkxwSS95b1BUMUFtU3pVMCtwZ1NZWTF6UDAwa1lNeXM0YXNXbndKMytOdHRnSENHUngxRVVUNHR3Si83Z3dLYjVGNG0xOURVd3EvRjhpK2IzQXhzOU1xa1BFekdQYnByVkdUQmwza2sxY2RWRmV6eDZqbDd1TzM0eTZURG9UNkZxbENVVmlVODhkZm83TWxXNkJBTGc4SHpBRnBSUG9kUkg1ZUVBblJqdVFHT09ZRFFYdFdmc0NUblFKY3ZJOVYrODUxQitRT2N2VFJNbCtlWTZENzFSUDIwNWdjb05PZ0IzdjFKVnBQM3hQdUJkUkV3Ulk1TzlScWZyUTE5ZVkzQjJsZUZGOE1FeVpqR1FQbFVFWExtWkhxQm15UmFXMjBtRGcxQUZTcmVpTmU1OW5jMzBndTF1cjkzR0dvdkJyNTdLbnN1N0tMZWJFR2l6SEE3R2hlRUM0a0YwZ1BTZEFBL204ZUxiNXJMMm9RckEyNDlSOEMvNGpwaUwyQ1BYWVlEMXc3SVZ4aGp4S1FWVmNyYVZ3N2VCdnUyZHI2RHNndGRRdHd4clZ4aEZKY0pLMUtOaGY3L253YUlXTlBYR2RkL3YyZUxhWnFUcGlmNlpVME9ZYmpWZEMyQU0zZ0QxaEFoeWVsNW5sOXFjZi91dlZoMTA5VGx6T000WEFxZVBUOWpGcXBTQ0hnYlQyNi9QQVpRcWJMRjBUR0tHeGlxbjB1aFZxNU9YWlpBM0JQSXdKV05YZjZXT0RsR2tmNklyQXFYMDcrUEwxc2V5aENPSEdqZ082dnhWVDlqTTFGcXRZeWVBWFU1alF1bFk4TDJVQlZXMkVrcDkrQndZa0V4azZzc1VHUzNBakNrZFJ3VGlOTzk5Wk52cWdXc0ZOMGprcWs1Sm5uLzJXbXA1V2ZSSCtLbWZNakdMc0NUZmhIZHBLa1l6OVBBdkt0OURkcE5XaE1aUDRDNC8yL1ZWRjdpK1RTV0lLMzUzdzZnUUtqOFNxSWpCMm1aWXRmN1FaZVIrZVBITElpZVNITHdiQnhsMi9nK3VGUTdRTnFrcHhBRXNYS2xRcTJhVmxsSkM3Y3VLWWZaWDF5YnJRWW03Tk84NmJIMERVMG15aUVBRUdsd0ZYQzVsRVlQQ1BoemFkS0tIcGQ4Znp5RHVjV0YyS0Y3SEpDcnZMemNidmNIbGtaL3U4cXJwWnpwdExmYmdLdUxsaERFbElaSktQS1NnQUU2V1BYTFdBbkJGSmxiN1BaYzFOdFNyTkpQNGthZnJWOFpUUHlvR3IxRklSWXVqUlZEZ3dVOWJmT0lnOG5udk1qYU5DWERrL2RiSm1ZLzhBYnRVbEZ1UGNqcDczdHltcnc1ZEtvMTRKTCtXd0JFQ2VGOWo3YXROMGNBWU4xWnBlY3RGOVNhMVBQckh0QVpnOWl5M0doZUs0UElvTitpWld6K0JpbkFCK2QweG1Zd3lTcTFwdDczcUlwMnJyclZXTzU0M3JqeFRPWUVCOHA4TXU1QktMRG5BODZBNmUyb3VoK3FHTjU3aE1Jd0J1V094bGI5Q2JHVFFpS1o3U2pFa2E5VC9YZkE2cVJtRWRJZXM2TndCOWJuMndaTlN0Zis3d21jNWNoZmtYb3lxdFZlM3ZzdEZBUGhCSEVzdzR5SGpkM2lIRE5lWGs3MEFpejFWNEViN0FTL3pPbFF3VVpTbFhJbXllYmxTcVV6dXRERURNZHNITHphN05TV2NJM1EybEI1V2VMSFQxYVpPUUJIZDNtQmhPNXpkanAzTFNscnVFd1JYRHpKVlkzei8ydi9BaXJsdWdjcDhIazNZWXR2RXE2NWFvUzA1SUFUS1dIcElQUmlidjVnT3B4VVBSR0orQnYyZVJod09NRGl1eGkzMFZhSXBsbnJFNWIwc3BSOXFvWHNhWGZXVjBoNnowVm1DQkVjYjBpcmZwT2hXTFg0UFo0MXh5S203Y1hMM2xJOGZiV04wTlBpSXJkTjRMbjkvSFdqMmtWVEEwS3ZudTBiQWl0eHpncDlUdzJOSmc0TkhvcVd3K245R0M4Y2tyWW9tZ0xsQTBVM0tGV0VzclJDakk3WG1zSXVKWW5pSXowRlBxTUtrY0g0eGRUYWZIbmxWcHpqVkFabnZteFd0RmtqSGpWYlB4Nk9ONmFFcUdZdldnend6VTJNU01XdHM5VlloRDlHQWhYR2lSZXJ0eGIwYzRmbUpsV0FoN1hxaDg5azhrdkxIVFlKQjNJL1dreXo3YWt3djk5UzMxbkVZTDcxYVNwR2Uvc083YXZaVnJ0WEdDZzFiRnRkNjBGd0tTR1hKbitNNUM0VFBiK3NSNlBheGRSNFAzZ21MTWUwZWlkNFpDQmhCN2tHQUFCaEtQZjN2V0hwclNHcXJVUU1GODZJSzQ0TVFINzZscmJYY25rK2c5dUJkNXVwMTNaY0piR0NncngzbkYrU1JQbWROMzdyYkF0KzVGQ3RJSitxUUxWOGpIdjJUREFpWTBheDdFZzdKallFNWMvcG83VDFyQVRsdVVLZ3cyTUNpVUt6NTl6WmZ1OCtLTTVDOTVaSG11ZTEzbW5iQXA1TFNsRTRXQkZob3hJQUliU0dnWDJNaGprOC82NW53UUIzTUxQcmhQbDV5VFMzTWVBYnlQSmxlbmZiSUhuODI0YUx4akEzRHd1bzJrc25JODNZUVdTYklhYWZIYmY5d2xFcnVOcktQN1FqLyt0dDFXWUJJUmpCb3lZNkdBWEtuTzBCeDdnSGU3YmlVR1UxMFRNc2JScWdJd3JRakhCanVxOXV0UVYrbVUyYi9tNGNOeERmZUE5b2prc3N1V0grS01kWE5xZThyNHJqaXpMQ0NJL1JncWNYOS9BK3BVdHpSMTh4akF0WmlicU9SRUt5QTRrbHhvQXJUQ0oybmd5UDZTNFZmQVZ3NjlkcVdmV0RHUTRLWjBicHk1WFhWOHpZdjg4enNiaEtuZmtCNEQ1OGZFbTEvQ0JjaVJON0VCUlBmUy9tbU4yZHRmMHhIUDNPdndhNThtajR5aVU1MG5JSDFUNjFXc1VvRDg2Y2MwWDVraVg0N0FIY0JFMlkrOUxZRzZMd0xzemJqVjhsNFlaWktLbktQeXd6UUFZOUlvMG5JYllDNzM5dThHMnVCQXpJMHQ3dTBGSFNlR3g1dzRvYjhxeFVNMEszYkV2WkZxMHZKTzRkUjVvWnl1dml5QURtRXF1UVFwNjBIWms2bityVlNvMXBUbG1CR0xaRzkxTDdZaldRUUFKakZkZkdGTVhDYUFUZzR4ZTUrUnM3VUFuU0ZPdHVpWFBMakJHZG1NeVVnd2ZKa3pWc05JckZPdHlDMmxvMmRqbHBXUTdXSHlHVElQcEdnREM1ZmFvazBjK0JKTGdnZ1JYUXJodUNRa2tpdmNTYXdyRTVZZ3o0SWtReTlBZGxSaWNEbUtrRnpRWGEyTG9CNWtPVnRHZ0RVclQ5ZWZKYlFOYWo0eGRLLzlrTm9NYVZYMSsySTFuaEFrTlpUdWFyVFZ6dXUwdmZob29WSWhFU1cxWHZCK2V4dmJQUkxDVXdIM3BZeXJqSnMyOFp0aWkyb1p6N055RFJFdjBZMVdjdEFNeXIzc0JsSExwT0dZQjZ3SkVuOXQxUmxWcHNwdUJvNy9McHpvMHNxWWZXUWpuNm5ydjFUTnA4TmhxcXJDMGt6QXdlVUhmTGZnSGQ5UVBQRVd6WG9VNEJtQVV5NUVsRzloaUVkQUJVcEluQWNnNFJkeWhsVWtIeUNSUldjL05oR1hXK05LYkE5SEtzWDdkZnZSUWZSUVZLc3ozK2dwMlR2UXFTWjdUcDlac1BaQ1hoZldsSWhUZitkdEkwMWhxbkZTOXZMcVFJTlU5MmRxaTdDUVBKa1VrSmFFMWJkaVNGOGJkeWhSY3NHRGpVdWVKYklWMHhjazZudW90a0FPNnJkTlplU1NmQXpHRlc3eE9XZTdjQVdRTHlmVDBaNkxscGlORGl4M2VjUHJCM3BXN1FBd3lrMGNqMTV3OVBXNEFvVGhibDRpQmhlR2lKY0dIMzdFT21qTlZGbW5JT1NCOHhzNk9wSTlnQmFhb0hPTWQ0b1JQMHVCQUMzaUNtZFNrQUR3NVBPTFhCZzl5K1RKNVhndS8vM2ZFeUkrZVBvUDAzVzloVHRWTlAxT1MvSmIxaFJGK2YzYVFzdXJwM1FQa3JkdWwrNlVWRWJIZ2I3a3lKanEzV04rSm0vS2dFVWZybXFqUTBXSE1lQml4d01Xbm83NUFIRjZnTnVicTZDelNoR2VLZDRmMGVXYXIzSE5iMi92enFxOG9GT2d2TGlJMTJpeE0yMFpINFVDZFJsYXFzUEJ3S3JHMDdEWTdySHlEenRUZ3h3UkJONVl5SzREMFZ1eEwvcUhFNGU4bytVWWhVRkJuUWk2Mk0vaUtXMkc1UnVUT3RMaG13aWozMm94T0w0ZnIreGlPM3k3cXBReUF5RFlXakgzcUVpNmd6UitrejVHZHE0K3ZpeEJSNHNZbU50a21tck5DaXJ3WnZSbmJ4UHZBYWRyek9HTVcyRnFjNXZjUVBxdXFkdGp4ZjFGcjZGODBxM1BxTjUydHJlQkZXV0hGbGZrR3NGdmt4eEZ1ZzhXWEZMcHJhWS9DM1FjT3FaNDZPb0Z2YWZyYVJpQ0tGK3FnR1Y0RnVNN0RTcU5uUXB0UGtKUkVOU041b2RVQzJtNFhJT2pDTnhNK21UZStFT2taUm9YTENpYnVrY2p1RjByN0MyekxUYVZTYWlHanU3NkhtUWpBSHkxSjFIRUVaczVRY1RhempPdk1NYS9SQkxoK25IYWdSQjlYcGw2eEJIZlRqK09jYWFWV1VsK1Z1YnlNNGY4MmhVYUUwbVRsQXp0bEo4V0dCUWxjemNNMkQ1d2tiZ2dlNWIyYmQrbXNmcjdSQ1g4WUFZK244Z0JkM2FDYlVQVlNDbDYzWGJGOHJOclpGaGdsMy9mcjRLZU9SRit1aWZ1ZmI0S3ZFSTVCdXNpeGZSS0xIVXVGSEY1VUg5RGVyN1pTZGpzZlFxN3l4L3pCSUFkaTg9IiwibWFjIjoiZTIxN2NmMGM5ODFmZDNiZjI5NzI4OTNiMmFhZjMyMDkzMTM0OWQ4NjBlMjY1YmJiNjdkZTE5YWEzOWYzYTI5ZiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "powershell");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  function forEach(arr, f) { for (var i = 0; i < arr.length; i++) f(arr[i], i) }
+
+  MT('comment', '[number 1][comment # A]');
+  MT('comment_multiline', '[number 1][comment <#]',
+    '[comment ABC]',
+  '[comment #>][number 2]');
+
+  forEach([
+    '0', '1234',
+    '12kb', '12mb', '12Gb', '12Tb', '12PB', '12L', '12D', '12lkb', '12dtb',
+    '1.234', '1.234e56', '1.', '1.e2', '.2', '.2e34',
+    '1.2MB', '1.kb', '.1dTB', '1.e1gb', '.2', '.2e34',
+    '0x1', '0xabcdef', '0x3tb', '0xelmb'
+  ], function(number) {
+    MT("number_" + number, "[number " + number + "]");
+  });
+
+  MT('string_literal_escaping', "[string 'a''']");
+  MT('string_literal_variable', "[string 'a $x']");
+  MT('string_escaping_1', '[string "a `""]');
+  MT('string_escaping_2', '[string "a """]');
+  MT('string_variable_escaping', '[string "a `$x"]');
+  MT('string_variable', '[string "a ][variable-2 $x][string  b"]');
+  MT('string_variable_spaces', '[string "a ][variable-2 ${x y}][string  b"]');
+  MT('string_expression', '[string "a ][punctuation $(][variable-2 $x][operator +][number 3][punctuation )][string  b"]');
+  MT('string_expression_nested', '[string "A][punctuation $(][string "a][punctuation $(][string "w"][punctuation )][string b"][punctuation )][string B"]');
+
+  MT('string_heredoc', '[string @"]',
+    '[string abc]',
+  '[string "@]');
+  MT('string_heredoc_quotes', '[string @"]',
+    '[string abc "\']',
+  '[string "@]');
+  MT('string_heredoc_variable', '[string @"]',
+    '[string a ][variable-2 $x][string  b]',
+  '[string "@]');
+  MT('string_heredoc_nested_string', '[string @"]',
+    '[string a][punctuation $(][string "w"][punctuation )][string b]',
+  '[string "@]');
+  MT('string_heredoc_literal_quotes', "[string @']",
+    '[string abc "\']',
+  "[string '@]");
+
+  MT('array', "[punctuation @(][string 'a'][punctuation ,][string 'b'][punctuation )]");
+  MT('hash', "[punctuation @{][string 'key'][operator :][string 'value'][punctuation }]");
+
+  MT('variable', "[variable-2 $test]");
+  MT('variable_global',  "[variable-2 $global:test]");
+  MT('variable_spaces',  "[variable-2 ${test test}]");
+  MT('operator_splat',   "[variable-2 @x]");
+  MT('variable_builtin', "[builtin $ErrorActionPreference]");
+  MT('variable_builtin_symbols', "[builtin $$]");
+
+  MT('operator', "[operator +]");
+  MT('operator_unary', "[operator +][number 3]");
+  MT('operator_long', "[operator -match]");
+
+  forEach([
+    '(', ')', '[[', ']]', '{', '}', ',', '`', ';', '.'
+  ], function(punctuation) {
+    MT("punctuation_" + punctuation.replace(/^[\[\]]/,''), "[punctuation " + punctuation + "]");
+  });
+
+  MT('keyword', "[keyword if]");
+
+  MT('call_builtin', "[builtin Get-ChildItem]");
+})();

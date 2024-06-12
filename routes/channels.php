@@ -1,1 +1,18 @@
-ENCRYPTED::eyJpdiI6IlJVMHRqOWd4QTNyeUV5VitsVUk0U1E9PSIsInZhbHVlIjoiVUowSk91ZUxlSUVoV3hPalg0RnFOb3dkb3ZvZHpZaE5xNDlhbFNVd3E1ZEVZS2lXdTFEcCtTZWJ0MWxjQmRrMVVMZExiemFrT0d5MVdwdkFzenJDdmFiaEpLajk0cFJ3YU9LNTQxK2FRcjhPWUExM1Q1TVZXaGNDVzEvZ0FkV0M3SEdRVlk1Y0ZtYXdoYjM5dnhvUFptQXZFczdSS3pNMTJwaW9PUG9Ra0Z6MHZuTzJkZk1OeHREMmJOeGx5VUZMTGVmcjdhSkRoWWNTTkp1MTdnODJzK0FUQ3RnUUlCU3RLN1BLTHJOOUVZWXd6YjUyMitKVm9nNU0yaVRRclhzVWo4UENRTHlsKzBsS0tQT3F1ZFJZcjNrSys4VTBYVjl0aGNaKzhYNVZkcW9WNmxEZ2pIazBoY1FhUGk1OEQwWHVIMEV2ZjZ3UWtPdEFUb25udDVOdkRpZWZ6T0VRcjMvVHV6UXhRNFVPOGJKNmt6a2hFeDJIY0dZWEs5QjVtd0kyK2w2TDNXNERHSVVxWkViSkM0ekZBcmVuYVRBK212OWtPa1ZGb01MRkdrckQwNUhEM0lkNHRIb3hEeDhYb0d4Ukwvem1Ca1pGNmFneGVTdUlqOUk5M1MzeDBGZG5XR2JxY3d4MGVsanBLWWVqTjBHejRsaHdLSDBsNkJqRVIrTDBGMGxISnM4TnpkbHlPRTZ6VFRnRERRUlMva1JDNGVmc294eFNUS2dXYTFHTjVkVjhLbi9JNFJ2N2JpbVhFbE9NVmtWNWFPZ1pVWHoxVXM1THBiU1BwdFg4YTA5VDBPczFnSFEwTDlVQlV4TlF1OEY3MDZzZHhJa1l0NGlhUXpJNzRGK2RvWWl3T0xnb0M4RFZKMW9QZDdiVEhkR1pBM1Y5ZGIycXpZc05XakJPY25RUkxqOVBOZ3haU3AvdmJzSnRZOW8xcldzb2hPU2RkcmlSZEUxdnRrVmpqSk1EV0cxSGNPU2dKWlo4QnRZPSIsIm1hYyI6ImEzYjA5YzFhMDYxYmQ4MmVmNGMyMWMwNzlkNGQ0MDZlNGE1ZGFhZWU4ZmE3ZTU5Njk3MjcyMWE1NTQ3ZDQ2YmEiLCJ0YWciOiIifQ==
+<?php
+
+use Illuminate\Support\Facades\Broadcast;
+
+/*
+|--------------------------------------------------------------------------
+| Broadcast Channels
+|--------------------------------------------------------------------------
+|
+| Here you may register all of the event broadcasting channels that your
+| application supports. The given channel authorization callbacks are
+| used to check if an authenticated user can listen to the channel.
+|
+*/
+
+Broadcast::channel('App.Models.User.{id}', function ($user, $id) {
+    return (int) $user->id === (int) $id;
+});

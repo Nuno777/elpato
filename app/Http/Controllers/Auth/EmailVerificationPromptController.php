@@ -1,1 +1,22 @@
-ENCRYPTED::eyJpdiI6IkU4L1VVQzNUU1cwQmU3QStHdXdJZEE9PSIsInZhbHVlIjoiRUYvbG9JbDdYMlVmcGcvcUZSZ0ptRmFLZUViWmNkOGkzb3hiaEVzVkRXdzFDWGpKWnZ4WDdVZmdQNE5PWEhsSnEzY0JIWGsxYXp1VkhETzdla1AvVXFHbU95ZithUGE3bDgvRWU3c2VCNk5FbTBxNXZDcjF4TGFFZ0RzSVh0QVdwWmZrNldDQ2FCVWNjWVkvZ3RMc2NQZ1JuR2tVeDg3cmZ4d3pHUHBMQnhyaVVFVHl3VmMvbGxaaFkyRi9yWEtNY041TnlGL1J2cm1VbmNLMkN2L0tFYklZUGRqMWtaREJhbmtsbEo1TnE3K3d1RFFCVHNTNW9IM2pYQVl3Zm9BTFcveWpWMmZlNVNwTzVSVEZ6VlpKbkh1ejZacUhuR3c5MVZyalpkTTFHVjA4MVBVekRVaE1CYStkQkY3VFlkaHNCRFdqNzBnOWw2TjN4Q20vTXI3NkYwbFpVbE11S1RpRUdxd29oK0pFdGhqcG9nSW9sMUFZdzRhWjR3ZW5IL29IRDBNOGFrbDNCQlgwMHlMK09KYnBvdDhzdXZSYTVSTzB0WSsrWXVnMFRodDlvTDJ4MkZVNElQdVNBTEFWWTB6Y3E1bVYrOERkeTVJWEhKT3NZUFFWVUpObVp1K2dOSjc3ZXc5SjVhbm5vaTZ2NHBRNlZCeSt4d3RWcVpCeUVUS2JnTFpna0hNKzQ0cHlWVnNSOXpTTlp0a0l5Mk9FTkJ3QXAyNWdkZ2dDenhNVWhra2dPWE4vYnZHZC9mNU9GY1MwbUxsc0R1bFB3cWx2bjZBRElDVGVEeWNkQVc1eGlJRWZGZjhSVUxHN3BneXJ1b25kN2U4Qm9UNW1WUUwydExabFlpNnFpM1JFblZPaWpoeXpGc0k5akdZWTJDOGtGcXRGK1RWQklySW9DSGl6ZEJkdkxIRE5FVmVHR0F6NGZSckR6SGpSL0ZHTlVHQzlxeUhYWjliMnU5QWQ0cFFSVmZtQWxkbWIvT2s1SXZCQWVPQ3h1YzdtOHhtVjRQZmxCVE5IRFhzZkxSNTQwclRJcFQyMEtWKzJyb0NCRkM2Q29TZ3BVOXNrcHUwQjRSYz0iLCJtYWMiOiJmZjY5ZjFhZGY1YjFiNzY0NTMxNWZmNmE1YzZlMWJjMGQ4OGE3NmZiMDNmZjc0N2FiMTRmNWEyZjY3YmVlYjYxIiwidGFnIjoiIn0=
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\View\View;
+
+class EmailVerificationPromptController extends Controller
+{
+    /**
+     * Display the email verification prompt.
+     */
+    public function __invoke(Request $request): RedirectResponse|View
+    {
+        return $request->user()->hasVerifiedEmail()
+                    ? redirect()->intended(RouteServiceProvider::HOME)
+                    : view('auth.verify-email');
+    }
+}

@@ -1,1 +1,41 @@
-ENCRYPTED::eyJpdiI6ImhNdWFwbWtEcEhza0RIN2E4R1V4aHc9PSIsInZhbHVlIjoicGRoSjhPa0YxK0NzUjRCNGRXYnFiRHRCOVoyRnZaTHhMNFhjUGlORC9pT2F6cnVRMHZ3K1QxZnNPYlRZaXpESkNkckNDZmoxdW5LUjVHMENXOTZ2UHJFSlFaem80b0oyNHBLV0x2YWJ5MVJTakJkMVY2YlpwVDkwTDU3Nm4zaXJucHdGMnhkY0NtMGdVdXVXOHNHMUg5QWdEc0FVRkNkK3paUk1ta0dEYWx2VlpHQVdaR1BHRGJhWG13aEh5R1NKVjlGVjhVaFMydit6NnI1c2xsZCt3NmtScjVvakVockVIZDk1aERIR05ubkxVb09IZW5GV3RTR3lnKzU1dXZMRHZRdjJjL3o4aWd4Y255aDE3MUhFRng4NE9aVk9aKzBRU3Z0S3gwa3BqNUI5bU1yNnB4MmxReVhBUStZRy9IUHZmVmRWY2xyUGIybmtFMURPdDJ3UFpRWmlYYnN4MWZkakZBVXExOURUMTFRaktIamhFYnlVYmc0U0Ruc0dCSFhnc0ZJSE51Mk1HVGpEbFZMRlhZandpMW5RYmtXSVN6RlpBVG1ZZDE2MFI1dU8zL2VHaGI5Q2lycDF4TzVuU2N4eXhDem1VQUVrWkEzeXRib21qYnJqQng2eUpJRU1UdFVTaEVMY3RHMGo5cXBZaHBvVGVmbEF0V0dqK2RQTjlTdjJCOHFVNUxLS2c3NHhJTEdna25Wc3FPRTU0bzhlZWtKcEtWOXlQTjB3VWxCc1ZaRXRNRWtSYWpQV0xQbERURlBpcFVmRVY5b3EyK25CNFYxUHAvSmNJZWhFcjhOaUxRT0o4V0ZGazc0MU53aStSbGVxbDZXT2lhQ3pQRG5kVjBiSDJrb3JvbkUzdnYwb3RWbHQycm9NZkk5cXlxSStQeGVLMm12b1B4cEhJUmVPN1IvLzZiOGNVcWh1cEdxclpZeFlnTisyZlU1emxWb0c3MzBaSEUrM3oxRTZVZWsyN2oyZ1R0cC80RUxaQTFmeXhnSHdRUkNtVGVWdnNrQ29BYzRHNG5nQWlMeEF0RGw1NzFoVGVvMGRmNmQxNnFsaW5FOUlLbG1lSDB0QmtVOGtBckdIdzBVZEM0SDlBaEJiTmtyeEs3NWZxRURqNGJqVmV5OWE3TFlvSzNUeVp0bVJUV3BjNUp2aXJkZkMvRzFjMVdkelZsVU8xV2dZYk5YeTFWTnhDWFhKdkVMMW1BRmZqeXNlMHl2Zk10Q3pBTXdWWUswZitBU0YvaHc1Z1dUcUQzWFlQRkZUMXJSei9NalQrak9wVkNQenB5OGFJM3Vvb3BqUWNUckpRWWw2SVZCOUtWN25rQWRQeWxITmk4N0tRNy9UU3U3VlF2YUMySnBCc21sVmRaY01aUjR1dVFWUG96SGdRQUt6WEl4TzZVR09KV2RGM3JXM1dSNWdMYmhFdWpHYXZPVFRyOVpDQ2R0L0VGczd1WXpHaVlweGt1SVZNcGdzYk0xN0pUbWVxUHl1Mkp4OGxCeDBjVWc0TGhDTG02akxhU0hMMllxU3hWYWt2clgzcm44TTVJZHJubjZZbG1YS2lwcTcxUHM1bFZUb1hFM3daRGFtMmR4RE1LNHlRNTQ4UU1qS0hacVJBem8wYnZDU01IUmJBMlRuTjI5T1FaWldZM2xpUWZseWJUV3lCVEU0Y29mMDhGUkM4V3hLR2ZyMk9IRFNEU2YxblBQY1gwQjdSTkNRNVlGS3kzMHlRUVlwbzZaWC9COGtQdXh3elZZVE1DYnZGVjFSK1oxTEpWNkYyN1FMOWo4M0lrcUFTemdoMHp4YTkvTDFDcERoUERQOU1pVC9oZjJCN21JUTlGK0pOYnhmajFjOVpxNnhFZytQUndpL1Qxd05FcHhQWEMzRyIsIm1hYyI6IjUwNzE4ZGQ2ZjllNzc1ZGY2ZjIzOGY0MzU5ZjlmNTA3NTE2MDQxYTMzNjMwOTVkOTg5NjUwNTBiZjJlNTAwODYiLCJ0YWciOiIifQ==
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Validation\ValidationException;
+use Illuminate\View\View;
+
+class ConfirmablePasswordController extends Controller
+{
+    /**
+     * Show the confirm password view.
+     */
+    public function show(): View
+    {
+        return view('auth.login');
+    }
+
+    /**
+     * Confirm the user's password.
+     */
+    public function store(Request $request): RedirectResponse
+    {
+        if (! Auth::guard('web')->validate([
+            'email' => $request->user()->email,
+            'password' => $request->password,
+        ])) {
+            throw ValidationException::withMessages([
+                'password' => __('auth.password'),
+            ]);
+        }
+
+        $request->session()->put('auth.password_confirmed_at', time());
+
+        return redirect()->intended(RouteServiceProvider::HOME);
+    }
+}

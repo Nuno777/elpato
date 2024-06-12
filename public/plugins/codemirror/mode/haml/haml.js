@@ -1,1 +1,161 @@
-ENCRYPTED::eyJpdiI6Ijg0SjlILzY4L3RVSVNiN1p2RFNJSnc9PSIsInZhbHVlIjoiQlRnQnRmZThsaGt3TkpodnlzQnVaUGs0aG1obmNmbm45dXR5S01tbVFlZ1BhK0QzYmxnSGNFY2E4dkJOQ3ppNitiN3Z3djY4LzJMdjl1M2JSY3FJbGlCN2Nkam5zU2RIR1JRT3lKRzYzNXduU2ZsN1VwQjJrQ0lsbU9TQWtHTkJPMTFTS0JVQmliQ29XZDZGY1lvYU5XbmxUeTJhYi8zRXdHNFdKSUxycGFGTkRoMGpOOEt1VE9qTDBidXFDMUczR25OUGVkdEx4VWJXeEFid3g0UnYwU1VjZ3orL0ZnSFN0aTBvYzZRQnRKWU1qdHg5RzRIZFlHUzkzdmhkeDFaWDQva083UGs5V2dhRGJIaTUvelZncW1TNjNlNGpwaHk3bkRhSUJhd0JJSlQ3dGhvQ1Y5cjlSejlBWTlQL0pvVSswNk83QVZtQ21OTDNQQXRxdUo0YUQrTlRySDEvUytPYUZ6UlE0RmJQTVRVcXJkRWI5SGtJbHJpMFNOTElLTTl3dFB3N25iYU0vV0RZK1o4M2U2UkkxYysxU05sM3FwTEJ5dHR3QkR3U25QK0ttSnFGcENMQk1VQlltUzc5ekgvdUwvamNLNXQrRkdSdUcyMnJKczBqWFdkSDQ3d3hGQ0tTcHRZQUhQZk82YWRwSGRDcHYyQTFHcTJuL3Q2OEpKUlJHcG12bmkzemsxU0hhN2piWFY4N01oaHBCYWhFU2VhbkcwM0R2NFUvUktRWVNKSVZ0TjA2TndtNzdnb0tQVnVpc3lld3ppNjhBYW5JeXlwYW9MY0UxQXpFcEJCWVN1SW5rK0FTZXJ5MWs2YUdxRGVpSzlWOGloejFZb2ZuWm80U29rYkNjN0FBazlvOTdjRHM2VThKRlh5M05LTU1CbW1RUnhYYzlTd3greW53SnF6aXRsSDZERXVLNU5ETXpFUDdNYVFtUXJ0U3g5Vjc0T3VhWlYwczBheStvQ05hcGpZTzVHY2JyUnJ4cVQ3YWRjNUhhUzBXY2YxSCthZHFWNWhkYlpLRzRtZU84KzV0MTg5bk1VZ1N5UGtINlBsOTc4aGgxTXlYNDdkRStSbmtESWlpRERmRVF5Mmc2QVdHOGZBV0o2RzVIVDRzMWpHK2hRWHJoZk5uQnREL2FtREFhaVdIZklTK2ozVWpKS0lqUllZWCszUkc2QnpkNHlaNHQrTnZmSGl2dmVhaWlGV0Vtd25ENDl2anFNN0F4SkNXeG05U0p6eFkrTnV2dzhKeUtud25aSWk0ZlZXd20zaUlRcDZsY0VNbGd2WkVwa3pvblJRblJia3hyTHBVTkhtVFNMVTc5ZjdzSnllUWs3MWtkTmIwVFhRU1JkUUUwVlJkMjc2aWdLekFBWXZQNHlpZnRQN2k3VGNsaGNUTFYvVVFpRlhaZjNrTlZ5ZkdaWlBOMFpOUFJVZmFjdGI3bHFxRzRTMG9zRllFRTNFRXJJbjlhYTV5SmJ6eWxVZDA0aW5DaHFUZzI2a2hKdU1zWit3b2s2TDRBdWJKZnNwSzZqTU04djVmVXhaV2NUZU83VldlVlFUd2tGT3FKTmVFL3A5cmRwQ0YyaHRnWVAyeXorbWpuM1h2SXMxd0lvK3BWd1dBTUxSVHNubDM5R0EvTUxqT2Q5U0thd1NhQjR6REFHc3RyV25YN284UFBvVGdNRk5ZNU1XQmx2K2NnZ0piNUtPY2lPLzJwbHhhWjRLYXYvTjQ0Z0RrZFRqZ2EyNG5CNkJFOFpyVmRTbWpNTHAwaEtjZUIzNS9kSGpBcUgwY3hFZGowZUUxZGMwbDkzT2QxOFZIYlUyUlhTcC9BVlRWT3huTHFiVEZKQkhDQll1RWgzME14R2g3K3RmbUE0dDBnaTZXSkJRQmVEOHpxZFQwT21GeVBZVG1xL014QU1VaUdVL2x2djluK1dwemZGL2FZNXY3ZE1URVBZYkV2U05iNHdGN1l0cTFDdGk4QkF4RE5VMXVnb1haaTQ4MFoxQkxKK2p1THZtTWpLOU1ZZEhUdVBFanZxWkIyTlBuUi8raUllb2ptU2FtWnAyTmZNbmpOMmlqcXhaWEVMQkNaWkovNHFET3oveHJpNW93TDJzOWIvVEFHRnlYRHdvMGZjUklRbnB5L3c1WXZEaG5ZVWtjNEpGWUNtQnNPV3F2dnlYYy9paHo0Q3l1a21zRHFIbU9uYXY2NjdlUGRTMzlOZzVmTUE0VE9Eby9iZHV1WlJnNit6My8wWmtFQ2lhbUc5RUtVazgvaHpIeGk4bEVKUmRjNm5kUUJ1Si85QzFpNE5YSmRGMFVzN3FxRTBxVzJCTGhjNC9VMmUrMDZtcDcra25RdUMzV1IwT293dkg5RkU1WWoyUGc5WitDM2IyYlF6V3ducDUwNUdaekV0RWFjSmsxRmozNEovL0wycHRRNGxheHcrcGhwbmxud0g3SUVQSncxTEk4SlRtb2JSWGVFSEdGWG9CLzd4Q2Z1QytlcGFLbFlNdzlHYVFpdFE3VHRoQUtEMmptdVpyL0xlYnhOOUYvSC9zSmtUNVI2czlpc3VOM1R1SUFZNk9rcEVpTEN3Umc4Qkp1UmNRTXV3Z1FHcmtsdmEwdThoMkRPODNqS3BIbTJ6WnVyOE5pVjIzNE5PSWJENEIxY1g5bGJ1VE9zREk2VDBkWkhFZGdUVVZXUW5tRm9XYXM1MlVJdkJHVjZrT1RJMUg3dVZPaFppWC8xMXpVdUVpNnpqenA2VnpsSm9xTU1NdWtQd094S1RKMGlvT3ZwY3dDa2UxSUozVmx4bzdPY0xobXc0bzR5U2JLVTdnZG80RWFaWU5CcVNka1hUakZvUkErc000b1pLTDFYZ09Ka0RXTE9kZGQ2blJuRlgrSWp5WUJKY2g4aXdoU3YvQS8zbWtxM1Nvc0pQb2wzeFdHcTkyaFloV08wN1RYMmhpUG9obmNCYXV5TnhGanlQV3NGYTJ6NTRkRkpCdzQxSG5jemtlWDBWZUc3R1FBRnZFZGh2dHJRZXNES25CVk9Ec2QwSHNDTFVoNjAvUXFCR0kyUnZwZGR2YkV5MW9MSHNHQWM1QXc4Uit6dlRRVU5SYTFnNUdMSnkwU2NsZXZqOTRIMGhsenVtUmRxd2l4dHBZTnJZdCtIZHByWDU4Rm1xWHhQODU1bXk2RHBJYjhVNEU3VjdTeU5TcEM2eHQ4Rzl5cnZQSG1NSFFGakFqbHVoNC9vTWdlZ1k4VmVQcHJEV0F5SWpzQUN0ZzNBSkIwR2FHdzY5NitjSDhCN3RkWS9DQW85cmQ3THJFVHp1dmxhRkJDYmJNR2I1MXFSVHllSWR5S0FMQ09iT0dwVE92YSs2eGRBSlRYcXJGT3lQaDhELytqaDNyWjl2S1lsdVhrTUNJT0JWRm1EVkNTVEZtbEpza1NualdxaEE3cVZ3WGU1SjBXNWFXeWFqd01JSC9jN1YyUjFna2RDVlQvRkQ2Y3plWjRDZUpBY3BtS256SnhtU2s0UG9iZ3o2YldrcVB6bTNmL2cvc1d0c2pOVktORDlaYVBUdU9TZHc2czdJUVV5UVFEdjhaY0htNS8zdGFwR0k5cTVHdnBHQ1VzaWkzcTNYRHF6OEpMR0hxWGlLdTZ3c1VzUmIxcFZ4eWVQajRGbFU0aFFHS1BZWWk5TG1OSEo2LzlBdXB4c3ZycG41SHYwS3NVdVZiUlI0SHhVMjhtUVVIUmRhWTFnbS9qaFBXVk1JT0YvK21JOXRCZ21lci9uRVRzSmFQd1NjcDBPMmhvMWRUb1ptajllZWYyRGg4K2lSb2w3K3dSYW1DMnlhVUtCT282WG4vZkphaWxBWGlOVGJPWVRuK0tQY3lWN2hFQjJJeE1OT3FCM1hxdmdzVEt2SDJzU0FlekhpY3ZBRE9Xd2hYSEI0RXc5OVMvQnhhRmNmbFVpYmlKZVc1ZWpYYi9xSzZ6YnQrdFhnWDR2a2NCWlZTbW8zYXpBU0p4dmdXRFEyQXN2ckRLNkhWbEk4ZEFoemhLa3RaL3ZKM3VyaFlta2hFY2Z5M1VnZ28yclU4cWpUZVlHZCt3czV6bkp1aHorOU1yQzhZdzRZQ04wZEZydVVLdEw0dlk1SU1Ua3FtaFhFaU5LbmhTZHA4aUlsMGNVVDlMSk54SWprckg3eHFvK09CcnJwSmpHMEE0MlU2SGJnOEpqMWZKVnZPTXlwRHBGTHc5Vy80WXVNN21IeVlFVVI3bWNkUlM5NldTOFJzWnhHM3kvVzhpbWlYeUVEUnJST2xSRFp5M25CZ0RxYWtBV0llbHhhdlFRaitGZ2x5eTAzczhKTW1zd2dsS2xZL0orOHhtNXZ5OVJGT3d2QkNkMldhOE5hSTdlMkxSOUlWdHhIRjNXZG51eG8zSlk3OHNiY0l3UXBQTkZQL0Jxdlpoc2xyUW1BdjdOREZsMHdvOE1hN1lJZUd5dlo3dzRFeVYxRkpXekhETVAyWUNIK3RZV2pMOUpKZDJyWVRyRVAweExaYmlDVHZLWFNOeFhIMHBYVHVDVWF3MzVreXBFbXhJVGNMd3RNYTIrT3FsVkFPQlo2NmxmMlFGYlRNa0J1aE13czJTRmFvdXJmSDRqVnpaaHlTN0Q4M3VyREFONmlRT25hbnl6MXl0UGN3UjlIOXo1dkNHVHdjYTB4OHIxWEt1cWNhbjdJcE1NKy9QNEpXcTBsL1M5QitmQTY4aVM0cElQYzRlMHp6eXRFaDNweUFveWFsdXdXNUNsM1hqSDZFYmpLN05CMHU1dDcxalIzZVpMdk1FNXZkd21iaU44M0oyZlJ6YUZSaStVRlJrRURDTElJaWhnR3lQQ0hwUjdxUnBSa1JhZUZMenlnY3lFQUI0WGJKQXYvd0pVdjJIQ2dYQW8zczZGdDErRGtnWEpPN2cxM2pTU3htTlVIYVVmNVBRUk9uZnhjRGpIUmhycUx4K2ErWWtTQjVsUTZUNFovWWE3RkYrS2lVMEpTUXpOZmRnUWxxK2QzUEwydW5qNmhzbUlaa1FzNlljdnI1WHh3Vk9oV1ROSUp1UW1KdXVRc2RhcjVvTEdhMTF2OWw0bzAxYWQ4MnpXVW45Q1VXRStRRUhsVDhqWG5VdzRDc3FmRmgwOGNPSVFmRE9Ib3E3RFp5Y3U1VWJtYU9EWElVWXAzR1VWV05SbGZyM3lBVTNHdFVjN0lvSmU1anpGNnBDS1JQaDRLQWM1OUZaNzI4NkV2OFdsUFN1andNc2txQWdlNGFtWFhBbkpyTU5uRko0NnRFYVFaK0pZVEtRV0FiWW5xTUZNWUkwZWczUG1hL3FmblZJckJDN2x6anM0UHc4MXFCdjRiNkpoMWwzOXhIS1BrUUR0YWh0d1RsMXVscHZnNHBpT0p4ekFSc1VZam9vMTVTczNJZlFFZWZXNlZvUysvVmtYWjR5clFheGs2ZC9HMCtzVUFwbHBLdU5LMWNqWFF4U09RQVZsUzBBQlFybHMrUVBmRDZXdUVQT3RpV2V0NENIY2ZRVEZLclpXbUo1MjQrODVHQ1JTcUZJVjF0NjY2S2huQStsRUJXM0VSOVBtZGNqaVVJVVN5R2MrUzhqRkJjbDZhWmZrT0hHQ1R2YXhwVXl5cWJnZ2VncDlxMHI0bnpneGt2UkpXSGhENThJN2lVcEtMcGFSdUtaQWtYU1RMTXhnZy9wU0hVMEswbkFiWWdJQkt6eGJGY001c25Nb1N1cFpwREZDU3RpTHBaWDRVbGJhVkNZN0xZK0pBUC96VkZVUUlYRUI2MnZqYmFLMDIxTVkzQlprMS94b0N2RU8vUi81SU9vQk1qV0ZZdlJDZmp6Q2ptYks3Y0F4RFBVWWpMR0QxeFA1YTFsVXUxQ28vSGZEKzAwM2R2ei9kN3JYZnhDMVJxMU5aUDZoMlBDVFU2ODF1Mm8vZi9MMGpMZDAwTllMNFR0ZHNGOUcyK0JsN2R3RTh3bU02T1ZqTjV4c2REeGVwbGJYbGNTLzhsREJ3UHJPRTB0UmRXZTFWczluRzgwUkY3THNlWHJmKzlmK0s3d0V1Mk54VTdaL3FPOU50Y3lhM3RLR3h1cEZUZit4eU1UTTFnUTkvTldmdXJtWm8vNHFpbEVUL3MyaXh6N2JrVnNoTjNyeU51cjA1R2ZvckFkMjY3T2JXRzVpaVBqWXdscnhxMDh4U0lSdTZybDRTMnpnNWEvVjV0RmE2Z2wycjh2eFd3QmxHOEZ6MGJGSlh5Tkw3dkt2bEJ2b2lCN0MwV1hVZnJjeUNyOC8zVHJxNTV4RWF3eWh4RnV2YVphQ2pPbHNDWmwxSXRTZkhrK0R6ZVNJbkdkay94T29PbnE4RTV4eWNTQkJmWUtUUmNOWjFEMFBUNjhYWVdDNFI5MXNVOVFOZ1YvK2hmV2JHanNsUno2a3c0cWNYTHpPQVJsRjJGVlhUcUFQM0JmcEFPK2FKNGlMdlJham9JRFdvMElPZTFKQWVrTXYwUk1nRlEzdjNsaWVENk8wZGlVTDNZZjk0ZHQyWXlpSzZ2MWhrcVFNSGgvaU5CdmE4UDBQbkw2WVZkczB2bGZ6TUc4YlFYSUFWQndUMkplclVUNUs0dXU1bC9MZzRVeDJwSzJ1b0V5SWh3eWcrVFhnajFPYkd5SWdzYjVDaVI4S1FjbXBuTUtYMDlTbWsxNE4yNzYwNVpxUGlMSXVLU0lHSXNBcW9KZnJqZGVXeG5tSUp4WFpuYVZGVlB1aktSVDBmZjMyZm5UR1VHcU1iazRhNGFna0hqR0prS3pBUmlnMTZSalNMcjZWQWlMQ0YzRVZ5RVU2aHY3Y2xEU0MyK1NJdnZPUE83L0d5SkQxZTNNR3NMZlpudnl5Q1dnUkZGQjBzNlN4ZkY5ajdYV1lJbVZmUWtaZjZaaVFmUDdPb1BuZC9zWC9PcUd2bVhubVI2S015b3ltM2RuSG9rUjdYdlJlY0EvMTdMbjVFVE1hajQ5MDZmY0hoWkhXM0IrenNnSm1zdk9uMFQ5Z0d2VGVtWGQzOXFvRlE4WXlJUWdmUDZzVHZmbEd2QVd6VDR0aTcyN1NUM3NQK2VORURWT3cvaHlZUWU5M25uUGtOcHRyT1JXRVlsT3hXQjlWNFVBbEZIQWFPOGY3N2x1OUMxVGxDd0tMWTdnSnExV2wvNUJIckowU3FXM3FrcXl1THp1NUE3bmdiYUtGQlNKMCszcTNIZEZUL01PbXRUT2hZYXR2eHA3TGNwS29PUkh1OUwzTVJwNlFnTWRDdFN5c2pzTjg2TXYvYk0ybkk0NWJIRTZzYkcvdmYrTjRwMUcwU0g4V3ZuN0VFYldhWEhJV1B1cStHanZKU3hhbUFGRkJReVR2TEt0alQxT1VLc1VEd1pCT0FpcGVTQ2ZmU1dmb1ZFUDRhbkdIVi9SRWlmc0xMZllSbTdyODQvbFdFamJuaXlXUXB5UWF5SXBzMjdZM3dOTHMzU09qQWI1TitORmZVVnZzTEdZNktIM21Xb0NvbytUdVhQTHZlR0ZUSDYzOG9wRWRyWlBDc2RwUUtEZTZnQ3oyVjBOc2NBamZTZDE1UXhlMWFNNDBHeWtEZDlFd0xoWmxwcG80V0pTUkFBam94K3pWVEhzOE5IUThITkNseTFXUXR6NE1LeDlzSUdjMTIzTFQ1UXFJK3NJRm5DNngwSUQvWWtKS2xNNkRmd2F0ZnNkdGFvbXBBL0xrSlN4cE5ubzVOZW85eTZYSGxKckpqV2g0UW9PVUJYVzBnWDB4Nkl3d3U4dDgydXQ1Q0EvNytNVldMSllIZ1h4UDdSNXU2Y1VSSzdwMThyWThHaVgvdFFyaHY3V1plSnZUUFhpTjhHZ09VMDhOcmt6ZkVWZzNtR0VucXU5S1hoS3hUQTFOcktMem9aK0JVeXc3eW1xQ3VkcE5zOGFoVFBXa2V2WE85cVdZZTVFeWFUQTNCbm5DUVhubDRmeHo0Lzg4NXRRMklJZHZCZE5rM2NlVDIxV2VUejUyYVpOSWdhSFo4dVRwclBTUnNNWW1Wcm5rSmVBeFhYNGFPNXVxbXBKdFZuOXFGTnJrS0Mra1dUWUJRVzZONlN3RzFuWDJocHY3ZkN6c21HMUJPZnU1aSsvajhMOFhpWmllUDdVenNOUVpRVCtrNk5iSTJlSXE3U2JDa1dXKy94VzI2OG1mejQxWTJIL2pJSWUrdGFINjc1MGJaTTZUVGJwcmVPalZadUdMRTZySzhsTGpVUHUyOWd4YXJzRGc3bjBVaTFrV0h4Qzl4aHZyRXVmYVR1MDhmRjhPQk1aRlFlMjZaU2wvNzBVUmpwZlVveDR0eHhEZmVTYkxYNUpGZTh4Ynl2czNSQTFXYm5aejVpWE56eVZtTG1ralRiWXlQZXVLbUI3a3dtd2JZNjVDdHptdloyVE4vSUJvQmUyTFJET2RtS3Y1ZWk0ejN3Q0NxVi8vaWJ5RU5RdGNJZzcrNUNnbDIrT2FGVFB6NTZod2FxYStjOVNESldPWDUzQ2lnQU5RMm5hNUdjclhnTDE0L3hUZ1NydHdGUmtVUTlXYkVMb05nZHFKNHpienIzWllIUDUvNW14eEdFdmFNcDZrUDZJakw2U0dPQ1NDQkh5ajRuOXZHZGxON2g5WDh5ZVp3bjlFcW96S3hJWkIxR0RqdGlVRHI1T05HenhmMGdSam1XUVRVU2RUbnlRbW9ZVUg0VVVkRHlYZlNMWmhVRjBrMmJOOTlRSDBiNnJvWXdKOUk0cUpYNnlZT3llVnA2Zk14VXBBUWRsWWRWWE82MUg4OGdONFAyWjRuTUVuWHpydVZJZUY4M3orWUxBN00wV1pCK3kvUlRjM29kYVpaUHdRQnRnQUVVSFhXaExtNmI5dW9nTCttWWNKS3Q4N0Q5bW9kOU1iVGM3WHpZUktTbldKOXhFV2hWczJLM3RJZStGaFFBZTRIT1dyQXQ4UUVtRlVadWRnU01xSVlqK0hmb29tRjFld3hkN1g1dlhIT1ZBUW5GcDVCb2ZXSDlTM1ZsWUQ3RjNJM0NvK3NiQzNwMzNFeU5ObjRSODBNa284bWh5SVFQNmR6SWZyVXlHYmxIMW55c0dMUlRIZnp0cnc1UTFDZW5uKytyK1hWVE94cU5SR0RNQ0JteVp6dVowVXgraXBEb0xyRys5ZzVIRDl4REpSZC83RERoS2dDVGdrQWdmcFpVUXFGbUd4STNyQUhvL2dKb25YODRMOUl1YnhpZWYzMUZIVSt2MVExSENVVCtvTkg5WFlTandPMnhnbXFkTEVxQUcyUHNWc1pqQVR5NWhTZFFIR3pZampBUjNwdTF4dDk4QXZObllDNDRBZTRlbjNsUmxpZ0M4alIrMy9GOXRYNVpqdUJDbEdlY0ZLMzBPM010N0pMcVN2TFhmVGVtOC9sWXA2S1pTTFJhUU0zSG00T2hzbDRVUVpESWNwR2p4NXpmRk1vZitTRU9EWDVvdTFxc2Y0cktSTEhpcDVPZ05ueTNRQ0RmbDhGU2s2SWRkdVRMV3hwb3VGdXc1OWp1ei9kNHRYN2NUMytycS8zZm8rMzIybXRWa3BXaz0iLCJtYWMiOiI3MmZiYzgyMjI5Yjc0YjcyYzdlODAyZmQxMWM1ZmZmODlkNzJiNjE1Mzg5ZGUzMjc5OGVlMGVkYzIzYjZjZWI0IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../htmlmixed/htmlmixed"), require("../ruby/ruby"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../htmlmixed/htmlmixed", "../ruby/ruby"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+  // full haml mode. This handled embedded ruby and html fragments too
+  CodeMirror.defineMode("haml", function(config) {
+    var htmlMode = CodeMirror.getMode(config, {name: "htmlmixed"});
+    var rubyMode = CodeMirror.getMode(config, "ruby");
+
+    function rubyInQuote(endQuote) {
+      return function(stream, state) {
+        var ch = stream.peek();
+        if (ch == endQuote && state.rubyState.tokenize.length == 1) {
+          // step out of ruby context as it seems to complete processing all the braces
+          stream.next();
+          state.tokenize = html;
+          return "closeAttributeTag";
+        } else {
+          return ruby(stream, state);
+        }
+      };
+    }
+
+    function ruby(stream, state) {
+      if (stream.match("-#")) {
+        stream.skipToEnd();
+        return "comment";
+      }
+      return rubyMode.token(stream, state.rubyState);
+    }
+
+    function html(stream, state) {
+      var ch = stream.peek();
+
+      // handle haml declarations. All declarations that cant be handled here
+      // will be passed to html mode
+      if (state.previousToken.style == "comment" ) {
+        if (state.indented > state.previousToken.indented) {
+          stream.skipToEnd();
+          return "commentLine";
+        }
+      }
+
+      if (state.startOfLine) {
+        if (ch == "!" && stream.match("!!")) {
+          stream.skipToEnd();
+          return "tag";
+        } else if (stream.match(/^%[\w:#\.]+=/)) {
+          state.tokenize = ruby;
+          return "hamlTag";
+        } else if (stream.match(/^%[\w:]+/)) {
+          return "hamlTag";
+        } else if (ch == "/" ) {
+          stream.skipToEnd();
+          return "comment";
+        }
+      }
+
+      if (state.startOfLine || state.previousToken.style == "hamlTag") {
+        if ( ch == "#" || ch == ".") {
+          stream.match(/[\w-#\.]*/);
+          return "hamlAttribute";
+        }
+      }
+
+      // donot handle --> as valid ruby, make it HTML close comment instead
+      if (state.startOfLine && !stream.match("-->", false) && (ch == "=" || ch == "-" )) {
+        state.tokenize = ruby;
+        return state.tokenize(stream, state);
+      }
+
+      if (state.previousToken.style == "hamlTag" ||
+          state.previousToken.style == "closeAttributeTag" ||
+          state.previousToken.style == "hamlAttribute") {
+        if (ch == "(") {
+          state.tokenize = rubyInQuote(")");
+          return state.tokenize(stream, state);
+        } else if (ch == "{") {
+          if (!stream.match(/^\{%.*/)) {
+            state.tokenize = rubyInQuote("}");
+            return state.tokenize(stream, state);
+          }
+        }
+      }
+
+      return htmlMode.token(stream, state.htmlState);
+    }
+
+    return {
+      // default to html mode
+      startState: function() {
+        var htmlState = CodeMirror.startState(htmlMode);
+        var rubyState = CodeMirror.startState(rubyMode);
+        return {
+          htmlState: htmlState,
+          rubyState: rubyState,
+          indented: 0,
+          previousToken: { style: null, indented: 0},
+          tokenize: html
+        };
+      },
+
+      copyState: function(state) {
+        return {
+          htmlState : CodeMirror.copyState(htmlMode, state.htmlState),
+          rubyState: CodeMirror.copyState(rubyMode, state.rubyState),
+          indented: state.indented,
+          previousToken: state.previousToken,
+          tokenize: state.tokenize
+        };
+      },
+
+      token: function(stream, state) {
+        if (stream.sol()) {
+          state.indented = stream.indentation();
+          state.startOfLine = true;
+        }
+        if (stream.eatSpace()) return null;
+        var style = state.tokenize(stream, state);
+        state.startOfLine = false;
+        // dont record comment line as we only want to measure comment line with
+        // the opening comment block
+        if (style && style != "commentLine") {
+          state.previousToken = { style: style, indented: state.indented };
+        }
+        // if current state is ruby and the previous token is not `,` reset the
+        // tokenize to html
+        if (stream.eol() && state.tokenize == ruby) {
+          stream.backUp(1);
+          var ch = stream.peek();
+          stream.next();
+          if (ch && ch != ",") {
+            state.tokenize = html;
+          }
+        }
+        // reprocess some of the specific style tag when finish setting previousToken
+        if (style == "hamlTag") {
+          style = "tag";
+        } else if (style == "commentLine") {
+          style = "comment";
+        } else if (style == "hamlAttribute") {
+          style = "attribute";
+        } else if (style == "closeAttributeTag") {
+          style = null;
+        }
+        return style;
+      }
+    };
+  }, "htmlmixed", "ruby");
+
+  CodeMirror.defineMIME("text/x-haml", "haml");
+});

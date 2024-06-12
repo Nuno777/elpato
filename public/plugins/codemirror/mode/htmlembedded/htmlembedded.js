@@ -1,1 +1,37 @@
-ENCRYPTED::eyJpdiI6InhpQXl5Y0VkSkptU1FnRjdxSlZGNVE9PSIsInZhbHVlIjoiMDExTkhkejNRei9wQjNDejZmNW5VUzVGVlFuWC9CR092T0owT0h3UDhITGJ3WTlkUHBDM09rYW5NYmV3YjF6Y1Y3WHJpUW5zd1FZUWxHM1dtNXk1SVdnWjg5MlBxRWZqdUNsNHNKdHlyMXlON1NsTFZuWG9WKzh4UzRydnpWYkNoaE5qNXhwSEtzRTAwRG92aVNMaGZlR1dUTnFHeHcxQ2RoZEJyRzJnTzh6LzNYcWtjRHRWMm0yT0hSeFBLTk1JWXgwMStjaWpqYm56MjFZUExFbUI0SGZ5SjhkT3hiemxxMis4dEUvV0NBL0FGcDVsZlZMcm8zQnZUZ1prTm4ybVhNZnJWcWNGTm90YmpmS0JlRkM5MkgwUDFacmdxa3Q1N0VvTTFxRkVCK0RHWFhwbmx4UU05NGdMcEp5NDlBaFp5ejlDK0hVVW84OWxEb2xkV3BKYmlZSG9LTG1qNTFUQVVxcGVKUGJSTWpNakpIT2U2Nm9BUGpGOHEwb0tlSkN1NlBVOXdLd2kzQVFSVVY2Y1MzR2NjOGNmZ1QyRE5SWTlKNjY1ZWMybk5MRFRwWXpSakhVSUNVRmM0aDNlNFZIbEZ1Yy9PN3BnYVd5RVM1SUhjYzl2UHJGK05ZQWpmN0I1QlRORW1PTmVCU1BCY3Q5WVVielVYa2tBSDBlamxqQm1nR3hMcVowdWYzcEZ5a2pHenl2eHZJUzNsMGk2QXUvZlZpMVU5NjI2ZVV5ZkRuNHRjWFlBU3FMNEVwUWpOWUU2S2FuNllFN2VMOXRvVnQrSldGZWJ4Tmp4eUh5LzNaQ24ySFpqYmtCYmU1RmVGTTV1VUJTVEluOU8zVnBTUjdPUGl4MlFSMEE4VUswZVgvd2lnSjVrTCtVbEdZS1dKaUZLSlFWRnU0SkhQTFRwbHFuY0xOVVE1SXppdnMvc01yaitQL0p0YzIvM1lSOGdJVkQ1c3lwZFhveE9jNmJTZnlzMW9Xc084Sm1YYlhyaU0yUTFpaDI1UUNiM2F4Yjd5amhHeCswcUluY1FGaVphdDVHb2tKSGV1RmViSThrYkJwMTJ6VUFDT2IvZ0p0K3lIc2pBSTZNR01pV0tJNWJVN1gwb2JsYTBrY1BHVkdRaUJZQTEzdU5TV1lXaHd3OEYzbzV3UTNqRytteWNqSDJsUzFWMnRjMjExVWZkeTMwb2dCZ21tdWdFZEFCMDFxanRMNHNKcklTSDZHOVZYUlgvR1FzN1diYkx4SllzcURtdlpvV1FnZVlqUnM2S1diME9OeUxySnl1R3NMWURNOG1OYXFTMDlwTmREUVZPQzBBWGZCczR1NVp6dXcvT1N4Kzc1OFZITU01dzBLalZrcEZocGp1Ykg1USt0VEUrL1hENlYxenZKUm9oTnRkWE9YelZ6djJTNWY4VkV6ZVFyNzZxR0htYW82N0RkOGJFY3dVUzU1SlhnOEhVNXNTbExiQllRZlJXSWxKdndabUlWN3BCLzdYcnQxaUF1bnA3R0VzOE5lbHorU0VSNUZFbHNSLytpbW5WNHlaU0hBRXBRWEtqWWR0L2VKV1VMVUM5L2YvSTkzamtwY0F3Z1lYTkZUSm93UHFTOXZKZnBjWElLSEpRd1VSU25UNkdnNzJpNDVxWHJmRGFmZFUzZkxKRWNKU1g0Q3lDejkzWklkYXFJUU9iZzhqZnphbDlIMGo5UUhkRm9GQmFxZkg0blhWSEpvS1g0RUNRVithbzF0N3hERGNuVmFkbFN4ZUIyc2JmU0UrSXRHY1dWSUdUU3ZjNHlmdm00eTlkWEM2dUFzK2lta1ZGa0psV0l0bFd0RjdQT2NaTXA5cUd3dTZhMWVWZ0N0R3JLVzlyRVo1Tmo5SWV4UW9YL1hwNVExQjdjUmQxMzlXUVdpS0d1cHZuQWVoTDZTRzV4VDlpczJsclB2MXRDbklHTkJ1WEh0Q0RTdlpQOXV6bWhkK1N3eU9KWDMxS011T3cyTHdrSVh4QTlaZVNTOTE4dXE5cnBRNUZCSXM3RzdZSFNIT0NaZFRvdHZwR2NZSVZYTm5aTkR4ZDVlaWhZUGFuMm94TlpodHVDeHVpRkRqRURJQ3ZlS3AySk5HNnZNZE8vam5KL2FSdHpQakIrMTVqazRtakdlYmg4aTRkd2ZvVUJldExsM3lJbTNwaFJ6OXREaVNnUWRHWVVZZVIwd0VJbXdLdWR1OTlWZWU1RHlTZHRrMDVLbklWQkRkSEx0Tzdld1QwTUxKSEdIaGdPYW54WmpEU1VremxRQnJyZnBtSVpkd05nRFc2WXlyTldmRW9YcEp0cEZuYmtUNnVBSGU3ek5GUThyQVhNUkM1TmRqa3FWVEJYV0FRODJyQkFqajNWYWFiUEZhanpJRGxoa0huQ1U5akUxTjVCNUkzWkExWjFmUHJUaXVTV2pqZ3VHZDdMeFF3ckVsT3pUZWVuYXgxd0RBTG01TUV0ZUVGMXJyaFpWM2pwY0FLcy8rWnpBaUE2a0MxMmpVemFVQ3NPWVdIUkRiQlZRNlFMaS9CYnZ5QXp4SVVrczVBOFZMNUxmcTRuZUtweVo2a2ZsQW1TMldxM0JDNkM4Qk5lOVdlakJrNktrWDVYVWthdGRWNHUySmV6a0ZMSVZPWm5vQkdCQ3VXTFRtM1M1OFJoNXM5SzdPTU9LRjRudDJJTVo2aFhzZnVjdVAyY1loREZKb2RsK0hSVWdWakxqRkRXSzNhS08yWkxXVVBVckxXYVE1VEdXb25keVl3ZUZnaGpFc2ZNLytna1R5VzcrMWdyQXB0M3pmMVFPcUgvTkFobWNZSXZaOFZkNHZDVlZMVDkxNTlMclhWQ3hrMkRGNExhaG5vSVRrRzdDYWRaRmZYVndIWjJERkZVUjVWcWlCQWVqazJYV3I2WG1mSUNMSkxqNmUrMVlEVVM2OGR3c3VJM1RWTzVKZjg1aTZzNWNWZWJNWVBXVEcvclZpcFpWTUZ0S3l5N1BrLzI4MVJiazc5NTQxalhUNlZPY2tSKy81b0lmMURoeDFSNDFGbCt5U2ZuOUJaVE9JUVE2K2VRTSs5Z1JQc2pGQjhCb1AyIiwibWFjIjoiZDNlN2M0ZGZlMzY4Y2E4NTEyZjI0NTMzZGRjYzkzNWYwOWQ2MTJiNGY0Nzg2OTAzMzFlNzAxNTc1Mjg3N2E2YiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../htmlmixed/htmlmixed"),
+        require("../../addon/mode/multiplex"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../htmlmixed/htmlmixed",
+            "../../addon/mode/multiplex"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineMode("htmlembedded", function(config, parserConfig) {
+    var closeComment = parserConfig.closeComment || "--%>"
+    return CodeMirror.multiplexingMode(CodeMirror.getMode(config, "htmlmixed"), {
+      open: parserConfig.openComment || "<%--",
+      close: closeComment,
+      delimStyle: "comment",
+      mode: {token: function(stream) {
+        stream.skipTo(closeComment) || stream.skipToEnd()
+        return "comment"
+      }}
+    }, {
+      open: parserConfig.open || parserConfig.scriptStartRegex || "<%",
+      close: parserConfig.close || parserConfig.scriptEndRegex || "%>",
+      mode: CodeMirror.getMode(config, parserConfig.scriptingModeSpec)
+    });
+  }, "htmlmixed");
+
+  CodeMirror.defineMIME("application/x-ejs", {name: "htmlembedded", scriptingModeSpec:"javascript"});
+  CodeMirror.defineMIME("application/x-aspx", {name: "htmlembedded", scriptingModeSpec:"text/x-csharp"});
+  CodeMirror.defineMIME("application/x-jsp", {name: "htmlembedded", scriptingModeSpec:"text/x-java"});
+  CodeMirror.defineMIME("application/x-erb", {name: "htmlembedded", scriptingModeSpec:"ruby"});
+});

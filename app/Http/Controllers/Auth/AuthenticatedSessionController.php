@@ -1,1 +1,48 @@
-ENCRYPTED::eyJpdiI6IjEvVyt6S3I2QjNUTGVOc0F6V0hrYWc9PSIsInZhbHVlIjoiMHgrSUNNUnZ6a28rY3FqVkdvL2xEcFJCa21qbnJpNTF6cjFXOXZEd0NiUVN2VnFoV2dxWk8vNmI4MnpGN2wxbHNob1BSd2s5Ni85UkpTRFlkb013M3YwZi9ibjlXNFN1ZDdoRHNta295QzVmbHdLaE14dzl5S1ZSYUxkMDdJUTgxUThtdFZ1MXZRYUcybDBSM3U5RjZScGRzbCsyK1JZZDZVWnMwVEhEMkpteXNhcW1JNXBXWWJlS211WFlvbDcvT0RML0VmZTZHZjVtTVh5K3Q3QW13a1pPMkFHMmNYelJMRVFOM3R0ZjFwUUh3VmFkS1YzaDErSlByenhjcWNiUTJ1UlZIdzkrcFFYMjZ0YkFhR1RjWlZUdkRXTXduY3FPQllYNHg0aEpEanZrbVVQaWg5ZzJ1VFE2UzJYdDZaY3ZoTkNMMWNXbklNMG9EQktpU3RrSG5pOVJCZ0NNVVVmL3crZlNEaUtWRDkycDg3bitZTGE0VUoweGxESWs2aUN6RXg2RUJieW1PVERvTTRLYlYxR2ovamYwQ0NoTXpQeEljZWRZQ0ZKbFhlL3dlRUVJVElYdldzanRBaVZBbk81eW5iMXNJZ0dVMUV5dzI0Qk1ZRXdFanJOVTc2SklUVHB1d1psTGYyQ2xLanA5WGtoTUJmNjNwNlJac2gyc3Bjak5aR0FrL0kvWVRacDVmZTFOQnhFWVpFTm93d1lzZlh4TzJ1dk1zN0FXTkY1VW0xNStBcXN5K0EzYkJlbURiYjRYZTN3ZWpIdGVPTXg2NTFJVDhIMkVRTU85S2RoOGl3OHBaN1hvdXROTEtPK045QUY5Rm5YVnJycjc3c1BUeFFWM3NBMkJDMm9jbmhaVlI3Qno5dFlJck5rU1g0dmkvWi9HRW9WYnZud2UxQkZnMDYvM09Sa250MUF1VUNHUWNRK2N4aXVEVHQ0RHdQS0o3VENTUGFDcWZTb2NNSFUramE1NTNQaWx5dU9zRE1CSmxqVEhZd3VTdERGcWV6YTNMMVg0cGpMTjFkdlNXOFJPMVJkNXk1cU9JWGlBVWRZeHFkZGdpaGRJTkVXWEV4OURHWXkzaVE5MkxHeERhQnVISjlRbVBZWkpUbUVuMEdjM0JtTFQzc0JxVkU4WEFGL253bTdJT1YzenRpczJNTEdSb1JUNmEySEJHcTFCSDhYTmRmckNIeXJ6NkpXSWUzSTB6MVg1VlhBUXgyTm5ZakhNbGRZVGdHbXpoNlUwTitRTXhlVlY0c2NMNTQ4WS9DSkI3YS9JY3NuZjA5ZnAxbTJnYVl3UHpmQ0dabmNKVXhiOVBYcWFYM0kyU3RJeXc4OU10Y3l2bytlNjRBYUdGdlhSRm5VWnhxR0V3NzhFTlYwNlp2RzRsY2h2QmdXSmVzMmx0Z0ZjWUtmUnRjOUdxOXBsWU9UbnV2c0tISTZDQjNGY0ZiU0xONWNOaDBDNlJUcGRpNWwwSm91L0EwKzIrM3dhY3pFOVNRV2x4SXZYN0VkTWI5K3E5S1YwcXJ0dU5hWlB6K3BTa1N4OW85bk11cmlxS3BjdWR5YW5jOXZkWkFLQTBMcUVyTHdqMjBGZVozSmdxc0xZRHBObTNsaTdKZXB0Y0Zsb21mdUwwT2FOemFOVHJWY1hraFk0UkdlNVdHOC9UTlQwbVJvenQ5V3hYKzdzVHFTSnRWTTBPNmVZc3RjY3dUVCt0eURUNlpnZ1RyQ0Y3QlMzK0grWXhIWEM4VkR5STFKUjZwRFoyWTFreEJUZEF0UkwwcXlvMWVXNXlUeW5MUGhLeTdZK1NvRzRMdXlMdDBmbWlrSlN4RmV6VDVxL0xaR0VrZU40K0cveVVLbjBxWXJuSlJXSFgxbldRU1c4c0plZElwNVhhTWJ3anZIL3AzU2VWWURhbEE9PSIsIm1hYyI6IjI4NTkzZDUwNTdiMTk4Nzc3Y2NiMzY1Y2NmMDhkM2ZhODQwMmVjNTVjNzU4MzdiNGE1YmY4ZDQyYjZmZDc2NzMiLCJ0YWciOiIifQ==
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Http\Requests\Auth\LoginRequest;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\View\View;
+
+class AuthenticatedSessionController extends Controller
+{
+    /**
+     * Display the login view.
+     */
+    public function create(): View
+    {
+        return view('auth.login');
+    }
+
+    /**
+     * Handle an incoming authentication request.
+     */
+    public function store(LoginRequest $request): RedirectResponse
+    {
+        $request->authenticate();
+
+        $request->session()->regenerate();
+
+        return redirect()->intended(RouteServiceProvider::HOME);
+    }
+
+    /**
+     * Destroy an authenticated session.
+     */
+    public function destroy(Request $request): RedirectResponse
+    {
+        Auth::guard('web')->logout();
+
+        $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
+
+        return redirect('/');
+    }
+}

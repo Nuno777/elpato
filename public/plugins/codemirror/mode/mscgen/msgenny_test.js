@@ -1,1 +1,76 @@
-ENCRYPTED::eyJpdiI6InVVWFBtTmpJM3RyN1VMT0xBdmhYeUE9PSIsInZhbHVlIjoiYmU5bUx5U1prdGdFNGR1cnN3STlxL1hHUVhvNW9iekcveWlYa2lKTDRlUDJ1dy9hM2dHUjRTMjMrK3NjeThtdVpPc2QzMlpSV0RxRGJpSWpzUzZxd3dSZ3pSRWxHVFlpMnFBSW4xa0xjaUhVR1FKVldnV2ZxcFdIOGpIQm5kS1dDU01WMlBWQjV6d1RnbVBvcmNNZmFBMldNK2J1dm9MTHlIYWd3T2xYaDBsM0NBcFIyTTM4cXp0cnVKUVp4UnBXd1d0TG1RbG5CS3MvekM0K1VScHYxL2tuM0hkMDVoZlY0aldwWW9sK1gvNGxWOGFFWU8xMmFoNi9sQmdYT2tmdTIwR0t1ZkF2UnJoakgvbTJSdVJWeklhSjNGd0g4eHg5K3JhcUR0VVR1SkhqbzdXMVBlQjR0bjVBTitxdlNITytxQnJpWlZVYlY1b3A4RStET1QzeUMwYWl3eXBVdVF3WHVNQ09XOUhaTGQ3S0pBZ0pRT1BLSmZORmd2VVZneGlyVGpqZzhLdUdCWUN0ZTkwazJHbTRtQU5hdWUydTVmTHkvQUE2ajl3QXZRQlIvZEp6R0gzZkdwY2JyOVBEbHZIblR3M1o4VG5icm56d0szWFdIQ2RYK24vczhyYUJpSzZ3d0ZKZ1ZtOFdmaCtacFVhNzYrNzlWQXE1bmVhVnVBTXZYbFo3Z2Y4d0tWRnpmZ2FIMDhtSHNPK3hlWVYyMzRUQnNWbGdqQWZkeVZlZHY1M2w4ODBsV0RlcEZ5NUlNd3Mvb2wrN09XTkt6aUJDSVptSFlkMDRRUDVuMktQMlhSbGc0RWtINVp0R0txcE1UTEpiOWZmRDV1Q1dyU0pNUVVvUk9RaWtHdHpCMUZhbWhqa2l6dzBpdjRUbk1jaGc4SVF5c1NLVHNkbFEvMlIrd09TcTJGc1pZaWtqSnNHUVNMRnN4bHpYRGllNTcyQURyQ21TOXhPT0ZTSStXU0R1U1VEd21nMWFYdzVOSjV5cXlpY3hXZjZ0R1BndzJjWGV4US91dE81U0VYd1VLNHJDRkx6NUphT3NTUWQ2SEJ2NnhycktvOFVpbFFDSnRKNk9EdlJIK0hYaFN3SThkK3Y0S1loSUIzNWpkZitnMGVKMlF6dkx6V2NmT3BZNnZsc1krS0paRk9MdXVuOW80elpFbC82bTRYVXdiM1V2LzlINHFRaGZXKzdZMUZLQkR2YTJuQW1EZkthUkxxUVRWcUNUb0hBZFJ1ZFpiRlFPOHJvUXBsQndnKytqbEthSnp0YjRnUWZvWHhuL0diZ2VrZlNHSHJqM3FTZGFVNUxmd0h5TjV6bTZPUUF5cTJwTURUaGJDd1VEVVFSY1FGUjB3bHhnZ1QrMmF3RVN4aXgwL1RUWldjTUJhNE5rRUVJYzhVdDREU21TZFprcWVZNXBIbUwxdnVzYit4QTMvUzBjd3VVMGR1RHJVU2pSUGFlb0tRT20wVWVlcHE1a0llb29JUnhIY1hRQUZxQXZ4VlJvV2ZuYnhBUTc0VmhJb0JrN2NQRzdJRGl2RHJyVlRrOUJRS3dURjZoTWlJTmVENWgzWjZadXAwcnREWjFwS1NoT2FGd2lrR3JEWjRVc3ZYWktQa01DZ1I5Z0hKUEprRnFHR0R1WHZZV29EelZpUjlXRkd5alB4emR2YnYrOFIzWWtnZ1BnNktjWHBXTDUweno2b3pTMTBOVHRZUlRjekp2a0JmeEQ0ZThzOXg5VzRydWwvVlNjUE9sang2a0hSd1dlaXo3cyttdUtMelYwRDM0NlcxRGxmcEVwaVJsclBJbm5iTEpaQ2JPZFBoNFZJRjB4Ym4rSGZ4NnhJNmdCNkZFSzMyeVl5OHBldnhmdlZjTEp2VnhmV2ZGTVFWZlR1dmIzMjhiNVpFOGsxc2dVMUdYRGNweGpPcXA4c2g1bzVpN3dZWTIzN0hPMVAvMjBvQmZKL1BHaEgvckhWSFpTV291dDAvNStEcTBLb2VoMXN6WDEwejg2WVRyQTNDOW10azdsT0NnT25WNmpUVSsyZ0VSbG43MjYwb2prN3RiV3FYQUdCVnJ6UWlhU2dJRURTR3pYbDhCTlBJUFZuRlFQQmpGYSsyWU9lZEtJM3VCUWNHVmJ0SnU0ZkhzYktzanBNWlQ3aGpnQ0kvaFM3OG04eXFIMVY2ZFdObktPU2JLd2VnbUoyTzlRWXpKdFpESDhLOUN1QjhReTd4UmY1VzNZdDN2cU4xRTN2bElVWFp3eFFLT0Z4SkRxTDYrQ3hnN21WVW9HWmlnUzVEQzA0SWVrTHR6aUxJdExpOWVLNnNWY1pTSmVOa2hhbG1yV3JWVHM4ajZwK1lDZk9ZMHF4bXFEMDM4dHFOY2VxUW9PT04zMElBZnFTWk83UDlIRzZHNUFKS3JOUmdsQjdoZFp3dUNCNk4zaFVXZEkxT0V6bTFhdjJWekdrTUY3aGplbFJGTFptendBMWZ0R2JOSllsaGxhaHdvZlRuS2dKdXJmbmRESjhzdGpXVkxlcjJmU3BSNUZZVXZ0a1lGRGlRaEFrTjZDbXZrZVBPZ3UwZnk4d0tYOGhDaHRCWUdlNEl1KzVpQlBvL2xaZDFCdjlXN3pURnEvclJSMzgzMVNkSWVVaCt4S3ZtUk5kbkZGUUc5UVNCWDAzcStTdzZ3R0wwVkQyL0t4WEEyR2hPbDBQVFNuNUNiVVhpb09JNGN6UlAxK2taRFhuQWZtRVhud1U4RmkreklVbDlwT3J5b3lnWlNaY0l5MDNUYjcwR3ZxQldlUjZxWm5OS0k0QmVVMVVQUTdQRU8wWHA1MW9aQWJCeVFrdXNKYnppUzg5N3JFNlIwblVwcFlobzdJbDd4Ly9FUnZDeExIeVR0a09MZUJmdktRMHpLaHNjaklFaEFDb3h1VGYzTWJ2UFI0dEUzQnIzamovaC9iTVR1TnF3N0FhVFN0aHF5TTJLUHJFa2hBcG1iUm9zc1ByTjU4dG9tbXY0RXFkWUthUnFJc2tDdEs1QU5ocmsySVpMQmlwQzFEQ2t3WWI3b3pxSlB3aW9ONW5uRWpGT0kydDZlSndTdFNkSyt5R3U4Z0tQeGhJeUlqbmJBc2cyWm82SE1yaS9LbWJwTnRseXdjRUFsRVJmZ2hvMzdoTklBVm9pbkVnaEhrS0tuZlJSSnV2SzRBNjRXWisvU1Q0cVN6eXlzL3BmdUQzOWJYY1lSYmY3SUxrdkZwaWFNZzhuR3dMVEl1WktNaWtlVnBPcndma1B6YmlCeDZZazhHUVhiNFZSUXk2aFdhQnN0WXZ4SkVEV3VkeGFFUkJZOWE3b2JpMytyYVNidGRvSjZ1RlpUYldDTkdhbERDaDFGN2QyQWl4Y3dKNzdiZU1Uclg3ZFVFR2RrSWVqdEYwUnZUeGtzbDIxNEVnOVdhaWlsb2d1RGNFMUlHUXpEc3h3ZE45SU1Uamp2U00zWngycTJWSzZyTExmV1J5UW1YSzA4UDBQV1RZYlJ4STNXSHplU2ErWFZHR2NwdXJJanNyYmtIUWVXUktqVlIxa1ZZOXcwUnNETFU0ak1YQStNUXVQMWRNeUlySm5LaklCUHhmZERkZGJhVVNkNzFaMXdNam9zdDhma0cwV0VHblNpMEFicGVhQloxR2RDdFlSVnBpaHBsVzViMGV6K2dscmN1b0JxME5aMGlka1FtNmdDZHU0eGNDcklXaU1odFVZVTJXRE1YdVBSVHoxakF0YTVSYTYrSnBUOWpBM2NETUFORGpkNEVNeGYrVTdPcUR2bmNYWk15UVdlOGFNMHQrSmlxdGYrTk1zVDREK0JTQXBvT1NPc2U5Q1QvdlRTanhPRjN4cGM5REVnaitGWjVsRzRreWdjYVZQbklWbWI3VWJkZ2thT3lMb3pKZUFUdDJDZUU0RkRGeGhGWmRiUG5hK1FMcmQyZFdBYkpnVWhCa1Rsai81Q0VITS9SYlFnSlMwVHhuVzlNQTRBTmlrOW4wREs5SCt4V0xDNVZJZk15cTVSczNZY0tReVg1Q2s4Y0ZnRUlCWm5OZ0QyYTl0ZDBIcVhMKzRiajdRTTdMd0pFbmpSckNCUEFNdWdKVmxsWlVMYWE2T3BNUy9SK2lQdTBkdUwwTFBweHdCV1VpTFFYNHhRQTVXbHZtSzBrL0s0cWQvOTgvbzRkMkc2a3k1SVpWWFA3QzNvakJaOWJFTS9ua1ZUN0ZjS3ZmSWJjRUlHV1F2TUM3REd1N1RrWnUrUjhnMGQ2MHUyKzFHcHIxTERmaDFXaDBPQXJiSloyL0xCMWUzT3luS0QzVVlERkFUeE1LTFZJQ3Y1QkpsTW45bkVhQkpUR1ZiNmJOZmcvNk1UMEIvUXc1aFRuUEk5MGZxNnBsTmp4M2QwbjNSc2d4S3JKbWhXVmdER2xVODBCRUhMZnNNNGdtZHczUWFNZEhSVCt0d2JXaklXTGNOeXE5Q3F5MUpBTEJSUWFtVmdMUWE4WEpDbGVlYTl6cmE0QkRZRmFSaFdrRCtkaWdNVzVFUlZuV0JES0hoemhCcG8rQjlxVFc0dnRUV1VPTzM5ZUVrSmYzSW5zZWxsSzFjZ01ROVJRZW9ONVp2MmlXQVZiZkhVNjJDZ1VqMExtcEpLMTJHSUFqZjBtQUNvNDBqTFdFSm5acEZJaVFqelJoUkZhbkJyclpTWmdJOTgzaU92dUtJQk90bzFJWm1wR2x0Vmh4M1ZsY1ZKRGRvOGVrZkJIcXVacTdsemdSdTFBcHgza3RtOGpWaDRPczlCdHp2LzdOYU5teWxrSXAvU2JZQkJzeTA4c1d6bURCclNCcHFSQWVMOFJSc2RVU3RIVGV5c2p6d21QM213WDg2aFJwYzI0cDBvMXlmbkZjSHZDRjloakFWU0FhU29PaWNBV3FoTEVTWWh5K3Z1YjZZMGpCbnVaUW93Y1cvNzc5TCszc3owUERxUGp2ZUNrSHVUVDNOVGJJZGdPY2VmVFVJbVVaQm02Ny9hRkhSTWwvVkQ5cktvMHhrc3hjcEwrdEJOaVVMY2FTd2s1MFJabnRJU2lrQkJQK1FlOVRGaER1TVpnL3hEY2dJZDJKZHRTa1hNbDQrSmNvdWpCVzBkRFpGbUdTWklrTDVVSkpWcUFKYy9qMkVQY1BzeTVheG1PeG9KTW5jTm9LMzgrOFZwUUtqMUlpQzIxT2c4MTM2ZWpTRzdnU2NvcXFlelNJYkhNT29wVWYvdzFDcUFIbUEyeFBNQWJoOFBLOW9XRmw5RDFmMWlyVTByVFlpamdlNS9CRU00QlFVaU81b05DSGhON1BuV2xneUNQSFhxSXBVZnRnZXBsK1p4aFpXMXBOY2lxSHppOGsvdGY4Y1ZpcVRteFByUXVrK2RvK0dLWW8rZ1dHOWsxZkdBNkFyMk5JTzZ4ODdJQko4QzEzRnNtK0FmU3RXemEzOXlDTjZuQVB1NFdpOWdnT2tvUGZobWF3V0pneHcxUDQ0bUpwbERjZ3V3eVlSeTRkVElub1doNzUzeDUyc2JwT0pIR1FNTEFEc0VCbTdBdmx1bFlPZDFud0xDdnVySW5SbFQzTG5icXptbkJDREJzaW1wazc5UHpEZndLejQ3SC9GakpiZ2VJSm92bXl4RE41T0YxWjdJSWIxMkhoYVlDQVB2T0l4STRLeVJtaUNXemtveHZDdU9ZTDM1NHRDL2p4ZlVoMmtWWVVCRzNaalplTkJYdDJEK051bzlFQllDM1B0cCtNMFJQbTMycW5ZZHp1Nm9JMk1MOVZsNFpZTVJ5cmgzR2g0R1JQZHdDSXdDb09obi9sdE5mT3BZd1FsOUIiLCJtYWMiOiIwMTEyZWYwZjRkNmE3MGFkYjUxZmEyZDkzMmVkY2Y0Y2I2NTBmNmFkMWYzMzhhYmRiOTk0ODJkNTAyMzI4ZDNlIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-msgenny");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), "msgenny"); }
+
+  MT("comments",
+    "[comment // a single line comment]",
+    "[comment # another  single line comment /* and */ ignored here]",
+    "[comment /* A multi-line comment even though it contains]",
+    "[comment msc keywords and \"quoted text\"*/]");
+
+  MT("strings",
+    "[string \"// a string\"]",
+    "[string \"a string running over]",
+    "[string two lines\"]",
+    "[string \"with \\\"escaped quote\"]"
+  );
+
+  MT("xù/ msgenny keywords classify as 'keyword'",
+    "[keyword watermark]",
+    "[keyword alt]","[keyword loop]","[keyword opt]","[keyword ref]","[keyword else]","[keyword break]","[keyword par]","[keyword seq]","[keyword assert]"
+  );
+
+  MT("xù/ msgenny constants classify as 'variable'",
+    "[variable auto]",
+    "[variable true]", "[variable false]", "[variable on]", "[variable off]"
+  );
+
+  MT("mscgen options classify as keyword",
+    "[keyword hscale]", "[keyword width]", "[keyword arcgradient]", "[keyword wordwraparcs]"
+  );
+
+  MT("mscgen arcs classify as keyword",
+    "[keyword note]","[keyword abox]","[keyword rbox]","[keyword box]",
+    "[keyword |||...---]", "[keyword ..--==::]",
+    "[keyword ->]", "[keyword <-]", "[keyword <->]",
+    "[keyword =>]", "[keyword <=]", "[keyword <=>]",
+    "[keyword =>>]", "[keyword <<=]", "[keyword <<=>>]",
+    "[keyword >>]", "[keyword <<]", "[keyword <<>>]",
+    "[keyword -x]", "[keyword x-]", "[keyword -X]", "[keyword X-]",
+    "[keyword :>]", "[keyword <:]", "[keyword <:>]"
+  );
+
+  MT("within an attribute list, mscgen/ xù attributes classify as base",
+    "[base [[label]",
+    "[base idurl id url]",
+    "[base linecolor linecolour textcolor textcolour textbgcolor textbgcolour]",
+    "[base arclinecolor arclinecolour arctextcolor arctextcolour arctextbgcolor arctextbgcolour]",
+    "[base arcskip]]]"
+  );
+
+  MT("outside an attribute list, mscgen/ xù attributes classify as base",
+    "[base label]",
+    "[base idurl id url]",
+    "[base linecolor linecolour textcolor textcolour textbgcolor textbgcolour]",
+    "[base arclinecolor arclinecolour arctextcolor arctextcolour arctextbgcolor arctextbgcolour]",
+    "[base arcskip]"
+  );
+
+  MT("a typical program",
+    "[comment # typical msgenny program]",
+    "[keyword wordwraparcs][operator =][variable true][base , ][keyword hscale][operator =][string \"0.8\"][base , ][keyword arcgradient][operator =][base 30;]",
+    "[base   a : ][string \"Entity A\"][base ,]",
+    "[base   b : Entity B,]",
+    "[base   c : Entity C;]",
+    "[base   a ][keyword =>>][base  b: ][string \"Hello entity B\"][base ;]",
+    "[base   a ][keyword alt][base  c][bracket {]",
+    "[base     a ][keyword <<][base  b: ][string \"Here's an answer dude!\"][base ;]",
+    "[keyword ---][base : ][string \"sorry, won't march - comm glitch\"]",
+    "[base     a ][keyword x-][base  b: ][string \"Here's an answer dude! (won't arrive...)\"][base ;]",
+    "[bracket }]",
+    "[base   c ][keyword :>][base  *: What about me?;]"
+  );
+})();

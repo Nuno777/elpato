@@ -1,1 +1,43 @@
-ENCRYPTED::eyJpdiI6IlNDejFtQUNJTFBxTHdGR284SzRaQ0E9PSIsInZhbHVlIjoiNnBmSUEyTHkwNU9Nclc2WGFmeVVKdlhlU3FIb3VtWVhUUGNqbnlnV041NTVoS3pBYlBjV0xsSnp6VndTc0NZS3FJWlBuZ3o3RkRaMkJtWkh1OVB4L091bFd4V2k2eU8xQXdsMlVXbWRGUU1SYkMyRFVLQkkwN1EwTjJDeFZ3QTZzNFovNFJHM0hTQklMaE95Sm9FSy8vU3BRY0RINUZXTm5FWHpEYzA3V3hJSEVnRUJLM0YwMUZxM1pjcHNDTitQSlQ3elRBVDRTS1ByQnQ1THY2U0E1eUhxT3ZZRHhXWGpWUlZ6L2RKWVhKa1NvR0ZMaTJFNXowZ3N3OEVUTnhwOUZEck9ZTEFEKzhkbytZUjJqR2luT3dyd1pqYTlHYjlDekRaYTlwOVNiRW8zcmlqbytwUlZjZE5Gc3VlOWVKNjBndzZ3N1R6cWl3QitYTnNTL3c2cDd2UDRpOTBLNEU5R1g2OG54cFZkQnVBR3cxQVFGWmxMTis3NEdFN2s0ZzkvZXo3MFZrVGFNVDMyT2pORkEvenNsVVQwaGhoTzc0S0hXbWNySTRtU25uWTlEb21QUDZrM1pkTy9XMTArMnVLR2xhVEw3TVZBYjVMcjQzMGhSZThKSWU5bkxHc2p5aXZJSHZ3cnBzWkVIeTVwRzBWZzR6N21EQ1ZseW50RGdDbnF2dGtoOFBtaTBseTBkUXBxc3hXUlE0cEMzOTRDcFg0RGRHeWtZQkNNd3lSN3dSWmZXMUhJWEFlZmNFL1RhNDNEelBvRkxTVSthbjBtOHM0TjZmQUl6RkRFVkc5VkwyVXEycjRJVlJjTVUzcStsbTFBS3NzNTROZXpCTTIrRkJUdTBjbE5sYk1sVWFRRWk1MThGZnplTm0zaWxVNThaYyttSTd6VkxIeHB5N3RzZkJNRWdEOS9pRldKemdCRGhsWWVsSGtlWmFHUTZyWkE5QUpOWWFmSVJtWFc4OVQzU1Rqam1SL3FocDl1ajVCdk9nVWVocy9VRHlBblkrL3pwK1d0MmhHczRKaytnVUlkc21uYjE0QVdGTUhiM29aRExGUHpPSG9rNTkrWFhqR2hLVC84UjlUeS9KbzV6NEdVZWQ1cUVNRnk1VTdFd253VWtuNUFzNk9LR0pwWHRiTEl1enA0TCsvSk9nOXNnQUgxUUtHR2NDNFJJN2FMSVBtVUM3WFRnUC9GMWprbnhncUpIREdKZUR4TDV4cndQK1A4RjVGTFIxay85U3RlajA2VmJEZlhZdnIyRy85SnNja0tRRXNVWDlXZE1KQ3BPZzQyYjU2UFlzTWMzV3doVUJjK3lxbXpGZXVmZmdpdlpHSXIzR1hyZm9XNW9Cd0FneXFJVHYvUGtXRUwzanErZkRtUTMvWVM1L3VaZllvQmh0QUN3MnFzZUp0cDl2Y2dheHU0UldYbWlzcDFaTkFRd1oyNkV3eXYvT3dORlo1N2gzMXZmRTI5NGViOU83c3ZHclZLRU1yVUhWNWRkalROZ3F2ZG9yT0ZNWThZRVBuWHlSbldGWnNFSjB0dmlkbk10ZmdjcGF6MkdJZFJHZTAxQ1BHRFJyTnlZdzRKQmt0KzJSL0w0UFVzaVBUL2pqalJ5ZWQvelR4UGtsNXBDRU1hNjlZVXRXYVJCbXJSbTcyWU5WeHlyWUV0YjlSeENuWFBscWdRQTcyakp5SkJUZFZIc0lwcWhoYm0wTHlEc2laNWRyWHVicE9YMndkWmpnUXUyMlNBUEtONXhGUGZRdk9zMjNBbmxXODc5MklycTUvWnVZT3F0NzlKcEJxQVYwZHFiVXFKYUl5RkQ2VnpJN0tLcDRTbTFxRXBPUk1aQk9JTUxVWkxoYWQrc01iMGk0cFlrMnh6VHg2UnN4SG1IZXZNa1JFVTVQTVR4K0J4YnhacDk5TGNiS2NEN0tuTzVJZEVZRkR1MTNXMGZEd0lHdEdJeEZ5dWRPS2x0SHVTamJGZm1nYysxdkJteGdIaEtGVFN3SFQ0VnNRdFY1dHhROVBZUG1vUzdkQjd4NDljZDJkdHJVQUU2dFZlQ3ZqVXVLSngwM0R6ejVGb2pLRVk0aURaZWtqczliV3plUzUzSVBZNllpUDFabGFJTmpId0NCQ204RUJwbDhjdzhLd3dhMWFOYjVybEh3Z25PNllFbi9ES2dHZUdEbjBJWW5jWmJuWGNMQ3Bya1IycU5UMnBMWEtldU8zb0JrWm1EMnBQcExjdVZIR1hINER0OTZGVU9xOG9xanZzWFYrTzdHV1BESUE4a1VjUjhuVFB1QVd0Q2VsTUV3WmJBMDJyMC9vNHM5NVBKRDIvTHBqODJtV1RUVjJBbWhiSXVMUnMzU3hzblpuOE5xKzV4SFhVOVB3cGdKWUx4cVBYYllNVHZvRCtKRHNPanhwU3ZaZ0lPeUsySzU2VTUxNHAwMlZMdWg4L2xHOVdsT1Y1Nmgra2MxOUw2eHZid2ZKOWFTZ1Q3RWxyY2EvUzZ6M1A3U1hWdGhLNG93PT0iLCJtYWMiOiJkNjE5ZjE5NDI3ZmVhY2RhNTI5OGYzY2VmYTk1NDYyYTM0MjMxN2RhYWRmNWUwMjY1OThjNDQzZTAxYmNiY2MwIiwidGFnIjoiIn0=
+@props(['align' => 'right', 'width' => '48', 'contentClasses' => 'py-1 bg-white dark:bg-gray-700'])
+
+@php
+switch ($align) {
+    case 'left':
+        $alignmentClasses = 'ltr:origin-top-left rtl:origin-top-right start-0';
+        break;
+    case 'top':
+        $alignmentClasses = 'origin-top';
+        break;
+    case 'right':
+    default:
+        $alignmentClasses = 'ltr:origin-top-right rtl:origin-top-left end-0';
+        break;
+}
+
+switch ($width) {
+    case '48':
+        $width = 'w-48';
+        break;
+}
+@endphp
+
+<div class="relative" x-data="{ open: false }" @click.outside="open = false" @close.stop="open = false">
+    <div @click="open = ! open">
+        {{ $trigger }}
+    </div>
+
+    <div x-show="open"
+            x-transition:enter="transition ease-out duration-200"
+            x-transition:enter-start="opacity-0 scale-95"
+            x-transition:enter-end="opacity-100 scale-100"
+            x-transition:leave="transition ease-in duration-75"
+            x-transition:leave-start="opacity-100 scale-100"
+            x-transition:leave-end="opacity-0 scale-95"
+            class="absolute z-50 mt-2 {{ $width }} rounded-md shadow-lg {{ $alignmentClasses }}"
+            style="display: none;"
+            @click="open = false">
+        <div class="rounded-md ring-1 ring-black ring-opacity-5 {{ $contentClasses }}">
+            {{ $content }}
+        </div>
+    </div>
+</div>

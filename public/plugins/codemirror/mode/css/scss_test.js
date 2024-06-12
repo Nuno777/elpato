@@ -1,1 +1,110 @@
-ENCRYPTED::eyJpdiI6InBsdGxYZ29MWXZXNnNiR3ltanpSQWc9PSIsInZhbHVlIjoieU05eHBDZThsbE8ycHA0MVZJa09SbG9adVJrVWNWQ2ZNaEFTekRDZ2hPaUoxUmR5ZXRZTXNHSXBaL0pPRnROM0tIQndWZmtqMXgrUEIrQ3NzOTBOR1FTSjlkdkNEQWwvVytSdENGckJRZW11RkJ6bU1mcm5pTlBMazJMNm1ZeldkaXVhcVp6Z01VUVoraEdOSVY4eDBJNTY1QVlkblQzbGw2MlJXWnJQV05nazhvclZBSVQ3aG9tZDFnTmhKS0NyMXFPOG52bUpXdUZzcTJFME9hbmJXWE54VUpIMXMxak51Q0F6WUgyTXRYeWFWWWxQUzRJTzB5N2p6bWdiTjNHelc3OWFGZTRPSWJIZlVoM2doMHlqNmRuM04yb1JtYlJmak9xSzE2czBxbEVRQURncXZ4VUg2dE91VFlVWVNucjNoUW56bkduS1JVU0NMdmRrR2VUSzRoNVMyc3hpeXJQTmdJMjdWY29KdDh1YURFb3pLSmVOSFRyemhrVWN5YjlZT2lrZFcrbUxoYklhYjlCRzdVVjlrMFhVWmVITVRKZlBwY0ZBQ1hwVkhycE9aMUFzQys3YUtuSU5KbnIwNGZkc2RBS1BWNVEwdGtja1NwcGtpRENLY3Z1MTZnYXZsc2Z6OUxuYUxhY1BHU25TUTVaOWZpaVorVVhjZmxJcElRWGl5N3FrQVQyRzVjdTN1bHFVbFdVaExFUW00SlZTMVlzbGpKQ0Q0K0ovWU83NXFhMlNUYU5jMUZOSUtGTWh3WVJ2bVUyRVBBbFZsOW50Q0lvK3h3bWkwZlNuU1BUdjdBSmxTdlQ4S2ZQL2RvVTZmZk9CRVZjeGZOMmErV0xPa1RrbU1jYmRIamlIc21oWEdZZS8zL25uL2xnS0tsdlQvRkNPK00zZGZNbU5HSmxPV1VKaVV6cDBHd2Zqek4rR3RLeXhoTmxob3ZQZUZwaE9hbVBJY2NCMUgyaTJGZHRHeWxQdHk5eW9iTHNiYlZoRGpNRUwwTmVuZ2szRFZ6ZzRHQld5cXIrQlFWcHd3RDFLenE1dGNhRTVDWWhRRjN6blBpVWdmZWNnOVkrNkhqT0NsTjh6WlFmYkNBWWdqd2xYR3BGSTczdzNyK2dPaEg4UnNEdHYyeCtrZUt6QkwrcnRPT2hBeDd1SFErQjE2T0hxVkxsczdsUVJoNFphRHZPYnl3dXJPUkdmd2p1QVFzRStiVFYvV2NIenlHR3luMmFkR055ajdpL1B1eHBtWVJacjJ2bG5lMU5Bb3h1Z1NDeElxczJ0OS85RWZEaVNiK1N0ZEJnTDIvSkdRS21Qa3NmTnZpNWczeUFpRU04cVBlZWhmVUkyUkw1VDVwYkQrWUJERGlLNlIwdWduSVlJZ3RRK2tkbkFLTklTYXI2MWlOcGUxVnp1THBxRXZjNUdvZ055TWFLR2Iyb2tveFc3Tkg0R3JmOEFQQy94YkFtSUkxd2FGUUxjckhBWXcwdVdSYnZxRWlKU2ppSmZTazlVNGpZeWR6TnprbnpVSXpGWDJqdkRnQjhjV2FoeExsdytvOUttdzJ1MW84d2hxbk52K1Q1S3VkU2hFNEhVVW5qNVBSYmh6b3ArYThkK2ZoWHhOMlY1RHl0UkthNmlhQkNucldublhLVUl5OEp5Qk5QSC9ORmpkczB2cEtaek40TnVnVVlRNHY0amFnUEpmNlMwbm1FbUdqOWcxamliOEFQL2ZScm5TaXlpVVUzMXJ6ODhwS0FKVnZKejZNMlBVU3p2VVcrd2J5cWlWRWs4RGdyZXA4RnVLNEk3OW80VzBjdE5GOG05eW9jUFNzR0lRVE0rOGR3TDVOOXE1VUxwVHVrZ01CdHJ2akpSdk1WZkJSdHg4Y2RCMUdpcU1oRExGTEw3T2N1a0grcWJPR2JST2xpekNjZmdITTFQR2JKZzlFdmdjNUpmcWlpM1U3TUZuUmY2MkVhYUpHWDIvMDhGd09WSlorTW9hOEFHbW1RQWlWdzIxQkdBVll1K0d6VUNtK2dsVFR3MEkyVUVmakNsanRtMmsvM085WTliMmY3WU44akRlWUNCV3pyZG84UUJMRGYwZHlYazIwYmovcTAyQ0ZmVlUrK3pwMzlZQmFETnZyYy9KMUhwMUNseUZIM1VUQ0xkTnJqYU5JOEgxMlkvekgxVTFrWUhidlVxQmYwd2pzb2wzNVR3eFNpdzFnbU4xSmVoUVMwT3ZmTkdVK3BXRDFReFBmV0c3WnRJVEM3L09kajZwd0E4U3RnTm5jdDJmbmM3K3ZPT3hCeDRVM0FJMmtSV2daQ1hzaVJCQVhXcEJlRFh4QWsvbWQvREtSbUNkQjNJMDR4cXBnUEtLZXRjajUvQ2FiR1JUYk1rNkVHTTAzcGpJSXU2Q0RZaTVObDBCSFlWTEFLSGxpSnpzTjBUc2wxVXVWUW5POXhqVk9nNUczMVZ3bFU4MHAzRTBaWHpEaUQxc2xNMmwrMklEQ2lrOGxiMm1GYkxDd0JJWU1Mcm42alZLbTRXYVo5eVR3ZjAyKzQzTGt2K25ySkhRaHV1N2g4ZTc4TXFjYStlZXBtUjgvd215U0RBSjgzVUJ3VXR1U0pzeTE1YnQwWWhBTG93aGZscnpUL3JJdjlwdUMrbXFEcmhQdWJXd0NUY21qYkxyVnNoZ3NqWnU2ZzFZU3R2TkFLQW9keWxiWnBDODJPVXlONzBHQXNRdXZCSzErUm1SdEpJekZYOUVBQ0xXdnROT3JCeVdaRXZNaEVPR2VRTGptQ09mRDY4cTVYYXR6WFliWERvbHFVSStBTlJ0dm5acDFMMll4N21vQXlCUHJGZ0U0S0NDYlNsYlRDWkVOenJhTG5qUS9vSkRwYmNNMXJpdHZWeDRQT2tscGp1TFFFM2sxR1dOSmNYMWp1UjlYL0MrTU1ZU2RkY0V3Zjd4aVd4Z1ZWdUJXQWw2cTVwSThFSkJIZWxjVDBkYXNvcUZDNmMxcHZKTWRzZVVpc3lsd2JKUlo1dDBxQlJpNzNWMWJEL3hYUDVWV2E0V0srOUR5bDhYaG1oT1ZFUFNaQVkyNVRUUmhrQWcwalJiQ201bU8ydTBURWhibzhiekg5MndWaExwZlNZN3IrbG9tVU0yMitGV1E0M1ZBNmhzQ3hjRTZINktaT3g4NDNrVTFmV2xVL1VCeTZRQytqeXI4K0l3aDhpSGc4aW1ZVGVSMXREV3AxM0I3ZTdoUnVLV2JmR0o2TmQ5SmZYb1V5aGRQMCtLTUh6OGwvUWFzMGY3UExETDVzdzJBdjZ1VUVKRWllSkZBU0J6R2VnZEo4QUp4M0ZqVytqZ2FlZWd6QVVzenNBM1YwNWFzU0FUTEJYVkRGbU10T0pXdHZnNHN6dTZJYThYZ0NGZ3NvZ25YajJBYjE2dmZkdmFQMk5rdG9rUkpXOHdicWdvcEQwUVcwaUF4TXp4dFc2V2xQRkFhOHV5SFdpcDRHbitpbnIyc2lsbm85eHVuZ3VUc09tNk1vbFpkckQ2U09HaG5FN2RENXZuOGM3OFR2QSszbkZOQm1LaWRKZzVpNWlxdnRkVzhwS1NmTEUzb3A3b3N2K3ZDRHBRdVpyUm5jSE9vV2FKWlhKQWxLamZ2MXdrR2R5bFExc2FHZ3dUZ3hueHc4RVJTR2hEWTJndVhaQ2o5QWV4TnFFMnJRaU0vQnNLSGNSWkp4cEJuN0RxUXJrVTlLZVZSc1pBY25nbGNKMjRISEJDWDhLYWlLazJIZjFGbVVHaDdaVnVJOW53UDNTanJoczB3ck5SYyttb3lFa2IvcitZY21Na1pCV0U5VWJ4cERCVWk5R0Ivb0NmYzZVUGtnM01aSlZpdnUvU2tpUW1CQmFWNk5oSTQ1dCt3aktTQ3pLL0dyeHFZampPcTFyQWFjUlp1RUFsdWR1RExBSHRBeFdqRDBDUExKMlRUU0l6WFpLcGZURzdwZkQ5dmJjeVcxSkgwQks0ZXZOQnRtemxJZ1lUeHlWMlQweFJrQUlzVVlaT212cm9yS215SUEwdW1CMnFsSzRmczB2ZFFvNnAxN2hTb0Nta3FkVnZ1MzFyUHRhaE5xN2JMQm0vbUovanRnREVnRi80SnhubkRaSzdqQlgrV0UvZ2R2RHgvUDBqTnk2dWx4QllVUkloQ21IeFRxTzN2US9BbDJXM0tyMW9GS2hhUXdCQ1owaEpYWVp4NU0xekJneW9kZ1dMQXppa3V0OUFjMFlzNC93VW1UMllYRDVscXNHM29KS2ZIR1NnSXEwcHRjbXpUT3orSU16ZUFxU21FZXA4VXFTcitnekpyMVR0MUlXWFJUTExHbFcxK1FjcFUzQVFIUFU2eGt0b0liRUZhNiswenNETmZjMVczNmlCcGh0TXBSL0NvVEpXK3hnT3RuVVM3UnNWd0crd2Z0WlhkSWdaZGNPUGw2Qy9JSzlCbWxnSktNWnRsUTJvZlBXYzM3c1d4aVN0bmFlWTJaa2pDSGVYd1NBTXVSY1RETlNYa2I4Q0pxSlZzd3RvSXIwRkdlcjlTQng2TEpWQjhCNUgyV3BnbVgxTllSZTJNQVNpU1FrQ2NDWjM3WGE0dkNLS3IvcnRJajVtY1dVZ3ZHd0VRNk5VTzVJRlQ2c0szb2M5SUpLR0t5UXNQNy90Sk43UGFrc1pELytnSTducGpxaHAxc3l4cWh2Z0lWZnVuWFBPSnI0cWxJTFI4N3pVMlFpWi9MN0V6YWxtdXpMM0EvRGtYWklHa2ZQQlExTno5aFI4MklINFNwa2ZGdW4yOG9sU3V0RkhDM3U3SThyTE80T3loK1c5bU5yNVJRa1RZelZJN0xRWmJid0RmTC9zR2tZbXNVbVY5ZnZDbW4vdDQ5WThGdEIxR2dLTW9MQWIrVmc0TEVyWXBpVVQremFwSHFPUTVaQmR5Q2FldGpRUS82R3lJeXJkME5la29TbzZsbXFOZ25kOXE0ek1sZGtSS1RFakw3eUUrL2NacVdyQTZTbjRuV2FKaUtpNmJUajV0eDNtdlg1K05mVHIxN2tMSW5kTjFzaUVnSTJYalFFRUc2bW5uY3dEUnppQ3A1cFUwRUttVldHaEVzYWFmMEdKSldYeURyR2tlR3FISkhlbHowWXFYWTAwSHk4N05hSjEyRFBBdFd6eXUrVW9peXRrZDA5bzk3UGc3dUdqRDA0TGFHbFJZSk9tZzBVb05MRDV1TnFrZFVwa0RwZFp0L1pXZUxjWmZDRjZGVWs0QWt6cEg2eHhWb3lJOEc5MlF4aWhOMGtjYWdncXk5dEtOaFhHbjczNFYxR21XOTE0eGw3MC9palJOejZhV0dwOVpOQ1lkeXBjK2hOV3ZtVmM5dUtucGpOVVJqTUhwL013SyszQ0hZY2dwby9sSXl2Nk16dHZqTE1MK09ocVBIYzZTcjlMV3BDc1pTY1NiOGlUdHJvbDlxUXNLZWp4a1RjRXRIWFQ2UTlDRFdhMFd0QkxwWVlodWF6VVhnZ0JkQ0gyaFJOK3lrZURpTXRzNmlORnVMTFptQVZiSjduVEloZVhCYzIwcWNHRVRIaHZmZ3hmcjNaRTgwK3B6a29KTHJwVlJDV3pRPT0iLCJtYWMiOiJjOTJhOGM2MjdhZTdmNzE5NjI1OTVjZTY5YjY5MTI1ZTRlMGQwYThiNWUyYzYyMGE5ZmE4ODdmNDIyNTY3MmVkIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-scss");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), "scss"); }
+
+  MT('url_with_quotation',
+    "[tag foo] { [property background]:[atom url]([string test.jpg]) }");
+
+  MT('url_with_double_quotes',
+    "[tag foo] { [property background]:[atom url]([string \"test.jpg\"]) }");
+
+  MT('url_with_single_quotes',
+    "[tag foo] { [property background]:[atom url]([string \'test.jpg\']) }");
+
+  MT('string',
+    "[def @import] [string \"compass/css3\"]");
+
+  MT('important_keyword',
+    "[tag foo] { [property background]:[atom url]([string \'test.jpg\']) [keyword !important] }");
+
+  MT('variable',
+    "[variable-2 $blue]:[atom #333]");
+
+  MT('variable_as_attribute',
+    "[tag foo] { [property color]:[variable-2 $blue] }");
+
+  MT('numbers',
+    "[tag foo] { [property padding]:[number 10px] [number 10] [number 10em] [number 8in] }");
+
+  MT('number_percentage',
+    "[tag foo] { [property width]:[number 80%] }");
+
+  MT('selector',
+    "[builtin #hello][qualifier .world]{}");
+
+  MT('singleline_comment',
+    "[comment // this is a comment]");
+
+  MT('multiline_comment',
+    "[comment /*foobar*/]");
+
+  MT('attribute_with_hyphen',
+    "[tag foo] { [property font-size]:[number 10px] }");
+
+  MT('string_after_attribute',
+    "[tag foo] { [property content]:[string \"::\"] }");
+
+  MT('directives',
+    "[def @include] [qualifier .mixin]");
+
+  MT('basic_structure',
+    "[tag p] { [property background]:[keyword red]; }");
+
+  MT('nested_structure',
+    "[tag p] { [tag a] { [property color]:[keyword red]; } }");
+
+  MT('mixin',
+    "[def @mixin] [tag table-base] {}");
+
+  MT('number_without_semicolon',
+    "[tag p] {[property width]:[number 12]}",
+    "[tag a] {[property color]:[keyword red];}");
+
+  MT('atom_in_nested_block',
+    "[tag p] { [tag a] { [property color]:[atom #000]; } }");
+
+  MT('interpolation_in_property',
+    "[tag foo] { #{[variable-2 $hello]}:[number 2]; }");
+
+  MT('interpolation_in_selector',
+    "[tag foo]#{[variable-2 $hello]} { [property color]:[atom #000]; }");
+
+  MT('interpolation_error',
+    "[tag foo]#{[variable foo]} { [property color]:[atom #000]; }");
+
+  MT("divide_operator",
+    "[tag foo] { [property width]:[number 4] [operator /] [number 2] }");
+
+  MT('nested_structure_with_id_selector',
+    "[tag p] { [builtin #hello] { [property color]:[keyword red]; } }");
+
+  MT('indent_mixin',
+     "[def @mixin] [tag container] (",
+     "  [variable-2 $a]: [number 10],",
+     "  [variable-2 $b]: [number 10])",
+     "{}");
+
+  MT('indent_nested',
+     "[tag foo] {",
+     "  [tag bar] {",
+     "  }",
+     "}");
+
+  MT('indent_parentheses',
+     "[tag foo] {",
+     "  [property color]: [atom darken]([variable-2 $blue],",
+     "    [number 9%]);",
+     "}");
+
+  MT('indent_vardef',
+     "[variable-2 $name]:",
+     "  [string 'val'];",
+     "[tag tag] {",
+     "  [tag inner] {",
+     "    [property margin]: [number 3px];",
+     "  }",
+     "}");
+})();

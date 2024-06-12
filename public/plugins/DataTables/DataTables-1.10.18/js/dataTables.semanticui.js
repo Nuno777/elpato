@@ -1,1 +1,212 @@
-ENCRYPTED::eyJpdiI6ImI1cko1dzU2QVY4Zy9veE12cEQ1RFE9PSIsInZhbHVlIjoiZ2NuRVEyUDYvdHFoR2RweE5lV2VpZVptQ3ZJMEIrNEZwdGtWbVpQUHdKMXUrajN0MG9KSTNOYkZHWUhvOGNBUFVub2FXNGdqSWFXQlBKL0U3V09Lcm9vb0JxYUt5b1NrS1l4bU1CeStmdXhKdkErL1d6OFY1WjRvQUtXaDJrSEtxZDU5SlFvUWZlTTM2dFhjU05QTnVaZEduZXhUUzBkOG9JRU9uc3dmR3RESXQvMTlpZjJLa004ZHFNQjNBMzdsSDkrQU1GUVFndlpvc2FIUjhQeDBkTytyLytDVVZtSXNCOXZKbDJUd25nNm9uemoyeStTeUg4SVh0RXo5ejIyUkRSTkpYUFZvSVY2VzVPQVZXU2lkNHN4RmtMWHYya25ZYUo5T3FGQ0FzTkJqcEJ3RDhPTFFMOS9UMFYvNmpadjlpU292aTJKYy9aQ0hobWJkMDVtMHdCNVdENDN1VnRNL1BISTR5bVpmdHQweDc5aEFQTVJVRVhlZWYreWYxdDBQWWZJNndlOHp3aTNqeDA0TzUrY2Y4YmN6N2ozdnJEeUtrRnZLcWNyQnd2REdoeHNxTlNmT3lzZGNocHU1Qk5JMDRWNWFuaTJRRHZjclVoaDhFZmZGNGVSVlh3aXM5YmtrWW9zWXdScmJlMjFhakhlVDdUcW1TSjRnVCthQjhyRFljWUNMK1hNSm16NEZTbXNhTFhnYm5QbTJxMFphWXBUMXRQdlFtTVovU2taRkZtei9GZThhWW1URTZaR1hFdVZVQmpDb2t5L282K216dE16Y1prRWpjMmgvQWs4VmFsSTNJSmFNbXNpdkkxb1ZJYklyMTJncndGT2pNZmthT1lxeEJWdFFlZjZPYURvcDlsR2ZmVFk2OWh4T3ZXTWV2RXhrZ0JoOFNvUFpDdCt4eW9wU0Z6bTB0Ym84S0VpMmxtS284VFNRSzRBd0VRV1hRbHpsWTVZd1EycDlQL0pTZmo0cTc0RG54dW1QMHRUVzBvZllRQWNHWjg1M0Jod0dKTGREblBEMjhScGEzMTZLdUNVbEMvelNzcGtHTXJhMTg0R0N0Wno0UGI5bnlzU3M5OVhMaXRmTUlUMnVUazgwNVZaOXJZM0JXUGlRS1J1ZDRSeHRTU24vd3drM0Z0NFhzMkthRlBLKzBDdjc2aXFwcVFpNU80aXNZV0xrakw2eEdBL0JRZ3c4NitvNVpHU2ZwNXNWZzh2dkxvdDFndFhtbXFNeVBQTmJKTms1MzA0aTluNjEyVTlialRnZGJxN3YyQVNROFQvVllCNGx5ZUFJa3l6VVdGdWViaVZWc3JJeXZDR3dpQkhDYnpUbkp0MXVMWXBZelBDdVJLTUVuc0JyU09vcTFrWms5SzJEVTZiUGZUb3RTZ0gwRUlVRTk4ZTZYMzdxR1U4Tm1Kd09vNXRna1FJSFNIWnZDWjJpUlZoRktnSmV2VklWMWU5Q3lxUzVuend5UDNseDdZVHJnR090aXhGTW11b3QzbGZJS2NQbDVKakxKYUl2Z3I0cmlKTWZ3cVRkendid3FBU200bm1jZUFVL1h6TFdpS0NqclZTdHVzUWcyNDhRVzZxNm01NjJmU00zQTAzUmhvNFFBRlpCTUZQc1BSS01uRm15ZEVQdk56RVJvT1BMZ2crMm1WM3ZvRUZJYmdJS2tVZ0N4TjJxVnJnbENHSTFJM1VQcHR6N1J6NFNEOHVjN0JjQ0J0dnlZdXVYbFhES255RGs3U2lvRXJTMlVldVI0bkJJRTZnZUoySWdDRndvSHFnNEwyNWp3MWUzK1hTRzlDdGVtWmdiZ3d5WU9SbmpVUmtUSDJ1UTh1ZnJhZE16cGhsa1liQzJkVm1kSWpJMzhSc3pCdTJkU2hZTlRTckdNUWJZT0o3Um53ZytwSlVhVmJ5RjVURmVweko0cEE1V1hSR1RsRDh0RXQ4MDF6YTZmVEp6RXVWbVMrU0tGbzRNcThvbWdWL2FIcGNHVFlHakJzVnc2djRPSlZvNHU4L2NCRlFvSnRoeVplMlludi9YaTRGdENndHMxSTcwSlFOSlFndmpzdDF4aDd1b013SVFoM1AyYkNQeTExUnd3R2dyMFhCZFM2OVIyWDBUY0R1dVVmWjU3ZzkzcVJUSk84OEUxbzNJWjlLRzdEZWJLaERRbHc4UzVDQlhRZzZuMHZIMmlKSnRGelliQ25vc2Rld3FYNE5zUmxPZ0RjV1Q0QnBjVmhZODV1a1VoWDh6NlJZYTVkUG5DYVZIUEYxSkMyTFpQVHZzMTEzbjVRaXQ1RHdIaVZGbm1QT3BGZGpXZ2c5UDRzZjdsM2JIT3ZHWFNiRC95M05TYlJGSklLYVp2U1IybEpxNmNnMmlmRTYyYXFYNjdJVzJuMjFDRTZLZEVYWXZmQWtUeGsrSjBXbGpsdjIrVHljUktsTmdkMTgzSHhDOXFkdXpQMVR6cVNJYnIrdFRaMGFKWXhMR1FiUnZBM1l0MGNJb0htZkd1N3h3SmpXQ01rN1E2YloxWUxtYWhPSW15UFZMSjRMNnNLSnBGL0MrSnlaT3Izc29qL0dVOXNEQWIvcHNzZGJISkVwcE9zcUxhTVpMeW0zZ256R1BMbk10c1RpTXBwdkNCV1FYVjF0NkNXL1VNazZ1V3dGaWxjZCthVjE2RjhZN2JaRUxhS00wejh1cmwrN2pBN1NnRi8rV1dSUGxaTlRJWkdySTlDUVhkYlpDR1FielFlV1pyZm9ES3JmbCs4WHl6cEF4Zmo1MFhYSTVOSTR1aVhveVc4N2loeDAvRGlMQkF0NDZIYmVOVHI5Vmp2RE52TkYycWo4aG10Y09lSlh0dXJSU3RsZVhBWGgvbUJHejl6MjI4RFhXVDZDUWJLNTBtT0l2QXdKRnV1TFBNRTVVek5GWnJ1cStDQ1d5NW1rbTBYaUQ4Y0FVSmVYbWVDWmtnZGVvUDE0Zlc1QmEvalRiTnk5UlpoUm1rZldTVmtNNlZseEl6R1pTZnJ3NXNVWklNa3RteVN0YVc4TTlNQmNwSll5UHZHVU15bU5uNTJoTWhTNUswdnJYZmxhRitwZUFRVFFBSU5RdzVmVGE5VWF5OTlzVFR1THV3eXhLcTNUUWhTZGpHbFRwNmZNdzQ3Tll4ZlpRRW9DbEFaTVZNODlKV0pRUmU3WlJHTTZHaVg3cHdQWTZyUkxtL09nOHplbEU3N0lFRFR5RmpRVG03dHZtMHNicHBYSXNHOFBvNEFhRll3SEVKTXZkSUJmSVl6WTg1S1doVHZxNHFTeGtMM1VNRDNVc3ErS0lRcmUrM1d5alpRb3hSQm9FTi9hK0tQRjJVbGJNRXhqdU9HU1JiajJabXZVVXhCNG1kS2hZV3ZqaE1HbEpaVm1lTjhKU0VWeTZ1Wk1WZzBsZGw5c2o0VnpIWExQNDhXdjhwUWI4NjNqZ3ExV3NoeUd5a0VhK2VXdnNIMTlUZ1hRRERhYkloUzFKM2dsSFM0eVQ1ZTFxdVFJUGE1TDVDblVxQ3hrOEtVM3BwaEtHQTNPWFhCTmhaZnRCMHM0ZFJZd05jWXFUOEdTT3p5cVNNSW9sUCtVRE56T0ZKbWxJRytiVnNKQ2dESTZUUEpTd2ViaHBGNVhtU1JHdTA2Ynp3SjJNdnVibTh1RVM1NnJxaFhsdkU5bHQ2R2l5VFlXNGxGRVliS1VTZ2xhRkZtdFZOb1NFNXdMTkRJekp1NUtyM2FBcTlqSEltaUJuQUFVMGFDQ05tL2EwMWJCMmpwUncyRzRBNkF6MDZhRm1WUHduMnlNbmR1QkpHWDVOSG01bG0wWS9XZkFsWGM0alVDQnZRQmduazgvQkhCS1VudVJLYlhRQXl1UG1tenQweHNxM1h6LzNqenB4VEJxTjBETjNLNnVQQUpSL2VuNWhNa2lRdTlUSFRaM1huVHZueHd6QmtLNU5PNFhWemh2bGVmVHNNY1FvMWpVNmtCaXFxNTROc2djeXlySGdRdkhUcmo2YjhwK1owT3RXR1h6OEhENzZYeVA3MUNVYTJqOUp4YU9iTHVJM3h1Qk1DeSs0SGt3T1RKR1cwL2dGM1laeml6UENBQU9qVHVoZ0tkUERUM0NpaGpaWjM1NGttZmdvbHpnYmpVeVdxNkEvQ21uR0JkOGRlcHp0OHE1S2NCSjBLOCtGZjdUTGdhWVhDdndHUXY5cGxvNzFDSGlLNGM0MGdPRW4rWmxZYXhncEJ0YWNIYjBDSitkR3d3UE5vUmNZaktYUXRCQjBNbTlwVVF1NzRWS1dwdFZhRmRlVnR3Um1lQklaVHAxaTBFOXNJbUdLbDQydXVBT1UwcFZOVjVHTjExVG9FdGdXa01IWjVaWkhRZE5MRll4Qnl6WHhIZ3R4ZTEyOHBGcGgrL0JzT21ueitTemZDYlg2SGFibmZqVzREWnN2c0RETU1BeXJQQ2hEWUVob2p6eWNZSjd4NE9kaUQxUGZ6UXpUVUdabm5STyt2OVE2djUzbWw1NGt6QkRLWi9ldUNKcEVQOUdXMnNHTS9WOUZxY29OSDcvbHNsU1lDMTZWb3c1QWhTVnRSSlc3Wko2YkdPVExTNlBLaGYxY3FVUEFQN05taTMyMHBzYlo0bWJGdmRmZHk4SjFPSTQ0RkF2ZnQxajlyRzdnZWtZaitudnVKZWxINTZnOUJrSlg3amxLK0NLYzRWWjUwdkNFTWF6WG91VkZOM2orMjZKS0Rxc2ptR0dkYnFNNHM0WDJhejNuQjNmYWdLeC9oczJIOU0wVXBWY3RxdmcwYVhFY1NhRGpic3V2ZUd3RVNKMjYvNi9Sc3FKODJjc3d3ektOQjNFdXQvV3BweEFvejVvRTBMNjRuU1hqRERkQjc2MkwvQXFXVjNhVkFKbkFNZS9tNC93RENLbXdmVGNVV0kvT2sxMXBPQVFTcGZPNHIxV3dRMnZXN0U0dk1vUmJ6V0NUTnUrY3ZKMjJaQUR2ZmtJek5nUkNERFBnWUJ2MHp4ajZXRmRhc2pSbXpXbnpCcWhBMFlzWEFvaVErbktndE90V3lwTCtLOW1TN2VoYmZMa3U3MGxKVENHdFN5K0xJUkszL1ZxREh3OFFQczYrTWpSRzRDa0RIZGtzRFoya1JCTHU2dWx4RzhsRllHRlJ2UnBoVlNaYzRqMHlVMWV0cGtkYkRtejJGb3RVaDdUWmR0S2JhMlM0dTA2WWNEUHBOYXNrM2p0eDlLN0ZjLytHcTFKaVJWM1h6K2pxK1hBRGROZlJhNlBMV1JWaGxmSGVYeW55WWViRHRqa0lZM1RmKzVRb3Zid2hTK1c0T1lwV2dkZDY3Sy9DL2NGekFoUW1HQzU0VVBjWS9GNml0cmNGVitDUHF5RlM0UkM0VFpNa0lPK0JreVhlYXNlWDVZYzBMV2FyR0RHOU1NTWlmVmQwN2FUbGI0TXVqUks4RS9pTk1tUGd6SUxsSHdSeVpMK0ViaUJZRmg0ekdPQTVBK3JXMk56aTJ6VjRSeUhETW5wL3dSWFF3WUNlYXFGckExQ0NMQjlnUVNXOXcwbGtEZTd6ZFVzWGFreDFkcENZL1lwbDd3K1NhTk1waVluNEk0MFBDaTZ1TUdMbEY5N3VRMHBwOGtyNXJ2aFRSQ2lORjRld0M4eGxKWWsrZzV0b1hja1dYSktqTUN2U3IwZTJmcnZzckRvL21KYTh4aGFRd0FHYnQzT0lNSElFMnJyaVVlQXB2MlZURmdSZnduUWluSmdHNElWdk15dkVhSVBBQVJBOGFLakZhNkRUcEVwUlZFS2tnZDJkeXh2UWF6dmtOWjBFWUxDUmNUemI3S2R0b2IxTEhKdk9SNG9vekhjQmJkNUtDQ3ZQU1JLM0luS205WWlCR0NVMnZYUDFyZVREYmlzVXArVngrM1haaWZoT3Q5SjBHS2F0c3BGaHh6ZnFLTjhvOE9IVHkvUS9aMWFDakJQR0hubFZ2cmdVdXBTeXlKSy9RaWNkWnlST2JGUDlzMW02bjV0c2p3YjJoRm5tWXRtTER6YXJqWUdzbTk3aTBoSmV2SklOTmt2SlozMHZXaFJhUkU2MW50R3hZNCtVRCtwSXgrVC9yREUzQWJYbDFRQjdhbUtTb1dkU3FWUUJVenFMZG04UnNPbWd5Mk1LaE9sdTIrS04wdVZndkgzbi94V1E1bW9EamticUdVbVZycVNGN29ya1h6Ym5GenF6Y2VYbU5mMDIydHQxZ2ZhbW01bmZCYU5hd0pqNmN0MEZpak0yWmMxT3cwWHhnSG0xNDN0SjhqWFk3LzNrM3pkaGhkeVpGZUFmWkd1akwxMVBGc3RmVWdxVHc1d0NZVHY1aHUwekJ0b1JqWkd6dmdBcW9kVCttdk9RZmh1clJmeW9aNUhrRllmUDZ5YlB5MEpaSEtDbG41ZzBYd200QVlRVWVhL1BFeEVpWDhOQk80NG9oRFdYUVZHT0VvQUl2SHZMUHE0WkJjZm95ckhSNy8xVFNMVEs2ZE9jZmV1aFduTC9sRmRQVEpiYjFiYzVINzVjRHd6eW5pZlRYUSs5dm9XRjVLVjFPenIxcVhrT3prTVo2U0VzTGh5WG40NGo2djJHcDRLczRVdUlmR2I0NjZaZ0lJSnRVZ1Q3eTd3ZnB1VnNqajB6N2M3ZGdWQWhzTFpaNDNKNVQwZFVKSkg3VnFHSWpLRGc1ZUZ5SnVLeGVjM09aMzRYVDY3S2RqZnhvV0N3dlBWTnMzQmkxQnJSME5FSkZpeXhLS1N5R1ZyaTd1czMvRGRPS1dQYVUyVi9MWVd5THNuZGpQek5VenZxSTdWZUlubGJNMStQVlF3RzgycWdYLzhCUUtCTkVpaWNjRWwvOW9oVTdpSFdkQmlwUUFzWXpsbzhxQVVnVnR0aEdLUlF1dnB0ellTMnU1SWQxUHo1M2swRmhwdXhMOXZRcUtnYWVFcUlRWTlScldnekRPQi9EMTZhRmZLK1hnZXd4cmZmd2c4SzdhRzllUGRVbnNEWXM4dWVLd2pxbWYxSGV4VkxhQzFuMmNjdjZ4SC9lWS9OOTUrNFFoMWQzelNEK3AycmZaMUhvSEFGRFN2TDBiRzNCdXJEdUV3MmZwUmMxTVdLRUVNeXdiMjNKMGV0VUZHeWVhSCsxL1RsbldCaEVsNGRlK0lhUUVOblErQVBrK2E4VmJqUW4xOW55NkREbWg3OVVnUFgxaktHYkNrKzdRSk1nS1VJSXZ0UmdaaFNmZXIvdDdvZENpR2hIbVcxWnJpNVVYeEJHRDRJRllWckZoNGZKeVNhK1crTnBqQjVuc2Zla1VqVGxrQ3VvRWFiamtCRkoyT2Rhb2V2d083TmNCRGNuYmdCY1dqeDJIUXJVV2s2bHUwWGdQT0QrWmhnTUtGcldHTGpNNVhhMDhKTXk1eGlGSHNpVEdRUS9kZ3dEa2M4RUZJVTgzT1h1RkNwZ1V3dXdSZUVleTlrSzNNY0FtRkwxNkF6SEJlWGNUN2YzUkRCNlpwNzNsdXRUVEVjZFBCQ1FwSnk5M3ExU25YYnlJeUhRb1J3MGMwOVliZ3JmVjFDeStEanErb09lU0IraVZMK3hUUHo4UTByWElpSStwL3BPMnk4UUx2T01QNEdjSVZBYmxQYWgzQzR3c1Y3UmtYK3lJZWRlRmFDQzhkNmZJMzFpL0FReDA4Z1dTVEI2eDArWTFxdlNUVGtIeFFFSURwaGVxZXNWcDJJbXR0SEQ0c0RDajRGK3B1bXhTcXBEdmtFQVExNVFab3ozWTdlcjlKRjJUZmZraVlCc25ZOG9oOHQ0SVhHTUZRN2s1MzFzT3hTaUd5UXUxN2NGN0g0QmNIcGdlZEo3dFR2TlBNdm0xeU1ORlFvR0NCSXFKUkRsUnBxODJnWUJXRUY4L05JQWlzWmF4eU1QaFZmakQ5V2JWWmdUS25rMUNDejAwQmRLYTYxc2FpN1pDNVRRdHU4MUtWT1FLdEZDMWU1Q3lycjQ2ZktMSW10Z01GU0pSSllPcUZwSWlRNkdjRkxXdVE3eWx5UEdjcGV6R0JLWlkxOXp0MTAvZ0huZ2xYOUZndWxJcDZSNm1teFRSdnlpbSs0YlQwTEdNYmdrVTdINzBUU0NmN3daYVFEaE53N2pvanFoZVM5aXNmWnp5UENxc0lxWllOVElxNUE3YUJnT09yenYwa0tRWGMyWjl3T29uUTNKNnJuelNaUngxKzg5a3h5M1FLSUpqVUJydTZhZThMZ2paTGJocjlnaUUvQ1luL2NTMHBSOGZvazNpb0sxZW5ONE1uSGpBRHMvNU14UEgzbm1PNVczQjZ1T1RGMmlFalRnbU5lSDlKaGRsQ3h5aTRkSEttVTRpZEdCREVaby9zWm13YTg5Z0FPeVo1aHd2ZFN3ZElEMHI5OTkrTi9IWDVqaXVOblIyVG5Sc1R2VG9ObWh3TWhhSlRoUHF5dFlWRVdqNTh4aWk4VW1Ec2RrQjJDNmxnaWViTVA4Q0JPTVlZekQwTmVLWnFwcGFuaFpGTU1GVW5sL1g1Z1hMRzJxMFF5ckdwaDNZNnFiUkVDNnR0VjNqaXRCV2xwMjVhV0h2SFZZcUFwUVJOMmxITGF2NkRveUlud2pZL1Rka1NiSnNkSHJDVHV2UlVmRldUTkp3Y2pmMXppVHp6MEJRbGxHUlcxK3BKWlhVMmVnRjdkYXZzMERtWHNkWFJYKzVJdTg4b1dXOHkyT0ZaWlMwNE1CVEs3Zm1GZzV5Ry9TYnhPNDFKSm9wb3JRYXZIa3JjbElLWHhLNTQ4OUFIbVROT1djeW9QTE5wL0Q0b01nRE9BOS9OL3l0WlArem1rOGJrQlV4bUwyMWhCMHJabkk5NWVWUUlkV0t1T243eFJ1TS84SlloZHNDTTNId3BOMU9mOUdWb21tZmw5NlI1U0FBdzFqem1vME5waXNrZkZpNTJ0QTVxNUdvbGY1dG14RXlmVDlRTmkrR2RuV3pWSndFN0ROTVA1RTRkTk51SnBweThkSHZXeEk3bWJEbmRBNWtxdnNlUm92cVZ3TGVwSVRKY2xJQjBsNU1QL1d2dVFMUHQzT1g0eFZBODA1clpOZFgzR1BCUEU0NkNIMStmejQ0aWdkV3dmdExUVTZBRjl5a3piaWhKRmF6b0VyWUhnWVNoODJYOHdqSEVxZGlxenBEbzB0WTROeFN5bUNBOFpmUzZrUzlrcFlUTGR0S3BsVkcrMVlqSDJHcmcrRjFuQ1NXWlpWZXhLVG9OT2loVWhKbzlhaUYxNFVsajZYQ0FQRmZNSE9aT0ZmeUJmZGxmRHpRRTNjQklHL1lJc2RhOXk2UWQ1TmQ3d0xJa0QwdFFpV1FVYVRYQ3lWWWU5cHJ3Y1g5UHhWZ1MydXlNQmxDaG9HMFA2cm5CTVlEc0x5aVY0WUtFM21MTjFwNGwxL1Z1enNwaTZHRjdKQ3pTemN5Sml2S2tqT09SVXR2enhSdFZFZDdXeHFKQmhnU3REZGwzakpFWk8yRlQ1IiwibWFjIjoiY2Y2ZGI5M2EwYmYyYTA5MTNlMjc2NTY4MDk5YTg5OTk2ODdiYjgzZWVhYzQ3ODRiMGU4MTQyNDMzZmFlYTA3YyIsInRhZyI6IiJ9
+/*! DataTables Bootstrap 3 integration
+ * ©2011-2015 SpryMedia Ltd - datatables.net/license
+ */
+
+/**
+ * DataTables integration for Bootstrap 3. This requires Bootstrap 3 and
+ * DataTables 1.10 or newer.
+ *
+ * This file sets the defaults and adds options to DataTables to style its
+ * controls using Bootstrap. See http://datatables.net/manual/styling/bootstrap
+ * for further information.
+ */
+(function( factory ){
+	if ( typeof define === 'function' && define.amd ) {
+		// AMD
+		define( ['jquery', 'datatables.net'], function ( $ ) {
+			return factory( $, window, document );
+		} );
+	}
+	else if ( typeof exports === 'object' ) {
+		// CommonJS
+		module.exports = function (root, $) {
+			if ( ! root ) {
+				root = window;
+			}
+
+			if ( ! $ || ! $.fn.dataTable ) {
+				// Require DataTables, which attaches to jQuery, including
+				// jQuery if needed and have a $ property so we can access the
+				// jQuery object that is used
+				$ = require('datatables.net')(root, $).$;
+			}
+
+			return factory( $, root, root.document );
+		};
+	}
+	else {
+		// Browser
+		factory( jQuery, window, document );
+	}
+}(function( $, window, document, undefined ) {
+'use strict';
+var DataTable = $.fn.dataTable;
+
+
+/* Set the defaults for DataTables initialisation */
+$.extend( true, DataTable.defaults, {
+	dom:
+		"<'ui stackable grid'"+
+			"<'row'"+
+				"<'eight wide column'l>"+
+				"<'right aligned eight wide column'f>"+
+			">"+
+			"<'row dt-table'"+
+				"<'sixteen wide column'tr>"+
+			">"+
+			"<'row'"+
+				"<'seven wide column'i>"+
+				"<'right aligned nine wide column'p>"+
+			">"+
+		">",
+	renderer: 'semanticUI'
+} );
+
+
+/* Default class modification */
+$.extend( DataTable.ext.classes, {
+	sWrapper:      "dataTables_wrapper dt-semanticUI",
+	sFilter:       "dataTables_filter ui input",
+	sProcessing:   "dataTables_processing ui segment",
+	sPageButton:   "paginate_button item"
+} );
+
+
+/* Bootstrap paging button renderer */
+DataTable.ext.renderer.pageButton.semanticUI = function ( settings, host, idx, buttons, page, pages ) {
+	var api     = new DataTable.Api( settings );
+	var classes = settings.oClasses;
+	var lang    = settings.oLanguage.oPaginate;
+	var aria = settings.oLanguage.oAria.paginate || {};
+	var btnDisplay, btnClass, counter=0;
+
+	var attach = function( container, buttons ) {
+		var i, ien, node, button;
+		var clickHandler = function ( e ) {
+			e.preventDefault();
+			if ( !$(e.currentTarget).hasClass('disabled') && api.page() != e.data.action ) {
+				api.page( e.data.action ).draw( 'page' );
+			}
+		};
+
+		for ( i=0, ien=buttons.length ; i<ien ; i++ ) {
+			button = buttons[i];
+
+			if ( $.isArray( button ) ) {
+				attach( container, button );
+			}
+			else {
+				btnDisplay = '';
+				btnClass = '';
+
+				switch ( button ) {
+					case 'ellipsis':
+						btnDisplay = '&#x2026;';
+						btnClass = 'disabled';
+						break;
+
+					case 'first':
+						btnDisplay = lang.sFirst;
+						btnClass = button + (page > 0 ?
+							'' : ' disabled');
+						break;
+
+					case 'previous':
+						btnDisplay = lang.sPrevious;
+						btnClass = button + (page > 0 ?
+							'' : ' disabled');
+						break;
+
+					case 'next':
+						btnDisplay = lang.sNext;
+						btnClass = button + (page < pages-1 ?
+							'' : ' disabled');
+						break;
+
+					case 'last':
+						btnDisplay = lang.sLast;
+						btnClass = button + (page < pages-1 ?
+							'' : ' disabled');
+						break;
+
+					default:
+						btnDisplay = button + 1;
+						btnClass = page === button ?
+							'active' : '';
+						break;
+				}
+
+				var tag = btnClass.indexOf( 'disabled' ) === -1 ?
+					'a' :
+					'div';
+
+				if ( btnDisplay ) {
+					node = $('<'+tag+'>', {
+							'class': classes.sPageButton+' '+btnClass,
+							'id': idx === 0 && typeof button === 'string' ?
+								settings.sTableId +'_'+ button :
+								null,
+							'href': '#',
+							'aria-controls': settings.sTableId,
+							'aria-label': aria[ button ],
+							'data-dt-idx': counter,
+							'tabindex': settings.iTabIndex
+						} )
+						.html( btnDisplay )
+						.appendTo( container );
+
+					settings.oApi._fnBindAction(
+						node, {action: button}, clickHandler
+					);
+
+					counter++;
+				}
+			}
+		}
+	};
+
+	// IE9 throws an 'unknown error' if document.activeElement is used
+	// inside an iframe or frame. 
+	var activeEl;
+
+	try {
+		// Because this approach is destroying and recreating the paging
+		// elements, focus is lost on the select button which is bad for
+		// accessibility. So we want to restore focus once the draw has
+		// completed
+		activeEl = $(host).find(document.activeElement).data('dt-idx');
+	}
+	catch (e) {}
+
+	attach(
+		$(host).empty().html('<div class="ui stackable pagination menu"/>').children(),
+		buttons
+	);
+
+	if ( activeEl !== undefined ) {
+		$(host).find( '[data-dt-idx='+activeEl+']' ).focus();
+	}
+};
+
+
+// Javascript enhancements on table initialisation
+$(document).on( 'init.dt', function (e, ctx) {
+	if ( e.namespace !== 'dt' ) {
+		return;
+	}
+
+	var api = new $.fn.dataTable.Api( ctx );
+
+	// Length menu drop down
+	if ( $.fn.dropdown ) {
+		$( 'div.dataTables_length select', api.table().container() ).dropdown();
+	}
+
+	// Filtering input
+	$( 'div.dataTables_filter.ui.input', api.table().container() ).removeClass('input').addClass('form');
+	$( 'div.dataTables_filter input', api.table().container() ).wrap( '<span class="ui input" />' );
+} );
+
+
+return DataTable;
+}));

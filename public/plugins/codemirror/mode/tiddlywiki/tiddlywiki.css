@@ -1,1 +1,14 @@
-ENCRYPTED::eyJpdiI6IkpZYWJySkQyaEdyK2lEVmE5OWd3RkE9PSIsInZhbHVlIjoiN2VvaWd1amFUMEcrWmtXS1oxV29RWGxOblVCS1hHelF6dkI1ampRaTNFTGNyTXVIYVcwd3h6eFk1czFRVEhmNlhIODI2VkVYSGNDMkJPZ1B0UEVoZlZzYVFhWGFldFZOZis1YmlmYklibXFsTlA0djhKOENnR2RIUGNNaVJHcGZWWGhxV1JnVkFBWlJscC8zSkM3M3ExdEczTUpVdEFEV1RIWU1hT0NUdm1sTE9scFpTTjU0SDRkajdNUm1GMUlSREpDZHNMOEdtTisrNC94a0M4d2xKM0hzMFl3N1IwTmRJaldKYWNKNlljMHRjTWtnZ3htNzVSMklLMmpqcFdSZ3hTMWhLcHp1aWF5RGcxa2lrcExHWGZwMVB6V1IyVm9uSkxFRXFudHJlM2c9IiwibWFjIjoiMjRiOWM2NDQ1MDE3NjE3MDg5YjQ4ODA3OWQ5NDYxOGM3MzU4ZjliMzEzZDIxYmIwZWM5NWNiZWY1MjU0NDJlNSIsInRhZyI6IiJ9
+span.cm-underlined {
+  text-decoration: underline;
+}
+span.cm-strikethrough {
+  text-decoration: line-through;
+}
+span.cm-brace {
+  color: #170;
+  font-weight: bold;
+}
+span.cm-table {
+  color: blue;
+  font-weight: bold;
+}

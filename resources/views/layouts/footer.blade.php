@@ -1,1 +1,53 @@
-ENCRYPTED::eyJpdiI6Ii96NGk3QmphaVBTOWcxOVk2S013Qmc9PSIsInZhbHVlIjoiVEJnc3RrNWtoYXpRN0RLVTIzTDliT2tlK1F1aHJwMHN4K1V3YlV5WmYyVDc2NDNqOTVjeXRMdWUrVlgvMGRsTU9TRjZ0b25VRk5mNWZIOWpMRU5GNkl1N1NNQnJEZk0zR1lLQXpCbVNObHdyN0FxcVFsUmdYbU5VUHdIblhiWUI5d0syWEtnNllNcXZhODdyTnRERW41RjhRcXcxMFlGbzcxZFprSzV5MXQ2aVUvNjV4VGJnTDBrdGlXREtlWjVuQzBkK3VtN3k1UjBFLzVpanIzcTZVSCsySGpnU0N0QjlQUFBNZng0Zk95bkZIUDgxb0svb2RMcFdLSStUMEVxQ3NUbStnTWxNL0RqTWtaY1Q1LzQzeUlBTW1uOGtHZllCdXJXa2pKaE5SMFB1NzBUMFovelEwQ3BWWHNsMUJXSkcxd01vdW4zalpKU3JuTGdnc2g2N3NkNWEwZFZjUnREYW55clYwc2tQQWJrYzFJUldqWFBMN2JmVmNoM0t2SmgreGxhL0xEN2ZrbWFFcXFNdUVDYVRVN2JCeEVPSXVldU80NmVkdFlZWXVGbXJISjNaUSt0ZW01OVdLNUZkTXpLQzBvL3luMmt3Q0lOU3pFc05iblMxUEVUalA0b0M2ejlML2hqKzZuU2d3WlJPQ2taR1NReGZDcTdhQUNYcGUySk1NRE1KRXByWndUbUo0ekZtTzZWK21Hd0o0bzF6WFJGZmZRT2RwQzEvZ0xhMU00Vitaa1ltU3gyTmY3dlYyOVFvUnVUVFNRYmxVUm1IcGFVTHlvekY1bklydEpiODkyNGw5QVU4eE11U01QWW9RaU55c1h2aTJYLzZlajNrZGZuTWxpZllmYzdnVUZYVFNWSTZMdm1nNUVmRkhkM1hKcUpJN3dwWWp6NnVkM25TeGxWRjZzQVZpbmhKbDVDaEczWEJvWUJ1cTF0NVRDN2dBVnY4eGxWM1dvY092Y2dLb09obzA2Z2JyM1FnM1MrWnplTnBsYzBwa3lheTNkZmV1Nm1hRkt6UnAwakJyK3FhVi9yWVNYd0hXMmZORUFMcHRoTDE3Q2lTY05yKzVpZ0YwSlhBM3pWWkdQK1BmZ1BnQzRReTBxeXFGU2svRksyeDczYkhqRjR4S0ljMXZkd0J5REZ3YTd0dnRJQmNGTzBua3dzeDFjZmZIa1czbUZ0WS9KMVd4MXZmSzl5WjRGcGJmd3pPdmxiR3dNTkZkWTBIeXpnRHc4V0gyQUQ1NEFoT01MYy9vRXhhcThUS1AzaUhlaENoaTd2MVlNeTFZeUl1NmFRQUtoNlJON0Z3REVTK2NjbUR0QkdWM1VDT0pNQlhvbDhRbkgrQnRvWjZpdWN5eXZ3YUkyWUc1eHoxdjQrUnFhZGN0cGJ5d0dhYS9mL21GTU1iME1ZMkVOU1lJdStBUFVtVGFNRldHZnptYWc3OVA4QWJJbkw1Q2ZBVjZiZCtQeFJ1QTBSUUIvc2NmZWtHb2pHSkI1OE0zQkx6bERiWHEwM0JxemVwRUJSMERhbWZVU0hNbWhCOU5LNTVGVW0vR0trNFJjRk5wWW1UOTYybElBTkY3NUFTbWZhdjQ4MXU1Tk1tbkU4bzltNVp4S2o3KzdnNEdlYlhtakxHT3JmUXVwSS8wczQyeDNySTdCSmZrajlidmpEUlZ4VlBJb2Z5dUk2V0VEb3ZXOXNlQnkvWm14MnVodktMMkF3emtPc0RkMklZa3RrMmZvSnY2czRHNEV5LzRmN2RsNU1maFpBbWRQaUxMbEQrcUp0ZjR5UmVlTmNwRkZkRzFzb094SWdUbVo3N3ZzbmNEem9DSUxjUnhKRTVQaEpVMmRDcFhNWFhCN3VtSXdQbU1WcWt2b2J3R0dBYUpqZWhqOEZhSTVHZ2w1c2lwZ01BbXVJclNwUXpCWENDOVJJK3J5djJmckRLMkpTSGVKbTk0aXpBblpKMGd2SFE3WHJweXMxa3A3bUNTRFp0VnNydkNSSE5jZFR6NzNCa1JjZlFMeTBhNXJaZE14ZXJDeGphTThBbmJ2eUdjTjZFL3E0bmZCUXZFNGxKTEcxZEF4eVIwdmZEMHN0Qk5FL0hZc2Z5YVl4dmp0Z1VZcU1wcjF4SEhOQkljQ04zVFJvaTBDRG9GcGlqQy8rd1FBbjJwQy83YU5nZWwwTUs5R0UxbmpxYlc1dDhidXJmM1dKSjlwL283ZWpvSElvaFk1c0owbTVEMEtCYzFnSUFRQkdMQmZyNmlPQVVVc0VlNkxxM1hRVDFtM3B0akg4U0RSL0VIcFhpOTNCSU5OaG9kV3ZKK3dmOGtraTFMaldzcXhZUWpsdS9teE5yVlhKLzdrMDJrSjBUTmR6U2ZyVmpjTzBTT3BVbEJGUDhJRTg1eWRxNlNwRkVnaTAvRDloeUsxU3dXQzhkcE1ZWml1THhKUkRJTytsMGM0d2YzR0NHcFhPUHpQcUJLTnJlR1pYcEJHNkN4dUhzTk4yZytQL2RUdzloWGZsR0lSdnJTSm16ZDIyZzl6YlQ4NnVBMms1SVZWTk05dW81SFNzT1YzaDN2cHJpZUlQRWFYYlNRc29RaFEzSVAya2JQc1lNdytkMXdpTmxVbUZjcDg1Ymt1M2kyVHRtYnZIaXlhOUp0bFdxVU55Z0RqT21LS3dQKzk0SHRyZkc3ZXZxbjRvR0xpWkE0aU1FZHg0R002dnZOU1FrNVFFN0llbFFkRlg5Vkx4aDF3NVpNMkVCRHowRFJ6VkEvK24vYVE3bC9zTDhyZGhiSGhjSkNCbUhSTmlDR1BmZ0ZLam5zajVHVlFyUzVLcFk4SDQ0d2FYZG5QM2ZUU2RBendmK1NET3U0SjFuOXB1VTFHZ09HVm82MnFYcmpiSTZlaE9BT1daZkFFaUFzM21hNy84UFhINlVSdy9acTJvR3dJcGJ4SFh1M0lJOHhrQ2tiaUV4K0htTkVjK3dwek1LMENQazNEckc2K0RHVWp0bS9wQ0ZaWXRmaStzcC9xZjA5MFN5ZkZ6N2JXTGt5USszbG5PWUVLa0s1ZkZyWllFZG4xVjJBcnp3cnhnWUp2Vk9vdFVBYzV4RGIreDBNbFptNFVFWmRhUHFJb1hoZmE5d3RuSkYyLzBDbVpPTjQvQ25mcjdvd3pnMzRkU3pHR0RjM0l6YkhBZTFvSmhzNGdPYWxCc25JSTdYZnV6OENJeUxMZHJwZjc1U2RYdnF0V3d4TGRFSk1RZFpVRmpnU00xbDVSSUtDemNvL3NZd3A5N0FJa2pnbHZBS0dySzkwMGF0aytEQUNTeUt2NzR6R1p2Sk1vRVNjTWJMMTlqMHJmaktVcFU0blJEVTQxTmFaRlB3TlBzUGJtOXVkSzNpRWUvbEtCTFhmYk9PQkRCUmlrTDYyN3JHOTZhNjc1dWYrdjQza2gvU0E4RjZESlFwZDVWdWlIRUhBbnYzdTFDR1JXRWQvZnlBVnkvelI3Mm5nMDBFTlRIMlFJSGtLeFFMeFMzZ05DWUE2S2M2dzFxWDVLSVBkcVZJcDVaK1hrUmFQUzlKQ3VqLzlIcjRHREJ6dUV2QU9NdWUzbkF4WUNFYjl0ZTQ3aDA1c0pOdlpldEVRRDRMajZSU28zSUw3Wm0vQjg2NkUwbVVLWWw1djB0OVpubWE5R1B6bG5rdHhnY3ZDUFZlUGUybG9tM0xRTk04UFBTUjZmRkdvUEVvUjRQeVRkMGtrNCtYaU1xK2lmUlFkYzVSUHFMeUwveVFQaFJia0JCK2NoR2xnYVRJY1BiMnFkUnZYeng5L3V6ejlnPT0iLCJtYWMiOiJmZjAxNjExMGJkNDVkN2JkZDIwNmVkM2UyOWQ0OWQ3NjA2ZTlmOWJkNjJhYWI2NDZlNTNlMTBhZGVmMWRmNTQ2IiwidGFnIjoiIn0=
+<footer class="footer mt-auto">
+    <div class="copyright bg-white">
+        <p>
+            &copy; <span id="copy-year"></span> Copyright Dashboard by ElPato
+        </p>
+    </div>
+    <script>
+        var d = new Date();
+        var year = d.getFullYear();
+        document.getElementById("copy-year").innerHTML = year;
+    </script>
+</footer>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="{{ asset('https://code.jquery.com/jquery-3.6.0.min.js') }}"></script>
+<script src="plugins/jquery/jquery.min.js"></script>
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="plugins/simplebar/simplebar.min.js"></script>
+<script src="https://unpkg.com/hotkeys-js/dist/hotkeys.min.js"></script>
+<script src="plugins/apexcharts/apexcharts.js"></script>
+
+<script src="plugins/DataTables/DataTables-1.10.18/js/jquery.dataTables.min.js"></script>
+<script src="plugins/jvectormap/jquery-jvectormap-2.0.3.min.js"></script>
+<script src="plugins/jvectormap/jquery-jvectormap-world-mill.js"></script>
+<script src="plugins/jvectormap/jquery-jvectormap-us-aea.js"></script>
+<script src="plugins/daterangepicker/moment.min.js"></script>
+<script src="plugins/daterangepicker/daterangepicker.js"></script>
+
+<script>
+    jQuery(document).ready(function() {
+        jQuery('input[name="dateRange"]').daterangepicker({
+            autoUpdateInput: false,
+            singleDatePicker: true,
+            locale: {
+                cancelLabel: 'Clear'
+            }
+        });
+        jQuery('input[name="dateRange"]').on('apply.daterangepicker', function(ev, picker) {
+            jQuery(this).val(picker.startDate.format('MM/DD/YYYY'));
+        });
+        jQuery('input[name="dateRange"]').on('cancel.daterangepicker', function(ev, picker) {
+            jQuery(this).val('');
+        });
+    });
+</script>
+<script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+
+<script src="plugins/toaster/toastr.min.js"></script>
+
+<script src="js/mono.js"></script>
+<script src="js/chart.js"></script>
+<script src="js/map.js"></script>
+<script src="js/custom.js"></script>

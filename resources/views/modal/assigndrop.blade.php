@@ -1,1 +1,53 @@
-ENCRYPTED::eyJpdiI6IkU2TWhsWTVFNGtVSGJMbzhEYlMyNXc9PSIsInZhbHVlIjoieWVTYWh1eE9NUkdzVFNjTGhzMGhxaEVYOVc4YThQTUU3VldObllPVDZ1TVgxV1d0TW9tQ1dXd0pibFdLQmNnQWE1amgzb3BiVTdjdnpOTkFVQlYxeXBaT1FLTnpmblNuVDlIbUVlZzNGeDhRR3doTGw5Z080UitwamNBcFRuR2xCQ2hMOVI5UWJBYmFsMXdnMk54bWt2ZGQ0VkxtRWhuQWtPMEFPZ2hrcFI1MUo4TkJHOUpyY2dDNTRFQkZDSGpDL1VJVWVMYmcxdXVnMG1oMGxkYTVHZ09OblBpRE9BSXdxYnZHYmQwZ3MyRzU5OE5SMk96V1lsb2twdW5tV2ZiQitPMUIyWERxOS9URmlaRlhSNlY3djhXQ2Zqb1BlbTBPUDh6akRUK2J2d0xPVjV1TXdIWXdFcW9hVUQxT3YxL3NXbzhoZGRjaEpCVUFsMk14RDcyTWhrV1dHZng4bzFCRXN1bGYxTVRqK0ZUejdhVTg0VlB0d2hDUjVoaW1aSEVDeGVMR0dxeXdOSGpvdFhiT2s4SmVkR0x5UmlSNHkyQ3o1Rk5WbDV5ZFluQnJnbXRyQzNHeThpcEtaTERmTERvRThoa3RnL0NlV3o0aDhqREN1a25DTVgyZmdQZklLMjFwMTBFMWRyVjRVekNHYXhlbi8rTVlnWjBxTFE5OGhNS0RqRGpFbThlcmt1dDdNdmZibkUxamZ4VzFUdXFOUjRtUEV3czU3T0tuNUdubUcweXV6MElSSnVXL3BnTnQwNW5VSDBEV25sU0NyaDVDN1ZkMGtic2pTbi9EUjZGQjhwb3BEL2R0MXRQa0FyWUMwY1ZJMTVPaTFlSHc1NXZFamE0UXAycjBISkZYSnFMVy94MysxSDcvVCs5WkJ5aFlQQXB1RWEvbEpEbWQxa0FtTGJ6dXNjcldSR3N5dWdDZFB6S1QwMTd2Q3pMcjlUa3NISUhrSEhvVDhEa0ZWVEljN1FMOHVQMlhjOTdZV0RlQ2wrUWpUdW44a2wwUGdCa1BYem5qVXl2OGNxZytFSXY4TyswcHFzTEIzbnQyTVhuRDhVRXZ6RVhrU3JFWTc3dC9lMytNV1BwWEkzSnpoeUN1blRDTytRVnNiTXB3b24xZkxrVGpzbmRRQm13bSsxcm1xdXhVc0dyRWNMaDRjZW1YMDZPNkJ0SnVrVThkNlNNYXFWK2xpOHY2c3pGbDVIQi9Cb0pQSmJnb0dYT1MzVDBuTUdzejdLcjdtNjBYVHBqclk3M1NGNXl5c2FnU2tGa2o3YUhBZ0FpZ0tqQmV5QVppcDhGZFVCd0pUZTBuUW9oVFpTUU5JOUFOelR4VWpySHlyZDJRaVpkVjUzSC9xdmp1ZFFOeTlBWG9RcU8rMXlPMHdoWGlhYWYzYUM3ZEFFUU05U0tUYk1WVjNUYnRDVmtVYWk5SVhXT2ZvaytjRm5VRWd3R0NMdnB2V0JBNE1VTW5iWDRJRms4NWh2eCtPVXFIOEphS1VpQUNmYUlBYXgzL1ZVdjVBd1ZoSm1BeEhsSERTQzhkU1ZZNUEyMmhDNUJDdW5Hb1NCVXBNZTdndU9JYlZzZlpCZ2NKd0MwQUhLS3dseFVnL0hHeHF3MWIrMXM3S1FtKyt0RFIwQmlDK1dkNnkvNjREUFhYVXFZK2xjcVNDZ1VQVjVxZ2M1bWhadU96RUNlMzZ2eGpOOW03YXFnWEVGZ0xnV1NTZXBuWm9LRWdhUEkya0RtVkhzbGxBeFB6aW4yUkZOSHozL2hHdXRuS0R6SGdxYmNpM1dFNXF6R2tZQ2pORmVxMTZ1QXRBdFFUd3Vvay9ZSW1zYU1zRS9KOTZ2UnlKTTBKdVI2K2NLc1lvVm9nTm5CSHZyUWx2RGVmQlh1VGZiS0RyWXFYR3ZQNGxhcDd0aHZCQVJZaldpOGNpYnBrT0YrZWxPZ1VGakg3a2NRWXc5TDBqQVMxYmhyNmNEcDMzSmNFSHJtQ21ydk51UkVWdW5LMTdSZ3RTZHFqbHF2WVYvZ3NBd1UzcWo2VXJzQ0QvSEhmOHBwYzhzWFhGcU5lUXpQd2RhNUhjUldtbVFMWEN4dHBIODUxcEFVc3ZoeCtzQkV3ZFlieUhtbStDeVdPZlVkS3RGUjdwanBlZnYrRHVlQmZaMHk2MkdmWWhvK3dPS3ZsUGx5aGpQZmJ1NHpDMG1wclVXTmdpbHViOGk3NVFUdXNVTjhTajBjbUFaZThZcElBMHlYNlkwd3BzUkovcFhqM3IvWitmZmRZdHdKekNpcGVYeVQ3Q21qOS9VemdoL3p3TjAyWWtXRTdrTUE0dVNzb3ZEa0VHaXYwZGYwUlpLQWoyN0prank0ZW40WXhsdFQ0ZFErR0Fpb0JXSW1vQlQ3SkdzUnh2WUtLYjhDZGVGNnNxZDY4NS82RlhUdy9Ua1VXNWpJa3BKRVl0YUpTdnRoSWtjdlZTdlZtNW9QM0E1VmptZ3orRDdtelV6MXpoS3hOZWpScFVacmxTTzU4Z05VcWkveWRzUEw0UCtibk5aWDdxV3hVNWZINU1JT1QwT2VlZEhFbEo1WHo2cHJlbVlrYVRaNldjR3JUeE5xTHdlYWFVMHEvcE9TQUd1aE1FaHowTGJCbXZaSkw4d2JjcERqaGlYMWtPcFIzeVJnTGExUzdSaUVBMnQzL1VjWGwzNzhHTVNlVVI2dnJxNE5UZml2WVpyQmVuRUh4STMzT2s5TndQUHFpUEhjcU1JUk1oR2VPTUR3dzNnbXBKSk1NeWZsUEh2azByNzIrYjRMMXlpZm1OR2FJQkkzaXZmbE94OGVsODk1Yzg2Z1NIcGU1dkpaT0lpQ1BEQUdCMUZteXg4M25IejROdHNCREZxYUU1MkM0dDJZOXhSQ3lrUGErc055SW54V0tpSFA0RGJkUXdBNVVmOFoxWTRJV0NKaCtDOXlDc0VGOURKeWw2L3dkc1VoMmMzcGNZRXZZend3OFVSRzAzNUJkVFpXRW9UTERPZE4yTjFHcjFVRkdpV3UwdlFFRTdLT21wLzJlU1VnaFdMeXpvZmVqOGZ0cWRJSGQ3MlV3cS9ESnFlcFNra3RoM3o2aTRHajl6M2E5TGZJQjVLenl5UHFiVzhpR094ZVIyMEk0dTV2RHp2c2NHdGdIQ2wrRjVoeUFXeWhnaGxNbjBmTmtydnZYbG1XaEpBSGtnTXBOUnI5NHphZm5hdEQ3RTlPckVjR2hLVnp1dk85YzRVbERxKzFvT3BLR004SzZsa1ZPZnk2OXJQRnlZd1U4V3k2Tjd5S2V0c293SjAvMUE0aGUxdVloRWFqTHpuSEY2eHBXM1phTUMzZjVkOXZEaVhHWUZrU3JheWRjQUt1NE1nQ2JYOFdMTnAxTFB0N2lIbVBrS092MjFFY1Ntd1d6QWdHMVd1MitURjA2dzZTVjc2Y0JrYjVEamd1UXVyVm43QW9ubmlyMGtpbVZhN1VhQ3VPVEZHSTdqTVFZMmh1NFA3VU9HV2ZyTXBZQjRYc3ljZkx3cnF3ejdXbVdrTUpnbXI1dHA1eXhoem9abFNoQnF4blI3N1FrR29ndGhDWEVobDdYZXErSnRLOHFhM0JlR3p5QmR6RXFmZm51VEYvYmJ0Q0wwemQzOElCZEtJbHFZeTFHaVR4VkxiUWtzbWsvSU5NVm9XR05mYWYvTVZjY00wMkx3ek1QVG5Tdk45WWFKWlFxOTJBNjRHSDZtQUJSOWZYelI2Z3lqaU9kQ3hKcTFpOUZnWm1PWVFyMTE1N3hGL2JvRnhXckF4eDduMVlvbDlpTkFabW1pRk16TjlGZStoM1dpdlhNbGJwUDdJUjZ6b1d6dkJmVmNOMDkxbTUwMTlIT1pCOTUvdUQ1YkYwMmU3SjB1bkEwTWl2Mk1TTlFnYTdQUGNwamNndG1WcUI5VktibmgyUVlzT2F5VWphdnkxSWllaUc3ZXhXN2d6TGJvZ0hGTjNvZmhyZ0lWcTRoL1c5ZjNLYXcwdVBSb3VUWDQzYlhhT3dKL000azZKMEI0ODQvS0FKN0NQVVpodkJvdWVBRVB5N2N5RW5BRnE5ZlFBSU40YmJVbUtMcTdrR3pLRHoyMlQ2dTlzM203ekJrSVYwNUU5OXpBZ2ljajBNVzBDVlc5QUhoSzR5MDYxamFBUFljdUJYM0NWVk1GbUowdmFsZ0NTVmdyYzB3c05adlk5bjgzNGlta2pubURWYTVraC9laXlqZFZhOWRrZy9UcGNTYVk0RW9Gb0ZEMmlEbk1RdnJaL2I3UVNpZlZtTXFaWFFMcDI0dW44TThKMlpiSUxkcHZydFc1cVNuQ1FnODVYeHcvbUowb0dvakpiR1NuOFF6TTdNZkFRaGpoVGtnbWRKdWFFdm4rWkw4ZHYzQklsMXBLZ1ZkZGdKeDBENWxGQm0wdk5LNFFTZGhWWHluWTlsaWFjY3NTNlNGRlc0bnRZQS9aNHJzY3VxQ0ZzUm04K3UxMkNJN0IyelpUVnNFb0NMOFJROFNpUW89IiwibWFjIjoiZTQ2MDBkNTZiNGUxNWU5ZDU2ZWEwYzVlY2VmZTBlNTZiMDlmYzMxMmQ2NzBmZjg1ZWMxZjIzMDMyMmEzNTYxMiIsInRhZyI6IiJ9
+<!-- Modal Form -->
+<div class="modal fade" id="assigndrop" tabindex="-1" role="dialog" aria-labelledby="exampleModalFormLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalForm">Assign Drop</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="assignDropForm" action="{{ route('assign.worker.drop') }}" method="POST">
+                    @csrf
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="product">User Worker</label>
+                                <select name="user_id" class="form-control">
+                                    @foreach ($users as $user)
+                                        @if ($user->type == 'worker')
+                                            <option value="{{ $user->id }}" required>{{ $user->name }}</option>
+                                        @endif
+                                    @endforeach
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="name">Drop</label>
+                                <select name="drop_id[]" class="form-control" multiple>
+                                    @foreach ($drops as $drop)
+                                        @if ($drop->status != 'Problem' && $drop->status != 'Dont send' && $drop->status != 'Suspense')
+                                            <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
+                                        @endif
+                                    @endforeach
+                                </select>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-success">Assign Drop</button>
+                    </div>
+                </form>
+            </div>
+            <!-- Modal footer -->
+        </div>
+    </div>
+</div>

@@ -1,1 +1,16 @@
-ENCRYPTED::eyJpdiI6ImdHMFpmMjJKTzhMeitrZkFucHk4eXc9PSIsInZhbHVlIjoiQWNIOXplbFNpMytMM3hudTJXSGtQVm9sTHVxTVBlb2hIZFkyVXhGY1FBaUMyRnFWZm5EUUxtOCs4bEV3cm1vR2ZFZGtZai9nWmc1SzRNY1NOT3ZrUWRXMFJ6U0g1SzV6SnNINTdEUFUydGV1dmU5d2hBeTAvWWpySU5TSnVnU21BZEpjY3Z5cUltMk5QNms3NGJtSlZoTkptc1czTEZNcmFsTXJuSy92NGhUK0tYdXpiVStBNzY2eW5XSFBwM2V6MjE0L0drS3djRnlMR0dDaFB6dzZja1J5VnRDakVCbDVQOTJNeG5RVWwxMHlWVXpEN3hmOGNIZEdzQjZaWkhxNk9sRUhDNWF2clZzRUNPWVkvbmlneEU1Z1J6cmE5VmdzOEF0WmpCUVdwcVZGbGRrSTlKUzF3UWtvRFBnaTdQYTZDMkNqK0FNeGwwWWxtNTB6YzhhYlVjcG5uUGJ5Z1VyWVZyMUZhaFpxQkthaEkyTWlSWkVuR1ExWm9Zcm1BWTJONzZiaXVxVFdCNW9MeHg3QzV4cDF0VUR6YTlEUWx4c3hyekRITFJLaW4xQ0RHbVphNXRtdHovTjFTdGtkd1UyZlc2MS8zTEh2bkVTN3IySXYyTmN0cm1rMWRlNFJpNXFZTlVydjhWV0Z2VXB5TXU2cDF1Y2VyMDEvdDZkT2VwbFhxTWpDSlpZRGhERzZEay81VmlJWVJLcmU1UlVNWDlPRmFEVDdhMjJRTWlvYTBseGtuR1d2MWRmOEh0WmZUVlVSWUpML3Vid25ndmZER1FrdHVqYm53SXRQbDlka01PRWN4WWZOa0JueGIzQzhDMDlSTDBFMStscENqWGxjc2tvN1ZnWlkzZ01vY1ZnWC9udDAyOGFnTEVnWTlUVkl2NlhsVzZOaFpMUkI2dFNiUjQ2NzllVFlDRkN2MFdCNEVLNmtFZnpaZTFud1dCWWJtU0w3VCtEVXMvYlFYMUg1Z3pBUFRUNC9MWndYT0VQUDI2RnRuejZUQUpkVzZCWnoxYU4xa0M4RStkakxhZFQ5dnJ6TkhXQ3RZbjdYYys4aHlRKy9lbWRtTWluZHdWRkRFMVNUaHRPcy9ZbUU4K3pJUHRJZkxxaERWaERtdlZhR05zT0E0NklRd1BsMitpaTQzL2VMdlZ0WGFOKzdIVXcwR09UYmdBeEtORHB4WGl3MTJaK1kvRkFPNUhBTnRhTXdmQVBKVFZudUZBPT0iLCJtYWMiOiI2NzZhYzZiMDM1ZWY1YWVhNWI1YzI5NWU0MjkxYmQwYzZmOGNlYTM3ZmE5ZDIzYWY4OTE5NzExODgzMzA0ZTk5IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "ruby");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("divide_equal_operator",
+     "[variable bar] [operator /=] [variable foo]");
+
+  MT("divide_equal_operator_no_spacing",
+     "[variable foo][operator /=][number 42]");
+
+  MT("complex_regexp",
+     "[keyword if] [variable cr] [operator =~] [string-2 /(?: \\( #{][tag RE_NOT][string-2 }\\( | #{][tag RE_NOT_PAR_OR][string-2 }* #{][tag RE_OPA_OR][string-2 } )/][variable x]")
+})();

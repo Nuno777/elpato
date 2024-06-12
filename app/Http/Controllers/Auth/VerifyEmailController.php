@@ -1,1 +1,28 @@
-ENCRYPTED::eyJpdiI6InVEWDN1YjlFREhyeXU2SkVmNHRBNFE9PSIsInZhbHVlIjoiaWR2RU12ei9VY0lHNFM4OHZHODRBUDlKWGFYVUVFSkNVZFUzK3dVYmdoV1RaZ251aGw4N3VuRkMrRG1aVXRZQ005OE5Nd2dlNkhXaVVzNHN6TFByVGs2bE5mdWVHQmZ4czZvNm9aN3Z1OGVUUWFabFlGVC9vajB4d1I3aXdIQXVuZjIxN3l4RTA5YXplMElGajl6cXJLdXFBNVNHMlBDR3E2bWxORUpLd2w0eFU0U1JMVmlwcUJFai83eUxTWGZkS0tMdERuZmdUMXJHTzcrL1gvbk0vdENOQzFFa3NUL1pnM3pzaGZtQmxFOW1iRCtTZTdaRDFweGFkZGxUQUVIenVxdTVSL3BTUlgyZG9zYWlrYVNOSEg4RGQ1L3d0dGpvcmQrd3JnMUpTa01jY3l0OE9ldHdIKzJraldPSW9PbnVjbmpQZkxndzh2VktTc3Qxb0JRUktmZ0QrYTRCL28xMStCTkRUK0FDK1pNekZHSUR3b3R2bE1JMmt4R2k2QXRScTZOWDhyWXNzd1JlREUvcGI2Q1lYVXVzV3lNUXFNMDUvbUNIL3pONDNwMTBCcWdmd1o2UGFuTVRMbXg0aVJsWXdhOEQ2WEJFSFc1TWhkZG9EWFNLYklXTWZ0WnpBVEpaRzNKTGs5RWVrY2VVUkhhQi9FdXdTdWxtVDJ2VWJlTFpLSGtGTWVUbEt5STdnc0poT1lXV056T2hVUlNrMVBUWmtuKzNJOURSZWNMemNiVkZxb1RLSXBYSFdxUmhXMzA0Mm5UbUU2UnV6amNtUDJTQzJVbmNreWpIV3IrQktuMWNLTWNHVlRzaFFLYVlmc1U2R21sdEdtaytoZkt1Q0k2dWo5dEhMMmtEeXhzK2JONkpPVlliZy93MjdtczBRa2JPQ3BJRGpqZi9VSjJKWUxKNE5PZE9FL1owTWdZczJWNG55Nm1rTjFXOWVBWFpPVUk5ZlVFY1I0bHBlcnFtOVpOd214cGFWOHROVGQxL0g0TVVPbEFic3pIbFZsY2cvSHU4QXl3UnBJZ1c3Ni9iVmY2cXhNeFRXb0JpTVdIblZndzEreU1XRkVKN2pnNWNieXE3ekZSS0lySnFUaGxQSTl0Y2RndFVKZDJkOVNFb0Q3dU9DSi9xN0d4clgxejJVdE1MeWZncHVRRVpSeS9MVzhKMk50RC84WVZIL1pSU2s5ZTNvY3RhMmM3cXNMT2t4RlVMcGFzcnFjdGlBWW1JVmxwd3Z4aWl4dUVIR0h4eHAvSUQxWUlDeFVWODFxK21oRTlLMnUzSG5NUFhLeEtKSnJSdjl2bGRSU0xnQitpckZvWGpUQlArZi9nQ1IrRVplSUlPRXdsUnpUTE0rQ25yNEdOY1RTUXlHT2dzeUxDbFpKUitCeldPQkw4L3Y2ZmZYbGl3d1RiVnNzRXRhK2ZjUWdTT2dlY2hzSERCU2NIM1RFS2hic1Y5YWJFbmdJQkN6NElnbGJjL3dBPT0iLCJtYWMiOiI3NmVjNmUxYzAxMTU4ZTc4NzVmYWMwMjNlNjhjMTM4ZTQ3NWE1MmRiODgxNmFhMTAxMDgyNmM1OWE1Y2RkMmJlIiwidGFnIjoiIn0=
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Auth\Events\Verified;
+use Illuminate\Foundation\Auth\EmailVerificationRequest;
+use Illuminate\Http\RedirectResponse;
+
+class VerifyEmailController extends Controller
+{
+    /**
+     * Mark the authenticated user's email address as verified.
+     */
+    public function __invoke(EmailVerificationRequest $request): RedirectResponse
+    {
+        if ($request->user()->hasVerifiedEmail()) {
+            return redirect()->intended(RouteServiceProvider::HOME.'?verified=1');
+        }
+
+        if ($request->user()->markEmailAsVerified()) {
+            event(new Verified($request->user()));
+        }
+
+        return redirect()->intended(RouteServiceProvider::HOME.'?verified=1');
+    }
+}

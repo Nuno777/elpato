@@ -1,1 +1,51 @@
-ENCRYPTED::eyJpdiI6IlZIL0h6TElWZU1qSm5mUXBKajRGQUE9PSIsInZhbHVlIjoibytETzAyT3pRaUlwYW95R2lNbjR2ZW1VRzE3WXkwZnlJcWJGMENlSHJNYVNZMkl0R0hjczRYMGQ0VDZDMGc4NExGUnZ1Umt3djl1TFU1TFFGeXVZYWE2WFB0cXNhRUlKajNOSzRpL2VmWCtCT2lST0pyTjdQWXRvVEdBWG9MWFVCYU5ZVmcyNTlZNXdqTnZMdUZXeUV5ZUIrb0tFeVJMNHpJUk1tRU01QitFbG9NWjFFUC9XZ2Y0bzZLZHYzZnJKU092WWVqYjlBUXpmU0tEWkNKVEhpSlRFZ3NMT2I4emZCZjF5Q3FQN3JPbTRuQ0RDY3RXQXRpS3NwOUVFMlFKYTlXQnFvUEs1VG1taVJwd2dVOWFWZlhiM2dZTHlhS1hQY01INTQyVFVDaUk0N2hLWDdyWGJISlpKczZCVy93Vll2ZDVFblN6cTllU3g2QmFxd2J6K1QxSElXenRoeFU1L1lTbHBwZWd2OC9PVmNYZ3FxZDhKeHZwTW5adjBHa21Kd2pPV3pFY05ySXM4a3hwRk1JSlhBT1dVQmZMNmdJbUNaeGxUMUp2WWJ2SXpGUGJPWTBGaFFBWVlYRWZRaElVaDB6NStrdng0K0FYQlpURE9vR0Rjc3VVbXhFMjREOThScmlCbE10Y2ZBMk1Nazc3T0xBRUk3Q2E0a1NFVnRoMURjZGhsY0JUcC90b1d1akpFKzZ6UXJHdHFQeGx2VlhBaTc0YmhaZUJzOVluQXQ1R3piVExGbm5GcnJKMjNHN2Y5TkNVREhQMEtITlUyZ1QxdUZaV0czd2JGNGpVSDc2bjYyTENJQlpWeThVMStiOXB6SjE1ZE1UVHZuYjJPNlhaZm9DNTBCTjhNY2YrMXZvQ0tOR0FZbEIyZDR4UHQ4Nm1tNXprOCtzL3JnenhjdU5NanNKNmt5UXo5OEJLYkJSWkFtRHZGcEg0NFhmazN0cWFmZ0U2dHhxSjhlNjgzL21JMWEyZWZRSE1yUkpZd2tweE9NV3Azb2xub2U0ZVJ4ellWNnJYVjN5ZDZ3bFVPU01PNUxHWGRoNkliV3dHQlR6UFdwd1hzQ0MxN2ovVE1Wb202KzhlVEtjVjFobDhPK2pReVczcmpkRWF4dE9wZUtFakxqWi9CWEMrcjFjS1JJZ0MrN1JwOUhDRjF1WEtraUZMQmxPbHdZWmpKaE1DeWxSWVkzTHU5WjJQTzZyZ0tVc09TbmhMNXhOd09ZZTU4aS8rczRLYjB3N0FwVWRQTzlwdXh3UWNhb29tdnhyU3gzUStXM2w3Sk11Nzl0Q2s4SEJST2doeWp6dlZaOFkxTG8rejZ2aEFOd0dRTFhNemNNMEhWRnJtTFk4WHo0cTd0YkszOUJNM3pxYlR1c2d1S24yd1NMR0pSREduUkc2TlJMdEptMVZ0bUFmYnMvYU5vcEVXeVcrSklLYlJzYXFNd0NuWUZPbSt4MURENm1qeXlqUWxFNU5VNWVsYnIvbElnRXl5N29CSE55Z2VkMC9tK0tJQmNuUFVZWDdsSEJnaHM0OUhIMC94ZE9KdTByaVJMU2l0RytwcithcG9lZmxRZE9BNjJjZEpDRDEybnRyekNiaDgwc0FUbEEyZjhhWC8waEs4WTZVMUxvNWF3aFBKY1RZVWxDUDhNU3JMZ0tFd0RwajE4TGhCemNySkNpU3pJaDU4endZZS9Ba1A5ZFd3dUpWamhud0RvQkpqeGdRZnhGY0ZzbjJ5djJRME5XL3VFR3ErMndmQU95QTBtMm5tbys5ZDFDK1MxajdhT3NuREtuMUVRV25wZFhjeVZiTXFNNjFtbGlSbm1mNXFaRGZkZThPT1lrR3kzN2RrbTJEQVhESHZ2VWZzUmNNSGZYenQ3RkU0RXRUS0ovaWk2YW0vb3JiUlVvN0dCcnNSVlRNYnNwM3crTUNuVjE5SHdZTUdtYUV6V1BwdzR2WTNGaG9aUHFFS2dsd0Z3bWVMVU9nUzBhS0lSMWdLcnFmUlc3d0IvcXg5ekhpZUVNaGU4QzZUb1dURm5vdnVwNmdFSXdFZXphZnVCVk56bUQ1a2ZqbHNiSmYzMmp0SGdjL2FTZFY4OG45c1B6UWo3T09vWldBUmlyMXYyaUdrK1Z6ZForeVp1QytpMU5tQWxQejlYcGRhSkRYc0RuRlM0YlZ4c2U3YWltbVVMMTF4NzVGUnB4bEdzOTl2c09vUTkyMy9iNlh3dFdOYTRLam5hR0ViOWZBVFgxSXE4bisveDUvZUx0bUc3cFgxMFRaK0ZYU2VsMUxYQW90cUUzMFJaazZGSnR1MlJjSDEwMkZQeUlxdVk4RHY3OTFVZTN6b1FtZ1ExSU9tbUZzcHZXMWI1MjNoL0xBeUhQREFMazIzZVcwRHNVcVRlaDBFSnNpNkw1YWI5YkZ1RnJad3RiMWJRS2xsNFJNWGZnQk1sazNnQmcxazJib3c9IiwibWFjIjoiNDRkOThjMjY0YmNmMGFhODc0ZjY1OWM5NDlkYTNmOTkxNzQ0OTE5ZDY5Mjk0NDQ4NmYzMjg3OTE0YmMyOGZjMyIsInRhZyI6IiJ9
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Models\User;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Auth\Events\Registered;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Validation\Rules;
+use Illuminate\View\View;
+
+class RegisteredUserController extends Controller
+{
+    /**
+     * Display the registration view.
+     */
+    public function create(): View
+    {
+        return view('auth.login');
+    }
+
+    /**
+     * Handle an incoming registration request.
+     *
+     * @throws \Illuminate\Validation\ValidationException
+     */
+    public function store(Request $request): RedirectResponse
+    {
+        $request->validate([
+            'name' => ['required', 'string', 'max:255'],
+            'email' => ['required', 'string', 'lowercase', 'email', 'max:255', 'unique:'.User::class],
+            'password' => ['required', 'confirmed', Rules\Password::defaults()],
+        ]);
+
+        $user = User::create([
+            'name' => $request->name,
+            'email' => $request->email,
+            'password' => Hash::make($request->password),
+        ]);
+
+        event(new Registered($user));
+
+        Auth::login($user);
+
+        return redirect(RouteServiceProvider::HOME);
+    }
+}

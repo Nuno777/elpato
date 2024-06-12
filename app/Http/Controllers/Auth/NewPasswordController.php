@@ -1,1 +1,61 @@
-ENCRYPTED::eyJpdiI6ImxOakZwRWNoeENRejFqcE1EYkc0ZUE9PSIsInZhbHVlIjoiZkpCZTBlcERvYzJHaE8yTFh6NThYMU1pa3VnaHlqWlpEYzJSWGpiYUlpMlJabU5qRGtJbjByVDhvb3dQOFJpM3B4cUZlQ3RyaUJPR0xSNElKMkJvL012VmI2VlF2WmN6ZkVzRjM0bkJVbmJLY2owajhjQ25OelRFU3VYbGNOVE94ODk0aXM0YmllUmpFN3grZUVLdlZLMVBDVEsrTS9NYUpQTG1wTmNsNHQ3OVJWUk81dmZINE8xWkxjQWNyQ0N0bXJDK1Q3K1lTYUFtTlVPSUlKbzRTM25sTmkwUFZDaVROWDJPai8vWUhwU0dtLytNQzI3TUp4QXFrYzZHVHlERG44b3Yva0hieEkxRkx0VG1id3J2WHZ4RGtQWGJOUDlENXZKdGMzUytxSmRBVGJpcFEveWdURjhqdFZ1aDlRaDRVdFh2MzNOT1lsL0VmQTJKcUxyTVBBazV2QThISFhOZVJHbHE4TlN1STJPZEpPSXhNcEJjYzdMUzhjelVxZURLT3RiNnpINFphc3V5ZUlLRHJSNXo3eE9tS2p6WUZ3cGEvOVFYL2hEWGMwNnlZUkczMjF6STU1NXMwUmlTUkJvYmt6Q1FoVVExbmtuRk54SzE2akxhbmZ5YVFJdzhwUXhhc2xHbzlaSkhsVitJazIrcElLL292ZVhuSmFBNnFlbWVSdVRpR3BzNk8vdEd1clpTVTdqS2RUS244TFZCLyt6TkRMRzRHWExyQTJjRks2S0lZaUx0SVZoZU03K3V1NkhoV0FPdWMxdXJ6eUVIalAzemxMOE4ydTlmb1dlVTJVYzFQK2xWMTZJM1dXWlYzUFAweTBSbGZPU0pmMngxczZHNDQrTUR3bk9HZ2FPazRRYWJ4bkdTcGhiRmdtQnhjTHFma2FzQUVsUjZXeTNtUHQ5UWxnVFgxRitjbGxPdlVEU1MwQzhyckRxUEQ5NUcxT0tORXNYRmF6M2FuWnNmVUkxTzhPWjN2UVRuWGNlWHNhY3p2V0hVU0xMeVZVTXA0eFdiVkM5SHZVWGw0QldiNEk3c3pRb1FXTUQrLzhoR3FRdFE2ZituWENiQVhPenFuQ2tJOWUvMzhDL2g0S2ZnQXpwa1psQ01SVXJhSjJDRVVZRlNTaWVZQ05RRlJOT1p4VkZTSERyck9OaGlJVWVwM1hMZWtNUVZjaUQvdTZSb0RwQjQ1WWozQlN6WkZ5OHhCTitlU2Z4Qk9ZbjNpZXVOWERONE9mK0VZYXpTL3FWOW4yRmR0ZlFkcTA4QlhwSFg5cElsRXJiT1FYbExrZGJDeWlsdHNCODMwL25xYmlDZmpBR3orcTY0MXp1enpKOTZUY0ZyTzZaN2hndkVIV1dWRStYeFVEZEhCWjIrdDFsZFBYWmU2bWpvTFNzbUNRa2tYaFlMNDlqRGIxUGhrOU4rTUg3VGxxekdaclZUQW9sMm5iUFdRa3N6S2hwS0QvaVpCK0FEQW5xdGY5ek1tTklRUTlmLzFKUFZQRjBXeFVONGFrdWI2bE82VVZXT1NiZjZJRFhSTXNUTzd3aFJPK0RQNjhSTHlkSHcvK2JNcjZvM09RYmFJNStVWDBSQUtGNzNCdEtxWVZXdUIvT0F6eUdYZ1lPYlU4bkF6S2t4QTVsR2RXODV4WUdMSDJKZVZzak0vcStGc3V0a2lqUng0Qm1sanI5QkRFMFFuWDJqUW5CS1o2d0t0aEpKWmc1S0laVXVwTGh3cFpCY0FZMVN5MkRvRXhTNysyQS9HNlVFK0xueGtKWG16OE9mZm5mTkNyNGVxeEFkUVVjR0oyYXl6V0E0K21xRkhiWStmOU5pS2Y1ZWlJT3pUajh4TitYbjMwNy9kaytjVzRPVWxzNVJZbWlXcEo2Rk10eDU5QW9FS1N4U25XbDNFc05lRjZQNGFDNVg1emlSR2VHaGJ6eU9pTU1GZitUWitmUXZyd0g5TEhqbllRSGVRa3pPang3WjFSRHVpQm91bThJbHhzQnJycXZZYXYvT25DUEhlMmJQTUMvNTVYS3hFcUJvR1RCd21Ud1VjZkt5TEt5V3d6WXVHWWFlM3FBRkxIb2hRMmxFdVdVb3MwVFYvRFZGTjhZK2RoWXp3WTlYV0hxVG4wMnNIa2NmVGZKcCtWczVsTGFLbGlCVTVnN0J2NkYvRHBYd2R6NDdDcDhtaCtWWUlGMkd2MkZoNTE3TFJaSGpzUzBNeStwZllqOWlFcmsvcXhDZng2ZENZSlNjL1lwSGtGTnlRbGd1VU10N0RZRTBNQ0lYQUpwZmE2ZFdwYTB5TDA5U0ErM0FqZ0g4eVNlNHBKTUZVd0VJNkEwRVVGNE0xTUI5eUMybHIydExBc3dEUTRSa3dKTmtmLzk5aDlXbjZNNENzNUNNVE1MTWxSTjF5Z25nNHB1U3VzZ0ZPOWhVVUF5ZzlIY3V0UFowQTg1SGs2SmswMkUxQW9LM1pQQ005bnMxRzBIcjNXQlZMbUJ2aDhCc0xRc2VhTWNsdTNWTnUxVStxSURqRnBCN2tjUVR0UzFIMjlmZWpTYVpTdnRKSDd3MzZDMlhxdDUwUXY4YVhGUEpKd2FNdlVsakZ0MEVBenRFQnNzZzZTZDVGL0wyTnlscDVJSG5IaUN0cElXZ2liR0xJUVhveGR3RnpyckJxSERBTDhzV255c1RXVllWR1MwamlqRVNPbG1hcThmTDlFeXc4NjErcEhkUTBhejlDaStYSStidDZhZUNiaWh2NXhsekdSaXE3eldTczU3VnVFaDY2czRIMWVKU0c5KzRETENSdHUzT08rZEZHb1JhOGtVVGpXamczNEtCVlpZS2Z3YjdYK3RjdVVRRmJCdkFaR2g1RXZTUnB2U3l3WXlLNlBWNmRoUVpYbmZLVVd4NW9tN09BcEkybXAvNVF3ZmpMTGRNODNJT2orOFdnYUNlOXI5REJYRkJBT1dibHpkUVhuMnRDRDB2b1pHU1V0dGY4VlNNK1d3WXJRZEJQaFp6SHJCVXJHUWQ0Z1A5LzNQSFdZSEs0bml2OExCRUMyZkdMakdTMFMvWFlSVlNEcEFkZFZKTzdHQ0F5Vm14ZEoveHNxU3lranRRMlJNUlVWOHdtUEJtNzJHeUdiZ3JXSmdGWDZPOURZdFRuZnU1ZGxWcHlTYkFYMVFqamQxakl1VFZ6TlVmMHZzWHc5Rkxrckw1TUgvd0wybWk3UzVSYjJ3YUUyNGpGdjZmTjNlZUk3M1pHL1BJOTM5UXRoMHc0djNBd1hzSGhKdFVMZmJ0L3ZxbmExNWFzTllPUzVENmZxQ3JidUwwREliaXA0RnBNMDh1bVk0ZnVDaXdicWw3QUpKZW9KWGpqQzJ4aEpDdGN0VXRUTm5RanFPNWZDb0hib1J0dDBDR2RCQWlXMlpBVlVDZEgxWXNHazd1R1RHUHF4TzMraW5NK2JVbWtIaE1OOHNUSWtXK21qU3p0eDhuNVEyMDNQSlkwaWtPTVpJYnVhM21TT3ovS04ra1pUeXVQVm9MY29vbnZUSXc4YzZCNlJBaUtxS2FrSitFWkt6bWRzUmEzMC84Vm9XSmRrWXpwdm1zUlBENVJhMVhWbHRVc0xtOGlRRVN1dlJ4WEJNM0FEMFkrRWdUQytHK01XR1l3N2JpejJ5a0pGWTRCR0lXczEvekQyYjhHY053Nm9Va1FHS0l1NXg3SlFlVkc3cDJOM2RNMHhuZ2NvcmI0SllQdEpramJZTzlhMmJ6ZFpzNHR5WVMvckQwNEttWk9MOXRtcU92VGpGYUJCa0EyN3VRTWROWVdSSzJROHNaN0kzVlY5YWdva3JFd3hwQ2xRZVdYbE9neFhjN3FxZmc0REpmRmFBUHJvQTR2V09hakE0MTZqQ3lVTDNFZVlpNDBXVUpiemJmY2hITFdBcz0iLCJtYWMiOiJhZGEyOGZkZmNmMGJlODJlN2U4OTVjZmJlYmEwZGExZGRkOGRhMmI2NzY4MmM1MjNlNGE2NGIwOWM4MDBhNGViIiwidGFnIjoiIn0=
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Auth\Events\PasswordReset;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Password;
+use Illuminate\Support\Str;
+use Illuminate\Validation\Rules;
+use Illuminate\View\View;
+
+class NewPasswordController extends Controller
+{
+    /**
+     * Display the password reset view.
+     */
+    public function create(Request $request): View
+    {
+        return view('auth.reset-password', ['request' => $request]);
+    }
+
+    /**
+     * Handle an incoming new password request.
+     *
+     * @throws \Illuminate\Validation\ValidationException
+     */
+    public function store(Request $request): RedirectResponse
+    {
+        $request->validate([
+            'token' => ['required'],
+            'email' => ['required', 'email'],
+            'password' => ['required', 'confirmed', Rules\Password::defaults()],
+        ]);
+
+        // Here we will attempt to reset the user's password. If it is successful we
+        // will update the password on an actual user model and persist it to the
+        // database. Otherwise we will parse the error and return the response.
+        $status = Password::reset(
+            $request->only('email', 'password', 'password_confirmation', 'token'),
+            function ($user) use ($request) {
+                $user->forceFill([
+                    'password' => Hash::make($request->password),
+                    'remember_token' => Str::random(60),
+                ])->save();
+
+                event(new PasswordReset($user));
+            }
+        );
+
+        // If the password was successfully reset, we will redirect the user back to
+        // the application's home authenticated view. If there is an error we can
+        // redirect them back to where they came from with their error message.
+        return $status == Password::PASSWORD_RESET
+                    ? redirect()->route('login')->with('status', __($status))
+                    : back()->withInput($request->only('email'))
+                            ->withErrors(['email' => __($status)]);
+    }
+}

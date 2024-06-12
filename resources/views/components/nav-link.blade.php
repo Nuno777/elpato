@@ -1,1 +1,11 @@
-ENCRYPTED::eyJpdiI6Im80RUl5VkRoSVFqOTl1REhlUHZpU3c9PSIsInZhbHVlIjoiaEt2allUVUM1TnJudE8vTFZzZWxHNm1oU05jRzBkaXZRSzFDcnQ0WmlPWTVLaW1vY0YyUzVxSVFYV2tSamRhY0JUeW1kamE2VklRMUhkV0s2UWVYbXUySjdlandKOVBMMUh2MXFKYnpncHV2MWZBWi94Rk9oYUhpdC9pVkQ1VFRENTlYK2RVdThHbUdMc3k0b2ErZ3YvZVN4Qlp6RkYxbnJvOVRMUnRqODFFMldPUE9aRVBHemROSTRsbUtadVFoNk5zS09XcGZQRkZ6VDdUUDRRZGtWZWFWTkcwcmlLcGpaS1ZRK0YvQm55aFA0bndSbUlWM1lBTDBGNGlHaU4vOXlrUitWS2k5SDVMNTBVWWJvRE5xN0xBYThmSkJaMnhQOE85UnJZZUF3YWNLQ2tuQmkyMmN3cUI1czQ0WjZTeWNpSWUvNDNDMHByemxtSGhmU3FVbzN0dWtlbHAySlNXVm1iYkI2V2N1YWtRRjRWdTloWE4wK0xEUklNbE9EbnpXYytVRmJSLzl3K1hsQ1hnRmtIS25Ld2VhRE5SSjgzallxMTB6TGNEUFo2OVJmbHFvYWZWU0xkdjBlRlhMTXNEK3VzeE1Db1pmRDZFb0dmdW9zUnZqclFSMFhFeU9Ua1ZPbXlzY0tVRTkzM1hubzQveGFsSFBockcrQnJ5cEdlUGxSUkY5Vi9xMUF1b2Q5bTIwNHJCK1lueDRSRUhhdk1PaGthUDdSaTJBRURtZ3BqbkVtWm52RjNEOXU1emJ1aVp0VDFSNWRvd0xDTElnQUtTSERSdHJiTjhpWCtSV20rcEJwMWNESExmZitLdFA4NnZqN1ZXREU4Um5VLy9xTmdZdlVVcFJFRlByeDYrcUVGU0lyME1iNjUyelYxMEhva1dXMXU5eXo1VWt2YzlpMjRZQ3RmQmwwWWJEdnpyd1hTOTlET2ZWZ0h1dkQ0Tm4zVjNzczU0WW0zMnBZdE1XR0J1RUtvcHdCUzdGUUhuRDU5cWRkSlVRK09aSEtUMVUyU0kvdUhVcDRzWW9IL2dGQ0ZsaU1TSXFuZHZUcmdON3FFd2VpRy9Pb096bjhxUVFaZzRMSzNxM1U5S2hGT21XVnFObUR0Y3g5NEV4Z0VJMnNGKzJvdldmb2FMM3pmSVZOWnRFb1B5VkFSdHFvYkQ1TWRxNEVDVDNsM05kQjk1VERlOEg3c01iMlQvdGZXU3NHRTllTUhQOVQyR3VTK2k0MHMyL1U3ZHlLRS9OSzVpQzBrdTJ6UCt4Q0gyaXljMnVKb0VsRnFhWDNpTWFwK1BzaGhENmpuOHhkY2E0TnNRMERVdlhVVXNQQ0F3aWdzWDFPL0U1YUdDRmNpQnZXZHNyOFdhS3h5eEFMREx1MHdJU2R6K0IwNmFuTEE9PSIsIm1hYyI6ImE2Y2MyYjNiYjdlOTk5ZTdkYWRmOWEyMWI2YTY0YWQ1MTdiMGZmNzcyNDBlNGZhOTdkNWU1NDBiNTM4NzhmMDUiLCJ0YWciOiIifQ==
+@props(['active'])
+
+@php
+$classes = ($active ?? false)
+            ? 'inline-flex items-center px-1 pt-1 border-b-2 border-indigo-400 dark:border-indigo-600 text-sm font-medium leading-5 text-gray-900 dark:text-gray-100 focus:outline-none focus:border-indigo-700 transition duration-150 ease-in-out'
+            : 'inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 hover:border-gray-300 dark:hover:border-gray-700 focus:outline-none focus:text-gray-700 dark:focus:text-gray-300 focus:border-gray-300 dark:focus:border-gray-700 transition duration-150 ease-in-out';
+@endphp
+
+<a {{ $attributes->merge(['class' => $classes]) }}>
+    {{ $slot }}
+</a>

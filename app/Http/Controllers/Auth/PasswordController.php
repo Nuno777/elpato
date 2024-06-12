@@ -1,1 +1,29 @@
-ENCRYPTED::eyJpdiI6InNPbklISVA2SVRHRW1TWFhyNjI5ZWc9PSIsInZhbHVlIjoiTmZ4OFFVUll3b0JPd09aTmVnWllmWnZLOUZvbjZZMmIxeG5HZnZpYmNWY2N1RGFVVmswWG9uQzZmN2c4ZFl3ckU5Q0haUXBuSjBRRUFQeWdHRXRWVXpTeWdVVmdHU1hUOXFXL3RhaW93VmxYaU5CSFpIVHk3SU9KTE5leDJLMTJkMmd5c202WmR4amxGcnVhdDYyaUtkQWdPeFNsd215WXg3Rlpnbi9sSHNBejBFcENGRE1ycndaL1RsT3B1U1psblhuYU9obkozdzRVVEI1YTNaSVdEWlk3UzNQdXZNdmN5ai85KzlWeDFqTHBBQWJORERpRG1MOVVrYUVXMHFmc0dldHhvQ042SEFKc3VLZisvV1lLb0loR1pxS3A2bk43Z01HSXZSR204UUhjMzYvdjR5NHVHbmZGUnlqcVBrUUVCVG9Wd1BiL0lPekttVFpNc0s0MVlMajE5U1JJZ2JscFhYeURXaFFmUy9uamxYbUJpak9ZQ1ZLbEpHeHpLTGRDS2czYmlmS1ZweE8xNnV5TDFuaFI3UXc2dW9vMm9MOXpXZzYyUCtoZWIxbFRjYWVJYTBsT1NxZVVZTC9qNXFEUlBWSEE1M1pyRXlvNTdscFNIcEhLOS9NNXdZNnFKbE9KdDdXbmllemlzV3hVbFRjRFpCdEVVK2xJdE9oeHdvcmN1QlM2Y3lFQnNSOUJNdkEwYy9ESGhtZEVHcytFa25iV2xUVm92b0xOZE56c2JrK1FCSXNJeWxlSVFsakxKRHN0WDVuRDRVbDR4TVUzbXBSbisvNm5VbS94SHdTcDg5NXFhRFdKV21uckpRcjVDQmRkS2JsRmI1WUFMaVhYbG5kYUJTL3VMY3MyQTRGYTB2RXFkVUVUeUhTU1FjTVZZc09OMG1vR1FpOHpqUW1FN1kweHIrYVgxVXFNcnc3eEZoNlhpaFRXWG1mOHllam4rTXNQbDVlZkJQYnZ3T0h3NTdKUWxGaFl2T2VzWiszTWh1VlFraWFzdHk0YUtuZmMwdDJuVkhNZ0dvWjFuUFJpUE5wQXZuMnZmQ2Zoeis1NExQOFNrSkt1WWErYVA0a2lnOTRJR1Z3QWtKMWxiVVJNd2NpdW9hMnJwTCtyM2pLczVhTE5GcDBEa0IzYTNOa1dLZ0lDTGlwQ0JXTXRndmQrZjJKaTBYMjdmNk0ya0loYzVROVRVY05hREc1Wis5eG42aEhHd3VpbWVBQlp5L01xNUl3NnZKU1lNTEpSUE1KcmxuMkhXZEM0UUhZbEwrS09TVlE5blFieVZIcGlGQVkrcFdwdVhjdlpVeDhGUVVTRFBmZ0ErRmVmQWl0SWNhbmNVU2d5bnQwVUxJMkYrcVgzNDBXN3lkYnlXZVJKbG1tSTBtak5aMXZsK2twTWJNb1RJd0Q3OEdMUWFwejB1RzA9IiwibWFjIjoiMjI4NzlhZjAyMThiMzYxODYxNmJiNjlkYTI4Y2JkZGNlODNiNzEyYmJlMTk2NWE5ZTg4MTJhYjgzOTJmNTEwYSIsInRhZyI6IiJ9
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Validation\Rules\Password;
+
+class PasswordController extends Controller
+{
+    /**
+     * Update the user's password.
+     */
+    public function update(Request $request): RedirectResponse
+    {
+        $validated = $request->validateWithBag('updatePassword', [
+            'current_password' => ['required', 'current_password'],
+            'password' => ['required', Password::defaults(), 'confirmed'],
+        ]);
+
+        $request->user()->update([
+            'password' => Hash::make($validated['password']),
+        ]);
+
+        return back()->with('status', 'password-updated');
+    }
+}

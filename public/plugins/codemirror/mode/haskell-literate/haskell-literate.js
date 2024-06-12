@@ -1,1 +1,43 @@
-ENCRYPTED::eyJpdiI6InBrajlSQko5Um9tL1NqdUwwdXFEUUE9PSIsInZhbHVlIjoiV2ZaODNaejJHNy92cFZUNFBPM1Bsa0g2d3VzdkRkdkV0QUVMVFRoTTI1WVYvZDJSUU1jNzNpaGUzR2VjUlhTZ000b1RJbHgrVk8rbGxFVEVxZEdOeEh3L2pPSm96bE1VeC9YSk12aFBGWUI5anNBTWxYWWkzallRVi9VV28zaURLM0Y3N3BuNGJDdG9ZRVZISStGNlQ1NkFRK2hRWFd2aDhYT1l0VTVUY1luV3pSQUlLK1Z2VTNnTHJob2dwQWFiUDM5THp4SUhzWWR5WHJ5ZUxhMVdCNXBGeGdzM242eE95VksrWlRVVkpNZ0g5VzRSbWZiejQyU3huVzNnaCswS2xOTWR4UFRsYzgrVjhNb09PWXpFQjFvQmlKTUh1QmZPNUc0THFVT0lVMjFpWTBQOHpoSGR2dmJja09kMDREYUxka00vQXdOTmNTamVSV1lGT0xvQndaWG5UZW5FNUZORVRMNVBacjJJaDdUWmVoZHJWZkV3T3F4QzRBQUhHcjRQL21mNTBWMXpVTVJlWXcyZWFsay9mMW1zckFkR05lK1BvclY0QWd6KzZXTTBjWG03bDZOTnFEUjROd3dPL3pjZjExcG4rcEpHemFXdDBlMU82cmt3blgwZUMxWnEvdnVsZk9SRGVDZk16TmFZdGVwdUpsWWJrRzlPa1VjdzdDZ0ptRnJXODY1eDVGNHpxWWpMTndmbUo3K1dpbGgrY29mRHAzTFJoaEVyZ0UzaDBoRStGbTJhVW5ZVzduVmMxVGxkZ0RhNm92NjErak9tNGdqeFhISlJpa0pNR2FDU0pLRXZrZHY3T3VkNlpMLzQ5cWR6M0d3RVNtd2FOdFlVdlFqY1RTYkNjbUdtSEVoRGV2ZjVQZHpsNG5UTzFZbld1VzRjWklnQWQ4TjNVZHpjenJVL2ZOQWJoTUNUcU5HSjZ2QWdaMDJTTEVaTEVBMGt3STBYa2JXWURKOWIxT3E0QmtUWjNOcEhZK3FIRFdxUzNoWXFpZW43VGV1VlJ1QWVST0pHSjA3b2Zmem1rM0crTlpGaG4yQ0VtL0xTU3B3Z3VMU3hhV2lhbUpvOU1kTHJWckcvRlJzSzdaZC9lWDRXRzBBdXB5TGlYVU5XZUE3Ukx5NVhxR0ZsT01IMGtBS2czNkN6YWZ3c3V2czB6UktvSTdSZDQ4bGZoVExGbWVrcmRHSnJyT05Zb1JCZXZSOGJFWUlmdDUzT1N0NFJTaWJQZzVwMTJIdFZMVzlwMzQvR2tWdmpHWXM4Nkl2d01JSXdWTjhwRVllcmx6YVEvTE1POGNDeTZpb21ObkgyV1hGSklTN3N5aXpsd2RlZHl6eC82ZFgxUitEejE0eU1UdFhQb0RaNzVWRm1KZ1pGOUlZdkFXdVJKS3IxaVVIRUZKZStIY1dOa1VpMG1UQjQzanhEQnFrZ1VZOERtaWxqM1BqRnkrcS95cVhleWcvSG42dDM0M0ptaWxkQzhhODhlZ3lhbnpVaVA0T2R4TWQ2c0ZTYkxaL3ZkUzhuZ0lLTFdqUG85MjUwSkZUdVFjWUNqWFErSnI2WURQZ0dRT1VxajZkaGVJUUtuZllNMW80V0xWRjlaRS82dW84Z3dtbzBYT3pBMWRYMklTd3MvQ3pZTFpvSStUeEdnZ1d4TlB4MU41VC91WXpVeWtoRDFRbnVYWVlzZDRMTTVLc09Qa3BPWGpJa2tsclRlUmNCc0RrdVZ5ZWxtakFtZ3hlSzlRanFIc245Vm1GMlBPV2hYaHVtMm13S3A0bE56Ykk4cGtlZGsyc0pyc2JBOTJOK2szSEZhK2hhVmtDWWtlNnd3OXVpK0ZYTlZtdFUydUdBUDNtOTRPM3RLSmJQSlF6VE94dmJWTit1K2owcXZTd1pNVnNpdTUrTDBDSEd6Y2tMNXZBOFNOdTNDcmRUWGhWeEhCVFBPcWZJcnZMcHJJd3pkT3NBRnNsczZGNEp3YXhNOUdKTkhHVERIZElOK0xDNWhhbytycTNaZjI0bGRRSU10ZU5rZ1ZJemU4bTMwY3ZFWUxqdDVaN21wODdZc1ZPUDNSd2ZobkJJYnhnY0pRaWZvWU1wOGZHeHA0b3VIajVCbnc0VENPRU9wRElGVzlHQkxpaExyb2p1MTdzRU0yTHdFelNnN01PMkVNSk90R3dnb3IwaUJBdXJRYmgrOUgvYjBHNmc3aXRYVjRiOHltMTdVV0tnTGRYZnFDYXo5dHU3SXc2Y3lQMmFvaWJ5YlVXQnZ2c1Jpdm5UN1BXTnlLMXlKWE9mS2hFSnNqWEcwMWVYN1Z3NzR5WmpxcnNLcUcwZzFRL2VDRjZJVG1UWnh4Q3U5dDVPS0wxZUhKRFVPQjM3OUdxVnpuanNqTUw0Rmp1blorTEQ1QXpHYkdKVWVoMXNMOG5NNnJLYk9zVCtpNmdnOTY5UUNxTTdFUENYSTJxZGVuL1lTVG5nZUEzV2xpRW1FZ0ljM0dsVlNVOGsiLCJtYWMiOiI2YWMyN2FjODVmMWFjNDI0ODY0MmQ5ZWQ0NjlhMzljZWYyZDc1MWYzZDA3ODgzODhlODRhNDkzMjgyN2Y0ZTNkIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function (mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../haskell/haskell"))
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../haskell/haskell"], mod)
+  else // Plain browser env
+    mod(CodeMirror)
+})(function (CodeMirror) {
+  "use strict"
+
+  CodeMirror.defineMode("haskell-literate", function (config, parserConfig) {
+    var baseMode = CodeMirror.getMode(config, (parserConfig && parserConfig.base) || "haskell")
+
+    return {
+      startState: function () {
+        return {
+          inCode: false,
+          baseState: CodeMirror.startState(baseMode)
+        }
+      },
+      token: function (stream, state) {
+        if (stream.sol()) {
+          if (state.inCode = stream.eat(">"))
+            return "meta"
+        }
+        if (state.inCode) {
+          return baseMode.token(stream, state.baseState)
+        } else {
+          stream.skipToEnd()
+          return "comment"
+        }
+      },
+      innerMode: function (state) {
+        return state.inCode ? {state: state.baseState, mode: baseMode} : null
+      }
+    }
+  }, "haskell")
+
+  CodeMirror.defineMIME("text/x-literate-haskell", "haskell-literate")
+});

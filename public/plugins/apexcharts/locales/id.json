@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6ImJiM00xbjZUSExjY2ZlQ1dWd0dQRHc9PSIsInZhbHVlIjoicTRoMHZBK211WXJwU0RUeXJ4Y1NNRXBUMkRtaWc2OTBVZldRV0tuenRCaGdTM05HRmlITHhWZXNyRWRkT3dlN2lReWhXa0VnWTZHZWFYZmo0Z0liZ2dqczZyYXkxZjA3SUVwWjZ3R0dyZitKUTdyWXlSc0hQVnZKRXhrd1ErS0Q3Vy9UdldFcUw4MU9kQnNuT0M2UmpDL2pzNUVPdWZ1Q2Nxcy9ubUZqaXNNa0pvbHZpdHpUekJHR0hNRWEyTlRvN2g3TjI5dllQYklQbHdSSHBIbitjbDhGaFJ0M3MwS294cW1qVUVBTnNBa050QlpZRmZ1aUo4bFgyWkcwMTAwazdSaEJ1RzRDZi91RzB5M2JKeEpBeVVHUWxId2JGUzBvR0xLVU54MHQzVmlmaFJTbEorL0xJb1VFS1JFcU9SUFJleDVXcE9qS3EwQldpVmNTQXNKekZvVzFjdlJNTEx1WkhCL2ZTeUVWS2VLVlhTY0pVWnNlYUNLVjlPTjd3T1hMV2syemZFUWI5TVoxRTExWG5pbU5iREIwamExcmhhbzFsM3FYSXc1UTJJYy9JK0U1dUgwWHJ3WlBZODh4WlpiRkUvMlJ6US9KcGFzYVFnQ2wyeUpGVkRtcFFLUmRvaWpEcm5qNGV1SXBkUTkvVnNKaFN4L3NmSHFYRWtpRXV6MkFldDYrY290azZFL3oyd21UUVRySllYNExDUWFWaGxCSGxOWDdKRmxvMVJkSXpQS1lWSlp4cmFOWjNHR2lBR1ppRXlNdTlKbEp6ZGsvRGdrV0lreU5wVGc5YlRCSytVdTlqR2QzRnhtdFdNSnM2L2tqWlFpK09UWG5MMlo0WU9tejM4c0pZT3V4SGJOaVYzT21rKzZuYWFwc0N1dEFRaU03RjVhMlJOR3FrRUVTNE91My84eE5kV1RBblpGZG83a1UzdmtsSE1ZY2JJdnkzYnZQQ0ZYVWpEWTJ0MVZWRzZPanVCdWpiOVlFcU5DOTIzYkpLeFZ3TmFsellCYjlBbW5uUkFFZlFvZ3gzMWtyUmNlVjIyMHhUT21hdkVQSUU5L0pCUUIwclhROGYwU003eng0UmhSa1RFREhjMVRkdzJxK0FtMmlMRFBMaGhqcU5QNTgveGMvallrdGlIN1haUk13cHR6RmoyUHk1Um91OWFjQnBTdWV3YjROTk5qZGNBQWJEb0dadWZrQ3RpeS9GQXZZUlBKcjdEOGx1RlgremZxcGNYeFNWLzZlREkxWHVtdzhTbEdKazVlR3RtWmN6bVNLRGFtZFo5eGlIZjFqMFFTSW5aV1RFUT09IiwibWFjIjoiYWUwZGYzZjM3MzUwNDQ4YzY4N2Y0MGRiMjFjNmM5NzNjMjZkNGRlYWM1MGFmYTcxODZmMGI4OGFiNjE2Y2NlNiIsInRhZyI6IiJ9
+{
+  "name": "id",
+  "options": {
+    "months": ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"],
+    "shortMonths": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"],
+    "days": ["Minggu", "Senin", "Selasa", "Rabu", "kamis", "Jumat", "Sabtu"],
+    "shortDays": ["Min", "Sen", "Sel", "Rab", "Kam", "Jum", "Sab"],
+    "toolbar": {
+      "exportToSVG": "Unduh SVG",
+      "exportToPNG": "Unduh PNG",
+      "menu": "Menu",
+      "selection": "Pilihan",
+      "selectionZoom": "Perbesar Pilihan",
+      "zoomIn": "Perbesar",
+      "zoomOut": "Perkecil",
+      "pan": "Geser",
+      "reset": "Atur Ulang Zoom"
+    }
+  }
+}

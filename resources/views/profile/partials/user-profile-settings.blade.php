@@ -1,1 +1,100 @@
-ENCRYPTED::eyJpdiI6ImNoYlJRQUh1MnhrL2VBMGdtR1BQSFE9PSIsInZhbHVlIjoiVld0NERQcTBLVTJ3NnJwcGpld3RRQkorUFVhRzhJeDBhcnljb3FQb3lzb1FWSHZySjY2WXoyS0U1eGhtWXhBWHhkM2hRSnR2NTVtTis4bXhncTlXUERUQjRkY1VtRHY5RGlaYU04WGlMQkNRdHAycmlBTUs5RHFRUWE2c3hwWUZ2cUtZVWdneS9VVURYcmhSaWtyZ2cyVjIzNlUydXhJS1dibm1OUmxIcUNpQWdBUHgwdzhoNWhaNGt6cEpKL0swczhET2FoUEYrZWlnUXlVUis4Nk5XcjVGUlJoV3dDeUFhL3hvRGhFdWFGWGhGK1VOVHdBSlc4dU5NVkFnUEQvQ0piRDhoUTlqSG1qL1lPcjRFWW52VHc1cjNpNm5VVDUwN3lqVm81cVdiUmZBby9xenlEUVc2VWZzVE1LbEtXTE1yWG5wS3VLVkdIc1JNcjVGdVZtdnh2K29HcUx5dDhLWkI2Mk5ZQnZyNFdmQTF0dzIrZFdabW5EclpEWWFyRi8zYUZ0eGZ6YTJGZzhSVUt5eFYrdFN3cS9tMExMZW1PSE9peWVXZ1B5L2d1NksrWnZaU0doMko4QWJXc0lwYWNpNHdsbHN4K0h2c1NMSmpOTEprcnhVL2JQNXc0WFgweU9laitWMlFRTFRDTFY4dmhiZWhyVlU2dHBsTWxkeFRhVGIvUnBpV2h2L0hKY3FSaVE4SldKTGs3bldEQndKemtLSnowUWg4RkF5bGNpQ3J4aGxnNERNVHJnTXNWTGpUSUlyenBrNWgxQXRTcU5DWW9vSkpXR1lXTTk3ZHpiczRuT0F0aytHdzhLc3FqMmpHVGV5NXRZNjZIRUl1U0lOUnY5TEgzeG56N0tDSkF6QTVaWmNBNWhVYTRySUgrY3IvYjNEVlFBNVJ2bG5EdTVOQ0h0bElNamdoMVhtV3F4YzFGdUtUK1JMbUNYVjJhK3o3a1BicS9RREl1RjdzczFReUx3eklRR0xvSTVub1gyRkQ3WmIwY1VrZHREdGJ3ZkZLM25oZzg4Y3FWUTJBYWZOVWFvWFl4OFpWbFJqRFkyTklMZDFvWlhLdVdkdTB6WEdzVVZCYXVYbVRnc0Z0MHByQ29aVGd1ZHhZeXNkMlI4cWxqM2tMU2lsOXl6OFJ3STYyYzcxcjU4bks1eGNEb1QzL2RoSVNleFNtVENpbE4zY2hlencyZm91NW1UOC8veHdDVXRFT2V3OVdJaUtPNS9OZ0tqWTRqQmsrdzJOZm1COHIwczFkaFN1b04rYlpKeDJZeExoY3JkZ3dDeFJPTTJYOU0rcHc2bUdKaHJUYkRYb1ErNWZMQWJaRWlUMXh6bDJPTEtQbFo2OHJmVWdWcjd5UzEvZk9sNEdlY285U05sekJiVlZJTFVVVGk0WGw2NUNoQkROWC9XRmUvUHd4WmFabmxZOUVnL2cwQ2cxaC9TdFpyeUJnc2FkU2RRUzVoL1I2TUUvS3JxRXA2elRlUzVJMkRCVHh3R01OZzBaNWFUNU5XbHZ0dXVkQ0x1QmZjSnE2a1JBWUJ5Z3BpU2xuZEtxeEtaam5tZkxRMDd1Wm9jV3daQzhEbjZJQlc0OEt3aW1oWlpRVmY3V2dNb2dnVXVBVlFsd2ROMHQ2dU0zUEs5L3A4N0pZajVSSnRDemtISHpBb2U3TjAvWHlIMVFpZ0wvdHROdkdyVkt2bk0xa2dwSXEwZ3Z2eGZWd3pHdDdNNXpJTUlHQkdISHBWU2F2dlVla25oMXVyekpjMzBWeW95SjhBWWw5RU85c2dVTjNNVEV5MFNPUUk0QUxzUElsRmVBeHhmN2Q4aFVld1VxR3ZLNWVxN2tLbDd3eC9GNFF1U0dXSG5vQk5mbkk3bU9sK25STkFhZFhLMjhyU1E5eFMwMVBQcXI3YzFGT2x2eE9OUEJDMjQzZ3BCOVVVK05JNUlHWGtCczczMC9INS9NYS9ZREpwZ2k5OUlUeWtVQ0o0Y21VaWFvNkNSdWR4bk9EeTFmWGJ3Zll3SDRaeGMzUUZaamZlamg1a3hXMzV1dmVBUURML2RtM0dTdEgvVWRQZGVXUFo1RElxRG55UTVrbnFXdnFvdkUyMTB2OWpnMk9MZENPZEZsT2JrTktyTmhKQzlDUG43S1VQZklSWnk5NS9VUk02SHZrMUt3TDJQTERROUc3emVtS0ovMmxubTlnU2ZuWUJ4MHg5NmFUSHhGdjB6WmZKQnVwZHhTVG1PZlBJM3ZQZ291RHJkQ09QQkViS3V6MGhWMDUxanhMcHdWekc1ZEh3TTZCdFFmaFp1a1Jza2xvdTVRY0J0K0VhSmpWejVnWmpnb1B2aVBiUkF4aHZDQ0F5UWtDQ3hiY204K093c3J3ZjdtS2pjdzBqVGpVcmJodFFaS0U1RmRiaFBDZG1Xei80UlVkS1BtcEhzeloxUGptZEg4UVAzdlVRa2lCSkRYN3V3U0MzVzVsWDVUVjJCZ2lIeGFrbDhLeHBDcVc5ckhuNWtWeUN5NVVrem03cWRLSzlBY2ZwUHBXNklPakVwOGl1dUdkQ2w2SmlFZTAranJEU0NxamxiajZTZ085ZnZsOHNvajlLTHM0aGlkYVJRZGYrY05NeDRYUnNYL2RESmdwSXhKS3ZrZ2YzVFBJRE5iTGJwOUhHZkVxcG1wRXFJL2NCL1ZPOVBQM09rb3JhdXFGdFBoM3MxZEdwalYwYnAxdFpSL3hObEVZT0VJQ2FsNC9rSnhBS3RycmhyRUs2d1RBUGtMT05WOGEyMDB4ZkxBNzRhNFlEcjJXcWxYakswZWl1Z3hxK0oyc0FNWW9scFJscm9TbXdxQVJDZzVsaEZxWUVuUFk2dncrR0E0dzdYbGFnSGN5TEk0OU5BNlBxZTFTNEY5MnRlZnZoYW1GS2E3SG15YVQ3c1RHNnQwaWp1RmduWWJXYzlWOCtjNVhQUmhUOTIwUzA5TWREQkdET3ByUTJOcE44emJJMDZ0TXNPV291ZE05OVAwL1d6NHUrN3hmellqZDgwQTZNZGNvNHRJRDZNbUZiK0ZtYi9jVG83QVZ6YzhVZEY3THpwUHhTajcra294OGNoVHFCNzY5WVI4Z0Y5QWVnZDJ1TDlkMEh0Uzk5M3VaV3NyRFRYS0FtcnJzdERuclBsMUdST0dmbDg3Y3F2ZGhZVE9jd2F5eGRaUG1NeDFtTE84aC8wQU83LzZVV0laVzVUa1dGd2FKLzlud3BnWHJKVVhuYmZxRFlldHlRUzlqNG01T2hCdk8yWFZxSWtGVGV3WXFhcFFSZzlHWVZaaFc1K3VuYyt1a0c3RGxNKzF1Ty9qdEpuMzJVTmU0RUt3azErT2duN3FJVklISDdsREoyNFlaWmtGcG55akZZZHpmMGhQS1dQVURFL1VEUFRscHRDY0dabHlkemVZWmRSQ1MzcEpGNk8rWXJSUVJDV2trNGVVKytpLzBnNm02VStkU3lvRjhMWmJ5QVR2cHkxVGFIckYrMlJHQ2ZXS1Qxd1ovdU5MbFZ2Zk9OR3RWdHhDY2dTc0Rsd1doWXROQUpoWGpTbDZUc2RBcW14TTBRM21xZE9WalJFcDQ2R0NmaEpBczlZVzZCNU1JV1crMkJlUlp2RWozYnh4NERWdHRvUW5weGV1MTNyRk9abFZzVTVZUFFhNmloWWlGVGZTUFZMTmF4cUlZMW1GWnMxVW1IZGNmM1pwdW1OS0ZqK0dqbFJkMUFWV3h6S3VLcHNKcGNqRG4vRUdtd1k2SVUyTGhXTHJIZVh5UDZaVkxMMkdIZUpDYXkzWkd2UzVDSFdncWhRRExEa1JYYXByempKQmY1R0x5REJKUzFZS1IxOWUxcklMRm5ZSVdYbFFiTEgxci95Z3NpdEp0Ynl0NjlYeUgvLzZBb2hWT2VMUjFyMXNkSTdOYUl1QmFRN0FTVmhGcHFPczNCSXBYWTJhb1RaT3IyVGdkSlVSOTZEQjBzcTRlMXFIWlhHaFhISUhqUkhSUmMraTA2ZEhMcitNb3dQV1N6SC9ZNmVieTlXKzdxV0dqUVRhMjRJMlhNUWdCclNtM3hyL0l4R0FXUHUvODNmMW1QRkJhaVdsN09rTGpxRnBpaFl3bVpPM0NUd3JTK29VR3FTK0dMdWJvdCtTTGRQZGR1eVQ2UXp6aXByMThKN2hQRTVmNHlBZ2NQdkljOTFoUUZjeXFiRk9md2hxL0FmZ1RwNzZuQW1RVCtuL1R6K0taeTljUkNHKy9aWjNBT0ZKcHYyNVVwTE80Q1MzSzBJdmZYbnJKWDU0bFRhOHMzY2U3ZFdxSGNOaXhXWXRpb0w0d3pwUi9veldlMVdoemJDVWFieUFmS0FVeUtzTDNxcmNnUzFWZjFQVHVDTThEaGRQbXhPTlNrdElMOFFRR0o5MU9EaVNkVFZueUVnVEVZeTNnSlpIWmVyeHVQSVhIR1BubWxyTzkxZmlITnphOW15aytndm40aXpkOWZsVE5zY3p0S3YvYVZ6ZTYzbFlxVmQrd0l2d0FRbkV5bmtVbjBtNmN1Q0t4VjNnMGEvdGl1TDFzN3Z6d0JFM3VjY1ROOVorWEM5clBUZjFiQ2VNMWUvMlN1R1dPYnhCb29Hcms2K01RM2QyTGRjNFcyQk85Uy9pQ05nMHZ6UXlwbFo4SFFVdGJVczdwNHJRNldmckhuTEJLeHJ4dGhscUpIZWJHeUxvYkpuK256TE5oYXJpSndKQUhxSnlQQzV4dEpHTnAxTXRnWEs1YmhYQ1Z2ZDR5d2w3Z0RQN1Fsam5rT0RDSlZESk5EWVJaMTN6ODkzejFzREpmRDlzVmVLNWt4a2J5bHZRMVM0SEZqanZSZWl0OXZFZnM4bjh5UGkwY3hEV1c4eFdObU5PUXJMS0ZCWGRERlN1N2twV3RSRExueVlRMGRjbDRWY2pLdXdZTUQrSWxQazAyRTZJSSsrZ3F2SktQRXQxMFFrZnZ1S1VtdEtmbm9OTEF5dTU2MGJxYlI4NjE3ejFhQjdEN2ZhS1d4c0Z2ZHBuK1NvQmg2VERyVGt6TDVtdlZ0cmdRNGduR0xQM1RNbHpSc1VzUTUzRWpwZGo3eXhaUHBIdVMrWi82dS9UVW1oUW5lK2sxd2hUYzJSeXorSzBuWitXdlNRWnV5dXl4bmtPalExeWVKYklTaUs2bjhoQlNtRE9pS0R4M2lnV1Q5cHNlK1JPMnY3S3lGV0JCWTVVZTBGanNBMUVZQzUrZWV1ZTZJTlBTVkVYSUlHcnN6S09WWXN6Nis3UFZtbkprTzRSeEZSNDFlRXZJcXRjRFdPRlVZNmNJL1dLS3NscWhMdXpYMndpTUFYdW8wcUR2bXdaNUJ4RlBHRFdxOFJUbGhFKy85Y3AzWmtXa1RnRUp3dXpGTWpHektmUFBXbUpwOEJjbjFyRENLZjZNeWk3OCtNWCtCK1hhWW16c2JiU0tTZDdGbXFyb1VadGs5T1YwMmM2bTEyMGVjVHRtV3hkTmUrUWpGQXBDNzBhR0ZEaGluaDFrN2RFRzNmOHArOSswWlFIc2c2QnMwT3Z0dUdENWh5ZUExSjNGM0xSc1k4d1dtUitNalpQNFFMcVN1dTFZckREQStxYXZGbXRwbFc2eTdZdTVzdVR5ejRTWGJtM2MwaTQweTQrN2d0QWFZalZqVHd3dnRBNHlrK1o1RE9QWTJUSE5TZm44bG5YRDgrcjI0TURPN29uczNwWkpsQVIveWk4NXZxdnVmTVc0elUzWGRhVjQrdWRHQnNDT2dzYkQ4L1I3UVBCaXVvR2NsRE5TYWwybmRDWm9MUFgxdzJ0SkRhaWV2b1VuUkxFcTg4SlQxUVFUcmE0SGRsb3RTZkN4QTY1ODQ0cFQ0Mys3bEJ4MHVERFQwaDYvWnhLYmVSSnI3SFNEbVJBb0ZVQ00rVEwvOXh4M09HbjV3bVl6S2dvUDdMeTlrUjEyaW1zb24wZGlXSUlqdng4V1IzV0dwVDZaT2llOXAveWxNRzJtWXZnejFzS2crNXJzRTJ0WTI0aTZ3bTdYQnBxYzVQVXNjbnN3WXNrNEdUM21oWFNNSThrclk2RUhjdDBUWTJUS1BhTTBXMDZidEc5dFo3cjl1RTJFUlptYnl5bittKytmclJJUFArNVJpN2FjVWxQTlFDYmZtWjlPR0wzY08vQ0JrVkQzNVRMcERsRzl5UG5lcVQxSFE5Z0VoYlhJcHNIalViT0FkK3NoUUJsMnFsamFRbVhZdmxOY1VFTklxd0FqTzVORDZPVEQ2SnlIVzRhMWl2M1pmbjlFQ09iQWg5ZUNWMDFrMXNXS29OOFVyU2ZXRE1zbmlpVGVtZGZXbFFscjdBSWs3azZqSE1pVWNWWXNUc3BGK2tyV1hHcGZhaVl3WHFIUzNPcHN5WENLL0NqNk95VSs4dFlEUnVBKzA0S2UwbXF5YjlXZzZlTDFlRXVXcTJDTnNUZkpnRDAxZkRRdFMxZ2ZMNkxYUWszd0loRXRpSmkwOWM4TER0OG42SmFDa0RtR1pRQnFwcDcrZUtGOE1HcStwOTcrREdCUVZyajRWdjFjVzRsR1h5bUtlcjd1NU91MlovSUxGM2M0VjB2Nlh1cXhncnNtWE53YlhDTStDK0NKcms0UGp1N1YxdkRZbkQ1STQvZTRla0gvSkh5RzFqUm9IYWlrSjBWV1RKVmpvU1ExVTVpd25wMnlLbDViOXpCQ1lRU29ucjhPdjZpOEpxV2swT28xTmFRUEdIeVMxeTYwcHIwVUNIeDh3QS9WWExXamRmYXpsZ3pPdVU3ZEJoN3Rpczczb1hHZi9OV3RoRTBUbXN6VXh4RGlMdkh4VUkyTUlLYkk4d2s4SlIzcWJQWnFsejNpL1ZYeEFuS1g1WFVUT0hWdm0rZTJCN014TW5oMVgwU25SWUU1UkdUeHBqbzhmSmdSLy9DZEltNjhEaGx0R1BScVdDZW1lSHVTV1JnQnhiYlk3SFNTZHpsenNKdktDUkxPL0ttODN4eGw2VFkzbGsyMDVRcmxJZWhTcytwTnVQQWtLNDVyY0hwaWJocFZhK2FtYkw4UDdwbkRUOGg5Qy8rdFJxSmRBYjZYWmVGZ01xMHlmUjZXY09FZERPTkdyeEFmUHE4RGZuSGhibjAyTS91MmhHSk4zRXlaWkg0c0FMemJwN3VTcDl0T204U2pPS29IWEtoTlhKcmZYYXp4Qkg2TnBpcmx6MDR6NFBpdzJ0OE9yY3U4M2JEWUVoN3V2YkcvaTJFVjh1ZVFyTzBseTk1VEthR0NMYmJMVVY5QnFhOUFmZitmVHdHSmZVWHpyK0ZxWXhpWlU1ZTZhcHZJcUhhQ28xZ21HRThvbCsxK1FoWEhZL3FCN1hwd05kbDZ3Y3FnVGUxYW5keXVPS3BOekxDY0x4ZVQvbC8rNWRMemVnMGRpczNSTWhuR3locEhiYU5LcmsrbWJJN09nYXpUQlhoUEdkWEZTQnhubXljOXhJSHZsbXpVeVQ4WmcwUEQyOWNsWkZrcnNFbUZuM3JmQ0szb2syam5XcjhtNnRweFVVNDJHSmJ6SG5EMWM2MXVlYnU4WjVsTHd2K2JMV3NPTFdBc0FMc0h5dnBVQTRkVjA3NVNCM1FDZDBJQ0xEaUZFTEhMcDFNR2lmWDBXRlFMdmRlVXpzMytmdk5QMmo0UHJRME1Mb0tYWU9JSmFQUTFWU0hsWGZ4SlVycXA1OUgrZjBEKzJjYVBkcEloenBGbUx0QnhsMlVvYU5FNHhzOUhwZE5QT29EQ2k3aFoyQlFEc2Y2amR1Q2NxS1AvbUNwVjZENEZOUlp4WU1ScTNOSGVDbmtLT08xeUVSbEVLMkNTMVpGRDNjN0JaRFFJUkhBN0V1QXQyR00zbnFFZlVLL0Zjb05zUU1MY3N6cjk5RWFaeFJlNUh0OXZLTDAxZGREMEFuekdLQ2lqdnlQNStjMTBEVzY5TEFPbEdQNjEvMEV1M2ZkNEpORUswak1WWVBIREJXdTdINGxvNWtidVF3dVc0K0ZwMFhrTUxDRlFSaWhUS3NPZDlTMlQrNnhMVU40ZjV3V28vSlI1NWdwMWpGV3hZWnVzV0NnM1FJQVNqK2ZrQ3d4TzFuSmN2T1dGSXAzeFFBZlVNZi91SWRBd1RpeGdGK0xnaWhqRThMcWxpWXJPOFRqWlFLV014cTk5MEgwcGY0YXdva3h4MGpNUFV4SEJCeWN6Mk96dGVsMEJWbWk1MGI3SzF2eDhjTTdOYzB5Y1ZyMTZUVldEY3A4VlRFL0k4MW16OGx4UWRFem5iS2RPY1h2VkZiU2xPRUpDalM5M3NDa1BQdm9WQlFpbG5vRGJQbHl2Q3k2ZFNOcG9aSUhEQ2l5cThlUGRYKzdTN2F3VUN2S3Uwa0RrZUNiaVRnRnQrdFdscE03Q3F3dnNkYTJTalh2SUJXN25KZ2REN20vYVZhTGZQSVVhcCtWSGM4bm5keDZKcnEyeTNvQU9aUFdwdG5aSnZEU0VianYwNWVlTVBseVdKMS8vVE5ib3Z1N1ZXQW80Sks4VnNERzBvb25QMnRWTmFEY0UyaVM3bFBvK0hsVCtaTTJ2NjdMZXlCa2VTcWpmYzBJUUZpR1FkZDdzOEFKMzE0dEFCZnFEY2JaeU91ZThoN09VYzhUaEVFckErdW4rb3VpS1hBK1RPczJaZlZISy9wNlFDeGRJeXlhcm52YUg2U3lCdHNqS3I1RXJKYURmU21yIiwibWFjIjoiZTcxNWNhNzU1NmIxYWRiOTYwOWY2NjE5NjQyYjMzNGE5N2Q4Yzg3NjcxZmQxZGU5NDcxZjUxZmUxZjRjODdjOSIsInRhZyI6IiJ9
+@extends('layouts.master')
+
+@section('title', 'Profile')
+
+@section('content')
+@section('page-title', 'Profile')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default card-profile">
+            <div class="card-header-bg" style="background-image"></div>
+            <div class="card-body card-profile-body">
+                <div class="profile-avata">
+                    @if (Auth::user()->profile_image)
+                        <img class="rounded-circle"
+                            src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}" width="120px"
+                            alt="Profile Image">
+                    @else
+                        <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
+                            alt="Default Profile Image">
+                    @endif
+                    <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
+                    <div class="d-block text-color">{{ Auth::user()->email }}</div>
+                </div>
+                <ul class="nav nav-profile-follow"></ul>
+                <div class="profile-button"></div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-3">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <h2>Settings</h2>
+                    </div>
+                    <div class="card-body pt-0">
+                        <ul class="nav nav-settings">
+                            <li class="nav-item">
+                                <a class="nav-link @if (Request::is('profile')) active @endif" href="{{ route('profile') }}">
+                                    <i class="mdi mdi-account-outline mr-1"></i> Profile
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link @if (Request::is('profile-settings')) active @endif" href="{{ route('profile.settings') }}">
+                                    <i class="mdi mdi-settings-outline mr-1"></i> Account Settings
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-9">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <h2 class="mb-5">Profile Settings</h2>
+                    </div>
+                    <div class="card-body">
+                        <form method="POST" action="{{ route('profile.update') }}" enctype="multipart/form-data">
+                            @csrf
+                            <div class="form-group row mb-6">
+                                <label for="coverImage" class="col-sm-4 col-lg-2 col-form-label">Profile Image</label>
+                                <div class="col-sm-8 col-lg-10">
+                                    <div class="custom-file mb-1">
+                                        <input type="file" class="custom-file-input" id="label"
+                                            name="profile_image" accept=".png,.jpg,.jpeg">
+                                        <label class="custom-file-label" for="label">
+                                            <div class="drag-text">
+                                                Drag and drop the file here (or click to choose)
+                                            </div>
+                                        </label>
+                                    </div>
+
+                                    <span class="d-block">Upload a new image, JPG, JPEG, PNG</span>
+                                </div>
+                            </div>
+
+                            <h4 class="mb-5">Social Networks</h4>
+                            <div class="d-flex mb-5">
+                                <button type="button" class="btn btn-icon twitter mr-2">
+                                    <i class="mdi mdi-telegram"></i>
+                                </button>
+                                <input type="text" class="form-control" name="telegram"
+                                    value="{{ old('telegram') ?? Auth::user()->telegram }}"
+                                    placeholder="Telegram username" required>
+                            </div>
+                            <div class="d-flex justify-content-end">
+                                <button type="submit" class="btn btn-primary mb-2 btn-pill">Update Profile</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@endsection
+@push('scripts')
+<script src="{{ asset('js/namelabel.js') }}"></script>
+@endpush

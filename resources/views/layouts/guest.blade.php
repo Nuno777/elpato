@@ -1,1 +1,30 @@
-ENCRYPTED::eyJpdiI6Ik9yeVJrckw2dlMwdmVWdW4wMEdHUXc9PSIsInZhbHVlIjoidFhTd05MQS9nbGJhYXFtZ3NPZmxNY1BwVnJ1Z1dEcXI3eUVheDJrcmVnbU1FWXQ0M3N6SkxKbWYyYnJySXRHN0pnWTJGZWhSaFVjZDBJaE84VzZSNC90WG15SWUraGpwOWlNNU0xQ2tMSC9WL01GdjRkRGNSbzJCZS9KazlVdTlJdlgrYlZCeU5mTDg1SXIxY2hVbzB0ei9OL3BLMFV0eHlUVG83clBCUXNzTjdsQUUwMFdPbjBmWHdEYkxFbDE1a0M3VThwMXN3ZVgySjRjMnprREI1VFJLOVR6d25Oc2RqSVZHR3JIYUZucEdzd1V0TXBCV0pPa3lVRlNoTWd0NG13SGUzWWo1RzA0QTAwS3l2Mk4wZTdJUkVaRTl2SEZibGRVQzJHNU9ZK3NVTDhjM2ZENlJBaGw3N1V1RlJvMElHOG84VERzNkt5d3VOd2NjWTFBb2lBdVlwaFZRUG95b3NySUlsSXBoLzJlNnlMTEJHYWNTUEhPZVZQcHZTUGhJbVY2L1pmM0hTMGgyVUR6bGJqWmtucWp3OTlNTzhySDBBNnFXSVpJNTI5K3c0Q3EvRFRHQTdIK0cyYXh5bTFPaks5bVo3UWtXRGRZT3ZUK0R2cXpVM2x4UTJ0eXZqTVlISUwyYVlqalBLZmZxblVpNi85T0hTSWVQdE9wOGRXZ0szSDh1eFVNT1ZjME1BTUVrL2RFWWMreHUvMUU2SXB4TWJjSmtSZHBlaitDVnFCdFE1Ym9lK1djQUZ1YlVpakNIY0RoNHZYWkJaVFpqWmJrK1NjNW54dG9jK0VpV2RLUnNCbXZlaWU2bS9tbVlUN2FFckpJNXlZWGxUWWw0eVBtMnFuYXhjSjVPM1dYanpDa0lmV2RlcWJqWW1CWFRFaUh3bXdNL0U2SkQrNUl6SS95aHZOTEw3bmpNQ0tyNUplbnhab09rR1l5UnphUHBQSHI0S2tLQTAzM21EM1d5RVpyWFNVZkRWWVZOQWdrZllEVk81UUd2SCtidW5Eb3RINVRBeGZSckI2MEM4Ly9BVzgyMXVBV2FGSTRBeFNiWkYySmd6OC85eG80cUZVU09zUkE0Y3NMa3BDMUs4bEtQRmp2b0VoSzRQQmlzZzBqSiszSkhteEt1VGpudXJyL3pjanF6OGlvSlV2T0h2UkkzaVFDYThvSXJaT0l6NHhELys2dkUvYmJkZTZGbG5qUERscVBvb01qak1YWnlHZXlISURMTDl2a1N4UGVzd2dSNWlvNEtRcnlZSWZIaUQ3NER3VVFySE5Rb0xlOFV3cFc0bjVXclRjN2hZQndFSjh0TFFkOGoxMHNQZEtURU45aHRJMi96UmtpcUkxRUFwYldNRG1MdFNCb3UxUTNKNDhrODVtVVVCMG1qY3ZPQnNOYmhkRkorWG5OZm9qRzBISDFhYzBSQ2FmYWY3YzY2OUZBcmVvWXBQNEVmSElsUmZmQ0x0My9TR2ZCTHh5czIxR2h0UFlsRE9ndDUrZisxMm5ZaDVma1lSZGlPZHBkemsyWEZHbFV5REhGV2tNS3FTK1MzZXZ5Z3BIL2QyVnJSMWE5YXRYcHJDS2UxLzFTRWlKbU9qUHU0WTUvVVo4eElaZEk0M3BuMzhLOVpYaXBEZldxMk9TWmFuRW92UXl3M2dUamVWcGlUdXVlNlJZelRlT1MrZGxvN0dCc1NDM2dycUhpaVY3enpESW9zd1hBRHdtS040UG56TnpiZkErM0hBU0JiMFVMZWlTRmdHM2MrbVRueHhTdzdlNEtHVS92a1o3MkhGZ2pOUGxhMGNaNG5mL3RvNk5taEU2TklRV0wzbThDNzcxSU1XYi9nWW92TStucTJJeGdLMWFxbWU3U3FabkZCeFN2cE93V3VMZXNoUFVpeHdyVkU5UVhOWjQ3TWlKb2xkWTVXV2tHQ1l3bHQxOUdkbkhXdDFsQkVaY3pYKzNtK3JhbkxSdXRFTlZpdVhHR1RIWStmZHdzd1FoaHY4dmMyNUZXWmZUL1RlT0lEaEFSelBldTRmK3VwN1A5VzRxT1gzSWFDd3MzOVJrbnZscU44aFcwUTQyeUVXSjRtckxZbS83YVJ6YnU0YXpKTUFZWT0iLCJtYWMiOiIxYmFlOWJmMDA5NmY3ZTg2ODI5NGE5NjUxNTZlMzUwMzUyMWM2ZWU3MjJlNmVlODEzYWM5MWMzMTZhN2Q2MTk4IiwidGFnIjoiIn0=
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="{{ csrf_token() }}">
+
+        <title>{{ config('app.name', 'Laravel') }}</title>
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+
+        <!-- Scripts -->
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
+    </head>
+    <body class="font-sans text-gray-900 antialiased">
+        <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
+            <div>
+                <a href="/">
+                    <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+                </a>
+            </div>
+
+            <div class="w-full sm:max-w-md mt-6 px-6 py-4 bg-white dark:bg-gray-800 shadow-md overflow-hidden sm:rounded-lg">
+                {{ $slot }}
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,1 +1,190 @@
-ENCRYPTED::eyJpdiI6IklVOWtHT2ZCTitqTkFzT3IxMDJESHc9PSIsInZhbHVlIjoibWpkalJlTCt5YnlpRDVBY0lSemtHMCtTS0JTWW02c1hJRjJBTFJjdmpLUmhwK045ZFV3ZEY0Qm1Ddk1XVEJGeG1sbzdIQTBuT0t5dUlXWVYrajUvM0tNZjBaU1Rjazh6NkdHUEZ5Rys0Qll1clMrNERNaGVrTXJDZlZoY0dRSWJHY3Yxb2xOSjVWdXY4NkV0Njl0eVpSemhzSStRQ1NGTXVYbXpxS0pCOFhsVXdEc2ZSRW1EQnNqMElPWnA0bUZzQ29OYnlOTVBXUXJ6anFmclpzT3ZaYVdkVUo1V1hTS2NWbGo2QVZMOWtjTWdXR1JQVE9Nc3hMNWdvc0tjYklISzJJQ1NQMkRqUXFXMmszUUJtZjJMTlluSHkyWE5jOHUzWnRBTWJMWXlDZ1lKa2l5ektjZ012WjdtTTc1MDkwT2dCTWZ1V0p1SXZ3NGZsZng3MWdVcVROU2VLNHNyb0lCdnY0OXpmR2M5WVVSSyt6aENGb3ZEZ0tXOEJzUVZUVkdNTXdLNDUxREZMSGRWcXhsZDI3Sk1neTZVMUU5dmV3dnJ1dDNrR005U0JJY3V0cVdySiszWGljK1gwZzU5a1QxNUZDdTVqVG1sK3NtVHJMQ1RVME94dDdoUmlSOUcxMWxJL29DRkhmRHNaaTJKOXpZQjV3bjR2QzAzeWdJdG9BZ3RPRVlqS2NiK2MrRDIweHRRZk9zTW94dk1iMFBQUVdDOVFHUVU1N1F1UXpUdkx2ZFRXV0E0V1VVMSsyTDRSRklBRkFTS2tBZytrYWxFeitEM1Fwc29uYldlOGpHYnNGbW5Ya3RteGZqbjNnZHpLODRiZ3p4KzMrS2IveWgxOEVuRGRHaElpWnZuTzgvR3FGeVVUM0ZqV245Zmh4WmxxbDJMRnNhOWkwRGxyVmdMRUNrZldRMmxHdFY4ZnZod2xzdUEzQWkxMHBMemh2am1vSFVMTzRYajdqS1lZYnF0bm15NHV4MXpMV0g1RVZBVkVYY2tOYVl3Y2VYT2N3MVFZREI1aWR1WWNESDBWZUJ4WEsrUzdlT1hjOUpwc3FzR055eXRLNFZKeS9KZHVVTXg3ZHRjSVdPdHRtVnNyRjJqVHVCNWQwbTRCUFoxbU11U09WNktyQW4zRjRBR29aNDV4RUhMZjlXVHpKeWl3b1hKdE4zWlpvUmZ5QmpzOVBHbzhROFA4MXZ1UW5HZEJ0eUFBaUJPY3ZnSWhuZmJCbVVETW01MlBnalozeDZKazRLd3Znc2lJaTByTmZCRHFhOGpwdnBONHNIRmRTam9KYUw3OW5ZMndzK3NLTzM3b205RXdyQnJPSldKUUlpVkxvVFk4NmpTTlkxZW1zRy9wakhiUzI0U2hDNXdQWHVYaDNRbmloZFRWNm9VNk9zZ01JYzVDY0FLc0EraS9rN0M0Qjh1Y3lvaFB3UDl5K0hsYk9qS29CNDRUd3g3NFhoMVZ2YmRheTVxWEthT09FUUZSaHo3M2k1NnlCQ2dJSEkvSDgybld0Y0FuNHNqWC9TZnlXaEJBZFNDMTQ1OUhLcHRGNEtGdERORG01dStNdnZVYkp1dURMdTM0eDcyYm5SUHBGcmY2NGdDS2JTYlM0WFVHejZ5aEdYdFBQZ25WTUFjVVVpQlpHbm03Nm0ydk81QUZ1MDcwTHRzTDZXNVFRcUduOGxwMFJIK3ZuUFpkMXZOci94M3FkN0FBdFZkTDhkVTRkQWVmNFdOSnR2SkQrMnFzbjVQQTlXdVJSM0FtZnN3emJTVzFnaC9oRG52RU80ZnRZV1pkY09KcDYyMXhpZGtUcnVzVGY5ZFhRWEx4dmZJS0NCZEV5VkE4Qi9CMWIxSWQ0aVdsUk92Snd2QVlOS1ZIUC9KNDJaTnhoU0p3NjRFODJHdXgzZStYWWgxZUtWUjFWMDRSR001ZUg4STc5ZE1CS0NkNzFwM1B5MXY1eFVUbFB2SDRZQStJOHNPWjVCS0hwaVg3UkNWZW9WZklLb0t3aFhZR1lxNitycUE0d0hGNjYwR2RXQndTa3NYNjVmelhqOU9YaVdDZFdFNU9FUHlHS1BMRDJOOS92eUQxTEk0Q21lcXlpK0NLN0t4ODJFWVE5ZCt0ZDNQQm9ja2JEVlpTaGVpZUhhQnVBK2hOSy82ZmNFWXlFb3hoYzJNTzFncFRXeUVlSHpqUzUvcVUvMzRkakJlQUtGR0tWMG5hc2lVNWV2YTg2WFljREhsaUh1RFJPVGFRSEtrSDR2RTRubVhHSllnVmh6NTJSNEplZFltOEZrbExwUWlpU0pLaU9GTDVsUHp6THdsTlJOOHp2UC9kY0xmUW0yTVJUaXVLZmd1VUNOOHRRQjV0NHF0Qy92d3cyejgyeDNWblNVMmFuSS9MdldxUkM3ZXBCcm1OejVlU295VWxreVNaZTJ3Z2lXdEIxRXd6ZEdEem1hVEdrSUlSRDgxODFDRVV6YVF2Q1RqVWY0aVhYOXVubUYvL1gvZnFhNnRBTUgxekRDTDl4RUpORzVuK2hvK2I2T09qUG5xVUZKcHVycHZsc2pDSTVLUlphYkVQNS9OMEFwbWFOaE51UlBKTE13Y3FsTWVZWDRkanErRnVqNkVFM0VqMVVCNXZzQ0k4NHNSeVJickhDa0VZY1lWdmpFNndkU09ScEx1Yi9WcXJGSWZpSDdXZkgyaGR1WEtCdGhuMENoUk03L2JLS2s3OWdId2RETFRVTndhbGNSOFFmVHUzcEdyak5ORzZHcENLTDhmWEFIcFp3eWdGY0wvVzFZMjc3cGRheDlqYkRxbzd2YXBXUzAzWklheXZRUW81VkozT3Uzemt3dE45ZG9MSThqRUNIeis5aWFHYjlrUS8vRzF5ZTBRdVpFaldleDhLVlhxSWtrd1o4V0pDbUE5SVhZS0swZ2dZU3hVSU12eW5IWUFrZTk4bEJ1S2lzeG9CeW14Y1FiZ2ZOZk05Y0wvRDZJTDltd0dsV21zbnBQTmRDelJJZXJKa1hNeEQ2a2R1T21NekUrczBvK05GTSsvNWxjbVJmZnNyK2tIRzZMYmh0WTlHQjhLenBiQ3B5aDUxVDNKdXFrbnp4Q3dDd0h0dlBsYlJhS1NlVm9lZWlkMmNmRndwOUtEZWtnZ2gwamtyMG1BN0hXbDRDRmUyNC94cStPcmVrWDdweDQycWdKM29XYVJHNlRDL3d3ZTB4ZnZ5VGk1WmhKSFh2ZkxLRitMZWNkZW9UTFRNVVB4T2h4YzZyUjV0ZTV5VkcwWC9iSTFNSGFscStrS3NjWE1LdGtheGZqdnpsTUNDZ2Y1cVBIL01ZZkxMVXhFWUFpdld3U28zY0JjeHNZVDNRT3o4TzFxUER1U1RTWEkrdXFkZ1g2VzV4dGdMcG4rSHIwdnRjTjhRQ1ozWndZdjQ2OGFRVjlEeTUxMFFnbjFRd1VNelVMbytvUjJuR1BUTWhNOEpFdDcxWUp5aGZUa0RBMzlscmZwWUwwbnFYbGUyN1pucXNTSjA4dFJxbGl3LzIwQ2MrRVdpL3FsSVV3UXM5eVU5OUM3QnpBbXRGNFUwL1N2R1Y1RDNiMTJIK01ld0Rzb3VsZlFpcHFsQnFhRURIL1EveUdBZmN5bEN0NXkycmJYTTBaaDlkbi84Y2hNckhzRzlnUmVnZmVQSExtSnBLZ1REM2ZSdzlJY08wbzd3T1ZMa2hleW9mVHFmbnNuc3FTRzdLTEdjVyt0RGtkTW4yaG5hejkydmU5b2ZoZkp4cVcrblEzUzZZODBzQ3JRQmZhUXUrNkIrL1ZaUFhHcSs1dnEweDdZOGlpbzRsTDZoZU1DM242T01YZGhhYjE5S3NWdW5aZm5ZcURGdjdaNmNzeWVxVGx3aXRnMmF3cWRtcFpqeDcyeGxZd0Zrd1dJUDdtM2VFU1AyMllrWitmckpJb0FvaS9TUWZ3dXB6MG1DSEd1WDg4c2pNKzF3VnZLUXRQdVE0OUk5NVZMa0JtNWhoY2cydHliVlhYWWFRd0VtcFQ3dFlaY3R0RzZPSTIwUGVFdWYzVE90a1VJN05RWXJXQXlRbXdleC9qTWsvTTJ5UDVSNFJHM0E0RGVVN3lkeU5YR0liL0xzc2RDNFk5SE1OMTZ4Z25EUjdYM3dGK3BNQ0Z5MG5xdzhod016WE9WV0lIMjFNUmRTV2pHOXIzZlpCdFh0M2E2eE0zSnpIOE1GYVExelh0dWlnTGhkcG9ESE5lYzlEckppaHpKU1RpWGo3NmliWmtmY2ZDeUFVK0FiMmtMenZSc3pqbmxuNnVUVkxYVU9BaEV2YjZpd1J0US9qUlY5QjY2Zzd0bWVZc3NEQ3lLajRMUWMzY0N6OTFRcEhZK0c2OWhCUHVmTVJ4bEF5UEtBSFZBTlplT0xVK3lEZ05iUlpZQmU4VGh1d0xtWTBYeXRDNHBBbHlydzVtbC9RcFpCYzBBczgzbXlVZ2NnWCt4YnkyajhIckdXZmlyRkV1eVhBOUN3YWZnbWpxL1F1ODR1WFZEMnJxc3BsVDdwRWtZOU5XTm9aeVJYWFpkVTM0SUcycXJPUVVlWGdpcEJoTEh1YkwxRVM4QVJ5ZlBGaEwrQUpTWmNaak5EVnc1SXRqRHU3L3hDQWtTRnRWQThNNVpvTFJEbWp0dVZZckFWMmxXd1l4ZUpaaDk2MjRNdFM2UUxsZ0xtaWJ2Yzc1Y1FsWXR5bWlwOUZMTzlFWUhVbFdjRlJ2cUpDVC9WcEJOQzdWSzhDaThodVVNem9SL1lLcGFhTFJGOVoxc3RCRDZQYXdHWUExVFQwRHVueWFseVRXNXpHZjdQRHliOC9mbzc1dnIrSXRNVEN3S3h0Zzh2TkFmNFQ4K3oyUmN6VFg4dkFZdVcxTEF2dVEwbDZaR005N3VHVDFTNDJ5QzlrTDdlb2doTEJkNTlDR1paamZjUHpNdW5QQWtpTkM0SUdReGljNngwcWViRHMzdTI3UXBOeGM3YWRZZ09aYUtoR0pWWnNFT0pBSFpwd1BqVnNRR1QwL3JjUEZVUzZZSXdCc3l6VmlQa2VSbldiNzFENHVmdzgyeG9Dc2Q0SEZ2NWlaNm9jVGNXTVZ6UjM0QThuakRsZkZXY0YzV0JVZEx2R3JPdGZza1NFTnFodDVGVWVsb1p2bjZOTmdzSEhrdDhoUGxXbjZUQWxpc2pQZlpOU2hEVjVvMVl2YVRxU3V5T24rWnFESGc3TExaZXZHOHk4by9VZU8rRGdCdzVsamt6am5PR211cWZtaFVBOHVqVXgrZ2VSWk5FWkZlV0pjM29aTjRKWFpHSml6UDgxdllPT1JCVmFwWlVwaEkvbkJvdTFNeHVuQnJzdjlMT0FjbUpCY3lQTnVONVRhUkFYNUV0SkZuUjh6M3hoL2hVbVM0QlEyeVhCdzRYSlUzYW02RnlhZVRZTW8rSHJ3OGowYzd3SGZVdmJ6Nlh0d0Q0NXVwMHhLYlJrWm42THRITEhua3BWZ3A2ODBTK2phYzZiV09xNkREQkw2UWhKajF3cmFxTlp0dzRZbEF4dEpDU1J4WjBGVVQ3VkdISHdsRkhTSkJvSG1jbVJkY002alJ3b2RZcGtycmFuV0E4MjZQcG03Uzd4MWorM1UzeVFVQXNKeE84SzY1cmJyY3RvaU1MWkpsYnAzNkRLYVZtQmpUVklsTm1LTWFsaE4zaEp1SUVLdWZiN000ZXd2cWFiZXhHZ2VVQ0o5RXVqekM4cXJVZjc5V25ESDJPRmhiUzF3cld4RTlrN3h3NHdKQmRaNUVBMXFKZjdEb3FZTHFXTi85UTNZVEo2d0E4NzBpUjBseUM3NWIyV3F4OWVrc1k5YnBFenN0WGE1RU5kVzJ1cmZuMGhPb25NQ3dBL1hlREQ4UDlLWTdLY1BwMzRPS001aXJSMTFTM05yQ3BITEx3T3dPeXluNTZUOC9PRjJtL1VoOU9uRy96VVRUMUFvUXVjWFFsTUZ5WnBzL0QwaG9icE81aE5WRVN2UjhvNk5qdXpWc0N4a3pJUm1OMGkrelM2S3ZaRDFDZ0RleXR1MUsyZ0FiR0ZrbVd4czBkTWo3OElPbno4eVF0Zlo2ZWFUb2JIaHc2R0I4cWszcEFHenVLKytNZ2VKMWxoUGJmQzV4N2IrMGkvWjl6QllSWTY4RzFUSFJaSXhoWUFhakYvc1dXdmpGZGtaMUdnb3BSR0lnVGVJQzRQK2tRQ054WE5VRUNTcTRGWmJlMVlENWo5NW5Ib0F2WXBRSHJZdE5rN0tINUpxQkp4USt4aE5rQjhBaCtRTnduU1ZsdEZsQnQ4OVU1U3RQNVJ1UnhHc2NWV29MWmtQYXBVcjI4Z1JJN0E4b05XcGNCcUYrMVprMFNuUjNLcER3MExlZStkMDFOT0FibDhUWjRmRHM2Rm5GclEzckZpUWtLSFk3b2tsWEhDUUdtL2FHZnVZaHlVUHpJMjJYL01hMjdVbjVpVEFZMzRpRm9QSFlEaCthYUhHaHE0OTVHcHNUSUdxNGRydWg5bUU0REFQRlkzbUYzQTNMWkQrVGtRQWEvRUtLRU5iTS8xQ0dhQnRDN3NBdFcwNUNJY3pZTDU0OE1lOFZrVXFucVpXNzg3bnpzY3Y0R1FzR0pBUVJqSTBxSGFyTUtSWkpHQm1pMU5FdDJqQUtMU1duZ1l5WUY1OHFBR2dES3lvVmlhRDJ2L0NnVkdiVWhyU21JVXphVkIvQnpYaURMYjJHR2xQQnpqUUh3ZTg1UWZ4OGlJVWpiSlhydm9kSFNoS3Zrd2U3bldNWFNYT2tuckhyKzgwRFVISm1ueE9WY1FjOC9HTlZvMm5CUVpIdWpVT0htanRHaXdzWVNUeXdDcENpdkNaclpIWlk1ZS9xS01NR0NrK1I1OUNQWkt0L0NtUFhMZW43YlNaamc0c1ZhSTN0WTY0S3F0WXRRaDhMdEY5WENuLy9ZdFJoT1dSc3NCZVIzTVJGNmtNVnFFVmowZDZsejMzTStNWmRSOGRsRTdmNDhSaWJRVzdwWVJUamJORGVMRzJSVWlGQTB3MkVwMFROd1F1cEpnOERGZGd5bzNpTWtRZkk3TjlyV1RmcW9CYVZXV2ZZaFRiNU1uT1FVK3V6YmJoVzY0cHhsZDZ6NWRSL2pWVldnb1VmbnI0NDJtRS9nWENEYllxZUpwc1BIUWp5akNJMTJSNC91b3BPOHVGbWpxNDB5NGZlNDlCT3NORmtrWkY5cGxDY05OZ1JYcnlSeXE1TmZyWTI5QXNZWElNOUMzaDB6ZmRrME1YWWcybmVSbTBvRW1wV21XRjhWajVTTC9QVzlCbGtRSmhYb2lFWGpqbW9pU2hkWVdML2xnOC9Uc1hKWEx6YnBWT0o4RDVVejRSWjRtTXNURjRPZnNzRlFlNG1FV2hEaXZvYVcvN3FqSFliMzY2a3VpR0lYVUhDWk84akFybDNmdHY3SkNPbzNFRlg2S1hZbkNLWUVLQ1dTSzllNmhseHhvck15bzR0OTF3Y3dEeXRQaUVxMGRVTnRpelpqTnQ1bWF3V2RVZDJZS0d5RjhWMkZ0a3JSR2NuNW55SkRNOGNMaDg1YnV0bWZoY21WdWExSmdBeWNITEo0SUEybHNhMHI1SFFpUlV3MUQxNUpxK0J6c1JQcHNhUVk2b1JRa085K3dWdlU4ODlmNzdCdCsrZ3dTT3VhcE9YSGVpTVNma3NJRGRsTW9uWjdNLzV0cW9RWU8wOW54NWdLcFhMUjZxNXNjdmJza0daQ1NmRzY4Uklram1nT1RLTWJmeVUxYmhoTCtLTDNkRVU2SURwc0ZvcldzRWlNUFVCQjVLZURjNzdEbDdMVTZFODNRa1NCYVFTcTh3Y0xaekxoYjV3REFwWGNwOHM0TzNBSXQ0WG00T2t6dXVJcnpTaDRkMm92WWNZbEp4ek5CZ1AwMGxwU1VHNDd1Q2ord0lPbHg5VGc3TFRVUWhXblBVNUVCWXd4WG9zZGhnZjRSaFJZY0t2QTFGMmdPMjZ0aS9xVERHcEVHcnBrOTFsOTBGTXZiNnJvMmVyalNqNzdGMHUvdXpBZ1I1bjVuSzlHZUxyV2RSV01mTlBBT1NHa1N0blR3VUpNZmUxK1BPa0N3OFhyZjhlUC9HVUEyZGZ4R1F2eG43NTVYWk5PbmRjMTQxdDl6SFplaCtwWEViUjQ3RS9jS0hvNk1ZU01XeUMwSmtwbmN4RTZ0SXNMOGpqVDhtcU0xdHZFQ1hXYWZVYjc0RVp2aitoL2RaMjlwNjZrcHV0clJsK2JaanNOQ3g4UkFGa0xPWlUydy9wMnh1dGN3eG1jQUZob3RqNmU3MUZReGl4VmZwRmNxWmlEU2dkTUdsbWZweW5pVTUxT0RSRUE4M2RUM0FKck1GNTFXYkZ4SFVzNUw5R3BwdTJzcytYYjgxdUdUN01nRWlBSGJGZUJSbUVFRWdza0RZK3VHam1aQ1dUdDhUSWtIeUFGWVBmQ1pwRkFWaXh2SDZBWXhpQld4bkI5R1RrUjd1OUVIYmZyekhFaEIyM3pJWlIvUTdpcitBSjlET1lNQWx5cmllaXVIWGVTZkpEVGlKaHkyRVpCckoxSmMzWGRDS0pmTDM3WFM2aFFTTHVQeGVteEtWTkNYcHE1bnVQN1VrZlRIa2NNZkNOZUZRVDBibTdHdy8yRERoVG4zTWh0RGxtNnZOT1EyL0RabHlGaFAwVUdzUmU2N1NHZHE0K1NDUVo3enlDZ1ErMXdLbk5TZlpuS2t2bE9VNlpEMHdVZ1o3OGZ4VXJsT2JpSk9leXhxaVFQRXRvLzd6a0JNdUw5Zm5mSVFzZ0NDcnFnWTVEcFVmVC9JTzkyenFhbzhNOExtSEkzZnhCb0VmZ25ydGJXdkN0TUo0bFprZVpCTzhaeFpPUUhzU1AyZ2pTSXF6NTR5d0UxRGdBOGQvdWRwOFpVSmZNL3NPTlNCQlpxYzN3cE5Yem52dktpb3N2SUpaQ205aDhmUnh0TDBBUFdMYUxNdkd4TEcxejczaE52MXNjaXp0U2ZpaktWUEEwd3IvM054RUFXZnlFN1diamg0cCtXYzJMYSs3TDJqeWJyWk5UN053NjNaRkNTK2c3aEphL25UdVo3RkhLNDdGWTFQejRMRmFxMVRYbC9Rdk5mSjBGM1BielVrZ1BBT0pxaDFXUWYxazNid2RXZ2k1RDNuWjlCTCtWOXAza3RhcVJzeDlZRmlicXFKc0I1TGs5UjJMKzVKd3lneUcxemRSc3RiSkd0cEhPY2t2Y0tzdVY2eUYxQjlSNSt0NzZKckYzcVE5dC9ZR2ZicHVxQWEzaUlGZzVDc2tWdUNpVHdFZHFPb21qSE5YNXVsRW43ZUVVMVpKMVg0NW1ScDNDN0RUU2pPT1dZWkFqODN3bnVKQTE3WWhxbngwZ3Q2RmNycFIzVXRaTWRLV1MvR2VWWFFOa1R5SWE3Vm9xZXRpdzZNaks3bnBYenYrc2FONVNFMjRDTjFaZ1lVdkZualhuMlJDc2wrdUJ0cGVIM3hUTmY3VlNVU0UvY0hKVlVPZkdFSHIrb1dpcDdqeGRSWldNejNXTDduTWttNVpHOWtUeFhKeEVOM1NKYXE0UEZiTVlDU2M1MWlpRDlWeSs3RGU3c0hMelBLQ2RUMjZoSkVtbTdmL284bXMvbmF6Y1Nxa3lEZ0s5TnJNODZoZ0JMTXFzS1c4MSt0RmZPUmhOR1VHWlA5M0tOYXpRSVJNa2xhaUJ6YXlraTdFekVETCtMNUhmdVRPTDFGdEhSeTZHNEl5Rm5PS0FOQm5iQXZNV1hZNzM1MHBOM2NxamcrQWZHSHROdGM5MmxVc3lLc09JajRadmJnWXJwUjBJa0pGVHhER0IzcEI2TmFwKzQ3ZDJ4S3cxOTdRMnE5OE1VRmNFK0JFZG9aeTFyL1ljYUdaVG02QUtNRXFhTFk0ZUU1SEE0K0RuS3RFNG4zT3lqdU00SUtZQ1NFWnFDTmlPTkl3MUxhY2tvY2wzSXVRRjl2RGxjWE42YWZiZkFSeUV0WWJvc0poWFErclZ3dz09IiwibWFjIjoiOGM4M2JkMmIzNjg0OWM5NTc1MDQwNjJlMzhhNWI3YzlhYzIwNjM4YTQ2MDdhY2UwMzA0MDU0YTRjZjkyMTM5OSIsInRhZyI6IiJ9
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Models\Drop;
+use App\Models\User;
+use App\Models\UserDrop;
+
+class DropController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        if (auth()->user()->type == 'worker') {
+            $workerDrops = auth()->user()->drops;
+            // Verifica se o trabalhador possui drops atribuídas
+            $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
+        } else {
+            // Retorna todas as drops para o administrador
+            $drops = Drop::orderBy('id', 'DESC')->get();
+        }
+        $users = User::all();
+        return view('drops', ['drops' => $drops, 'users' => $users]);
+    }
+
+
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        $drop = new Drop();
+        return view('createdrops', compact('drop'));
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        $fields = $request->validate([
+            'id_drop' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'packages' => 'required',
+            'notes' => 'required',
+            'status' => 'required',
+            'type' => 'required',
+            'expired' => 'required',
+            'personalnotes' => 'required',
+        ]);
+
+        try {
+            $drop = new Drop();
+            $drop->fill($fields);
+            $drop->save();
+
+            return redirect()->route('drops')->with('success', 'Drop inserted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while inserting the Drop. Please try again.');
+        }
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show()
+    {
+
+    }
+
+
+    public function showUserDrops($userId)
+    {
+        $user = User::findOrFail($userId);
+
+        // Verifique se o usuário é um trabalhador
+        if ($user->type != 'worker') {
+            return redirect()->back()->with('error', 'User is not a worker.');
+        }
+
+        // Obtenha todas as mensagens associadas ao usuário
+        $messages = $user->messages()->orderBy('created_at', 'desc')->get();
+
+        // Obtenha o drop atribuído ao usuário, se houver
+        $drop = $user->drop;
+
+        return view('userdrops', compact('user', 'drop', 'messages'));
+    }
+
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit($id)
+    {
+        $drop = Drop::findOrFail($id);
+        return view('editdrops', compact('drop'));
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, $id)
+    {
+        $drop = Drop::findOrFail($id);
+
+        $fields = $request->validate([
+            'id_drop' => 'required',
+            'name' => 'required',
+            'address' => 'required',
+            'packages' => 'required',
+            'notes' => 'required',
+            'status' => 'required',
+            'type' => 'required',
+            'expired' => 'required',
+            'personalnotes' => 'required',
+        ]);
+
+        try {
+            $drop->fill($fields);
+            $drop->save();
+
+            return redirect()->route('drops')->with('success', 'Drop was edited successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while editing the Drop. Please try again.');
+        }
+    }
+
+
+    public function assignDropToWorker(Request $request)
+    {
+        if (auth()->user()->type != 'admin') {
+            return redirect()->back()->with('error', 'You do not have permission to assign drops.');
+        }
+
+        $userId = $request->input('user_id');
+        $dropIds = $request->input('drop_id'); // Agora pode ser um array de drop_ids
+
+        $user = User::findOrFail($userId);
+
+        // Limpa todas as atribuições anteriores
+        $user->drops()->detach();
+
+        // Atribui as novas quedas ao usuário
+        $user->drops()->attach($dropIds);
+
+        return redirect()->back()->with('success', 'Drops assigned successfully.');
+    }
+
+    public function removeDropToWorker(Request $request)
+    {
+        // Verifica se o usuário tem permissão para remover drops
+        if (auth()->user()->type != 'admin') {
+            return redirect()->back()->with('error', 'You do not have permission to remove drops.');
+        }
+
+        // Obtém o ID do usuário e da drop do formulário
+        $userId = $request->input('user_id');
+        $user = User::findOrFail($userId);
+        $dropId = $request->input('drop_id');
+
+        // Verifica se a drop associada ao usuário existe
+        if ($user->drops()->where('drops.id', $dropId)->exists()) {
+            // Remove a associação entre o usuário e a drop
+            $user->drops()->detach($dropId);
+            return redirect()->back()->with('success', 'Drop removed from user successfully.');
+        } else {
+            return redirect()->back()->with('error', 'Drop is not assigned to this user.');
+        }
+    }
+
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(Drop $drop)
+    {
+        try {
+            $drop->delete();
+            return redirect()->route('drops')->with('success', 'Drop successfully deleted!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');
+        }
+    }
+}

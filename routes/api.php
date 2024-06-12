@@ -1,1 +1,19 @@
-ENCRYPTED::eyJpdiI6IkxCb0lKOHBoRTVJQ2J1OVdZeE1WSnc9PSIsInZhbHVlIjoiSEMySkx3TVA4dnVBd2dzTCt6dThrZWl2ZHMyVkdKZUEwTzM2c1k2QTBMS1lEaGxoQXV5eGtKSTk5Z0YyUFNlRHZjTkhLd0s4Vi90RmlzWC9kQm9VNUlCOWFBeGdUSnlCclhiSVdIdGJZdEUyMGYxRXZFY3FsRkNiSnRvTk8wSUdHeWx2cEdLWi9WRXhERFp5NWJJZUJnUm5Gb2NFZHI5UTNzU2psTDhVZUI2bmdkczZFazhXODR4NWdmM3NUNzFMR3FUTlM5QU5wL0hqdW5qOUxlMWhSTDVDOFFIeVJFbVVvcXBvUTRDYTU0MEhCbmN4aXlibzUxY3hqczA5RkxKRkFDU0x5RVFlcTJReG5RbHRpTjNFTlRMMEIyak1BeWQyajNFSmlYVzNvSjFLVVd0QjhjRnQyeVY3ZlpYVkpBMnBGcGJKTmt2bEhFdW5YMi8yQm5pcks2MjdtTjIzNjgzWjdSS0Z4TDhUMk5lTkFZTk51TGV3RlFJYUJQVkVocnMraEczVzBWcXAySmdKSEhsdnlHM0xwbk94b08zeHM2NHFUVWpPSFJUbjZvd3V4OEdHVFU4N1RLemVZbXhqdmtJMGRWN3MvYndxMENHT05TeDVwbzlsY25nQUJYdW5pMFFlWGJUK2NmZ2RUV0RLZEhKbm5sZWFvbzliUCtvL2c1VTJENE5MTlBXaHREdmJqbUVNMUhnVWhNV1hTdjdlYjhHYTA4SnBhbGF6ZVRwT09wRklMLzJqd003dVBQK3pPL0RqRXZwdXdkQ2puZ2xjWHNhQlllVlNGSG5TSWxaREJpcGh2dC9wOG1OVVFzcE5nb1VnSVJIS0RVc3Jmdm5OTjhXR0tpWXByMDdiaGx2cmxUNElXU0JwM3pBbGdUbUFZSHlYR3lxaHExWFZNSTdwdVNCV2hPSjlJR3pOSXVVK0h5WC9jV1ZTRmkzTmU1aWx2ZnN3SEMrRkRnQWNMd0pPakN2VzkwblNYL24xbWlVSWxNaVRqT29SQUc5Ni92TnFuSWhHIiwibWFjIjoiOGQwMmQ3OWQxM2Q3NjhhZDg0NmJkYmJkMzEwY2JhOTk3Y2ZkNGQxMTE3MzljYWI5ODkzODRhNTUwODI2YWYyMCIsInRhZyI6IiJ9
+<?php
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+
+/*
+|--------------------------------------------------------------------------
+| API Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register API routes for your application. These
+| routes are loaded by the RouteServiceProvider and all of them will
+| be assigned to the "api" middleware group. Make something great!
+|
+*/
+
+Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+    return $request->user();
+});

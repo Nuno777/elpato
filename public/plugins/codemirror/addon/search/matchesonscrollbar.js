@@ -1,1 +1,97 @@
-ENCRYPTED::eyJpdiI6IlBlZUQvMVN5Q3FQMU5wUG5HZmF0VEE9PSIsInZhbHVlIjoiOTFzVW52S01kblhHL0V6YnVXaDc1dEVzeHBYM0loaFFGOFYralN0UnFJa2NDUm9aTXdlanJNZmp4c1V5cGdMY2ZlME1YOTQ0ZDQ4RDRBTjZOdXBtd1dkeXRtQ3Uyc3l6KzNxalFKeC9iZUM2Q20vb0l6MWx0NDZ2UEVZbFNaVm1hMTIxc0o1VmFaV29jaDBxTWx2TG1sbldMMFVWZVY5YmdTTlRkamtLWXJRRjA2QTRlbDJCNnBwSS9hZ3NCbVhVUCthaktsc3JNZ3BORGZIcXBtNldZYXFoS0J3eXJ1bTVSK2t3aUlwSVZQWVdnUldaemNiNzd4OTMzUXZPcnY1MW14WWFZYVpPWE54MUVTUHQrMkhsMnNOQ1RWRCtDc0hCcWZQM050YklFMnJGV0R6Kzd4RnM5QWQrd1RQanB4b0dPeWRoaDdHN2xycUxLSWNHN0N6WXloSnF1dnlQZnB1K1ZVK3FyMkVraUVyakV2WnJhQmZUdko0QXlBbWEwNEFBdUtFTGR0T1Y5Q3EvV1EzSmYvQW45bVpLTXl1S1g3cmhidVorYWdJRURibk43OXEvQkc1TkJCNFR1UWtnN253R3VaaHlyRXhOdDVadmdibXowaTZndmZtYTJzZEtjSkNPQWZlZmdXUWtpWnZMaVlvQi9jTEkydXlpbEx3cDluNWJ5SEs2RGkwZ1RlemRPQXROelNtR29aYmw4SW1veW1GWkEvNE8rdEdOcE1LY0xHTXRaVHhpYlpTdi9sRnp6bjVvZEVkU1JSTTdxbTBmVVNJZy9nYUF5QnJMdEdBZDN5Vk9BS0lmVjRWMVUvdS9Hd0QvMm9VTS8xMUtNZFNPd2Y3NUF1RTAvR043SmJrT1QySnZaNzIyMmoybXZvKzEwNzgwUkpqN0hPVWZYRTlNaW9DMTM3cW42Y0VpSUlZZzRJY1NFWkNDMEdSaDV6VlpvT0ZWVGo4TWxzbHdrcXlMUVpBYWVKU21GZGlCS2Q2UVVWOXBOSUppMnlzK1J1RzRFTXBCSVVYMHpacFI3aXArRHNaQWRyVXBSNU5YcXBMRTZYRDhQbndPV2pWSCtoazFCV3NQYk15ZG5ITnhWREIxUDNuRHh0SEhyY2txRHZnVkFKRzNQQlV2OUM1NU5NMjhPTitFMmtpV28yanoyZWNUUGUrdEpSbUswWUhQclgvL2R3YytBeEpwN0tRT1JEWUxnV2lCNU9ZdTI2NTlDNHlsV3lUL1gwWWhzamZmUHh3UnhUWnA1YS9PdENYc2lWUFJuYk5UUjVHYjFCb1Y5RzN0MzZVR0lGR1ZGb1hseXBsUTNqUCtmRnJhc0tvUFFtWDVGN1ZWVm5JV05DZ3BLdERnbmlQUXhaNVRLOC9TSmdET3NTUnBvaytVT01WMmg4YUY4VjVSZHY0ci9VTnUvWUlZMXo3NWNrWjZWYWEyODFPY3o0akIyY2FCYXJTOVlHNjh5Q2ZFYmp5c0U2RjFJMlAyS1BpaUdWQVZ0eGhXaUtLZDUyc1h5M00zSXUvMXZROERlcFdSNzhjRVk1OVJMY0t5Q0drckJabjYyWkxCQllLdjZmWmtCQ3hUMS9oeDhVYi91UW1EV0pxS005ZjBCcHd3S1FRS0lpQWd4QnJqV0F1ODdnWThvRUpUMFdORGlVbzhOdkRGNzlOZzhkc1ZNSDNlSUlJN3VoM0YxZW5SU0dhQWsrSVBSS1RoajZjT1VaT3FRckhCUmNoMysvRG1GSUtyZVBXb0ZZeTRUdzh6U01uVGNka1FYV0hmNXJPMXdGdjJwV2Y4U0VXajFjYWc2WWdQS2dPT1htY08xbzJlaFAwVC9CSWI2eUYwalJXQ2dnQnlWbXNmSGNvTnpVOUZXMXZMdmRrY2Z0Mnc1K0E5ZFFFVEtyZS90SE9vWHhNMEFzbUlBLzRtL1BpbHNlQTMwbFRDZnRPK2JCdEh5UzEvd0RmQ2xBNXVLaThqZUt0enpNY0gyOGVxQTZvaUxydmovOGVzcHFYY1VhaVlPQ3Qxc0hHWDY2MGNaU0tPNnUrWVlvTDVqTjRXcmlrN1FQYXZFZk5XdnpRUkxibDgxWW52elZVdFQ5d0FGc1hCNU4xd2ZMQUZTazRUalRFM3N2TW10V0ozVnB6ZWI2eGhSQXdYUERudlJxR0diZitkVi9MS1hpSWpXd1c1eUVFSHErTU1kbWQ1eWMvZ1JBaEhRNXhDM05PVFYvVHRUTCtGelVXV2dJN1FPL1Jwc2dGSmcrY0swWWF0VGFXNHFPN29iOGx5SlJneXorNnprcXAzemU1SXRlOVdaVDVlTkphd2hDckhjaU9OL3F4RHRaUjVvNEptZmNpeU03bnZJNDh6bzBMRW40SmVWRHgrVnpoWXFIRnBRbkhlZVpITzBVWTFJNDVCQjNHaG43Y1VXK0RMZGhuSml3Y0R0Z0huR29JbTZvOHpxbUREQlFRaldURU8ySnVMOWNrODRqU3J5VmNlZHRkQ2M4MmNhQm83eVBsL3QyODZIakMzcVUvN0o1bVU2NWRMQXF3NWIzKzhNcGo1MWYrNTlOb29NYURaZE1rZVE0SzVoSHo1OUFtdkxGWWVkRTJ2VTBkRVpXM04rYytmUTlXZEhNdTlLaFR2VUdERVJRQUNiOExuUlNuM1dPSjJ4UHhZbnNJaFpjM2FLcmVqYzNCTDhJYlRNdUkwRHZPZndKc2htbDBLREhNQm55T3RGMnd3RXVYMkh5RzMyQmZidC84ZTkvS3Y5cndPdDUyRjVOMG9ReXpYMlltTzN1S1hmdHM4UmhIbmhHNXpxR2IxeDU4RzFMeHFjNDU2dWtOcW5pT3FQaytUNExadkdGOWJSUXEya29oTHVZa0tTRG91Y2tCTnhaS2ZVaU1zSzMyak1zUnZrbHp5TFl1bDE3aUdFaDJKNk04MVRZWEp4eklFQTNUWHdxcHA4OUF2UmpaeUdJb1F5NXhJeGtjdm5yNWRrN1UyS1pQb0lDNldpOFh5TnI5RXFSMy9TNWY3UGxXUTd4eVdCZU85UkZFNDJrYnZ4S3MvZHhETGtDK1RZNkl4cm9BZ1MvVURjTWNVc1M4OWU0K0F3aTlGSndaQUV6eEQrcmFNS2pxUnFTeThYNzA3MXJYUVVjK1BLWUkydkRucWtRTStUakMyTkVLczhsUkQ5SE0vdHRSS1lJZjJrbmpiajJuZXIyZGVDK1l5MHVOQVplTEM5RnFlODFyemF6enlBUFBmRW9MS29VQzJ1dHVoYi9pdTZTNURNdENHM1NxTnkwM0dYRXRUME5JVU1nNGo1THFnZVltN3NUK2NTUGdGeXVXS0Y0Zy85SUduNEN4N0lvODlJZElyUlk1Y3Q5aG96R2o0YTNRWEpoSHNJWDFOZ3JWWkRSbE5LYzh5emVNcVQwSHVHR3o4YXcyaGdZM2E2M2RKN0RETVViZjlDRVIzK29TRW04ZWtxMHpxOTZnV1Bra1NDV2o3a2NtMDkzRFVLNWpBMXYvZ2dqR1FUSWhvRWZEV2ZMWDFkcFpCZ2c0V3JZUGpncWlmd2dkNjNBc0VzQXBoY1F4cUFGWHZqajVyTUpZdDIvVmFIb3NOR0x6NnZFWk5SRkxETXRxQ2pIczgydlpmYTVyVU9BcThPT2hiMXc4UXNTcWFLNEFsOWxQK2xYTTJIOTI3MEU0UXhGTDVoSHZqNWxqckhJSGxOSytMVDZPMW5TTzk4ZmFyTGNSOW1pL1Axd3FVZmRFb1ZpazJRbThDVlM0amRuOUpDdHMwU2oyRHk1Mk1HOHhOQVZjeEZTcUhTOWdPNy9nU3ZaZXJFT1loQms5a1AreFRZOUcxUmN4bWYxUFVJQjl6cXJFWXUxT3I0ZEwxLzEvZGFENkdhQ0pwQWVyUU9WaGttNVJWaWY0dUVkaFo3MWg4TzRZRUhqeHU5c3E1SjhFeVlFNGRaMytqY01GQ2lmRlpUL3VNYWtkL2x3YnhObE9PMUpBbVNxaGIzdHRCOSt1NWNZN1VQTG1SZWIyV0tqZUE3RGo3NVNLTzF0eE0xcFNwdW9DVFJ6Z0JLQlFlM1VaemkxV3ZIa0o4M2lEaUM4aStrV2JWa0I0RnJUNGk3aUVENEZhazFFM2pYYU9DT2dieTIyTFBZV1QwVTh4ZVlhbWN2YkdIbUpudzhyUlJKdmJZemFoVkZTY0hsbzBVVjNDbjVTRWdqallUNktBTzBEZ0lxQ1g2cGVBWVFKQ2RQT2ZuZ2dCVmsvK2s4dVo5djdEWHFyaDlXN001dmc2S2lNZ01jK1lzcnhDL1lxTWxRRGdSMEp4UHJRemlRVHd0eCtNSGhySGRqSE9MR3QySXdXdEZhd2VVbFZHZ0d2R2Q4UGt3am43TVpNc0NrVjdFNFc3MW5zMWo2RWpxMi9ocmlPV1BLdHVOalhlZi9sYXIvdUZKZ0M5YzVVRmtQTUVHaUxjZnVSRFBZajNRTVBuVWRZWTFpeU9RM2xzdldGcUFpTjhKN09aU1lkOXphVGd4RFJmT05jbEZHaFBqcWR1V0NZWk9NSHNwblF2OFZIaXU1Rlg1TkRDVklJTFJGVGhDaG50bk9tVXoyWU45MWhnYVlCN2FMOWxFbTkvS0FxYTNsUUdMaFhaTnZQNXF3bEhpMFJjVHdqaEhEbHJjL1ZtZStGQWJyZ0lodmhGYzVwQTJTeTM1ZU1ZU3ZDU2lORmJBY2p5SVEwZ3NKcnFCWTlHdFNmYWVGdlVORDBmWDJrTGJwK1F6bFBPQ285d3VodDhiOTFnWUg5V2tXL3N2N3Y0ZlhxdHdUbE9jYlcwT2d6T040WjhrYlpia2t4L20zdEgrMzM5ZEthYVREaWhvK25nYTV5UzI0eGhBcTljNkJsRWFabDhWSm9obWFQVkhrUzJMc3d2eEkxblpWUGpodlVHRzdORFhVdFo4WWNMV003Z1U1M2xMREVmK1pCeS9pYkYrWVJmaFphUnVINStkdXF2aVVmNmhwTTEzdDNiYnAvVTVQNFVBaDcwWXBEdG0rbFdKYm1RMEZmaDN5aW1xdU9zR3ZNSTR1QTlxZlJCUE56L2xRR3lmOUZocUpadThKYTF3NCtqUDJjSWRDNXR6SnZmMkpXeEpzenZKS3RvUWdYWkRhN1R2YnpENmE4SUZWd3BDbDI1cmJLMUdId3phbHdmYnF6a01kQjgxM0ZvMms2KzRGUndzOWwvTGkvSmFkRXpXVktOYklCQ3lNZy9MSlhPblJPL3BaMXd5Lzk0SFBvUWlqQ0dONmVHbXAvMnJTTC81bFBDVnhNdWp4bWdxRExDR09JSU1TL2VwN3RZY0VveVVhTzc4ZEZrcXlCN2NmRmc0dkcycUxCUU1DMTFFTFd4UjRrUzNaaWYyczA2ZU9DT2NEOTR4TzlEdTlPV1JXYVNqS3g4b2VnS1cxUk9MOTUwNDV6V1JsOFhLRWEvVm5GV3p6Rnc5QUtHbGp1UytTRnZUVk1pSm91L2hFTDU5TnFPZWxhaUNPUFh0ZGpaaFdkV3lvaWRhU2VEUXAxTTBudEtDbWNPbEI5bzBmaTIrTEc4NXIzbjE1c2ZtZTV3bmFpWFNPTklRbnZnN25mb2g0cnoxNUMyZkZ1YzlReG1tY3VQcEVma1hTZ1FKdEVkSytmVFZJR0ZpdWoydjVSRm5EVUNJOXI5aHZ1eWpSNGJ5OHVlVE9QQlpDSVZrdWI0eE9NbkwzSDZDY216RFI2cWtaeDBMaGhKMHl1V1h3TWMyRVN3RkVEUDlVTDU0SXNqblF3NmpMSERqV2NiL3pvZ3lVZTlYeDRyZkFqdkVkSEZTeHFoZ2ZHSGQzQ1Iza3ppZ3JZVkhLWCsxWVNxRmtsOTJ4ejVCSmpVa3RpbkExbkF3bWVXd3ZLcExSNzc0Q2tmZkl6N2lQcU1xeXA2NXo0c0lhM0RtZGxDSGRUdUVrTnU5UTM0L1YzNEpvdFdVUWE3elhmcEQ1endyZWN5dFBqcUdDVHVEUzdxL1drZFdybm9SS3NkU2RjY2kwYWlkOWJKQXVKb2o1S0ViTUFuc2JZTnp3MlJMQ3JxSUdvK2xzcGt6eHFRNHRTUDZLUWZSVk5tWnhLcFFaRlNtU1Jnb3p1RU1WbFhlem5qRHdXallkWlA2ZUN2bkZJSzNNK3RtelpwR3RoVW9qRmZBWGhxcXFpVkY3eWI3V2RsTGpnaG1CNUVlYWNIbDQ5ZGRidTR1OUtmSmdVM3dpeGtmV2VJRURIMk40SXZUNTlTdCtpWW40WUhEeCtGZ0ZzSmJMS2sxMk52dzBQeWFUeXNwc0RLSTFobldMaXRFcENQS093ZlhabzdtZFRWY3JGODU2SHFFWGxjT0toeHZkYnVQRWNjMWwvS2ZITzdLR2drSlhiNGlCWnloSUtUczRFR3RBVVlEaTczakJDVUZBbzZET2NndmFiZnpsSkprbmQxUUZDaWZ3WTlQc21YQ1Rlci9PNW9qdnl0NTNHVWxIak54YitlQ2tLRkN3d05YZFc2a1ZJQ0JXZjJFL1dKMGczK25ra2RCbThsN3lrUDhMSmZvcEJ2TitvOTdKOUd1VXVZSHdaZVdBbFpIenkyeHdTMnYxcUpCNlZ4MGZsczBBSnpaOVhTL2ZJRno3WVhERzEvUHVIS2VqeGpsT3VKVFZFL0hBRjQ3aTg1QThqWHlsNWpMajdrRlFWS1JzYW1NRnl4Z21QaHI0aklNcC9PSE5sa1Rma0hhcU9XYzNyNFBlSzc5ekI2WEVoMGJjK29IOEdnWHY2eWkyTzZiVHp3NmovblBqOWRvbVM4Sll0Tm1tY211Q1A0clFFWm04VG89IiwibWFjIjoiODZkZDFkN2VmOGY1NzYyNGJmYzE4ZjMxMWY1ZjE0MzQzNWM5YWRmZTZlNjhlNmY4ZWJjYzI4OWI4M2MzNzBiZCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("./searchcursor"), require("../scroll/annotatescrollbar"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "./searchcursor", "../scroll/annotatescrollbar"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineExtension("showMatchesOnScrollbar", function(query, caseFold, options) {
+    if (typeof options == "string") options = {className: options};
+    if (!options) options = {};
+    return new SearchAnnotation(this, query, caseFold, options);
+  });
+
+  function SearchAnnotation(cm, query, caseFold, options) {
+    this.cm = cm;
+    this.options = options;
+    var annotateOptions = {listenForChanges: false};
+    for (var prop in options) annotateOptions[prop] = options[prop];
+    if (!annotateOptions.className) annotateOptions.className = "CodeMirror-search-match";
+    this.annotation = cm.annotateScrollbar(annotateOptions);
+    this.query = query;
+    this.caseFold = caseFold;
+    this.gap = {from: cm.firstLine(), to: cm.lastLine() + 1};
+    this.matches = [];
+    this.update = null;
+
+    this.findMatches();
+    this.annotation.update(this.matches);
+
+    var self = this;
+    cm.on("change", this.changeHandler = function(_cm, change) { self.onChange(change); });
+  }
+
+  var MAX_MATCHES = 1000;
+
+  SearchAnnotation.prototype.findMatches = function() {
+    if (!this.gap) return;
+    for (var i = 0; i < this.matches.length; i++) {
+      var match = this.matches[i];
+      if (match.from.line >= this.gap.to) break;
+      if (match.to.line >= this.gap.from) this.matches.splice(i--, 1);
+    }
+    var cursor = this.cm.getSearchCursor(this.query, CodeMirror.Pos(this.gap.from, 0), this.caseFold);
+    var maxMatches = this.options && this.options.maxMatches || MAX_MATCHES;
+    while (cursor.findNext()) {
+      var match = {from: cursor.from(), to: cursor.to()};
+      if (match.from.line >= this.gap.to) break;
+      this.matches.splice(i++, 0, match);
+      if (this.matches.length > maxMatches) break;
+    }
+    this.gap = null;
+  };
+
+  function offsetLine(line, changeStart, sizeChange) {
+    if (line <= changeStart) return line;
+    return Math.max(changeStart, line + sizeChange);
+  }
+
+  SearchAnnotation.prototype.onChange = function(change) {
+    var startLine = change.from.line;
+    var endLine = CodeMirror.changeEnd(change).line;
+    var sizeChange = endLine - change.to.line;
+    if (this.gap) {
+      this.gap.from = Math.min(offsetLine(this.gap.from, startLine, sizeChange), change.from.line);
+      this.gap.to = Math.max(offsetLine(this.gap.to, startLine, sizeChange), change.from.line);
+    } else {
+      this.gap = {from: change.from.line, to: endLine + 1};
+    }
+
+    if (sizeChange) for (var i = 0; i < this.matches.length; i++) {
+      var match = this.matches[i];
+      var newFrom = offsetLine(match.from.line, startLine, sizeChange);
+      if (newFrom != match.from.line) match.from = CodeMirror.Pos(newFrom, match.from.ch);
+      var newTo = offsetLine(match.to.line, startLine, sizeChange);
+      if (newTo != match.to.line) match.to = CodeMirror.Pos(newTo, match.to.ch);
+    }
+    clearTimeout(this.update);
+    var self = this;
+    this.update = setTimeout(function() { self.updateAfterChange(); }, 250);
+  };
+
+  SearchAnnotation.prototype.updateAfterChange = function() {
+    this.findMatches();
+    this.annotation.update(this.matches);
+  };
+
+  SearchAnnotation.prototype.clear = function() {
+    this.cm.off("change", this.changeHandler);
+    this.annotation.clear();
+  };
+});

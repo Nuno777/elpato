@@ -1,1 +1,45 @@
-ENCRYPTED::eyJpdiI6IkVYZVlGK0hRWWhzY3BFQ3QySFQzVFE9PSIsInZhbHVlIjoieWpTaUREbXVrUU1PZDJoUFNqc0E0RlArbDhaYm5TdjFJSHExWnEzRFlUeE14eTlxQTZMV3VQaUM1UDlQbklZOXNVQmVJRjg3R2xvSDNtaFpmaE1ZVzJqbytGVXRGemc0RVViNTdsRHdSN2JpZXFiZXJzOGtUVS9QZDdNa3hFUStteDNHdWxSeGhPVFJIOUhtT2pMaE9reVRpTnM2MFpROUFPakJoQm1nN3VzQkVjM3N3dXVkS3djTDNocnZzM0ZlR3EraTJKeGFZSmdKZHk4NlBMYXdhVVRoSW5uZUhFR0tQTjVNbmIyKy9MMkkvWVFNTVozM3FYUlZhTDRBZkJ3bExCUGdvcVBoZFo4VzhrZnhuVkE0Vk5hSUNZMHBPQlUzMTRFQzhXUWUvNGhFYzYza0RjeG12bGZJY2xkSFUrRitFMGZFbXR4em5VbmNqOElJUkxjckhVZFZIT2pUR0FSTytocVI0Q0ZYWG03eitTcS9XTGNpNjB6S3dYVzFteGFHNmVybjJ5dnVxM1BGUFEzV3JpTENJaWpOQXQ2S3NQRHpFWHNmUktJOExEN2hvYkVHQXB0YzZHUmkzeHFBU21FVk9RSzRIMnE4SzlpckFqa08xWEVMc3V2Z1NIalczaDJZWnhFN2xhWXpUM1RHQWpmQ2I0ZTFXRTFTemZ2b0RuMDZrSG42WjlJd09iL0R5VTNkT2k4VjJzeGRTWGVqZ2NrYUlIbGRGbmkxY0s0MW9Nc2pPdjdxSk1XTHRYWmNmVGFmajdiK2tNZER0aEo2eWpPZ2EvcnI0dy9mQjFDbDdvY09tSUZzTHFVNUNKdzJNQUNIQW9MZXBoVnh6TWczTk5ncmcwRll1ZFlSckt5dSs4UTJ5aXAzVGwvcWk1M1ZaSTJjRnF1MTMzbUZKNTN5UUNmUWFZOEgvd25BeGlIUlFMeUMrNlRHaG05UzFLbjhaOEdDOGJ0ZUV4U2dEMkQweVhKYTFhNEhuOUVwSlIyNWlLMVNyVzI2WVNQM1htUGJPeTFWUlpsVDhESkxDRFFsaEltSE9ZYlpoUEtGalE0SGE0THpBZXNHcU9NQ2JPek9VR2RIbjNwV0JHdThueldVT2VpYjZUcDN0dXgvUG90ZXFwWFRNcGx1VkQ0YSs0N3JvbFdnN2xUWDQvSTA1WVppTTB6ZjVHZ21qaEtBcmEyVWE1UDMvTGt5UHpJTFhLaHJPak5uZk53YTBSN1NORTZ3NUZ3TkRQclk3LzFZcTR5OVovWTFPRXhwWnRzQWpXcHNpaUhYc1E2akFkU0ZNV29wY0d0cnlWOVJpSTFVditJMEd2Z0l5RjdCN0RjYk9xczdVbFRKN0hBVmx3YmFpTFdiYUNOb3llamxKRjRQbU10OWhvcnRJN2plbDZYTVZ2enJyK20xK21vOTBTSHVTVXdjSlZNM2NnTHo0U2xaK1VPbzNTUFRHWmdZS2JtRHo3TFhzNSsrMFdmL2dOcFdmRGxRVy9rZGl6TDEwL3JYNXJlMUUraWY4WmhlamRwSlArcmxVTDJqVVRxRXcydjFkaWcvd0ZRZnBuY05LSU1CWk9WUm16WHVEK1RBT2xNVzU5SVh5TGxhMHlQNms0M2pxMUpDK0JZWVhMc3NoS3F6RW5mYUhFNHZIckIvZVk0Y1ljRkQrNkhseENGS05wWWcyekM5aFNzRmZTV3VxeUIrUkM5NGN3NVJlQWFCM3NpdTkzT3V6NThVelJGaFh1SHIwOS9wMFZXbW9VdDFmSnh0NFVFci9ibnkwU2d1aDlYUWFyeDBFMU5WMk1vbXlaazlYRWdGR255UmlDZ2Y1N25LNHFIMjEvbEY3bzJtYytvaUx3Wm45S3BzRUV1UkRCSjdocUFNbjdpejlPVUptTW03TUlaZDJGOTFFbVpVc2gwL25ZY1lUdVJUNGJ1MkQ1TlVDbGFuTnAxZmtDS3JvYkRkZE05QWlGVjJBWDAxWnFtZEo2MlFEdzY0cGUvTCsraHdiK2tNQ25xMmFGOGtzOVY1UDY3cW5xazNvNmpxaUN5cFFiV2dCajJtd25BeGVxL08xS3drem5UQTJVYTljZXhlMCt5ajFqaXZNSlNpbEhDS0tuZHd5U005d0FoZlMwRDZIbk5wTW9lL0V5R3AvRHAva2lOVlFpQWJKSTJPWVcrK1lEbVhaVTVWMkJVcjQ5blg1dkdSRWtUUCsyK2UvbUJtTWFIUTVrNFE5UE9yeC9iQ2xIVkV4UmVqV0hNRTErZ3o0cVExYmpPdC9rUGRFWUxrcUF6V1YvK1NiQVBMb0J6Z1lualBKM3RLeUdpMm5PT3ErKzBrOFJOV3djUWJWUmdTQWVJcGJHVmxJMWs0RFFyTEMvOHV6ZU1BeTRaeU10RFJEcjVEVVZ0K3BUTHp6WmlFWU94Sncxd1RvZXFOMlZ4WGFPaWlkMTIzQU1DMHZDVzVKeFI0amRTcE1rbnRybDNsRGJDNkliMHRXZkViTzVNUzE0dW94YWxxNm1MN3pGdk5pR3RUQkFadHMxbU01R1FyUGVzL083aE5PckQvS0ptVTk3dVJnaHNMVmxERDNVVEpMb0dNTTN2TzBaeHNsSmdsTDlYK1VCY3RRRTB0MWhYZjhyT0NwOEVGMjNGRHN6TnFrSFNScXJtYVEzYnMwWXFwMG1HTWlXNUlDbU85K1NPMFRxeTlreERhSTBDcUFyd0FkWlM5ZUllN3ZTa1JZMG5MYUtyc3FJUGNFZHdIU3FsQ1dwTTMzcnZkTVhnZjBZTEtUWTNrMzZsc1lQd1lGdmQzOXJmTklZemVBSSt2dWRoZVhJT0cxQnZIaldZTFdkUC9YeHNBem5NMm5lNDRLeVZtY20wTXdNWENHNFJIMTBkNWNQOHpLSkttbGh6RXdlZ2lrZWlUTitOeSIsIm1hYyI6ImY4NjlhODc0NzczNGIyZDNlYTIzNzUxNTljYzQzNjA0ZDMyZDlkOGI2NjQzZjVhNTkwMzk5OWMzOTI5MmNjN2YiLCJ0YWciOiIifQ==
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@yield('title')</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700|Roboto" rel="stylesheet">
+    <link href="{{ asset('/plugins/material/css/materialdesignicons.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/simplebar/simplebar.css') }}" rel="stylesheet" />
+
+    <link href="{{ asset('/plugins/nprogress/nprogress.css') }}" rel="stylesheet" />
+
+    <link href="{{ asset('/plugins/DataTables/DataTables-1.10.18/css/jquery.dataTables.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/jvectormap/jquery-jvectormap-2.0.3.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/daterangepicker/daterangepicker.css') }}" rel="stylesheet" />
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <link href="{{ asset('/plugins/toaster/toastr.min.css') }}" rel="stylesheet" />
+
+    <link id="main-css-href" rel="stylesheet" href="{{ asset('/css/style.css') }}" />
+
+    <link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
+
+    <script src="{{ asset('/plugins/nprogress/nprogress.js') }}"></script>
+
+</head>
+
+
+<body class="navbar-fixed sidebar-fixed" id="body">
+    <div class="wrapper">
+
+        @include('layouts.navbar')
+        @include('layouts.message')
+
+        @yield('content')
+
+        @include('layouts.footer')
+        @stack('scripts')
+    </div>
+
+</body>
+
+</html>

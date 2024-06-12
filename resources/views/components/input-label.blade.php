@@ -1,1 +1,5 @@
-ENCRYPTED::eyJpdiI6IlFFcG5TVXVMVlV2ZFNkNGNMa2h3Snc9PSIsInZhbHVlIjoiZ2J1bmk4bXkvemVmWHlFSTA1RkRwb2k4ZDhXaW9jVnBIZDJ3TnoxZ29WZVNsWENNUmJEa0lVcERERGlCTEg0dytxbldBVkhWUmFqMWJOT2IweXQ1ZHZBUWZTbG5QNTlnamsvbnJGZ0VOeUVsMEVxc2VxSlIwQmFPR3F2MWdQR29kSHpBbjBYNEpVbnFEdFhjUndsdHN1RGpLVFE4TldkOFRtZ1dPekVXNXhvS3RMYWJnR0tGd0pMKzNCdFJNTHVBMThRWWpPSXA5MUs5V3AzNWFPRmUveHBWdHZETzdVc3U3UXIzTFB4OS9RST0iLCJtYWMiOiJhYzNjNzY4MDk1MjlkZDI5ZDVhYTU3YzJjZGVhYmMyZjYyNjU4ZDExN2Y2MzMwNzc1NmU5M2NiNzA5MzUzNmVjIiwidGFnIjoiIn0=
+@props(['value'])
+
+<label {{ $attributes->merge(['class' => 'block font-medium text-sm text-gray-700 dark:text-gray-300']) }}>
+    {{ $value ?? $slot }}
+</label>

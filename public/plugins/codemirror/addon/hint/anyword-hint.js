@@ -1,1 +1,41 @@
-ENCRYPTED::eyJpdiI6IjBzRXFNNDlkVVAxWUVUdWNMcDhHaGc9PSIsInZhbHVlIjoiQW8vOWpXMnl5ZU4rcjRSbm1HMFdCZGpwRElvbkYwUEFHMHZqVGNlYU5aYU1ZUmJzbWtvVGNNNnpENzhUaW1LSGU1VnBzT2wvNE1nYVI0c1lOVDJPdDZYVVh1ZGN4MzUvaE9SZnhtUU05Y05HTGhydFhLcUFMQlJEYjVMMmd5ZS9IeDJoa2pxNlpERGtJV09jVCtIOThXbUFyL3crbXhINmd5STlFcmZJNURzaU13aElEUGsrdktKVkxMcEluMDh5S0hxZ1lKUUxZeUw1cndWYWZLNWlWejM3WGlYRGxTSDlWVUh3ckZYQkFWK0RxNmh3U0hGRndCU1JyVzlqOW1EdTkraDk5TjA0VTRNUXZnclI2cHRpVDgydFc2dlNFZmZKM1lXeERqL21mTTlJMG1wL2MycE9wVHRzWWEvL2pDTURqMVBac25pWi9aMzhLd1NLZUpibWljbEFoZFhlOStUZDV3MU1TbEdaMzAzQTlFRG9EZmt5MmFpd0czUHFOZ1RYWm1mKzkrM09CbXJMYXpITTNOdFcva2xJNDBjbVUyQ1VUb1RIRXQ2YjBiY0E2TWYwdGFIT21wL2lHaVdpa3k3QXlqeXRuNlExRDh0Qk51NTJHcXJMaVJSU3NmVHdibFRSTHh0MTJkVFk2UDNJYjFPOGtNUUgxeVJicDJXODVoOHlrLy9jTTNGL3BkYlQwcGFqc3ZrUENJMURxMktodWc1enNBZFNGUEJrVlZubnJKZFFudjRxSUVrSW5ZbTZpTzdGVlpHMUlCb1dhdVpBTU15VFJDcUt2emJoeGFoc1R6YzV2eFRLQjNtT05xWVcyZ2JGdVRKTmUzcHVGR0g1Zi9Sb1A4aXFuNU9zczZaWDl2ME5pVXhYQUR4Z2FNajYvbENiR1pwdnJNZTNPY3RuTUxlMXpLQ0trc2Z1bnU2aG9WdURJVHBKZTRlamIrZ09vWndjRkl3a1Z1dmNOeHp4VVJ1azZTcWdCVlRvSlIxczFaZWYyZjNsZEtSZS9ZS1dmam0vVmFZQ3R4KzN4WGgzbHh0YVRPRXFnVnJreUhBL0tuZnBhbnJRZVh1ajQ0TjlFYTFYVUVwM2N3eGtUT0hPV1RHRVI4R2xQYk5tM2E2QU1PT3pmMEIxZHdqUzluWTZxc3ZtUDBRQVQ5ZFpEY2lIS21uS2I3S1NHWHNvcC9tUWl2aGlhbVZhaXVLOXBPTHc0Ymc3Tm1oTGhMbGp5OUJQYmR2TDNIVGNtKzlVa0owRGdBUUw0NngxR0dZdm1sZkdlNnlBQXltZEx2NU1PSUk0R01QaVJTQnNocmlMY3g0VDNoU0g2WU5VaTFqN1Z0dHJFQmdKcG1lWUhkSG91UmlzOE9pSXZOR0RsSFMvbytzOW5oSERidi9rckxEYkZ6ZEp2NG9lSFZCNjJBYWQya2R3S1B1b0VpbWhVMW52SjVZMTlvQ0lQdGVEd3RLY3lWdi9oRkJQYW1iZ3UvaW1LbThzTjczZU83RzRoWjJBakdvbFVLcG1YaHZscDlVdkl0akpHUUlRWjJ4V09uY216SVZVYUF6VW5jWThySVlOc1pkODhMZ1g1QWRmaVNDSEdQOXpQREFxRTRaTkk0TnhUVHd0Nm5kei9kblpLaDlNTk9ZeVBBYW0vWlREWHBFUjdNNXo2OEdML3ZZN3dOZHdkVnhZRmdBeHUxRlBDVTJWQXY3cFlGbGRnZnJqekY0b2VQaHdJT3VFRGhVanE5WUR4Vm1jU2VHeW1DbzMrS0pseVROU05RRDBvaEhMZ1VWSjA4NHlpN1FIV010TG9heUlET2dhc01TL3pPZ0paQkcrU0M4K3dTVkJWMVF6M1VkWFJnZUdNd2k2NlRXUnZjV0d1QTlBSzdVN3BGRk9lTnlzTWxzZFZYWWFoYnV3RjRVb3NQaThVTTlYZHBOY0dXdSsxT2hvMjh2QmJFS1NpVFFLWVdxSjNJSEUrY1RLRnU4N2ZiL2ovVU9CaDlLa1lFZnJuVDEzMjN4Z08xcDRoWjdhbVVQM3cwekxJSEFERzdrTTNETHJjc011T2swR0xPZytSV0libGFOUytteStHY0srSUhidkRSbyt5OFFxeXFXWWpITWttVkcxVWFtRkU3WjF0c0pVc3d5dGJIS2MxQzRNcXlTQ0ZoeXVWdHlkTnAyS2luRFRobWY5N055a0ZlWWRDMUNHNGxWZm82ZWxsa3BYeFRjaDZQQlZrZE9IVUNneEhNZlRqYVU0emhiRDQvcTQycTN4ci9lUndtcmlDRnBOd3pnTTdKOWhjNTBXWHVPV2V4UlFKdnhCSFprRnlNYnpTbjZkV0ViRG1DRys4alRYbXBySGZTOThTRlJJTGNKbTRlNXBHR2dWb1d2bXpUM0U4bCtqYktZYWNEVWNNRUluQW1MV2RxcXZkZmNVKzQrK2NnU3VzTUorL013d2RWOTlNaUpDcUt3K1pHY080ZUFFQ2ZaUDE0eGFCWHEwOFRWRGkwNUYzZGoyQWxWTGZWVUNrOWFlWUlleG11czFlaWJ5R01sbEtZUUtKTWlXaFJzcWQvRnJuMDVXeDluS0Jwdi9LaHZxMXVwdlF2dnY2N25GMUFzU2I3L0RjaTVpREdiTTlKanc5bWdCZkpBRmtZM09jOTk4SUZLb2dXN1k1ekV6aXhvbDVGTEdTaFo1WkhTa2hmTERlMlYvc3JaU0c2WFJDTU1XMjNWUjIyWHJjYWxLUXVXZ1lSK0VIMDV0dzI1WDQwSnRvNERtcTVOWURteG5DT2Q4NndOTzJ0NDkzWkkyZjRsOGpnNkNnbk5wRGNVRXMxWTlVbTRIdXRYY2NHSytUOXV5TGYzQ1Q4bXlsZVgxRDFISStJd3FRNmJLZFJPWEJSdmcrZXVxaVYrdERXam5oaFZBd3l4QjJmeEFJalEvNTZXa0FaOE90RUNRdkJpNzRONnNYbFhpZ29DTWlPb3k2bzJPSnlud2UyQ1o2NUxZRjRUZUprNExRQlRyMzJQa0EyZ1FyUkpaTWVjUmxRPT0iLCJtYWMiOiI1N2IxOGYwZjM5ZTA3YmQ3ZDA2NzYyMjA2ZDc4YTUxNjlmNWM1ZmQzMmQxNWM5OTMzNTQ5NzQzMTE1OWMyNTYxIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  var WORD = /[\w$]+/, RANGE = 500;
+
+  CodeMirror.registerHelper("hint", "anyword", function(editor, options) {
+    var word = options && options.word || WORD;
+    var range = options && options.range || RANGE;
+    var cur = editor.getCursor(), curLine = editor.getLine(cur.line);
+    var end = cur.ch, start = end;
+    while (start && word.test(curLine.charAt(start - 1))) --start;
+    var curWord = start != end && curLine.slice(start, end);
+
+    var list = options && options.list || [], seen = {};
+    var re = new RegExp(word.source, "g");
+    for (var dir = -1; dir <= 1; dir += 2) {
+      var line = cur.line, endLine = Math.min(Math.max(line + dir * range, editor.firstLine()), editor.lastLine()) + dir;
+      for (; line != endLine; line += dir) {
+        var text = editor.getLine(line), m;
+        while (m = re.exec(text)) {
+          if (line == cur.line && m[0] === curWord) continue;
+          if ((!curWord || m[0].lastIndexOf(curWord, 0) == 0) && !Object.prototype.hasOwnProperty.call(seen, m[0])) {
+            seen[m[0]] = true;
+            list.push(m[0]);
+          }
+        }
+      }
+    }
+    return {list: list, from: CodeMirror.Pos(cur.line, start), to: CodeMirror.Pos(cur.line, end)};
+  });
+});

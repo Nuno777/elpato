@@ -1,1 +1,102 @@
-ENCRYPTED::eyJpdiI6IjE1VU50UkQzTi8wbWJoT0tRR1BlQXc9PSIsInZhbHVlIjoiZHd3dTdscUlzc0xaNGpIeU9vV2FNYTNCNXd3SllSOHN6bFlwUWNpTGNnb1kxUU1jRU5tc09pdEdjWTNjMk9ROUNTcnQ2bWNzYnY5M2lsTmx0eXdUUXJVdysyV2xoZFQ3eTR4Um4yak5xNklXcnZDUmVMTTllR2FMZ0hxdE9CSFFpZ010MHN2NHdGV2crYllhd0FsZVYzV1lSaExMWUlncW5CQTc2dnFJMDhhV1UxeDRoSlBZVXB3NUlhZ0RKUmtDeVNrR3U1azdRL01GQkFsSkhwNWpyRHB6UFJyWmdWVkxEWDUyUVh4VVVwbExkblB2R29LWS9HUFhYckJ5YlEvRzlYMm1aUGRzbUNxR3hJZFhlZS83VlZXaDRpaFFzcDg2OFU4WDF5Y2RkOFZCeHo2QVFpT2pQUk5XTklZdzIxeXowdUdSWU5WSEI1Zm13MjBTR1NTaEhsZzRsS3RUS3dWU05GeVY5cDB6Vmd6c0xqbTdwbjJteFFydy9VbEhCbzlabzdPWEUxaUVHVi9VckVoeHhTVEFVZzRVZUUrUGdtM2FnRVN2Nkl6WUZ4d3VLVmtidFo2ZWJCZ1ZQZzlsU21HVXVjRjVrTXZGRTVGYUlDKzBKdXJqbCtWa2kyRmQ1a1lzY3J3RmlxZWpCcEJMaUt2Nlk5TzBQelg1eHEwcEI1SUlFbXNMajYwOWxvVUs4SG54aEZLb2R2QTFPSFZ1REdndS9ET1g4MXEyWU1YcVMxaFhQeGw2eEhzWGQxS1lhK2p0S2JoYzNGMlRpQTNzR2g0c2Z1VHU4dlIrOU9FTTUweVhvSmRaL0tpVHhSSHV4aTE1dW9ybEVUdzZ6cndKTnlyZk9XYUNmanV4dS8zYkY2WWZDT2Jham5YZkp2VkJOMTRlcVdqamlScU9WdEI2b2VyWTNSQVZJY2U0L2txRVQyb29Bam1xSTJWUDIzM1FkVCtlRDFCK3NwRndBYmpTWXozdSszV1NrSFRZbmx2bmZSTndHRERQeEFLM050UXhFdlBQZEdxRWVlK3gyekdZWWxJM0lkT3lTWEFMWlhIaTZteDNCR2RDSUovbnUvVVA1STZEVjFNeWVyaUh2NStabFJUYTVtYkhxUGhzL3JtYlNkMDlPbVQ0OU1naEk4RnVqdlRxWWVqWktaZDBVUDlabkN5elR0bWc2TGpkb1R4Y2JndVpPNm1SNkhPUU00bU1QT0t4dnIyNWhFekkxM3FyT2NGL2VOd3lsYkQ5RjFQMmswNzBqSWIxSlVRU25tSWJrNHVMTXNiVXlkbG9xQlZZSHQxaXUrTGpRdjlLaXA4ZUlUdzZJbVZJb0d2NUkyR280dlpuZFY5OUhRR1M1Z09zaVplOUlsTlMwaFBwUkNHbkhmN0JrZitkdzJzUTBOb3c1QlliR1RmbFNUanZ5bFZNZFc4eXRHYmtFcDJXdlRsUlZNZklrY2k1b3lnbjVDcXYxZGQ2dGM2WitzTExVai9XU2huRWFTRjNYdXdKWTRvcS9uRnArVXpZb0tWYzUzbXBya3A2NVZRT3BTZkhMWWRJcll6RlpVYlFVV2Joc2NiNzFCc05NZ25ZdU1Zalc0Um5hbmxsMjRkSWZPeGZxc3pmT2paQWt2cGdQZ0x6dVFoNHQ5cysxVDM0endVdlFCYUdyQUJKdldjek95NG5IOU1sOW1NVUsrSXc2SE52K1BBVE01MFlIRk1SMFVvUG5xYkVCQU1rcEtJOCthUHAzYlNQL1c1empLQllCNFdzQVhnUnVlUWdRaVNTT3gxRHRnWmN0dzY0V1RPeEdwMmFFbk5FQzVLOFEvU1grQWRJZnVsK1czYXJDRkJJOFNLaktVQ2tCSWZ0akRsQnhjMkR6Qk9VdTMvU1lEckhXMkRIUG5IblNyeFg1WWEyUFdLa2NDRzVtUzY3cmxvT2pSRUMreHBqTVJ2bCsxemdkSnJUTkhoNDBVRHUzR1JxMWZjekMvVTFac1dRaGNaVVhVWVZ5QU1DNkhabTRQbU9iUUREdXgzOUc1OXBqb243WGRuejkwY0YvZXZUb2lsaTR5cDNJMHY0MERGZUttNlZzVVlVLzgzZ2QxV2xIcjViRVd5aGNsaGNBeG1SaXdlR0dRVldBT2EySWFRQjlFZ0NqQlJvYkVXeER6UkNnQ05CYzM1OERaUTBIN25xV2hkbWlsWXR4V1kvdjI0T2k5M3Q3TmJmNUpmZHIveXltK2tFa0huNllhK2ZaMGlqam8xZ3pYd2hmNnJHazZ2NjRsRmVDQXVYWmlrU3A5eWZaMEZsdjkzRXpoMmtPYWhXK0szMDZkN1FIbVpvMy9OaHpubmZVWUdUN1BqNkQ2NjNRbEVybXFwZGk2TGE2cGhMQUc2WGJOTXB2ckVXR0c5ZzBEUzFKQ0ZQTkJTNlBUOWZQRzV5cXl1R3pPRVdKSURmVldXUTFyUFBiTFN0RVdLVXJGNFVrUHcvK21NSjBqL01KcHNuV2cvSThzb1hyZC9wT1VURHRoQy91cDYrU0s2dHcvR2VueVhnKzlKcmhnejl1NDRhTXRnNEcwRCtFU3NIOGQxZm9xcUwveVVVNmExYS9YVnc1aUswbVpnMXltODRUd0hQRkwraGFrcmJIRGtDSUZFcE4vdjVYS1VDcVMra2VobU80QnJLcGVWVE9lcmZuTjZROXhuVVg1NE1TYzVqMTVuVyszdW11NDRJdDYyYkl6YmFLS1RNM0k0YzRTMkNvaFJmSUt3U0pma1MrNkdVTWlUTUs2TWhzTlRnRmlSa2FBZGZydUEra1RrSVBsT1ZuOFZPckVTcWJJcXJPV01KR1dJM0tMd3NKVjJ5WE84NkRwOW40Z3J6QkZhTVJmb2xURENMSDU2dWVaQTJxbklSS3ZJVHVZS2xNYWNSWFFzdE8xamY1ZDZZajE3M3VCMUNMM3hlU1cvd2tFamhMKzRZZVZmclQxaW5KYTRCZEhPQUUxS3BUMUpZMW1NVk1BMlFsM0ZUWGZMTlJPTUh0aFBqYnBWU3pVSU5mWGtURUo5ZW1TeWRYSUI0anB1MkhkVjVlSTZ2RURVZjBmQktJWm04TlFHQ09idDh2ZDU4MlBHLzlXV21iQXVuSTRCUHZUaFJWaG9uM1AyL1lOcTkvb3dIbEhlRlU2ekp1dHVlaWU5TVFlWjhoWkJ6MllnWVZrMFBDcWxhK2NBd2dSVSs0YU4rWkpmb3JOQXFNeVJmRHJhQUYvcVQ0SS9nRVRFSm9oQ1RTd2xsQllWWHVuNERkK2QrNDNidzgrdjNBVW9xUlBVS01WNENtbTVSZXhESjNWcGZrYmVEa1QreTNRd1RFbjlrS2NvL2NVQVdPV2dxdUFCaVkyNzhXUmx3WkJBMGlpR2FHdC9PblV3WHZqb1ZjWGVBYUV6Ym5oQjhCZTEyRVBTV1ZIWnhocmtNRk9XU0RpVWNOYUVOUDRoWUhRcU5sTExraHZwZUhWdE90cmNGZFZsWWFFUnBXM3E2OHRsZ1hWemlxSzJCbXIrbTI3WUFWM1pEUWdlcnlGOERwV3N1R3ZrWG9MazQyQ0t4cDZ0MXFYTGFDaG1ubWdscHpwV05hdDJZUjNnUm02OU5YSlVjNzFvaFdWMmV1MHp1aFBoUUFjQVJ6a0Z5RFc2bXJLU3Y1QzE0TXhGb2hIVWV4Z0QwNFZJTnhWNmlVVFFweDBtR2lBTi84aHpmY3hnVzM4QmRTRURJUy8vM2FmbU80c1o2V2U0SDJ5THBYVGEwa0ZidWd2bG14YUhpN21QdzZUNkZxVHdXNUlzOGo5UVVieGVUejhmMHlTQlpOdkd4ZUFGWlVYNnQwYlVCSEI3aS9WMldMRXJZZkZtV3lnL3p6b3JXbUUrOEkvY25YRGthWXNLczE3d0Rybm5iQSsvZGNPZ1BNazhOU1Z5TUZGbHExeS8raUZ2aXY3V1JyU3kxTC9meDBYdVRrdWhvNmJDUDFnNDhpM3NabDRDTGZmdktFRGwrdXpMaldLSHdzdFlScjFOd3Irc1JGL0FEVFN0MmNxTmJqNG4yNlM5WVdsSE9keVh0VlJhMkJGMXI3bjJZZVN5SU1UbytuQzcvTVQ2MEh5YU5QbHd3cEt5d1Z0MjlyaXBWMlpMblZ0cm11ZVcyL1RieTZkNkhoS2E2S3hBV09tb2NWYjRuQkVSOHZkVkVDSXljRUczalMxZmFjK284RWZTREtKK1ZZbXVJeHN0TmxyVXRGVm9vNGpZZ2xacEhIWXFodkFhUjNLc3RFS1hXRTk2THE2eFM3dk5vL2JlY2tNaE1GVkRVNnpoV25pWGF2Ym5mQ1dUQU5jZXZBS1dGVmpZRjBhZldQcWRxWFNRZUZvNFdleWFmdDY1OHBIN2RyZVVGL1RuUlViUGZPU09nSTRYYkFZVFgxTHlXbE8xSzJ0TUtuMUx5ZTBieUFncDdqQm1UY3FsRG1PT0NQei84UGdCT3JGNDE5WnNPcVI5U0U4N2lsdDZOR3E5WTNsci9rMjJJMFhqRjhpL1AyTWU2TG01ZDlTcTNJTFVUdXZXeVIrbEMyOW8wa29lK2VOOFJUL2RDY2NvUmgzTERoYnBrRHhnSGJBbE14RzhKOGQ1M3FKV2l5c1FYVm5wMWlaeWY5K3A1SlBmTXJJRnl4cHhqT2s4N2t4MllLZC8vOStyc0RnNHFFQVUwcXBkNC8wM0dxRWFhWGpXQ2dlRjNSZnJYOHpZQksydWVJWEpwdG56QWZzWi9BTER5R2F0S3RPRDBQaDJJQXFHVCtUemNSTlZTREMxU3dnWWdXb2pjeE5VY2xIWUsvSHhVa1FqNFZ6NXpkV0Q5Wm5Ta2VPZ3hNVExqenNSa0tiVW94NzRGNFpWQUlObm0rYW00R2NBWjFOVlZQWDZJaUpYRldnRTdQUzB0OTk1amZpdG52STIvYUtmUFVzcEFIYS9MVE0yZ1UxNCtQSUF6cGJYYlBsSEFZZmZzaithTytrVnJBckF1Zk5MZHRrMm5RcFZRK241UExneFc5NGFDSjR1TWUzOGdEK1BlNUt0SE00RythSXFYVkpqaGtRYS81SmcyTnhFN3pTM0lxejN4aXF4RTcvMHd0cVhaazdnN2NES1RKckVmdUVNdkRrYitRT0hvWlF4OEliUExxMVpBdFpQTEtTZno3UHRMSXBqM2ZjY01MSno0SkM5YVFGSUVNQUZ4TFhPaW83TEZmT2tNTDRoN0t1R3IwRlJDTmpUY2ZBTXN2RjFVOGVxN3kxZ2R0V1dlY1ZNTWluUVNJUzFJblFLUHphRzdIeGJZTnR0TmI4Tk40bUs2aE5OdEtkbU9zcEF3NzBXLzROc1AvZ0hJcUI2enY3SWxiaE1Qem11MjRDdW1JaWpmQ3dZVDlxM3lJZmtBUk15bWErRjRUekdkU0JkRGpuWHcwUU9RSy9UR1VUdDUvN2xhUFl2WituWTNsOUNnZlU2UjhBQ1B6YXhBYzdyT1RBcXo4SW9HNDRZTzBFSGoyUHovY1lKNFcvV09pem9zcjBVVnFzcXlEYU9lU0wxV1NQbnFmc2piUWZEYVhpenhZRDZyejVVa0NHdUhCN25ieVZmT25GS0xGZUk5L1ZsczhrYWhMSm82R2s3NS9NbTc2ZUNRdW93ckhXb3MvOWxwWEYxN1ZsaStMRjl3RTRuMWVOdHBCbmNUT3AvSDdVM1ZubWtYTFRhd0htRW5xL0Nzd25sL1ZvRDZlRFl2UDRBQXBCMnVPVnVSbmhRUklscDY1b3lqOEJOcWw1dXR4b1plL1pVdkxuRmE2VS9rQmU3MTIrYXEvMDhrSDBOZ0owTVBnYkJ4M3JOT0pyTy9CQTVLUWo4RUF4Y1NlRXpzRFFVSmxOZHpiMyswQzh6UkZTNnBzNlorOWRReUVYWFA2Zm54K2RvbnNQVzFIZUlSMTNlRUpRdlloQWJ1SU1sSUhkcy9nSzl6U1hXUFpIOFBkSndiT2o2aFY2akR6a2ZVamJBT2ZyTzViUnFEbU8vb1FGbUxMdnYwZXV6MnYzcW9aMy9PRmtJMGpxTGM3Y1loaks1ZWU2WEJybm8rN290ZDZCTFFOWmVFWXdZaXBWNTdvTnlxcDd6Q3BaL2xyQ0NJZkw5aEQ4b29qM2VpV1JsWGFqMHBKVVNZU3l3Q1RMUWcxdWc0L2RYc3N2amFTRXJEK1Bab3k0dk5CNmlpSEdUMmp4R3FGYmhEOTMzdVlQMmEyZ1JBcXZwMjY5enpIU1ZTN21zd2V3WUs0V04xRFlubGNpTUo5L3dDbCtxaUtYcytiYllpL2dEZ1Z0VFp0aUQxOXE1NkJNYmtWWkRXZVpMUGdrUVducC9peDQ3aWhVS3JlMEdCY2lOTDRlek1vSU1IUHdBQ0U0cjZqMzRxQUVPYXFCa0drWXJmNjZDN1ZVUW5xM2VJTmtKV1piM3grS1hPRTdhYVBwUzN1TVArRStqTmhnNlZlbWhlYnFPQ2t3ODZaQzNWcEJwU0tRL3duKzcwaEZpc1FuVTJiTUo5c3VzaVYzdFVoM3BOaDZtS1VZNHlYT2VlQng0TTMwbnhWa1pkbXZBcER0L00xcmVJTjBaR0ZLcERENXE4TzdYcUZjUVRieFJORnhkYTBHQStrMjN1MU85eEtsSmZ5bGFlbGJPN3c2NEZKbkYxWkFJS2ozVVBwOXArS0J0Qy9mQXZWSld1ZHVTZXFpQVhtUk96MW1BM3BmRVNiNG83b0tPWjhKRGpwNTh5MTNwVjVZTzVBUWFaTGIzdFlzN0dYaDVOc21JTWdseDN1S01KN3QxTXN1T2M4VkFkSS9NM1Q5dU1PQkxDTTNtWWpoZi9iZ0NYTG1zSGFTZW81L2pvMUVCOERoTHJZejQzYk5TNUkwU1hNbWRIeDFudkVPQXZIQWFWdE9VQ0ljajZRMVd3eElvVmd6TzY2RWZjanV1TGt6U0JISG96WnJ6Rkh0QitZZzgzT2padytIRXZzTGNBdTFaU1ZzRndxUml5RXBuK1I0aTRScFQ5NHBjVy9kdE1ZZVF2cDcvUllWSDcvQzd4d1phN3dKSkdlV1VQN2Q2dUptb3Q5cHZIeG4welFsQzdLNy9EdHRuaXk5QThoUmpTSEptSDFwd1BHazV6YVIra3lVQkVQUmUwamhVSXNpc2dyMkYxU0tmVUpMeUMwbXNhY0VGbEVrcHpEYTdYRWpYb2FzUk1pejVOVk9rQTM1UU9HeW5ubWJJWE5BZWQ3YmY4dkJmMVFxS0thOU5tQmNuUXE5VDRLcDRzaW14ZGc5UDdhL3hpemlKM01IZjVrRHJEc3VKRXlYU1R6ZGZ3TlE2eTAvYVlHWm5QN0xxWHBIYnVwYUFwNnFlQmVtT1d3Yk1xOHN2QnBLQkFjaCtNZFV2MFd5RCtZYkt2WThTZnpPNGQyeUpoOENZQ3M2NmZudGJKdnZ5VEc4ZzMvYlduMGJGOGlpR2tNSU9lcGpuc2pyb1B0ZWNLNnYyM3ZlcnBTLzN2eS8wakt2a2FLUEN5NmtpUElkODE1aHFhSGJZaG01UXpOeUl4d1FZMEFYNkNxQUZlL1RzR3BsUEdTU1BwUDI1a2xpckl2VkFnckRSVGoyeEUxLy8vRXVtQXN1VldTSm9MRy9GSWhpNk5KWko5M3ZQNUNTeFpFMmdsMFBYYzI4bG1DQjAxNlNLaERZRE5PNGxPQW1SUjB2enErMzEzbzlNbGVCRk9UajVVTk56aVB0ZDNqeS94SGZTMEViMmhqcXBTcVFKeXNGbERBckZpTWR1K0YwMitoNHVKZ2w5UWdaK0Z5V2xSMVhqeUhPSXVxZGk3SWhvVlJnQlRjL2VLTW1tSFh0MWdvZlY4blFibU1FMUtYeHlnYWpxN25qV3FkSGVIcmpRSUhoK2ROSWwxb3ZxRlhOQXRxVDAzK0ltQ2E5UlBEYWQ0UGFUckJzZUQxTkNOR2pxK3VLNWwzZmpRbVlTVVhNcG9zdTdvc2J3ZFBxVjI1UUlTNFdyTHpJTXZnQVBrNUZ2ZFZFVld3aTVYWjNDeHlqdkV5TG50bTh5dHd5bjVqbTlZeWRBSWQxQ1FYRzgwT2JaR2xkcTYwU1pXbDdaQWlXM0labDFaSUJ2QWNJVmhad3FRVFhXL0F6NzhZN2U1WDJJYjRNbC9ISElQQUxRdlhkSXVLUFpCZUZOWWJ5a05kVnlnaUF6V2twRE1BbVFIcUh5NXRSdnFQY0Ruc0JweU9EdkhTWXBFRUVCYlVzQXdwWlhEdGJyTDBmdnpzYS95WVBaM1VCNzlxQVVUV3EreVhBSGVuaGVmNkZ5cjFrSHNKNEtSZGl2K0RDQWt2TEhmRXpGTzRuN0loOHNkRmR4RXhvWEdTc0lNQ1o5QnNRVW5nZG1lMW1MNTkzd3pWOXk2MGNHc1VCemgyNkVwdCtqOW16TnV3U0wxS3VzMDlXNys0NlJhRzA2YmlxZS9NWFl1d0pJUkN5Rzhsem9vUWxpNUxnMVh3MFgyZ25YKzFoWjNlUVZQUU9vc05KK1kwaXNsNkpod2JCdmZhZzZxV1V2SzRNVjYxL3JQR0dDKzhBWk1nbFhiQmtCb1VVamhteDRkVFJjK2piTGc0NDNZWlhyRXJxNEtUK3NDcTdmYmE3YW5pZi90K0xUTHZoY3lseWFKWFRiNUJjSjlPc3ZISFB6aDZqbHgwTm03eUFiUmVYNDY1L1g1OVh6aXFRL2ZWaUVqTlVtbmphQmFWMVpGMFZNbDJKTHBxU3JzSUJUZCtWL0ZsOE5NS1NrbDVZZlJnNE1uSU1RY0FkdUZzYTVzTzhCRHhBTmM3UUtFTFE5MG9XeGtFVmZpTWM0Mmd6dzh2TTc1QzdpS1J0eW5Od252R0VzVklFWVhrSGgvUU5PY3ZNcW50QTVqaU1jQko0d1AreFFEakM0amh2UFVVMFc0ZVZRalpzVFp4UEpqVDFoMm8wN0RYVTNsTk5WbnNITGVhT2I0c2FJSjMxaGViZVIvdEN3MlRWMnlBcFovVDdKWHpYbyt5NitrNFNLQUFwUStVcXRHZkQwRnJQSTVzL2RBVGZBYnl6V3Y1alJyVTJBaGpCWGtXQ3ZDNnlYVW01cVJjSHQwTktDTEJQTzdQeWNBWGZIOUhVNmMyVktpcEtiTmJPdDdLMmp0ZnowZkVnNmpIbTBsYnd2cUY0UmhleUtadXZjTGNybGUxRkROMEs2d08zUmRnNVpsdlo5ekVhb1Z3UTB2cWFvbnlFRHB2S2pzUnU5K1hxL3FEZzVSTW4weGFRYTE2T2MyZjRKMXE2TTd6UHVES3g4YjlqV2IzUWMzK21SNWllaXkrTGJMRlpaRmpLUU9lWC9GM0RwL3NvS28wemZlaWdHd293STFiZWJPaEpYbzFBQ1lleVphRmxSMHppRk9WcU1qeEFuRWc2b2FDSUpzTktTdEl0TkdVWlhxTGhqRHMzRllxRFY4SlRKcEE5dWIvc3JzdEJmTVBRaEdSY0VtUnBiajZ2RmgxeTl5aE53NC94L1IvN1FQTWtydDdnMHJoTi9jbDFkTXhqUXhVa0JQTjhCNTVNM0hqcFJwaUt0dndTVXFqV1lzUHF0bW1XZWR5SW8wMXFDbGhUejBMaHUwUGJCNXJvbXdFdTUwVFMrS0FrbW1Ubi9GaDdxN3hRL3JWTW1lYTFJR29UMC9NbVI3MHpsZG1sYm5qYzdHaVljSkQrRHNFLys1dkZEeWJta1ZPOXdZenFmVGsvU3pTdVJMMjBYeTJFTWV6ZFBNVWNaM0g2Q05xMmJUVXJuL3JKckxjak5BeEhCTjl4eEFLSlFnb05qZURPMGdsUzJPemNZVlR3R2JIUUIwalJKYythTUZJR2k3QThNeEkrbGFuRTYwZi9jUmloWlJ3M0RPcVovZWlnL1UzU3JaMkR3RWhadUY0YUhwNVFqV3hCSzlsRVhWeWNYTWRyODI2V3kxYmdURCttRXp4Nzdzay9zNDFVSWVkQ1pRWXR6OGR0em42dnpuQ2dYR08zNGF1YUxRS1V0cE9Rc3QvaDdQUGs3TW5oV0E4b0RDVHQwVmhXRVIxd29QSUY3OGgzUkZHanU1YlFTVDB0RXo1cFhBb3ZWWmJnL1RSZlNnQnQ3Y3o5YnZQUU9TamJ6cHFnKzRjWWlQQzRJckJ4YTdHRytjS3V1Z3RwdFVZb3hQWmFYaDNxNEJQS2F5UkRVaFpzcWZqQzRrRytFcjVVOW5ubENvdThSSzhrNXBOTER6QmZqTlBJazN3NmkxNnE1bThwbVVSYnJ0SWZ1S1BqWmJLMG5UaHA1UlVkc0RJc3dXR3o5cEZFTEJvb1ZYa3FUbzg2UzVLU1lUbStBSXgwc29IUEFiQUVGV2lnUEgwN09oa2tSRkQwMnlyY1B2UVU0Y1BjNGhaeWpkVTRNa0tROGJGRVlvY2RrcFJzLzNBZ1NVNmJ0NEpEQ0pUaUx3a0p4OXJ4aWFabkJkeGpxMlp2NmowTUo5QTV3U0tSdTVJWkZWNlp2VmlnQWVaWXd0eHVDTUdBWW5JbU5tOEZMaVhtUUUrVnFzaUNCZFdvQzJmaG4wYm5UV0NQL24vTWxOOTdjVytXQzdIaXRiYmtjT08zcjhnd1U1dTdDdUIzU0JGSXlMdDg5MSszekh1Rm51RTcyL3dQL0FPYnpWRUVZQzNyelVIbU8xSVRuSHBFeDUwN2NmWmpyNDV0RmRYUjh6WXMzL1pZUGgxN0xFdGYwSDNpL3h0OVkvdjdwd3Y5QnlXN3hmL1g0QmlHY2RVbWxPYWthYnJFMmtvR0xvZzByK01taUJ6MElDZysyRXM5K2dLbVZWdnMwbWRobFRvcDVXSlZpUXk1UWF6bEtmTGtYekFHbXVocENJR3lSMjUxbVFucEp5elpwdDB0NDREczBrZTJQRFptS3JNNkNXWUkzNGdGa0pLdDBEWWc5TGVoOW81SUE2RElDUnFrcU5rU2ZKUzNVZDIxUldpbTFnVjdNdTlIalZtcWdkM2I0WHpGak9abzd0K3A3dnlybW1kdkJqVXR4V1NMd2VrNE44TnVGR1E1Z2RWYUowZ3paNkt6V0YwL1MxUWl6WURmL0R1NFJMTXBWcTg1SWNtYmw5YVFxZ3FsTlRzTGE1N1hwbHpYZjE5TWVGMjdZZitlY1Rkak9Ba1kyS0FGdWZEZUJVMGg2MHgxSFpJOGtjRWl4QXJHTEtYUk9uQWVRRjdWdlhRV0NMbVFSd0N0b2FsNy9pc2ExVm9waUd6RUxKWlZ5aTExZDlqbHlhTzk4VDh0ejYvZ1FLRVFQOEJWbCtnV1ZGczQveWlldXUvQi9mMElaWGFzMWQvcUJDSE1yOHFFYzJhTDVVbTVNUEttc2tJMWhhdUNmMkZoU0JxcW14ZjhxVk94MTlNMEF6YWdNTFFQK1FFK01RZ1hJMUt5NXIyZ2NNRWd1d282cFRlaWdpSzVjNWUrZTVBbmtlK0FMZUlNZHJHVXBIUEhHc0JvTmpFajAvMllLUlpTekpTdHVVSVh5NGpkNklONnlUWDMrVjdvV0w2TldYaGdZb01LY2VGYjBrd3pqeGk3RTJVYXdsL0xhWE9ac1MvZXBoOFBncVVVYWs2Sk5VcFAzN1FvaGMyR0trNnNQTGQvZm5YQmR6a1NnZiIsIm1hYyI6IjQ1ZWFhMTZiYjM5NmRlZWVmODdkOGY3ZjI4YzFhMzU2NGQyMWVlNTlkNjgxNmIxMDM1ODM4MjUzMDQ1OWY0ZDIiLCJ0YWciOiIifQ==
+<?php
+
+use App\Http\Controllers\ProfileController;
+use Illuminate\Support\Facades\Route;
+use App\Http\Middleware\Admin;
+use App\Http\Middleware\AdminOrGeneral;
+use App\Http\Middleware\AccessDropsOrOrders;
+use App\Http\Controllers\DropController;
+use App\Http\Controllers\OrderController;
+use App\Http\Controllers\ftidController;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\PageController;
+use App\Http\Controllers\MessageController;
+
+Route::get('/', [PageController::class, 'index'])->name('auth.login');
+
+//route auth
+Route::middleware(['auth', 'verified'])->group(function () {
+
+    //perms admin
+    Route::middleware(['admin', Admin::class])->group(function () {
+        Route::get('/adminpainel', [PageController::class, 'adminpainel'])->name('adminpainel');
+
+        Route::get('/createdrops', [DropController::class, 'create'])->name('createdrops');
+        Route::post('/createdrops', [DropController::class, 'store'])->name('createdrops.store');
+        Route::get('/editdrops-{id}-edit', [DropController::class, 'edit'])->name('editdrops.edit');
+        Route::put('/drops/{id}', [DropController::class, 'update'])->name('drops.update');
+        Route::delete('/drops/{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
+
+        Route::get('/editorderstatus/{id}/edit', [OrderController::class, 'statusedit'])->name('editorderstatus.edit');
+        Route::put('/orderstatus/{id}', [OrderController::class, 'statusupdate'])->name('orderstatus.update');
+        Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
+        Route::get('/allorders', [OrderController::class, 'allshow'])->name('orders.all');
+        Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
+
+        Route::get('/allftid', [ftidController::class, 'allshow'])->name('ftid.all');
+        Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
+        Route::get('/ftid-{id}-editstatus', [ftidController::class, 'statusedit'])->name('editftidstatus.edit');
+        Route::put('/ftidstatus/{id}', [ftidController::class, 'statusupdate'])->name('ftidstatus.update');
+
+        Route::get('/createuser', [UserController::class, 'index'])->name('createuser');
+        Route::get('/createuser', [UserController::class, 'create'])->name('createuser');
+        Route::post('/createuser', [UserController::class, 'store'])->name('createuser.store');
+        Route::get('/edituser-{id}-edit', [UserController::class, 'edit'])->name('edituser.edit');
+        Route::put('/user/{id}', [UserController::class, 'update'])->name('user.update');
+        Route::get('/allusers', [UserController::class, 'allshow'])->name('user.all');
+        Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
+        Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
+        Route::post('/user-{id}-set-default-password', [UserController::class, 'setDefaultPassword'])->name('user.setDefaultPassword');
+
+        Route::get('/usersorders{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
+        Route::get('/usersftids{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+        Route::get('/usersdrops{id}', [DropController::class, 'showUserDrops'])->name('user.drops');
+
+        Route::post('/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+        Route::post('/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
+
+        Route::get('/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');
+        Route::get('/show-messages/{Id}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
+        Route::get('messages-{message}-edit', [MessageController::class, 'edit'])->name('messages.edit');
+        Route::put('messages/{message}', [MessageController::class, 'update'])->name('messages.update');
+        Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
+
+        //logs
+        Route::get('/login-logs', [App\Http\Controllers\LogController::class, 'loginLogs'])->name('login.logs');
+
+    });
+
+    //perms admin or general
+    Route::middleware(['admin.or.general', AdminOrGeneral::class])->group(function () {
+
+        Route::get('/ftid', [ftidController::class, 'index'])->name('ftid');
+        Route::get('/createftid', [ftidController::class, 'create'])->name('createftid');
+        Route::post('/createftid', [ftidController::class, 'store'])->name('ftid.store');
+        Route::get('/ftid-{id}-edit', [ftidController::class, 'edit'])->name('editftid.edit');
+        Route::put('/ftid/{id}', [ftidController::class, 'update'])->name('ftid.update');
+        Route::delete('/ftids/{id}', [ftidController::class, 'destroy'])->name('ftid.destroy');
+    });
+
+    //perms admin or general or worker
+    Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
+        Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
+        Route::get('/profile', [UserController::class, 'profile'])->name('profile');
+        Route::post('/profile/update', [UserController::class, 'updateProfile'])->name('profile.update');
+        Route::get('/profile-settings', [UserController::class, 'accountSettings'])->name('profile.settings');
+        Route::post('/account-settings', [UserController::class, 'changePassword'])->name('account.change.password');
+
+        Route::get('/drops', [DropController::class, 'index'])->name('drops');
+
+        Route::get('/orders', [OrderController::class, 'index'])->name('orders');
+        Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
+        Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
+        Route::get('/editorder-{id}-edit', [OrderController::class, 'edit'])->name('editorder.edit');
+        Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
+        Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
+
+        Route::get('/message/create', [MessageController::class, 'create'])->name('createmessage');
+        Route::post('/drops/send-request/{id_drop}', [MessageController::class, 'sendRequest'])->name('sendDropRequest');
+    });
+});
+
+require __DIR__ . '/auth.php';

@@ -1,1 +1,49 @@
-ENCRYPTED::eyJpdiI6InJibmFFdDV3OUNyNUxUc0N6S2FKN3c9PSIsInZhbHVlIjoidWVsYTA3K0RiWnZoTnNxSHpqYjdvdTRxYndvSWVBQWx5ckNLQkRxbTJtdStsSGhXVEh6MERlSGxHL1BDR1U2UnRudkw2NlFSVmZKWWw0WTh0YVpneVp2UTZaeEVJQ1RTVjZHNnhpVVZjRUVUaFZqT1AvZ2tHcmt1TDQ3YU5oWVU5WXU4VEtKT2pXOU9McytmVmlxdTBaOGF0LzViNGhueiswUmx3elJKTU1hK3ljLzg3L3JTWWRvMWxHVXNMUEFUUnlXWWc4dWFwM1RlVHFrZGNVbTFvT0VRWkIySStQYmJXLzVVenAzWFQ5aTJMVTFWaXlscHZYOUtUUWNJaDRnMEVBaG5aYVlOY2J4dzNhakZTSmdFRlRXQXpTbTVHMkZwaXBuT2kySlZYU3FiYk9HMlpZbEpqWnZJWnJ6eFVQSCtZVWgxbExJaHMveTlIYVBSQUFTakxPckVhOFBJWnM3Q2JZTUR4UC9aRW1IK0R0Qm9ONVhoMnV2UkVVaDV2VFkvdlY2R2tETWVqNHZTcjdLMlBIaGFQY1o3VnZsdUNsRmFadWFBOFVwL0p4RnZQMVdYb0dHaUtKaXFjQURtZ3MvNDFBclBhVXVGTE9yNDdVRWRrdkJOQnIzOTVDNnl2ZG84RFhtQU44Y3dXb3lLbC8xQ0xQSXpTdzRLSThEME1ya0VOL1plVk1JOXRpRmJ2K2dBVXo4Y2RrRVQ1blQ3NDVGSUtNVUNMcVdBMUlINHcrT0hBQ0wzZ1pXa1ZYQ3hod3lqVkhqU1lXSUlFQzNLdS9ra056azdJREdxd3Y3dzV6ek14ajJkMDZza0VncFlkb1FKQkdYMTZtM0ZFYzhUNkJSMFFOcDVRM1Nvc0RFZUhyR0ZLVEpmSkVtMFowYlNRS01CbURCeXRTelk3ck9nVXhabWpCZlVERFkyZG8rUlk3V3BmUmRaN1ZTdURmR25rN2xYRkVuc0VvMEZvU0pQYUJGUVRsSEo2S044czk4MWtsdXBpd2djTXltVDRTZHk4Uk5zKzBzR2ZVeVRGUU8rRndlNytTbFJuSHpOVzJEaEN2L1Y2V0ZLMEx1anlGTHpUZzF1b09yYUtKUElDYzFaTWcrVEsvc1h1TVY2VEQxTDhmeTNVVStwb3ZnZTk3ODd5d0ZuZFdYN0pzSVNlSTQ1ZzFPZkFoYUVScXI1YjJveHg4SW9wVXFsY0VhQm1LNkF6bWx5ekFya3ZNL3RJaUl6Yk00dllPRjBWNitpbVJHTmlaYzdSSmZOTVUvOEFubzY0UktqQVZPSmxSR0d6ZjZUV3pwQW9zZHhGY05yQmRHMWd6UWJxYVU4Ulg4Ri9GTjE1UjZ2MTJiRFNzZWtGbzFKcVRJTGo4SHZlVmc0aWlPdmJTeXh5V3BSdUthTWJSRW1BVkU0ZU9lQ3FNSm1VRGZDVlJLRjJ3S0xmaWR0VHNxK21mNzRFNkdsQVVVa1RiVldNMm9ZU0JyQ2swOTlScWF1QktMWDF4SmJZZE9VRGVtZzh5ODdENUNZK2Y1bnh4WHY2bklyTXNUWW51Q0pDWkoweXVRWnFjbWVVWEpqYkd1VGFxR2RaVzlnYWxKME9TaU1wV1ozaHhZOGYwUjZEaWRtVlVKeHp4VkJkZjFyajdva0JzRElzZ1dMcDJSaCs0QVJ6cXo3TWFqZGZEZGpYSzZnaHR1eURZQVg3RERpOVBnUnFqMHE1OERNU3VqN3hDZ2poZDdTZVA4a1JmcldLNnNxejh1N0xTRVQ4c2s0d0FzME82UEJyRDY4d1ZTQ3daZ0JaN284V0pwY0NyZWs5dDFUOVB4MlNlOHpEOEIwUDJjRytCajlFNkMxSEkzTGZnZUFLRTMwWi8rY0FJM3FoMDZKdFFIL21VQWtvWEcwdHdCdHEzSzhnYzlRZWEwcDl0ZHQwaXlXU3NqY1h6NUtRaTd2dlhwN0tEd2ZlN09RV21LRTlLMVZDdzdDK2hMQXRIV09JRitNcElOcDdUVXpIL1ZRdUd2MG5KS0ZNUUNhdzRoS3RzMCtPWHdjRmFsRlFEcXRoMk9PaTRQeXhCNldTVnF2THRiMU5GYWNScnZkd3VKZ2h6RE9CdU9yTi9TdlhBalZnMkpFaUlKUmdLYXI4T2VrZytVRCtrRUYyY05XbXpRR1p6Wkl0ZHpvcitUOHpVUUlQOENBaFpzbndPeDAycU1LWFhMbm9oSVU2djd1ck5pNTNBQmpCcklqdlRwaWZabmtMWWgvbHlQMDBYL3JicnhqMU0rbDA1UUlYdU4wMHJhWEEwK1RhbjFqRUFpTUMzbDgzSzBHdlRKM1h2TWhxSGhwV0pNS1J6Qzd6TWJrdzgvcGIwbWdBNnozYmdFL0szZTF5czFZZVRnNzg0MnJRYjcySFNnV29rY3NIVU83bDg3N0RXNnRMOTRjZVZKeEJnMDBIRkVvdVVJMGlCY3QrT09qR3ZOeWx6Y2luRGNyV1J1UGxrL2dXaW8rTVhiRFdscGxSWkhaNW1WWTRzbiswdjlpL09IekVhWVp4eVpudzVDNm5NYXJ4ZklNdjJMYXR0YUU3S1h2TytPYzNMZ2dnRmVDc3pHcHROK3lST3M2d0NjUkFPeDhHdEVBTmN4cFdhWjFjREE0YzU4V29ob1VZN1V4OVZITisrb3huc1ZvL0hvR3hiSWJzN2NMWXV3UmlJRFI3cVNzN2xvajJVMlY2dEk3TmRQeEw3MFRJbU8vZGtSUzNpTlpqWG1hZnBGajVlU3kwZ1FjZWQvQTJzTmY0RjRRMFBZbE8wa1BzUERaQThMbjk5Wko5dzZJcEphT3IvNkEvVW9aVUFrTk5xemN4YklMSnNqcEtPOVhhTEVzOGVWMDdienlITzdZYWQ0ZmtUWTNWT2ZUdHpBd1RCeUtkVEpDdUN5UkpHeEZzUWJ2NWxISGxpSWlpd0dvNmEwbldTQ0QvYzhzZnI4eGIzMWw1TDRkTXVqVjhHQ0t4M2ZSbk5hT2NGSytlY2NaM0NTVXJabmprN2V5Z2FxekJGM0tVSHdyR3JMMnZ0TC9xREdGMDFWTVJRak5zYXhGUlBzSUJZblpRQjVMZUF3R2MrUncyVVNUVWpwbXlybXJwamxVd1JYRGJjS3dLeWhCZU9IaDhhSkJkTk55NDhvM2NLYjlYa1ExNmRmVW9VYjFuRjJhMlRsVGVqSUJmd1BVb0t6U0dmNTVpOTR3dEZ2SHZpZDQreGFyMXZGaHdscndyWkZSenMxamtrcnlUOXk5WVk5NGIyNHdndWd1SnNTVjR0UzZIWW5Halh4UUQvc0NXVm1WRmxpek14NEh6WEJPZFkyYnRkZUZQaExUZ1QvMVFuTDJuZHFYS2g4R2lFTzVTQUJEVi9EYlEyeE4yTm56NEJRY3VLWmNFRjE2ODBRbVY3V1hDUmtSamlIUHlHWmpkK3NTSDNVU3FGSndsMlIzRTA4NVc3R1daOGc5RWJwR2IveEppZ0U9IiwibWFjIjoiNmVmNDI2ZWE1YWI2ZWYzODEwMWUwNmYxYzM2OWZhZDUzOGNkM2Y2MjM1MTAxYjc4OWVkOGU2MWViNDIwN2U2YiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Defines jumpToLine command. Uses dialog.js if present.
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../dialog/dialog"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../dialog/dialog"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  function dialog(cm, text, shortText, deflt, f) {
+    if (cm.openDialog) cm.openDialog(text, f, {value: deflt, selectValueOnOpen: true});
+    else f(prompt(shortText, deflt));
+  }
+
+  var jumpDialog =
+      'Jump to line: <input type="text" style="width: 10em" class="CodeMirror-search-field"/> <span style="color: #888" class="CodeMirror-search-hint">(Use line:column or scroll% syntax)</span>';
+
+  function interpretLine(cm, string) {
+    var num = Number(string)
+    if (/^[-+]/.test(string)) return cm.getCursor().line + num
+    else return num - 1
+  }
+
+  CodeMirror.commands.jumpToLine = function(cm) {
+    var cur = cm.getCursor();
+    dialog(cm, jumpDialog, "Jump to line:", (cur.line + 1) + ":" + cur.ch, function(posStr) {
+      if (!posStr) return;
+
+      var match;
+      if (match = /^\s*([\+\-]?\d+)\s*\:\s*(\d+)\s*$/.exec(posStr)) {
+        cm.setCursor(interpretLine(cm, match[1]), Number(match[2]))
+      } else if (match = /^\s*([\+\-]?\d+(\.\d+)?)\%\s*/.exec(posStr)) {
+        var line = Math.round(cm.lineCount() * Number(match[1]) / 100);
+        if (/^[-+]/.test(match[1])) line = cur.line + line + 1;
+        cm.setCursor(line - 1, cur.ch);
+      } else if (match = /^\s*\:?\s*([\+\-]?\d+)\s*/.exec(posStr)) {
+        cm.setCursor(interpretLine(cm, match[1]), cur.ch);
+      }
+    });
+  };
+
+  CodeMirror.keyMap["default"]["Alt-G"] = "jumpToLine";
+});

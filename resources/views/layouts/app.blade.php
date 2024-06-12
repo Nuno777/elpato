@@ -1,1 +1,36 @@
-ENCRYPTED::eyJpdiI6ImQyTTlJOVZHZ3hnMTdYbDY5VzlUbkE9PSIsInZhbHVlIjoiaE5ESXVnSFM5VGc4NXluYnVVNGlOR2UrdlZtZE96VjVjWkZQeG5IMUxOY1Yzdm9ORk82enBScDBuNDhUNnA5OWduV0FZVDR4UjBjR21keS91c0NYRzVIMlF5ZTVjQjFhdlZPUXFkYWJCUVdpUUxyT2xGWkp6WVo1UDAwSVc0ZUx2c2o4VTIwaVVmLzJPV0lXbmFHbmZGVmVzdGVLZTJ0UXZ5aUhYV1FpMWF1Nm5vNExxeWIxN05hekxwdHRMNDZkcXJtOHFCbmJXNDEyN3h3R2hjWGY4Nmw1NUN2aVRueWllWmRDUEpNVThiV2VtRTN6ckxuVXZBOHlLaTBoVGEzbEdzcCtjUHE2NFI5QS8xTFAwUlNhOUNXK2x2dG1JMHd6VWgrWjBSazhjd2c4QStmbzIvQ3VZVW11YTlkNHdNVTFBSHU1amFKYlRWTWF5TEx4NlVUdnVkaThpMnQyTmlzVDVhV2h6SkVybGMzT1VBdEVxcWhqd05CeU9SUTlwa3VaUHdoZmUrdXdXSVJZNGFFbmdnMjdhdmNqd1RPeTlQZG5sUDIxbUl4aTJNRm5vUERwNnpIVk53T1NPaHg0ejJmTGwxcFJzd1p0L1I5THRwR1hiKzFVSFNaaGVNaWRIL1hHR0xoWWxwZXkxUEtibnh3dlJ6U2Q4bTdxV3liRVVjQTRYZ1AzN2JMVjd1Z0ZXT2V6eEZQSHZLbk9VUnlqblp6UHNncndiYXpJZDZzZzVubGMxTXl4OTN6R2VMQzc1TkNWS29FeEI3aXlXWC9GQlRQcDU3NldjeFNJamxZMHJYU2VaV3JCMmJxR0xwbFV5ajNFeWF3RkhpTm5mWTdtTkpFbXhjQXFvbTVYREx4THFlWElmZ0NNcGtOSGZIaDZuOGlyb0x2SGJ2VHJKZFYreTNzMVVxTE1uMkhBU2FheldRai90VnlyejBHMnRLUVkvK0lNc3VwRDVZbnU4Z2lsVWhWV2NxbVM3dVJkSFNxb0JobTM5N3ZOS1FpbU1tTVgwa0ROZHUvd1pNbXg5Tzh3VC9uOG9yL1NiNkNTbUVXTWRuczJtQVFoczZ6NDhKQUxqakE4RHhyT0oxYlVYOXlSRFVpejFmdnZpdE50ZXJLVDF0R2xrTDRETk9KUW9MZ3h1cTFzckhjZ2lFeDZtR3luMVIzbWlxRDZYOVFJSGk2dzRzUWRVZjJJOGpzL3BkRkRDQS9FZXdDUWIzcXV1dG94RU9PT2VldlVSYWVUL1doZUM0RkE4S3huWXZ1d3lLZGJtUThCZElYOXNwczJOVGpQOXN3ZkRHSTJuSHFheXExN3ppdmkxaEpYZFpESzZ1VjkyRyttMkFGcnlWRFFaMjlQWDNRcUo1YWlGVmg4TkRQc0J4OUZKNThwaFZLenZzaUt2d0orWEE2b2VLMFJxMy9OVHo3YmFBV0FocWhkNHV6a2JpL29lRUJST1JSS0J2VFI2dlpTWFFYMmhXbHJZaGtSSzJRUGRWU0lxbEtqMStXSkNYdlZsSko3TkQ4Mk40U3V2bnNDZG5zWGRhdDhuVnBNMHFremdFbDlLcS9Gbmw4bkp5V3luaEFKUk15MnRkdDBQWm9SOTRZMlZQbjhrNGdHSFVub1VPcDlEWElKeTZGcE5od0VDb2JtV2JlRlJuNHRRN09hRmxHZ043UkFnRXoweGVvTDZiQ2JrbUNjQkx3aEFZQ1VsZTFTSGRZcDNyQVJhejNtWUNhUWpKWld0dGorQXZ5dlNVSVczbjYxMDNRcnByZ3A1VUxFRWJSRU5yamhxYWx2dS9MRFpoNWtrVkdwd2IrQUpoTzYwMVc5RDNiMEpTQllkcktKV3RlSWNJMnJ0TlJGWkRBUU9rU1Q5OEpsOVFIQ2tONFlWMzRwTDF4UHgxYlNZc2IzTjIxZy9ieTRqUzdDVmg0TW93TDQ0Q0swbGtVS2MvaDFZU0tSSGJPWW1YNVNzekJMdzl4ODhPMmJjTmMzd2w3ZDVaaXV5TmVVZDZWQXE4YXl6cU1uMWRXWlg2QkJJZ1M5TjlKY25sVTNhSXVxVVpuOGZ4UmcrQ2ZZMXdJYysvd2UwaHdneG5TS0NqRWw5THk3MHZaMHhoT3pTZk5ROXBXQkR0cFV4NjZzNXlLdG5tZXIzdVpSMlVtR1J3bjc2K3JYTnpKbWx6Wk9uZXltWE9ac3ZrdHM5Mzg9IiwibWFjIjoiNzdjMDYwNjY1MmQ3YmM4ZWEzMjQyMzEzZDkyNmYxMDMyNjJmZTUwNDg5NWY0ODhmMDljNTdhYmRhNWZhMWVjNyIsInRhZyI6IiJ9
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="{{ csrf_token() }}">
+
+        <title>{{ config('app.name', 'Laravel') }}</title>
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
+
+        <!-- Scripts -->
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
+    </head>
+    <body class="font-sans antialiased">
+        <div class="min-h-screen bg-gray-100 dark:bg-gray-900">
+            @include('layouts.navigation')
+
+            <!-- Page Heading -->
+            @if (isset($header))
+                <header class="bg-white dark:bg-gray-800 shadow">
+                    <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+                        {{ $header }}
+                    </div>
+                </header>
+            @endif
+
+            <!-- Page Content -->
+            <main>
+                {{ $slot }}
+            </main>
+        </div>
+    </body>
+</html>

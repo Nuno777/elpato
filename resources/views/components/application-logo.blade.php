@@ -1,1 +1,1 @@
-ENCRYPTED::eyJpdiI6Ijd6UDBsclpxOGpMbHdjNC9Nek9uUnc9PSIsInZhbHVlIjoiNjN5QzdCM2hRYWdQaEtvMk0wMTJwTlFjRmRXL2tncVpkRzIyV1E1TXh0elVxaHlRNlNVUmZ0U05PckZUUlMxNGJIeEhYclpLaUZPQlhYeUdhbjNiVm5GVmxwYnJjampiSUY3cTFFbVRMVk09IiwibWFjIjoiYzFmNDg5ZGM0YjRhZDc4ZTVjMDg5NjdiNTU1NDE4ODRlY2FmZDQ5MjkyMWQ0MzkyZWQ1ZGViZjM1Y2ZiMGU0OSIsInRhZyI6IiJ9
+<img src="{{ asset('/images/icon-login.png') }}" alt="Icon" width="200px">

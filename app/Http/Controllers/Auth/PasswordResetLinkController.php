@@ -1,1 +1,44 @@
-ENCRYPTED::eyJpdiI6IjZCSXN1QVFZMDRFYWNkS08vUFE2a1E9PSIsInZhbHVlIjoiM1RseFprUU5CbTdvSWo3S3cvUFhWa0lyK242ZWxkQWdNQmMyalp6TThZNTB3aGdEMktrWGtseGpudDZCV1oxQVNpRnU3L3hpaHhiSTFKRTRHakJOZk0yTzY3QzVMZDZvYnQ4YzNrcUh6VTRBckdSYTREWlY2UXhNY3FVa0lCbjhhMjBidy9wajVFQkFBUWpCandIY1hpWVdlWllNZ0UyaXQ5N1hSM2NaMjBHZ3NrR2F4VTBsWHZaNHBEOTIxQnVMUnJVNUorT0JwS3FYMFB6NTJMR0NieHY5L2kvU25hTDh2VE02eThJSzlIekxEWCtqdENKNmlncXhmWWwzWFJJUXh6NzVQRjBvTURDa05nRjhoM0l6OHhtaXRXRVNYdUtZSkJWVmNCTllOMWEyeUVFOE1iRG1CazBORStrL3JWbHUrODRkSHk0VFVwbklhY01GbnRBcjZKM0E2RjJzbnJMMUp1VGtDQzBFUlBNQWwzY0pDRXRyZ3VCbDJSOTJiT3hFQ0QxMXREUDl6YlYwMHUwcStPV09KK1o1b3RCTGVGeXZjZDdwUGxmMHVySnRnRjQ3NU8vY1dOMHZUUkdRWENWakpHS25ydFNUSm9BUHRWN00wUzBSK3VCek5IYS9pUWhYOHkrcUZkUEJSb1NiR04xTUovNUFVRUZWbFoxbVc3ZlFKTmhTRlNsc3EvVmpHVEwyTGtSMEJ2bU1pc1J0WEh5NU80Q3Bqcld6TnphY05HS1pQSVpGek9Nam9hYjcwcncvKzJhR1pMSzNWWG1XNVRGQlZmUndBeVpuTXE0RWRCeW5KQ01BVk5BdGxLS0U4NmJlNWczZWlNYnhNd3FBbWY1TVBJcjB1b3hUZmcvNWNyYkhPcWRrdm9FQklWVzdvMER4L2Y0RFI1R3R1YXAvUlFOZCswbmZXYWlnSG5yODhEYkhNL2RxUSt0MloyK2NjVEtEYXBhL21rekNtZzNvM3JCdkVCaFJFOTlWcndzeTY4WXcwbjkybjhvWUhhMi9OcXBiQUtyMm1zUDNQOSt4SzRucm9pMWt2VVhDM2MxS2NQSjdCQ2hka0ZCMUI5WGp1WXFiRjBjRDdLMHU1WnIzK1RMUHh4aDNGWHA5SUdjdVBIZzlMZ3MyNHprbjZBTk1qN1hheGY5ay9MTjNrT2hodUJQRy9DVnVVbmlnU1JYdFdMV25XaVNXZ05Sc29qQlZaOFJJQUZocmVtR0RLTGpXczQwY2NmOTB1S3hoQUxzQTlCSHFIY1RNQ3V0c29EcE1BT0lqWUlTZndqZ3pUN291WGdET2JrZTlJZ2hFMWpuU3FWOW42ZEt3anVJQnJGOGpRcjQyV1VTVUVFeXRqaFQvcDN0dmJ5VUExaitqcHc4aUxEdXJkYnRQVUtlT0JiOGVXZjZOdG1xdDc1Y0hrNGRWakNObEhVd0lzcCtwK254RmZYQnBGc2FQS0xROVNqTFppS0F3SkZsZHRhYk5YQUd0dWdTOW1qZVc1QlFEalREZ0RtSTlUR2c2Y2JhZm8yay9XSWRWVnZRTytGZzVqckk4YWlySDUzVy9oT2h0N3ArcUdOZldwS1NYTFFLVUdCOERNYUl0V0M3bm9HcmVoU3ZLUmFsdWdnc25vTG4xVzlNSE5KbGtEUUs0cFd4T29QUHJQejRGeWRGbm1XdkUvb09DRmVCNWJqZjN0TGVNZ0U1VWtIeDJkbG1HREJWcXlSVFpySUIzOHlMREhTNG9OeDhrb0pvRytTdmIzZjNlMTZvK1gxYWtISnJNRHhHWW8wZS85YWtMek1XcVN2SXNCN0ExYzdiQVVvUkhzTm1jTmZoMVVHSUVjRkVHTjlESnIyTFdMMmZyRm9SUDhBSTNnemtiZ1lyWSs3OFhkTDlmbGVYeDA3c042TFdLZEl4Rm9Rc1poaGx6VTc3bm9VVEFubWtMUDF2b3J5TE5MOW9GNk13YlVCUWdIZnpZR2RkSkY3S2t2b0w5TGlkOUlxSHNhUnRTZFlkWXJndmVVa0g4ajNQN25hSTdjWmlqZ0ZLMXJsODlGNFZNaE9rUkp2VlYxVlBmUmNwOW1UdmNIU3VBamJ6Z3RDT05DLy9JV2VOWE9uZjh1aHFTZlE0T0FIbG93VmJUajhlT3FSTFZHelVRUkdiSEJuaHpBK0NyM1NBdGwyRnJoSmFVcHFLbjU1c2R3NWxaUWplZGtLQnVCakhWaGV2bWtoRHl4VGMxVnVveFBmUHNOMXJ1NlE2R1Q4ZUV3NkdKYmZwK3hEczFIQWZEb291eHcyV1I0M2FwdGFwTjBXck8xY2xCNnNPZGZMQVpvZFluSkFydTFKa2JtQT09IiwibWFjIjoiYTY2OTU2YTE1ZjI2NGJhZDg5YjViMjQ1YzI0YzQzNGM2OTBlYWZiOWZlNDE5MGZjODUyMGZhODZkMzJlNTk1MyIsInRhZyI6IiJ9
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Password;
+use Illuminate\View\View;
+
+class PasswordResetLinkController extends Controller
+{
+    /**
+     * Display the password reset link request view.
+     */
+    public function create(): View
+    {
+        return view('auth.login');
+    }
+
+    /**
+     * Handle an incoming password reset link request.
+     *
+     * @throws \Illuminate\Validation\ValidationException
+     */
+    public function store(Request $request): RedirectResponse
+    {
+        $request->validate([
+            'email' => ['required', 'email'],
+        ]);
+
+        // We will send the password reset link to this user. Once we have attempted
+        // to send the link, we will examine the response then see the message we
+        // need to show to the user. Finally, we'll send out a proper response.
+        $status = Password::sendResetLink(
+            $request->only('email')
+        );
+
+        return $status == Password::RESET_LINK_SENT
+                    ? back()->with('status', __($status))
+                    : back()->withInput($request->only('email'))
+                            ->withErrors(['email' => __($status)]);
+    }
+}

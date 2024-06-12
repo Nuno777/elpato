@@ -1,1 +1,45 @@
-ENCRYPTED::eyJpdiI6Imx3YTkrbktZZXFVWk5XWVd1d2grQWc9PSIsInZhbHVlIjoid0F3elA3VEdXK0x2blpZWkhFWm9uTmJDNG1xV2JUbkNtcDdrdXh5RjUwQ0Y4YWkxeHlOcHoralpSdVdmSWFrZVBTL1M3Z25ya0gyZkdLV1NYOHZsdDRKcVBaOFg4TUJIYi95QWRnYTFiaDQ5eFpOS2xKZVFzZjI5bzZUOHJpWWJsT1RwVUZGNUZBSmVvOUlUR0dwcUZIZm5wZFJHT280OWJPVGxDK1A1eVlGaGEvQnhYNFlPd3FlOHB6KzN5SzIwcGNTZS9SVmVqbkVlMkVNU2dXRUpnNTR2UVhaRjhZOUFVVVIrSU40NWNpMllza3h3UDE3UW1TZUVrYWVhTFpoZUd1dGpIbmY3ellYdVFYZWd4Qm5UNUNISDAvMGVFbXBtRkxDSG1hSEhSVFVyN2R2Y3RZK0V5cnVXQjgvS3RTR2NQV3pHTGlMSDhqakdVbFFUb0RkQyt3R3hEWHlvVk4xdFVsUzVVWTk1bzE0NkMxM01vYmxIMGwyK1g0N1FmT2QvNDQ0KzFpSzZsR3RUd1g1dmxSUnRMWXJoYXhhTUhuaHJvMndLMFBrSzZvVkh6d1kwVFNCckRSZFdOcDBON0VHS1lRNnkxQlg0RVJyVi8vaGpxYWcvd2hjRnMwbVJZdkdWblJvL2h3MVphWDdaMUZrMXpSeGtEcVNPa1ExQVZJbjJwK3JMeXN4RWNPUzZQYXRRUGQ1UGtVYlc4S2h0clpMWnlOakpmRCt2WHN4Y0NlUjF6amh2RE8weE45RjB0OUJ6SHYrVXljUFYydkwzTndoOUo3Z01NVXNONWRDU2srNndyQ1dSVkxnK1g5VVlOUDBDOTFQZ0d2VC92V0lnbVdJRHlpOFVVbVdBNVFyUWRJc3pYOXpmYmYyeVBKMzd1NlZBNFZQTW9iTW83aHl6OUVYV2s3NjJKQi9rR01ML1BRU0NxcXBaWnlKbjBSK21GMm0rRTRmT2Raa1hUV3FkTnB4cWI0M2dSOTdINUk4cGNQS1YrcEtwa0RMY1BFVEwvNzRxQ09UWWlZeXErWXdIVS9yRnJHY2xsTUtIdWR6UnUrZ0o5K2xlMTJTdjVrUWhRRkNFTDY0L0syc2RtRGltVmp0K0pEeFVUMVdKNjNnNmZHYTJ2UE1QcU5yUUZmYlVUNU1WWUZWOGZYeXJhMmpoZEd4V242bEJKa3RiNGFSWXJ4TGFsYVNtMTByYmdqc3cwVTQ1RW5QbzYyWGxLSmVuYk53bTZ6c1dZT01GdzFoTnR1WU5BTWxwY3FsUlJsT1NVRGZPemlKU2Q1QU9sUnNibGMzN0syVjRLb1NmT0tEVXNSUlR5bGJuRXVWL1l3Y0UwRzJhdHZ3QkIvdjBucUhBenArK29kUVR4THpjSXM4WExWb2pIRmF5Smk4TU4vTXlIRktPME9pMy9qTThqdFU0MVpMS1RKS0xRVlYvWXVxdHJGUUVKbElJVU5TQUNzU3VjVWc3YmpyL0NCNUY4Q3VIWkYxM1loY2NQTXFWbXpTeXU1aDlpTHZ0S2txQTZJWngyYzVaMzkyd2pmOWxEaWcxWDRNQjBUcEk5dG5VTjVQa2JjRHczSjJPZUV0Vkk2SjV4b0FUVWsxckhjcFg3SEJNR0lhd1k1ZlBaY05kZHZaNGJUdnR2Q2VDN3QvMkVuWnF1bEttbnB1M1NqMndMY2VaNHlBaHI1bnZnZTU4VE52cFB1Z1BXTHhjNVNzd3hocWhSbXV3M2NFd0hmck1rSVpwVnY5YWVpNnBXNUN2UE5UelNDM0FmdWlWbDJpWXYrR1dpK3pxMnFiNHRiUlJiZERXT0cxdXpyNkZXS2tPbDdiWWlSb0F6OWFiaGRVYWFyc3JSMGdYUjF4cWY1Nk44R0ozM0J1b2VxT3NEbWpRZm45cG1oOUkrMUM4SHZCN21PYXN6OW9VcTd5NnQ3RmJLV0ZPb2UvUkd3Uy9heWhpZEE2U2dPdlQvZEh2NUpUQVRKc1c5MlJmUS9QYkZRWElhTGtsYi83d0o0SkJ6enBYOG9STUU1NDVHQktIMUQvY3RNdkdIVkpIWi91UW9jYVVvWkVHN01ocWFWTkxpUDRIM3kraWJ2REI4YVNZaXZUMjJhS2w1NmlJYkx3bFU5QW02L2drV1NGcG5DYThLNVo2a3pENUQ5cmJxTnl3ODI2eDliQmlLWGRSNG42OUZQbmhYTy9hQmJlZTlFbS9oUkN5eWl3YTgwUjMrQUFjdXh0S2FTSnVtU0UwcEZsQldtUUpac21Sa282UEdSdXorTjlxaFlNM0hTVlNvSnhpZ3hXS0t6aWFiTXVycTBKZkJlY2dDd1c4T0VCTVFEODdGbmlQME50NmJYY1BmbUc3SHJGaHhUU2pmYWkrNzVuT3d6T0ZpUitnbDJ0eHg3R3dLSXhsSXRJT1RnamNJUy9JUWhRZkxjTzhHQXFYN0pvNHF0ZFpJZXR0Z2UrelU0b1JZMjAvNnBZVlRtWENHallPWWZyQlJDMTNQK3Y4NU0yUG9JVGd5c3VXS3BnUk16djhCOWE5allLUHVONWFyMTEzZHdIZzhvUmFuTmtnOUIrc0w0Z3hsczdZL0l5UFNzTlhWRkFpR25oeDgxNVJOQ0hudzR6UlR0UkhhUjF6ZlBsTVEvWW5rdTV0S0FYMmlidDY3SmdhZndxM0lLZUpBSzVOMXdrOWQ2cUdscW9Mei8yWGRzUzhjaVBVQzhGbGVzS05HOC80TnZuOFJuZ1dZSTE4WlNYYk1DWjRuQ2R3TGVUWjF5bTZYR0pSTjE2Y3lUbEFHTG4zaW9yWHpNSXVyeHBJNGVOVlJWM1p5VWY4YWN6UlJqcFM0WHA5VUhnNU5lb3pvdTFGTk9teHJXbmN5MTNuMEd6eDE3SC9QUDVCOHE1MG9FYnY2dXVzT0pTZDBobUJ6WUpPZnZCaDhsM0FTQ1hWRWdFYmlQM25lbWQ1dmxudStuVnhJZVZRejA3SzJqdkFsQXlVK3pVRFFiRVJzMDgrMExrbmIzdmpsUVBlM2ZvQkIvWU1TeXB4ajdMOXB6VllnVkpuSnd4NStRcm9YSlhZVlJCczZPOVV4anpIZ3l5LzlOaXA1NmlTdWEyR296NkxHZnZ6LzlmUVhCR0FoaVhpSnFKTGdqTDNpRjIxTlhaRVVPTjhNeFVDdFBCSjRNQjAyTnFXZmc3V2QzSjhzNEU2STBkbDF1Rko1NENSMGFqb05BTjNEMDY1YllXZEJLNW12TjZKcXlPeHJMcjlvclliTTBiL1diVmdSTHJCcGVWZWNOSzdvN2J0cVJPZUZqMEZZamN3WnJEL25YVVJINzdIL2F6MGw5L3QwMVR3SUxtRDBvcmZndjV6dU9LaUFhdk9BYkk4eGdaYm9WRHZMZUN4OW95c1RzWkRXTlkzNFdJR3Z5MytlVUY1M0dhRVdvNEkzN3VwSzVKamRCTzBDY21FQmVvSE02OStKUzBrY1FkVk9kNHM1b1FMWG9KS25TYzhBWGwyUmdOKytYcWt0VTd1WDRKQ091NlNCTzhydytDeXY1TkttZlRBYjQ4cFBScS84dFU5NzBFYjdaRk05N0c2WUh6NGxLZzVKMWtkNGJQc0dJN0ZONGpuMGVHcm14RXNQdFhWLzRSa1dqdHFYV3kyMzJKUUhxWHFzY3pzay8vQUw0TngzS0Rkb0ZsWGExdFFxcTE2SGdoU2lxV2ZZUE5nV0hsOVB4cHN4WDdTdXB2M0NaL0hXMzg9IiwibWFjIjoiYTczMDIwYjE2ODA0NDc5NzVlMjg4MzIwMDQwODIxMDQwZDFiMTI2MThjY2Y0ZTFlMzZiMDY2ZDQyNGMwN2I1YyIsInRhZyI6IiJ9
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@yield('title')</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700|Roboto" rel="stylesheet">
+    <link href="{{ asset('/plugins/material/css/materialdesignicons.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/simplebar/simplebar.css') }}" rel="stylesheet" />
+
+    <link href="{{ asset('/plugins/nprogress/nprogress.css') }}" rel="stylesheet" />
+
+    <link href="{{ asset('/plugins/DataTables/DataTables-1.10.18/css/jquery.dataTables.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/jvectormap/jquery-jvectormap-2.0.3.css') }}" rel="stylesheet" />
+    <link href="{{ asset('/plugins/daterangepicker/daterangepicker.css') }}" rel="stylesheet" />
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <link href="{{ asset('/plugins/toaster/toastr.min.css') }}" rel="stylesheet" />
+
+    <link id="main-css-href" rel="stylesheet" href="{{ asset('/css/style.css') }}" />
+
+    <link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
+
+    <script src="{{ asset('/plugins/nprogress/nprogress.js') }}"></script>
+</head>
+
+<body class="" id="body">
+    <div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh">
+        <div class="d-flex flex-column justify-content-between">
+            <div class="row justify-content-center mt-5">
+                <div class="text-center page-404">
+                    {{-- <h1 class="error-title">404</h1> --}}
+                    <img src="{{ asset('/images/error404.gif') }}" width="100%" alt="Error 404">
+                    <p class="pt-4 pb-5 error-subtitle">Looks like something went wrong.</p>
+                    <a href="{{ route('dashboard') }}" class="btn btn-primary btn-pill">Go Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

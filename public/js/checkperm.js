@@ -1,1 +1,46 @@
-ENCRYPTED::eyJpdiI6IkxHVy9TYSt3VlBYcHBIVU5TVmlBNWc9PSIsInZhbHVlIjoiSFFOeGI3YjZJK0tYUXp0dUdOZ0JodHJoL3VlVEhyaHFpcytHVUZOT1R4ai92NFFqZFRDb1hSOXA2KzlIZGhLczdvK2hpdFEyeW5aeWM5ODYxRTJ0SU9kblZiS3JwUTFIUFV3b2NjK0pLL0lieHAvR2ZscEpzeDYzT2VIM2xubmZYeTExTVhWM25rV2xYSjdFSjg0ZGRvcWlyRDgwSlVpTEd3OEV0TWl2b0grWmUzVjczb1ZnREZFYmlzZ0pheVV5UGhtR0R6OEdnL0h3ZFFxaHlqT1dhTnRCQ2RxRWhvZHQzWG1tTkdhTUxrNWNaa2dDbGk0R2lBdjlOcmd2N3kzcFdqVDV6Yms1bEF6RzRwQjFrVDk5eDFJZlpQclVyenp2Qk1zRUwzL3VKNGFLYkg5QU4yRm9zbzk0WWx6aXVLTzNhOFgybnN1QjdxcHMrcmN1bVlMbEQ2d2FqR0FaZzEwZXZMM215UGhNd1dpcXEraFlQQlBndHp4MjcxL1ordGZnZk8xM0lpdUR1cXJPejlvMjBSZzVNNHVCMjIwV2hmNnQ0V01qQXFQWUhVVFA5c0VqNmFzYXRJVElYcDBFR0lrd1l5ajdlVHlkbTdCNHNCYXppZTVicDRSTXJuNFhPRFZ1cTl0S0w4aXJsZmZDM05iMDJ5VXN0ZHgrdFZLRzFwekMwZzhyeUFBYWl4SGNzR0QrR0VoZWRZc1A0ZnVneVRxOU92Zzg3V1ZWT215dTJLb21oR1puQ3oxbDZGQkI0WW1hRUdlS2hQNGFuUFdMVkRkMmh3L0dvZ0RvUERoUytjTEE2bW1HeGRrQ1E3ZzVYRFR0K2QzaHhCMWMxSGppR2JWdHdTWmJuYzZVK1J6Y0s1QXAzaVR5bFZaUzB6SWZ2S1lNTm9CbC91OSsweVVONzVFdXE3RkVoSWpFbkhLbHNBQ1lBWGZXcDFWVTl3L3pvc1dOa2w0TmxINVNPN0VuWTlsb3BrMlI5VVJTMzVOQTVHUytjdWVGOW56bkhqclRTdXBDczM5NzVSZ2wrT3l4djgwRjRtRjV4aFFDT3pDTkRIbGY2MlZoZlh6SllyZWR1RTFLYVlKMnV0ZGZKQWR3MzNTL2E5S0RDb2E5VTUxVWlISXdaMkN4NzFKMGxsbEtjcUlLaWltVjcxZnI0TzV3cnNqaDRldUxKYSt4QzdJd2Q1TmJ4RXNteDVJVXBKS01sbklHMEs0RnpROENVdzBnZVZ6UlVzNkp1dElNdmQ4KzhCbklZZCtoWm9pVnNSWkZPM0dpcUQ3WnpjcEFUYW9BL2x6Q015MjBiVUdVNTJjTHB5Nm5razArMEV1OEVDajZQUHBCNklTcnNqSDdLdTdjZGVlSC9vOGFsL3FuY1VzNFoyZDd1Sy9ZUGZsSjFHRlA0NW9HYW5mamFOa0R4OGlvZDFWZG8zZUJKdTBoY1Yyd2RzdGJjZ0c0Z0oyREwwZ2J3dVFRMzBNMnB5VlEwbVMxVkp4K3F5ak9jUnlaU29qTUZaeHFJYmtnTlN4L0h4TVVUUkNoeE5VTG4yVk9jQkQvOElSZ3Y1cTFpekFCL2c3R0FmTWQ4bEJBWXIwZkdPdnhQUWFBeTZYSmY3cXMyNE0yelA1c2JVcmQ1dUl2WDZlc05Fd0lxbmdHdUlvM2FOMEYxM3NlMys5S1JLWjI2aEhKd2NRSW1BdkRLN1h1elNibDF5SlRHR21WODR4Rk9adUVxM3ZmczFXYnNsTWZ0aHZsKzAvNWt4NXJPbzZLanJiNVJRcnNQd2J1S0JvZHBHbVMvVnF3blJkbFV3aXZvU3gxVGpLc01BelJBRENmQ0R4RkZzSjB4Nm14NElpdlF1QXB5Z3MyVkhsRzRpZzJIdHpBckRDZnk3UjFDKzB1bTd5cVJsK0U4Nkc1L0tiSEQvMVBYNG5NUVlEc2Ewb2RrYkpZWVZmRlRrRnMvVVFnVzdxeStBSmtNcXpMWG8xOU9EZ1F4T3FQNzlIeFdTaWNoeTg2eDZWakowQWQ4L0ptTzQyWm9TT0JZVkNuOXZhRVdIbk5IWm5DcXNjQlBhNWZPNTZndHFjWkxIZ09ZQ0ViL0NsekVzeXZBWDlBSU1BK3FmT2JUWEkwN2hlN0lkSmVScCtscXU5cEd3TTJNZjZoV1JOa1hMZnNNTDhOTm4yaU1YNU9sMy9TWFhydStKMjM3aWkyYmRMYzU1QWF5dXNSNjNFSnc3aGVKVGV1WC9yQVV3NTRDd2FqS2d4ZGVrSHlyenBWM0VYVzI3ZmFFSXYwVi82TjhEbVVCMjhHb0VhNy96VmNzTDlyQkR4LzlLRjVmZ3JGbDE1YTlZQjZzS0xwSXRvcVRtV3dLVkJvRDFFZUh4NjhzSlMwK0hmMVZ2TEUxTHV4QzdRV09qMkJLY0VVdFZ0MCsrKzBybFlaS2FYRjkyWDF4V241VWpZVG4zcXlZR1Y0bUUyY3cyRHB0elBHZTFMdWxKdy83NGliYjZvUUZ2TEVmR0FUaG1NMHorUjhiWko3bS8vaWQzY0FQMTBmdEswWFkrY2JTTFhVcjN4a3NNL0dtTVo4dFlYaHdDemh2LzBVSUN2bVJaT2htZmFJak96aXhrYnJFcld2amV6cmV0K0x4VFo2UldYdm5ibEdwT2dOMGh5WEdVWXN1UHhJdkh2RFVUMjQ2SzZobHE0WjdCR1ZSdG8zTmdMTy8ra3B5aDY1ajRIRTAvMUQxNTVVYXVYa0VLZ0k2b2E0b3lHOXB1b3NvaGRBOElzUjlwYkI3NnB3MmgzR2thRHpJR1IrYVFCdDM3Qys0aDFGL3ZlZHM2MVpNaUE5QmR3SG1Sd0M0QTdQdjEvWjFhQndQNUwxdUphaHRGKzZVaHpYVjRnUUp5NmUxMDhiTit4amdMNHA2Z2JtNk8vcWdoakJocXp2Rk9RajMxWm9aUTd1OHc9PSIsIm1hYyI6ImY2ZjNlMzlkYzYzOGY1NjQzOWY1N2I2YjhhNjM1MDU4NTc0NzBhMjM5N2UzZGUzMDY1ZjMwOTE5ZTc5NWU1NjYiLCJ0YWciOiIifQ==
+/* document.getElementById('type').addEventListener('change', function () {
+    if (this.value === 'admin') {
+        var password = prompt('Enter a password to give this permission!');
+        if (password !== 'naosei') { // Substitua 'sua_senha_correta' pela senha real
+            alert('Incorrect password, permission denied.');
+            this.value = previousType; // Revertendo para a opção anterior
+        }
+    }
+}); */
+
+// Função para criptografar a senha
+function encryptPassword(password) {
+    // Esta é uma implementação simplificada para fins de demonstração
+    // Você deve usar uma biblioteca de criptografia adequada em uma aplicação real
+    var encryptedPassword = btoa(password); // Codifica a senha em base64
+    return encryptedPassword;
+}
+
+// Criptografa a senha
+var encryptedPassword = encryptPassword('!@dmin');
+
+var attempts = 0;
+var maxAttempts = 2;
+
+document.getElementById('type').addEventListener('change', function () {
+    if (this.value === 'admin') {
+        if (attempts >= maxAttempts) {
+            alert('Maximum number of effort exceeded!');
+            this.value = previousType;
+            return;
+        }
+
+        var password = prompt('Enter a password to give this permission!');
+        var hashedPassword = encryptPassword(password); // Criptografa a senha inserida
+
+        if (hashedPassword !== encryptedPassword) {
+            alert('Incorrect password, permission denied.');
+            attempts++;
+            this.value = previousType;
+            return;
+        }
+
+        // Se a senha estiver correta, redefina as tentativas
+        attempts = 0;
+    }
+});

@@ -1,1 +1,20 @@
-ENCRYPTED::eyJpdiI6IjRpSXA0RVNaMmNIUHl1QkwvOFdKMFE9PSIsInZhbHVlIjoiSnpPQWYzYXFRRWFZZkRQd0RCY3VVSEFxTzJLUUFQcjFhamthdFJ4cU00MDRZSGJoaVo5QVpkMDdTRUJoRUFUNUlMV25jWnB4UUYwVnJtbW8xa1RhVnJmeWxkWnBwUnFoNnlwRkRkbDZkeU1vZHBKaWswVk5PbXlqT1VkV1pjbkZodm9TQ2VvUzNYU0Y4WnlGS2hOYjduQXpyazk0bis4TlNjR0lHeXpGYTdmZFVXZ1lqQ1Q5V2lHc3FLalVNcHIzcnVxZXNyN2liNU5WQXBlNHdybXBhMGc5aDlJSzJwR3NKdXJNL0l3M29WWlFPcEhzWHRFcnBaelBTcy9Sd0l2T2lJbEE0WE9oOWRDQm1Mc29KR3RudkN5RGt5aU9xNDd0RFNENG1PNDduU1l5bjdMYjRkMkUxR203clp4bFJrUlc5Q3FBSStrNkdlUFpTbUxRY0JKSFFQRVFQWm8rTUE0eU9ZblpKTnZLRGpjczl3Z1dYeFRKYzNwVm4vWFVBSEFnQmxjcjRyd2FSL3VBdGlEdGhjcjZmbmJGM0ZSenBRUGtwaTBTaVhIUDFhU2RNTWRVQ3RhdjhyRG9rMnRUQlJpbldOcDNtVVdFY2xkSzVlUzg0WWdYay9DeDQ1Q2F1aFRyeVVRVWlMM29mc1N6Z2I1ZllpMEhqay9CYXpIa0xlN0lYZExyUUhaUEhFZElBNjgyN3lFamdzZXd2cGU3TkxtT2dsWEo0NEZhSWFNZ1FWd3ZsS2ZNdzRMcm96UlVUbFRSZ3U4MG01SkdjNDlxT3ZWUFFVODZLQ0JCaTByeVZHenVQNzJZSnJQTkk0L1drem9CMWNQbEZaN0JtMnVISGJ6NGpjbU0wY09mc3dTYTdwbWZHaVpLNjFNdHBaWXNEZlBjR3VJdDZvQktEVnFPaE1uK0lSMkdsT1ZsUTdvUlFYK09wVlRKdTNka3pPc2hrUmNPa2ZRSFh5QXNSSnhHbjNyMjlQUGtlOENIQkZMQWRGbWZlOEZtbjFzUmJNeERqNDc4ZzhvY2lkYmZ6NDN5Y2VNTkMzL1NMQmQwbmNmTXJReC9hcnBhWmliN2ErUTVScVN0M2RyS0NWYk5GZjR5Zi9XUmdia0NFVndqZ0pYTDM3di90OGo0bjUvRVpTR2VicEY3bUUvR2tFNi9NZHVwZHdxaHJmaW9WUDJHRjQ0bHZiVnBveHJnN0YxckZrMkZRVzVRZFFXQlUrUkdGYjA1SU5ucnJmUTc5NXc0Z1JxYnJyYnpzS2VtZytPbG5MSjgzWnJBcmwrTWRXNXR1YStjYkpwS1lkbXBycExESUg1R09VOFNuWEt1THA5WVBNMD0iLCJtYWMiOiIxZGJiNDQ1OWY3YzdkZmIzZDU4MmI5MzlhNmZlYjI4ZGVmN2ZiMzVhMGMzYjhjMWI3ODA1NWIyZTJlNzhlZmZkIiwidGFnIjoiIn0=
+{
+  "name": "en",
+  "options": {
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "shortDays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "toolbar": {
+      "exportToSVG": "Download SVG",
+      "exportToPNG": "Download PNG",
+      "menu": "Menu",
+      "selection": "Selection",
+      "selectionZoom": "Selection Zoom",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "pan": "Panning",
+      "reset": "Reset Zoom"
+    }
+  }
+}

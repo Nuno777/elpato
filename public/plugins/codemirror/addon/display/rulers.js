@@ -1,1 +1,51 @@
-ENCRYPTED::eyJpdiI6IjlYeUUrVmNSSmdhc2FhSjJXZVVTeFE9PSIsInZhbHVlIjoieFhYbDBMTHFiV3FSckluNVdyMjBYelJqNmpmK0RVbjJZK25oVlp4aFB5RkdhZGNCaUFEVWN3cW1EcWIxTWVQQ0MwVm02RGFrOWtnR1lNbG9oQUhXNUlvQzFSRk1OdTNLUW5mVDhCZ1BoV1dHaUNSZWFzbTFka1hmTGFZRHBvQUxYZUNnQThlYmViNlRGeCs4WWQ1L0hUWFlZNEkzTVdFa04xTDJnZ1MyMUovdkdYbkgyVkIxcXlQTkFIWlE4OHpOTktIYWVwSmRkQi9QZ29PZGRmc3pzUXpWdjZhVUFrMlp4Wmdjb1o5S3VHU0xFWStYUks3VEU3WVVZTHd0S2FWNzRBT0dObndFWWsvTHNsZVlCZjRMTWJCK2JmNVlucGxKbGtkVlJVdHhUTGdBaUVvdzZhVHpSZlAyTVNwdnpXbjRZdFZPWWZGeno1TzhqRkNrYno3dXE1SG5IV3JmcHp5RlBzTlRrazh0OW43VVJsalJVMHZRaERwMUNObnhNQjZvdzI0eDZUOEUwVGsrSWVvZkhQTEttNzF6ZE5RRURWWnhDQ2U3clBOazNROVYydlhTUXc2ajNZejlXWU9IL3dMV21KdXZSQ1lNTXBTQThIUWdqSTE3UWJmNFBKZ3pNMzM3WTVLSFVIMnd4S1RrUW1ibXVjNlhrUEJ1NHBCandmMXVYQUw3YUU1UVZtVnBCRm9Sbi9tdkI5dnNUNkk0Rk8wOHN1RUNNU1FxdXp4eUxLeU9rQjVKRUJ1ZUYwVnBxY24rYnFpWVVtcXl0aTJNY0o0bnBENHJsWnNIb2tTaG82U1ZFYldrc05VRHlxd213Y1RORHdVUDc3c0VOWXhjTjdxck5OWGZzOE1xa0N2RG1rQmVsd01UbGhuQkdySG43RnRZNENwRTN0Vm1iRmFsQmdyMzdaK3pMWGt3eWNKM1VSQkNDZk5wZnlPYXRGd2VicmVCTUFKZEhLaW5GQkIveHVMY05xZ3hpbjhpN1dPRzRKSXlpZ1hWdTlyQkhwY0RlcFc3TkMxbmR0K2IrQjFPbm96YWVOMjdvVUVFS2VqSWxNSlBCcGR4bHpDRWgwUXNqREhDU2wrSVo4T0pndjdseWtmb0tmQzBZSEttM2pNS0lKUXVqeWloKzFBMmM4ZXR5UTdQR0VlSy9VRXZlbElzaVkycnlNUUJGZlRVczhZMTdud0toeWpSaERIZWUrUzBYR29LTzJ4QklNRXI4SWFyNnN0Um5KSEcvY3U0aGdGR3hNUElCclZINENweEFMTTJDYjNsQ0wxWmwyM1VyTllocjh1MzlSMm1IZ0VLemdkYUt4ckNrSnI5aURpYWxOTkFVL0RvQUp2WWd4dXVodlo0MEV4RHdjOTZyL2gxbVNMZyt4ZEhYYmFyMkpSVUFEM0tOcVNqY0YzVFFrUzNoK1ZWQTU4aEVIQWYxRlJhM1NwTFZxNEc4b2t0V0c4WjN5Yk5wMXRkWVJqY3dOZDRYaUduS1hkd0ZSdmJ6N09LYmhlUUpiT080MFZPVm52a1dWWm16VEp6eEtoQkU0N2R6YkxON0pubG5JaWcydlp5L0o5bkYyeFJkUzIzNGNFNGtmUHZkd1BBL05UZjJrTXF0K0RpYXA0TWdyTXE3cWRVUHNTelNrcWdWM3dyLzZKQ2R5d2EzZkpYTnZRZktJT3VmaExoYXlOdlQ1TTlHQTdSLzR5YlQ4SlhFTW5SK0NOSTNQbE9GNjF4T2JJdzBibjUxY2dqdUdrcGFvY0M4Z29zeFQ1b1VHOGNzMkhVOXBFYXVCRTJWek9aOUpLSFBaSmtpQUpoQkI0djQxOTlrcG5kSDhtMXptSGNsVTV1Rk1VbVgyc1BSNy80dEQ3YzNGRG56WHhwKzFSZFV5NWZCak9udVAvY1hBbkxidW56ZjM3KzFTMkZFVFNIYkRlMVliaGlwdTk5cTdPZUc5bm10NlFkUVNJOWJ5TUxzZU5MS1A2Q2xGeTJYRWwxaUVHTXdmR1VKSEFyRTRPWXJLOUJiekdaS1ZDL1l5bmN4NllLWHFZcnNuYzYrWWxid0cvai9KQTFPQWtxWVBzTFVZL0FYRTNLczMrZkZuVmtlelJMM0RIYWFzT0xOR2FMLzFBS2t2b2xuWUsyaEswSkJwRHorVTg4SkdVK1VDdTFVZHJyRTlJOStUL1N6ZWJvZE1qVUlKTGJFUlRCd2N3ODRZSElrUW4zbVFFcWNoVlBGd1lFbHB1TVd1Zmd4L3ViWElEb3Y2TmdxYTkrYjMzaTNyTldpQnVEb3N5UEcyK0RKT0c3dHk2THpSNnNCcHN0RHh2ekJxUU5wa2VidWd6T0EyUUNNUm5vQkxNdUdpalRDL0hWTklFbGJML1luUldQMzlzaWFQdkRtcWVMVTI2d3lIczMxRGpzNUZYcWc2czlXdy9DZUpxOUg0RklxODV0RkcycW9rM2d2VEhiZU1ibDNjOEtWT0gyTmJsTk93S09GanJ0V2gwbUhHdWhFSU1oR1dUREYxUFFieEFPUG41aktHN0ZtSHVHbEFwNHJSNDA4MWU3eTVUT2ZiUnBSR1pGdHVhdjlISGg3c0Qyak9QNEZYNFd3QTgxOFJ6b0FDeENMNVV4YWFMOXoveDZZSnR2dkgvMzBkSFN3VkRGVnpxZDNkbjN0aTh2VmZsQUF3N3dqZWd6L0ltODZRVy8wRW9xdnZNc0Z2R2NhbkJ3UG1EOGNmdWlWRDFNckQ3UXlBR1Avamovd0pOazdxWTYzamQ1KzkvbmZGaTY2VkgrNVBvY3NaOXpBZW5ZLzhGUXhEWE8zbGZDMngvMm1BektkQUo0NXRHR01vc1NnL2M2WVFtclRsVDVzbG9pNSt5MEx4ZlNocEpPTUczczN4ODVjeGtwUDl5aUJPdU9BVU52cVlNdTVpY2NDRWZsd0JLcXpjVmtkLzU1NE9WZHB1a1E1aVRubStSNFQveEVpY2h0SUNkZ1NxTitTTEdwUXU1QnhiSXZOQzE3Qm8zeUFHLzcrL1lZRDNJZGZqdjJDWmN4cDFFcG4rWDgreVEwRzE4UkZ3OTNSR2V2Q0w1U2ZaQjFxTHVKdkVIcXQzM1ZhSU41WkJqaWZUUzh6NXU3YWQwbTNYVndJdDd0cXhWUDRWTDhmcDBFY2l0aTgweVBKU2lGTzJpNTJuaXBKZ2ZLc2FGWWhIYXArZ1hqRDBlMXQ3SkxQTnpzY3loOThkcmtVTVpnOVBGMlpIM05GM2xJc2JUM1lGemJoVzc0NWl1RWQwcWlGbytOTnFyYWduWlBMSkhtTEtXNXk5QVdjRW0xR0t6ZGM2M2tOYjRaempDeXlTMExaZElJTDkwNVVsNXAvT2Jtd3ZyalJndmR0S1RISTFsRjJ2YkJGVEtnK0JZMmdKbFk2bVBjcUJaWXBGQWtCWWx4emovUiIsIm1hYyI6IjdjYjQ3MTBkY2M1YzFhMzM1MTVhZTk0NmI0MzI1YTc5ZjA0ZGFlZTc4MjA0NzIwODhjNjQwMGY5ZTU1NzQzNjkiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineOption("rulers", false, function(cm, val) {
+    if (cm.state.rulerDiv) {
+      cm.state.rulerDiv.parentElement.removeChild(cm.state.rulerDiv)
+      cm.state.rulerDiv = null
+      cm.off("refresh", drawRulers)
+    }
+    if (val && val.length) {
+      cm.state.rulerDiv = cm.display.lineSpace.parentElement.insertBefore(document.createElement("div"), cm.display.lineSpace)
+      cm.state.rulerDiv.className = "CodeMirror-rulers"
+      drawRulers(cm)
+      cm.on("refresh", drawRulers)
+    }
+  });
+
+  function drawRulers(cm) {
+    cm.state.rulerDiv.textContent = ""
+    var val = cm.getOption("rulers");
+    var cw = cm.defaultCharWidth();
+    var left = cm.charCoords(CodeMirror.Pos(cm.firstLine(), 0), "div").left;
+    cm.state.rulerDiv.style.minHeight = (cm.display.scroller.offsetHeight + 30) + "px";
+    for (var i = 0; i < val.length; i++) {
+      var elt = document.createElement("div");
+      elt.className = "CodeMirror-ruler";
+      var col, conf = val[i];
+      if (typeof conf == "number") {
+        col = conf;
+      } else {
+        col = conf.column;
+        if (conf.className) elt.className += " " + conf.className;
+        if (conf.color) elt.style.borderColor = conf.color;
+        if (conf.lineStyle) elt.style.borderLeftStyle = conf.lineStyle;
+        if (conf.width) elt.style.borderLeftWidth = conf.width;
+      }
+      elt.style.left = (left + col * cw) + "px";
+      cm.state.rulerDiv.appendChild(elt)
+    }
+  }
+});

@@ -1,1 +1,293 @@
-ENCRYPTED::eyJpdiI6Imt5M1ZmTUlzaHM4QTF2OHlkOUN4SVE9PSIsInZhbHVlIjoiV0JKcmpwbDdIQmdsU2lXQllWQWkwMXRndWFiSUZRY3M4THArbjFyYnpKQ1QxbUhEVXd4eUpzT0RSODNRd2dkYmUyRklxS3dGQ0Nxc2xEVndYRjRGd2FaemJsVExWdWRYa0YxRVE3dG1xRDJZRzhyYU1TRHNPVmtpeEdxZnQvWDd4YXgzclUrQTk5YitwTmlvVVdzMDNWVW9MbFNPT0NTSWVSeFVSdFNnaUtCK3lnMU05UWJWZURmWXNnYS83MDlrRWJvWksrUFRsWHMrZmJ4MlZCTDRuc0g3b2lEeEZlNUNSdm9YWEcwTlFVbkFQWGg4RUU5a000cit5dy9Sb3RDOHBiWkNHN09FWUJURVZoZUdBM1lZUFFva0JtOEVIZU1YTkJCZFo0Y1hrZlhtQ08zMkUreHMvYzBON0dXekJ6UW1FS1F4cllSbFM5aGRtUnMzSFgxcnlmdVk2R3ZBbXk5N1JGcjNESWc2TDQ3RlpIdWlzV1lZVmsxbkl3d3hEVUlZSlJlZFhNL2N3cWlPS2xEUDFpY1llSm1MU1VoVWpkNGx6TmRMMTJmdWN6RkNPZUw2SlhLVkNBTjVFZEdua0tCZWtFbGdQZXVzVUxBYzFXWm1vTXVuTnlaeTBSVVdYaVNac3RZb1d4NVJlRUZmTVVkcVM4bW5OK2RETXJrdFY0R1FKbThReUlJMmE5eXltSi9GUlUwZmhVUUhVMlg5UmxIWWtWZ2lCeUtML1laMjI1RFVVcC9EM2RiYTdvR2pXNHQwRjc1emdNdHVMNFlOekFPMURZdWRrblVrSDhsSHF4VC9SSEttcjhmQjJERkd0L1RxSVF1Q2JSUnk4L1RuUG9MNjBtTlhYa2J2MVVWTHFKTzIxRC8yZUFVL3RndThlTnFtU25MNEJlQjJBN2xJZ1NyVXZrSUNIQnkwRWFyb1dOVm9jVEtHR1drWEFvcE5kUDBaVEdWMUxUWW1HMkVZd3dGVWtBS2hveUNPdUR1UW5uU1V0OUJ0NktUVDA0SlhYSmFBcjByVzgyV3BDWHdUdTlOdmZFbjh2cUR1eXJ4QXJVcFloNURrQjlTQUJwek5pamtqQWIrSW5pTmJ2dS9aNUdyZEQ0MHQ4SVVOamQrRUo0WWROZ3pISG12ZEw5NkNRZUg1aUsyQlNqc29YNXRMaGtobnhVdUF0L2pReFpRN2hQQVBhaldsd01FSERjTXNLeGdyUWFaczZaZXQyeTdKSlRjSWNCK0dUY1Awb0pKN0tVeUVuUjd6cFgreGdkZEI3ZXl4ZmpMRHYrME5MUFFON1BnL2llVGRYZ21seFd5bmVpQVMrWVNMelhkK3NOK1cxYTRrWVVqQ2NISENSS3M2aTU5c280YW5SNnJ5Z250TTR4VmFZcmZBakluek5uMzYwcFFGUlZ3c3dpVFIyd3c2aTVxbTlETGtBR29BV0ZIYTFMVmdNVUluS0Z4Z1VNS3FXaWZ6NnJhcEtWWERQS0ZMamhEL3ZMbHdoZzFaN3J6VkVkN2oyci9JWkhraUVuOFRjVE5zUGhkTWpENEFUclM5d1FqS040NXpnSVhyOVJ0OUpCeTlqS2x1RTErUG9la0doU211YjJOZUlYRFBNNWxleG9VZjFGMGtTWVBZd1g0WDViVzR6NjJKQ21PaWFqWGxET1NWampDN29HT2oraEl4VGI4T2tTVlFRcDJoN0Q5ckIvR0Urd1ZKczR0QVR4azl2cDBUMWg3LzNXQ2N6dm1uRFNVa1J6YTkwTXpkZm9TK2NlRStMYytTQU84eFVnbjZEZUJzYWlGWnlCdi9lekNVbmR4MTI5cHRjUVB5VkhCTjhaSUEwTkZNaEV2QnRjQlU4WmVCSUJnQlpST3Frb2I2NDg4K1ZSS2didk50ZmJOMUVIb2sxaENITTh6UUo5eEdGR0tiQ1F4NXNSK1FpYVVXbVpvbVdZZzJ5RWZFKzVRWjJNRy9kMHZaVU1kMzl2NHZSL1Z5MTErNnQ3anIyMmIvdE85S3RNM3dzbWJVOTRLMWUrcVMvQjBOOXFOZzVCQ0w1VXp2endPZncyRXB2S1d1K2M1cUc2bmdZdkJKbXVPYmlnZTJ4K1V1UnRWZmJXb0xNb25lcVBiN2ljbmlqR2RvZHZRcGJ4YW0rUlV4cmEvUXRvQjZjbkdHT2I3TkdraUJTK1ZsU1NGMjNVd3JCYXFtTDFPV2V2ZXI1bHVxM3QzS1puSEhOYU9UYmVuazdSdVNCRnVPZTd4SzRGVGdXc2RlZWFpdUwveHh2NVU3SmxTTFlHaGNjME1UbDZaQXdlVUI1ZWw0a0JEWVFXamJtOFdsMFd3RFNIN0dOZGl5RGRtM0pLdTVBMHlFbFVqdjZDdENoWUgyeUlyays2T3JubmF1bUtaNHk3MFM0REZOUFlyNFpaKzl5Z3JLQWlDb2h1LzkwaEwxNEpDdXhKdUc1RHNQbGtuMWdQU2JOMldHUlllMEhsVzBZdmRSRE1tTFJVT1liNFlDZXlkNEhJMmRHTW9rTjNWRUE4amdzUm1wdldpS3o2NzFGVHp2M2lwN292RXZzY3FHNWMvc0pKNXRxUDBNM0V0bHcvVUJ0cEZ6Uy9jR3ZrNklCSk1PajVMSmJKbGhhU3pQcEFjWUUvSFNMd1pObE01YnY1eHBGaEtxRjVWWXFYTGROc3J6NWgxZm9RZlp6VktXZVZ2eSswVTdwN1dsZitzclN0eEM2Q3psOVFCamkyeXZxakFqV1k3MjBLZ2NPVkR5cE11d3ppZUZFRzg0OUFJTjhwQWNFSHNISGpQeE11L1NrZUNHWkhzNjBMQTZKYU50VVFpYjM5SWU2ZmpDa1czTW1CSEZwbkgxVFlwTnNjRSsrYXdWdVRtT3puWnV5ak1LQlYzV0tHNlcrYWE3dm5LK0ZEM1U1czNGZUY5N20xNjNRcjAwUnJtZ2lMcW9YME01V2ZzUVVLQlMzR3J3OEhxN2xyNjNnUk96eUg5YVI5RWRwQ2d5RDhISDJNRG5FaCs1cDNTc2laUm1tRTVqeWw1YmJLK09nTmMvdnRsc0RMK3VkeXJiTm8wQjZuenFUVk81Q2hva05ncXNHejd0WTFrNEpFTFRCbzVSZ3NJcmxid1dwbGJnd3R2ekpLdXpkSVJ3TjdpakJYendYSGJ0SzJ6ckFPL1RBZG1maEJhaXhtVklyNDYvdExjTTVYZDZLTEtzbFdOK3pTZnpidjh6dWMrMEVhK2tOc1pObDZkbHpib2trcWp4amY1Yy9nMDBqY21FRGFaRUQvc3hHNktPRlBOQ2V2ZkNUeitBdi9qZ3E4Q1YreGUvNk1uZUZkUTZQMVpZeWJLNytzMGp1d241RjhMcGwrZnEyUi9DejQ5cndVeTZJK3JxNllIRUFjMzBBK0hoQ3U2RWFKNnZhQW80WUEySzAzWmpjVC9rZVJuRmpsSjQ0SGp4YnlBd25FR3M2V2M4ejRtN3lCK3M5QmtYK01lOFVtZzFTWHBCbTliTGdKSmRMUCtaMm5HQW9pNFRxMThWMUo2U2djSWkxdk1Za05BbU10b2haMlltRjZCaVRBZjA0cGRKQU9iSTltNFlqNWJHKzA2L2dCK0hXZHpoUGNOcnBUdVkvTFhRY012djZlZndyL3Fjdld6REZ2UTc2bjdMcHQrY0hEaVQvQ3JVbWE1bzFseEd6MGxqTXFIbE9nRWJmMzdNKys3QkY5WFpxT1o5QVRveXRPRjN1bXlCTUp6NWhMMU9UU215cXE5clRtS29UVVk5azQ1dXpBK3RCbCs4RlZTQmc2T1M4RnY2RlZHZWRzMFlzTVM5SmczeUYvT3lzYkgxNmNxRDR1QS9ueXBVbVBDaTV4eHF0MWFLZGc3TmQzc3M1OE05cWJoMVhhK0pOOHh6UzRQWjlReGc3dWR2Mldna0drRkxkOHY4V25wTWVhZnJZUGhKYVhteW9lN2t4WkgwWVhtSCtWWjBvWlhWbE9RT0s3eEwwaFloVW9ZendEOFc4UHZ2RjIydzdHNzF1M2syTlI3dlBERm95TE9Oa2svbWJPcGVFY201RnhVdUxibWZMQ001K1pNWEhEQ1h2SEtpMUF4SnNQT1lWR2JUMXM1bUE4VEF4bjZBYlJtempZNlVEakpGbXNvNnh1dHJsN0dCOTh6dzI1WExCTG9GRjc4VGwzV1IxMmx4WkdmV1J1dEF2bk10bkJoVEZ4b1BWdncwNlRJeXRXZnF6TWtSZDNwbkFCSmNNOE5wY09BUk9FRzJVb01hdnpuVkZ2b0RqRFdHM0QwL3JZTE41eUtaYmpudUxTMG84ZVAzWUhodnh0TG91b0o2NTRDV2x0cENkNG9tajlxWldtNm1ER3dsT1NsZmxaVzRYWVpVbjZpQ2VvajNqN21IMjg2b2xoYmRHalVIQzJ3UGZ5UmEvS0R2T01aeXE4bjZ6RUNqeEs2VlNHSm9tRWFJMkdjcDltVFR4QlNmaktLQmUyMHdmNnJZOUlHZDFXN1ludGkxRWZ5NGdXaUhIQkFyVGEvSG5WbGVyeWM5a1VKbmJiYlVBams4VEcrbVdTSnRuOXJtT25FL3VIMXRZY3QwR0VPaXB2TTlnM1dNWmIzSEJJZkE5a1prcTdnZXRRTUhjNXUrdit2cHdreFRlb1NFeUVtcFJ2MXdNbnlGeWNiV2lwRGZ1OTdXTHVwbG1GMDF5MnZYK01RZlF0SWhLcU9PRzlzN04xREYwOE55UHVCWkp4ZVlVQVpCMHdKakVtbGRDTmlQR0ZrNHNhTnluQlhiNDRqRVUwOVQwLytTenJSWll2b1NjdEpjQUNoSFhSNmZra1lZWEdTd1hCVEFzK0xONDFYTXd5SnFkRlErblpaYmN4QkMzVHBxdkNLa1o0aFV5cWlJU05iRHYvVC8rS0UveGhjRDBYM3pidmtVZ3Avc3g5d3cvclJGNHJoUUx4Z2ZuakMzcWtLRk5FYk1aWVFLODFhRDNCWlBWY3RreDM4dUgyTTl4aGdYckI1aE1Pb2RHZTNZOFlySHNjNUEvd2JOaXMrVWxuS1RLdGRsRVFacHJxWkIyUVVPNmtRWEZoUkhjS0dDU1ozQzFrRXNTTDVyV3ZpUno3QnlRMU56dk5NUEM4TDdudlhGQjZTZU0vYzJNWUk5UnlmT1FUUkNJS0RleVdQd1JZRm5BbVB2MXFDZU9PTXg2U2k4MThPeTFZWUxWZ01HM1BFcFo1bnpNejNRMVQvL2RDN1NJNThSN0x4VWpZemNtUUNsTTdCS1BiVkJ6ZTdFU3RJenpGMU9lbG5YRnNseGV1SzdHOXVLRXNBYmRMcXErdTRUODJmdEFRYUozQkVtcXBOYm9FOGZjWW1wRlJTaVZ6bHd2WHJCcU9vTllmSjUxQXpPUmVQZ2FjUFFxQ2Q0MWU3SERidE1RTmxiZDRsWExGdTRlTm9iSUZiVmVqS0tyMzBUbm5qZEVhcFVMMjMvR1IxTTN2R0V5eCtMTGtZRHkwUFJDSkNyQURMdUU4cGVKYVlMLzRqUVpHT3lyYUoyeFFldWljUzhlckp4MVk5RDF0ZzNab1VaNTU0ZVhQc3JpTlZESlJBTmY0WisrUFlTVEVGZ2liWGxGdVNBanVXTXlGenBzNmhyQ2lRbTduOG5WZEFtemlST080bE9WQk56OXgraG9leHdPTE5qaTdLcVdhdXlEMlVJVW50TGJBNFUwSDJCTkdXdDc0RHlBQ29HQzg2MGFybDNkcldHNWxaeFE0UjFXWVdHQkhSTHpEK01KelZweWRjUm43NUtvem9UcmNOMmtLMXV6L2VwTHZ1Q2VRM1piUTlaQnZVbW1pSFg3QURiVDYyK1hrUG1YQVBFR0xoaEtnTmU1TDd3a2hONjU2TU1sUkpFOUc5YmZ4Z3QyV0V2VkoxZ2ZHdTV4Q2J3Smt4cWdYV2ZBQ0x1aHAyV1lKUEM5MzlkUkNPMFRJbjU1MTJEUDdkTk1MY3dsdUJRK24yV3l6ZUNoQ1hQbkZuLzQrNXJ5S212UkRHTkpPWGc3V1NDenJBK3NWTmxhSVpSd3lkV2pBQUcyVXlva0pqTDh0M2VwRUJYcnFoWUFvRTBWYmQwZm1YcmVPWjdmWlZCdXlmeHJqVFYrUkVKUHlXT2pBUnZnTVNJTCs5RGw4emlTbmRhd0Y2SVJPWlJDbEtDRDNvejRROVpzUnpqa0ZKM1hPMmZ2bDJKVWxhY1lHTnJwTytzQU13NFh6N2pMWXNpOEJnbEZURW1iZ0ozOUdSeUZaRHRqT05MbTA4T2pEQlU3eFpUSHpXRmdPTWdXUFlWWFBzVVZpeEVFeXBtZ2Y0UVRrSjZJQjJQOWhMSWNLWW84aEg4Y2VkVGV4dDJJS2F1bnNna2dZbEhTZ2hKU3pHV1A2OGJ4UElEOVpzZ01LTTBjeGl1U0t2OEEycEcvb0FsSjUrOVlCOVllNjdaNTFBd3RicGVYOU1KRDhZUmJ1Z1ZFRGZCNHFsejZHSnRmVDljVHBkMGxMeE4wWlJwVklnTjVTc0NGdHlWRWppNzZ4aVQ5SktmNFRkOHRVRnNxdXdoY3cySHhselVkL0VJT0d6TGtwalhNSDBzYTcyeDhsWCsrL3lzSGNVeFBjWkdXTDArK0VmQ0YwREtVd0hZQWdaM2hEdGtVVHZkNHArTDhJZ1RvT2NNNUhFcmt6OGtlWGpoTW5WOUpXVTRHNy9TU2pxMGEySmhVOHl1bkw5Q3d3VWcxcExQaTRmZnVaYUxEK0dJQnI4YzlkQTB6ck1CZG9zcGtXN3JxZHkvcmdqbzdJUFFXd0VaNVhqdHNZR1pqc1VpTzVFcmhFZkFOMVk4K2RmK0dWbm9zeW8vWFlEYzEwN3JPQTZyYk05dlF2RmRoVXJCTEpuMWFxZ1pPTUR1QW9BTmNnbzVESS9VclhXbE5ReFFxTmlYY0kzV1hJcThlRjJjcWRjbDJkUXlqVkFUYnB6ZFdodXFPdFBlMnBzUE5nb3I1cis2YkIrRUc5TUtSeENTQTBnQUtIRFVKcVBDem0yMmFlVWFuZ1plUE1iZGVoYURObjJnRG5nK1lxaDBTcm5RbmZmVk51K25BcThKR21WMXY2L1ZZZHNqaDUxekxTQ1crbUx6Tk45YTZjVTlPanBwUkRrRVZUTERmUlE5ajRUYXE4WUIvbHZucXNRaU44ejkrUXBJSXhkYnJURC93UHhST3hWZmxsWVMvMEcvL25WTEozcklxK0ZmNWZnVE1yOTRkMkxxRW1MM2p3QmlyeHRPREtsRmRSQ0t4TUhnaS9QWTNObG5NdTBGMzdQK1B2MDVPOFgzK2FTNk9ReEcweW1ZYVFNRFVDamx1enAveHFVbEFlY0pyUXhWcE43Nzk0WHlMQUViRzJQN05tT3ZOTVB2Q2F4QkRXcUlmcEkrSTlnSnh0eTdZcmNHNHRKdk9yYVphaEM5YVB6OHZoTEtHWUZvTjA5ZExFQW4zMjQyQzJNWEJjcHc5NjNhSVJxQkkzb3NoTzE4QXVhWjhBTHhYNmE2clY5cXZMRGpDWDVnREZqK0krUnplcmpML3cvNHpHSmhZNGdtdnF2VzlGSGpFN0YyUlA5anFuc0wxMFZwN2x1MTRhR1FZTE5HVzdoZHdIWWtKeHBkRUF6MEFuK1ludE1PYzJQVTdMcm16Rnp4eUZJM2dYMlY5YXV0SGthbHZIMHRhOGQvQnZFRmIxbTBmcGxEN1VTeDN6R2VYeHBnelRwak92TE12dlBndStDV0JlTUtqMlFnWHZqTUFXWmRVSWdMQzZUa2JoelZQWCtJaHJsYngwbEN0ZDVxU0k5eFFyc2dicEY0bnU1NHpaSlIwQzdTUFJzSFhQV1MybEl4WGNsQWtRc3MxSFFzM0pnRVBUWEk5d3FkTC9DSlRWUTkxUEV1bVl3cytkUmNkd0NRNVJ6em1ILzJyUktIa3JuUU1VUDdUaEpDTlBXOFFITndNYTllL0dPZllLalNPaVYzeGdpbDFYaU1SdEI3dnRHWUh4b3MvRDlMV3YwTlNCbFpaVFEyQ1lWcmhaWlRubmFOZVY5Vm83Rzh5UTJJakxMMlZwblgyWWdFZjY0TlM2eVpPWDRFaG9EVW4vb3NLbzB3SHVxT1FGcFoxZm1CVmJrajJ1M1I0dmxXN0h5U2MyM2d6QklsdWdRV05wNkp1N1dPQmRMVkk0WU1XSjNqS0E2SWlMT3FtL3pwajJjaGNoak9ud2xvYWp4TC84KzVndkx5eThoTWVaMTRQK0xkK0x1WkJqeE0wS2FwY2JVcCtiYjdHaTBJVFFZdXZEb2luRVp0RjJqTWRQalgvZmlUZ2ZIMnBLamJsd2IyckUxSkNIZEZDNlFxZlJCMnBkWVo1c3JDak54Q0JBekVadENQb0RaTWJFcWN2RllGUThtQy9DZFBxN3Q4NFdqU01Bd3VPektUSmkweUcwWnJzaWs2U283cnM4ZmYxZ2RQa0VQbzZDSzU2UXFaUzV5b3RZdXQwNmY0dWNGTHhhUTJZQytQRHVoTWRkbkYwa1dmdmRHTWtDQVJEWjBXbVVyZnFxZjNVMEowYURxa1BEVlVPODVJUyt3dzNVY3JkeVNtVElqN2cweFAzditDOG9SZGJFRkpDb013Tis4d0RERERCcUZOTXVEdU1ZMzc5VDNiOGtBbG9ldTdORkVXZ0I1L0gwN3Zqb3ZuRlh6UWt1UDlLVFh6MzdXUFVQVlJ2V1UxNjJrOFI3b0J0QW9nTm5oTnhKa2hxZ252Mm5seXhoWWdBZFBKM0YxY1F0R0xJcTArb1lsQW1jdkFoelJpY1gzbm1UYVcwSTJzYmNYSWp0czZNSnd1dDZsVEE2VjIrOHBheGNNMStKZkZYTXphN0pBc2tZMFpPaFlhSW1BMlYyb3VLMjdybWpja1Z4aFhCc0pSOHNLeTVWMnRxS0Q0d2FlMmdOOU9TUGNXVmw3MktzOE9hMWsvVWV1d2hKMHNZWHJVMEY0RHdvUWRJM0cwVHBQT1A3UmJYdnhnRXgzdm05ZUVna3RZZ3lOYXlIV1kzTjExQTRTTE1ySXNURFYrN05Sa1VNbzJUTzEyQy9xUGJxeFUwSnZCemg5YllXZ2JnbFgxcHg5SUowdTgrVkhXcjBoeFdHeDZVUXFZZTFTaE9IV2Q1SWlFVnh0VUdBSFcwYzhKN1NqdllaVTM0WGtnaHA5U3h3dUQydXdhMUMvR1dvaHdqcVJ6ak1jRkhhNkxDT25lTGFjN0c1aFZEMWNPYzFWNmFlZjJBUlF6d3RxcFlyeUFNajBVekZ5YkF0RE9sMXo5cVIyRTgvL1R2cDJmaE9MQWVKMFlEOWNjVFY3L2hJbEZQWElZQmNNZndieVNHRHJyZ1VVMTJKakJycSt1OWpVeWhFZjBjNXZMbVpuWk1Sa2VodTVpWXl0Y25LcWJYcUJRb09WZVJ5Uk9tbE9ySGlMRkNsNWcrTzJCc2VNbFhtenhUTE9OMnN1RXY5R2hhNE1XdkcwSTNUeTlvYnJ1M3lMZnpLcmRvWlFndUp3Y0NSNHlqSjBzaVN3TDA5ajZTTWEyeXFDZUlsdm4xOFRIdk40em50Sm5Kb0ZHU3NjcTdiTDBLQUZic0psbEMyNmx2RzJXRVduNGkrV1VxazZqT3hmN05EbWdweVlzdjEvQnRDQXp0OGVKMGhBSDRWU2tKMVVOWlNLR25yVkh3blNSbVZ6d3NpdFg3WU1iVzdJTXpUbzEwVWZSVHB0UXRQUFpXMmovZ0hFL0NtUWN5Q1BVM0lQS3poVlk2MitHVWtKTjgyYjZ1M2F1YlhxRmFPYmN6OHlwK0hUUG5ZRkJIMDYzMW1CZEMxSUpKV2thSjVISXd0TU5iOGJ2bzFXQlRZRUxEUUQ0MkdqTnRabnE1Y25HWWprSUFFOTdRSGFoblVReHV3WGtwSEJRNDZkWjd6M0lGaWxYOGthTTMwVWg4STBlSFdyUVlveDRtMDltMmNpOE5wcGxSSXFCM1RaaHhlNGZvWFQxR2dzYmhxZUpWMWd4RVlqckVGdlpodHBYSWlRSnFFbHMxbjJ5cVZXWVljNHo0S3d3MGlGWlkrdGxWNzFFdjlRM0ZYNU9Sb1FoblZ2enVhRGFOdmw4OExLdTdvMzB3MFJrd09kSUtEM1dTZUVZUnJ5TXlYVGlKcmk5bmIxZFZEWGpPdkw2RkhiOXhsMWZWWVBVdzRtM05FRERkckY1eDc5MWc3QXNJaVB2T2w3WGlXTjd1UnpZVDRJczB5R2w4eUVDMUhVUmZWcnhFTW1kajc2TVQvZDhIcGVNUm9xc2txVGZsSGhVVm9ySFNsRGRncFBmTFUyNUswVlhYZWhVYnJGUW1jUFZ5WWJsQXNnK0hZT2doOGVubVc3V1ZTQUdsNXNmanBQV0t3dlBndERjSVVwOUNiSUQ1UUY1bWNGUVpiVDJQY0Ezak9VbXJaY0JRN3ZTbHAyZE5UOXFPWWl0SUhHN3d4OGdENnhhK3Y4a3JzbmErbElFOXhWZUhHRGswcFFUK0p3blBXT3JZNG9JdDdVRXkxWGlnRkFENkNOTEFMSHgxSEYwNDhHZU1GRHZHRE1zVUtndld1VWJRdlQvV0pINTBoVlJqZ3hVQmxxalpWblFTdm1WeVBZOEdpMWZob25NYW9HOW9zUldIWnZha2hmZ2I1czlBVGpnOWxwd0txdW5BZU5ZK2ZPZ05seDdFODBpMXlndS96ZXNlMk9KTTFKVEF0c0J0d1FjQm9GSkNhWGpIMnZNaWp2TitkcjRnTXBlVGtrd3RWVmIyNTMwL3ZMK0dGWHZ2OGtsL21zOFVkVUFKVFA0VElvNnBPd2hkTGRaS0tkYmtnSkljbFBUSVpHak9vclBqcFpPNGN4S2NBMUFPM0xMNmJ1UnJtdkRCZGVNOWU1cVcvZkZlRitWL1NZakJUWHRTcGVSby9LeXRDMytSaWhmaEE2Ui9VQ2ZwL0UyUXI3bm53cUJ4N1loQVdJZDZ3RXkrTWpHN1RiUkZ1Z3RNMzl4ZVBYUDlBT0p0SUNlTHMrWlZic1puSE42MnBOMXZhY1ZnVzFpcUIxcndVMXhPZEhOZk15cnZNalR2VXQzSyt0TWwyRFR1NXZweGl0N08wM2J5Qi91bmtXRnNUNTE1OXNxVklyYVZldXNsMmh0eldYejdmMmhJUjQzbVYzaHZxa0gzOWVhc1FzSDNrZ251YmJNOXczVXZqV0xMMmt2ZDAxbjhKajlsUUVScG5ZczFhVDgwQXlselEwMzVId3RCNXJCMG4wc3RUU0xOVkdSSHlwb1orN0hmcmZESFN3aDNqaWlRbFd0UmdqYnJMOE5scFZOU0prbFVLbVE5KzZGc1BrWk1vR2RjMWZuZ2dOanZUOVhQYWMydGZLajlKWFBEZmZ6MThCR0pURGxuK2FuaXlObGdRRkorS2tWWXdZR1RCU0RsMmZrTDllNGVIOVo3R1Z2eml3SE5ERGRFL2V5VFJPZnNBSTl0OGZjWkJNS05VQUdjZG1SaWljbUFwcVlUeElFeHV5d25wTW0xZEVnVGlqamZiVjRrblFNb253aHRmRzBueFBDRXRtUkxVZU9ha2lGQXJyWmt3ZmYyQm1PK3lSMXRXSkFwOE83SklvaWRMUXBGWlFaRUNnWmRHYW1nb2NNMGNxalhwejZXc3FrMXpLK2JwSHY3VUZPamg2Wk9yOXlqclNrQk5lMnRXdkNJeGtGVmhGY3ZEcHdQbFJ4VFhpZ084dTlFeXZzV3RmVlJvZythUXZKSUIrRG1KZlBpUVlVNUxBT3dGcTVLQ2tuUFg1TE5nVWpkaFhzQnJSRGo5RDRIS2YxYjF6WmZXZlFZSi9vckRjUTlON2Q4L0poL3VwdDQrY1N6SFJLS3ovN1ByWXZUa3F4OHJVY1NDeGlBeTQ5MGY1L1JLWFBiVERyQjF2Ny9KN2Z5NVE4T29XY0s2TTFabWZNYUtGOUEreDhlQ0FTWW5tWjUySW90OTFVZ0ppSFkvbmxNbHIvWnZJd2FYRnpMRzNtSy9PZEtuNkszcERSRmh0YUZOWXcwR1VzZDlNM2R0aE42bjBYQ20rSGNVdnpXR3VOVE1DcWJxYnZmMlliTjNtNjJ6d1EwUUJSYlk1QzExbWN1S1dwYmpMY2hsK1JBT3c3eThGampIV21LYVZFTkNsd3F1WktNd2V2M2NIdGxiNHpYQlNMdGpERnptcm9DV3hPY3NwQlZlcVBtVnRrTHN2UndyRWNybmc3NVJIMndITENINGxBTFRwTTBxZmNzeU54T0xQVW9XM3FJK3puTVplNm95aXV0blJYMFNoWGovNk83eHpmYldTUHpkZVg5ME1yVE5jdENXMk9NWUwzOUNIVlJZSXhLTG5lMnc0WEJtVzRuZUZXN2o1aExraFV2dDhTdnAvY1BTOVdYS2YyZEhwSHVHMXh3WHMwSXUwd2p2OUtMNktKb3NndDFRVXBwb2NZSkxSK3lzMDBjK2tVSHlSdFdmWHo5UnpvWVRMWHZnNDJEZ1pYU1o0UjA1RCtVSHZubUFxenJXREVSLzhTZnJXOUpGMEd6WERJL25GbHRqMWQrc2JweEpIdktZMkZUaE9oS2ZjZmppUHo4bStiSDJDdytaVEtiSk1raEU2c2pDUXc3NnVJN3FrRUpCSHhibFVkM0FMbFRodkRtL05kd0Y5K1g1bDMyenYrc3A3YnJIWnJxZFlvblNLaGVBQ2d1dGZweXczclpMbVNBVGF1WE9WNlYxZUlXTXhxZ1pRU0FxK0RHOENtU2FpdTZsWEUzTC96c3NqTkc4NVN5ZHlXblBBQ3NPUk9MQ1BaeDhLODExbndjSDk0OEptUXR0aEpwbHgwdFRRTGRPREl4M2wxYVE1SUFxa2tKME9xTzcxTTJEWVFCQUs4Z3FlWGdONm5xTGE0MTAzZ3Z6ejJ6cDlBRFZRaCs1UzQyZGQ5MW5rd2pqUGlXcHRqTnU3N0orL3RnNU1OZlFxTkRNaXdQQ2Mzb3ByNVk4WFVnVFVBYnpSQURpdjdOcUh2RlF2OVFDUGtydk9YTnVDU3J0YXRzME1mSm15MEhoSW1QTW1zVVpoTFJGd09sWUZJcUM5cThwbTh4SDBmSklFWTRuaVJWZUdQVFF5ZE42b010WkUzNHRZcGpRUjBFNXpvZUduYTVhYXNDUk1jK1hhR09NaWVVcFVpVWRIMEJTOWRiRGZ1WU1YMW16YTdTN01nOGpQN3RZSG04eFZiUWRmRDM1YWhLWjBxd2tpd3FEK2R4dm1aWGpCK2xxbnNqOVhROVczTTVwWFRlOG9HMy94citGVndDbE1KMDY4SWtnaERCTUFNTUJsSnZPaHRoY0I5cUhHeGNaTUxWNzBEM3MxR0dYSzc5RDdPNWtkSVRuTnNJTkt4aWEzSFBubW9qdUg2SFhTM25PWW43bGVXN1Y0aXRWcVZCTWU1NHFXQldsUUdHclJiYTlaMWN5Z3BWeS83QWxlTG93a3loSVVqK2VzTHBOcGpTYzU2VDFMZ2dTVS9wSGJydkdwb3JHK2N5dGF3eFA2NlZHY3VBL3MzdW9TUEVaeXc3VDErS3RnOUlqVmVlWGFQaTNiVS9nWWN5SW96aWZHa2YxZWNlVnpSQ1I3cGlZTE9OcUJLdnB4alEvS21NZlVQcGpkeXhySlk5RlorZWZpSEVldkZyYTVmZENHYXcvTjZpendRb2dqNzIxQkdvclVMeENYNGlCaHFIejRNbk1UamNBRktVYmZuNGJDOGd2QVF5MnRwenc1TkJWVmxFeWlwQi9Yc2txNEc5LzdGUmZ3dzFHYTZUNUp5M1lqUFVxQ3p0RlRuVWhvaHdHaTJPMnU2eXltQmxabno4T0JiVTZhbXBPdVB5dDZpQzVSR3V5QVR6VVExeEswR3BNY2s2b1pocjRncWFjYTQvMDZaTGpERXJVWVAvcmRQTUZUY2svVmVBS2tKNHpHNkFneDhINnRsc24zSVo3UjZTZS9pZ2NIL2tpTVBIc1VoRHFpRllQd00yNU0rSGFXUkgzNHowMkxFaTg5dXFOQ0cxNU5xQkFlMHI2akJ6bnFkRlRpU0F1eXVMa2MrVG5ObzNGdjRZNU0yOURVQ1VGTVBxTytJN3MveUd4Qjc3elZQZkFLQjdROGdSQXpJZ0ZUSE9VcG5uNHFkNCtBNHVUMExKdnlJdDJRRldzS21GenJzWTBaWGFtekZ1UVZHN2RFbGtYRy9NNUt0R09aRWh3Uk9OYWVoSko4aXBtZWJscjFHYlg2SFhyeC82L1JOd21XSVllN05PWDQ1SE51MU1hODNjV2RSRHJiYXJzL2VBOHJQVGlWcm1VdU14bHV1SU1TK2FET0hKQ3oyL2tXQUxsWnNtVDJXNXlHS0ZONWFaMnVTdFhGRnB5WXpZNXladnVOS2wrZGhrUWdnZ1VBNzBqNUMwYWVIZmlhdFl5eEVDTFlqcTN5OUVmRWZlY3kwb1pXUWpFRU05eHFZZWlpUGU2WmpQLzJNL2NvK05qOElJY3M5MWNtVTRTWENkRXZzd0IvbVVlOWpwNUZmeEJ5bTNkMW1UTEdjZTBUaEJTanJiRHFmU3RUOC9mT3FaRENML3N3VmRnR0JuTXYrc0Ficnovb1dSa2RpWGxGWVYrcDJpSzQwMllTU2tmZnZYbVBpbDZLTTJmdUVFWldKRXozbHN0cktrdXR4dXJLNzRDcUF2ZUMyNkxkVnc1QU90WGxhRW5UU09mbTdJelhXdUdpS2RsaFdjZFl2M2QwSmFEK1VTVVlRQmVZTHhWWEV0M1UwUkM4RGovTEpERWxhK3M2MFJmOHpSNENwSlJPOUhZVTlFeEZTR3Roemp3cmI1T1EyV3RhWEF6YWhvdVBidjZYZW5jWWhzZHVkZGlKckdhR1VpdHVXdk5mOWRLQWVXNVhZNVNHRXNNUXZoY3pkenduVEhhNjhoK3FEdnlESkV6b2szazF2RTZoMFppbEJXR21TVndrL3ZLTVYxZUt6L2RBc01yWUFabVhyOGQ4TkVJWmhZL1RRVDFzNGpPaEs5ZWppdkt1SmxuUmtoVVhvSTZWMC9DdnA0enpKdU43cEFwL1JFNWNpTnQ2M2s5S3VYMk5lbzRHcUQ0enRBZGxya0loVWRNdDFEM09uSkU2ZjRFNml6SzFGKzVHcGluL0IvMm5oVVc1WUpKa0IvMUtvdWZ5YUpmZmhKc3ZqYXAyVzhqTGRpVU1pa0tMRVloMVhEZWVlMTRVSTB2VVBudU5sR29zS1IrVFRHQkxzdXZWV21PbDkvYWtVWDV5Rjh3ait4NThHbk10LzBFc1djellGWHk2RXF0MFVGVnpEdkFKMWFvMnFrUTQ1dHJsRFJ4YWc3VGFkclZCb2lidGVTbXN4S1dGWkF4ckM2cE54SjAxWTFpN2pWZ05CMERHZjhmaWlmSlhqV25pNU42Zm56SWRnbmhEZEp1U1FNTEtiYkFaUVhBV1gwWkg1aU9LRUFXSGhySWd1cmxyMXRQOGhxd2tHTm84cXpQVGJTYmF1UEZMKzZhU0ZpZzJnTGtqOGluMzVVd0NScXNHWm01S2V6K09wQVJiblFtYWUzVUh2TVNYd2xIdFN6VUhrMjJQejdpeWdkOUZ5NDlCd2UxSUl2RzhmTDNIUWcyOGFVcXMvbWdyUkQ5enZPYTA0a1MzdlRxMks5NlFURkVRUFdiMHZuQVpnaTlIQlY0QTFyMzVNUU1NWlpZUTE2OEV4SWRJQ2pTcHRpZVJTZ1pOR0dlc0xIODlNclVFVkROa0lMbEpsR3JPaXBUYkk2dDEvMmJSNFlpN2liWUpLeFRadHVVb2ltRkNWNGowekYzU3plUG9ES3p0RTRIbGJoQTF3bW9EK3dTdExvRnV2VVVqQlVlMEUzNzQyRjJibHZha01SdmlUL0IxTDBxYXo0K3E4djc2SHFvdU5OYlBBOXdEY3ZuemlueWVuZ0RKd29VV1p4ajBFSm9ESHpWdUIzWGNnc1ZtVlRScUlFWWdieGZuc3RMdDhybEJ4MUgzSU9mQ3JBL3VnNDZwaVhRZ0t2bGtXQXZHZ0cvUXZUUlVraEFDbEo0czkwa0VVTmxlSFdWazZ5Z1JHeXNlTVVJUkdGa0NHYURJbVVnVm5YUC9vMmlkTWtBb1hUcHNSeG5PMXdJSXQ3VFZrZXNmZXMzbnpxVldZNmViRndrako0czBqaWFaODBOdjh6MEp2bFNuTTZTTWVKY3UxcXdZQUpFZzBwOHdOK3FHN2FlMitNSUswSHlVbTZRc3RQeUhVY2QxV1JxM2Nkcys1SE1WUGk5c05IVFh6WTRSL0pGVHpSbU94bkl2VXh0QmlMbDVha3d2YzVLUCtEZnEwKzdEdy9nQ1R1Q08rNVAzRUVPOUNBbEtWbGJpclF0SFBVMk5UVkQxZCtqenZwZldXMnZxei9CZ2FxekFXdG95UmlzUVV4NTN2TldEZ0VBQ2s1eWlqK3cwVVNjUmg5cEp2T0ZvNkYyNkNEbXd0RXdwWld0cHFoYk5tYzhXc2lQbElqQnhYWkY0ZjZUQmU5dTVjZzVFd284bmlZN2JNRW5Xb0lGRVVCd2hoclRJMXBlckJlU0R4Q1BrTTFFRGxsV2tQWGxoNSt6enZTZGdSL1c1dTJUek8xM0ZzaE9zWnF0dTlQSjY5MDV0ZnAxU3ZwejFtSmQzQUQ2c0dKcXlxeWZNRTNrQ2ZCOGgxeTA1RWN3dVEvSmpjeUV3OWlSOENIaGphb3ZUNTY0OXlRQ3lOekNzRmFLT1RkWVlkeGt5UFNUOU9GN2RUeExQMUdUSGJJcW4vT2N3TXNiRVZodUoraVovY0dJeGlxZTg0bitqQlQ4S3lWd1ZFVERoRXdLS0prdm9landUZzQ3N05rcS9ra3haU3dndCtrQXZXSlVWYlJYN0hPbmZNR1VqbGZhTzliV0RhN3hJVm9nQkVrN3VQVWFrQ21UZlYvS2xVdWxwTXFpN245TFhKcnBRSFBWZ0tmdS9ETUhVdVBUTXFjL0ppYWR4UzdkeDJhRTlvd1JveUg0dmQ2bzdkR00va2M2NG9oMTdCREI5NUd5Tk5Ba20zQktkKzZXWHRGbmt5amQvS2d0NWlMdFptcXQ4OTEyLytLRVY0Z1RUMEpJb3pNdlhDeTJHdThPcXhQUTczNTRJbTJONVlJcVBaL3J6aFRmUkg3M0F4MzFmWVFSemllSUZCUU5HR3hWZ1dhODZ6UUxBZnlhTjlyRERFazdleUc4dVR2a21mMjV3QnMxd1ZuRUJhRXA0MWhkaXJMaFB0K2crdU16aGR4Ym1rZnN3MVZ5SVJYcVV4Q1o0K3NoekR4aGt0Nyt5RHVlVzYvclc4cHMzODJVK040Q0w0U2N3MEpMa1NnOC90dWdhUzZQbzhQV1NVNUlBRXpXRTdrUjBHM1N0aHV6WEdoajkyb2FzREdXSldzZGZMUjQ4Wm5KRXJRdU81NjhqcnFoODEvYlZKTUFqdkk4cFZaRFAxRFU2a0FrNVJITDRsZ0J4c0ljQ1NWUzFtMUNXOHhjUmtVY0YvaXNwNzVRcmRXb25mczRuTndCMTdBc1p5NEFYclBuT3N5YllkQ3RJRnhFWmV0aXhHTUtCaFJhSXk1L3B1UkkwSVgvM0wvT1FSNkdFcEd3TU56MEhaS1BjZWRNSmNVQ2F4dStqZ3Q3aFBpY0FPQ1h4eWlhcWlOQzhJZ1VTS2tSZTYwbkVxaFBWTThkc2JrcFk3TkIwZXJINGEyUzRUaXpZakVCZnp6cDMzKzlmdUV0K2tLbVRnckpSUnFuRmdBazBkYTdKZUd5QXA2T25qclZxL0tQcWJuc2xxanhMWml5dHIyQ1lBZWtKVS8raU5palNrV0RlWTB3ZUZVSlNWOE9EZDk4aWRJQSt0TGFTMzZGQjg2TWxhbjh2eElsK3BOcmFYU0RWTWFwN0JBUHVwd1UvSHlIWEhqc25tWUJaRFRWY2NNaVhldVRYa1JxNmdJdDFsd2dNNnBVTFpVSEtINllzczFrWGdYNVFXZExDWHZrcU9YTEVpMkRHdVlwb2RmSmw0L0E3YTM0ay92RllHZkJCaWk0bWVySGRUMFMwUXphWGpRWDJ1ZGNxZWRxUjBka0JYb1NvVTV3cEF1N3d3OElrV2RacVBJYVVzVmhQdHdIQjRTZ1ptbFpnWitoUVRJMUtya3pqdnFqWm9KbnNHWXN0L0phM0UwSkZIU2xpYzVZZkE3dVAzVU5aWnB3WkRZVE9EK1NSYVFCcnh4TUhCaWVpYjBrZmJ2YnV1bTZZdWN2T3VBcE1kS1piS1FkSnVyeTRYWThZTU5JZ1JUQ0ZtTzlST0lqdDZNd01wc0VBN2ZiOGYyTWtVR2pSYi9XYisvM2M5cjNLdXYxaDJZQlFNV2JJaGc4RGZkTjlKVldrOXYvV0tLemhGQUNMUVZ2b1NRdkFSMlZ6MmI5cVJweUpkOXRwN2xtZmh5YmFwTzh4aHBiak9EK2FUdGF1Rkt3S3R0QmZUMGxjYnNJM0YyTVhabWgyNGkyQS82N0JGL1prRUtYWHc5VW83QldoV0JST2NXZ1hudklvOWhmZGJMZ25wZWhhWUpmR25hcXAxL0Z1RlN1d0VYbGhMay8xb0ZjTXN6ZTRLcG1RbDJRYmY3cGJkOWdZczdoUkw5ckptbHErZ2xJSVFRdTljem8vWG1JYjVkSjNUbW85M0liRys0M1pnNTRsTjBBbU40MURkNFQwbVl6Y2c3cW1ZL2Ria2w0eUZNMWpqRFNneWcxbnF3LzlKb0Fpb1M1ZXFYUFV6OHlaMHk3Q2dCNEwrWFRwT2poSmlOZTNhaHVtYi9hUWRNbUhmMVpyYUtQRGRjOEZncmViYUxpYVNGS0FJcC9YN2tlTlJOdURhNi8zR2dXb1dxOGN6MTFqRCs3VjlRME95MWFLT2J3dTE1UHRWeFJtNW5Mb2k5bE1lY285YnlXOGY3U1JqNEVEMGdRejY3WXl0b1FqeXJmbC9sSzZnc2M5SHFmUmVqN1ExN2g5QlNtcnNKRzFlY3JHNnVRcWNWYS82Q3pVRXdwT0tLdjNxVUI2L0pUaEEwNFFFRHYzUE84TW9oejBNOXRkaldSaDR1MXNvaVJkS1dhY2FDclZtNkN0cVdlNHRPbGwxUExnUVh0VUxCWEw4T3EyM3NYZVdMa3NYVXAvWWU0S0g1ZStUcnYvK3Y2cXFHaFl6WU9jdk9BZ3VoYVlnRzFQSytoeDNZN201TldEUDJIQUg1RHFRNVIzWVQ3ZnluWmJyb3JFVlo2aXdmMFdWMzhDR05EalExYUY4bldlY0x3L2FvaFViM3hMcU1FbXpRaUFKcnNEZjZRK2xBMWZHaGlzdmxleWRhNytYVFE4WVVEdlF3TTZyenFFN1Bvbm1FRGdiSkJmcFlycTZSTEZsNnMxWCtNcWtBcmNUTHdHL0lJbVZoMFNZZllnTHpZbHJTMFRtRWhNa2hScUZ3QkpDK0g1RWl5QzlTNjlUOXRhQVp1Q1BzS1FNSnpMbkZBQWtDSlRwbHVHSVE3K3grNWpWUFpPNWtVUTlKTWJIcTU3OEllLy9Mcnk3cTFkc2dQOWhiYS9hZ2VHbThPQTdCaDhTMDh5M3lsbXA3UVFDYU5tV1dzWjhYNysyV3N4Z2FaemVpTXNKN2VTWW5aNUpicElzOHhrKzZQNmJNS3hOWXhWKzZBTStpc1g2TTNOTEpGNTBpSEhIOEFXTS9FQVN0dktJeGVwNHpQZDZpa21QVVBWUmFaZUVaaHpOQzArQkVQbWJvUEdSTDRNRmdXK09YYVdhL2NCZWNUcXdsZm4zOStFNVhOaGJuN24vWnkxZjczMVMzTHFCeHh4ZGpjc0RCUVhsa2FycUwwUnpYT0JvUmhqSnp0NmZObkM2dzVDeU5DakZveWVMcktJQ2xtNDZBeVJqOWhGUE1Fcm94dklXNVo4Rmprc3pENC9MOVhESW1ZdGc3WllzNGQwRkdVekhoMklRSmlveHRKMVNsendvYjNFSUU3K3N2WFZoSGVURkxwTmpiRDdtNldsN21hZzJia0FNKzZmMU5MelVmMDh1aUo0SG1McFdoU1NmR1o4L2ZBY3F5TlFIcGNpRm0rR09LaDNTU0E4bFVhNzJnUFJZdVE3WkdYbWVuVkV1dTlPRFJxRU9Yd214dU5hR0RiaUhJODFuYUdUendXNC8yVlJJRk4wK2dGdThQSFNha1kvVXlOZEsvdDJYMnU4YmVkYXI5SkVGdW1jTnJEZ0YyVERoVERqT3lMdnhKclZKdWs4TXgzMTZtOVErenEvcGRVNVpOazY2dGwxNDZnRWZSOFVHdE5ienF1WXhXRi8zd0plNmp6OG4xdmdEdnpNOXp4emk3cVZsNWVLWkNXWlFqUWNFVGdub0hPNUlPeUdYWnBaSEE4UTBVbi80RHJ1UXFpSGovM2NNZUhyUWJIa2RqL1B3cHdqdkFGWDhQaWRDWWY3ZnZOMjdBdDVhV1lHQStSQi9IN0UyUGJMT2VnT1ptN1dUVjdMa0ZNT1VUZ043N1ZWUGFRM1hzSVhyQmJhYjI1ZW95aFFicFg4YXBYSEFQRjRjeTZYalB3YWYzVC82RnlIeEhtY2pkMjJJanFyb3FCd01KK3BDTXNmV0pQcU0zdlN6bUFzUnJ0Y2FCT1h5aE1ZQUtKcU5wbC9RcXR4ZG93cmxqRUozTExOUTVDM3UxdlZlcXl5MEdDUDZ1UElBem45NDI3REFwcHIyWG50cnhLRjhpUVVCQnNuSXJxQlFtUkhwME01SStMamtpM0NERm9sU3pCYmdqMkRJOUR4RHhOczhMMzBMTWRKaDkxN3F6SUNCWndSK3c4MExvU3RIc2NsUkhQVWl6M3NzYzAwZy9tSHVaQncvazlzZFE2MzFEN2VPdTlzcURQOWxEeTZsUzRjc2hmdHVaY0l0N1c4L2FXa0Rkeit6YzlJNjcxVWNTZEN4MXdqRHhjbHBOTmxHdjNJQS8xOGdSeDNQN1VreWFiRDFNOGJLS2x2VDBVcVY1eWZaclQ0bzV1QThETitLOWZ1NTlYdUsxWk4wc284eVM2V2hYb3BTS3ZselVsUDhKSUVaa3o4MmFHWEY4aEhacFd3STZkRzhNTHlNN0Y2VDRkZkJ2a2xjRWdKSjloQzU1L2hmSnVXWFVJMUp5YXlXOWllTzhpd3hOUXp5azFnMUxSTmFTdjVsUFN2bXdQd3oyeXRmTnZwd1BhbUR0YU92NjBvQXkxSHdjZFN1b1RMNER6ZjVnMXloRUZMWjc4RWxkc3RsQmNDY3VlUm00dz09IiwibWFjIjoiN2RiNWYwZDhhOTQwNWE5MGExMjJkODU0NDlhMzhiMjBkMWUwYzBjM2EzZmNhYWYyZjQ1OTc3NzkxMDcyNGVmNyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"))
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod)
+  else // Plain browser env
+    mod(CodeMirror)
+})(function(CodeMirror) {
+  "use strict"
+  var Pos = CodeMirror.Pos
+
+  function regexpFlags(regexp) {
+    var flags = regexp.flags
+    return flags != null ? flags : (regexp.ignoreCase ? "i" : "")
+      + (regexp.global ? "g" : "")
+      + (regexp.multiline ? "m" : "")
+  }
+
+  function ensureFlags(regexp, flags) {
+    var current = regexpFlags(regexp), target = current
+    for (var i = 0; i < flags.length; i++) if (target.indexOf(flags.charAt(i)) == -1)
+      target += flags.charAt(i)
+    return current == target ? regexp : new RegExp(regexp.source, target)
+  }
+
+  function maybeMultiline(regexp) {
+    return /\\s|\\n|\n|\\W|\\D|\[\^/.test(regexp.source)
+  }
+
+  function searchRegexpForward(doc, regexp, start) {
+    regexp = ensureFlags(regexp, "g")
+    for (var line = start.line, ch = start.ch, last = doc.lastLine(); line <= last; line++, ch = 0) {
+      regexp.lastIndex = ch
+      var string = doc.getLine(line), match = regexp.exec(string)
+      if (match)
+        return {from: Pos(line, match.index),
+                to: Pos(line, match.index + match[0].length),
+                match: match}
+    }
+  }
+
+  function searchRegexpForwardMultiline(doc, regexp, start) {
+    if (!maybeMultiline(regexp)) return searchRegexpForward(doc, regexp, start)
+
+    regexp = ensureFlags(regexp, "gm")
+    var string, chunk = 1
+    for (var line = start.line, last = doc.lastLine(); line <= last;) {
+      // This grows the search buffer in exponentially-sized chunks
+      // between matches, so that nearby matches are fast and don't
+      // require concatenating the whole document (in case we're
+      // searching for something that has tons of matches), but at the
+      // same time, the amount of retries is limited.
+      for (var i = 0; i < chunk; i++) {
+        if (line > last) break
+        var curLine = doc.getLine(line++)
+        string = string == null ? curLine : string + "\n" + curLine
+      }
+      chunk = chunk * 2
+      regexp.lastIndex = start.ch
+      var match = regexp.exec(string)
+      if (match) {
+        var before = string.slice(0, match.index).split("\n"), inside = match[0].split("\n")
+        var startLine = start.line + before.length - 1, startCh = before[before.length - 1].length
+        return {from: Pos(startLine, startCh),
+                to: Pos(startLine + inside.length - 1,
+                        inside.length == 1 ? startCh + inside[0].length : inside[inside.length - 1].length),
+                match: match}
+      }
+    }
+  }
+
+  function lastMatchIn(string, regexp) {
+    var cutOff = 0, match
+    for (;;) {
+      regexp.lastIndex = cutOff
+      var newMatch = regexp.exec(string)
+      if (!newMatch) return match
+      match = newMatch
+      cutOff = match.index + (match[0].length || 1)
+      if (cutOff == string.length) return match
+    }
+  }
+
+  function searchRegexpBackward(doc, regexp, start) {
+    regexp = ensureFlags(regexp, "g")
+    for (var line = start.line, ch = start.ch, first = doc.firstLine(); line >= first; line--, ch = -1) {
+      var string = doc.getLine(line)
+      if (ch > -1) string = string.slice(0, ch)
+      var match = lastMatchIn(string, regexp)
+      if (match)
+        return {from: Pos(line, match.index),
+                to: Pos(line, match.index + match[0].length),
+                match: match}
+    }
+  }
+
+  function searchRegexpBackwardMultiline(doc, regexp, start) {
+    regexp = ensureFlags(regexp, "gm")
+    var string, chunk = 1
+    for (var line = start.line, first = doc.firstLine(); line >= first;) {
+      for (var i = 0; i < chunk; i++) {
+        var curLine = doc.getLine(line--)
+        string = string == null ? curLine.slice(0, start.ch) : curLine + "\n" + string
+      }
+      chunk *= 2
+
+      var match = lastMatchIn(string, regexp)
+      if (match) {
+        var before = string.slice(0, match.index).split("\n"), inside = match[0].split("\n")
+        var startLine = line + before.length, startCh = before[before.length - 1].length
+        return {from: Pos(startLine, startCh),
+                to: Pos(startLine + inside.length - 1,
+                        inside.length == 1 ? startCh + inside[0].length : inside[inside.length - 1].length),
+                match: match}
+      }
+    }
+  }
+
+  var doFold, noFold
+  if (String.prototype.normalize) {
+    doFold = function(str) { return str.normalize("NFD").toLowerCase() }
+    noFold = function(str) { return str.normalize("NFD") }
+  } else {
+    doFold = function(str) { return str.toLowerCase() }
+    noFold = function(str) { return str }
+  }
+
+  // Maps a position in a case-folded line back to a position in the original line
+  // (compensating for codepoints increasing in number during folding)
+  function adjustPos(orig, folded, pos, foldFunc) {
+    if (orig.length == folded.length) return pos
+    for (var min = 0, max = pos + Math.max(0, orig.length - folded.length);;) {
+      if (min == max) return min
+      var mid = (min + max) >> 1
+      var len = foldFunc(orig.slice(0, mid)).length
+      if (len == pos) return mid
+      else if (len > pos) max = mid
+      else min = mid + 1
+    }
+  }
+
+  function searchStringForward(doc, query, start, caseFold) {
+    // Empty string would match anything and never progress, so we
+    // define it to match nothing instead.
+    if (!query.length) return null
+    var fold = caseFold ? doFold : noFold
+    var lines = fold(query).split(/\r|\n\r?/)
+
+    search: for (var line = start.line, ch = start.ch, last = doc.lastLine() + 1 - lines.length; line <= last; line++, ch = 0) {
+      var orig = doc.getLine(line).slice(ch), string = fold(orig)
+      if (lines.length == 1) {
+        var found = string.indexOf(lines[0])
+        if (found == -1) continue search
+        var start = adjustPos(orig, string, found, fold) + ch
+        return {from: Pos(line, adjustPos(orig, string, found, fold) + ch),
+                to: Pos(line, adjustPos(orig, string, found + lines[0].length, fold) + ch)}
+      } else {
+        var cutFrom = string.length - lines[0].length
+        if (string.slice(cutFrom) != lines[0]) continue search
+        for (var i = 1; i < lines.length - 1; i++)
+          if (fold(doc.getLine(line + i)) != lines[i]) continue search
+        var end = doc.getLine(line + lines.length - 1), endString = fold(end), lastLine = lines[lines.length - 1]
+        if (endString.slice(0, lastLine.length) != lastLine) continue search
+        return {from: Pos(line, adjustPos(orig, string, cutFrom, fold) + ch),
+                to: Pos(line + lines.length - 1, adjustPos(end, endString, lastLine.length, fold))}
+      }
+    }
+  }
+
+  function searchStringBackward(doc, query, start, caseFold) {
+    if (!query.length) return null
+    var fold = caseFold ? doFold : noFold
+    var lines = fold(query).split(/\r|\n\r?/)
+
+    search: for (var line = start.line, ch = start.ch, first = doc.firstLine() - 1 + lines.length; line >= first; line--, ch = -1) {
+      var orig = doc.getLine(line)
+      if (ch > -1) orig = orig.slice(0, ch)
+      var string = fold(orig)
+      if (lines.length == 1) {
+        var found = string.lastIndexOf(lines[0])
+        if (found == -1) continue search
+        return {from: Pos(line, adjustPos(orig, string, found, fold)),
+                to: Pos(line, adjustPos(orig, string, found + lines[0].length, fold))}
+      } else {
+        var lastLine = lines[lines.length - 1]
+        if (string.slice(0, lastLine.length) != lastLine) continue search
+        for (var i = 1, start = line - lines.length + 1; i < lines.length - 1; i++)
+          if (fold(doc.getLine(start + i)) != lines[i]) continue search
+        var top = doc.getLine(line + 1 - lines.length), topString = fold(top)
+        if (topString.slice(topString.length - lines[0].length) != lines[0]) continue search
+        return {from: Pos(line + 1 - lines.length, adjustPos(top, topString, top.length - lines[0].length, fold)),
+                to: Pos(line, adjustPos(orig, string, lastLine.length, fold))}
+      }
+    }
+  }
+
+  function SearchCursor(doc, query, pos, options) {
+    this.atOccurrence = false
+    this.doc = doc
+    pos = pos ? doc.clipPos(pos) : Pos(0, 0)
+    this.pos = {from: pos, to: pos}
+
+    var caseFold
+    if (typeof options == "object") {
+      caseFold = options.caseFold
+    } else { // Backwards compat for when caseFold was the 4th argument
+      caseFold = options
+      options = null
+    }
+
+    if (typeof query == "string") {
+      if (caseFold == null) caseFold = false
+      this.matches = function(reverse, pos) {
+        return (reverse ? searchStringBackward : searchStringForward)(doc, query, pos, caseFold)
+      }
+    } else {
+      query = ensureFlags(query, "gm")
+      if (!options || options.multiline !== false)
+        this.matches = function(reverse, pos) {
+          return (reverse ? searchRegexpBackwardMultiline : searchRegexpForwardMultiline)(doc, query, pos)
+        }
+      else
+        this.matches = function(reverse, pos) {
+          return (reverse ? searchRegexpBackward : searchRegexpForward)(doc, query, pos)
+        }
+    }
+  }
+
+  SearchCursor.prototype = {
+    findNext: function() {return this.find(false)},
+    findPrevious: function() {return this.find(true)},
+
+    find: function(reverse) {
+      var result = this.matches(reverse, this.doc.clipPos(reverse ? this.pos.from : this.pos.to))
+
+      // Implements weird auto-growing behavior on null-matches for
+      // backwards-compatiblity with the vim code (unfortunately)
+      while (result && CodeMirror.cmpPos(result.from, result.to) == 0) {
+        if (reverse) {
+          if (result.from.ch) result.from = Pos(result.from.line, result.from.ch - 1)
+          else if (result.from.line == this.doc.firstLine()) result = null
+          else result = this.matches(reverse, this.doc.clipPos(Pos(result.from.line - 1)))
+        } else {
+          if (result.to.ch < this.doc.getLine(result.to.line).length) result.to = Pos(result.to.line, result.to.ch + 1)
+          else if (result.to.line == this.doc.lastLine()) result = null
+          else result = this.matches(reverse, Pos(result.to.line + 1, 0))
+        }
+      }
+
+      if (result) {
+        this.pos = result
+        this.atOccurrence = true
+        return this.pos.match || true
+      } else {
+        var end = Pos(reverse ? this.doc.firstLine() : this.doc.lastLine() + 1, 0)
+        this.pos = {from: end, to: end}
+        return this.atOccurrence = false
+      }
+    },
+
+    from: function() {if (this.atOccurrence) return this.pos.from},
+    to: function() {if (this.atOccurrence) return this.pos.to},
+
+    replace: function(newText, origin) {
+      if (!this.atOccurrence) return
+      var lines = CodeMirror.splitLines(newText)
+      this.doc.replaceRange(lines, this.pos.from, this.pos.to, origin)
+      this.pos.to = Pos(this.pos.from.line + lines.length - 1,
+                        lines[lines.length - 1].length + (lines.length == 1 ? this.pos.from.ch : 0))
+    }
+  }
+
+  CodeMirror.defineExtension("getSearchCursor", function(query, pos, caseFold) {
+    return new SearchCursor(this.doc, query, pos, caseFold)
+  })
+  CodeMirror.defineDocExtension("getSearchCursor", function(query, pos, caseFold) {
+    return new SearchCursor(this, query, pos, caseFold)
+  })
+
+  CodeMirror.defineExtension("selectMatches", function(query, caseFold) {
+    var ranges = []
+    var cur = this.getSearchCursor(query, this.getCursor("from"), caseFold)
+    while (cur.findNext()) {
+      if (CodeMirror.cmpPos(cur.to(), this.getCursor("to")) > 0) break
+      ranges.push({anchor: cur.from(), head: cur.to()})
+    }
+    if (ranges.length)
+      this.setSelections(ranges, 0)
+  })
+});

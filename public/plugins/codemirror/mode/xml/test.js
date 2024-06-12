@@ -1,1 +1,51 @@
-ENCRYPTED::eyJpdiI6IkpEcUJFKzYzbkJoVUJOY3MzSkVsSHc9PSIsInZhbHVlIjoiY2FVOFpUMHZUa0psRmlXbmM5ZU4vWFc4aDF0Z1J3anNBbERnUzgvczVmUWpoUUZnaGNxZXhYSnFVVVRBaDVQVldVRGdsaTJVTDRVWEY5d0ZCd0E2MVhTNjd4dTFiaW9TYXZ4ME1MRlRobGpJMmlTZzJIQjlqSlc1SU1DMUFuSFNYVHQzMXl2emNSMnZ0VXRoZWpMS2NmTTlKZVVEUVQ1UjloOWxHSmxQbmVFZGJhSVFZOEw2OEJVM3NlYlREeURrL0M5azB5dDBtbTRQL2kvS0VIamg3OWRjMGdUTDdDZlU3TFJyWUNVaVNxNnQyM1pYUFdFN2l3WlBodTBQbGFpckp0bUxZSm1Ib2tXL2dOa2tSQ2V5b2t0Mkp1SXJpajNWeTFZa3U1WFd0TjJua2RsT0U5Tmw0eEVlY3BON2cwVlkyNXRleHBFZG5KRWh5SzNLWjlrbkd5Zy9jd2g1WjBkc1ZoTzhLYXVDWlNtSTZmQkV3R1dldjNJbVRseU5hWWtsOGhkWFF0dGNrWjg3akNFTVk3djZVM2U1b2x5RSt4a25wTnV5aGhTd1BBM0tyOWFROXdEckNiT2FtOG83S0s1M0N6Y3QyMW5GTkNBSXhPTVpqL2tWYm93Q1dzcnpESG9vWDBmWW5RcE94SWRRbjhEaUFYbFRTMGlFaklSS0FBRWVZZElvWjczY0pON2ZwdGF6N3pqZHRLQ2FrL2I2VnZ2M21vRUNPODVHcGtNRDhScFQxZWZSWDhXdVk1U3Z6SkhpRDl3djd1d2F2a3JLMFF6NWgwenk5NU5Makx5dzJYbEQyb1V6emNoVXhRNUpDNlcxNUFBUWZkd1g5ZXk4d1l3aHMzY2FxUXE0YWptNHkrK281cGZrejNWbXp5REE3a25EbVprYzFjWUYwSzFabjFsTUhtaTlhK2Nha1p3aDUwWlRhQ0NLWFAzUWk1Q3NJNFlHVm5GcmFXMFZiRVRDY3c4RU9Wa1UyOFU4T3lYSkg4NGRyUXU4a2N0WHcyQVI3U2lKb3hueVVTVnJJbWNoeWw0UmZLc1pDK0NTWlMwRnRDRFBiK1pVYk9vK1NrQi8zeVQrRTc5Ty9leFN2a1JHZDNZZHdJRmNhN1FIT1pKdWR3bUNHeW52dUQyMXVXZmg4RGdtRjRHU2RCWEFyQTI1bllQYUljQW9ZNUtSbUJoQjFNbmppcXhKYUJ3b2pyRDhJcldmMHc0OTRWRUM4QmZSWFpLR1QvWEY1dU45TkIyeEpnajFsMk5oTktzUjd2NkZENjdCQnRKdFpVNy8zSGdwWWV0N1E4eXhQcDVCSkV6Wkc0eWtCT09WWEhUdVgvRU5RYzNGSzR3TWVwWkgyQVN4RkVIS3htaFFSME44cXdaVFdpdk9DVzdVY21XY3BSbjBlMDZMbE9TZU1iR3MzenZNdHM4SWNQaDVkN0RVV3dhbEw1QjhxS3pxMlpJc2ZYb3ZKUmVjOGZZWVdSSXJMYTN5cnc2dXVVR3FqMC9yYStBdEd3MGZhTE9LSEprM2dZTnRRNklaWDdvbWhCRiswVmwrTjVBMnFkRGticDhjUmhRQjB2S3JmZFpHTjBGWUlUQ1N4S0tJRXlhSUF5TEtZeEZ2cWdyYlh5Q2JDMzFBa0I3MkZZTHdQRGFydVVWekxuVTI0aHVaYWVYb0ZhbnhKNUNTbFNJSEt5eGVLTTc2bWtpS0x4aFZxaFZUVXJUVFk3dzZPVk5uK09yZ2owSzZrTTJEQ0VTYVdzVW84a01XR25NR2pIUjlPWkxRN1dGeEp0MGcwbVZKYXZsQlgwMWMyOW1pblkzRnJPbXowQTc5d3VrSG9xdXQvTS94M1BQbHk4ZjRla0MzLzFFbXJ4c1hYVUwxZ0ZkSXcrd0tmMkhkeWhYa3VXWGxmeGFPT2JBQ0VNN2xFNlVSOHlRbFpnLzdrcXpHSWRiSW9qK0xhYkNjMkxDK1FwaTcwakp4cFk4MmxqT1NFdkg3N003WktiR1VRWGpaT1RaS0s5MWh0V2RDRVc3UWpDRjBBbUY3RWNYRkE1eEs4ZWwzbXNicHpuQmk2MmQ3a1lKY2xmeGFzVjJuVTZHM3pOVkxKb0huQlRyWENSSElTdDk3dmxLQWY4UVFjSERJY1U2V3ZkWSttaTh3YzJPYTkvMUM0aEpoOXZ4VjIxYUVWc2RyU3J6R05OS09QQTZGSUtiN3lkTjJYdWlhT05zbUVSWi96bTkyb3FGZk1UOXlQZjhlQ2d3Z3ZhV2htS3ZsSXZuUUlvcDZCbXlaWlMrOCtyUnRlRURaY1dCaTR6NTJWcGt3Q0hoV0I2RGIxLzFuTmpBaEIzOTV2OGZqSVhCTVF0WkpjdHc2TUE0S2JvMzI4TUp6Vit3T2VqZUV5WjFVd2ZnOXgrVjR1Ky8xYkFCbVZFcDVyQk16b282RjZ3K1c4bWVJRUZTYjM3UGpoUGliV2RWSkdoMXJhZnFyN1I0RGV3YWZ0cnNIK0Y0T3NsRGFaSDJkTTcrbWhuejE3cWlVV21aTzNjOFhjSFFZbTFBNVkzOHJ4cHk2Z0N2K3QrWGxBcndFYzgvb2JGRnE0VmljM1pWRUs2RFBTNjBuSFVLRkdUVmFhUG9Iam1PV3c3ZEJUMy9ZQkErdDBYRG5aY2NZZldaNmJqL2syMmgzWjdkSmhzS2N0L1ZoYnBBRW8yV1NYblZLL3YzMFMxUFNWQW9jajlCTk0zS2hyVVlhSGtRSS81ZTdsWnl4RlltZHgwTmdWekZhV2hEM2xGVDZKN0VTRnRqS1BBMDFZUmNkQ0tNenFKTktjQzN2Y1h0WitBQnkyOGVxZ2tiTHE3ME5Ldk1BSkp3OWZrOEZKL055YnN6NFN1RDVhdjR5S05kWGVsNGwxWEhLZXlJK0ZCWXdEaEdrVUplcEJkdGNPeEdWNFNSUVJtcEVYQ3BWN3NlTzVkakJiY0s2am8xam9EQ2lTVU1CWVRHMUJKN3hzNDhGdVZQOUpHVVQzbEpqc2g4djJNdDU4RkVLVUJWNTQrelBkQXNDNDIxR3I5eng1N2FNSTR3Z1FmeVdSZ0gwc21oRVdNNVN5SDc3bXd0ekdIYmtlNXM3bHAyNFBzUmhFbkQwRlVUc2dTOFQwQ1BlVlF5UVhKYz0iLCJtYWMiOiI2OTViMGVjYjAxYWU3MDQyM2QwY2IzNmZhNTliY2RkYjUxOWJlM2VkYzQzMzMxMzk0NmMwZjNmYzZmZTQxOTk1IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "xml"), mname = "xml";
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1), mname); }
+
+  MT("matching",
+     "[tag&bracket <][tag top][tag&bracket >]",
+     "  text",
+     "  [tag&bracket <][tag inner][tag&bracket />]",
+     "[tag&bracket </][tag top][tag&bracket >]");
+
+  MT("nonmatching",
+     "[tag&bracket <][tag top][tag&bracket >]",
+     "  [tag&bracket <][tag inner][tag&bracket />]",
+     "  [tag&bracket </][tag&error tip][tag&bracket&error >]");
+
+  MT("doctype",
+     "[meta <!doctype foobar>]",
+     "[tag&bracket <][tag top][tag&bracket />]");
+
+  MT("cdata",
+     "[tag&bracket <][tag top][tag&bracket >]",
+     "  [atom <![CDATA[foo]",
+     "[atom barbazguh]]]]>]",
+     "[tag&bracket </][tag top][tag&bracket >]");
+
+  // HTML tests
+  mode = CodeMirror.getMode({indentUnit: 2}, "text/html");
+
+  MT("selfclose",
+     "[tag&bracket <][tag html][tag&bracket >]",
+     "  [tag&bracket <][tag link] [attribute rel]=[string stylesheet] [attribute href]=[string \"/foobar\"][tag&bracket >]",
+     "[tag&bracket </][tag html][tag&bracket >]");
+
+  MT("list",
+     "[tag&bracket <][tag ol][tag&bracket >]",
+     "  [tag&bracket <][tag li][tag&bracket >]one",
+     "  [tag&bracket <][tag li][tag&bracket >]two",
+     "[tag&bracket </][tag ol][tag&bracket >]");
+
+  MT("valueless",
+     "[tag&bracket <][tag input] [attribute type]=[string checkbox] [attribute checked][tag&bracket />]");
+
+  MT("pThenArticle",
+     "[tag&bracket <][tag p][tag&bracket >]",
+     "  foo",
+     "[tag&bracket <][tag article][tag&bracket >]bar");
+
+})();

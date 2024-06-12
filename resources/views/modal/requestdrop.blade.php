@@ -1,1 +1,28 @@
-ENCRYPTED::eyJpdiI6InpPOFROc1BVZG4xUUIyZFg1TFU3eVE9PSIsInZhbHVlIjoiZEwwdXM2WWNhUC9hTStMaHcwSmtVSnkzY0dUS1pUTWpsQ0djaWpQTHVxNkZGTnZvSlVSTnVpM1dIcHczRkFoWTRXNGt5SlJLZldpajdiUmV4WVh2akJ5UUk4NDFZZlFKbVhVNGMrRUlRMVBla2NqV3JrVFM4SXJtekdBOTV4Z2xpajdzbndRRUlNb3Q5a2NCUHdKY0RYZmtYWWtsMi9MWk8rMUV2SlBVY0ViREJrQXFtemVqNFJLNDZ4cHpXS1pBM1NrRTRGR3RQWEhhdEQ4c050UHBnVDRIMFRoQ0t1TGlBa091OUFKcnY2blRCYUhUWmprZHR5dTZEaUhNTXJZWmdyMlRNQnhTZ3BoT05ramVMK21FbzNlYTRITDloaXg2RGYrWE8rczFtalNtY0p5V1VsSnNzQ0JWMFR0aVovdXU4S3phSkhXVVAyQUdkNzFHODI2dUdYUjl0N2kwQldvTGdHUVd0MVRySjNQTG1WdHhrdzhycjVuS3ptK1VZZXNsOVlHaS9JVmFSUmxWWE5GSDJtRmdXTnVJM09QV0sxSGlhZWo4Mk5pYlpTZVRpTTlTK3VMYmh6U0dvMFRqTHU0cnJaU0kvemk0bEFGZXhHeWRST28wZmN5ZnZIWHcrUnQ4bmlOclZZK1FPekJPa0s4bFpWcWowb0NEUGN1WnY3VHhGcllsaTV1SlFWMGtTMDU4cGFyRkRUamc1d3BQTEp3cW5YVlBhbnp6YURhYnVtZmplZGwyNjVUUHh5Q002cVpxTFVuNUFzZmthTVZkdkRFOGQwaGladTFwRC9WT3RGMFd6dlhHUm04MURYQUt4RXV1TG1HR0hRTExIbXF6aXNuam1wNGFkaUNWTGZ0ZG5qZmdkTGpQdzduTnB3VDBPcldjSVY0a2pvb3VtWVg3bXVRdnRPTzlzdVFuN0NzNm0zcnlSMWlkN2JoNW9CR1EvKzNvSlRBdDY4bk1xODZpbU9WU05SbmxHYnhNSWNJYnc5ZXdyVFhjaXRnMXF1Zmp2RHNtOUlZSGwxZUMvbUtucTZ5b2lWUGVTU2tRdGI4S1dRSnJsd2lLYzdWangzaDlJaVBMUndyMC8xTC9Vd0xMcFpjUXFEcS85MDhQRkNta2pRb2FFeGtUTHdPVkhZcXBRcEdhdWpRdjhxQ01vOFNXYXpOaUVvN2phRzlPTDVDa0owRTNBWHpWRTBXcEZmWm5sZXROL2lGbjZRb3Uwc2YxdG5OTkdhdWNVR1RBNFBweWNjdnJ5c1hjcEJPSmkzYmxmbHlONEp5T0dpd2s4ZFl6c25zeG9rYXlZQmdaSUI0ZkYzTXdwNnpidUh5U00yQjNxSjVtTXZjUkd3eURUSTFsQmpPcmtWRzNRS0NrV3hHUTlqY0Uzcjd4M05Bc1laWDg3NmwwQjNrN1JtVUd0TGRISFJyeDQrem1MZnNzM25WYmFXVkFCaFZEK1N0WmZaRHRLcjZpY2pPd2xoWTNKRUpOdzc0Q0NaT0wzUEJWT29qTzZLRUhrbFdQcUJXRDFib09EU3BOcjJzOWRMNy9Rd1hOS2pYNXhrUHZQanRYS3llTC9OMXNkME9VMy9IK2NTUkl3aWZnR2h2ZWM1SlBOSVVvRVhnekpVNWpKdXY0K21odSsrc3VhSkZtcEtyTnBtWTB0Vjd1a1JUQTh5T0QxZEd6ZnJUdWFlcnNPVHpSTHdXRDNaUW10NkgyaTZ3dngrUXc4SUxsQmNSMFBsdERPRi90Mng4QU9wTTFCNlcrTlFuVjk0YUM1eHhVakNQM2daQ1Nib242OGcvTjhUQU1kcUZMb1gxa0xJeUIwV2JJS090MGRHenF0Ti9laVRVRWFDVHhTVUNTbUFZVWlBMHRxL2VodkhHRUJOVkdYQy96bU84cWg4T21XQy9qSm8xc0FRY3llVjM4Wk5PVGYrbVFtditlM0pQaXFibkV6ZVpqRys4UnB0NE9ZUkd1UXZCK28rOVE0UjV3NkF6R0lKWjlKKzJNR1VTN3FuTUhRWDJ3Uy9BaUVMRkZEWDhkMnpvcDh4NjJFZktYU1RSalNpQ1dhNDBSWjRaRU5pSmVYT25DUEFvbXQxS0JRNUovd2lJU29STmpyMTlhMkJidkE1MDlLeHkxenhSczE1eHJMTzZwa2N2VXN6N1A1SDZtWDZYYVJ6U0cyTGdxMitwNzZBdFJsMVJCMEhTMThubEdmQ3BRblZvTSt2a1lFMDFWMm91ZExNZmJFQ0lweWVtVVJzZzFFNG9zc2I4ZkpQY2h0a2d2cHkyQ0JZcmRUYkVqVzh0QmJJL2dGRUF1S0ZoMThZZ0xrZE5qVHZlMG1QeE1nRWxqck1VeUMzZnd5ZUlhVC9CNDIyVXBMNWhVNXBKMnp2WWI3Q2FlQW1NQnpEenc5K2xjN2FFbHFSVDk3cjhYTW9Pb29JN1ZIRTlUaVFaV1BsNmZQOEMrZXdZTGFsNmhQZ0Y3SE9vc1grdlZidVFiamlES1JCKzFMT2s4UlNzQ01uSHZ5VGswK2s0ayswZkROdUVGQ0tZSXE4VnVXT2xNdEYzeFgwUk1FZDUxdjFHaXR6SmFMekd1TktuSzRqTU92UT09IiwibWFjIjoiNDQzNmU1MjgyMTE1ZmUyYzdhYTA0YTAzN2I0YzhlMWUxZGEzOTA3ZWU3NGNkOWVmZTFiZjIzNDU4NjcwMzM4NCIsInRhZyI6IiJ9
+<div class="modal fade" id="requestDropModal{{ $drop->id }}" tabindex="-1" role="dialog"
+    aria-labelledby="requestDropModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="requestDropModalLabel">Request New Drop</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="{{ route('sendDropRequest', ['id_drop' => $drop->id]) }}" method="POST">
+                    @csrf
+                    <p>If your drop has <b>problems</b>, you can <b>request a new one</b>, but you have to <b>wait 24
+                            hours</b> for it to be <b>approved</b>.
+                        <br><b>Write your reason to be approved!</b>
+                    </p>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea class="form-control" id="message" name="message" rows="6" style="resize: none" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send Request</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>

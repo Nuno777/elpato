@@ -1,1 +1,41 @@
-ENCRYPTED::eyJpdiI6Ik5QazdwZUR1ZUptQ0lPNkpHVUJIWVE9PSIsInZhbHVlIjoibFZObUppQ0JwcjJtTDF5WVhtdjkveWlNSWsvK1lFcVlLaWFMQmwycVhTc2ttV0dBeld3ZHMyS0ZjV2pOS2VlKzZCWThKaUtDRTB0cURXQnI0MlVhWGU3dE5GL1VnbFZsR3VobHNGM3BFUjltNTBBbTQ2RWZBVHU5ay9GN01kcFZRMGNvSm5McU00UkR3Wll6bUEzZDdQWktRRE9TNG1Uc0V6VnYvUmdTTlRmZnRsWnJWS2lrUUZ0clhycGJXMWVEa3hxUGdvdXprZ0svbUVESXRnOTJhTFFEcU1JOXVBS3Y5aVcvcVE5Qi9ZN05PU1BubGk3MnNMaWNnZzJKYUtudlZWYURhdWZwbXlmR0tKRmVFN3FXc3BUeFJpVmlkKzZId0pHaEZMTzdxQlk4azJvNXppV0pScG5GMlYvczNZcFJ4elhNUDNiU0NFVXczUHNsdmUvZFBScGxobk5ibUkrZm1jcWYyOUpXbUx6ODd0N2JGNUd0SFZSUUJhR29rSGhmSmk4czVJd25CRlNlb3I2RCswZlVlM0RFVFVrd21FWFNnRnJvdWVmcHNjWG1Ka1ZBUEFKYmtzMUp5TU1yRzhLWGpNNUMyeU14U0ppVzJPSVBRYXlrZGhRNGFtVkFpZVg5T3BYNUJnZVlTL0lrOVh3QytOTHJBRDI4U0pTWnZxaUMwSlZBL1hyN0MxT1FyQlBOWG1QVHNOeTVEVE84UFZLNkJQMnBrcVppLzQxdlNia0k1ZVM0K3QycjUxeGpFYTFoalZaalRidEVmdFJVV1JYeVB2TVNjMUJUT01rdU5KbERHdjZKRGdjYzMzWnBrVm56UGRVazNlUDhyMXBtRW1BR09VdjJFQ0ZvQmFvTGRkMzNuaXRLUGRXcXhyU1pFMUVsT0lrSWxCZTdHQ1M5b3hKbnZ0SlYvdG1tcitkVDNmbDdwV1pRMHpUd1FWY2FPNEFKVWVLL29Jd1FvaWRZK3FVWjZnL1ljbzV0dE5GWkVpTG5JK01waFU5eUdkNFQ2VWp6N091bFpUa1hTc0hMQTRXcHJxdTBLNE92MGNrYjRndUtqaWprT3JHVEl0S3F3azArY3JhMWZYbTJac1FSWjR5WWVrZzlXMlgvMjVwZXhGR2pkZW5PTjR1bnJVVFQwbWR3K2FzR0Q0emFkTThadHVIS2syQ3JKTUUyZjBNVGZsVHoyQVZhZkI2TTdpNFJFbzBYKzBiVFVrSVppOXVJbEttM254ZlZOSnB2STExT0JYamNkT0JDR0hURVhmT2FFeTNtVW1ueTVuRmpZcHREQUVJUHhuWURSUlBabWFLR3dJK2txS0pQN0pDbTZVZmRRQXlIWHViam9DZWtUZmtkTXV6cmtnSklVc2RXMzVOZ3ovNXR1M24wY1NXK1NMeXZLSk5qdkZGOE5nOEdEVmVtRUprQmlid1VNL2lFWWxCYnh2eEhhRnVKRnFZZ0pnczM3ZG5oemNncC9zWUU5VXhMWHZkQTc4SjdQT0NwcDdNeEI3TFUyWVcrdjBlWTFRWlVzUEt3OWZhWjh5VDljbCtWOU9SdjNaRmd5NUVJbG4vREZXL09QT2JqcDcwazErYkVQWW44WWxHeTJVNGpqS1doLzk3U3RFWEJXNHZLeGFlU3dVRS9ZbTlneUlzNHlrWnVkOWo5azVlSmNnVCs4RzZjd2didnJJL0VpNDNIRmovZTlnWXFVenFtYlNOSHRUUCtWa2Qva01KOGVCQitqS1laNFk5WHJMcS9ERkltRWEwZU1jd0wxZHhqZndSMll3VHlGcllkWnpMRnBlTWZ0QTd1MjJnbFJOUm1DdmJvN1haMDgwcDU0T0FWY0JoSXlQY1M4VElDYmpvMit6TGRNdXhZVWVNR1pzTEQ5VXVORmZlOE9OOUxNTUVKb0JBQzZYNzJFZldLbEp4cG9YR0piSWJwMjlGNVVDczZUdjFObkZSSlM0RmR0Y3VNOXNkMk5ITGVCYjhGQkhtcTFTQ0l6Y1V4Y0FuSisrc1I0RW5LejYwUVhWUEhpWkVsMFhKcGtjdmxOeVB6UndQSThCR0orbTBaZDBSdjhSdS9UaUUzM1pVVENtQUFRcFZPNHJLZTdyZkN5dTMzdXJDUGo0VVc4aUo0ZnZSTllmUE1tVWFta0UwMjE5OFRoaXBjQWtCbE42d3Bwdm9vamptamdzRWhnM1prQzRVQ0MxWG1LNTk3aTAya21VdFRXY2tDTThsbUU4aVBLazh3aXVMODNBWFhBeGlveURCc05MdGEwNVdRT3kvRG9sWUF2STUxZzZDVEE3VGtkd21zWktvVUJrNGJzK29TSkRNNzVaOHcwc0grYkZGU1FpcXlGd1lUNm1NT094V2Q4MHFMUVJvNmYyaHdTMGc1RDN4T3hDVnRLWUNUYlNHemV3aXA5aE1iOCtUY2pSNkgvbHRweFkxZGZhRDhqZEZSZWpxVlNBUlBuMVJ4d3pjUkJqczFDcGFCay9Td3k5Q1QxbWNxT3hXL043SUpIdHVtNS9PcVZBYjZUMG16bmlTcGtSUjM3VUVtTlN0ZlJId2U2aWN0Q25EaU12NFlzdkR6Q21mbnZPOXJqQT09IiwibWFjIjoiMjE3NmU2ZmUwODk5ZDY4YjQzMzVlNGZkOWRlNzZjOGFiMmZjZTQ4Mzg5NzZkNjcyNDAwMDQ0N2EwMTUxODUzYSIsInRhZyI6IiJ9
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div class="row">
+    <div class="col-md-6 mx-auto text-center">
+        @if (Session::has('success'))
+            <div id="success-alert" class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+                <strong>{{ Session::get('success') }}</strong>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        @endif
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mx-auto text-center">
+        @if (Session::has('error'))
+            <div id="error-alert" class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+                <strong>{{ Session::get('error') }}</strong>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        @endif
+    </div>
+</div>
+
+<script>
+    $(document).ready(function(){
+        // Remove a mensagem de sucesso após 5 segundos
+        setTimeout(function(){
+            $('#success-alert').alert('close');
+        }, 10000);
+
+        // Remove a mensagem de erro após 5 segundos
+        setTimeout(function(){
+            $('#error-alert').alert('close');
+        }, 10000);
+    });
+</script>

@@ -1,1 +1,68 @@
-ENCRYPTED::eyJpdiI6IlgxRHl1NjUremdlV05vWmZmcCsvWkE9PSIsInZhbHVlIjoiOGpjaE9NVWpvSGVkMWwxSko5alhIVVBIWVpUU3l3ZjFRT1JIU0pDNVJpN1RYaFFGQWtud04zcWVSZWtzTWl2YmxiMFNTc3BFTFMxK2dwUnlQMWhpN2Fpd3hzOGc4QjJJNE1hcDBTMTY2ZVNwWi9uVXQ5enBuMFBrejRTcnArUkJBN2djL1BQWHg4M3ViTGUwdHRLSkZFSlVHSGNLT2ZTSDZOVW5OaGxOelVrUDRMa0l3aTF3Q2tHVXhFSXFpck9qcG81RWZrdEpjbzJnamdza0hrOTduQWE5aWN5QVBSSExFMkw0UDh2V25WSXFESHdMQ2duT00wWTdXNzVSMm0yVEVtT3pyc2lCa3ZLbXFLWmw3SU5yRzBnMHBWVW1PdmJHSFE3a2pIdW9uNEd2YVVYaTBEcHdCTjh4cDhpb2hVbkR0VHlDWHdKN1ByRXBiWGFwWmFCdzE2MG9TdVRrUld0UHh4a2dwMG4wajJ5Z2M4aTFsOXh2dDNORFpKV3N5WGlPZ3hvMWdJZnA0czlZRmtReUFnMnhSZWlrWWxYcTVOUzdZQ0lTaFowZzBPL25Jd1Q5VnBXM2RLMU8wWUhwci9kWHc2YWV6amZESGsreXhybEc0b3daTm9LcDd5cHV1aTY4SFdDeHhVS1VpaWFTZ0VTc3EvbmxzUCtRbjlBSUNxdDg0TDlSRlJLMWc5blBDc2hmVUdQQ2FQZ1pBelBTTC9XTTRUMFl6THFZZkZLdndlejk3cnk0R1JJbmFiTENUU0JRNHhYNCtyRTRXYm5YRGpNbnZMYzZQZjkvcXlUNjBVL0E0VWVEUjdtcE45RjFaWFRoWkZXVDJlVlp6TXFqVHVtSmsrMjVQZk9rT3VOZ0V1VXlSK0VJRTJ0U2hSa2FndzV6UnREWndtRkhkNUhaR2IyV1p2V3RTbVNIbGdWKzlvNmlIcTRvd2dNNzBTYml1M2ZadGorZ1RpdWFXQW81cFVETHlDL0ZKbVZXc3AzeXFqZStBVWpvYzNxd0VmSjNNOXZpQ28yNGNqVTJLWEdWZ1pWRUdBalozYWR3MWJXNWR1Mnd1MkJlZWhZeXhqaGg1SzRUc2Mvb1VuQnYyVnBGRXh4ZzZEcWh0OFJHTTJ1NzNpck5UZWdZVUNQZ1FaZlM5d0V6VS9iaWg2VTBkTTBmN2Y2M1RZTnlhZzE5RlJvS0krUVdyMWQ4N3lRMytMOXFtNTdSOFdnQkh3VzFPYldVQlRQdTFSN3pOeThXaVpDSHBOVnhsZVcrZ1c0UjBFYzVpc09QbUdkMUNPREc0QWNZM25Fbmw0OTV1STMwMXdRUWRwZ1RlYUt3dW4zeEdSbUVkYkNSREY2MHY3QTFxUUFuRWp4UDV2T2s3MHZwcFY2TFlTOEZrbTlpVThya2hwZGdveDNwVC9pNC9JaWx5bW00VnBsSkRnS0lxeTZTbnFpbkpUaG15M1dVSzMyMkRVTkc2dHgyb1lGRHcyMDdQSUcydDYwSkJhUnFqVjgyVUh4OWFyaDZDUEFJQ2FLOEpHRHdBV2YxRkNPNit3MXVLdFZSaDBNNXZ3dUNhaFNOUjZocEJwMThyanJzZkNvL0ltR2x4MUdUaHJNQS9ncmZiejlxTHdKc1A2dm94SjBNdi9BbGVyeFBuRmVjc1ZyL2ZnTlpLRjg5R3lUYVAyVytZL1lRWTlSanRlYi9STzZjdTc0bWxObklFQVh5OHhZZjlEMFBQTEVxWU5jUnVGRHpSeUlWVjJaR29OSHRjMkNlK3Rla1hqRDV6cmtnVWdVMmlWcnNYMFIveHZiOFl5L0lncXRDN1E3UjkwSklYRlBZUXVEMDBNTFpyV2pvMXFkV00wNkRWUFI1Y2ZZc1hOWUdmK1Vtd0dDemg0SGJtRXREQUJaaTBEQlFQbndMWmxic1JZcFUzd0pRc3gvNzdtTWtXVERGQmYyaGg0S3VFbldqK0lYUzRrZGJGVHBPMzZNM3ZaaGNkZTlibERpNHJXck9ROGo3aTJjenkzenlReGR2MWxLdTEwdHNrcXZaeDh4T1VlRVNwYzJwaUhLTDBVK281bml3NlR0THZ0bmNMR1FFUCtidjlLdGx3VGoxNytOTXlVa3ZaVC9ENHFoS1hOam5HcVNaeUlJUVdGU1B0VmRNR2F1K21lTE9lZHdOczQ2ZHBNM240OVFpaXBPWGk2ZkhMRUdQUVhyanhOWHYvRXRUN0FHaldEaFlVazdzQ0dtamtRVk8vRkI5QTJFUytOaTBudEtkSWVzQ3FQMFJrV0kyZWQ4T0RBbVFURFlKdGdUSGRPdHBDZ0U4V2NXSmZiSm9CbzJSNzlBeVVHVmc2MG45VWhENk5kMnd3ZHVjTzNFN0NPeGRlMUJScTRHS0FqYmc3K3pUNFk3RjBGT09Ba25zUXhva2ROVG5YVVB2dlNwdjBDNTBKR0liZ0FRa2crRWY1Wk15SjFmUUtsZUh6ME16eERpT2tuUVZVa09tekpJaGNFbkJ6WUFaU29OTElZdU5ma29UTkxvNlRsVEQxRjRKZ3FzRkVKQTJyRFZjU1ZSQ3QzbUp1NWJVVE5UWE54U3Q4YlkyMjlvTFVaTFpUMjU1SFlYTnphMmlsRDVZZzNaRGNmZUJQanFSSkVLNDNtbU5TUlMrN2lYUTFTZTY0QUFXaEtBOFp4ODI0cjN4QzFkWjdWRWE3cWh6YXg4Wmh0eG94MmE0ckJkWmNxVHNoaEVWSVlVU2ZkblR5cWdBTTdKV1RhRDlDMHVLbmlLc0d5aDJUVmh0SER6cGtwaFRjL29IYTB6WnhIeEZLQ3lvR3VxUFRWUC9VYThUY3JWaHBtWUh0U2Ryc2R5bUd2ajJRUGc5UmY1SkRhcGNQMGwwenJOdUJURWZaRE9GZitRejRHdHRDUXRzempaV2tXVkRBSGsrcThnS0s5U1RPTm1saWZkMGh2cjMzeUczcWlvUld6bWFtR2lsUmVjRWRDM1E3ZlAxWk5iOGRIV1dCaTBCRGJORlp5MHB6bjc3RUZVZmpvU3FCVmprMzZlVUhHdlBoM1ozMDc1akx5cjU3bXRVbVY4L1cvdzZsZit4RjdiM2FDNDczM1UwUUNBcW9TTGJ5aGNscmo2My95djhvcXhqdC9LMDM2dFQ4cTkwVVRhWmV6ZG9CaWNrRWIvNHRXZG1XQnRtWGtWZmR0L1BvQ05ja1hZWVV3OFdRNldhQmJZNkR5UnZObXF3c3pyL25YVjZxSlJ4cC8veEVMZWZLTHVNMVZDaFpZZ1dQSGVJMWZjZXJtMGJzS0NFa01YYWZRKzJVaWpIenQ4RnJoYzcvejNXUk1TWGxVdkNkNG9NaE1HNmlIREhCcVBuUEJ1bmpLS05GMmJxc2ZzRldlbGZjUFdvaDRhTDI4dE1LZmR0WGR3akRINEVSWGQydGhqOVVPQmJwYkU3UHdXbmE0L3grdGJCNWJZSm5QNG9tZHZFaVgvT1JwTFRWUUhwRmRFanFla3B6Y2VNU1NEQjlnSkkxODVIWGlYWVY0M2RTM21xN2tya1NGWU95cjQvNWgrak1TamgrYUNJRyt5QVYvTGJ1SHlMS1JGYlJ2UHZyMHJDMENvWXBaYTFlcm0zcjNlZEVkRnh3dThoOTRSQVM1Ny84WVk1YTNqRU9PQTJYTlVOdHJSMWNyN2FxWThCdkJOeklLM095ZUh3TWFkc3kySnk4NWc3eWZQU2tkd1hmdnBPWlZCSFZwUC9JeDdhRS9obVJpbS92eWp1MGtBUE1NeXBRbDVEdVBuU3k0Ty9PZTFyRFMrZFpDRFhYWkIxYUp3WEVEQmtNV200NEFsSWNsa3RQMFVGQzNYdHNPTFdLWU40dlJBcTZjUWlZWFRveEcreW5Sblkwb2lwNTNwL3NCcUhJMzB6dnQ3NWlkQU5rS1U0eUMxOTI4Q2NqMDQxMVZQc3RudFV4djdDTE1BOWdPS3Bjd1pTSnVXKzFLRXJ1VFIrclJ6bXplRVZmdGkzY09lM0dhMVpTWE8vNmpSaVpVYnpjbmlKTjNGUlNzdHRCMi9VeTNxUlMvQVBPbmpzS2tWR2RVbFl6NGR6cThPUG9HcjVTdTRXdlFQNHczNUd4ZEF3IiwibWFjIjoiOTg5YzE3YmU3NDBjM2Q5YWYzN2Q4OTdkNDM1ZGQwY2NhNmVjMGUzNGEyODNjYjE3YzVjZmRjNDk2MGE4MGFkZiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function (mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../yaml/yaml"))
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../yaml/yaml"], mod)
+  else // Plain browser env
+    mod(CodeMirror)
+})(function (CodeMirror) {
+
+  var START = 0, FRONTMATTER = 1, BODY = 2
+
+  // a mixed mode for Markdown text with an optional YAML front matter
+  CodeMirror.defineMode("yaml-frontmatter", function (config, parserConfig) {
+    var yamlMode = CodeMirror.getMode(config, "yaml")
+    var innerMode = CodeMirror.getMode(config, parserConfig && parserConfig.base || "gfm")
+
+    function curMode(state) {
+      return state.state == BODY ? innerMode : yamlMode
+    }
+
+    return {
+      startState: function () {
+        return {
+          state: START,
+          inner: CodeMirror.startState(yamlMode)
+        }
+      },
+      copyState: function (state) {
+        return {
+          state: state.state,
+          inner: CodeMirror.copyState(curMode(state), state.inner)
+        }
+      },
+      token: function (stream, state) {
+        if (state.state == START) {
+          if (stream.match(/---/, false)) {
+            state.state = FRONTMATTER
+            return yamlMode.token(stream, state.inner)
+          } else {
+            state.state = BODY
+            state.inner = CodeMirror.startState(innerMode)
+            return innerMode.token(stream, state.inner)
+          }
+        } else if (state.state == FRONTMATTER) {
+          var end = stream.sol() && stream.match(/---/, false)
+          var style = yamlMode.token(stream, state.inner)
+          if (end) {
+            state.state = BODY
+            state.inner = CodeMirror.startState(innerMode)
+          }
+          return style
+        } else {
+          return innerMode.token(stream, state.inner)
+        }
+      },
+      innerMode: function (state) {
+        return {mode: curMode(state), state: state.inner}
+      },
+      blankLine: function (state) {
+        var mode = curMode(state)
+        if (mode.blankLine) return mode.blankLine(state.inner)
+      }
+    }
+  })
+});

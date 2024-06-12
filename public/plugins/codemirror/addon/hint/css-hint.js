@@ -1,1 +1,60 @@
-ENCRYPTED::eyJpdiI6Im9lR3o2NjdsTXYwYTFsV2tZOFFpc0E9PSIsInZhbHVlIjoibWhDckF1bjFwRE5GZDF2ZlZWbTZBd1RzT0FjK3VWeW5iQkZZZFN4MXJhM2tzRDdYTkZTRDYzR3htY3NTdGhGS2ttMTM4K3lLTy80NFRDUVBiamttU3VQcmZwNnhnbWY4emZUKy9YV3ppV1lnMmVpeGFTc3ZZdVhjYTFZemJad0twWHAyZVR4Wk1EeEhOSU1HalFSaUZ0Y0R5aVB5OUk5aDNFektOaDJOTldsQXNNc2laVVYwRHplenlPZC85SjBYRjY4NlNCaU1sOXB2N0dqTGhwVlI1cllYZnBIN2MzMWRHcVNkMzQ4N1lzZkV5Z1hsdzhTSk1Fc3FlSEFVNlFvMVR3OUtpTzRhVmZkYlFieVhtVFg4dGpzZnlIeGRzVkd2UkV5ZktPK1Bwb1libTR1Y0dmZ09VbERBK2JtelQ1dWxtVkFRV1lIYlBhTlJ0MWxHdzVpRHpoMlUyVGxFTHdML0xaMENrY0FQaDY4Y21UaGJaS3VvRXhnMDlyaXFYelNvaHNrdjFtaUJDTlFSbTdGdm5LeFhRSVBMR2RNOFBUSnNPRXVaUklUYllYREhabXVWRThCM1N2MHgwT0NzbjZUZlI3OE5XNURuT1ErRFlnWDE1TC9ueFcrMFFGS3dHcU1vMmhVUVFuSTNTZkUxU3N0cWVLUDBPRWxZM2VmM2JEcUJ0TlBaeUY1OE96SWJPa1U5enZTTnhGSERoYnV5akJsTzNWK2tOV3A0dWU3WEhsckFkcDNUMVhRYkE5elRlTTVwWnNsNCtxUENISFlZZlRaNmowMWRSSDIxcDBLWWJIR1ZRYVB6TERoUDVLQmVyZ0JMYkVGR3ZKTW5aM3V6SnQvMkxDWnZrOEhUaXFDWkgrT0VyMU85a0d5bkdxSktuUjB1QkVpblB6cE9hMzlrWkp4KzFtZk9wc0NxRXR1aGZrSE9JU09mSm5adHZVOVhzNzg5eDlwUjRYWUt4U0gwM3RyaUtvZ2pQdU4rRm9VRFJJU3I5eUowRVFBUUllOVBZaU9FMEtMTzVTZkZlZE5lYkNyTVFod1RCNzgvOU5PYjVuMWV2S0Zmd1lTdmJ6S0NueXRiNWN2aXBBMUQ5aFV5OTZHb3hmMlFSdGpQM0RURmNQNE8veENtSVgxbXJXb0krQ2NTSGNxNzZTS0Ixa25KSmFjd3QwcURJbERjOEZRb1VJTlROaXhGc291WXoxS3NJNm1RNCtwUjN6djNqWDZiWTJUbXZDa3dkTEFiM0czYkYxaEFCM0xvSWI5V1p3dVNlOXRBWlduS0FoU0tpNGx6ZHJYRi9HMGg4a1hmK3JvM1ZuVWZZSE5OUEk4YitGWG9CdWM0R09UdHJGUWFXTjJxakdlZGhibkpmVm94SzBJMjk0UXVoOXJieTFxYkxibUlXVlREUmZNWDkyeWdiOHFrMmZxaEVlUWJadXJDOHJ5WTkxZUl4NS9zNkw1dTBYVTFtS3lZODB3Y3h5N2RMSFVDRGdHWTdwZW10eXhHZFRrZGx6SXdaZW5GVGFLT0ZTSnZNZmUxOUx4SWhJSFFpbjNXaXF1dVVVeGFYUlZxVjkwcWtBQVRIWkd5SWNzQmx5QjJNbnB6bUExL3JDbHdwSTR1eFhpcDNxVXlucFdJUFhBTHJ3aWk2Ri8vT0h6ZnJLYk5SWVBQMVVqUDQ5QmNDZFg3N1ZTSm94QkJBb2VZNEJXYjFYSmlEbnY3ZXZvb1lteWwzVDlCMjl3aS9PT0U1M0R3Wnlsc0thWkR0eFV0SDVDMXJMTG9RUmw4TXBRRkEzUjNzakRmcXp1bVVvT3JnYk9WTWZGR1hYRUxqL3h5SWpINktuUytNeVhnNEY0TGRYdm9EMFBsNTl1WXlma3kxRDZuK3Bld1FYRm1aTzgxWDNWZ2xpWmtXN251SWtsQVpZZU5wcWxPUy92OWJ2VlEzUWhaNGt4eVdkZHZRc3A3d2tHeWpXRXRCWDFiS3lwQzF2ckt6YWZMalVPaXNrQUdSZnNqVTdubEJ6U2pqVVZIU0JVdVlqTGN3SHlxR2VTYnptTitLUFlzU3FnUGVyUW5uRVpDeGZvZUl2UU1GR2hNMkJzU01xRXIvNmh1MUhXV1U1NWhxOEVrYzFDeG5GK2VsN0xJckorSHB0L0dGTkdZVmhrdTUvM0xkS3F0cER2QWVtb1BpRlJGQjFJS1oyOEpiNStzV1ZNbjlvU1ZBOXlYTUc2ZXhRWE5vYjlvT1VjWmVRSkVla2xMQ0czaVBIZnlBbllQT0JSYjBFaUVMYWVXb1dKcUt3cDRSd0p0Sm8xWEl6YTlsYkNWQThsRk44UkV1R0IvdW1xQW5ZMzNWZDc5elFhRFFjOEFxWGwrUHFjQnkxV0RmTCtuU1pYakZ4L3hRcjhLV002a2RrYXUwWFlrMFJ1OHA3RHJLMjNxNzF2ZnIwYnNrd0VxSTNmaitZWmttWTIxTHdPcEh6THM1UmJYMjZVRVVKcFBRNTBydkFwbzZEa3JJYmFQajFLcnpXRDJwMW9wT0hFMm96Q2l4eEFIays1a0wrbVd4VU5lZWcvRW1ZNmpqVzVNL0tHMCtIeE1RT1ovRUxsZ29QL2NBd1E1Rm9lU2MzTy9jWjkrTW85aXhFWldydDFwUi80ZWkvTUxYc2JHVVZEeTQxNUpqTnBreDZRQjZpN1JqOU5lbGk4SVZ4WGEwMHdieXFEd2xXeGpZSS8wUEtwSjRjWDFLMkViZUgrME5qQ2p2UVhoNFJ2SDNZeEh3UU96Z0pxM0pUV3kwaHJRODlYeEk0S2dka3Q5aTlWSWczY0FmUjRpcGk1NnZKajdIK0RPVG9UWGhIbHNaOE5DUUxLTnUxN1pMeUM2S1luRVkrcXFMS1dEQjUzN2tLcGlqR2NnNld3SXdlc0xwdk43KzVBYVZDMmtuRDd4M3JWUUNsd2JaTWkxRys3aWhJd0JSRVd2a3RpcUNTaUlBdjB1WTM0ZFlmYi9UdlNBMmRjaXdPa0dKVDFvYkQrcVQ1b2VyMW9lKzRVaGpIS2VDTWVDV29odXVZN2E4WGNjRnlIeTN2aU5DcTNHOEFONWlHRlJORWtGekRDRzkrZ3ozRzA4eTZUay95eHM3NEgvZDllNUoyOU5xTkFYV3liMXY4am92SVBDbXh0czJJaWhRVzBJNURoVWZDbmJnZEZUcnZsUkNpR08yWlBKM05pdGxUYWhiZmtBK25scEh1dk96ZklSdjlFWEZPTWVPcHNYNWFYdUVBU2VzUTVxd3k0T1BIcTJLbTZaK2tRekNDaHFOUno4VW9naGo5Rm16bnlMb0toT3ZaU1REai9ESjZiQXN1aWlVZXFoQUlHL21hWmJwNlVTY21rTElJeENYWko5VFhicTlaU2tkT2c0b3VJeGMxR3dLQ0Qya1hBYXJ5TGhMWEhoNGVHbThETkU5YU16NWovL3dMbEtoUThaSzJOWWZ0R29USFhDWUdvN1V3Q1BUUy9US1BXT3RXQ2pEU2lQM0RxNW4wOGREcXFqTmRVQ0l5MUhrTWdXaFo3RlB5R21iQzRQR1paemRtejRjUEVmYnBlRUwwUTNmdVlXamtNUzl2Qzc0WUJWZGtBUjY3cnJiS3FheTBJSHBYZEdkK2hSMXNDYklzaEVmNlFQSm4randlZ0VQRXJaV0tXdlYxSFJmVVF1ZHNyUGx0NTlxT3g2U3k5b0tIcDhOMnBBNEk2enBldFJ0TnczNjlFS0lxT2h0TjF4YWdHNm1pOFdCTHIxeEZSb2pDRTFyS3BJMUFCTnF3K3QxdnA0NHlhRzdDQmNoeTFsbEd2RXJTMFNUb1FUczdCYTB5bzlHbHhXa3lXM1VmNWhLNkRLVFBwa3VhQTM4SytMUTg4d2x2ZVdRUT09IiwibWFjIjoiYTY1YzAxMTY0YjA3MmUwZTU4ZTJkYTc1NGMxYmE1NTM4ZTYwZTEzNWVjNWRhNGQ1NzY3YzRmMDAwZDY0NGNkNSIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../../mode/css/css"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../../mode/css/css"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  var pseudoClasses = {link: 1, visited: 1, active: 1, hover: 1, focus: 1,
+                       "first-letter": 1, "first-line": 1, "first-child": 1,
+                       before: 1, after: 1, lang: 1};
+
+  CodeMirror.registerHelper("hint", "css", function(cm) {
+    var cur = cm.getCursor(), token = cm.getTokenAt(cur);
+    var inner = CodeMirror.innerMode(cm.getMode(), token.state);
+    if (inner.mode.name != "css") return;
+
+    if (token.type == "keyword" && "!important".indexOf(token.string) == 0)
+      return {list: ["!important"], from: CodeMirror.Pos(cur.line, token.start),
+              to: CodeMirror.Pos(cur.line, token.end)};
+
+    var start = token.start, end = cur.ch, word = token.string.slice(0, end - start);
+    if (/[^\w$_-]/.test(word)) {
+      word = ""; start = end = cur.ch;
+    }
+
+    var spec = CodeMirror.resolveMode("text/css");
+
+    var result = [];
+    function add(keywords) {
+      for (var name in keywords)
+        if (!word || name.lastIndexOf(word, 0) == 0)
+          result.push(name);
+    }
+
+    var st = inner.state.state;
+    if (st == "pseudo" || token.type == "variable-3") {
+      add(pseudoClasses);
+    } else if (st == "block" || st == "maybeprop") {
+      add(spec.propertyKeywords);
+    } else if (st == "prop" || st == "parens" || st == "at" || st == "params") {
+      add(spec.valueKeywords);
+      add(spec.colorKeywords);
+    } else if (st == "media" || st == "media_parens") {
+      add(spec.mediaTypes);
+      add(spec.mediaFeatures);
+    }
+
+    if (result.length) return {
+      list: result,
+      from: CodeMirror.Pos(cur.line, start),
+      to: CodeMirror.Pos(cur.line, end)
+    };
+  });
+});

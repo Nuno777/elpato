@@ -1,1 +1,140 @@
-ENCRYPTED::eyJpdiI6IkdVQW9NUnhDS21YM3BDdVdRMFhNd0E9PSIsInZhbHVlIjoiTDAzd0V1bGVMZWFrd09LUElnWGRhWFNMRE5reDF6T2c1bmxydUFhWGw1R3RBa0R6UU16ZDdmTHJEWm5KSW9BSkc5NmFYbGkvMGdJenFnUHExNDZKUVZEN2ZacGxVdHE5MHJkejhnNjQzMVQ2V1hHUDQvYVJiUTc5Yk40cTJUbVBDRHJxckE4cm82Q2dOSUkzQ1QwZm80SVpqdVVNNjM3alJwZFAwdThLZ2pabXMwSWRGZDlrWmREMHJieVNMYmdxRWFEaXFaWFBYVTNqR3RuK0lkMjAvTWRhWnhlSzh6V3dCM2NJVWZ1a21oTlNUWHU4OG1KMEtDeEt2UTJuKzF5Rkh4OXFyckhxNkNUOU1JM1hsV1J0MmFZMkhibFV0OGpRYXZxK1grV0FrNFNNTTZQVk9xb1ZGMWtNWm10YlVDTXNBaFJDY09JekpKZ1FSN2Z0RS9EcUVKUEw4RWh5b0JuV2M2US8xT3ZzN3BVdlZjOFRGN2Z4ai94K3Y2em5JM1VwNEFveHo3VjkzRlBIKzYzNzd1YU9nR3RTdE5zREQ5NnZ5K2JHdEQxbk4vb2c1MUhWRS9ZdENGd1NoUWswZE1EWEdLVTFHU1V5VDkvQTV4dGE5ZTlEa0Q1ZlFxWGs4ZTNpRWZUcm9acVZjOFVWTzAxVmZaY2RiZmRITW9sYlVnektQeFVTQUFkUFBUV2VNZDVBZUU2dWlHNW0yV2dNSEYxZzdadnIwd2k5aUMxQlVkK2YwQ2ZBQjZibDRTeW9tcmkyUXVLbHBPNEtKZkpSc3VMbW5JNmF3TlRiaGE3L3RXZHFWQlI3U1g5d1I5RHN2QmswMnExYUVpYjdYMTJSZFRLLytMem5WRXZmRnZuaVlSVllRL3EyMmRwY1dCRFlTSk1vQUhlNksvRnlydFV6ZDdYRU1XYUNrU2hsUEZlMUU2VEI1a2dBdWNvUWl5TUg2SXRTQi9VRjkrSU9lS1dUZTZZenBRNCswUkp1NkNXV25la010OHRKU1V5Y0J4SHRNaXlvNVdPNlh5QkZiUElGR1paTmFWSUwzdk8vWENLNkVsUENVU0NraVVjVGFxWGgvdlJ3Wlg5RWlTekdheFlpZ2ZjSmdWTTcwWkJlemR6RnlXOVdIajdaWFdxQjEwWXh2cGNTNzNVNDV6UDMremtTRjVKUFU0ZUo3ZXM0MzhXMllXaDBSc2FVd0MvQmhuV01EMHh3dWRCeXU2MjRUMHdsb1huWXcyV1RtL2E5eFhxcXMzRmxoYkRaWFdDN2Z6YVBLbnprZUhwNUlBa0NDMHRJMVlKYkxhV25IK0JBN2pjeDFZdEhONHJwOWoxcEZFcHZFU3I1N21US1dKUTZqN3UxN3BXOTZ1SWRERU9HRHprZ05XeEJ6amFISGFHbEtub3U4MGRjZXB4K2hSMGtWL0ZMaVAxY2xBOXBXUFR1cSt2aTZIb0cvMGhVN1VYYlFwd3ByMjBGUWZwMllXcHgxWlFrOUhVTXllK1hkQ293YTUvRkVXd1d2cDkzOHFTS0hkb0creUt5c2x1ZXEvUlREVWJPdXJwOU51RDIxc1BicEpvT2t1TGRJaElYM09SQnRvOFdndEw5alFCVTZLRE10TzN3VnVvN1hPOVVvOWpkN0dSd0hhQlJXQ3ppZ3ZaaUpjRzRnSkwzTVFsVXpBMnFYczVaZnhIZ0R4TTB0dy9DcGxxd2Z5M0dyYlpmd2pCYkM0QkNGUjFKYTBTM3RpdTdNNmZpL3FlRCtzeFdpMFVZRVZTcEpqUGorYkZIK1hvYzFhdHZ3WmcwS3VScFkzV2haamxDRkUvTUJKcklvRzNEVGEwL0xwOVdOZ3d4ZGdTcjNBcFBJV21RUytkbTgvWkdyU2lEZlFHM0t0elcvMjQyQitnb3ZhdDNGWS94SHhtSnJsRHNBdkFQVkVaQllESXFIeEZBa2wrbXphQTNyNjVoaEQ2aTVtV3FzRFN4YjRzTjRJL20vb3lIMmsySHptRlZaMkxMK0ljamJpa2hubXB1b3lMQklUVXB5aEVkY2dCWDlSVmVmWFloZ290SDl4bjBzTTZ3aUUyWllIVU53TkNEbUc1NDF4amhpUHR3dU15Ty9SLzY2bjUwSVJsbk9VaTJhN0dnY09NR3BUWFB2eTRhWkFnWWZKV1VTY3FMaUMraGtQMUtSa2xPUmdTUGtNeFovS05UcEYvc3JoeWNoc2FDQWltQW5KQTBnQnBJdXp5YlhyaElIQnpUV0Q5bTA4MmgvZEdDbzU2TmcwbEVWRnRqRmwrM0creXZMT1FLQ3l6bEFYZ0dycjVpdmRhZ1JWZlpVK3AvWi9oaUVGbTVtT2trU0wyV3J6RmQrM2x5TmhNQzY4QzdBRXdmZkpjOGRUeTc1cG1vbCtOZnZHVUxEUEpCbGRDY0piRWRPZkE3aW9iUHlaMzg2aXJXUXZsdjVnTFRmanZmZUNPZUlYanUxcURnZm1DdlRlVHVNS2lVakxNcVQ3WXY2Y3EvSitYQWpLSkJRY3V5VFhQNDQwSm1WT0diNzErbDNHOHdKREZrZlN3TkNSeFBMTDh6c1N0d1BkemUyUExQUUpSWmw4ZTRlT3JqT0dHdGFCK2U2TDd5VUJFdUIzVHcxMHhXY3dwejVrNmF5OGJoT1ZyQVFqNHVMTXBHRzNqTjl3RlkwMklKL3ZvaytDUkJqc1N1cnFSSDVTNVhWUzV0TVVaWDR0VUN0ZVFhUHpDTzRsL0pxYUR2MElTdjcxQjRpZjY5UEJSZ242d3FMbzk3d0J0NFM5RW01bEs3L3RkK21zVGR5OWFDcmw3VEFsOVVqdThWK3hsL01CQmpiUnErRkFjcVhxbmhCc29aSTNXNkNnQjJKa1ZnZGxPZXZBLzkyU2ljZ09UVU1WNXZxeEhmK3pDVVBHL3RZa2RUY2RLbWd1NWNENVFtZ1VCZEdVQnZud09pYktwcFlQYmNqL1Z1aDZYUXFvM3FNRSsybW9GaVJaT0hRVkp3dmtVNTZqTDhLQVU3QW0vYm1VOWhMRkJVSTVtSzZLL2JUWlk2NUI3RVdBZk9LWGlUdDFxY3JlWVZvcHQ4UHk5ZG5vN3k4K0hQeVdGUDRnazRPbGMyR2YrakJYRVNQaUZ1S21oSmVUQytuWVFqckNxMjJUcGRBaHRTRVdmKzk5RkJFUTQzZWY0cWF4V0ppc2pGbXl5dk5pa0hZSnBNVEo0WE5hQlU1UUE2M1h3MFBXUDhlcmlrTE9oamFsbFpFTFFyZy9uSlFrNk1ZVW85WTZzRFZHWlhwWjdDeTNTd2pPUzZveFRmZDJaSkd5cUdpUWlNMkpqQnlvbW9YMjlpK3RxR2c1dTFlL1dCaGYwYXVoc0ovUzRCd0lsdEx6aEhQVHViRG9hbk1ZVmJLNlZ0b3llT0Vkd1BYdjZtcm94MForanlOS01WYWJCWEdMdmNhWUoxNDZiNmJ3OWxVMEs3NUdEVkZHMmFzY0hQbnE0YktCbDNiU0VhMFhiWjJWWGVwV0ZWYVVxUTdZL25SeCtHN09FZm5zZ3JiVnpvYmtITDZTckNvSTBEbDQ3YS8raFZ6bHFWVEY0Ui9NM3RmcUY0MmVnelhOU2xEdkE1U2JWY0lubFJNV3V0WFk5T2FMUjY2dkYrck95TzFncWpYODdNd1dOdnFxSWhRUjlhbnlCVHRVcmdvOVgrSWFtVzRLd1FNcmhoQ290VlJrSDNFZ2ZvVUt2RUhUbUhkSElzYzgrR0VtV1RiS2EvcTdGVzdDZVRweXZ1L09WTTFFclRuNVlZOXZaQm1EMThRa2duR3pCSnlSZ3pPWDMxcDFvTVB4WG1jcFFBSXgrQ3JTdXBWMStiOFltNDBtcGNDYU5NbHBneWlHSklnN0s3ZWx3TWJHYzFBWDNPSWJHS0l2ajZVdHZDMnZydDlDcmVpeFN2Z0ZmVjF5K2N6dWVXL0owRkQyR3J2UFd1RzM1ajV1eGVVeGJoaWQxT2h5OG55OGpKVTY0U3lKb3k0RGFmZ2pBd1l1R0ZlU2ZOaGpGRXNEcVFWaVE1NUl1aEJKTVFjb0NUdi85MjE2eis5MVJxQytpamd4OWN1M3p4STQ2Nm5PRlFYRldLSzNXcy9HdVlCWS9RMmZmRkYrZEJ4MlJ5ODBmM1JxTTNFUUhTUXRkMjVQQm9FQjlkcFhxUmF3MzNhcW85cjAwR2VINkVSejZCSnZ1Zk1jVjBIamRoQ0xFcHFMMzdsU3ViTlJ0ZHdLQ3ZCMVc1RFpYWjhFckFYRkhvZHZwYTRHZ1djVkkwVHI3REtUQ3B1N0Y2aFY1d2JGRHlkSGV6STRWR0JHS3dRMDkzZU9aYVlpSFRKMkMwYTFBeG9UL2F5MC9lakVZY3JyK3NEWEpzK0lhanQxWmcyME5LaUkyNHc0czdGdTJhT0crRHlZbnh0TW5uL3BUOWU2U0xSZUpNcnN5MUQyOUt2Z25lQkRuTnpWWFlZcXExNGl4VE1UMVVud1Vhb1R3NjJvTU1pcVdXNTByYkRvbmhrck9FQ0ZNaGtTY0dKTGlsWWNXdnphNmdKcFBHb1ZPalFQbnYxdHY1U01FUEtjcThwM2tNMW9oQlpHaWpMQlhOTzBvMHFqVHY5Z2dqQXZ2S0hUak5jK2U5d1RaaHM1Nlo1RTFDOEw5QkttbnFoaXdBTEI0L3d5SmlMRHYvWDRKTTJDK0ZLcHBpZHRBOUtPNVBteEhCYy9teWVSNk82VTYzNmllMk9UWm43R21VOXQ0cTI5OGpRcmU0U2FpbEM5bVUwRER5T2RMQzZWc1VIc1UwMXZEUnhranNKYmNXTFA2Z3lUUWJzVDRkSXpGMjlLa1F0OEhpcTJodmtJeTRYN2EwQUk4b0x5eXJuUENxWmtwK2ZGN1h4ZWd0dXhTOWk4aFRwTDBTc1I1ZEJkclBreXJRTHVER1lqVTBzSkQzS1pmeGdmYzJHOWlacHJsUlZGRllYc1lQRTUvcUtKbnB2VkFjWjczN0lMRXllZjloREtya2sza1BFQTRjNUZkNFBOVkE4RE1zZU96QlpLV2tWVXZSbjBnR1QwVExvNzIrSmd3NkJqWWw3NnpDUEpTMzNXRjZFWGl5cmJ4TGFLelFlSFBFVFY1Wi9XV2oyanJyOS8yVW9ZVDZNZ3VqdkkwazY2UlVwbWE3Z1JmblBWaGp4WHUvcHU1RlNqU1hHQ0ZxdkZiNFZrdXlkaS9kUkUzUVR2NXpLbGRqWHZLR203TStjWlJJcnJYakRRKy9EbFJUNHRMZ0xkdlVIYWRBUm1qbyswL1lFT3NLYXJIWmlCQjRieS9kTjlXNnkySUx5S0psY3M0U3VJbmMzTXZidmNlYXdGZm0ydm0xM2NOVUlvT3JaTjVDaGRKSGVVeWY4OE5hREtvT3dIMVpZWnZvVFE3NzFrVEhFQjNYSWRhZHZIb1RCdFRQeEdNSlNtY2owV2owZG83VU5ncGQzQ0NWaEwyRi9LUDczam8vYzZwWXJRTHpCeFBCY0xkalBxT3F4bVByQ2NMRUFtMHh4QzVXczliWEUxTjU5aHRqNUVmVDJqYVJYZFBjK0M5YlRWVXMwREpOS3dkMmMvUXpCVC9vQjQ1U2p2a0tuTXM4TjdETVJVaXJ0bGJPUzJUTW4yYzBnajN0OEFsejdOMHVBZXQvNzFvQ0xSWUJyUXNkN09ZejR5ZXZ3cS9Id2xpVVNkbUNBVEI1QmNxaWdoalc4Z3lYcTcrK2tyZ25MRmdTS1FWSXJ3QXFEQkNaQW56ZXd2YlQ3b0NHODViSldGZFU0dTlRYXUrWTErd3U3eW44SHgwM1cxMENzUkYyd2loOFpPdzFRaVVKWUxZYVZKSEFQVGV6ZFduRmdvb0hFSE5ma2dOUHlhZm14L1JqalZnNzVXM0pkNHVQTXRSZ1lFZ1c3VWhsL1lmT2grR1B5SDBHQUU0L09YbE9STzc2aGpxM0pwN2RJUzFHM3ZZTWl1cGxBT1pXcVFnQnhlQVdyUU1kSUliVVdxUGZhemZJRkxHcURtS2htUE1PVlNZNEM2cjQyYXRmcE9wcCswUU50NHBJVjNwZmtSYWdKbU1RWFZXU2ViYWt0eTNNbmY4aFJGNHZVc2U4VlZGbEVEUVZpOHduYUFXODZFMTNWK1l5N0tmeVRoRWE1a2JjeDVDWmVIVzZIak5TRHorTXJ3d3l6c0VHZjVyZS9jNFJSbTZIbThhWjcxS3J3YW56bnU5cFhuN2RPQno1eE93R1hxNjZNd05MQXB0R0hsTVNGVFEwQ3BFNlFxcURQR1l0dzUzS3FnZUdjWDRoZ3JROGozWFpoWGtxSlFjS0ZTb0RORTFXQjhLbG8xU3o5djhOTmdGWTZqWHA4bmdtTFk0S3JsbXVQMHM2TnRPSFp3RUZHR3YzajlGREEzK0ZlRFhHNnozMHR5WjRLSUtGUld5bTdKRm5VdkNvQmNWZDJFZE5YNVBFU0RrWmk3c2RjaGJHeFYwcWVBVGVHU1ZkaFVnS0N4YkFKRjRqenhXMXpUcUNmUWZKRUo3WHAzKytpR3kyc2NNUjFlbnViai9PcnR6NDBVZU4raFNMZElzVGsrL1lXTG1XdjdkMTAwaitmbG5NZkF3Yk1odEN6djBGM1UxYXpEOHRqUVVaSm91SHFYZkc5VHRaVktHanRMV3lyZmludXhYRzBMNWRQUGlreFh3QTIxRmxsY1lqSkhsVFpsQ1Zhbkw3QTZGbnhkYjN1NmhaQXdFMkJLa0NqRSs0RldJZENEUklKOVNQd1ZwN2lkR2NqTHg4dlU1TkFUbkxKVWxnVGxGV09CV0t4eFBSaUhGWWZ5WTNmSnFUNVRyTkYzUVliWUF6bzhLVHg1NkV2SjZ4R1hiUWIwYTBDY1FLSUFOZzlaVCt2T3NKdHEyN3pPeFovb0psWjhnRkltMUVNNFhYU0NJQTRDb1g1UjgxME5aWGMreDN6Q0txQ3g2WEFRMEN2VytXSmRIYWhzTitQQU43eXVJcVhXOFJ1aHdmb3lPUDRvZGR3Mnk4aHM5c1diTldYUXVSL1VZQ29heGw4c0ZZZGxQZnJBMU9WL0V0SzZhbWFNMmlyZFFWMFdtK3BuVjBSOVA0MjFReExkYWxXTEFjRDAydDFCd3podmhDOXRtdUQvRUxmMGlVSFVHNGxsSG1tNzVwZ2lqNlE3aDNtOWxWY2I3NU5BdEY0TitDeW5YRFBnVWNra1QyV2RuTGE0RmVqVTM4OVlKNVZtaUZiTHZsVEdaN0pFQzJIalBiR0xnK3FEWldZbEY5TlBUUERmc2JNaHVobFYyOGdTYUV1TktMZm52ckswaWpEOGh6aGpmb0RMcXBBamFVTEIyMkl1YS9xUWdvTnpxNTNtV1BiamhSYzFsajZNT1RVbU9yaWU2Qm5GelFibjlNOEZVUkIxYjRBZ3Y3MDNGZjk3N2N6dnl2Y1U2dm10cWFYRU0yQVhtQ0xVOWl1MlRzOHNWTlJPTkN3MGU2NjIra3ROTXVkanVmN0hjdmJGbjMrQ3VXODlFM1lQV2xNRjBTSjk0L1o5dG5jRm02d1RtUXhrV1V2dHFsdUlxNUhZV2FwOEhVMGRxa3dsbEZzTHBzZFZkTjc4eUhPbFVUZVRiVDdCb1VuVkoxR0w1Mkh6ejc5RWhhMjJ1V280aEFUd1RqNDdWKzhBUlpXdUJHdUQ4anREU3lxOUNZSzlQOUdQYjRBOWpsVGppUnFEZmYzSlZKSE5QYUR4bzkySkRuQkJVV2t1dzQ2NWplUHhTYzNQUGlpUVB5TGpNSjVnb3BOcHh2Qkppa0QxeE82djhlbTQ1VFFLQTZGb0ZMd21QTHYyZ2xXOXdSYll3ZlJZVlpVS0lLMFRNUVFnUUYrck9Ib3haWmhmb1JkOFVlOFU0VWhVQ3FpSkk4MW9aV0NqeEZrNGJLNFY4Umg4bnBmRFRhdUlkWE02cGZSd0NETEZhbnJ3NUtiMi9LcnpzdDgxQzRTQ0JyU0k3djhWc0pXVVk5eGF0YlZHRmdDMzArMnBXUStHV1ROaEFFUW1BcDVhb0R5Vmk2MUdTaVZaVzd5emhsV2doQndNNFBNTHk4Ukk4WTZKaDgwKzhueFlKaHhkREw1NkplOHRhYndzUjRaVC9wTXBhUVJIVjVtNytqc3Q1MWJzcUhBNFYxQW90NVhUSmN1L2pLU2sxZ05yZVBWVC9KMzQrdGx6UW42ajk5RGRnNWZXa1RRZm1EblFDVDUyUHUrZlFzYkdtVDJmaTZ0T2czaUJHNmFDS3BrcVBCWTJDNWQydm8zdnkxb3MzeVplQlhrZEQ2aGw4ZkI1U1JzOXhseFRXSkZDQnptdnVtYTF6QzliWk1jNER2d3RzZWl3UVJZV3lDSmtDTnV2akdESElpNk5RL1M4WCtuY3FHQjNhRGhTc1VYRUYzVGtYNVZNNFRQTUpobXJCeWVNekM3Qi9xbmVvNnJrUWRiNU5HZlEvL3cva2JBU25mcXVYWmoxbm5EQTV3N05GMWEwTFh5TklTZVRteXM3eENPVisxTXM1aG0yTWZ0Rzc0SVZoYVhUeTcrWXlUU3IzS1RWSytTMzVqaHhDTHg3aURKZVNUNVFhYU9xUmdHdkhUVHI3a0lpTFVTU1FXYnlTSUNJMzNNQmNCWEdXMUtRN3FMQThsRi9PdzZGRUJsazQ0ZGF6Y1ZicWtzaDlEeFdYT1FvNkl5Tkw3K3NsZ055M0ZSL2dIUGh0ZkdvVlRUS29zYVo4aHRUL2RZMjlmVExBR0Z3cE0wclB1cjZnTzJYenFlM0JsaWIxUzdWOEVkS2F5MlFscUJMQno5N0xRRU9EWTZnU1FZSGVZRjJNbS9YUmJuLzA4T2Vab1haZmM2V0lCMFdSeS9jTmJ4RnhpWUtuVlQzYStHb3l6a2VhdHdPNW02OXZOUTM0SStSa2tFNDBubUVCNHlRSzhXK0IyVnZtTXl3ajNFL3dqSXI0T0NHT3RLQXcwdlRYRDVYS3pkaVNGRlFyTEdzU2U1Smh3Z0NGbHYyajd1cGRYUlVzcDZieU9jNjFCbm95byt3emQ5S3RieERyQTlOdXFORmtBaWdaL3FodXpQSk14WWFSU1VZYkI3c0dsMnEyWGpUWTV4UFZHMGJXVWJxbW5QRDgwcjBPV0JVUDlvU2NJSUhub0Rzd0JJQkE1ak1yeTNaaVY1OHBjOGRNZnBxNzIwR2pFWjNYT3VMQnZneitnZjhWRzcyV1FKand5d2RGMzdvYXROMndsVHRCNjQyK2N3eWt3UUQwdVpXRCtmK1VyNi90bFVENjRyNjBpVGVyWUdkUnkwU0YzenRqa0FlOEVTVHU2ZER3cVR3ekZMUDdzaDZiUWNBazZSZkdoU1VtUk53ZG9HVVBrUklzcUhkYkRCTUR0MENvaXVqZFNWUG1ISm5vUXMvazU1WU5RWW1RYjZtTWNBZkVmNHkwZGpFajg5VS9tMlNKRUluSThhOFZuYWFjRkhJK0RoQUpNM2xhUEpZR1doMDlWT01ET3E5RGhMWFN4ZS8vbWEweUpaWm56MDRqS09mVGVudHJiUDZwNEpDR2FOdE5icmtQSHV4WE9zY3BtWWsyUjJWcUFiNXpPd3Q0MEJxaWtxYjBDTDhhVzNJTlI3cFV1dUY1dVZ5dmYxZkJ6cjVuUE80R1ZXVi9hVE4yR3pPamF0YTVKS1pPOUVRbmU5aHpnOGMvUzA5UDVVdC9JWVFVd21sMCsxOHR6OUNUVitKNUpQZ3dzN0NSUXZtL1c4U1F4Zy9ERzZJV3FwUmpBR0VobmI4V1pjZGRQcURJRDdqVnBiWFkwZHBncytFRVJyQi9ISnRyRGNydWYzUmhZbUk1Z2hScEtTcGRzYnpUbUU1Sm1lUVRKaW56YVpVZlc5a01jQUVKZEJ2Ymo5RGJXaTI3QldnM0tDSEJ5bnV2UnpZWG5HcXkrN1dzLzAxVjVvdWdmTHdPc0xQd2ZtcFVPYi9tNFlTdmxxTVJYMk5CM0hHSFArOUdpSkIzUEo2OHdkWTVNZy9aMGlRVWlIWUthZW95dGU0S1V2cm52SGg3QU84NEVJbkdyMnlxb3pob2kvTHl3ZUFRR2pZMFI2Z1pJbjFmQlFaSGZrU1Z3bHU4TTdGekIwL3dFS2EwWkNaZlpKaHcwOTB5cUJuT2JuL2xRdVFKQ1djWmp4eFFMc3k4dU5ybkF1bzhHYmpzNUdHVmVEaGRsTXExcUlFUW5HQVhheVRRWDFRYStuWlBJclRrcnJYWEVFYUt1eUM1blhEQU5vTGlhNVpSbXVycXNodzR0QWpMOVprejJBNm9lT04zei8xUTdIMlpWcjgrbGhGeWJGZlNiRUI4RjVHL1Vxa0NFTGwrblRUNlBFNjBxei8wclcrR2RoRFNwZ1BWbzNkcjdMb1dHODhBdzBvK2VMKytReHlvRG50WGg3MEJYVHA4SDRMbE1jVHVoRTlDTis2MElUNzlMVit3RWhuMjRxSnNuTDVIOGVqdEF3Y3Ivc3NnUjY2RnJvZmFVR0J5M3kwMUZSSlhjUU5MSG5GaEdiVjU0d0g2K29OVU1QS1JhVHFhNk9EMkRmVGNNbW9hNzllMW82L1E3aVVvSmtwWGpqSkV6QjlhNnRYRmhFQUtVUzRlMnVxOGlLc0VDdmp1R2d4MzRhd1VmNitoR3VSa2tOVTZWeGM2UjJsR05zbnR2NElzRmhwZ1Q4NWkzaVR6OElsZXppU2ZITGhNWlFlb1RnTTVMekp2VjZKWlh3ZzNUSkFYQi9sZkd3amEvZzFQZitSSmtCSmF2SlNKRnFTcjdwdTNlRldFM3hRZ3U3WkZGVmxJWnhhVGhFZVJGNmNqcE43L2RLdnR1QWNiR3dQVE9mNVQvbzlsalpXc0lYN1pHMU5USTVXQ0xDQ0diL0ZsWVNRdmIxL1hsT25SNlo4WWxtazNuWDhLY1loMGFQZytkZDdSS1hVNmlNb0gwY2UvV3EyN01lT2I2K0FNT2FjWWtKWTQxMHpHTFZ5Y3REM0hLZi8wYkxac0JWcmtLdFNxenFENVV1NTFoWGFxdHVCa2E3aVQ1YzJpVW41ZUg5TDl0UUhqV04vc3ZFWXRvU2NoNFhzVmhSSzd1emtLMHhvTGJsZmJQREpYSnlaMlVnVjhRU3Biakllano1UjRoWXBwOUd2WE1RbnBJWmJnRGI3K0lHMUdnVjNUQ0UvMWsvU09kUTFubXUyYkN5M3hBUXFWRldTQmh4WEZURTAvM0VXcExiOWJaY051L0JaSUloc0x2QksxZURxb0ZuT1JEZ0k3UWFXVFNFTklqUzZQVWhqNHNEcnV2UEQ1bnFNTU1aSjZ2WnAzMFdwRGFoaVBXQ2RnL1BuVFRSaXZhd1JpdkpsVVNqWkhnM0tEM3FvUEhYcWlOTFhZL25CY1puTWtUUjdwZnBIdE9wWW5ybFkwUDJEejdmQ3NBQzNuRk5ZcmcxbkxKdU10ZG1HZHZJaStrK3dWb3ptYVErUThuNHNuMS9kdVFjQUpzbHV1VFhUaThqUjVONzFQUXM5Q2licTJ3RmhieWc1UFdQQTdiaTk2dmpZWm95eWg3aFNqeWw4OG9hbnRWUzVVcjEzbmhaK2ZWOEVvTDE3ejk3aitHeTZqckt5bHdKVGxsKzU2UFFqLzZCRlo5V1dPcjRhTjJaQno5bGlqOWt5TUZ4RTJKQ1hsQnhTUmtYdVZWcWRRYVdTOWczTXFMWWt2RlpxaE1Qa283MS94bE9MYkJTZTIwTzRmZ3JlVXNKRUIzTi9rYUpIRnRUNWR5Mlpab0RqV1c2aU52Z1dyRlJOV3lKcGVMWjRhcWFTZXRSUmFhT1JGa1pVTlh3WVhyVFhvaDBDNzNja2YycHpwYmNHc2tYT2Fxc1dBN2Z3MzNMVVV2TGxFVWRUNkNwUWhuSElPVW9tMGJYWURkN0lGVncrdm1tUzRPSzFGVzZ5MXNPaVBVQ2dZNnB3eWtEdmNaaXBOZ0ZraUJ5L1RYUTBNQWMyaE14RTR3N3dEeGJma1FDdFg2MHd4UXFjM1hNUW90R25FL292SnExZVFoIiwibWFjIjoiOTA4ZTIyMTEyNGU4YjI5OGY5NzQzZWMwZWY0NGFmNzI0MjgwMjg1OGU2MTNlNWI5M2E2Mjc2Yzg1ZWQzZTBjOCIsInRhZyI6IiJ9
+@extends('layouts.master')
+
+@section('title', 'Profile')
+
+@section('content')
+@section('page-title', 'Account Settings')
+
+<div class="content-wrapper">
+    <div class="content">
+        <!-- Card Profile -->
+        <div class="card card-default card-profile">
+            <div class="card-header-bg" style="background-image"></div>
+            <div class="card-body card-profile-body">
+                <div class="profile-avata">
+                    @if (Auth::user()->profile_image)
+                        <img class="rounded-circle"
+                            src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}" width="120px"
+                            alt="Profile Image">
+                    @else
+                        <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
+                            alt="Default Profile Image">
+                    @endif
+                    <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
+                    <div class="d-block text-color">{{ Auth::user()->email }}</div>
+                </div>
+                <ul class="nav nav-profile-follow">
+                </ul>
+                <div class="profile-button">
+                    {{-- <a class="btn btn-primary btn-pill" href="#">Upgrade Plan</a> --}}
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-3">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <h2>Settings</h2>
+                    </div>
+                    <div class="card-body pt-0">
+                        <ul class="nav nav-settings">
+                            <li class="nav-item">
+                                <a class="nav-link @if (Request::is('profile')) active @endif"
+                                    href="{{ route('profile') }}">
+                                    <i class="mdi mdi-account-outline mr-1"></i> Profile
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link @if (Request::is('profile-settings')) active @endif"
+                                    href="{{ route('profile.settings') }}">
+                                    <i class="mdi mdi-settings-outline mr-1"></i> Account Settings
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-9">
+                <!-- Account Settings -->
+                <div class="card card-default">
+                    <div class="card-header">
+                        <h2 class="mb-5">Change Password</h2>
+                        <span>Ensure your account is using a long, random password to stay secure.</span>
+                    </div>
+
+                    <div class="card-body">
+                        <!-- Mensagens de Sucesso e Erro -->
+                        @if (session('status'))
+                            <div class="alert alert-success">
+                                {{ session('status') }}
+                            </div>
+                        @endif
+
+                        @if ($errors->any())
+                            <div class="alert alert-danger">
+                                <ul>
+                                    @foreach ($errors->all() as $error)
+                                        <li>{{ $error }}</li>
+                                    @endforeach
+                                </ul>
+                            </div>
+                        @endif
+
+                        <form action="{{ route('account.change.password') }}" method="POST">
+                            @csrf
+
+                            <div class="form-group mb-4">
+                                <label for="current">Current Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="current" name="current"
+                                        placeholder="Current Password" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group mb-4">
+                                <label for="newPassword">New Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="newPassword" name="newPassword"
+                                        placeholder="New Password" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group mb-4">
+                                <label for="conPassword">Confirm Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="conPassword"
+                                        placeholder="Confirm Password" name="newPassword_confirmation" required>
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary toggle-password" type="button">
+                                            <i class="mdi mdi-eye-off"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="d-flex justify-content-end mt-6">
+                                <button type="submit" class="btn btn-primary mb-2 btn-pill">Update Password</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@endsection
+@push('scripts')
+<script src="{{ asset('js/changepass.js') }}"></script>
+@endpush

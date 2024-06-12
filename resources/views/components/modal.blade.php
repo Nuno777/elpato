@@ -1,1 +1,78 @@
-ENCRYPTED::eyJpdiI6Ims1OFk3NVJaTzcrd1VtOTZ1aUREL3c9PSIsInZhbHVlIjoidmZCcW9TYW1VdGw4Ykx4QjZZdkdzUTBHWXVXMFF0UEtRSWFMR1VTcW5oNTJVZVJFb3U2eFZmSWJTOHNsV0dheUFHS05QdDJqb0RBdHk3SjFBVFgycGx2ZWFRKzhOUDlxbkdkcXJHVHhlU3owdnc0a2twUlpzR09KamVMb3AvTUhmWWVZWEltbUM1K0IwV0VLSExucDR0SVhwVnFzZ3phYTB1M3hkWjdTUDU2MWx1YU9TcVdOV0FNRjA2VE9nYTJnUk01TytmRGxyRThXM2w5MnEzek5scUJWZk9lM0grYXVkYVJmeGkyUTZIazkvZ2h3bFhyTDRUTXZYaWk4TkM1UCt1RitqK0xMYVBtTTBhTFNSZktnbHlldzg5VUJjQmR6aGR4dUxnaGxBMnFRRW4weUVJa3l6ODd6N2NrdkFRSVE4VXFTV2FpbVd0bFZiTStZS210MHhPTFN1OGlZM204UGdsZUZDWThUa2NGV1VKVXlsODVHRFlzY282ZVRFNDNyVTdPL3liUURDTHdqc2tQY0ovcFRjcDNjS1RFSFhLVkdvU3BhTUh4L0pIckNLb0FUK2VVWkxwSFgvbGx2Umt1Q2VFampwdjR3ZFJDVTU3VVdxaWpQZlRQQkRSbjl5clQ3Tmh4R2tjQkRJZXJ5SUZ5NHpQM1gyb0RmYXFhb0s1VnhGQ0ZhZUhvbnhhOHdHVSszTFZBNEJtejdiZ1l1NktUUW1IcUF3c254RDNwRHdudWE1ZXYyV1RWY2w0M0NkNEtxTFhuOWFJeFU0anJnaWdUQU9IMHRtUklJdmpJb0FBcWxTUHh0TFczRkowYU5zWTJvQndHVCtXOTlZMS85YlgvemF0eHAwY1k4ZHNGUlBtaVRVV2c4VDZ3WmFreUk1STh0Q250U0hNMEhxbXc2dGdjaDd1L1ducVMvK3JuNHM5V1QrMmlzOVJPdEtQdmNlWldEd3V5QzZEZWMvL1N6ME5YNEN5TzhJM2trVm1FTWgvcWtRd1N0RUdTRUpxRjlqSHRPUFpOSlhJTlZHT1hpUUJ2TVBwc0p5MUdmOUNQUTZCVkhDeVZ4NDc0YlRlem9ObERZZHZsVDZKK0xXQytrYnhOcGVWcjRiUTltN0Y1Wldtb2VNTmwrK01GR1Y4TVk0a2Q1Z2xpSlFCdkpSVlhaWkZ3N0xJRWNTN091ZWl0S1IxeElKSWRJN1U4Umo2ZEphVEE0M1J4Ui9OL3ZHWU9iQnhrc0tLR1VqczVEanNHWDhJUlppQ0QrS1RTd2RPQmZaVFZPOGtBeXdMem8yWGJkM0hlTldPZWF6L2RPc0c4RjJnOHprRDM1dnJ4Ynl1RDhmOVpOaGUrcUtJTkxsdllSZFlDZXYyOHBZTnh6ZVVvSVdKUUgxZHQ5N1JUdDE0ZytNUjdRSkdPMzN1SnVKeU9tVlJSZHlwR3dkcmlIUlBsK0lvY3VmSTNuOUFXNjUxZC9LQWdMU0RXYXBuUXBVMmoyREVNYjRxRUhYSTRWUEdFTG9sZ1E0eFdrYXJqeXhEK1FyTWQ5RXdha3hqckJNcVhFcGxwUlN2eUNxYmNzMk0zRnU0TkRLUzE5SnJ0QmRhSGcrL1MvM2Z6UFBZeGhYNVpscnpQcGRpVVNiWjBxTThBa1Z1T0hQVVl6eEdSd09jRDZnN0lSKzh1dkF0dGRRdndjVE9oQTlldW0vS05vVkVMUnpLTStTd3JPck5qcnJzSy9tSi9sdW9WdVUyUkFDY1hxU3pJdmQrOWdGNTRQM3QxMTJlUCtOVUl1RkMzK2VhRXgzOFB4K2QvKzZvY2NDWUpGSE9pNkhVK29tbHlYbEZ5a3RCbDdDUE1xT09EOGpLb2k3RXp6VFM2ZnVKWi82NFZabUxWUVhBbnNxUy9LNmVVRDRhNmswdWZocmE1a1ZleG44cExZQkE1MmZUdmVPVVF1U04rSjlEZEN2QWY0R09MTDlDL2VRSmNZQ1JmU09DOTd2VTBURE81OUVlQm16NHZzemVGYUFUeG51Zzg3N2NTMlRJczBOQXB5a0dHUDI4OU41WW5uaEs0R3F3MzJGb2tMUTN5dlZ4LzR6QlBPbGJJdWx3RmpMRk90dEhzWUdZdVA5VTJIOU83VDRsM0Rkb2RBZjBjaEt4bjhKYkFpSEVUM3BtQlNQdkYwanZ5Nkx4MENsYTFWZWx5NnRLaVdsZ3FYeHQvMjZsVGVrWExpeHlEV3pnVnMwaXdKWW42Ty8wdGcvRWxXa08rbzNvUmg1M1p1aHdpbmZnZTFyTG1XVlNTUDM5Mnp1U3hndWtybmZPak5lelhlSFZiR3RoRnkrYi84aHlnbnF2K09mUmRkZjZmQ00xRjU5UEdEditLSTJKSU5QWE1FM1UxdUNsV1NpRENpM0NDZTBqcGcvNVRnTHFuVTNQMDJENFo1NFJtN1NoYWpYUzdjbG02MFZEaDZnS2JUY2FSNEovcGlMVmxJVDVYaDJwbDk5bHZUdjZhTFRkWHd3WmUwcS9RZCtEL0FFRUdpKzBHb2ZjUkVDYTl1WUUraTZwbEZFblU2YzlrRzFQMWkxR21NbTg1UmtYSzlyVnNVM0E0ZzFGTEMyVzRDN1JobnpDT1pXenMybEZOSzRQZDdCbE5oeTJJd1BzY3E3aTFVOFRWWmpFM1l2bHNXTzVSbUNQQWVDVWpHWTBzcHgrUHVJWHlPeXMvdnJBeFF1amM2bWZoVXdFdUNUWkRmdGhSUXVPN3N3NklPWUlkdWpIUHZ2ekVEUjZvSnNJTUdiaUxlT0c4UFA4alIyb3pTNVh2TnpNSlZUVTNqV1Izbk5rYVpNbzRRU0NIZXpwcHk5T3ZGcit6dUFxWnpUVFVScWtxOXArZE93S2NqK3p5S0Z3bXJEZUNKQWxLNUE4dXdkeFk2OE5mSE9oSmZxQ0VOK3pxbVQyd041ZXJMWGY4OTc1dVVrZHZnM2pqVHlYQkJOcDJjRlVYNlZ5SFpaRFBPV1FCODJtTkpQMnRwSFFlM1praDVxZGlLRzB1QVJ0M2FoWEVpc21wV0pLRVFKOHoyYnZZakVNQSszTzRzazYxYzVUUmpOS1ZsNlc1ajdQcXBxaFhuQjRTdUcra2FjaFg1QkRjNVNWMVZ2Rjl0cDJSSWk3TVJkTkh0Vi9jQm1la2JXb0c2R0c4OUxVYnJlck5nREpSRU9HOTdqTS9Eak1JMTFBT1pOMVdJREpLNFRiei9uYkFsaEo5dHB0NzR6dGdVeGFpUFV2WngrV2JxRGFoNElPR3loYUdFYVQ4elJIdXJVbVMrRyt3ZXd6eHFWMlRWZzlTWnZFY1JrTVpPU1poUEFQNCszbGpZU1pmQW1raHFLWUZKeGZSNm9YZmQvb3F0RTZJSDVJYW96MWN6cnpQRnJYR1A5K3NhUzlHc0hXb2FxdVR3bmo5UmJTZGp6UDUrdFBVRnBLb3dsaXdrYW9lREJ4Y1FyUXlSVzVpZmlEdEpiVkszSGg0UU1pTUlaa2VFMEdMcFBhSEYxTloySENvNXhoMTBWaXp5c3dXUW9TYWZOT1hzTFpBNklsa3Yrd2NCTE9TK0hLbWwreUd5aXIzeUYwN2VuNzZZYnBVM0dRT2s4UWpXcUhscmFDQlBrRm9PV2kyNS9yZmtMTkJrV01jM21ZWjB5dTZ0ZnBjbXdsOVBvVTdJSnlReHdOQ1M4ZlAyZGFCMnpVdTl1L1h4bVhUZXJDL2tncXkySXJMM1E3dys3cmpBdEl1OGx0SGRVRS9ZQW1QTHVaSzkra1EwcE96Y3h1N0k5K1NMZERRSWJObFhJMGRvNWhoR3pSaGhYRGFCOU5hT1p2WVl3azg2RlVyZGpQU0tZNTZvcUJzam1FaE4wbTF4OE5UTjA1T0IrNExFczVRR2VkNmZCUnBTMUR4TXZ6c3dhSU9OVnc3Z2ZMSjlSWVBDRkpoS3h2dlRzdjA1aDZZY01KclpmTEwxSEF2Y3R1RUI0K3RrT3pmSktJUDZ3eS9DbENrQWE4NVA5bUdkVVA4WnNTbVRzYkZjb1c0cmNUVVlzUHZiMWJwVkZMTUl6My9pTVFPSm9DeVB0RDI3QU5EUEJuRUowNWRUQU1keE9saEpHMUdGM05GMjRkMEhMUE1sYW9tbXE4OS9tcEU2M0xrVVhCTXJHclcvZ1NEVGxoRE1xbFhNMTRiSmR3OXZyVVRLa2NtOWZDY0FIZGpiUjdxbUlOdHl4N1R5TWhwT1dHQ0FPTzhhWFdnblNWS2NJcVdyRE5KbnhJc2E4ZE9PTHkzdWtpM3gwS0VlenlhV2s0dUN2dkplWlM2TjVXNTV6a1RDQzE1MzF1eWJZWVdvVVNGQVkvL0tpOEI0aDN3MU0vTlFlNUh5b01MRHpsOXcvcjVrYzQvRy9yazNONnRUSTJzelMrbmxLa0FpeHBUa21zSVo2eDBDVjQwOW9iYXZYd2VQMDFnZ0wvQzdRVlNTdlhoeWFHamttMmNrNXJzYisyZXg2WURJbXZvM3FjV3B0ZzZnVkxody9qY2JDOUR6MEpHY2tCQXB4OGpadDVzSHBlamswb1VJR2RsdjlsU3Y4RHI0VXNaVDl4ZWtOMXZSYjVwczZnVnhvRE1lbkdJS1l6NTZKeGlCVy9KdmxsTFpaUjU1bGJ5ajByL29OaEFRcEp5YWN5di8vNWFpSXVKS3BXNGpFRVBBS2FWdHYzTFRzMllXSWxEM09pTGlua2R0dEVzd0kwSVRHTUdrYXdxWGpOUTQzWjJ1MjZWbXppeW9yT3lwekdRRGtUYjNuNExMM2kyTFBxVFp3Z1ZtUEhqZUJISWMzMmJRM2dRR1hKeVpjM3BwUXVQSzJKTFFObWRCSXlseGZ4UUZaMk9hQldUTW9uREk3aTNuSUpkQjNvcGJRRWhzbGcydjFDYXZVMFNXMEhHR1ZoUlZQTmVnaGFqRFhiRWZkdUpjR0lPRTNSQXAzOHloeUljRGYwWWNUM3pOTkI3RFlnYVZvYWlDQzRrZm9xNTRhRVVVeDBPcURFaWp4S1ViS2h4M0ErU2wvMXpzNEllTC9LL1FSRlUxOSs2RGRTbUdibmsrYXVQbU5DeW85OUVCcE1MTEdQcWRrTGYrampvMEVIc2YwOHQrSTB6YW5WREJZaVNtZHI2aGxZb1Z4S0tTTDhMejh1MXczWHpWc2NmNjFQWTR6cEs0anpTYnlpM2NvNkVKWUFaY3NkWWlLakpYY0NmWGNFT3FlVFZYUEQ5TlRvYlErQ1VNRVprZWMyU0x6b0lZYVp3VzU0MGFycElWL2FFTFZFUEdsTlB5cFZodEVpeVdjWmZpQ0pmNEtqNXA3cFFHQ0pseFA0aHpJaFNxNWcyRFhTQS9menlkVjVjNThqbmU2RnRMcXZ2aUFTa1luY2JLNW8xWTF4Q21nUkdRQURCNXAzTkRTWEozV2Rpd3JIRklCZ2VQWDMyVVMyUytieHVOODd6cFBQTis4MzlSVzNYdERDR3htcGFENnZtWHY4eUo3VTcrVjN4R0ZWdjBRMmpQd0U4Q0tLUncyK3BJb25LN1gwdkpLZVl6TEYreElkMWNKOUk3WDNUMHhXaExSOS8wekMxSWlGM3h0bmMrbTZNbE9yV1RzMHErdVF3TmpPc2xpbENMelVTRkZzUS90cW1RdFpHVG5jclpyUEpLY1pMSWd2VmhwSlMvdHZzb3VnNmtvYlZjUW9GRmdTaXJ0NTFNN0h4RXBPQmhUNkVrck9hYjdsbXBySTJmcTAzcDZDVHo4ZDRCdWk5cHRXRHM2WW5XYzR0b2t6cE52M3M9IiwibWFjIjoiN2RkMDY0OGIyNTQ1YzEzZmIwZjc0OGU2MGNmOTFjNTdhM2EzZTM2YzVhNzZmOWJlN2I4NTNkNTIzNjhmYjM2YSIsInRhZyI6IiJ9
+@props([
+    'name',
+    'show' => false,
+    'maxWidth' => '2xl'
+])
+
+@php
+$maxWidth = [
+    'sm' => 'sm:max-w-sm',
+    'md' => 'sm:max-w-md',
+    'lg' => 'sm:max-w-lg',
+    'xl' => 'sm:max-w-xl',
+    '2xl' => 'sm:max-w-2xl',
+][$maxWidth];
+@endphp
+
+<div
+    x-data="{
+        show: @js($show),
+        focusables() {
+            // All focusable element types...
+            let selector = 'a, button, input:not([type=\'hidden\']), textarea, select, details, [tabindex]:not([tabindex=\'-1\'])'
+            return [...$el.querySelectorAll(selector)]
+                // All non-disabled elements...
+                .filter(el => ! el.hasAttribute('disabled'))
+        },
+        firstFocusable() { return this.focusables()[0] },
+        lastFocusable() { return this.focusables().slice(-1)[0] },
+        nextFocusable() { return this.focusables()[this.nextFocusableIndex()] || this.firstFocusable() },
+        prevFocusable() { return this.focusables()[this.prevFocusableIndex()] || this.lastFocusable() },
+        nextFocusableIndex() { return (this.focusables().indexOf(document.activeElement) + 1) % (this.focusables().length + 1) },
+        prevFocusableIndex() { return Math.max(0, this.focusables().indexOf(document.activeElement)) -1 },
+    }"
+    x-init="$watch('show', value => {
+        if (value) {
+            document.body.classList.add('overflow-y-hidden');
+            {{ $attributes->has('focusable') ? 'setTimeout(() => firstFocusable().focus(), 100)' : '' }}
+        } else {
+            document.body.classList.remove('overflow-y-hidden');
+        }
+    })"
+    x-on:open-modal.window="$event.detail == '{{ $name }}' ? show = true : null"
+    x-on:close-modal.window="$event.detail == '{{ $name }}' ? show = false : null"
+    x-on:close.stop="show = false"
+    x-on:keydown.escape.window="show = false"
+    x-on:keydown.tab.prevent="$event.shiftKey || nextFocusable().focus()"
+    x-on:keydown.shift.tab.prevent="prevFocusable().focus()"
+    x-show="show"
+    class="fixed inset-0 overflow-y-auto px-4 py-6 sm:px-0 z-50"
+    style="display: {{ $show ? 'block' : 'none' }};"
+>
+    <div
+        x-show="show"
+        class="fixed inset-0 transform transition-all"
+        x-on:click="show = false"
+        x-transition:enter="ease-out duration-300"
+        x-transition:enter-start="opacity-0"
+        x-transition:enter-end="opacity-100"
+        x-transition:leave="ease-in duration-200"
+        x-transition:leave-start="opacity-100"
+        x-transition:leave-end="opacity-0"
+    >
+        <div class="absolute inset-0 bg-gray-500 dark:bg-gray-900 opacity-75"></div>
+    </div>
+
+    <div
+        x-show="show"
+        class="mb-6 bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-xl transform transition-all sm:w-full {{ $maxWidth }} sm:mx-auto"
+        x-transition:enter="ease-out duration-300"
+        x-transition:enter-start="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+        x-transition:enter-end="opacity-100 translate-y-0 sm:scale-100"
+        x-transition:leave="ease-in duration-200"
+        x-transition:leave-start="opacity-100 translate-y-0 sm:scale-100"
+        x-transition:leave-end="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
+    >
+        {{ $slot }}
+    </div>
+</div>

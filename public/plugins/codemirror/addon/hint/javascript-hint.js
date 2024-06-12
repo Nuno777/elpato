@@ -1,1 +1,157 @@
-ENCRYPTED::eyJpdiI6IjZsdy9wek9jaEl2VTFOc1VIUmZiN0E9PSIsInZhbHVlIjoiaHpnbURyL0RMeDRjR2E4MWFBMjhoRWpFVitod2U5ZkpXWFlaaVpvUmVLaFNoZVZtb3BSRVRGdmVlNzVVUEpEcWZrd004WHlPMktEYjIxRXFJUUZFRktzQUp1ZHFiQWhOdW5wWE5HcDRkN2E4NU5NNmg2ZmZDUFFCR2FnSlNKa2lJam5lRk15ZlIydnZ5WmFkalMvdnVQNktSeTcvMXJFa1psNTJRSHgrL1ZYN0NZaFREdmIrUzJKT28vY1BtU0hVaFZvTHZ4QWtGZDBZaVJKc01DVkpCTTR4ZFFSZjZndE1jM3l4NFVIeXFiMXRwMFAwcFpaWlEvSlBManFMcG9PVkg4K2lMdGd4dXBSRVZwQlZSMDRZSHhuNCtFSFZkN3EvTXlSejFjVlhWcE81V1I5UCtLcEw3N0pybWVkeHlkcDUzT1hIb1EvVXJ6RVRNbGY1YkNoL0NTbTE2bFMwOFlZdTcwbVpQem1nK2xsMWxyV3ViMTlQdnEvTzJXdjNrQXNHdGxPdTZHZTVmNUlrZDM3NWpoRTRRWm1uL05XbkZvMFBwZ3dvcGhqQWtGellSRExlZmZsczRBTmdGdFVXWFNLZjA4cjBtOVNmcmp0MXhTTTkwaE1CZ0VOUWJTREZCb1dQYmpDZFdpN254akVkMHRJODV6b1g4dkMrSmlVSE04K2xndG8vNGNVaGtSZWFvNmp6UGprTHZNWXluNmtKZG1CVUx4NjVrWWRFdGVwYWJUVlNPbS9uRkQrdTFKT2NoZElQVERLeXUySGZDS2dFVFNkakxnVDRuUVpXMloydWI2N1ZWRStXSWI4RzNFeG5Tb2lDZmJBVFZlaDQ2dG02NFlZalNHVDdubHhmZEVZc2ZGcllUcHMvUE9hSTgvZ1dTcmlHT3oyQTAvL1luS0QraWwvT2ZjT05HUVlXVU10NEJ0STBSSFpjaUI2ZllFeVNmbS9qUTNtMXZUM1BxaEN1ZUhSV1pDY1FPZ1UvYllkcndmRXNjQkNVQ3dpcnc5T01BdHpYZEt4a3ZKREsyTk9iRWhVZ1lTdUtlVmgyNVI2OW9ZVytoOWwxdnI1YldIb0NSWXpUWUpOQlcxT2ZEVGpCK1hnSHNiYzFZNjRqYWs0TjFKOU1Rbi9RVXBlbGhRWE9DSUhjUDVoUW0vN29yd1F2aWNxeDAvU3RaKzROdGhuU25LVFhsMzU2WU01eVlRcWdnbldHaU5ZN1V5SlQzZjM4aW9LK1hURXM4MzNSUDdZMnJVYVhiWUxWR1krWmx2ZG5FSDRPbXk1SmpMSE40MExrdDhPNmRSa1UvSDhObU9QdmwxTVBnOFlEbW1ZZ3k1VDRHMEJ3Rm1KSkg5cS9pZEl5dEY5QU1QdHQ4RmY2ZW9LUk5SVXRhVW1NTWlLUVFTam5FVmZVVWdhczR1ZGF4ZWJLN2w4ZVVUTFBRUWliZTMvNndKby9sMzNDNy9jL3NOVW91MlQ3WkxuVnZndEtQTFlkZkM2V2ZqTVhzRU1HRS9iWkFhWVJWa1hiVUZLbm5MeHVLS3ZxR0M4cnBKeHZBanc1VTIwZTJQbHBSRXllVzlzV3l5UTlwTmhjWlZoTnN6aVQ4aFRXck1xaFNSN2xqbDg3TWVxOWpzbXN2aHNodllDR1prMlJxMUZGQXdHUWhTdU92dkxMNHlHbFFOSWIxeXRKL1lhSEV0Z21XR3JHSm5TNGhacUltbFgyK2t3cDFmMVRFNWtFeWNwNVdudlk2bm52NlVabENnSmUyVFhpNjhsWlZxTjM1S0lvYnhjNUJFeUNGemJpaENXZ1ZWaVFVMEc3N0hHcy8wZ01yZVIxNkpkL1krVCtlWm5oSWtwQkJPZ0FmNFFnaE9TcVJMMW1KbkhiT2ZoYWlzQi9DcGo3Szd5bkZJREZCVTd3UmRvUStWdjhlQjNrSk9pMXhWM1VjNEJ4dDRtdUhsd28ybWlqY21RWTM1S3dwamxMMHVEVVQ3RHBiOFg4alBlVUsvdkUxdXN4YTNSSGlyZGR0b2oxWkQ0NzNHdVhKUXVqRWppU0lMWWtpMTQ1eEdGQzZ4bHB5SlBmU0JRRm9odkVKaVJEc1ZwcTJtL2d5SEFPVytnczhSbWVnQ0hQd0hmN0p6WUNWN0EzSXRDTEhsYTlUTEhubmliUlUva0djM0lGNHh2allSVmRYTjNNbDBWQndPdzVOVnFjRUZkajgwL0xicG1mdDNvNDByN2diUEVtVUlCbWVOS3pTYjlsci9xbFM0ZGZBWUdpQ0RNdDJDaEtUTkczdm1QRXdRNHh6V295ZWJxYUR2dTJaRWJyTVIrYTE4dDQyS3NRN2xJTjg4OExrUThOZTR6MEFBVWVLdW5Pa245Z1FKT1lIRU93ZjRHN1NFR2lqb0lyZTVBZTBMTlJQekZ0ZXJoTzZWK0JrbmVQMEJyOVkvL2d4RkV6UUx4VEM2Z0F1ZWw5eHdDUXozUGtObzlmSW8xTC9lZVlXWllLQTVwZHJ0Mjd3ZWN6d1oyaXdMdElCOThlUUpORXIzNTZaSlc4Z3gyN0NjU2MyQktzaDRlYjluVnpRckM2VnVvRVNKdlMzZmFtN1czU2xaOWN1SXNlcGhkaXB6ei92bkx5ZzY3aHdJak5Md0lXQmR3amJ4a1RGUDA3cGdQejE2NkIzT09vMGtIQkpTdlIza3I3bjhGN2QrajM2WEhtQ3NjZzMzelo2MTZKM0tiMFJZZ1pCbllXNWM1dm9qaDRKZXFMSG9TTDh5TzIrRW11eERnMTh2b3pNbUM0NU1VclNGMzFuNmJzVlkvY05WbmthMDFLakhZNWc4ZXBGSVpVSno5c25hcE45dGVBNTBBazZOOWRLdHFMMFMrcHVzKzNjMmVSN1NlYkFmR3BBM2JNYkN0WGNzVTBwdFdEd1phTWZ2akZpT01iUlN4Nk9MNGlKcHJ3ZkFac3UyUXBiSksreDkrSWpsVC81dlc0d2Rsd2lhaVVCcmtwQ3A3TTZjZmgwK1dHSTN3TEdIeEdIcjhEYjdGMll0QnZ4MjNOY2RhY2tqRVFMSjhueVpFNlFRMHZTY2lrdmpDNk1kd2VsUHhhUTU4L01LTU1CTGVkT2tQbndlaytaNUNzQ0hHRHVnZlVJTDRmMVpXaDVXaXp6Yy95d3dYb1ZmRkR4aGZncDhRNndNcTEvdjVCSHdoM0pRWDFwQnRydHd4VnBVSm5pNFhOd09LaHloeFp0M1dOOXhRSUpmMi9Pb3JpRDdHLzR3Q240U1d0ZEN1dlpRWkxvSWNwb3BESE5qSnpxNmh1SEFVa3k2eWM0NkNKQVVJcmtGNXhKU2w2OG5RYUlmSFVjd2NFZ2l5M1ZHYkI4N2YwVVVTaGc0ZFJ5bVNUN0lrYlFKaFQyOFBCMExtU1VWemlZMS9NVEl6Mzd2M3pKd21nVkNGelNCVDVtR0gzUEcxcDFVRFdPVU1hV2h5cGxSYkVIckVucG81OCtqcHg3RmRkSEFVSUljRjBYa04wMFozU3Y1NTFSeE9YVmlVeFlLY0xPdDc0OVB3TytOUEhKV3VaMjJiTzZkTk5rK0VzaFViT2FObG1hYVlEL0FHM3BpZ0hSMkxsckFQZWxRaURreVdhQTZFKzFVbHRyWDBWdzlmUXhFTVdtNTN0UDgvQnd0RHZTV3l1REdIT1NIU2Z3ZHdqS1h4c29HUWVUNzk3VGtPRC9rS3o0NDFBVFFZU2NFSGVZaEwvKy80UHVBTlBJWkdCQkZJRVVQb3lKdVRSV0g4YmR3OXZHbmxNS2hlb3NuQzVSNWJkT1kyanV0VmIrUlZsU0FabUlnNHVTTDJMTVlQYnFlWlN0OFEwQmtYYmI2MU1iNlNmbi91eWYvdXpleVMwL1ZWajhFRVhLL2wzOHJRNElJTmd6ZFpCMVdvWXAzL2ZtREozK0F1U2NKTFJUdGVsaEQzU3QwOUJveVh1MHMvazEyVUJuRncwc2JaTmQrQUx1V1RkOWZKRXBNWlhsNldxTUZ0R1hQemMwQlVvdWRUZHhWWXFSQkRHVjgwUkpFRVZ4SkFzQXlYMWxJYVJXUnk0T1BwNnFITTJiMldSS2dNUkJ0a0ZpTzU3ZWpiMHZiOWNPY3M2VXJHeGQrRVJRVXNZNmlWTzR1cG5jY3haajhrT0l3S1RsK09PalM4bkx6Y0lOd0Y2K0xGL1NoVkk0VGdJcmR3N2hBV0V2UEhWQU1DRzBOSjkweDhydFRpMTB0ZjBKSUdxcXdEUVNpeWcrZks2T0lkbGxjY05nOFozc1phZ2I2NkFnSGFUR09TcCtLZWlMYjdCTmFtbkE0b2p3ZXkzQk5ibHRXa1R2TkUyeVQveStjazRhb3V2SlBkM3RNNlM3OUJxTU5ZbjVOUG1FbFlzZ3EzVmJKdllKK1FxbkN2aWswUm5GRituUkQyZGJQd3lZZGd1ODhNVmxGRDFGZTJ6K3pkbFMrKzkvd0s2NzFZald3eVppTmFUOFdpQW14M1hMeXJrMVMwaVg4dE1KeE03QlhtUFdleTllaE5MK3FhK3M1UGJubmNNN0FON0dSYzkvVkdncE83NHFkUUNkWjhnMkpSSXc3cDZyaXJsUi9XaDQvQnVOczV5ZlJURmxBVmFBL3ZjaGgxRGgramxQZis4bCtjSzdjZWxka0U1SmZQOU9qKzFPMzhOZURTUkFKbGwvcisrRE12UVJBNHZjamdqZmNzRGJJVy8xWlBTQU9zWEUyekpXSG1zRkFJcWZyM2tUTS93UzI5NDgzbHdYSklJc3JDVGdlL2ZHU0E2aFUvb2tRUndpNFl0THh5V3I1UXBrRTAva25BVEZucE1pMmVUNWRtVVZyQThuTitBcFR5TExlK1dHQ2ZIVE1YeUk0dG1JNFMxVmFyZFRsZUZ4bDB0TDNVanZTbldoQjlnUmZlZWc3Z3pjUEZGZktrUVBuUWVWbDJTY0x0VTczTHpQMklTa1o2ckViMVN6M01qTlF0RVNXUDBmNVZiL2RnbHgzbW9jalV5ZnR6bUppUDZkTmtWVnpmRGJlN3M2VTNoVXp0a1dodGl1K2wxWlVYbExZYUpnZDBMaGc3NWg4dWNNZ2RxVjQ1dXVvOVlNU3A0S0VVazFlb253MjkzY2R2VEZrQU4wNFB3WWE1Mk8vUTZJVkJoTkxSSXhVY29CakJINjdBR3ovNUxlbHRTM0E3b3JxeExRTWtLc01lQWZsRjgzYWswWWk3OVVScFdFZkx0MVM3cHc4UFV5M0pCaEhDdEpPcUNPcmxGcHJ3Q1I4ZGR1S3llRTM5YTlxU1d1aWFpMW5ZODFLZ3dtZWVPcnlJUHZ2Z2lONExPTjlvVG1Ed2UySVY1QUtIRUwrV3hma25PKzJHRGF2bUJJdXF4R2J2K3RyeWVYdklCbjA5NlQ2NkxacGVUVWRSZG1RY3VNYjB3SkFQdWJ4R01SVEhNbUUydnBsaUZzZFIybm9lTWxpcHB1UzJUdVAyQzlUY3VvaWwvaE5ZYWpTa05xNkZVaE9EK1ljaGs0bFN3UUhxaWRJa1dlTWFNTDJqU2l1Vy9HMEMwM3ZoVWdhRGdPVTFJOGYrakRXQldGVU00MGxCRFMwSUlwc0dZVkdvcTRsZ0ZZZldCR0l2NlhheHVJMThXU3FvWkZPTTBtN1BtQlI1UmZKUnZhWmw5WGF1OEFTQnBBYWc2VHRBaTcwRDlsTUtxSVE5aGlzTzUwcUJIQWVBRTNFVVp0V1Nub1pRNjhKWkFQamhBaUFETk4ya2tGS21oUjdXMTdFM3FOVENuY2NuN3p1R2JvMjM4WWM5T0RxZXZ4MXcyMEpVajcrVE5GV2VvTEVzdHA1Q3RyL0tKd1FHUHBkU3JGVkhWQWJZMndKajZQeHJGYUpXYUJ4eElGOWVUMTZoQjdWRkE3dzdpWWZKMXlqTUZITUp4VTlTQ3ZHVjVaVDhCRUFydTgzSWQ2VWpPbVBIY0ZxTDZSQStEaTZHOE9Oa012M3pYc0lyT3ZUYlhpSHlQRnJoaS85Y1p5QnJCUm8vZUhhang3S0JUU1dHK294Mm9WWjc0R3Ntam52Zi9nSHA2SUdxRUtPS1NlVjg5UytmVkcxaVZ0dVM0MmJIMHpwdHlocS9HOStwZ05USHljU1lZa2NwZHl5NDREdjNtZXlGVkxlZzVCTUl3cVNLcTArS1lFQVJMK3VjQ0hBUTRNNHFNY0lPcUlzQm5YV1RnOWhVakt5UWtnZks4a1d6QkF6R1RoTlY2QzZ6eGluZGpPeGxSWXVCTXFPQnp5OHFxbFNwVzh3Y0wwR2g3dTdiQ25LU0JycFNBejZpZ1BwUHYyTE5xU29GRVZ4QitieENPYVhQL3ZWQlRUY0NHZXZoYnlvSm5Waks1Z1BCVnppY3ZHWEx6WEF1Z0phNEFJSTNaUE1ZWHlMZ201a08wanBjVUtvK2kwb3FpTXZ3TkVUTkRFL09QS25Hb0VPaUdGMWNWNkw1cmxwWk44ZTkzem9TUDRtb3FXUEdNN0pxZDE3MmsxbFFMcTNOVkN0V0FDTXQrYVhsYjVpWm1qQ2RVY2VGckxTSTAwNC9sN3VxSXhrNlhONlNwK3BzRDlTZm5XYW5obGk4NGlzODdhK2laMlVOSkpEKzV4S3ZzNG1JcnVDaWNWdXZ0d3RuUmJEc3gwcmxsVVlkSm5XbXdQckxBdjVnYTNBNG1zNmhGaU11ZW5Sc1NyVTdNNHNVbWdSeXJXRFlaRU0yZEh5Zm55Y0IxT1JqWUZuZlNqcXRVbzd5YmJKVGFCT1hTQjQzdlhpU3duMmQ0MFpzQ1FqNncxNzZNcDN0OXJua09qRjFQSXBJWXpCbXl3VnVVaEU4YXM4b3F5MHJpNVV0R1c3dWM2SEdrNUE1R0JUSHFnLzJWb0E3bmJPWDIzdkl1T09zOHc0WUw2cWQ5dm1nZFhjWWRPdVhuYUl6NTdpWFduUnBHckZSeFR0ajZjWi90eTR5cWwvdXNUbEpOMmE2a1BqWXAzNmZncFNGcXRqZWpkeWgvK3pyOFU2MjU3MzFrdUN1MzhRVVh0QnpHZTQvUVZRNGRzNkh0TjVHZEpsRXF5eGlQVFdhNjcwQlZwOWdvQUl3anBqZ3NOeGNhdGhxTWtZYXBibWJ1MjlCSEdpanVrU1BOQS9YS1hibnNkUnpQUUFwaFFkTzcvOG5OcWlHdzdOM2c5R3kxeHpMS2NqWFVUQXJkTHlKUlQvTWR6VnA5SUlDMGlwY1h1dkJwMHhMUk5QaFU1RFJhTXJpZklPSzNIemZyYjRlUnloVGt5VWVYdFQybUZaK0FSRzlYWWhoRlN2Sk5wT2pPOHUvb0JOZUUvZzlPMjN3NFpYNnZTY1grM3VGM0pWRXFlNW1Ydjk2dmNONnJjSzFhSFhvZGkwUDdVZWJYVS9aREpmSktaeTVPbzExQWdnbDRXZ2lmYUZaeVc4VjBFQy8wak02R2dGeDlDbzBHMGtlTmNCQ01saU11bDNGUzB4SmNYVlF6WTRRQVBVQ1ovdWtOaWxaRzNtVVZ6ZGd1N2dnK0pxbExHcFFweEJoRTNSSUs0UmRwRE1SMFZMUFBLZVRsL3NqcU5RQVlsTWhIQTNjNWV2MVNVaGNxWGNjV2NuVmRCSWR5MHpoL1BvVTQwQ3BDL040ODRKcTBmblF0NlB3TWdVdG1yeGsvK2pWVFUxK21LQ3hNVjZMQjBpa3FlazVGTkdrazJ2YWZYMng1SGNqeUI3ZzFOWDQ3L3VtT1N4WUl3bGpMZFBRL01DQlF6aG5kRXVZZEF5TGVmVnJXdGRtZldVcnNmMm9BQWJhV29mQklHQnpHN3dOTWtXdlpKVXZmSWl4dk4vVTlYR21TUmVPMHhoL2g4Mmx3WGprOGMzZWNtTVJFbEUybWVZN2pHRUZwRnFFWjg3R0Y1ZzFVZmZCQVJmZExndWJuMmJqeTR5NGtldVo0VVl3VUlOWXUwWUM2U2lyVENFbHlNZllVQVM1Vno1VWpSUGh0M3NaanFROEJrbjRJMzgxTzJtQ21CTkxVUGFDVkpEdm5Nd1FuWTJMb0Q5Y3RnSElTcURUNGVYZ0JDMWluc1JzVlVBcmQzRWR4dUNZaFFjOERkZzhvWmIyWUVpNXkwYUI5ZUJ4Z3NmMVFGTVpZRm5aYjE3ZHZjaEZ0WE9qek1USG5EeEVOQUtTZEdyOC82V3huZ2szTERaQUV5RFNQc0NEZVdRUElTNzNIS1VvMDJUOEZvSmFIL1RDVTBDNlRXNHNkcG1RRGVuc284bFNlWGprVVVRQmZVOFEyVnplOGRScnd0a1BWcytxamREcitSbmxnbzNndGc1SVJQQi94L3JqOFFnNlR2eUcxT0xnOWtqaWVJdENubUREaXkwdkdIU1dZUWJZUVpiRTZPMWpNYnRtTDBXcHRsS1YzYk9hVGFkTlk0ajZDUWxQVDhyb3cxT1JLV0Z3SUNkd2FGTVo3SERHUWdkRlZNWk0zMTRBWXhvcEU2Mk0xajg4TmZwNU5mZzVwdG5QRytrUmp4TUtJS0gwREszZ3hySXIzRm0xci9QTmFzb1ZNZk80aUFSL0xyaEQrc3N4djhGYlQvUHdIcVZEdzl5SWxURmdWUHczM0pTY1JTNDVVTmJFUW1Qa3dBYzE3VUZvb291bjJycGNMdjRhWWhDalZDMVpTMmY1ZTVWTzE3bVlodkRMZ1RObWI2UjdoRTZlTWc3Wkc1Q2VrenAxKzN1TGltKzRUT2I4bWc1UXRxK0xnR2cycnZyOEpnaXFVU1ZtNTV1b290RFhUZWQ3RVdlYURvM0hoc0ZYM2R1TEVPbkdqUjF6TlVldlhyckNFM3lKdndnVTJKa1BWd0NBUGN6cVlFNTkyamtIdHpOb3BWUW9ETlBqbkJ5bkVIT1k5bk9LeUJUMGN1ZFpOS3FTQUQ2dC84UTN5NkszQ2NNVEkxcWNRZTFiNHUrYWlrUTQ4NjJDekRkemtXcWJYWnYyenBONzRNdDdvVzRpR3pBeVZRc3FrWTZGZk1Ka0NxQ1RjRmpFY2VYcU94am8wSW9HbGJqRGM2VmV2ZWxZckh0VWFsNWcxMm5XNGFVR0xTUk5OUWE2ZytFMFpQUzI0K0xKTlh4cGg0UDRYVUdpRmJXcFUweGE0SGpNSTlIbkwvR2JGeFkrWG5raUhseHRLZVdVbWt2Nk44RFlkL1hHWGVOeUFrZFNSYzVlUm41enVKNFFoblFJZE8zSTZDZ2Y2TGtLb3ZscmpuZGgwQURrVkRFVVF1eWpHWlF3bkw3Qk82YW1hTS9qSG56TFpUeitpWXByRjZOY3phVld5ejhuTUp4SG5EdHdrUVFxcXBTbnVIU0ZVMHA3bUhBMUljdng0RkdWR25PTTV0WWpVSHpPeWVjT2VQeXZHaTNZcDVUVDREamxvZmxBUzljRSt1anhmdVZVdVJjaURoVVBiRTRYSm9tVGVUQ0NyRmZ4ZnNXNkdiY2Q5Z1VSUVRsU29PdDNBM01laFpyQmZCUVpmNTI2MVVCRUR4V00zU3hwS0cyQTRxd3ZOYVVRWjB6LzQvcGNBY2U2bTh4QlBhWlZhVDBtMjg5bVh2UmFTYVdjOFB2Y3c1aDRGc2ZPbnhKaFI5c1VyTU5ORS93ZVp4dEg0OWM4TmY2Z3lZdWpJOUdkZEk1VXZab25XSngyK3NVb1VjMUc0dmQ2MmtuSlMyVW83Y2xoVnlNbHNtNWdGQmRQdVlwbVBtUld6c2RQK1ArMnB2cVgvQW9wWmhJRXhacUJzMXFCb2hTYzBmM0tIbERyYTlzTWNZSGdmdXMxZ3ZJSDBKREpoemVNbGVGV01NYk9lY2J1WXdJb0tNWFpKd0hVTk9hdmU2SlFsNUticVkyT09qb1A4QXd2Qy9kTmx4emFiaUtHZUZuRy90aHZqS29reFlaaXJ3WHF6VTZtVWZISkx3VWZ4TU0wcWpGbTFCQWFpVnBhN2FycDBQOUc0UUhJNlJBRnJWU1IvbDdvZG5qMHJHdXpNUDUvZWpxdW5MTitDakdDamRHa3g5RkR0aHdXRTA4UzI4L2tuaXRnRjJReW0yVG8xY0FydEJxaEdUU01YNC9sRWdFL2lyVWRObGtDR2hXbnorbTdRSXNHTjJWdGV0aGdXdGoxMmFwZFJTMXpTcmJrT0VTTGl6MDFMcVZpZzlMNVpHaStEdkJXQ3pvSy92MU1oSFgyeDZpUjhXSkdrckpTUW9zdFdrcDZXOExyMi9RS2llYWhQQjJic1BMRGx0WFRFTmRpUmI2TjZ0RUdtVS9jWWdEUGNuNjlLbXN0QzJlOExQazF1cGs4aTVtM3pEcDZwQnBHTW9qYXdlTEZFVEZjMHFlckcxTlJob2wySS9qbDNJSEVldnVvdVZpbjh2K3JZZDFTdWFIc0ZtbVdVV0xQV2JHVm04NmEzUWxXOU1xbXBkcWtnMHEvV3RBWUFhaDFtQW93L2t3Um1UZUNzd3RmN2tZcE4rdG9raThOQlJVYmFEeDJ3SmFZUGs0R1dtLyt6Vm8yZkwyTmNkdTF4NXUxMjB6QnNJd3o1NE5vbkFEa3RwdGlYdG9lOGR0WExhZWIwYk9GdzJkVW5MdzFwUWs3SmJNNkdrbjhOQktGZkwxdm1JNHhMTE54dFU0TWJ0a0ZaZWorL3J2bncwMkRUUzd4YVVURU5tZnBNeXhhbnBSd1Q4OWRxNjVaN2RPN0hMbmt2ay9Wd3ZJVzR2a0hrV2d1R3FadHgvM0x5ZkN3VHNCZWJaU2dMbFczWXBudm1DUHhpandQVE91L3E0MGxWWnhWaTFPVzRLL3orSVNyZEt5VVQ5aktYMjVSRnNvWmdTbDNYakl3TVJpRWczd3hGMEgvYXY2dHpob2NiRUNIV29tNXpKOTVHeWRFdU4yWWZzdmJITFNHS0hubEdFeWpCRVBRSGhMOFQvSmZydVFpM3VHTU1ROFVzcVZadXIrbU5SNHJsMVl0V0xIV3krdGxPZzRkVHc2MDBVN1J5NkRGT2dTNDg4ZlBzZFNKM2REcHI4dkMrdkkrVHlXY0lPMGllMUI5My9DUTc5ZGp0NnVlQUNlUTZidWZ1U3QrNmk0VUF1SFRKOXlzaXBGQlJDTUw2T3NEd05mOHNaWEpBdXFtK0xkdFZUYitKUi8ycjI5MEp6WXNBNmRmS0VDNG9wYXhXajQyOWpXZFA4VFVQYU9ySUhvYmxOaDliNHdnNDk1M2VXRnQyckxZekx5N2I2aHNLVEdIWnpIZ1ZoZHhuNVNCMVRVSGVIK0NyWUYxbTVlaW5aRnNHbmxGYk9WN3VnL3hUWVdIYTZ2aHdmLzZOMjNITWVFMGdhME9VaTIrc0o1OVkzQ05maStveTd3Yk5oNUt5UHJic0N4OVpMR1JkbmdUSnRyQ2VqemRMWFRBZUpDT1BPQnh5WE4xcHBsVnc2WTZQVFUwUG9IZHBqK0tZVHF4WFBsazRGbVVZZVJ3MFJnRUtvaWpMZmJvTnFwbUZDUTNqcmQvNEJCRkkraUZ6N1NxZXlCQ0phL2dsVStYT2FWR21zSmsvUzQ5VlZyeFVGQXVNVDlhTVhCQTgvT1Y1ZVNuUStFZzBsNW9QOWRhaDVhZDBEY1BuM3hoTmNwaFlONFlaTkpFdFFOblgwdVdTN0xqamRTN1ZEc005MHJxT0ZQMWxGam1HbnZic3NZYkczbW9UbUszaTQyY3YxTjc5YTVYRU4yT1UybjREMG14TDZMcVIiLCJtYWMiOiIwN2NiYTc1NGQ3YmQwZTBlMWJhYThlZTNjN2FlNjc4NzA5ZTNkYzcyODk5NjUyMTBiY2Q2NDI2MDIxOGI4ODkyIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  var Pos = CodeMirror.Pos;
+
+  function forEach(arr, f) {
+    for (var i = 0, e = arr.length; i < e; ++i) f(arr[i]);
+  }
+
+  function arrayContains(arr, item) {
+    if (!Array.prototype.indexOf) {
+      var i = arr.length;
+      while (i--) {
+        if (arr[i] === item) {
+          return true;
+        }
+      }
+      return false;
+    }
+    return arr.indexOf(item) != -1;
+  }
+
+  function scriptHint(editor, keywords, getToken, options) {
+    // Find the token at the cursor
+    var cur = editor.getCursor(), token = getToken(editor, cur);
+    if (/\b(?:string|comment)\b/.test(token.type)) return;
+    var innerMode = CodeMirror.innerMode(editor.getMode(), token.state);
+    if (innerMode.mode.helperType === "json") return;
+    token.state = innerMode.state;
+
+    // If it's not a 'word-style' token, ignore the token.
+    if (!/^[\w$_]*$/.test(token.string)) {
+      token = {start: cur.ch, end: cur.ch, string: "", state: token.state,
+               type: token.string == "." ? "property" : null};
+    } else if (token.end > cur.ch) {
+      token.end = cur.ch;
+      token.string = token.string.slice(0, cur.ch - token.start);
+    }
+
+    var tprop = token;
+    // If it is a property, find out what it is a property of.
+    while (tprop.type == "property") {
+      tprop = getToken(editor, Pos(cur.line, tprop.start));
+      if (tprop.string != ".") return;
+      tprop = getToken(editor, Pos(cur.line, tprop.start));
+      if (!context) var context = [];
+      context.push(tprop);
+    }
+    return {list: getCompletions(token, context, keywords, options),
+            from: Pos(cur.line, token.start),
+            to: Pos(cur.line, token.end)};
+  }
+
+  function javascriptHint(editor, options) {
+    return scriptHint(editor, javascriptKeywords,
+                      function (e, cur) {return e.getTokenAt(cur);},
+                      options);
+  };
+  CodeMirror.registerHelper("hint", "javascript", javascriptHint);
+
+  function getCoffeeScriptToken(editor, cur) {
+  // This getToken, it is for coffeescript, imitates the behavior of
+  // getTokenAt method in javascript.js, that is, returning "property"
+  // type and treat "." as indepenent token.
+    var token = editor.getTokenAt(cur);
+    if (cur.ch == token.start + 1 && token.string.charAt(0) == '.') {
+      token.end = token.start;
+      token.string = '.';
+      token.type = "property";
+    }
+    else if (/^\.[\w$_]*$/.test(token.string)) {
+      token.type = "property";
+      token.start++;
+      token.string = token.string.replace(/\./, '');
+    }
+    return token;
+  }
+
+  function coffeescriptHint(editor, options) {
+    return scriptHint(editor, coffeescriptKeywords, getCoffeeScriptToken, options);
+  }
+  CodeMirror.registerHelper("hint", "coffeescript", coffeescriptHint);
+
+  var stringProps = ("charAt charCodeAt indexOf lastIndexOf substring substr slice trim trimLeft trimRight " +
+                     "toUpperCase toLowerCase split concat match replace search").split(" ");
+  var arrayProps = ("length concat join splice push pop shift unshift slice reverse sort indexOf " +
+                    "lastIndexOf every some filter forEach map reduce reduceRight ").split(" ");
+  var funcProps = "prototype apply call bind".split(" ");
+  var javascriptKeywords = ("break case catch class const continue debugger default delete do else export extends false finally for function " +
+                  "if in import instanceof new null return super switch this throw true try typeof var void while with yield").split(" ");
+  var coffeescriptKeywords = ("and break catch class continue delete do else extends false finally for " +
+                  "if in instanceof isnt new no not null of off on or return switch then throw true try typeof until void while with yes").split(" ");
+
+  function forAllProps(obj, callback) {
+    if (!Object.getOwnPropertyNames || !Object.getPrototypeOf) {
+      for (var name in obj) callback(name)
+    } else {
+      for (var o = obj; o; o = Object.getPrototypeOf(o))
+        Object.getOwnPropertyNames(o).forEach(callback)
+    }
+  }
+
+  function getCompletions(token, context, keywords, options) {
+    var found = [], start = token.string, global = options && options.globalScope || window;
+    function maybeAdd(str) {
+      if (str.lastIndexOf(start, 0) == 0 && !arrayContains(found, str)) found.push(str);
+    }
+    function gatherCompletions(obj) {
+      if (typeof obj == "string") forEach(stringProps, maybeAdd);
+      else if (obj instanceof Array) forEach(arrayProps, maybeAdd);
+      else if (obj instanceof Function) forEach(funcProps, maybeAdd);
+      forAllProps(obj, maybeAdd)
+    }
+
+    if (context && context.length) {
+      // If this is a property, see if it belongs to some object we can
+      // find in the current environment.
+      var obj = context.pop(), base;
+      if (obj.type && obj.type.indexOf("variable") === 0) {
+        if (options && options.additionalContext)
+          base = options.additionalContext[obj.string];
+        if (!options || options.useGlobalScope !== false)
+          base = base || global[obj.string];
+      } else if (obj.type == "string") {
+        base = "";
+      } else if (obj.type == "atom") {
+        base = 1;
+      } else if (obj.type == "function") {
+        if (global.jQuery != null && (obj.string == '$' || obj.string == 'jQuery') &&
+            (typeof global.jQuery == 'function'))
+          base = global.jQuery();
+        else if (global._ != null && (obj.string == '_') && (typeof global._ == 'function'))
+          base = global._();
+      }
+      while (base != null && context.length)
+        base = base[context.pop().string];
+      if (base != null) gatherCompletions(base);
+    } else {
+      // If not, just look in the global object and any local scope
+      // (reading into JS mode internals to get at the local and global variables)
+      for (var v = token.state.localVars; v; v = v.next) maybeAdd(v.name);
+      for (var v = token.state.globalVars; v; v = v.next) maybeAdd(v.name);
+      if (!options || options.useGlobalScope !== false)
+        gatherCompletions(global);
+      forEach(keywords, maybeAdd);
+    }
+    return found;
+  }
+});

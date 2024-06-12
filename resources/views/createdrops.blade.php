@@ -1,1 +1,116 @@
-ENCRYPTED::eyJpdiI6IlF3bVkrOXRHVDVPamRrVXFGWVRjdEE9PSIsInZhbHVlIjoialFKUmJFcjZ3SThXcTBvZDRHOHZFak9sYXM0YSs3Sk1ONHhKcVZock5idXcwWmJmK3hEZStlOEo4Z1hlT0tOajE1ZDBhSWpVNmw0YlhJRWxqTlM4QTBQM0l2QXFHQzZxMEk1c0RpWnhqSmo4am5MTGM4dHE1TFY2YnEzaHpjZFFCRDlWWUkxclZZczVHQUhJWVFuTGFoWUV1bjZOQUFYMVZBa0xIMHUrMzJxU3hwNUF1VXVIZ29nQzMxOW8rZ0hLdCtqanAzQ0xubllycURUK2loV3VxSGQ5SjdnTkpUYkFNeUF0ekpaTVJ4VXhMNS8vWUp3cGJuZnVIbVd5eGF6b0N2K01sUy93VkJiUGttMmtpelFYS3UxSUdISUxoU2dtMERCZ25mSFFGb015anc4ZXhlRXNVZlFrVG5IMmxmOGxrTFI4K2wwOUk0bjM1dFV4OERqd3JuaHlpeFdUUHhvNkNtcC9Gc2hYSHUybGpKVkxGdEVRK0xHY295aEhDbklnd3pUWm5jamFSQjRaeUZTUnBzU1A4a1l1VGJDTjRpSlhUVlUyMjVpa2ZNTHJLQzRZVmthcjA3NkxqQ3Mza3lRZjhvR01TVllxOEYrYzFWT2VrOWJ3YWxSb1RYZGNGSFdsVnpSQi8wT0FEN3BWVmtFNXNCMVo4TGRLREl5Z2M3dmpjWk5SRXBCYXI5Vy9tanlkNXlNQk54UGUzV2o4V3FhVzhiTzdyRFNXYS8rSnM4OXowTHQ4Y2NtR2s4dnYwOWNHWGF6bEwwbjZQd1BmdG1IZnZ2MnM5Wk5TS3A4RHBvYnJYbVhSR3NkNWpIUXhGcWVNZXcyTTZhbnIzcjRQeTQ4Y0FUaFg1QkhJL3U3bzJ5T2JkaWlaa1JldFBXS2tOL0Z5THl1UUZJM0FuUHJkdHdoU1hvMHJPUVF3cmNBYnFBRExRUlREQ2R2aUxjdDRsbElxYlR2aUg2RlpnY3F4NXlmMnZJSmw2Y0pGalJyQ0c0bkhxdCtyUjMycnlyT3YwUGdTSkUwMkg0NjRGQlEvRlVhRWZra0RBU0N5T21ZQkVUekhabmhzdm1CcjRxWlc2V0NjcFpic3BuTDRnQVQyU1A0YzFhVmRlclJlRStlMWkzT1V3Q1BUQStoU3ZoNkxRWjVrdUN1SHFhVzk5OTNXeFpCaE45cEx0aHBTSHdNUWxFTDNNWXhldnpMSXllL3N1bkpKVEVNYmU3ZnRxelR4VlV0SWJDS240T2VybWsveld5eWltVHNxRDJPQTFYQUduUnJuMkpTZVpuYktRN0NOd0xrSG9UM2lCdEN6Q2NJckdmZTc4cHFJNzZQMzFMU2c1dkhxOVRYUm5rYjBGSTVzWWE5UHUyT29rUHJnc3NKdWllSW5BN2ZqYng5RmZyT2wrMFhzbkhEQkJvT1VxbHowcmFObnlyQ2ZMSEdaeEJ3bnBnaWdyUi9WMXV1OExtSTBFR2MzRjZiRHJyRGxCMHZqWUhGOEZwY3NydlRVU1VWbkRaTTZkMkVTYk9XUzBGVXVaUWsxVWw4QXRrY2NJc0hrQWsrNU1xT2krQ3JXdkttaSt0UCs4RzN0YkFESytFWFYwcElmUTVSVGdYTkR1TzNXY0JMMDdySm9PajhoQUp6SGtiS3ExMng4ZlhzWHlMRjFCYXRrLzAzWlV0Q1Jrb000eEhTRVFjb1VRMTUwdUdTSTJhNVRNOVhtYVNISGxiUW1JTDNON3c5OWI4dktnRHAxSXBsUjdpMVdvYkdyVGN5dXhDVWJ6cm8rV3JDdUtaNmozNkdEQTJ0QVFaZjc0eC81VkpuZWFoMUp0M0FPRCs2TE1BZ0ZUdW1GZ3g0RGpBS2JJa3ZQU2lVMHZsaEx6YTMwRlNMOVdnakV3SDRPN01yZ1U4S05reWRkWGtja091MUYrSU93WmJFYk93M0lMUkt4VEFla3d3SnhiQStqVFByYitYaWN0NnRhY1ZIM1FxU3hGSUpQcnR5SXZjYVMzVGZYeFhZVy9wRERkdEdLS2hxdlJodGpmVVpLTmxPUFlIQVRTVWpoMWJKbVNXSXNXM3lZNU1JeG9HdUQxZVIwajQzdUcwSm5YcmR5c0lMYlFiQUpiOUFrbFRRNXdtS1NOYkI3UUQ2Zy9QdFp0Q2tVc0VURUNqaW5kMHNjK3VVQ2o3enNsRHFZVWcyZ3ljTXVRNi9CQ0xiQktRcWQ1dlhubzlkT0dUL2tXbWVvc0k1dXAvMU0wRE1OMHZlQWp3L0xFbmFvR2dETmY5OGJCaFpFNnNuUUF0Yy9uTXQ1UEo1V0dLTEFkenFVWlJabWNhM0x2RjdQVksxZTVGeWI3YU52WmY0ckNNS3VXMWRlTXR5YTNqMlhHT1FmWHEzRllGSThvZUdNcHpNUmFrNm8yTzMvUHFMOWJ0dDI0UWFRK1pDU0RQN3Zzdm5YTE94V3ZFNysydlRCTFJiZlVrS1JzczZvdTIveFFQczlzVjlIZEM5OXNPVGhlRTAzMlBkYlhzekNxODZzMlJNNm5jVm81MHFDSFFZR0M3N1pBcDNUNVR1TVhBSHoxc2ZqdEZNR1RRQnFLams1Rkd5eEtDWFI0TFdCb2N1cUFkdmlHL1lDdHN2YTFjZWFrR2FIWTlZUXVoSHdGWERORFhRemMyQWtHZFEvWFVUY2lyNFJMdDZZQTZCS2pjMFdUQ1RjVm51L0M2S0NTTEpLWEtGNzduOGtHNWdWRTEzcDZxSnRZa0tZengvWHpIOWZNYUtzUzNtZWs1UGVXV2VxUWVRZjRFbnRMMlBEUCtQbGhJS1lEQW5IdG5JWE9VSmtUL0FzczVuRFRvbC8rNitLcXh3eU4wWW5JbjdiSllsSzZpOWhGMzVOeWVFdGdUaWJvWGFCTEFobEpQaUtqSHR5UGtHbHpieTRUeFNaSTc2UUFsZHJTZ0VacWp0UFM3NzVyb0tZZnJvRERJSEhDc1dnR0crNzBNN1p4ei81SkYrVnNySXllR3VzSU5PY0FucG52ajFvWCs3akNZeWlBNVlmR2lJMzZhSEN3ZlpRS2NJSUZ1UFpkZ3dNSS9tem5RMDdjSE1KenZMcWdPdjhjblFDelQ5UWVDaENIbFZBV0hXcG83M3JURkk1V2kzbXVvV3dlSUFQYTdwZ2pidlBOeUNHTG8rNmE5bVRHS0xzUGVHdGhidTRLUHljMGdSZFdKR280QWF1aDFsVGpZMlVhaGhZSjQwOWpJUWRBQXFTOFE1dXV5MXVYQm8wVGZjUWZWS2VFTUdXZFNxUjhodVlIcHBBcGJablhQL1NDc3Y1cFZzSEw3aCtvZllVOEI4OE9IL2pOdngxSGJiaUZ4NWNjYm9WUkJlbUpZOFc3aHMyOG8vTnlmdzViWkQ5dzVCZDZsTC83Z0JLR25SYnF3TFkyT1hUa1prZ0dpQU4rY0VoeExKOEIzVkhxd0RGc1hoWEt0NUZ4a2VKVHdscFZYb0xiRGNXb1NCeE5UT2ZXY0NxVlMvYVI0cElzNGRjaTRjbWNzRHIvVzRDRGJuU2wyQVVtSnhLUVJEUHhTdHJrWEZOMlAvT2ZON255Y0U4cnRCb1Y2akVnTlBVRHZVa2NuQkZDT1kyWWJoWTVsb2EvdWFYSkJMZGN5TFB2SWVWWFFLSGZOczJzeFBiMjN3dTNCYkdJOXdvVE82UjUzWVlGUlBtbUtUd3pvcEpMZGp4OUtudjRkTjQxMWZrZkVham9sbGFKS0hwdkV3eTZ5VkF0dDV1c0NTdEJZQzA5eXNsVlpCN2hETlNHWUorN25jOC9WVlpSYWxNQ0l3UVlMOWo0SjkycVlKNk95WlhKcElTZDQyL3FONmtXZW5iYXY0N1JXQU1hS2dqcWVxR1ZVVy8wQWVmL29pRGxENkJQMGdrWXd3eW1vdnFTc2J0QTg0eDZYamphVUJ1OUUrQTdNQnkxT3JsOWtoSnBzNHJEU3M1bEJlL211eHFSUzUxUU10cjhEQlROT1lCdnBHNWladE1GazIwaG4wdXd5OW8yandyNnlLMnpEL2ZreFl1NjRLNzBxUFFtek1OQTNDaitmbFZEQnhiS2NwQ04wVnRyYkUzMFlzbUxMRmJNdjRJREJzdEhyc2h3WFk0QzNNQVJnVWhCMHlOZTZGRnJGSC8yYjUvN2Z5M1gwSDd0VEZBMXVLQ1pBbDhRWWVWejZHaWVxSEZiVkw0RUJmYWtEaVRINGlORkRMcyszUUFtZjgwNGRRdVo1NHNFQWRJV0xNeVJDVmczUEdHUDRlUG9aTTQ4SXNEd0E5UGtxL3hYRkMvd2RCSmJDM3lpMnZzb1NUcFJuQW85dmY1STBybUhMUFVtelh1N3RtTC9ZbWpXY2pDQnJaVHVBZ0lINUFhL1lPVzRzaFpXQmtjdTl2Z0dhbDRmQy80V2VqVU9mWlRtMGRzeVZrL2ZsV1ZKOWxkOTMvUkU3Ulo4c2Uzc2dLbDlrVitMSHlzb2drYVljNzdoL3dtTmp4aUlTa0R4dm8zRHQyaTF3RHowbGNiUEs2NjZIRjFDc0EyZE5LWHpwQ21kTDhTbG1WcDhNa2RuZHlRVTllNUEzNm1UQittYTFHOW0rT0JhbkpBNmtpWE4yc1Q0YmZJOXNVRVJrTGV1QVgzK1JZMTcyWC96dHRuUmNWNHc5MGtyRjg0SldIaVRWUGYzQUlNYTlYRVRiYmVIYkdLVFNYMHRQeGozL0NhbVVyWEFSODkyZU10THR3WS94VWlOcHZxMmVSNzlZZlpVUGZXMzUydmxBK3g1YlF5WXdoYzB0OGRYc3RiRU1EZFpwVm5ZMDJWeW01YTZlcnhnZTJzck5oTnBLbzdwOTgySHVmTmdETVVoSnJ0RkJ2VmFQSXJGOTh0TnpnMUVYRFdHeTFjTzlwVkd1OWZrZFZkcUdXRzFPU2hRTjMxa0hjVWNEaWRWb0x6TjZGRTJsRmMrc0d1akdXZVdESDc5amVrZDJKNzh3T2tlai9PcThHRE4vSW9rTFlITVJwQlVIR0U2VUt0QS9GaEdrVVgzKzl6NzQxbEtwMnE0eTh1bXdna3JlYlpkZUpMVElOSnpacG81Z0hJNzlxRHNheXB5OTVJZ3ZwZ0R3MzNhRmtPR05TK0RZRzdBanAwODFCS25FbHBtL0dXYnZNSjVHZVZES3hEY09KbDdMbHpLcmdCL05XK3FKTWRCOWtIdUVaRUc0WUFBWWl1UU9qZDFQak5zVHpINVV5TUtoc1RJSjR4TXhiQnE1VkxJQXN2SzBHT2hGVlZwZ2xkR0x2Q2NPcUlsQlBqRTliSmtDTGxBRjQ0M21PeGcrSzhacW1ES2JZVm05RWtMc3pJelQwUXhpTFpxYjFNYS9kSE1ya3IwOGUydDVvTFNmTXhjay9iV2hqOG5tRXdsc2pqNEpJalIvRlU4L3hOLzZzZWwzZGQzWEZBcVVaK3lxdWJEcEtCVVVJMFp3OTIxbUhDRncwTEp1V1pIL3EwZWtCcXYwQjNKaGNSRnBKTDNjK1o2WTVnQnRrRTREZ1RIYUdIOWF6Skw1TFRkbEk4b2JVSUordU5GUFVJSnZHVDZ2QTA3RGF4MnhtSVFQOWx4MTVDVlBQY29GSGkyVFhOZGU2SWM2YWljQ1NSVXdlMG1LOW9VT2VTaVgyMW9oVzIwdEF5eFZLYlRMb3V2YW1iYVVUKzIwaUg3QkdwU0xpak16QzJrZEZyRDU3cThwb3h2ZGlpdHMwelEzV1hweTViYVNVUHM0dWlOMTBpUUVrS3NqNU9kc3dBNlJ2cUIyWkd6bG1ZcG9vbHhKa0prdFlUcmpPVWZmc2VSUHk3OHpVbmt0QnJOKzZkWHBTa1c5VFplN1lyQmduODU4b0pYb2JleEpMSFBaK0JsUm4yTk91MExTbmx6RzhFdzVEVjA5Uk5BUDJPMlZyTUx1a0hsVk1qaUxrb2NaYXlqRUxoRHhYS0trby9wRFcwMlhjaUNqMzR4d3Q1RHpkSWhVZWt0cklZY3czV2l5cWFJdmdSTGhVczdPUmxnWXBSRnF5SUJlWCtTRGZRU1phMy9ialp2UWxXdmRiVVFsUXBWUEJTQVUzQWlPN3hQTHVvaEphK1NzS2RsOXBJbCtaMk5KVTVrWTdzeW5qcDlzMVhvcE5qODRNOUN4TTBZL3JwQmxJRWo1NTI2bWlEYlo5azBxSmFlRUtlZFlPd2Zkd3NhNjlDNk94Uy9uenZtUlVzVDJLd3RhVzRGL2tuTC8yZFk4RWpMSVVZcFREaUxTNEQ2Tjk2M0pMRUptWVpNeXcxc21kODF6NnlmUE1zSkQzaXd5Tzg0K3ZVM1d1ZTFrMFg5dVg5cXQ1L1I2QVVvUDZJSWpaTjBaNWI0UDBCUHNZQklPY0hyN1lzQmFINStXOUU5QjQ0d3l5QzVrWU5vR05LVTY5RWRiM2JhTjVzQk10QWo0WklPZEFFcVNXSVVvdVBJYXVjTUE2KzVxWmdROEw0UDBZSFBHZVI1SUZSdFl5Tm9qclpveklvWnVxWTFnbkx4THlKQ1RnN01kVXo4bU1XQWhNZ3RIbllGL0IzeFJiRDRkQXh4VFNwcEs5WkNFYmNxSXNMQlVqQVV6VnVaaGdvL3RiYkNpQWhEMURpSlBCUEJBOCtvKytVaVAvbno4SDgzZW56Y2lqWnZLWWt6RXhWOXBwM1AyNDZSVU1hOGgrUXFydk44ZGNpcCtZM1RVWFQ0UjFsd0l1RFdLZUtmT1NXbjdXZWM5NElVRFFJR2pVRUxQbXR4aDM4azJkVXcrM1MrYWVoeGdaMm95M1I0NGxtbFhLcFlDUEtPL0FCZjR1bzhjc1J6cEtMZlhTNitObWNiM1lWQXBDa3BLbiswUGowVXpqVjdrTGxDaGpaNGRmMmRWQUE3WEt6VlJ3NjZYZGE3VFZsL2d5REpLSjk5Tlk0cDlxaVdjM2NiR25MTlAyY1hrZmNEN0IzcUVDbHRJcG1qdjlxM04rMS9nQ082a3RtNi9vMTNIS1FrTEpRaFVzVk82SjFqU2xqV2gzd0FtMzJJV0FxcDFBYmdzblNuY3pXL1RZOXpURHNsbFJJaFVjdGJIM1V3Rk1XdTJvZUJ6Q1VOMmhyeWJ2SEh6WmtyUTRPamVOUlYxcEUxQ0x3MXVzWmtVTmtreFZqWGZDY09aUjhqU0tLOXZvYzBITHVYTGhpNEwwSStMdVBzLzNZM3N5eWRmTkhaVzhLM1pUdFlNTFgrQjRSeFYyaGdaTkpDMjkyR0EwSzMrNEFxMDhmTzRNTlRPR1M3UHluNENuak9oWmczeEUrV214QS9maVpMRWZ2Yytjc0R6WWE0SUE2eTlwbmVnbHhWTjEvdXZwODB4d1pNSVdkZk5ObUlIWUMyOTNOanVnV0xGMmpBZ3BWbXRLQmw3RndyZ2R4QmFEcklveDFGZ1NUb3ZDenF5WUdoV0Z2OWRCNnVCdlB5RDlYUlgxU2R4akNLSWpHSEsvaWIxSG5Ja0l0di9Vd3M4dFlyN2dpYXJVbmtRQWVKS0pacGUyL2gySUJrNUgyV3hENFgyZkVCelJWRXEwbkFncXNyYXhUY2d3My9mT1ZDNjk0YmJGSmZHSURwSDNyUG5USU9BbzNRRFM3N29vOTZ1UFZlOGw4bjAxWEQ4VG45MjJ1R3lkR2ZjVFRLMkJoNU0rbUVobXFkMGhGRnRvRDVKQmtIVWdoTmNIQ2tXenFqbVJ2OEpvbVN5dDdpeGpIWlQrWEVyM1VXTHRSNml0OGJScXhGM3J1S0tETURsTW1BcEFySzFmMDN2ZnhiTkZvOWpGSkl6WEpBS0tVbXppMWYyUHUxb0VOM0lpTFNBdlNGSU45endrcVN3TWh1TG15MTJyR0pRY0tCUW5TWlBOdlJKbFZCVlJiM0tSbVdmT1BLWnJxWU5MQlNtWldPeDFZZmp0aGpJU05RdHUvcmVzVG1WNnlHNXVyR2FseXNwcjdiOUFxeXZIZTV4VWMxRDkvUzJxSVlka0F6cWxLeDF6S3REc0dVeENrWWMxZVNVdnY3aDR6blFYSVo0dmxXVnpMWTVSYjIrcm4yZjMxNWk4R3c2dGFYbkZhYU4rdW5NRDlXRjl6TTN0REVQNnF2dUNxckE4ZHczMFN6bElYS0NIZDdNL20wMkhSSVhQMUJxWDk5eDlTSkFTTXl2QVpuWlFYaU9WUXkrb2Vtd3NsTk5GQ3dwV0w5K1lIc2lSdkRyOFZuT3BkaG1HTEF4azlXemIwWHBiWWduUXhXVFA1UC9LUXM1c2cxR1duNkRkZUFzVFprWWh0Y0FjT2htS1d0ZlEyTEtUOFlWTHZ4ZjNNb3Z0TUdoQVJBS0N5aUVYV2ZtVlVOMkZ4aHJiMTFNYVFuMnQ4b05POEtlVnEzb0xwMTJmeWgralo0Y05yOVRBMFg0UENsWlRyemxzTVdlcWJTdFpTdEU2TDgrZW5uQjRoT3BGZi9maEtIdTRFVTRxeFVCNFV5Tk45bGxtTDlhNnlUQm5kUmpPY0lESlpJOWVBdlIyTVVTRjNhWkJPcnVIYTI0SDN4b2N5aTFZZTlIQTZxTzBHNWNIWUxRd3RlditnVHVGVjR6RWplci9jVldrUzVQKzNvY3piaitUSTlYZFF5bWE1aityVjZ0Wk9lcXdvVDlXdGZ6eEx2VFN1bVIvV1Bzdjl6Wm1mR2VWK1lxbjBJVkQ3SGdzb1dsU2x2SWkzMytORHJtWDRFck05dlRJWVVISE9iWXZTUGVydnZSaEZpYTVDRzJjL3Y5SGRaWGwvcFNraWtzMnN4N0d0ZERDL0VtRm5VMWpPRURiNzZhTlVCcTZWZTZZUG40SkxnQTdqT283UlRRalhSSlNSNmw0dlNuQVRNQ3FUd0FuMXpiTnVJbVV0ZjRTM2ZQSWZMODRlSUIvN2JVTW44TmdPclphU1VaSHFKTlh4VW54UmdxMVhwM21yUE5oR21rVldCejJYRDZuR01BN09JbkFRRTZrUWo4MWNROG5nWXZ6K1hhSmwrVFZ5Mjg3c1pPemVLRyt4UGxRMDM5dGhDR0dWU2ZIdGxDSXpJTFJLamxKd2w1bHVYc3RadXhhRTNkYmVuUFRGcWVIQk0zVlIzWDhZZEV0K0xuNFBBTTc5VXA4V1R4NnYySng1bHhvdEJURlZ5UDVEL2tHaktpRU5DdUd0amdTQzJJMi9BUFMyM1ViNTh1VncrbU91RUZQUzV3aDRGWXFkNExUc0cwVFo4VnJhQVVRK2RrMHNxdThxWjFUYnQ4Rzl3VFNPSmxxd0JqTUk1VmRYOTdVaU5wUm5JQjdhUWd1K1I1NUJTR2xxdHZmV1ROeURTZ3p5MFZEVDVDeE85eDJnZDh5aTJDT01VY21BSk9tdUxKaDBScStzd2ZXM2RVTWJranZxVm5GWDhKTklUSWVCREUyTWFaa0gxWi9ZT3dhTFpFNTlrWmk1N1hxaUI0TVZiMEQ0MnB6dTZTKzFKdFZYR24reitqSzIzVG5mSjNBaU5xbHVDQkMzZ2VNMFVSQVd4dlJrMnN1QXUwK0U5VEtqNnNmU0Z3MFRRMHpVZFdER3g2SVZQdldrYXVNajBvenJoY0NOZTBwMEt5M25VZ2k3WDZRRXc1VEIrZEFLMFgxY3pIUlg0b2JqNUJ2Q011aE5USWF3NjkyNjlqNWFpSzZxQTV5cC9DL0F4ZGoxcnkxQkFXM05jTFFUcWtjMTNQS1ZtWXJMclRpdFZ4TGVZZVlPU2dLaWplc1UwVEp6bmxXVEk4c3pQUmJ6NUtTVHZFM0R6eVdTVFppTVRrc1VpTmxWZlZwemdBaS9vV2JjNG9IeEd0dkkrNkZXb0pMSFlrZncya2pXaE9NMExXdm8xRTZXWFZ4NU4zcjhjeENraElZZXlzcEJJbHB5NjNGaTdIRHZFRDI1eWpYRmNEbjBMTytQWEFKZmVDcWw1Y0FPczNDTU5jU1hmelRrM2xROFB4YSs5bmdiVGN2bVBMRHg3dGthQk5EanhtL01SSGtTZnViKzZZWHFMSCtUMGdjV3JDV0FESjlOT1dTczlJRHQ0ckVqam4rTGpXRkNSanRPS0NVcHBkNENRVmRobkhyV0U4aDBHR0xsekhPUkxWSGxTVkU5L0wxVGl0OHJ3WllwUWYzcTlFSjE5SGFqSHcvOUNwSG1wNzhBVEdkUGFqcUQ4NnFBMTdGanJ5dWRSbHJQRm9oemJnVDY3TFBOM1ZhNGVzcVBDUVAvaThiN09zeGNCdmtaS2hkL0kwSVRCb0ROYU4rWEsyQXFoaGFIL25uNXk5Y3VKWnFvVnk5cGNGbmw3clF1NmNMUjRPNTFvdEpzcGtySHNja1NtUlczM2tLMWRnNWszNGtvT2NvcnlKU0ljcFNOY01OSGhlUGgzS0plNWhUekd0aXlib2lOaGJ6akZxOENpU0NOSVhKMnc1VVM0SnpqUHlkekJUTWw1MklrRU9sdGZLSjZkcEJ5Z0hCd1FacWhOTGpQY1dUQUwxODV1Sld6RG1CenVPbU5QUUxWIiwibWFjIjoiYjk0YmFlNjJiZDVlYTRiOTA4ZTExOTYxZGY0MWI4MWU2MThmMDVhYTE1MTkzMmVlOTlmZGU3YWU5MzBlZTU1NyIsInRhZyI6IiJ9
+@extends('layouts.master')
+
+@section('title', 'Create Drop')
+
+@section('content')
+@section('page-title', 'Create Drops')
+
+<div class="content-wrapper">
+    <div class="content">
+        <div class="card card-default">
+            <div class="card-header">
+                <h2>Create Drops</h2>
+            </div>
+            <div class="card-body">
+                <form id="tablecreatedrop" method="POST" action="{{ route('createdrops.store') }}">
+                    {{ csrf_field() }}
+
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <div class="form-group">
+                                <label for="id-drop">ID</label>
+                                <input type="text" name="id_drop" class="form-control" placeholder="Id Drop"
+                                    required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" name="name" class="form-control" placeholder="Name" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="notes">Notes</label>
+                                <input type="text" name="notes" class="form-control" placeholder="Notes"
+                                    value="N/A">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="address">Address</label>
+                                <input type="text" name="address" class="form-control" placeholder="Address"
+                                    required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="personalnotes">Personal Notes</label>
+                                <input type="text" name="personalnotes" class="form-control"
+                                    placeholder="Personal Notes" value="N/A">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="packages">Packages</label>
+                                        <input type="text" name="packages" class="form-control"
+                                            placeholder="Packages" required>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="status">Status</label>
+                                        <select name="status" id="status" class="form-control" required>
+                                            <option selected value="Default"
+                                                style="background-color: #fff; color: black; " disabled>
+                                                Default</option>
+                                            <option value="Ready" style="background-color: #82FB6A; color: black; ">
+                                                Ready</option>
+                                            <option value="Problem" style="background-color: #FF7059; color: white;">
+                                                Problem</option>
+                                            <option value="Dont send" style="background-color: #F1DD50; color: black;">
+                                                Dont send</option>
+                                            <option option value="Suspense"
+                                                style="background-color: #424945; color: white;">Suspense</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="expired">Expired At</label>
+                                        <input type="date" name="expired" class="form-control" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="type">Type</label>
+                                        <input type="text" name="type" class="form-control" placeholder="Type"
+                                            value="All" readonly>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Insert Drop</button>
+                    <a href="{{ route('drops') }}" class="btn btn-secondary">Back</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@push('scripts')
+    <script src="{{ asset('js/colortabledrops.js') }}"></script>
+@endpush
+@endsection

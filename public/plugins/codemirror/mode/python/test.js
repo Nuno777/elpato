@@ -1,1 +1,35 @@
-ENCRYPTED::eyJpdiI6InV2SnJGV3dJWitYYTlVK1p4TzFQMnc9PSIsInZhbHVlIjoiYnkrMGU1MzB6Szd6SENYbFlCY1J1ckRkVXllWnJ6SHd6OG9tbFlZRWVxV1BmMFllZGlUUGxNK2ZyR3FScVUzRDhEamxnYmFZbTM4NTBMck1IeUxQbzJuU3FVU1lmNnUvU1FvbytTcXB2d242V1NrNG1uU3pvdGhXTjA1NzZCc0QxZC9yOVpKOXE3Tk1PY2Nmd2hCMU0zRGw5RC9MS1UzN2ZGYk9mYTlDRFhIU0tqQmF0T2orMEIvRjhrKzN3b1ppQUFYTXlSdGtEdS84QytiMWxIUytJNFhBM2RGTkZ3QkhHQVVBS0h4czFrK010OU9MZGIwUDdSbDlPRkV0NXBiL1J1dk9EZ2JWOE02OG9CRndwdmEvQ2xFVEFVeUdueG9Ld1BiZVhQQkZVUEZuYm5kNVYxK2N2bVo1YVhWd0tvM1hadVl3K2R5a21UNDlBTXFuL3Z1Qjk1OTdLOC9acTlab3M0UytMa0dFUjJUT3VERTlFTFZ2MHM4UjhTcGlXSWpGWndkUnRWbDUwaVZFejU1TUoxYXh6MTJtSWUra0gwRFBDNmxCZGZFRnAxeDlHL2FzY1FydkpuckdkT0xoR21xekJzd2hOZmhwNDhnaG9tMzBNeFFJNUp2SjVMeFpkOVZDUmJvTm5PQ1IwVFNKWFZhd1VNVDRwOHNSdWN5WVZJc2NvZGNiMDVvb3VJYXlRZ3dtenEvcG1peTIzZkpvUHlaMWczbGZqeW05YlI4S3d2QkhEdnBNaFFpbWg0UlczaVF5Qm5tVTRHNFNoVVRhWWRTTktqRXVPaVB4UUdsbHZWSitlNUdtWmtrVXNEU1NpSWdKc3JLSDk0L2FRc3U4Y0pNa2NsaUw0ZEZOZlpLQ0FMbTlQNVlsV3hBWFk3amhVc05Mem0weEhaeDJxYUIwK2tHaEsyQnVmTGo3ZHd3cXp1UXBhRXhKKzdEeUVMSkdtb2dDUk5WVVhOT1lObERGclBVdGVsa3FzU1pkeWpTM0w4cEtDbldTR3JROFhlSG1aNTI0bjByL0NMb0gxOFVWKzRhaVI0YW5iMjRtUW5WaS85UHNPYU9pelplVHlXZjJnb1AxaXQ2R1pFMnhCNVFzYXhHQlRqcGFGV015eXVwMitMdytNSDBjWVpsUGllVTV5R1pqZnpuMUJrSmc2SHVzMWFsbXdOcllvMlZxWEdVR2tiUGpoM21ndWVqc3RGWVlHUW8rc3o2UzY2OGtPZ1d6cDdFcm1Ob1c0b2ZEOVBscTdPdllUaDF3d0haNURsRXJTRTFKbUdhZFlhc2RrdXhMcXJTR3lITUNQNHRka2gvOHRZbWtUdWg5TmxuVVN4NFdyOG9tRFJjQmhEUk1mcXlLdHdRbit5Q0dxRHRwcXFuNUFYSWdpZS9MdVFoTU9FMFE4TEV0RmloNkNpWnlveFRlYWI5QW9scWZkWks0dGhZN1U1YkdWMXNJRWZodElpdmhDb1dIRGFwOWRSeTQ0QTNtYkp6ZWxFYWQzTGlZSmN5aVN2YkpRZ3JkSG4rRE9XNjhvMktZRXlrNEx4NUxDTVN1N3NKa0lHMWQ1K25YUTFMb0hPVlRXQ1RaS3ppYi9FUWU4c2VSa3VUNk9BQWRLWEI5WjBRWEQwRDN4WVplYTRpdGsyNDNaSDAyMW9KNzRlQmcrOHBCeFFxWm5ENGNKQ1NwMThzV1lnZENvajluWERhSFMzNDgxZWE5eTNwZzR0OTZ6UDNJWDRaT0dWZ2M4ditFY0RuOFc1QzdKcFV5YlFjMHA5cU9oa2x4UGJBdWRsUHVxbG5GZU9Wd3ZRUWxJVHZENE10VFUzZ3FKTHM2cHlqQm9ZOEZMNkV2SG9vcFNDYmtNNk1qZVZnbnJrK1BsamlzNDJOUlFHR2hLalpFWGR5Qmp5YWRiRHlHV0RkbmU2UGIrUVR5Wnk3UWdlc3FXcGd1S1d4OE1BeHhoczZTVnpXTFE4UmFCemtQSWNjRi8zTHptSC9paHBYbUxKSXY4ZHVRQWk0UU5nbGJycFpUeHRBT3lFb0Z4dGtpaEt1TFh0SGxFV21YbmsrOVNUZ3JNQ2RXYmZIT0dSdVQzRllVTFF5OTV0NW1uVEkrMnJNNmg1SEJ6N1VyY0NOWWM1dzlDVzlGRWtsQjlWYVg4Tk9jNVdzdUVKNVRlRXRJSlJRWW8zLzZ1SE1PRUJSMWJ0a2RsU1pYaFYyMStvb1NHdC9HVmdPOGp1cnoxZXdPWTlyaXpGVStoWllNM2JFUE85N2pCVUNaQVdRZG54aFpYL1JaV0w5Rm1CVmRrSGRDMWhBS0tMSCtHOElFVnVldmhmN2RxS0pTMWxlRTU4RzhUdG45UmNuT3JBUWpNekJka2FNWkp4RWYyNjMza2l0T1B2Nmp6dVA0YklYZE5LekhiOVZGMEN1S2tzZERPU0xFamNCWmkyS25jcEg2VFEydEc2bnJXNkVqSnNXY0srTWQxSWU1YnZmVGExOUlmbEM0Wi9pMzFJeFlKTjQrVnFpWlFwVXByVUZ4cGwzcU5KSlUrT3BTWHg4PSIsIm1hYyI6IjRhZjY3YmJjYzFkMTBjZDVmYmU3MjExNjEzY2EwOGExOWQyZGZlNDA1ZjIzYWQxNDQ0ZmM2NmM5MTg4NDE3MmYiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 4},
+              {name: "python",
+               version: 3,
+               singleLineStringErrors: false});
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  // Error, because "foobarhello" is neither a known type or property, but
+  // property was expected (after "and"), and it should be in parentheses.
+  MT("decoratorStartOfLine",
+     "[meta @dec]",
+     "[keyword def] [def function]():",
+     "    [keyword pass]");
+
+  MT("decoratorIndented",
+     "[keyword class] [def Foo]:",
+     "    [meta @dec]",
+     "    [keyword def] [def function]():",
+     "        [keyword pass]");
+
+  MT("matmulWithSpace:", "[variable a] [operator @] [variable b]");
+  MT("matmulWithoutSpace:", "[variable a][operator @][variable b]");
+  MT("matmulSpaceBefore:", "[variable a] [operator @][variable b]");
+  var before_equal_sign = ["+", "-", "*", "/", "=", "!", ">", "<"];
+  for (var i = 0; i < before_equal_sign.length; ++i) {
+    var c = before_equal_sign[i]
+    MT("before_equal_sign_" + c, "[variable a] [operator " + c + "=] [variable b]");
+  }
+
+  MT("fValidStringPrefix", "[string f'this is a {formatted} string']");
+  MT("uValidStringPrefix", "[string u'this is an unicode string']");
+})();

@@ -1,1 +1,33 @@
-ENCRYPTED::eyJpdiI6IkFEdldUWTNmNEVzNUhzTGQ5ZnBZVlE9PSIsInZhbHVlIjoiQ3FGZm5DOUlVV1FLaE5Qd3BEVEFzaDVGUURrMjF2SzlHYm9vSEV6bnZGNW1yMXJSUWQxWVIyWUErbEhUUEhCSVN2ajM5LzBxOTdoRitXYVJVZW1kSDBzV0dEaEZIc2l5OEdTVzNneE53RU1kMGZLbVRKdWI4cWFRWnJyZHZxQzFoU3VrL1NUZEhLK3ZSYjZ4d3ZiRVZXTzRkdVVlMFU5OThlbDdMVHg0NjFLTTdGWHo3eHlWVHhQS2xiMjNOYjlrcEZZaUVZd3dzMDIyWG9ZalpkNWcxa2dNVENEcEV0c2QvL1ByTG96anVDZzJPYzBDN0ZESGVZQngrRVUvZE5aVWdXbUt0SlFzblFuanZCUlIzVXZBaTdsc2pUdkpUbTlOY0o2OWxJU1lNTzVpR0Z0dVY2eUdkMXEwM0NvOWh1bWZ6UFM1WlJ1cGQvUlc5ZUJ4Q0dSMDRHcGUyai9tU2xUdWxpcWpkbmRHdXJBRDI1ZHByenp5bWsxZGR4cHZUNlAvNk1NdnNoWGl2UUE4ZlA1MjlZZStmaEpHUDR3ZnVWVlR3ajZjamV3b0lkclp0TGtjUXUzUGhON0JuaHZvUCszdHd2NFdNYkYvUnQ0NFRoV1BhTHFEL2hROHNONnEzbFpob0lPamZiVFZHK0RYRUZRWmlCbWxHVGhMenYyNGJJVzdUZ0hMVmlaakZwcGMzRUFoSVZjNnhjbUpicTJHWnFDSUpTQnpKcEtsL3BPY1BsUDBmSS8yV04zaFNpYnY3VlpsTS9ES0ZyWUxnN1lpS0RoWUtjZ1hMdnNJT0laajNGaGJHa0Z2bmg2NEpMd2FHbmRiSFFPTVNYYlpIM3RoRjZoeXJMUXJqSHFyV2FIMmhYQzRuRStnUS8vRU84THljV0p6WjhoMk9YY3g3aXU4L3NxUkJRQTYzazhwVjByaFdQS1VVa3ArM0l0eGp0ZEZMU3FSOWlsTTA3UlZmYzk4a1d2UGtpNkFwRnFiV2VuZGcvNEhFQ1J1Vk8rVC9tZ1VuaWM3UTh6SUJwN3BBQmRoWGFlL1JVMWFicCtSb2c1VytFa1VkVUV4V3NOb0FFR09aVHdvSmZQL0NUc200REFVaVpZb2RBOTJrWUE2cUljcWRoWUlTcFZIam53Vm85cmY2bW1KdmsybWRiUmRmcm9mcFVZQW56MG9rdUZRbXowS0JQT0k5QmJPekJMdGFJV3dXK3ZmR21UUDY1bi9TYTlKWmlvQU9Td0dTYTJ6SmRXcnZZcXJkY3JUWERDZnM5d2kyTkp0QU9YR0VtOVE3SFZDNGhKR0hTWnJxK1k0Z2kxNkFHVkMvYVcxSG5VM0I0Qk1NMzVKcitTV2JYVTE5c3htTzRmT3dyUnZheUIwcDZqL3R5WlZ4Z1BNQ0oyOEVXd1NpVXl1SnFVN0s3QnZqbUlTb1ZxdS8yMElWWUdtRmMwQmt2ZXVQNW9JbTU1VVBhWmtiV0NQcm83OWttM2NVcjMralJKWEp6OWExUVVWZXNvPSIsIm1hYyI6ImM0YWQwZTM3MTYyN2M1Njk5OTgzMzYzMDM5YTU5YzA1ZWU0M2Q1ZjA4YWI1YWQ1NjdiNTA2ODdhZTU2MTBjZDkiLCJ0YWciOiIifQ==
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  CodeMirror.defineMode("markdown_with_stex", function(){
+    var inner = CodeMirror.getMode({}, "stex");
+    var outer = CodeMirror.getMode({}, "markdown");
+
+    var innerOptions = {
+      open: '$',
+      close: '$',
+      mode: inner,
+      delimStyle: 'delim',
+      innerStyle: 'inner'
+    };
+
+    return CodeMirror.multiplexingMode(outer, innerOptions);
+  });
+
+  var mode = CodeMirror.getMode({}, "markdown_with_stex");
+
+  function MT(name) {
+    test.mode(
+      name,
+      mode,
+      Array.prototype.slice.call(arguments, 1),
+      'multiplexing');
+  }
+
+  MT(
+    "stexInsideMarkdown",
+    "[strong **Equation:**] [delim&delim-open $][inner&tag \\pi][delim&delim-close $]");
+})();

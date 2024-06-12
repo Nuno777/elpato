@@ -1,1 +1,122 @@
-ENCRYPTED::eyJpdiI6Im9YYkxTL3dzNEhZRDc5V2N5ZUwxVnc9PSIsInZhbHVlIjoieTRnUytrVCtrL0xhc0F6UDVoeXlkZUdpMzU5cDNpWm1jdnNZT1ZWQTN1eHZYZ01UdE5DNnl3cU5lUVhQT3JYMUZ2U0EwanlSTDQvZFlidkNOSzRySG8xenR1MGgwYmFsT3FscEtOZlkvTXV1cm9tTDhNSmVCak5TTHlWbVBYWWQ1S1d4c3Z0Q0tMdUw3ZVVLek13cVljN00ycTIvb3p6bksyYVl6UDNjd1F4VGllS3dESkhMOU5ERkNHZUhXdk51MmJSbFdLMkZRWlhzelZCU0NLdUtnNmFmdlhkVFVvOWpXQmorVG5lV1lveE9BWUJjNFlsTXZZRGJjck1hWFN3cVhiWFdOTS9vNFhxWGdEc1EwcnppSGdEQVdPTklNWHhONENRanYva3NwWnZKajVmak9vZTAvZWxzVXh3LzRLcHdyY3N0a1E4TEU5V0c3enMzb1VZOFMxOUpSRkZNaVJYZURmUHdPL2lhZWl0c3hPVUxuQ25GdlRWWXc5NmJiWmV6SjlLaGx0VEdtS1FFTGdJcVYxenYxNTA4NWdPN3pFY045RFBpcy9OemU1cmdENk1weGhGSWhzNXREY1R4dFJDdXM4R2ZCV3I2OTlBUjIzaHJzb3BpSjVnUlJxUm9yTTE5OWpqd0tiRkdmWlg4YlEzOStna0JmcTd0cFM1Ynh0TytFOE1hTGk5N3pqVDBFdFN4Zm5qQ1ExejNSbzV6VnlEVmhGOCtNZEd3cC94dy92WS9TVG5seTJBZVQvNTRjQ1krVk0xK1FFdmxmYmRWTTQzRmQ1YWFZRDlnTEp0Umhkbi9HWU54K2s3UXBkQ0xqc042VTNmME0vUXhNZGV0ZkZKTGo3cFhlSlRnZ1cwbEpoUDd5MTBJM3ZYbE0wc0lPek1WU1JuclB6M2t3TkNFY3RlR3Znb3RUenRzdlVUaitrQzRyYW1KU3JSZVNTL3dZa0I1elBFMFEzQm04YlFoOGFNQnl6RDJSTEVPbkdHWVhqUmpPVkc4WTRHaVR0VWMybHZSTitGK1gyTExBR0tRYVF0N1RvWHJENTJXaGdxZXlJdk1UZTdYUXVGNGlJL3FNeEFqaWlBZExiMmJIRjA4cUhsVk1kS0s2d3ora3ZXVXhtRFIwck9MeUQ4TVFqQ2pTc3NlYkdKYk9QbVJHL2FoVnVOUUk5UWpMWmZ2c0JFWHdXSVp6VWkzZHpMZnV4VmVvUk5NNDhjVkRwc0pDaVRDamdzQW5mNTVkVEZWN0F2R2dWaW50UmZPSVBZTG5ucElybHRxSVBjYzZTNHJjQWFQdGVuUXpFcUZKc3FHVTJWRHlKOHNDZ284cVllVE11M2g5MklwS0JudXBSb3Z4SVE3UDlMcEhRQ1UrcmJaU3QzRzY5SE1pQzRqclJkQTNMSVJyV21TRkFIZE83RlI3MUZodkx3UTZ0emVVazNSQjhiaVRIUHpjKzBxSTB4TFZqV3g0ajN5c0lhM3JJTzFzdVk5Tjd6K3JKbVBYOEVyYk1UeWRKRWZwbnVHbDY0aklScStzWFZXWVVCNlFVZEdXYkRmdXBtQW5kRm1BM04vNWQ5OENpRG1wTWRhc0xSUVhVdXE1TkFXZmlrODZjMU80ZHZ0MFU3MStLVk03OE95U3E5YjgvYkk0aGVQa1VuUnRNYWwwNmRVbmVFVWZ1VmtERXU1M2ZEaHY2SUVTSFJkT2huaXZrNXI0a2ZlVGgzaUpiakY3MHBabmlldHZwVVA4SkJldmJuVGJDVktZYmNkanZ4YjNyang5U1NnTjBHang5a2NDYklSVldvRkovWm4vN1dUb3ZGeTJ2VzJxdGZSRTNoU1hpZ2ZyZENvWlkrenRtQ2RoSUJGZ05ueGk4NTZLMWRtRmtwQ21xR2tzSUdrWHdSVGplcGhHN2U1VFgxM25rU2RjeDJ4NjZGK05pcGZuSExLcDNJKzBQVmN5cUJraHg2aVhuSmhiL2hCcjhhRmxReGNRMlMxYWw1dGpUSVJQK2dFTHF6czhXbGtPS0JTeGNvdEx2Y1VRUjRiZm9EcGRad01jUXQzVVlVZlV5ZDdUczNGay9pbFQweHZVQ2w1Y3lzZW9nQ3R2S2VSazh1S3hNWndQcFVBVm9WS01idjVQbU85RlZmT0gyTTBpRjJaNGZEaEJMekoxVm5hSGwva2pGbjZRbURJWWtvTkllTHZxR0RhcVpjWWJVNEp0N2dZMHpJMGNnaHNzVm96UTNIZW03cE1kOVhSWGliR3dUSm4yTzRIWWgvclp6NXowUDBtR0lUUmhmaVQ0dFJEczhoSEh2N014VlVYM3JYaGpwcEg2SUs5UTlpcGg5WnpuTmdPSk84eURrNE9uOElYVlA3VGdaRTNDSUxDV2hWZmVVbCsrdm9BVVNaRERNVnJzZXRPWGJnNWc2ZWJjYTRPeTRmeHBycDFkY08ySVZoRmZDUzhhVllZVlUyaWtmQThmNHJzTERrOUw5d1Rpb3NaVXpXSEZCWGFpSHMycGZuYU1zZzE5VDhGYlJLMk5TbHlNa2VZUXFjanpvUVgwZVNUYmtWQnJSZWp6K0QrSVFZNmdDY1NaSWc0Q0JGL2dkbVJXcFlsZXEvVGhuSkZNeThibGpzbytwTi9XOTBMQWh2MmJIcmd1SWlzY1FtdDRJSlMwTlhmMHdZT2VMbjN0V29uU0NzRzIySmpVSDM3b3BNcldUQW1MVFk0WmRxdnE3L3JnR1I1cnpoVlh6bzVUQXVFY3VzSEtCdndiSFlMdy9jcHpIZnp4NEZ0RnVRbU5iTnlPQnhNQU5DZTQvSVhtdEMxVXhScm0xbkVhTmlWang4TnA4c2lZRzVDbWFBMzB6NUdodHF2T2lSRTk0bnNGTWpKMkNneFZYTUovWFROUkMraFFCMmNvMzJsRW9hR0dSYjlJQy8vZU8ySUVrZ2J5b0JNZzg1UTZTT0FYVktaTGxCR1BUV0lpcnI4a1lncTZSK1MwL2V1ekFLSzBKUjNndzhhUldTcmV2Q24xVVN3cjBPQ05EYnZsMklHajVjenFZMFBtWmNPOXI2bVhMWUF3aFhEUjZrV2dOcnJwNkt0VmVhSGJwOVhSOWx0SCs5TVFuK1RSZC9iR3hCYS9SVmVuTDdFNEhHNml1SVc2UFJSakRlMFZoZ2YxTzNMSUd0OHpmYXgwK1FPM2xmZnprSzVNTUsrQVJjblJLSmxXeHM3cjk5V2NmSFVjZVZTSjg0MTZpVXRuTTJmUTZBQkp1Vk5wT3JiSG1XbXhYZG9Xa0tvTFVZVW9GTkdOTFNKNzVtWkRGQkoramNaZzhIeG5EVFB3ZWI3QmRwTVNNNktLRHB5QXRsSm9wWjl3MVdLRzNBUUpSUDkrMW92alZsQVhMdkJNS3NBSVBCUllLak8ydk9nMGM1K2ovTmljQmZZLzltS0tjV1B3b09xUGMvb1JGOGlzajdaZUpkWlI4MU5FYUlNS0Rqdmk3S05oWGRTYmxWeFNKRjByYi9YWDJxcWZQeGMweFNhRncxLzk0ZGJKVTJVNjRIVko1NkhhNk9PczVUOGV2YXN3SG9BbWUvbTZKZXNZSGttS01Oc1B2akRNL3c2WEZMclFHcE5EbWFrL1EwV0VEc3JZM3JQbkdXMFhUOVlhZG16SW5zZXd6WWg2eW5FZ3FaeHJ4M0NHZnZBV1E5MW55ZlBjcFAyRWFtM2R4eVdwbUNNR0lEQmpqcEwxVWh0ZHp1eEZ0TnJBdndDNWQ3dkpQQ1QvNnRlaGVjNEtHbUVNV2EyNXFpelVFRlNkcXNXTzdhNkVLb3ZxOFhUbEQxdmtzbnFRQW91YjhMTHVDTXBscTMyUk5Uc0RqZWFUeVRBcXI5TEJUWXJ3YXlMVmZpWjNZYWd3Y1p6YUZKVHFrbTB0d3FyOGVlbDAzMklPeHdWSm5HMnVYZVdONnBGZlpQUGs5aGgzVXN6T3JaMzdCQnVXcVZMd253NjdMNEVDS3hzbjc1WVljeU02U0duajlvQ2RINHlOYXBDNFBqZlVna1FYRTFGdXRnQkZwbmR0bDdjLzBzZ0Z0QmpwSlQ3Zk9sVzYwOHUrK0ZObUVVUWJ5aUJmYWpmYVFRVXNhR0dROGJWd1hvYnk3LzBPSjRpTS9GM1B4TXM0R3RSUU5ORkhpam52Y2VMK0RNRmt4MWNEUy8wY2c1OW9HY05hYS96V2NoZ0VsMG9FcFFOUVVmOTd4akwzQTh6UWlRUmU2YVJZWTJEQS9iWS90TmJtUERzMW14SUpBU3lNcE5xVUtBWFJHSjNxWnp4ZXVEbExXeWoyV29wSGZvOHFFZmhmcUhEMWdBVTR4Ni9UZlE2VE5sRU9SdE14TG9RazZPOTRRWGNNVFFIL2ZjcGZyN2lVcVhWVzdiNW96RC82emlvZ3NTTlNCbzcwU3J5d3lSQWJFUzlKYW9LUEhaTjlPM2wyTzNQeFRoWGZHRUxkTnpZdUw1dkRsWU8zRlVmbm1EaHQ4a2ZMQ3NyVGdMVU1YdDYrQjFRUjE2bzFnVlB1MGRlRjN3cFpwVzMvTnhxTURKa0N4WHlpUXFiUUR0L2lGRXM4NFhCZFBRWHhHTzhTcWZKVzd3ZmJJQmMrRUFRZm4rV2lkd2hQZG5BZ0YxV2FmKzFudkYvT1VNd2VDZ0VYMkhrSEFsOTBiS1B1VWdNYnExLzk1ZDNGUFE5YXV5MWhKa1IxWE1yL1hzRncvSTloRTFnNTBYSGhJbkN6eVhSblMrMjIwSytBMi9LenJZcUVFaVNFZ3Y0aTU2TFNtcExnc0NxK1dCM296anJFWUtWTmdYOEJzZEVvU0Q0ZHdxM1UrMzhpdDhlREI0SG12U0laTmhGV2RWNW5YMUhKSkZJR0J2TXBwQ0NQSTNrOXRHUFc2Um1hRkhZN2VGRXVZZkpnYnZZYk5HRXNOM3dUSEYzcE81VU0xK2E3YzZMWlJpcFJDM2FDRUxpWkFQdDNQOG53Zi9ISksvT3hqS1hNVHFRV0F3cE9XL2orQUNRUHhXY29yT1NORHFhbHplV2l5MGxVNzVqZmZ6U0JHZEZlWkZPMVBMRGxzc2tDQ0NyNWtPWGVyanBaelB3bnpNbk54ejdIZFpyR0pBWnNYQmpMaTFZZHVMcTU2Y3FVQUM5TVVnTTczeGt2RXFRdm5GQU1sVlBhdVlHQ2c1c0l0eTVGVkhWeFltRDM3YW0rKzRJNDBTNVR6MGxCQzZVUXVFVU5iZjYrYU95OVYzMGhRZS9WVDJtamtpZFo5bGorbXlCYjBSUmdMTmZsM000ZUo5K3BNQTBKWWtXYko4SFgyK2taV2NXNmJBYVdyaGZxR1Y5ZUFDM1JQVklmTi9zWmx5S0Z4citiUUdKbUM1MmdDSytUK1NqRnFHdE53VnYvckgxNC9Pejlma2RSd09TT0x0TWQrYUlid1NqQzVGZVhpN3RGVUlNVkFUY29rZTBrSGhoSnNVbDBCUkUzSVJ0WDZ4OWVjZUdwSDRTMVo1WWZHNnc2eG01UkdBYWVadTJ3cDN1ZUxJRGw3YVE2aEZnc0NEbi9hMFZVWVhNY3Jma1NkeWtEaDFIeXFNeWY5UjlkZ2NvZDlOeUFGanIzVnJ2VVVWRUxROHdHUnUyeVlLV0p1TnU0cjR3N3Z2SnZ4R1FEdy9ZUFprSWhJdHhoOWtHMWc1L1UzZUxqT0xoWjBlR2hOM1RsZ1lXalJRdENtOVB1VndWbzdXdUducE05QVZVSnpJR05KbThsRFlBZVdvU1N2TWo3c2Q0K2x3MmExSHVlSUExOHd4M2lZZm9sbW5RVlNRV0dRdWVLMmVZckFGL1RZNitjditpV0kvamhyVjE1ZEl1WXNUOTdrNDJCTnlLQlhvVDM4SWtZZnFrTy9iTmpIK1FqTE84cnR1c1pnbUEzUE9ITFVqdzJUVU12V2VoRWZmUmJQeGQxNUlOSERIcDJxZ0JwbCs4UnlKZS9iakw1dDQ3azV4OVhjQTJIRUVVWHhPNkhyOFJJbGx6STdiNjEvMnpLeVU0TlVEVUJybStVc3lVaDFCMTREQnpiaXJ6b21abEJ2ZUdQMStzT01oSGJpZTNmSUowU0pEQ092d0I3bnBkcGRibGpHQkJwbkxpYkdzWUVjWnRQZzhiOXN5UlFrV2NlNDNLc3NlR202dEtDL0ZlMTk1WFlOSCtCaUxLb0lGM2tmbTNXVWowc1ZSZU1FN09SMit5Q3R5b25BbDJycDZjNEw5QWl4UjJ1UTVQVkM4M1pYZDNvTEdFTFpGcHJCQ1IrOGluM3ZhbGJKWHRuT0k4czdZTDRSdlRMangzZmhwTnNUeHJNeGE0OG8xT0lKNmdnWFRIWm4xNThwRUpYL2Fjb3FDRkliR3Bvbzc4ZXg3Z0VFVkJ6NXR6UzdJdDhTSys4eGJSRnlRUFpYcldKS3crcEZ0dFcwMGE1S1gweE9xUUVlWk1JSDZSMS9vYzh0WlBtR2tFMDViK0NKdUdDeVVLY25WYkpSZURPL1dlNjVBdXR5ek1uZUhBb3dBNmI2OTk5bHNzVDZuME9ZNEZDRTNqaEdQSzdtS0Q4cWJKQ1Z5Tnc0QzJBZ0dPUmt1WUlBQzgycmRwNVoxQWFsTi9SY3RnTnpOaTVLSEM5UEY4OHdGM09PcENwTmcvL2dmTzJCUDNYMFpoNHRCa1FPeElJdHcwdmNMRUlDTVBHVWhib3dSNHhEMC8xaHBDdGZzUUY5TGZETi9UTGwvSmJCLzFOQytTN25SNExkTnBrWGVjK3ZIVDBCdkR3a1ZISW5xTlRNK210TXZGLzkzUlR1TGxsVkowWWJYM2QrY0JIay9UMWJETmZseTlDMHBTVlA0R3V6eUxwczFSc2t6SDJjTWoybldpZVR6b2NyZ0E1Z1JYMjBKY281Y3QxYUhCRUt6YlBoL3BHaE5MTDc5MzllSkNEWWNUbDZkMElzUWl3WTFxcUtheWJ0YktxVHNUVHA1amJYVlJtV3c4K1dmMSt3MytlbGpnN09rWk5iZE1BZXR2VVVoVm1VN0JBVG1qZlJhOXZtWjY5cGlESm5ZdktZalNIVE81Y0lMUEJ3UUo4WEZPNUVvVWlwUjhDTTJ2VGxtV1Fmd00iLCJtYWMiOiIwZGY5MGE5YTRiMGRlOGRkY2FkNTRjODc3OGM5ZTg5NTExMTM3Yzc1MzVjM2Y4MDY0NDEyMTIyY2QyODkzMTRjIiwidGFnIjoiIn0=
+# Owl Carousel 2
+
+Touch enabled [jQuery](https://jquery.com/) plugin that lets you create a beautiful, responsive carousel slider. **To get started, check out https://owlcarousel2.github.io/OwlCarousel2/.**
+
+**Notice:** The old Owl Carousel site (owlgraphic [dot] com) is no longer in use. Please delete all references to this in bookmarks and your own products' documentation as it's being used for malicious purposes.
+
+## Quick start
+
+### Install
+
+This package can be installed with:
+
+- [npm](https://www.npmjs.com/package/owl.carousel): `npm install --save owl.carousel` or `yarn add owl.carousel jquery`
+- [bower](http://bower.io/search/?q=owl.carousel): `bower install --save owl.carousel`
+
+Or download the [latest release](https://github.com/OwlCarousel2/OwlCarousel2/releases).
+
+### Load
+
+#### Webpack
+
+Add jQuery via the "webpack.ProvidePlugin" to your webpack configuration:
+    
+    const webpack = require('webpack');
+    
+    //...
+    plugins: [
+        new webpack.ProvidePlugin({
+          $: 'jquery',
+          jQuery: 'jquery',
+          'window.jQuery': 'jquery'
+        }),
+    ],
+    //...
+
+Load the required stylesheet and JS:
+
+```js
+import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel';
+```
+
+#### Static HTML
+
+Put the required stylesheet at the [top](https://developer.yahoo.com/performance/rules.html#css_top) of your markup:
+
+```html
+<link rel="stylesheet" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
+```
+
+```html
+<link rel="stylesheet" href="/bower_components/owl.carousel/dist/assets/owl.carousel.min.css" />
+```
+
+**NOTE:** If you want to use the default navigation styles, you will also need to include `owl.theme.default.css`.
+
+
+Put the script at the [bottom](https://developer.yahoo.com/performance/rules.html#js_bottom) of your markup right after jQuery:
+
+```html
+<script src="/node_modules/jquery/dist/jquery.js"></script>
+<script src="/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
+```
+
+```html
+<script src="/bower_components/jquery/dist/jquery.js"></script>
+<script src="/bower_components/owl.carousel/dist/owl.carousel.min.js"></script>
+```
+
+### Usage
+
+Wrap your items (`div`, `a`, `img`, `span`, `li` etc.) with a container element (`div`, `ul` etc.). Only the class `owl-carousel` is mandatory to apply proper styles:
+
+```html
+<div class="owl-carousel owl-theme">
+  <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
+  <div> Your Content </div>
+</div>
+```
+**NOTE:** The `owl-theme` class is optional, but without it, you will need to style navigation features on your own.
+
+
+Call the [plugin](https://learn.jquery.com/plugins/) function and your carousel is ready.
+
+```javascript
+$(document).ready(function(){
+  $('.owl-carousel').owlCarousel();
+});
+```
+
+## Documentation
+
+The documentation, included in this repo in the root directory, is built with [Assemble](http://assemble.io/) and publicly available at https://owlcarousel2.github.io/OwlCarousel2/. The documentation may also be run locally.
+
+## Building
+
+This package comes with [Grunt](http://gruntjs.com/) and [Bower](http://bower.io/). The following tasks are available:
+
+  * `default` compiles the CSS and JS into `/dist` and builds the doc.
+  * `dist` compiles the CSS and JS into `/dist` only.
+  * `watch` watches source files and builds them automatically whenever you save.
+  * `test` runs [JSHint](http://www.jshint.com/) and [QUnit](http://qunitjs.com/) tests headlessly in [PhantomJS](http://phantomjs.org/).
+
+To define which plugins are build into the distribution just edit `/_config.json` to fit your needs.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Roadmap
+
+Please make sure to check out our [Roadmap Discussion](https://github.com/OwlCarousel2/OwlCarousel2/issues/1756).
+
+
+## License
+
+The code and the documentation are released under the [MIT License](LICENSE).

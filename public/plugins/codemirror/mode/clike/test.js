@@ -1,1 +1,69 @@
-ENCRYPTED::eyJpdiI6IldDM2U0cThiR29jY29OUEN0QjlaU0E9PSIsInZhbHVlIjoiNlZNNStuM1c2Q056ZTgxSzVtRlduZGkrNGMyRGQ0MkxpTnFubEl0aDVIblMvaUVidDgxenkvQnFMZFdqZk9GbWZGT3gvMXJ4eWwrenZwRXpKbnFWVFNSY0RabW4xNms3b3FZY1pTaUV6Q2JVRHlPK1B3MjFoYnBSQ1JGYkRtZDVueUFmMmJrT2VFM2FNNVJrNlVVZmozRnpzVExDM3l3ZE82c1FvSnpxSVBSZmxSejFPTGNKUHUvb2RPN2JCSkg1Y2ZtamNuMzJZRGRvTTMzcS9WSXIvQlFISTlpYndqdnYxKzc3R2EwVHRreHQ4ZDl3UjJUclFyV09BY3JDZkV3VVJnbzFQazVJSnFsTUZRVml1MzlObFZmcXAxeXoraEFzMGtIRXpYYUFxRC9Sd0hoY0t4S3hBVDFqdElpbUwrN1M1WHZiZVlPeHBvc01UZ0dReGpXWDh1aERJUWxUM1Y3RTR4RUNFTk1Ta1ZOcmtsWTF1NkFhUXFUTWljemx6VWZpY0Nkd05nKzlDVEMyVTNrT3A3OFluUzJvWXYzcjZ3ZHZFNUVSbDRNZzJKcXBnZUtrWUZiTmUrd2dtanNNTE81VGRqTzJ6MzNyczc1L1YxV1FGSzRsSEtiQ1pIaE5DbEJFVEc4TnpzeU9SQ28vWmdHRmZ1eDdjNndwSGRYYjVJcXViZUhYOHlCUjNTMkUxZVNVU3lYZHp3K0M2V0RuenZtdlh1RERKdnFmb1psRnMvZzZaOTZmN1B2ZUh0THM2cEw2cXdKNTY1amlsajZnelJUMDg5U2YxcXM0c2hTN25EUm1XZWszZU9ETndaZjJ1RW9hMVBGWm56SlhhQnZOd0RRS1hYaU9yb2F5RmE3aTcyWXhCYnN6M0M5b242RVJvUGhKQ1lOVkZBT2FmN1BieURUcm5BRkF1S1Y2Mm8zdE5sNjVmYmF5aWFkbklHaXVtVnZ1TmM2VzRxMFY4N3d1RitKNHNpbFlpZVl1Y1FrdXFoWXhlSTV2dEhxSWVadVBpd1llM1hnVWVCSDJGekxSbFJON3JrbUxUS05pczdqSUVjQXA0QVUvcEh1Z1U2UUplTGJ3Z1FsSXRrNE9FNG5JSldSWCtUMCs5SXNSZTM1cDhTbnZQTjFWTDZrTXk5Nld3cGVPb0V1WEkySjBHQ0JBOEhKbEsvYWRuRTJ3WHdURVFKRHhTT01JTklkSXBnN2w2eHJ1YTlHbjZVaXh2RjhYZlFqT0ZST2pLS29ZeE5vRVAzK1dtSUs4aUFSOWxyQktqUm9TdVRjY004V0JaSXhTNVZoWG9vTkpSTTRER1Ftcis0Q2ZRa2R0WGRFdUdqR20zU3BGZ1Z4UWhGNis0OFdLalkvRFZ1WTJGb01pVWxBblZOWEFWVG5tZ29OWlFVZnVyWDliYUwyMmFkM254MzFLNldqb2doWCtBclhzbVdXeGI3L0xiMW53bzk5ak83UEpJZ3d3VDdTMENINUoxMHI0MnNtbmNiaUpDNmU3REVUMDhNRWJFc2dZMWh4c0ROREZZemJFWS9OMFdlWk96SHVMMU0wV3ZpWXFxaTVsR3FlRXV2TGFaZnJCOVZRaU1aWkNocFRIeVUxZGFnM01Da3JQQ2VVK214dkFWbVpEU1hjOEVIV3Q2aFQ5V1lHR2Mvbjd3VytoY1h0UGtDQUZoeVphRmFteTdTVzVBeENiak9VRlhkMWl0M1JYUTkzWThpQ29RdXRLLytxVzhmaGhNcjBTSC9mVjB2MHlrb0grZStmYytEY3dSOERtdTdPWXdyZFQ5VWR5ZmxuOWRjOXZtdHhVQjZ1S3JLVlRTbENVeW9mNkRvV3VWSGliQy9Sd0tXY3NhcVpickZsOXdtQTcvUjY2VkV5TlN6M1p1TDdVZW1CUXpYa1JmNlNxWCtyMy90a2k4Y3FlM0ZST2UvcGpOaXBNRzRjMklXK056TEpUL1JBTnhjWU9OUUZwSXV0ZmU5WWJiSGxtekFvMUh2Q2YwVmcrRVdFUzNCOGxvL0p1cU5UYWZmL3hDQ3lOV1BMbG4vdHZqMTRzU3J4WFlqSUdObld3eU1nUnpZOFAxQk9lSkltOHpHWStIdVpoMDZWc2dFbWF3Z3lmc2dkSXV3Um9lN2dicWVyck5wb1BXRmViaitFNDhmWitWZ08vNyt1ZGlqV2phZncrZmYzRldKNXFGRnoyRnJTYkNMUGJXMUNGQU1SZVRGMTBYejdnZVZGQ2VmRitqMW9GVUhFaEhmRTd0bFBFSnZLWmNRVm1oYTFBY3dkbWdmM2hSUGZhZHFkYnVtdTQ5em5VVldBelR2QloxMHkveU15aE1xZWRUd2Z5WE9qdGtPTk8wTWNiVG4yTWl5ekxvV1B1emc5WVpQZGxwbXdnWThGdFBJci9ld1pnVjRucWlDVyt4UFdQMDUzRWhSeW9WNVRPV1VpelhiUEVKRUdmYzkwSXdxVWZVRkplUmZ6K2RhVkFsYjE2UnU2Uyt6aXdvQmNqOUxjVjZtakNUTGEzV2l0NEpFVk9xTEtNUTRSd1JyTkoxeFRsQ0Zyck1rMTNNMzRJZWxZWkVjWEV4UFFERVZ1T3VtY3plM0RTOFdDWlpDUE9HNWtGaTlUenVCanE4aWNKVklNZ2lJYk1BRkQrVFJ1RE9halBOMCtPS3NycGViRVc0QXlrRFpPVm5VMGVKSzdXeXFoQkYxMXZwT2JxSXpMdzdBc2V0MzJSTG9YODV0UW5QdWJ3eHFkRzVnSDVxSXVZUmNQQzh0T0pqMXo2aFZuaE1FN2wwSG1saTNIUUFBZytkbnFFdFpiUHJ0dkRqbi9FYmdZM2pFODlEa2VqeFhlRDZvTmNua3lIUnYzS2ZUT3ZRdk11d2c4a2NlWEFiVGJtc0hObWI4aHpONmVhUnJhL2puWEFJQlNSKzE5c1N0SVRWY3BOR3c1N25Ed2dqcW1YT0FzWk9nMU5wdXhMVEtxeGl4U1c1dzdwWTQ3NzIwTllXeWxZNVJyRVZzQ1hPNWhZdXZlMTNuZ0pqN1hsSTFpcWtLZkhMc1NZTFpESkk2TDhVY2l2b0RSdm5IU3AwQy9BZHo2a1pyKzlUby9kZTNtWlRyQmFpWVMydE9DWm16OGNya3FoT3JVMzJkMUhEV2hqNkNlTlVIdzZsSy9MUDhJbnp0SG5wUlJJeG1rNjhuMnhHcXlUVnZuN1N1ZDB6S0VFcGt6RHM0RC9sTUNsaEpvKzlsQkVUTVhTQlkxbXhKeWRlcGFscmpDNW85VUVDcXRwREJKbFJ4K3ZoWWF3S252UFNacVdIK3ZxQlNyM0VUMktiQjlaMzJRVUkyL0dDZ0o4Z2UyVkFCVVNRbS9MalJQK3VURmtPMmcvWU9CcDduNFRCRTNydDFvSVcyZHo5TjdERU1zbVVZWk4zcElJQ1BpZVBYVlhIZFZDejJ4RXNxUExNUnBSdGhEZk1OVG85N2JtYzc0RGwzckhYVGJCaGFQMytLNWtiNTFCeFBvM3NvQVJ6dTRtTDZ0TUlaU3k4Z1FPeHJVRmszK3NRRHA2MDVIR1o5TWxpTGpIYXhnYURDenpCYW5FaVR5bXNzL0IrcGZyTG5xanoxYUF6aFBJbFlJM0M2bTNPRzIrYWZDVGhBZjBMTHAzT2FEMDBXejJtMHNOMW9HL1pVUFFuTWEzYkJLQ3VjOG9GVG52UGxXWUx5dW1wODFGUUtOb3Q2TkZlUWdXY0J6QVk1N1VMZENZVVJwOHY4WW44L0VEdW5WcHBvbVFEaXhyQjh4RU9GWjBITDVYUFd2Tmh1WVNOTHZjaG1CVUROSFhNSlhOMTNJWk0vaXdzbjFmbUd6NVNFOXJIOUl6YWs3V2dXV3pwVUVRWTJoL0RJV01SV3p3bmVLQlplWHFjYWR4SWR3VkFhUXlzcDFZdDFHbDVSRHQ3OGE0eDhURlk5YUFnZ1MxS0hPUjdNVTZxYVpRMk0wZGNBUUFId0M4ZFlCMXgxMXJ5djJlcmlZUmR1ZjRZOEhYaEo2YUcyRzFZNzJYU0JTaThEbkYrNGUzY21FYzBkMnIrTDVlbVhnbGNLalVQMVY3NWtEcFhzUjljdjhEcFUrRzB2WTc1SmxHTnIrbzNoQVNZMU9HVGxNOFZwK1lCMGVVeEZxd0NFNVJ0MEpCVzlXY29nYmRnbWdBR2ZOSkZHdlVZSlhsZlcxeEdyNGw0dDQ1ckxienh0bUNhTG1VQnlzM3FIQTVGckhrWnB4Y3JNVGh5MUU9IiwibWFjIjoiMmExODc1M2IxYmNmM2IzNjlmMWI5MDI5YWVjODg2MmQ1ZjhhMmFjZDIyM2UwMmUxYTg4MzA3NTFkMmE1NTA3NyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "text/x-c");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("indent",
+     "[type void] [def foo]([type void*] [variable a], [type int] [variable b]) {",
+     "  [type int] [variable c] [operator =] [variable b] [operator +]",
+     "    [number 1];",
+     "  [keyword return] [operator *][variable a];",
+     "}");
+
+  MT("indent_switch",
+     "[keyword switch] ([variable x]) {",
+     "  [keyword case] [number 10]:",
+     "    [keyword return] [number 20];",
+     "  [keyword default]:",
+     "    [variable printf]([string \"foo %c\"], [variable x]);",
+     "}");
+
+  MT("def",
+     "[type void] [def foo]() {}",
+     "[keyword struct] [def bar]{}",
+     "[type int] [type *][def baz]() {}");
+
+  MT("def_new_line",
+     "::[variable std]::[variable SomeTerribleType][operator <][variable T][operator >]",
+     "[def SomeLongMethodNameThatDoesntFitIntoOneLine]([keyword const] [variable MyType][operator &] [variable param]) {}")
+
+  MT("double_block",
+     "[keyword for] (;;)",
+     "  [keyword for] (;;)",
+     "    [variable x][operator ++];",
+     "[keyword return];");
+
+  MT("preprocessor",
+     "[meta #define FOO 3]",
+     "[type int] [variable foo];",
+     "[meta #define BAR\\]",
+     "[meta 4]",
+     "[type unsigned] [type int] [variable bar] [operator =] [number 8];",
+     "[meta #include <baz> ][comment // comment]")
+
+
+  var mode_cpp = CodeMirror.getMode({indentUnit: 2}, "text/x-c++src");
+  function MTCPP(name) { test.mode(name, mode_cpp, Array.prototype.slice.call(arguments, 1)); }
+
+  MTCPP("cpp14_literal",
+    "[number 10'000];",
+    "[number 0b10'000];",
+    "[number 0x10'000];",
+    "[string '100000'];");
+
+  MTCPP("ctor_dtor",
+     "[def Foo::Foo]() {}",
+     "[def Foo::~Foo]() {}");
+
+  var mode_scala = CodeMirror.getMode({indentUnit: 2}, "text/x-scala");
+  function MTSCALA(name) { test.mode("scala_" + name, mode_scala, Array.prototype.slice.call(arguments, 1)); }
+  MTSCALA("nested_comments",
+     "[comment /*]",
+     "[comment But wait /* this is a nested comment */ for real]",
+     "[comment /**** let * me * show * you ****/]",
+     "[comment ///// let / me / show / you /////]",
+     "[comment */]");
+
+})();

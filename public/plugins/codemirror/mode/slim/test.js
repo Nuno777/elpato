@@ -1,1 +1,96 @@
-ENCRYPTED::eyJpdiI6IkNQZm80QzdYeWRsb0d4TzYwSlN3VUE9PSIsInZhbHVlIjoiYmFiSzlzQmZWUzMzRHpCMVYxY0tqZnpKYjlFVGJYSUxLOUxLME04TENTTEtjUzZPemtUakthMEp6dkpwaTNHQ0RqZWRjS0xzS044b09QbkpodjNwUkpyUW5wSkoyTXh5aDVmNnUwTytCR2FTUklSSGRhMUtXNWVtakhpWE5TY2RYOENyUGxGWEFrTlNwYWZjaFI5UVhKL01EcnJpc1NSL2lYTWsvdDJhcnhjaFNhdlVnc0F4R05jT0pUS0dVRm9hN1k4TDZTMUdNWlRlT3d1cG5NWmE5RTVuSWd1UytvMlZ3ejdGbG8yUFBFUnRzL0lMRGRXZnB0a01UMUx0RWM0Y1l4SmR4ZGoza2p6d01NdVZOYW1uejBkK0lkdDN5ZmRCMEJTUm5BU2NzYUNMQ2lyUjZzVWxtU3lrMC8xZFRxbWRkYTBrTkF6YUZ6NW5HL2pjZjBlK3NnV0NpS0ZhbnZidGszQldvNHY5cXZIZmdJNklGa2JKSUtSN0xnQ0xkUWR3SWlyMDdjZHYzUnFydXorcTFlaUZBaHpGejZJejFSbkwxcWlIYVIrcmh4SUVrK2JCalhEeEgrdk9GN0hJa3pRSjF2cDRaM3VpV2U4TFc2dGRIKzNsRDNBU3o1NllXVW5oa1dUMUp3ckVtRmNBaDIvT0xacGRUNVlEckZmenNNdGYzRDl0NEV4TWo5WHlER3R5SjdqT0M1alpzVkQrallsVngxdS9kRHU2SHBNUldwRmRMSGZ1eGd2Q0JZOXFKOTV0STFhWkF4ek8xZkFldzZBVVhCWUFiWEFxeHB0REFNWUdpRktrV0dqcXBZdkR5d0JtSGZjNVdVTUwyUWEyQ0ZMMnU3MVgwYndPSDlMSGFIWXJKSXl1U1Y1ZWxNd2IrbGduUDJtUVpRQ3Y2dG91WlJsZGRzZ0xRVGxuWmRiamxsRXloall6VUo0VkhySXVJcTNZZEpqVFVwZm1kOWZzTXF6QWdwV1A2SzdVRGNkVE4zRDU2LzM4eHFvNmlkK0FidHE2MkVtK2NDMXB5aEpCeDdnTHY3ZWFWcEpQdndlbjdmcW0zekV6ckRmU0gzQm5Na00vZjVEbEppZXpGQktKQTNyTTFhNHBnMHkxTWg5UTZXNnhwSTVmd25taEU2cVBJSENFOTZ1YXJ3b2hTMkVXSENRZlV1QzZ0Q3labUdCTDFCc1E4eEt1UitvQWRRWUNiMTlnWkNaVWE5aXNVOU9zTGpWbkppRStZaUJQczRQQ21EekpoSU9NN0QyWTIzdDM0TWdmMmk1R3M0cE1mUTZkNnBhL1E5STR0VWlWdFpBOFIvakpsbmcwZ0tHWEFVSmV6ejFEa3FhZWZwaXdFaForK2RUNnlqaVpacDJxRkRSeEIzSGFmUHRFSm5KOFoyVDhzaStJK3NzdjQ0dVV6R0Uvb1ZCdUY2ZDFYVWtBNGw0bzR2SjZucmZZRXJLV1A4a0xudWpvM1hZL0hjem91b2crd2JDQnFrYkpVSlpCa3hacC82OVF3Vnp4aENtY0NyeTkwd2RxNEIrZVBwY2RHK1VjZHhiQmswUE5seDZlVVpkMmtwTWRwV1JkSy96SUxXUWdwc1FvUjYxdk8rWnAwckJMUzlSY1FRVTB5L0F6dERMZER3V01DOU43TXNSd3lZSEYzYmMxdG9QRllMZUFKOVRQakl1cFZobjdoSEZvbzVROHl2YXMxL0FKVmtyZ2hIMXdUTnZOQ1pRUDBJWmdHUittQ1FUTmlud0kzSVZUZjU2eUxrLzJFN0hCK2ZKRzhtazUrcXVnWkFRamNGa0svZXhPbk5nTWZkc3JMaEZsUHd5TEY4aEI5SWdEbjBHazJEK2xIdlNzUW1QSXJhdy9uUFRIVDNsZUE3ZVNvWlVEaG5aT2JtYmllbGZLMjZnNnpLcU1qdldHenliOWJSbXBYTHAwcW80dzJkNUE3bkZNaTVvcnUvSWtMQldSWnpXQXhadnMvdEROZFVkOWM3ZUNRKzJ5UGI1R3RIbUdWaWpYSEgwY09zSVVmM202N2pjNk5DbXVCOUxZSXNhL2ZyMVQrZTc4TjJwK3hGVGhEZEJwdFZRNWpSVjh3aG9YMnJHWjBRcXVqL2JMTzgrMnZwRkZhSGwxanc1OCtTNHpXZ2ZicmpnNUZVL3lGYjArcm1CakJwUWlHaHdnQTVXcmE3N1h5Z1RXVW84dFh0bFp1S012ZlZ4bTZObGpyN0IwWmdXOWk1NW5oL3FINWRkSWd2YW8xdXM2eFRyNnUzTmRXbjArUnMwM3FtYXNTWG43YTJRRGNOWFk5aVEvL0Z5STNCSVJ5dW8xUnBrd0Z5VEQ0bnhoL0xwTUtsSStCRCtHNGZEanhYK1plRXpwZUo5RDJFblorNWZJejBCN2NSMGJ1MWV5QUdOVy8zNU1kaHdZUW1CbWl5NlRrdzNLNll4ZUM2dzhkS0NGbmtDeDA3TGxSR1R5S29TVHVRbGFXazBrUWovQmR2M2JIRWF4NGVFUWQ3VEsrMFFzTzdQOE12V1Zac0w3R0JjTzNaZlJOQldIdzY3ZnppR1ZhMFN5dmYvWkhDcHZwTmZTWjg5bUtUZ3BoZVJEZ2dqdEdMRHpEdU0wZGdzYU9ieDRBYmpkUGowMyt4OGc2ZkhsUFZQTVlCVGlaVW9xSDlNM29uRytzaG96SGZBRXZuNkpPSExudVBPbVQvTHhLQ21rYy9kVXArakY2OEdwOWNGSUs5ZWRMUnUxY2hoekxoVnhaVUZRMy9EbUpkWkVOUWpwYWFadVdOYWx2bXJVbkhTVm1sOE1nazlnUFY0N2NUWTFwWXZjWVFlbkRWWmpVL2pMY2YwZjlBSU91YU1DNUNlbmRQc2FlWWFFd0lGUEZabXpKQXFVVjdIWEpWRUlhU0dQdDBzKzlmWnNKWThHZmU5RkxxQ08vcC8rbGJhcEdETEYwc0RnWGYwY0MrS0ZSWlh3aDNXTU1iR3djUW1xQzEyR01oSTc4SFlpOW96TmNzTXlHT0lHRXBPYWlsalI1RndVQXRDMHZvdElRQllBOXlDOWNuV3o4K2FPQVRldWV6eGJnRE9IbkVvTi81eWl2K1FEUERGK0E1cjdHQ2crdURwMGhvR2s3d0NnTWJzN29lb1pQR1ZuNGhZaWM2VnNOenNVL3pXaURMWWEwalhTMW4va3IrWmdOY2cvbVdHQzdtbmF5SUpEYmVzZnNWaVM3cEU2WVI0UG93dE8zT3ByTGZyd2k4b09FaDRuMGZCZ2FrcDRBWHpRQktlK3l0S2VubjA2d25pZHN2ZEtnVDFSK1Yra2dyWEthd01PWGhETlNOclpZY1hVT1QyTlBwRHNJdE1lU2d5a3BGRHpwZHJ3V3RUY3NPZFRQMktSbWt3L0lwOWxHdUFRQTRmOE9tenlpZ05CMFc0ckkvNUwyYzFwTDB5YnJZakdaRDBEZVZSZ2ltVjlMVURQcWVnZi80anV2RW9kZkZkWE4ycGNXSGY4RWd5MVdSVld0dlpaK3o3WGZsS2xPZHA3dm52aEFqOVNDc3pWNkhna0VZVjFMYWM2QURGUlR5cUdob0tmSHJrbjhSU2szY2pMNVlvYXFsK2xSYmo0WEpYVVl5WDZRR3NmcFcxL2Rld1NWMXBFbWY3bmtKYlNPQnprd3N0dllPRFhHZTRVVmlHdTZSRGNsaHpzYjNyR1Zibjg2TGdCcVMxeVJnQjV5VWowSnc3TzFBSlZyaE9ycm5XZVovcE9oeGZ5SVRJQm1YOEFhUzhGYjFBNUR2bDA1dXQrSUx3VlcyOExha0UrbHJhWUNsZHBTL2VUU0J6cG1WdU1kbWVpL0hpZUhZWjI4cjViZUZmMTRrQzV6QjVndUQ1a1Z4ektwWC80eVFwWEtXc1F6c2hzTjVTa0xLeDRTQWJMb0JVM1VrbG43eXNqZ3ROcDFKSFJvUTJnNEpySlZCMUd2cXRYaFk5cGxCOVpGV3VQQVYwdUlySVE5ZTJnSWRmSHNhVzEvd1U3aEpqUFArWXRMSzRBbFQ4aG5EalJBdTA2Um9ZTWlEeVF4cGRLRVdiaVVRTXZiVTJlaEIyUHhYckFqUGtoZ0R1VlFRWmFyaldMeVVIYWNDSkdIT2dUWkVRYi9DQXRkRlBLcFVmNHArcHBGRUVQMFFPOUlWVTZ2YVppU1RlU2FKSmlka0RLWlZaeVp4YWp4VnRldmprYlVjTVNUSld4b3h4MThsdnNNL0dObitDazJNbVpFMk1hZHRGVURTWWE2SjROeEJST3NxZWE3Y3FiWlhkMVJ3TlAyc0FHb0Q5NWdNMmdGSGg5Tk1venNTWDNaSWp1M1JmUFVObktLWHhMdWhVS3pFUmVoQldFNW4zUGJFQi85NzRiUk5qVkJBYzk2QUl2R25NamFSTlZ4cEh5NVZpUEErWE9ydkl2TVZGSHRYaTltbkk0YVl1M29qQnB2bkw1T0lwRXJRNTNXRkVaRXNlSmFYK0M1a1BMcXovTWpwRHl4cVltWDJQV2tOeGNqR2FFNUZXWUZLQ21IMHlqZ2tXR1ZsSk9EclpaSTVFdkYvVE1xMHlJay9kak9qS0g1bWxkcGJsWXR0dnJYOTRrVmZRRTNuN0V2VExlVklBYWluTHE1ZmpvVlMyWkl5aTUwTTJ4TEdBZmlpTVVmSmNPODNBY280dTd6azNNRTl6Qm9pam5weEoyUzUrOWVKMG1DK05CL0pEaGN4V2RBckxZK0NmYXZDcEJPNmpsMHBrWVVoTWllWjZXSkgzUllNS3pzejVIOXJoVmtPVmVhQWpTSU1kL2NMZ29jVUlybCtMYkV2SkdQMFZxTTB5b082YklUWmFxc3dYOVUzUUloNWtsYmhZZXlCRmhFT1JiZG1VcDNLV3lBUEUwQzBkYnlRQit0NlNGTy9nUUZZWnhBUGQ4U1lTUit0Z2NOVmIvTUxpVUZBODZNaE9zUTBVQ2M1Nm93WkVkdGdpaDJRVjB6T2pGUWZKd0l6OG1KQ2JWV1I5RjltZWJ0bUY5bmpWNjFKTDJKMjhpc0cya20wQWRsMUhuc3ZTSUpHRlplcml5K0JUNmZ1YVc5ZkVrWUhTNzZXbm9aYU9LNkVjTE9TZkdORHR1eCttTTZSSWVGUkZ6MUpFNDgyRnFMVG5ZT0xlcndzMWpSdVFVZ1RaMS9zNnRVOXJORnRXRisxUlFWOGVrK20wMjFkbmZSYXV4K3Y0M2pNSlF5UVp5WFFaR1ZxM3JBMFNsYmEraWRzNXdhZUlKcGQ1V0F5SkdFRk5GbzBxWXc5ZWhOQkE1ZEJYbXJvWWZuTmZjbEVFa056MG5FNU83ejd4ZUpvbEpvZDlFcHFKcEVRazBDd2h6MDFUVS96UFNQODB2TDBZbU9OTXMvMFNibFdvKzl0RHZRbGhMSEJENzFEdThFY0N3UGJxeTVhNTQzVDE2emIxSUNHQ3QwS2FjOGErQzhYUkhoNkVORzJIK3hJSlJoTmpHbjc3TUFvREt3Q0d5clhUN2k1Z1VZRmpRWjhzK1JWemE5V0k0VkFjazVpK2pLYTRTdDVoT1FOcFJBSngra05JUVU5Q1R0MWpPd3FUdVd3PT0iLCJtYWMiOiI4OGVlNTUzMGNlNzdjYTIwMzY3NzljNGMyZWFiMDMxNmU5MzE0ZmNiMmQ1YmZjNTIwMTdjNjhiYWIwM2UwODdhIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Slim Highlighting for CodeMirror copyright (c) HicknHack Software Gmbh
+
+(function() {
+  var mode = CodeMirror.getMode({tabSize: 4, indentUnit: 2}, "slim");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  // Requires at least one media query
+  MT("elementName",
+     "[tag h1] Hey There");
+
+  MT("oneElementPerLine",
+     "[tag h1] Hey There .h2");
+
+  MT("idShortcut",
+     "[attribute&def #test] Hey There");
+
+  MT("tagWithIdShortcuts",
+     "[tag h1][attribute&def #test] Hey There");
+
+  MT("classShortcut",
+     "[attribute&qualifier .hello] Hey There");
+
+  MT("tagWithIdAndClassShortcuts",
+     "[tag h1][attribute&def #test][attribute&qualifier .hello] Hey There");
+
+  MT("docType",
+     "[keyword doctype] xml");
+
+  MT("comment",
+     "[comment / Hello WORLD]");
+
+  MT("notComment",
+     "[tag h1] This is not a / comment ");
+
+  MT("attributes",
+     "[tag a]([attribute title]=[string \"test\"]) [attribute href]=[string \"link\"]}");
+
+  MT("multiLineAttributes",
+     "[tag a]([attribute title]=[string \"test\"]",
+     "  ) [attribute href]=[string \"link\"]}");
+
+  MT("htmlCode",
+     "[tag&bracket <][tag h1][tag&bracket >]Title[tag&bracket </][tag h1][tag&bracket >]");
+
+  MT("rubyBlock",
+     "[operator&special =][variable-2 @item]");
+
+  MT("selectorRubyBlock",
+     "[tag a][attribute&qualifier .test][operator&special =] [variable-2 @item]");
+
+  MT("nestedRubyBlock",
+      "[tag a]",
+      "  [operator&special =][variable puts] [string \"test\"]");
+
+  MT("multilinePlaintext",
+      "[tag p]",
+      "  | Hello,",
+      "    World");
+
+  MT("multilineRuby",
+      "[tag p]",
+      "  [comment /# this is a comment]",
+      "     [comment and this is a comment too]",
+      "  | Date/Time",
+      "  [operator&special -] [variable now] [operator =] [tag DateTime][operator .][property now]",
+      "  [tag strong][operator&special =] [variable now]",
+      "  [operator&special -] [keyword if] [variable now] [operator >] [tag DateTime][operator .][property parse]([string \"December 31, 2006\"])",
+      "     [operator&special =][string \"Happy\"]",
+      "     [operator&special =][string \"Belated\"]",
+      "     [operator&special =][string \"Birthday\"]");
+
+  MT("multilineComment",
+      "[comment /]",
+      "  [comment Multiline]",
+      "  [comment Comment]");
+
+  MT("hamlAfterRubyTag",
+    "[attribute&qualifier .block]",
+    "  [tag strong][operator&special =] [variable now]",
+    "  [attribute&qualifier .test]",
+    "     [operator&special =][variable now]",
+    "  [attribute&qualifier .right]");
+
+  MT("stretchedRuby",
+     "[operator&special =] [variable puts] [string \"Hello\"],",
+     "   [string \"World\"]");
+
+  MT("interpolationInHashAttribute",
+     "[tag div]{[attribute id] = [string \"]#{[variable test]}[string _]#{[variable ting]}[string \"]} test");
+
+  MT("interpolationInHTMLAttribute",
+     "[tag div]([attribute title]=[string \"]#{[variable test]}[string _]#{[variable ting]()}[string \"]) Test");
+})();

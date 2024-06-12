@@ -1,1 +1,144 @@
-ENCRYPTED::eyJpdiI6IkdBdFYyOEE4b2FqTVJoVEtxeS90L0E9PSIsInZhbHVlIjoiMkNkc1VjcklkYVZKQTBvU3VBZngwV3JiSUhHNkhqdUlQbGdIWVVHNWhYWkYwR1pxT3FsZ25Ya0RVcStWT3M4ajh3TXhsSFVxVjBQUW94K204Vm9DUUNjVUd2b25GOWljU0dST2Yrc2xsZFJXK25wSks1RldQRkp3Tk1icHRSdGh4RTdUdmRQMzJUeU0vUDZwNlgwOUFwYmZNM2RzamZHVEl2bGhTMUFpMk80Y1lrcFVMaTBFMzFzVE9PU1F1MXEvRHpFVEVpZFBXc1NEZ0FkNmE3c1NTeVdGTTNJcXhXeXZ2czNYTjRJMEFJMm05MCtXZFFVaVlyV1I0QjZUNXpacHdkMWtLbjBKL2Y1R1Zmc29zRnE4Q0ZsSVNma0VZcUNMYlhqWE9rRDc3dkFiMFQwZGpFMzVCU3M5OWZIUGM0a2xkOXorKzhIQk9OTjFGb1dMRkJROS93N0IycVFsVWt3UFV4M2hmWUppWHd4bkdsSHhFaWt4UjhQenVWUUQyR2tTMnE1Z0crV29idngyWmRWU3RVRlR4bUxXMTZwazAyWTE5aE9YUERPL09xYm9JQUNMUWtMZm5jaWNYc2F2TzlWNThtZ1p0M0hNUGlxekJQMjM0NnEvSGNIaEFSUnRHMmcvRlZ5TzlReDlHS0hrdXp6S0w2MktHWS9sMVM2czJFYVVISVJkYm5HVkF3Smg0emd6TVJUVXlhdkIzYnRUREhRREV5WlY0bG9GT3QxNzBYWVB4VUFLUUxDNytqUHd0RzFPUU1lRXMwS3lGelN0dkF4VjdaUHhsL2RCcjkwSm1hZEpUYWdJV3dVSVNyNlIzSE1zL0Jpc0VhcGlBVStzdE5USTFRRVdFN2JJdzh2NTAzMHJsQWJoSG9jZkdxV3g4dzFYdnJPM1I1c2NqTDhiUEx6NkRLL3dkYWI5MG5FY1l4bm5BbC9JSVFxMTg3alU1cnZCZ1pYK0gzVUpWaWt1d2tBTndwaVlPb1FONU1lWE1FMzFHV0h0RmZGVFV0d0hSeTFGblBqejVmK2pLWkthTlBjS1VFQk5Tc2tUcEFodDlpKzRZeTlxcEhYK1VIcmdQODRCWTkxQmxsSjNheDZxQkZ0Zlk2S3NvT0MrYkhNNitXL1NOMGlpMWNjcXV2a3ppUnlxRnZZQkZqOFN5dnVjSFZ1T0xMV29OdmlaU0hLaWJFLzBCR1d1Zk5jNEFseDAvRHNxZWprUFVleDVFam5XaTNEc0FYVU9GRDdYK1V1ZmZURVlaSHVEdmpPa2M5RHVibXVLYWx1cy8reUNpT1VKa3JxTStiRTJJMnd1alRZVlVDMXZNS3k0R2Fxd01PYVVWUjR0R3ZwOGZjTDcvZkdPZlJoNHJxSHNGb21HTEx1MFRYam9MeCtiR2FaQWkrc0hldjh3MXNzMWxFSEYrNFphMHR4N0x2MjlnNzJVMW5DK0U3RC9HeWxGTjV5ZEZGaFYzUzQzSmVwOXFYc25tb0JFMC9NdTl3VnFxR0p0N2Fqc2NPQjZPc0dQajIwUDVuUXdORkVzd3JhL2lSYzFlQVgvbVdlSHh2K0dDYWtjVUZmM1N0VVBMb3JZUEFUN1NoTWpxQUNsRUhKRFZGdlBHOUFDeFJ5T0dUV0tmZ0pRSkpSMnlUT3FIeGdWOS9vRGEvTVhPMGtRNndsekV6T0ZPa3BhZ0VxVXVkaDNLQ29DVXV2RWlINldpNVlEK3JwQXk3TmthbVBPMEN2YkFGZTJNNnVma2RidWZYZ1NOeXprcVRYd1FnVUFGNXgrWFJLQ2lCVzY0OFFFNFN1aUR6b0crbWdsRW5Lc29IWGF3NzFGd0pyQ1I2cFo1VTgwM2tDdEEzZzJYcVpVYXUrOUpwYWlvWStXRmpOZ0I5RFlxVzhCVXlNS0h0Z1lUQjJTZi9jQXU5Y0wvT00yWWI2ejl3Qy8wZ1B6UWJQNDFOcml1TEQ1clVJTVp4dytxbWE2L0NSY3VvYmU1ellqc1FQS3RveDl1QjFwK3pwZUhMdHdDUG1QOVBEcDNvMW9EenpGSE90NjFJQm1XTElVV2gvTVl6YjBQWkF1S2hDRUhnQkdIaDl2SDJsajFlMjk2T0s1Rzhla1E1MXppRFV4UVlxV2F5N1NiQjJmeVFtNDg1UnkzLytYdHBMeWFYYlhmNllMSjdab3dFM2dLaVVRY1JBNy9ScDh4WEh5RFpYNnJ2MXhHN1NNYTk2eEljM0NRYklOTi83MDFzNmVCTkNUZzdHUURNQUZpMjRwZWdqNFgwYWtYcXd2N1YxWGMwYlBaSkRwSm9XL3A1dThQejRianFLZnBGcFI5cGFiZUkwQjU2ZnlVeURSLzFGRjJidDR4Tll1aGZpUEIwZW5CSkhNVmp6enhMekM1R1BWcXpPTFBtUC9ISlF2R3RIRXc1eWR3SkFob0taK0crbWIxOXZsU1RQUzdUZFZINnZ6NjIwTjMvbVdwNUlrTjFMRE9mdXg5dUszRkMwbHZrNHlvQzMwQTZjcXZTckw1R3k2U3Z2TWJ4Z2Q1VlF2K0kzbGVncDlOVlQyV3o5Z3JSWDdSbVBOcys5SUdWM2YwT1NETzRrZUQrdXczeVVQRU5jRko3ODd4Y3p2U3ArdDZmUzBvQkRxOUFnTVorM2IzQW96V2J2VU1VWXVQVFpkYi9tTzVPM09McytsSWMxamJ1elREZDcrWGdUMDhCSkZvZUNZU2JtN0xoc3k2SlREcCtYS0hoNys3MVk2YWtKZlVPRmVmdWt3UDJuZlUzNG5KbHA3SVJzWFJjNmxXb0p1UG1VblowOWliaEszK2lDUW1vNXJ4bEpFbW96aDFscnpPNkNPMHZNUkZIK0ZJd2hDTS9NRHErNnVPSmdNakc5Q0g0WEF1VUVwSitGTEd5M3ZmWUlFRWlzWHRMWnNWcHdkTVU3VmFsVmlxY3FXNzZhWW5mYUpvYXBiUGo1a3JGdEhiNStMTWtVWXI3U2d4UklYVENTSUxBbFNFQVhqUTlFcXNkZ1hYcVord3FCdUZNcmhYZTRsZmw0d3gwNW4wNHZGbE8wc3dYWVVxK2JDSlJkaGk3dGxtakVPWGVJcEtwSXNZTENKVE1KMzFFQXQ0cmd5TVh4QTJ5ZFR0Vnl6KzgrZmFrTjhVZ3pXVGFlQUUrVjNmZDN5Y0Nqc1FRcTdMSmRqcGJ4dDlpaEY5bllSS3p4QUtmd1dicndsUlB2WkVGdUEvUVJoenVFaHZtbzhKZzN4Qi8vemd5RTVHd1duTWVhSCtLVDBmM0Y1N3lMdkpVa0h0L2VyT3djNXZyODZHV2dnSmtZNHRzYXZ5N25lMEdveCtEUnpxV29MY0sxRzFYdTBtR2VtN0xRdDYybGZyNHl1clNzRDlnOXBoYnA3aGozMmVOcmNtTndNb05ZTWJodW0xcCtVSzdFU0ExeUc2MjR1VjJIYTZLUDN4TU5uRklpUlJESi9DK3Uvalk2cSt6MUxqNHNlODlRK2hpOEFsWEhvN0cwMzRhMUVVbitoN2xtWXp5L0VBK1ExOWl5allBWTB1S0h6dUkrU0hUOFNaeDR1aExHZjVQUkJiOHB5NFNYemxqNHk1SzVkQ2c0b2trb1BITDJESkJRd3RWVTZuUnh0Zm52aGhIVUNjaGNoRWxBa2hwaUo4Q0paaGZzKzlPK3hJS0hPbDV2Y2xtVmpRdVFYaHNEWDNNc0lBeEVSZUJDaGV2Ynljc29vaFdTYUlDSjR3Um9wYjY2cVBhYjhLSG1BVG96NXcycUE3d3BUVEk1eTJ0UFpGeEt3czhGY05hVitPT3VvTXNVKytpN3Y5dXIvblR5dVRrK2Nid2V2WXJUUnFvUi9mSVhZdGJ5M0dhUlpPOU1Ec1U0Q0FsbElhbnZQZ0w4dTYzVU1VQmZLbCtVaUc0UVRTTXFzMjdSRlJqb3dBaVBPV0pNRUdrYUR3VFkydWVaaVJCNjlFbUpYa0VHZGNzUVd4Z3Z6ZWN3OHl1RGlndklDRlNLY05Mc0Q2R1lSeEtJYWZNYUI2b0lvV3k5ajA1djlqMXdyc1dldVJXTWpTSDRxdm1BRmRUQ1JJOXl6Y1RNeHlGejF4OHI4d2lJL1UrRXlQSjgzYzZEZzVEWk80TzZOYjVqQitXSGFxUHFIeVYyeFNQSUFZUUlwUVVpOGl1S2ZLczRUdFBSWDVqN1diNGhzcnltOUlWbHdDbDFYNVI4SWIwdVdQeTJGSk94dW96Y0llTkc5VDFSWHFPU2FqdDdNVFRFUngxeXFLT1pHRSthM081UzlQM1dKWDdsTWFIMFFiT2xCMTE0Yng3VWk1QVQ3Zkh2R0dZYzI0dGxsVndQNHZaNkhmU3F4V2kzSklXZjlXK3lIUG8rMS9nVWpaaUsxekdJQnFKc2xCRjRObDAxbjlKVElwMStlYzBtU3RVRlpLUWIzdTFNVmhzY09VYVF6ZVc2SFhxdjVwZDBFRjRzcnA0OHNyQTRGdGY1Zm1QY2I3bGs4Zm1UT3FHMHlhSUZyL0Rqa2d2U0g3QVc5ZVNDRGZHa0tvTUhaZ3Y0cTlwOC9CejBhNHBydzFaSWdZc1QwM241aXY2MGU3OXk1d1JSM0g4WGloMnBJQ3J0RVpiSlIrYVh5V1U1ZTR2ZWd0U1lmN0x5MU03eGdPSk05QTVSZWFZYjZyTHpWRkxJZzdQTU10aG5rZFdrWVZ5L1czZXorTFRYajJUZ0dhTVFoVHUzNlJ3VXduNHN1KzBjblVoQU45ZVNiUE16OWt1eGk3R29wME5jUjJINzFNM2FscjNBcjBSYUlhSWp0cnlLSDl6WmY3L3B5QTN0RXQ0TnZybFh1L0RabVJHNUo0SjQ2QkZQNTZVNFIvY1dxRzVTaEZtZHRkTTllV01LT1RvcnhLNFVudVhkNXFjUFlNQVpjVXFKY1ZCMXUvVC9IYmFXOVNtZFFTQUpvVkpOcGp0TXdvbUFidGc4emRTcCtuVjR1d2duOVVwb2lkOGNDS0d1cXAyNmJ6SzRFSGdOT1IyTFJuN0F6NTVIRm1vcVVWV3BqcXEyRzAwK2FwVFFHajNncGZJWFN5OHFFZk05Mm5zS1QvcE5RWFRtZ0krdWNhSTBTb0QwR3hPRml6TEduVmo5V0kvM3AyT3IwQThJTVludW54OUlST1J5eElwc1dhWU01enM2cVV6ZkhWcElrSnZXamxaZW5PRWhiUFR4cjY1NFRkUk9lUUV2Tlk5U1RrUTNyaE5YeWlFdWYwVnRpWW00TnVWWnBQNGtCUDdMOHBDSkZ0clNOazFnUk1weTQ3NURVTlVsQkhYSHlOQUFkelFaL2c0d3phRGp6WUZ3L21QZThlVmpEdC9NazVpS1pGazRUVHV0UjkwRmJWdUI5YVZwV0R4MytsbXNtNzE2dGM4bDJPUjZZTHgwNTBvOFprMEpCOC91UGhSNEdkMStQWXo3NGVSMUdaRU16Y1haR0tXTkU2R2dmaXdJVGJmenM0V21obFVWOFBZcDhncEpqYXdVdDg5YSs2VzRXUHlOQ1N5SDdTeTV2K0J5a3AwSUp0KzcrNWl5Y3k3TTdmMmpKdzV3WDlaWnVKNjExcFY1ZTJ0YmxyVVBUbDlRbVNnUVV0c0c1eU1USHNCd0RhZE01a2xuN1FFYXhCM2pGVWtZWTRKUTc2UHB1dzBVK1U2dktFY09ieHd3RzA3ZmVHUklEN1BDa25YQVBJbGJqVVAwQ0ozNXF4LzdOK1lEQmFrOUNxVmQzMDhlclVGZWVValJuSWJVbXd4YytwcE9nQU4wMWhDL0pNbzYwNkNQdmlpTzBjVXg2bkRPd3lNcmtEODN5UGdOb0QrZFVKYTlHTnNKNmVuTytYQTNpb1NRN1UwUktiZUttNmNYc2dkNE41Y3daaEc4WDFSQ1ByV1ZXTmU1dlg4b2J5U2s4eTVyNVUxakNLTXFxSUY1eEJxMzJjbSswY0lMaWhWUktxWnRIbTlSY2J4WUlzcHQzRDkrc21FdzhXeDA0Uzlxb1o5RHpLa1FOblNkMmNYci8zbUdZOWZqMWxYWUxLWnRCc3d2ekpoR09XSjVHQnlLK3pGbklGdlVMa3BUQTNmenp4MitsTVZ4dlRRNVVRUE1rWnk4MWFzUTRTNitOUUFIckNoelJERHNiV2RoY21IZ3hsMVMxelZWMjlLY1E1cW4vS0JkQVRUWlBKSEJPTDBGWWNqSHEybTNEa3Fwb0lsVWVmTW03ZkxyaXoxOTA3VlZuaHk4V21ndFJkMlVla0IvbUN4YXBtUmVOcy90OUtTN2dVcyswVm1jS0tHK04rY3NBdFljbjZCK0MvRDlIRkdzMENyYWhxTGJMUzhHem1qeDJlOHZaL2NxYXUyVEcwVmpOcDR2VGxwVU15YUlscWwvYjlqSFY3dGhIRjVYZzdCOTZZWFZDamJzTlp0QUZSQ0JUbnRBbmFKMVJDYVBUYVJZZEFYNXhwaHVjOTlweDZobXdZWU9pdU5OTWJBUmEvaEk0UEJFMzFwTmsvTTVSeXN2QUFXWEt4dG9hVUJmdGJ2QlI0cEExb3JBbW9BdTV3dnRueE9XRXprRFp4K0dqWFljaG9vRVdZZXhrV1NUQzUzWHZrbStZWFZ3UE5DR2twZEhURmpWcEFRaWZ1ZHphVytRVjdxc0pEOCtvTUgrdkZTSk5tMWc1TDRZYW1pRjFqckRjTCtTRWcxZjVoTkZnUURiTm9VYVJGTjVPaW9HS1pHUHZKWXdGSkdZVW5UTmN5K1VpZGNzZ3VMcFY3NHhzU1VIRWkzUkovN0hWTXZvNVJDMjFra1BuM3hBdWhVK1RnZEpCL3I0bWxNMmd1WWtNWjJQVmxNcG40OTlzMmtFNmo1YmNia2NiV09oZlByWVRTMlVYSkFmV1diWTF5Uk1OMlJJb2hKVU5WOS9sdEs0dUIzRlNtbjRHb0NWaDdmS1ZpOG0yakVqeVI4WEpUT0xQMStPalFzVFg5dS8vNlQ1UlhjNWZkRGhGa0xYU3V1QlFPRmU0SlB6TDl2eFJrNHdEMHJXUDc3ZlIyeXQvdkJGWWRONm8zcTFJYWtrZzZZREhCZmVlbks5R042ZHY3bURxOXlkYnFoV3NxdHRjeEdnOWZuZjBYSFBvbHBaTEVNc1ZUQjdrcnU1Q2J4QW9pSWJ2aXdkaWpodmFKcVJUbmgrRlZLYkJGbG9od29xYmNvb3VBaXNIUy9YMldBWWxOSUhPSjBYU1I3djNqQ2srbWNCRi9LalRCeDV1dEkyc2prWGxvSnB4RnVpbVpxY1g0aVpQTGZQYVhFY3hCTStwejh1MWtpVWZTeGlSRjBEOXZzU3JYQllvWW1ib0JtWmFSaGhrNUJGZzhXL1NEZDIvbmlySklIZjZmZ21RUE5RcjBkWW8xaE5rRk5JTVlNdHRhaWIyY2FPbWNhM0ZpNkgzeTJVbS9tZ0IzNHlFYWIxWDZvZGFRWFlUTEQzUUo1UlZmeWszcGRTam9LQXZBbkt3Nzh1YWY3Z2tXUDJIenR1VkhKT0lrOUhsUm85Nnczc1BNUVNwcUE3bjMvVDFuQVF5L3k3YjhOKzV3eWtDWnhYRVRrbnMzRkN3NzFuc0ZWcXFCWEZydlQ4Q3Vjc3JhRHdyMFN0WUhseFhjLy9NaHdKdDRYSXM5T1JlczlDWFBTQkhvcXVwTVZRUDNTZ0txemhYYTFqYnhFUDNWN2hFa2pIWm1VNzBBTTZLLy9vOFRuQXN4Y1dwOWROWkxCSGNaRXhsR2JXSXFoODFwOXFtbVNtSTR2S2FUeHVLKzYyd1h3UEFyeHM2RU1vV3NyTnhzb1JoUUdhUTRYZkpMYytocXBVT2R4dnNZeFlWeUlhVHVGV1BWSW5CclQ0aktHaVhVZHpVY1VrYXJ3T1hjZDRjRkVYdmNHeVlmK1cyNmFQKzV1Y2FZS2ZjOTlZRUVqM1pMOFMwR1NuTzhiZXhUVnJKWW1pL0JXaHVwaVoyUkI3eERYSmZ4NllYVG80a1NLTnRjdUZOV2JxbkcyRkJIVDVVckdYVGl0NGJuNG56YzZyM1FWSFFjd2J0aGI1VmxkQ0dscDB0Rnk2S1l2MW9HQ0dQb2gyRFZEZi82dUZZeDk3c0RzN08yTUxDTkNzczd3a0p1WHkzTUk2Si9XQ3pYdGhMcDhWRFJPOC81SjcraXlPNWkzTm1nVEMwdFdDYlh3VXgyK0xsNVZRVlBxQ28vdW1vMCtIaStDbzZPeXFtd2MvYnVMVHdESUoycmtPeWlONnVmb1Y1MEpnNVozNHoya0JVd1d1SnMzZVhoYlM0YUduS091bVNESkVtTExUR1lzaEpSY1lKTFoyN3NzdlV4cXVjMU95MXp3dU96T092S1RzbnRXYTRBMzFPVnliOS9ZY1g2ZkJPSTN6cytMemw2VlI1bnMxOU44ODBzQndiOFBMYnNCREdVTUp5Zyt3RUVlYmZwQUFLbFhVeUl5QmN6STZvcEJaekRVTWQ0cVhnUGRCdlE2Z2h1QjRlU2toVldURUtHUkp0L1NWMEc1NmU1TFRZQmp4RXN3bHlTc2NTb1AvN1hiQk4rUUkrcDJuRjlFclRXUzVEYVdWckNza1pid3pDT0FSQVV4eVhnSkxQR3haWHhqMDh3VDlHaWJ3T0x4bENxWEJzSWNoL3ZsMHBHUjQyOG4vZDRtSzVud1dveG8zZ1BZUVVHWHJsSlBXWDk0SHQwaVNDZ3cyd2ljSTQ2ekZoTUNtOWFTSll1WXorVE9DMUhBanhON0FSMDU0SERVQjBnd3JYUlRhQ1Axcm10aDlKZDVReXR2TDFmWXNUK0tWczVZaDNzZnlDbkxPbjBMYUN1YUlWSkFDdlpUNDBGYmlpcGROcjF0Q1liL0pPa0U2d210SmhWd212U292YlUyNmExZy9ZSFhZbzZzWE81Y0Z1cW53RGpWQ05wS1FqeVFaQXNkOHk0Z25yY0dRdmpEQ3B5ejg3WTNYckpuQ21xV2RKMGgwUldMUXNQV3UreHBPTG4xUUpFNzIrek92VW1yaWF4aktncTNkbVhxMFJpQ09pcnRRakZvMkN1ZmF1c1JtQTFLclBNWTl3L3dBV0NJZUtlT3EyWEdZTEFrTmJDTzRBZlA5WDdRVnNIekdDYXNSYXBYOWhvZWpuRHhFZ1k3U3dNb2RGUXF4MklhcWRoeUsrVENaN2ZZR0VyejFRUXgvdU5NUkZGMjhqN0JYQ0ZlZkRSeUlWeFhxbDJZT1NWUy9SdW9CN0lYUmsvNU43R01HanhmTEpmNW01VzBteWR6eFpOaHRsaUVBbHZFK0cwekN4UWFkOThKOFlyOEx3anNQQ0NWVzNrSUJCeGFVNlJyVDErOUpCdkV1eDh0S2FsczJMRmRub0tFR0diUGhDMTJFV1Iycm9TSVpMRVpzT3VTNzk1cjhGeWlxQ1lLQ200ZmFzaEhZUFJiOExUMk1kNnRhenhmbHdJUzVxdFRMN1ppbDhnMkgyVm9qZUpULzYrVXZHZWk4a2pxQnhwM0pNeFpNVXFMUXo2ZWt4NExXZ3BTQm5BemgrVGR3WXVRMTN1Q1lFbVZoUE5PSVExTVE3WUJsWnhOdlJxdXE4QjFMaGY5VmdzNHcyQUo0VkxsdVZXRVp3eWJTK253WlhhS0lPOHJOemN5cWw3bmpGRTJjZ0VBUFhEU0YyTkEvVFBMMXlzSlErYmYydy9TOWhLRzNWbFdtcGNNSW5ObWphT3YwYm9heWxQMmdLRVUyZmNaZkhLR3VKUGx4WU4vVWpqcEpUd1VGVFhlT2JBdz09IiwibWFjIjoiZTZhMTA2ZDBjZjI1ZTc5YzU0YTM5ZTBkY2M4MWQ2MzAxMWQ1ODBjNmFkNWM5ZTQwOGNhNGM2ZGYzOWI4NWJiZCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  var Pos = CodeMirror.Pos;
+
+  function findParagraph(cm, pos, options) {
+    var startRE = options.paragraphStart || cm.getHelper(pos, "paragraphStart");
+    for (var start = pos.line, first = cm.firstLine(); start > first; --start) {
+      var line = cm.getLine(start);
+      if (startRE && startRE.test(line)) break;
+      if (!/\S/.test(line)) { ++start; break; }
+    }
+    var endRE = options.paragraphEnd || cm.getHelper(pos, "paragraphEnd");
+    for (var end = pos.line + 1, last = cm.lastLine(); end <= last; ++end) {
+      var line = cm.getLine(end);
+      if (endRE && endRE.test(line)) { ++end; break; }
+      if (!/\S/.test(line)) break;
+    }
+    return {from: start, to: end};
+  }
+
+  function findBreakPoint(text, column, wrapOn, killTrailingSpace) {
+    var at = column
+    while (at < text.length && text.charAt(at) == " ") at++
+    for (; at > 0; --at)
+      if (wrapOn.test(text.slice(at - 1, at + 1))) break;
+    for (var first = true;; first = false) {
+      var endOfText = at;
+      if (killTrailingSpace)
+        while (text.charAt(endOfText - 1) == " ") --endOfText;
+      if (endOfText == 0 && first) at = column;
+      else return {from: endOfText, to: at};
+    }
+  }
+
+  function wrapRange(cm, from, to, options) {
+    from = cm.clipPos(from); to = cm.clipPos(to);
+    var column = options.column || 80;
+    var wrapOn = options.wrapOn || /\s\S|-[^\.\d]/;
+    var killTrailing = options.killTrailingSpace !== false;
+    var changes = [], curLine = "", curNo = from.line;
+    var lines = cm.getRange(from, to, false);
+    if (!lines.length) return null;
+    var leadingSpace = lines[0].match(/^[ \t]*/)[0];
+
+    for (var i = 0; i < lines.length; ++i) {
+      var text = lines[i], oldLen = curLine.length, spaceInserted = 0;
+      if (curLine && text && !wrapOn.test(curLine.charAt(curLine.length - 1) + text.charAt(0))) {
+        curLine += " ";
+        spaceInserted = 1;
+      }
+      var spaceTrimmed = "";
+      if (i) {
+        spaceTrimmed = text.match(/^\s*/)[0];
+        text = text.slice(spaceTrimmed.length);
+      }
+      curLine += text;
+      if (i) {
+        var firstBreak = curLine.length > column && leadingSpace == spaceTrimmed &&
+          findBreakPoint(curLine, column, wrapOn, killTrailing);
+        // If this isn't broken, or is broken at a different point, remove old break
+        if (!firstBreak || firstBreak.from != oldLen || firstBreak.to != oldLen + spaceInserted) {
+          changes.push({text: [spaceInserted ? " " : ""],
+                        from: Pos(curNo, oldLen),
+                        to: Pos(curNo + 1, spaceTrimmed.length)});
+        } else {
+          curLine = leadingSpace + text;
+          ++curNo;
+        }
+      }
+      while (curLine.length > column) {
+        var bp = findBreakPoint(curLine, column, wrapOn, killTrailing);
+        changes.push({text: ["", leadingSpace],
+                      from: Pos(curNo, bp.from),
+                      to: Pos(curNo, bp.to)});
+        curLine = leadingSpace + curLine.slice(bp.to);
+        ++curNo;
+      }
+    }
+    if (changes.length) cm.operation(function() {
+      for (var i = 0; i < changes.length; ++i) {
+        var change = changes[i];
+        if (change.text || CodeMirror.cmpPos(change.from, change.to))
+          cm.replaceRange(change.text, change.from, change.to);
+      }
+    });
+    return changes.length ? {from: changes[0].from, to: CodeMirror.changeEnd(changes[changes.length - 1])} : null;
+  }
+
+  CodeMirror.defineExtension("wrapParagraph", function(pos, options) {
+    options = options || {};
+    if (!pos) pos = this.getCursor();
+    var para = findParagraph(this, pos, options);
+    return wrapRange(this, Pos(para.from, 0), Pos(para.to - 1), options);
+  });
+
+  CodeMirror.commands.wrapLines = function(cm) {
+    cm.operation(function() {
+      var ranges = cm.listSelections(), at = cm.lastLine() + 1;
+      for (var i = ranges.length - 1; i >= 0; i--) {
+        var range = ranges[i], span;
+        if (range.empty()) {
+          var para = findParagraph(cm, range.head, {});
+          span = {from: Pos(para.from, 0), to: Pos(para.to - 1)};
+        } else {
+          span = {from: range.from(), to: range.to()};
+        }
+        if (span.to.line >= at) continue;
+        at = span.from.line;
+        wrapRange(cm, span.from, span.to, {});
+      }
+    });
+  };
+
+  CodeMirror.defineExtension("wrapRange", function(from, to, options) {
+    return wrapRange(this, from, to, options || {});
+  });
+
+  CodeMirror.defineExtension("wrapParagraphsInRange", function(from, to, options) {
+    options = options || {};
+    var cm = this, paras = [];
+    for (var line = from.line; line <= to.line;) {
+      var para = findParagraph(cm, Pos(line, 0), options);
+      paras.push(para);
+      line = para.to;
+    }
+    var madeChange = false;
+    if (paras.length) cm.operation(function() {
+      for (var i = paras.length - 1; i >= 0; --i)
+        madeChange = madeChange || wrapRange(cm, Pos(paras[i].from, 0), Pos(paras[i].to - 1), options);
+    });
+    return madeChange;
+  });
+});

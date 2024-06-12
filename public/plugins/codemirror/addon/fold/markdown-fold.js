@@ -1,1 +1,49 @@
-ENCRYPTED::eyJpdiI6IlZzdDJNOXVPaGRCYmFYQlA0YW9rOWc9PSIsInZhbHVlIjoiZ3RrS0puZUNBdlBlSnFVaUg0cFdyMzRkdzd6RUl5V1d4V0gvNzJ4UXZ6T3pmcG5QSWphVGJlYXAxTlQzd3hnR2lDNGJ3ZWU5SUN1ZkNmNkN0RDFhY3JSSnpOQ2ZFSEJSVVpDaDJjT1NFVlV0a0h2TXFJLzNMbW5XbVdVY24zdHp3Vzl3VEk2Y2VGbUFjN3VOaitudHlMSjBaQ3c3ZXdIMFJ2NmZFa2NuSEdvckY5Y29SdmpRdjhEWDQ0L09XbUxBd2NDeXlEdkhubUtlRnNjbDBkNEh2RkUyR1Qxc0RtL3ptcWdlL2trTS9PV3FNek85cnpZeG9JU2tsNmh3V296K1pNaUJ1YXFRM0VicTZ5emJNc2xkU2E3bjlqU0szNTJvWGRvajV1dEZLTEwxVEFubzREOWY0NHVTYzNxYjFwalgvaFpqSWtTbFduR0xCVkI0N2xEY3NvV0pRaDh2V1I5bVBucG9JOWdpQllwZzhTd2UzSnN2M21IeHJKc3RkZ1Nob1pqK21qWjNNZjhuYUR6b1Z6ZXFnYys0a1NhODN6ZGVmYlVCVVN5dmY4cGFTVUx5OE41OWNBZkZuRkZWU3dDYjlvMDB1bnpIRThKYXRLUVE0RUJtWVdIYVU4L2dEWmpHTUNuSXRWMCs3YTAvcWtFamtvTjBVdENCWFVDdnI5Z1RkZkJqN3hoL3I3K1VyZWRkektXZE5rUVhXdHJURlJRYjdneG9zMGZ1eHBrQmltMkVzQW5VK2hBdk1PTWh4TWRwQmo4T2NoWHFLNjhWWVdjZXFYMHdWVy9ZeStrY0EyanFYcHRHOWluQU1xZE9UdG5XOFJWbElJV1lFU2pQazFibEpiNGxadUwrNldKM0pueGMvdDJuUzZyQ0JmUGdmbE01VERVZC84dkFseUMvTHVOdENDOEpXaG5ZSDBZZVhnRndzMkdDZ2xnTUR0dVRLeTBiQTRFZnE2bXVQOFNaeXhWTEtlam1VVzJ0Q3RUYmxxR2dWbDF0SEhsVEduVUFEckVZa2FTcGRWU2VRTG5nVGt0SkZia1NYb3lXektIdWpkeG9iZDk5SEhXVVJEQm1sUXVwSWkwU3RnaUhvUTc5RTFuUFZoQlJOR1RJalpQWXpIbkZzamV5VEpoTkdrRWJtelZIbTMwNVBCdWRZaU1pSzllVmpCV1pnSjdqdGNyNmZWNVBYeXd0bjR0T1JHMnVZYnVNRXAydGdXdGlvSUNvUjZDNSs4NFlYL2hVMTVSbU5WUHBoZFV4WVQrQzFOR0JIbmNobGdhaVZBY08yKzhudzZhQnYrSW5UenUxaTFSMWpiaXFCNUZoUXltNm8wUTRQYmdvV2FOR1hmcWt6S2VQOHl3dUo4djQyd3RhV3FWVE5WVEZ5Y2VkdHV4aU9CL1o2QWltV1U3dzM5QTlMNnBSRm1wQWFRQ0NQeUpaWUJuV3B3cG5UQWxkK3FQSzBYbFh0bWZFOER5dWp3Y0hrM0x1Yll4eEZOdTlSL2FqLzB1YmhoWXpIV21JVXZwMjNtUGpvS2lBY2RPKzg0QzRONVBUR2RwL3d1b2JzQWViNXR6K2szbWtYd3FxYzAyZEZJT3JXV010NW5oYitRSzIvL2dXZjhPRlRNdU9DRG5OUnNaWUNXRUxDODNzWEMzNlRGaWN3ZHBjZExRbkJaRklMTzNsR05oUng4amFZY2J5R1dNUE9abktuS1hjTm02NU9nMlNSVGV4V2RwcDJjQmVaZ2ZRSnB0VzZaQnNQY2ZPbFpVcllzZlNtL09iRTAyc3R5aS8wSzErZlJ4VkVNTGNwRnNMaFQ5ZmlIdE9zRWY2YTI1NkVUZjZPYTlEdlZydEU5bENCVUU4b3hpVytJb0QzZHdwaUd1RHlmdWpueU8yQTdKVGtWT01lM3R4cXVyeHpqQm5RNVZLMSt4bHVzV05YT05VVnFYQmxOc241STJiU0t1Y3ZOanplYWl6NnVHeFgzdEtxQk01eGZEWHZ4RmtNbnpmWW9mbzIwQ1JTNUdoaUlHZTUwVHBaRGc2TTFmS1JoWVV6ck9oZGxjbnljOE9BSnAvSjlZcVZwK1c1dURMV3FKSytSRzFrWnRMbGJxbFovbkpQeGpYUDhnVWhmZUJ4MFlCc0ovUmYxakJ6cGZZR0hpUDZnNS9ZSHJST2FJd2tQVlRLY0lNUHExS05WYU15SUpHMVhGVUJ6MWhmSkRVczE5c3dnR1F2M3Uzd294NDVZSmV6TG9yNW5XL0lONThMN25LbDRsekFnUDVwQ1FuYlNDTVFYelpJd1pLeDlpOXZIalBrZUJhMk1ESTVpVURpY0F5bHM3ZHNuNHY4MjlqMkZ1VXVLTS9iZzNQdC94TUxNZnFLR3VkSmVRQ05RRG9WUVYyQmlGQmQ2SlVkWTN6MC9IdE01Y25rRml2aGxQUEdGOS9DMmJPYkFUWkdxUXlGZ2Nrcy9wdUlLZHVsREJ6eXd3LzV5RGFoamJrOHZHbDlTL3lSME9Od0FYM1JpVWZUZGdFOUMySEw0SzJaQ2NDUk1GS283WVRKNXZYTW5CQ055TVlCTWdxZkdsd0RpYzdNY2tuZ01kOWY4TU0rSmwvQTdHSWc1MGxkV3JoeDRtTDkzbHU5NDdET01hWm9OU3o4Y0Y1MFI4aWY1Nit1a05BYkhPQ2RaQk8zMDBVZmN6VUQ1Q0FXTTJNbGlwUmY0ZWNtaXNNTHp3SFBGTnJHbmpVSGEwSFdjUG9SU1JkUHYwNWdwcGFEUlZMTGM5VjlMbkp0OG9QODVHbnNWWUF2aGpDSWxYY0FKcTRKUEFJRVNnTnFrZWRFUzNKK05xSy9zN1Y2Ti93QXdYRVRBeWozc2Q3bnB6Q3VzcW42ajVxYmwzV2diTT0iLCJtYWMiOiI5NDE1MzJkODk0MTA2ZmY2NzhlOWNkYWMwMGY5ZDIwMDZkZDc3YjkzMTZkZWZmMmEzYmI3MzJiM2YwYzFiYjgzIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.registerHelper("fold", "markdown", function(cm, start) {
+  var maxDepth = 100;
+
+  function isHeader(lineNo) {
+    var tokentype = cm.getTokenTypeAt(CodeMirror.Pos(lineNo, 0));
+    return tokentype && /\bheader\b/.test(tokentype);
+  }
+
+  function headerLevel(lineNo, line, nextLine) {
+    var match = line && line.match(/^#+/);
+    if (match && isHeader(lineNo)) return match[0].length;
+    match = nextLine && nextLine.match(/^[=\-]+\s*$/);
+    if (match && isHeader(lineNo + 1)) return nextLine[0] == "=" ? 1 : 2;
+    return maxDepth;
+  }
+
+  var firstLine = cm.getLine(start.line), nextLine = cm.getLine(start.line + 1);
+  var level = headerLevel(start.line, firstLine, nextLine);
+  if (level === maxDepth) return undefined;
+
+  var lastLineNo = cm.lastLine();
+  var end = start.line, nextNextLine = cm.getLine(end + 2);
+  while (end < lastLineNo) {
+    if (headerLevel(end + 1, nextLine, nextNextLine) <= level) break;
+    ++end;
+    nextLine = nextNextLine;
+    nextNextLine = cm.getLine(end + 2);
+  }
+
+  return {
+    from: CodeMirror.Pos(start.line, firstLine.length),
+    to: CodeMirror.Pos(end, cm.getLine(end).length)
+  };
+});
+
+});

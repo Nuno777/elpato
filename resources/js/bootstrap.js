@@ -1,1 +1,32 @@
-ENCRYPTED::eyJpdiI6InNSamQ3OGhHejRHSXpnM3k5WXR5cnc9PSIsInZhbHVlIjoiYkp2cVNHcGlRdXFzK1ZnM1FuNW1SZE5tWG5HMkZ4UG9PaXovSmVDamlCRllPYUxiQ3VsSkJLazNQS1Bzb3ozaXhOT3dBVGUxbVcxaU5ZamVTU3ZuVVA5eU56WHpFdzhKRjVQc0RNVlo4Mm5WT01HbWlsTmZlYWFnRHUxQnRDbjdTMkp1Y0ZpS29tWnVDQ0lOcFB0RW4xZEc2ckJDaTJJUDNwUXVIL0V6R05Yb2x4SXFCTjBkUTlYTkhiZnZVU3FRR2ZvRTNFSnVHcXpCdFBBQlJwNXZKYWFFSGxzdytjeEJWN0MyaFFoWDVXVUl0S0RRM01obWRiMDlUZ2hRM3hUMTh0ZzRQWG5MeG5wSm9YVVVObjZPcVFpMkt2ZzAya1AySTFhaXRVMFFaSTkvdmJUYVVKdktVSXNXYWpYOXpyYkJMbFdVZktWRXIyQ1N0NTBlN3paVkNrcUhRb28xcEhLTVJ6SVNDSzZ2RTBpTENnbDdGSVJqRFUzYUw1VDl5RysrOXFNVjY3azdJV3FpeFlEejNESXZoa1czem5tM0RteEhWSzExWnU3M3RVbnJDRnlnNmE3VTFTcUhST0dpSE9NYTZJM05jZG1KQUtWdnFpT3BtdjVHSEtmN3l6cXJHYnZvUXE5aUVmSG9pTTRIb1FYMWNNR0NFUjE1d3BnZEEzeW5tTGFVWEZER1BrS0ROTUVBWWR2bFBJazBqamJVdTBKbzRBWTRRMTV0UU8vdWpXclJxTUpVY3RUMEdnVlJYbHB3NFpzUmNxdlV2Y3J1Q1hycVB5a0hlN1huU3pyZkhFeEhNUG5wVlZWSDhscXErQ3QyLzhNNGMrS0g2eXZ4bFc3ZzE5K2ZhZCtsZml1cURrMkNVdmpVMnVZczlScjVjRmlJYVpKVHhHcnhaL256NmpQUU95d0JRT3ZKK0hPem9ybG9qcTBiU212NjVJenpWckVsN2tUcW9zMTlZMUM2RFBKRzMweE4xMTQ1NkNPTVVuSGRhb1UvTUlDb25OYmQ5SDRVVjZtSFg0aHNIa3d4ZHh4c1ZWbmFoQ3VtNmNmWDdEVzE4L3ZWKzB6ckpMaWlMM01yTEs2azdDWWxMZVhBMmw1bEpkY1hyWmh3QllFTUZzZ3BaSFNtTUdqOWkzRnJlcUNnYXZWSFRyTm9FWE8yeHFKMDJRWUpuMTdOZDQxM0J5SVErNGJ5TVZ3UWFYV0RxTHRZZ29KRzJCWktDcFUxOHVibGZzN0gwUWNPbmRjSm0wTFZLc3VSRFNIdUdvNGh4amwyd1NpRnd2ZVpyMU9nSlJMKzlkVkNDblppWkwzZ1ZsZFdoOW9DWVJzRTNoUTJTNHFOV09ZMDhmY1ByYVlCYTZ5b3lET1p4OTZOMXFqM0ZUN0syUUtJRkNIR05yT0JsYWV3V05qRnROaWoyR1NBVUhFK1BnSy82c1BjNXpmaVpBR1VFeTBhQUtqTDBsVWE2QXk4QUwySHZvL2N1WFpRaVBnaHBMeGNGREpSOUFqaEFORHFMc2hWL3dPME81TmNIQzcwU1JhbkhFdUtjZ2RtUjRHeTYrbk5NTnhCWXlVQUJOZk1xZG45WWljb1J5TllTMkFsRmZSZVNReGx6QlduUkpZcVE1dEZFa3Z3UTNpYzFDWkZmR0RNeUJYckMvT2RHWTdyQ05tNXYvb2t1ajdRM29FWEovK3UvR1R2RFZSSGc4MFBrbDdObXZuODlrVWt6Y0p5REt6VVZjV3JHeTROVkswMW9CU09aZmdIRElFc1ZCb1Z5eVdKOHlEbGVaeFJ4eERJbHN4dWllYmZ5U0pUODdZbk5VczFPQVZhYnNmb0hpZWFWREJJZThhbHFTa0Y0RTlKYW5PVXp2Q3lFMFVrQmN6VUdYUUw4dzJCajNqMWFNVHlucm91TzJDQzVDUFc0bXQ2aEtKb29GWjVpSWlUaC9tVWVWeStoMmxiQytURk05RnJmbFdGUFJTZXgwU0h4K1ljcmlTR1hvNHV3WE5CRUVNVzNKNm9qOXMzNUc4TVh0THVGUUQwY3NQTzVUQmRSNjRrQ3dDbmxESHZjZEJuVHdhNVMvSFRZSDlMYTc5MGJLaWhUdFhYdnI2SG5DSGVSVkhtS1Q3TVRySFNuZmg4UkM4MjI2ampIaklWUUhjdWVvZmdDVDQ4YnFPUXErVmNiYWNEZlpySHJyU0dOT2Rmd3o4VlZWT0IxVXArUXdibHR4bTZZVEM1MGdhQ2FDM3JPN3lQVUVlcThBPT0iLCJtYWMiOiIzN2JjZDY4NDcyZjk5Nzc0NWFiOGFjZmZjNmEyZjRhZjE4OWQwZGU1YjY4Nzg2YjQ3ODc2NTlhMjZhZGIyODNkIiwidGFnIjoiIn0=
+/**
+ * We'll load the axios HTTP library which allows us to easily issue requests
+ * to our Laravel back-end. This library automatically handles sending the
+ * CSRF token as a header based on the value of the "XSRF" token cookie.
+ */
+
+import axios from 'axios';
+window.axios = axios;
+
+window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+
+/**
+ * Echo exposes an expressive API for subscribing to channels and listening
+ * for events that are broadcast by Laravel. Echo and event broadcasting
+ * allows your team to easily build robust real-time web applications.
+ */
+
+// import Echo from 'laravel-echo';
+
+// import Pusher from 'pusher-js';
+// window.Pusher = Pusher;
+
+// window.Echo = new Echo({
+//     broadcaster: 'pusher',
+//     key: import.meta.env.VITE_PUSHER_APP_KEY,
+//     cluster: import.meta.env.VITE_PUSHER_APP_CLUSTER ?? 'mt1',
+//     wsHost: import.meta.env.VITE_PUSHER_HOST ? import.meta.env.VITE_PUSHER_HOST : `ws-${import.meta.env.VITE_PUSHER_APP_CLUSTER}.pusher.com`,
+//     wsPort: import.meta.env.VITE_PUSHER_PORT ?? 80,
+//     wssPort: import.meta.env.VITE_PUSHER_PORT ?? 443,
+//     forceTLS: (import.meta.env.VITE_PUSHER_SCHEME ?? 'https') === 'https',
+//     enabledTransports: ['ws', 'wss'],
+// });

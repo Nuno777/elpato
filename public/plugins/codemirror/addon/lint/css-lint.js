@@ -1,1 +1,40 @@
-ENCRYPTED::eyJpdiI6IjMwZWE0eU1sTDhqQnRNRnRXT1hTV1E9PSIsInZhbHVlIjoiTHc1dkhnNFp3bXRGcThhd25SRDFhVG0wMncvRFQ0Y0ZvZU9lUEVKT0VXREhiellKWkQvVVRpb081WUMxUG5KdGdNSzk3cWcvREtaZEtCUUI0dUN6VkIwaUxMeXJHeVE5UThwTmJOVlBKQW9SakVhMW13WXk0TGRFWExyQkhjZXlLMmYxS3VXWERPTjQyVUtoM09SSytzUWhYQzk3MGtEdGZNUnNDRDhTbkVLQnBENEIvR2Exb0lhdHhtSEN1aEJqNUNQRG1mOFJrTXlwWm1QdU9ZZEJxTGpSSkNqVWJrOEZSeE9KM1hFNzhmUURQUzlBaUo3Z0ZhTXVPeTJBelJyVWZETHIvRmtIR282ekJRWjVsZ2wxek1Sd2k2MnJmTE9YaEtVMWR3QUpZSjRKaU5jSjUxMVJmanhNc0VWSStaRkhDNEUvWXBqZGw0cU1qV1UrdmFrMVljTVo2MlcrSFRDOGZWNWZ2d3RDZGNBWVhRNVdwdWUyN20rQ3JDanhSRzZZMUtYaGUxWWxBYmNPRVlSYzlMLzA0Y1VWdzdGbTFjenRPb2psSGlueHlHMEl2cjBNSm5OVVJLREJyeDI5WjczVURQTktad1NiTHhGL29GS2tSTEN1SWUxREE4c2hrSEhYMStOazBxNGpSc2UzUE1yaklrazBtN2w3SW5BdXM3alJDVDlHNmtXOEh6WjRRb3dHSU9YbG5wSnhyd3hQdzluay9ZcCtsYnVoa0xCWG5wMEo0dERYbGJjM1dEb0RHMTBWSnkwQ1BINEJvOEk2TmYwY0xyM2orTlRQRjVQTHNjVWJyeUxsOE5zS01Vczc2NUl0R0N2NGx4K0o1cEtqR2F4YmVPM242ZGUwbDNTeHdWbThIbVlwYUVmWmRldlVyOGZBTmlyY3ZTODkzdVpJUzloTW8xWWtDQWw4ZjlRVGVlZGhDUUFScjdjNTV0VExGYkt6bEJ2U2VHM3g1TEdnWmdiSU9JVFRuTDRtRnlGV2RkRDdXcjJNU01DRHZXQW1KNEo4bGJlNHNWbjhoZlZBaVJZMDFGZmlORUMwRTdWMXo2cmdlSGZnSzJBTDFxdVA2OThob0Zuc0U5L1NYd2hqcElGS2RjZk9jdk51RjUvd2EyZUJzVGdpWUYwelR0Y0pUNHVBQ0NncUw2bm5QUHhGRjBVd0xDeXdicnh5TGdCRFloRUhFc1lOTDdnb0VHcHpjQ2V0S2dPaHRnc0FFU2RlQWhDK00xQ2NwV0N2cEZIUWxvb0JIMUQ4ZlRLSEFZWHl1ekIxaGlaYVdvbkNWZkxBNW0vNm5uL1I1TytWR2tVeDZRaEVza2ZLZzc5TFh4TWdFc01hYTZ5aXdnczBad09aMDRyM1ZzdXgxV0t5bE1nZ2NkdTNneVcxMzZKOEdNdWR1VTZ2YWlQUmR2TmxtVm1XV0RhZVdNL3hYSTJzWGdQUkdUMUNUdXRST25DL2ZHNEhBRWpjUFBtZkV6MDZkc05LSjJuVlQxOXBzWUwzT0VlQ3JrWVNOSVVuSFUzU1UzTmFWUWxXRDUvamt1NGFzd3hhYUh3dVhLMFhJdi84dWZNYjZFU3I2RHArRXhyZmdVa1dDd28zUXJnMXk5ZVc0bU4vdmJLN3lGczFucnRFOUR4RVlzeUNVd1JRYVpxNUtTWFRZUzJnYUlPQnY2VXU2Z0lGZmpLUFM2WnB3YjhJY1kvSUI0aDVhMCtOMDl2Z21aZXRjNDdvMzdEVE84WUpBV1J5cTJpMUtYUkUzVnVMTWVBL0h2TENPTEs3OEdoOE9QTmNHQmVXSll0K2Q3N0JkWGdqNll3OFMwTW1Ia3FGVi9UZkVOaEFza2NiR2t3ZC95enkybWFUV2FKR3J3U00rcmVRWjd6Q1hxSllheUt2YWhKOHlreU56WkxMNTdFZld4NVlWYm1iUkZTa3h3TTJ2eFh4WDN5RjlYUXFiVk9HWGt2b0JYVzJmWGpjTmt0L1RXTHZ4bzV5ZjdObkN1VlF6NDkrc0xvNm5NRktabXhYZ1FiOXBWdEE2Q2xLSzdDT0tLSmhQZjFGUlJJUkNhbjJ3MVkrN2EyYTF6bS9GQk9pZWVaL1ZtSlpmUzdyeTlOeUwvckcyWS9qa3hBU2wvclQ1TlFoTkZiOGE0Z2NWY1RqdUdTeDhDcjRodk1ieDBhMmlMREVkQUZWWElJZ1NhZVFKVFBPd2gvVmZmQ3hUdzQwT2RONkZVcldDbHFyeTFqbENOQXBhWjc5ekZSRHI1WWpPV0luejhieTNTRXN5QXkzNGdzNGpSR0s4TmMxOGdwSlNSMlc4cTkySUJ1NkNCcHNBSFBMWUJzaXNwYm1Kdz09IiwibWFjIjoiYmI2NzYxNTdkODI0NmMwNDhkYWNmYmYxMzk1NDU4MDYzZmVkZmRmMzkzMjAzYTcwM2Q1NDZhYzVkMzRlNTlmNCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+// Depends on csslint.js from https://github.com/stubbornella/csslint
+
+// declare global: CSSLint
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+CodeMirror.registerHelper("lint", "css", function(text, options) {
+  var found = [];
+  if (!window.CSSLint) {
+    if (window.console) {
+        window.console.error("Error: window.CSSLint not defined, CodeMirror CSS linting cannot run.");
+    }
+    return found;
+  }
+  var results = CSSLint.verify(text, options), messages = results.messages, message = null;
+  for ( var i = 0; i < messages.length; i++) {
+    message = messages[i];
+    var startLine = message.line -1, endLine = message.line -1, startCol = message.col -1, endCol = message.col;
+    found.push({
+      from: CodeMirror.Pos(startLine, startCol),
+      to: CodeMirror.Pos(endLine, endCol),
+      message: message.message,
+      severity : message.type
+    });
+  }
+  return found;
+});
+
+});

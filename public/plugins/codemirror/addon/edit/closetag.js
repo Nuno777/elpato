@@ -1,1 +1,175 @@
-ENCRYPTED::eyJpdiI6ImV1MGZQVnlxNGNsZW1GNEJxVjExckE9PSIsInZhbHVlIjoiZHBHcGRJN0hCbHNVaGNUZU0rakFzTEtpRks0VmZxZWlYMVF4dktzTTBJdXpzNlM4Y2lzY212V0lINzVXU1l4TGEzUHdhcHdxU0lobE1zUUFjTjQ0dDVERnlhVXBFMWthSnY1ODNMT2VLN0VIcVhUV3k3TXdJSFUrZHYrV3crWXNPV0w2Uk0zOE9jaitQeXUwcy9NR3dkWHBZZlhHd0ZsZmEyU1d6YVRjUFhGQWpFZ3FBMzRIWXBXWFZ2TVdlS2I1MU1IME56ZFBqZ2FyaDVVejFTaWlQQlBnelFtZjBrZHdEazk4TXN4MzlkaVRONDlIb2RxY0NQSDYrUzNaYUtTVnphVElIOTladTBkdlA3RGY0ZGZZZC9lc1laY2ZCY0srQnBsc0NCV1JnaUxpM3hlUFFMZWdlYkQ2eE1QS3o5eW9MazArR21BUThydThmL0lnRVpENWFvczFURFMwbzArempEOTMyRi9lcU5mMkptRUhJOGJZYUVTVC91eEQ3SjFVakFjbURLRVkvYVVid0ZQSEFmd0RibmUwbFpQeFRlbkdHYTYzZzYwYzdhMlVOLzdXUmVYa2FBNHFTMHFLVTBaNGpDS0gyaXV1anZLVDJWTjh0MkRLaTRTYXJmL3FSaUpNc3VJQlIyK3JSTGtUb09xQlFZbXd5ZHdJZ0VIQkthNk56Mkg3UHBrcG9pTHdLeUJCTTFJemY5cVhJTjdrMXNaTnlVMmFuNy9RY2VJaCthOStqQ2Z2Z213L0ZHdzRwU3E3ZUhZalFCYWhZMDBTQVZ3bzBBbkhJYm82Nnorbm5WWldLVXliR1VhY0paZUtRZGViVm5EbDMwNlN6MnVwbm9udnNJOWNhR3lvcHpOWTM1UDIvZTNtOVdZZHg0OE9RTWhIRmYweTJYTkFKTlEvSUcweW10VlNBWG1Rcm5GZi9TZ3BQSEp5dVRLQkF3SkNOdjB5UlhuSkxGVnQxYzNkaTFHQVIrOW1YOStNMkpKQU16VUd4K3BHK0xUdHdEOGFXOHB4a0tveXZmd1dOdjNMdlRoc2NvampVWk5EU0xwTWtCaXllZ3pPb1hDNjB2RTZITkRZVzR2Tk9vbHlVUml0NXoycm5ZUkgzZFZrSGYvdml2L0p3cmJqZHRvbnl3Mk9QaGJ4Y0ROY002bVdLWXZVdnVVeW8wY08wUlpTT0FsQnRMMjBZaE93QnVwRXhCZ2JXTGdORklneHBCU3gwNStQa0JraDNvWm9jT3RSWEtFZStyM2dTYVVsQ0MvcGxkT3E2OUQxblFvbzI2WGprZU5rTHNLMnV1YWZ6YndFTlJyUUVRaitWWHpoazZ0V3pvZGszaERqV2oybUE3N01SRWowcW44MmZaVjUxTUtwNGlHb0wwWVlCV2dZU0pHVUpSMWRsdERlcTFGeUUvVVd2L0VodTBla0lHM2dzZXBCU212eDhxQktCVjN3cmQrQy9aLy9SN3ZCNi93dFMvMXYzdld0MzJzWWluQzRWakdaQXJUMUI1K2Z0MVgxOFoxZWkyLzVhTWhEU2lNK01VUDRJQmJzV1ZSc0p6bzZ3eCtTSU1YTTQzdUNjVnJjcEZtR3daVnRFdVA1NW1GSFpuekVkVTM5UGd1cWxWdkt1dER3TXVmUGxleEZJYWdsaFNuRUdGbTM4WVpyeWlqbFZ6MTNVNlNJMVhpdTlVcHpJMVpOZFhUUEZxbjBKSXZTK3g2QzY0SW1Id0RFZitRT3dmT0J2V29GM2dHM29DeEVGK0x0bHhQeHYva0VzcGdUcW0zZmtUQTNPNFVoWlBhWGJCMXVXaGJKTWVpYlBlOXNHRkdXUmZac1pLcCs5TTE5cDNpdnV0QmIyUEx6dHJPN1crVWlwVXNYMVBCUzN0YWMzUmp3U3BwZWRERkxpc2FWWGFvY1lmZ3BJR1VpWkp3VDVNbXVxT1grM294SnNhTit5TnV6dzdvNUxPL2VlSFdoV3NpVFBEdnVQWFlCZzdrcGY1eTUzdWd2SGVHRGNudnMwbG10c01SOWJYZXBRcDRuazFXMDlDV2hZR2lwOW9Ca3AxcFBYZU91eWJqUlkxeE1MRzlzUEtKSjJLc1IxZVVNQ2N5Q2tVQlRpWHNXTHN0Wk5mS2dZSkZDdG81SE5JRFVLN2w0N0Ria2tBY0JzblBXQmpGS3dtV1Z1S0R4Tmt4dC9DdGdSSDFTZHUzOHArRFNYQjBicUw0V2ZsSmV6VXgyT3B4dnBZcmJUK1hnb0x5OFUyd1VOOTZYdEREekNNUXJwNjkyWE94dWxqbW1ycFNvbUllZ3BWcnUvZUhEb05DNGlyUUFacGFuKzlSb3JtNE1JUXR3WmdiUnM3T203UlFwWllXbTNrank0WW0wU0tKWTVQdGRzUlF0d1lEOEFLYnE0ZHRPNng0UkZ6amtoRVczS0t4dWFMWDhBNjh6L2RURzNKQStFajJiS2l1ZHo3cHhDRzQrdmpKcFNGMmhJeTN5SWFzeVJoSUJXSnY5UlcvcEVQZk14L1ZSUFR5ZEhyVU0wajBlLzNCN0ptS2tFWXludjN1bXZ2VlRjTitZcTVHT0hoeml0QThPSWlXeEIwV0JqQ2V1UkJxNkZKaWpjOTNXWm5CeTZESmhDN2cyTVZTNm9CcHpFK1NJeHo5YjUzdUxDTDdRK2k4amZ1RG1xWndDZ2Z2Q1NpWXRZajNuanBkN2liclJLTE40SVV4WWxjRWZTTDJQL3YzUmlzdndrRHRCUWJVbEpMNTZqVGtLNUIxV3JRMlZqQ3RVMlN2SG1mR1FNK2d1cFYyYTRUN1RBdVZFMnZHT3dpcThRUUluSFZDdTdJc3k4QkJPSmZQTjBJQmJpMnp1UzErUm5rZ0JOOEY4bG9iYm1Da25hU0FSRjRRd00xLytiRjZNdmFwT0tBWVhUL3ZZREorS3R3L1hKajZUZE9vek16MG1uR1dtYkUvWS9mbk4vVVlBOXp0Q0g4bmtqemFQbDBQVzBNSHlLajFBWGJiZVNYcGZoNXowNjdpSHVRQXhhNUJxWkU3emZ5NUVJb25EaU9QQmhCQUdKMjBjeVUwazRma0kxMU9kOWFMSWprdGI3L3d5UEtqaVV0NFdIR3RCR1ZIT1J3aXFIME5IUjNHUTVKY0FpYWVTUk9mZ2N5VlBNSGIzUkxvd25SVGVBQ25iSDQrQysxWW5Xb1g1Y2l3endhSDZBdFMvRW5Xb0RvYkVMOC9UaGpiajc5aHFNbzJLdFoyZ3hlQWliZHBKOTNOYjlFWXZlTTFVNUNqenVPMWRpNkFVd3hnMStraTRQc2VNc3k0VUFlVGlkWFUxQm5leEpIM05iS282a2VSSnJ6ODJPWC81YjRnZDU0VGdva3hLbjA4RWJOVVlWMk5Wd1ZqMUxsQ05SL00wNVozNWRnZ2JJbjlqYTNBLzV4R3BiM0QzZkY4RDRKaUJzejNla1pRRU9YRDZHSjdiSGx1L1pSTEpiU0s1UlVXc2J0MHVzdnBKSDJpakZpVXFCU0JhR05qVW1FdFR4UVJjd2pBY0JreE5oWnJITFBHY3dycXQ1MVRBQ1hob25DR0RyVXdvczRjaGhGQ2RYZlRqbTMwKytBSnFUZjY3ZzM5ODlSZUIyb1RDNGxVY1U0aFpKWGlTTUgwUmNqUnl0ZkFSeFREQTZNT09BVVphVktTTmw2SDRQZ0ZKeFdGL0FTeXg2SHJQT0NGb0xFbW1DZmdObTI2U1dTc21MWGZTVUJmQmlHWE0rc3pneGZkN3ZuazdPY0ZKL2Foc2kwd3VSamNwMjNjL2QwUU80cjJ2S2l1T21VeXBnQ2lEV0lrT29WMXZHcE4wYk1reFNURmpXc3E1SFV3dDdMM2E4elZWcHNldldCb01hSmhjRFdlbm13ai9jZkdHTm9hLzdJUE4wSFJ1ZjR6OW5aRmk0UURuYnVFUnZVTFFKK2QzNlNIRjh1bmQ3RGJubkJDa3ZzUlNFZjBwM211bVVRRndERG8yejFnWTZyQlN3R1pFMXJpblRhUW8yVW9hTkxGY0NSa2RkY2tObEJIV0FtMk14Ym90aG5zcjVUM2MzeS9LWTNLdVRDOXZwSDJOM0VWMSt0NVVUQnZVdTNXTnRBclAwNU5YNkhnaDBWRE9McHc1SzNOeVdxSG8vREhaekx1eVhTcmxOZkw0M3dXbWpPamRQcG43NlZxd3R5VGlyV1dsQzUwSW4xQWRIbFhFSnR2ZzlKR0RySXVXVUtCVHQ3dUgyV25wcVBld2lqZmZaelZqN21pbVZ3cGdKa21IbEh0aXR6OWI0T1RLVWMxa1M4MUo1YWpCUThTNGp3bDV2Z0IwSWdNdUVNWjVMdlZITXJpc3BSTUM1VmNTbnN2aTcrTjF2TWhCNVBOaWFtMnF2Qk1GeEQzdmpiek84OU94NWRSUGpMVStlVGpwT1B6dlk0RURsQVhIOTN1SkcxeVR6VTJMWjdTUTFzWVpoUFQrdUp5eXErUHZ4R1NYVTFvaGkwQmowa3ZwZklQRmJUb2gwMThVNGRuRWF6Qnd3Z3dvNHZsZVg1dmFEamh5OTgyb0dNUmZGK3YzWTlzQk1YcXduS0FKR3NVTjc3V1Q5SmIwenhsRGlOUmRaSlYxVldsYkhNd2NRc0svS0E0RFhDcnBnZ3k3ZEZTcU5WVk4vNVF2djVZcXRvOHRwRUZ4UWF2SkhNd2RNaEI4UXB0cndsd3Z6MWNOV2VnVWs2OWZqWWRkdVJybmFEcFR2bkF6dW5HWlpwRlFzSnd2K2s2UTFxN0pmSStBQWtIWE5VYjlFYkdPUHNEVE90eDBlTHdhVDV1NGEvUHhPMURrbnVVNTdyOWEzQ09hRjdUQkZIblZ1SGcvQU1OMzlrcGxJUVdkT2hUenB6VE9pVmZKLzZxb0U4Rmw4R1JyRUZmdEUrN3g1eVEzbWdReThTZHNDZEY1aloza2lWWVRhUm83YmhkSUZXUjYwNDNYWUZqTkpvdlYzMzJXcXpDazZmb0R0ZkluS3ROZW4yRGxiSFVHL0V0c3MyRWlwYk83Wm5KK0F2Nk1kbHZpL2lwUWh1QVJ3QzQ1cW1iSDQwQVI0UEt5bjU5QUdqcjhRWXhGcVdzeDl0QnljeEYwT042ZS9VQ3diajB4dVJKZy80dzlLcndMYWluL3hZV0tOcmVRLzJwUGtDbWxrMFFkQVJTcThHNDhVUGtXZ3l4REZ2dEVvWjVwelBVQ3RlK1FuVTNKL2czU0xhNmw2RlZhenVHdnBmZWJ6Skc1bk1aa1Mxck83OFVONjRyUFJZZ2dRT01XQzFMc09aa3ZDUTZBamd3L21RVlZtTFB0bkIvczluOWNTMW9DOWtqY2p4QnYvU0tUaHZEcDVsWVo3Tmdlb1A5cUdmSGtGWHBtZVRKYUdYRWIwU0M2RlJUVmxtS3YvOVlic01sdml4WW1CODlpQU5aTndLN1lXRTdPUlVqVGhpNW1uT0RJNGZLNmJkL2pOVWRLTVlGVHRHWjFKZ24raEtHVnBLMFFzU1BYaWsvd055aDE3am5JY1BTUnNkRW5NaHBrREIrc1ZmWUxEUUVpdFF0SVlEWm4zWXhCMWhxSXYvRFJ0dXR5QldUUU91MFIvY1BhRzhES3dXc09vTnVPSXRhUU1rMW9CbGZTa292eWN4STBGWm5RdDdZNm9CeU1Nb3hnbXFXSXdBQUNzZXhrNGJRMTNNNXU3THNubVFSdGhaMzJpa0hEY2JROGZWZW52MWtFMmZ6ZXR6d2RIWUxVY0t2aTlvbzBTRmIyK1Z3UnJmQktPMU01UHpVc1dndmt1ejBXTGNrakorbUZ3US9tUk85N0JoTGJOa2xUUVgwVEdCaGMzSFowVmtQcHFUakZyTWtxQm5qNnZyRWFrdklMenFyZ1IzNFQrS2ozOWRic2hDK3BocTVWZDdybFcxNnFDakRUTVYyeE0ramZ3LzNjc3Fvckp4bkRnazFrZ3hydzFmRWFPS3hDWXA5bTRYbVd4Z25MRHNKdmtRRUxocGxCOUFYV09vdWVPMnp0alQ3Y3JBZmk1WHNaVnl4cGd3VzNiYWpmdzdhdVYxMU9HQkRjU3pndlNEUlg5ZnVHSWMzeE4vSWx1Y0pxeW5COE4vbkc1VDVzODlKMjdKNmJrbFBRMnhyNW5HSS9MUGQxSzZZcWd5dTVxTGNKNktwYUQ4Q1dXY1F3Nm5PVzJCM1ZLK2xJb2NGakE3NStPUnA1SEIvdjR4VXBaTWdNWEVRTWowcmNIMjBSU0dBUUFYQXNtZys2ck9OcEx3aDJFZEs3bnVYR1puUXNMK1h5SDE2VUhySEpMVWREM0FvQ0pqMzJmc3dDbEVMbVVpSVp0ZmN6THJJRGprUTk4dDRCTkZpeXJ3ZUxnQmZSYnBJVWxxakJDM2FpRWVMSk1VdzdXUWFnT1Jzck1qdzFqTFUwVDdqdXo1eU1tbjQvUGtuaEpCMlJvWWtUZ2s5b21YUlVZNmVKZWJyby9jWFduTHRpbi9UcmNJYnc5VzdqczVDQXNPaS8zc3JoSG5QaC9UdUlEcXorZDU5aGV5Q21FbmJPQ296VG1OYjh2czd6OGdUYlRrZ2pISEphcWNjR3dkQ3BYRmxmMWZHV0JuVFVVcW13S3padkFjNEFDZlpCU0tCYythZWV4REY1Z1FOUlM5SHB3cXU2eUE1TjFHUG5tZG1ERC96MlVhZTBWQ2pmcXZNQXF0TUF2RTdwMk9IaUhsY0NvZDdiUUs0TWc4aGNhODc5UDdpdFNBL0wrdGI4V0xwQXpMaGhlN3JTOXIyU1M4MWZGdHBUVldwZFRxRTJ3ajUrRFowaUV0dTdXQ1g1QlR3bWU1VUx5Wk95VjdnVXpLUjJUMk5rNnVaUTZlWFRvYUNKd2NCbHI5Ym5may92ZjhiTWVHQTJldkxRL1gzdEE4dDByN0YrbmRKVVovazBOZFFiSDN6ZEIrODhjTHlJMVNLTXlTMStjOXg1YWE2aE9pbExyYW9yWFJZY253YWMyb0VaSUhsbFBud29Pak81YU1GRm9JRFNLaHd2SThINEV1VkllTnlCMk5KbnVVenZVMElLbE0vUENvYWVQV3REQzhJbU1pTFE3UXhoZy9tUzN6bzdCN2l4WXptWXJlK1VrUTdacGhoSWpmVTBhWWhMcjcrNDdVNGlKRWs5cFh4dG1tQWRyTmhwclZZaHFHMldLK0VRYVIxdmlQMmVuTWxrRFlXamtQZzZOdWRwNnRhbEc3Um05TS9YRHJXUlFZMG0wTXV6SU8vclc3b0VhSDFKSC9SZEJHWk5jbHpsVGdxTS9CQTNRVXBYbDkvSXpkZ3duMDJid2oyOGN0bmY0WWxrQlBQbGNUMEdpNGZvVjczRHhaZXFuMk1pbExqSTM0L1F1NXF5cjNWTFhtemNZb2hmeElVeVJwT1M0U3VqS1A5MDVoN2tOajJJWllvNjRTMmUzM25FZm1wY0V1VXlEYysrcDAwS3g3YnJyRTlDbmE1U1ZkZEx6dTM3MFNVOHJ6T0VKRDg3a3N6cnQ0OTd0NFQyUEVkNkhyd3h1TG5hd3RaREVqNlQ4RzhsV0l6RWxCS2lnK2svK3hGaUp3Z3Y3YlY5MTJMQzIrUjM4OUFtSkJrK1plSHVIYys3ZFRTSjlQUlNUWSsra051ZEJBL2tZZ3RRLy9lMTNmV3B5YjNzNjY4aTZnS1pRMmtyclZNYlFvTWRaUzNRQjlyb2REWHFOa1plaVQrSEdkcS9PeGJLV1NBL3Q4dmR5NVR0NndsV3FyRlNqbEF5R1hIQytnVTdNK1NKYmFwZW1MaVlnZ3FLMlBxS2JEOHFGdFk1N1JmMS84RzlDK0ljVW5EMUg0VVVSVjUwQmlsWktoU1lCZ3hkVStteURmYTRnaHZBSDhEeDcrc1JhUUp5STdQa2g1dDhsQURoU0M5U1VwOFpEQzhMUG9MZG0wSHgzdHNkN1JFaDhyYUhubzNBcllxbnZiZWllZnYxTHYvZjU2UUZSaThMcElTUE5hcEZMTUx3L252WVllT2xoL1E3SEdDYTZwTURkTUlPSk5USGtTSUNVVWtHd0x6NFQ3SEVmT1JPMlJhb3JSejhZdklGS1A0VWlTOWJieEtFUTRsbHRJblVYMEpOdFRZMGtjeEluaGJPTWpmQmRkSXhpOWp0YzA5MlEwU3NVS0FZOVNycGVBeU1rRFpOd2ZDdDlLSVcyT3FYbllYOE9MVlI1c2FFa3pEaWN4UlZscjFXU1dDdnNkRUpVV2FtbW5FSFFLUFF6YnoxQ1dWMVhRMU4xMVVpaVBGUk9RM20xYUxYM0c2ZDNoeHBDT2owb01NMlJGYUVEZXo0Rlo1RHlxWTdKT0YvSXpmZmxZbXNScGhvRDlFL2pYWXZoV0l1S3RjeVlLN0dROWtyb1NQK1VLZVVxV1FnR0FxYStmM2E3bDl2MGNmeWtWcHJKQkVIUEdrRnBubmdFOGNuSnBVM082UUppa0xXSlVDS1N5WWFsUHNRN1F4dlR2OXkxa3RvajAzbmxPcWo4VHVXWnVDTmI0RW9pMFBUTXpoQ0VxWnBLL0h6SHFDRW1jMjhRVWM3VnBZNk1NVnA2Q3ZzcmZ1SkE4VUtKanFBb1NsNlpWVkF5ZU5ZZTBnVk82R0R5THBpMGh1OHZMVGp6d1dRR0hwQko5NHNjNW9ha3kvdkQxZEhqbFVpeGh3SmI4NU5qMG5pTEFTSjVlU20yMWtXT091cG5TZTREaUZncWRYbmE5NnFqeGo0Vi91aU9XQnBtUFVFTGZ1MW9KOG5Cc3JwMzFyMEs5NEdhb3oxbTdJeW9wUVVNamtteUtPc2hweXNnZnFoL2hCZEVncWNHSmVMa0FzaFFoNDhscU9EVXVyZUFIRlR6cVFPbmZJTG44S0VQc0lGU001QkVlY1VRclJZNFVkV3hvRDJjUHFwTnVUcVBKUTQ0c3dzWTRBcnZhMkRFemRlaWxWZ2ZsMFRkUXZWSk1PK0xmYVZaVWp5S1lMK0MwSTFkY1dlUnRHcHpRall2cHBjeE1aaFUvUmZNTUNYSXJWc0V1c3RFMm0zVDJoNnJWUDVMWG5iQnlrdExwQS9Wd2g5S2ZTUHhmMlVXZlJ6VUx6bGJNTms2RUhFYTRvMVhwWE1xeU5xMVZnL0xEcXNGeHZuL1hpQ1RWdVdTVUlKOG1lVzhGNGI3VTd4WmVMeHFaak9KZWlnUTUzM2ZPVTFHS1FQb21oSEIreXFUcENIZFpFU2ZjM0kvUlU1b1pkeTcwNTNSNWIySmJ2VEdld0FaRnhmN0RWNDQwZFRRNi91NVh2USs4OE1xL2JxNHhaVXhDS3BsZGhGSzVlWERYMy9qSTFHVk8zRTFGRUprM2ZNQWk0ZWFKQ1lwbVgybUd1TDJUMUJQQlkwMWxZakZYelNsMUpBcTYzWnRyZEVTM2M4Tkw2dFUxN3VPWlIxUGZIbU43ZS84Yjg0NGoyR2ZMMVl3OGJROFdORFRuNklpZWlGblpGc0JKdHhGUmp3V09hRnJ3TkYxUHduM2lvVkhIVXU1RVJIY2ttVmVLcmF3R3NMRDc0Y1VjWXVRZDV3Sm0zUzdoNmd3Vm5WTmZHS2JtZS9uS1p1eUhVaDdCMmcxVmZZQzBOZWo0dEtRY2RGWnBINVlsZHZGcjhocE5NYVZONTNXWDJTd2xuNlc1d2UrUnZUUG1QUEdLalNpaUpFeTVOTElUYXU2RzFVL2JGRGFwbE9lZWdES0xKcjR2alJpTmx5ZkFRS0xRS0x2RVplTk5yQXk4ZUh3ZENyeTZFSG9zeEdHRUtyUUdJaitFd0tkaS9udms4TGloQ2pocmlLVzBDSGk4ZUUwZlM3em5BeitSZEpwbzc1cDUzdG9pb1B5OUtSSVI4bko5cWxha3o0TzJmcFYwaDhTWnZTL3pRTDVVWXFCd1NNaHlFYTR5MVFYTHpwWkoyQjhXVEQ2MnB0SDR6aGk0V0hXNGJEam53TUFnbEc1Q3lZeTBVTVU0Wnc1ak1JQ3l6WmVhcERENmhOT0g2b2tZeFNibEY4b2c2RHlxY3RhUTVPZW05SFhGakhEeEVodjZ5VTZuMEdoRE9pa3RmaitOR0pBNVhCdmo4M0FqeHc3SDJyTTVmNUVIUHMzMktkU2ovb2VBdG0xcWRPWDJzZUFNelc4SDd3LzRTZTZWNnBHbmk5dG4weGtRWm1SSUNSRDZweTdhOGNoQW82NmtSQmtGd3BxcVJvN2N1WUtJdlVPM3lSbVhHa3Y4dkZ0T1UzdkNmY0o3dWJHVm11RG5kVXlVeFMrbDVSUkw3a09lWTU3ZmFoVU52akdFQVFpYThMcmoxUXA2cEExN2hXZHpNSTNMbUFqUFk0OHRLSHN0cDBIZHRBUlh4aWg3ZXJYNGZ0b0FRMWQ1Z3pNTTkvZENFMU5haW8wc2JpRSs5b3R1WlhiL1FYSjk0dFpndFdURVRhTGt6TWFGazg2QnluV1ptUjc5dlAvcGpHUENyMWFrQUcrb0JiNnZLcXgvaXpJaS9Nd0FuZ0xvS2NIVVFkU0F6T2ZYZzJseE10enE4V3BMQ0ZncXZIbjVnQ3NRNUtkUUJPMFpBSWdmK3krMTBoNTdEdUJMRDVjZ1psS0ZJRHN6SEtxTUtBS1M1RExyZmoyMmFVUDUxSVgrbDJ2Nk1jaDlCU0FlZVh3RjdmVmxLSldxdWFIZ2wyY3IwT3E5TWRqNDNjOFpoVHVUMTFZaWNzSEJqZEdZOE51NVB0NDQ2K2hqVm9qVkxNNzdjNDhocWsyaktXdkpXTDczVFo5RUROMEt2RWxpL25MeGVpUGtreVlQM0QrbXNxdjZkWnRXQlZEZ0puQzVoek5RdjVvalhhcVU5c2dmWHNpdVRJLzV4WUhwd09mamd1M0tJVHFhbUxaZXFXelc2dkIxeVFickxIUklFVzZEL2g2ZSttZzI4SGRUbFFKQmZQbmxzT3E4NW9mbmRjR1pDeEdVN1JvVFVYQkMrcHBFM2FjcklyRk5uWFdWdHB1ckhXRFFXZXE0N3lsMnZtVlcyRmVUWXRsYWF1QVZPUzNTWE4wNmpTN1laWGZqWXZyL3BXUVR6WGc4M2Fmd21CZi9HbjBTRk1hZ1JrTjNVelBsSE1wVnJiUXlRd09QVE9Dc2pRdnA2T2ZRNWx1Tzh1MTRtUXJ0MVVQMDJ6RjFhL0p5Vkd2VDI0QTRJT3RsVkZCaTdGLzY3K3ovdDcydXc0RS9uNCtlYUNDdmREYitoa0ZRTWFYZ3U4Ny8yMndRckFMRnVEZkdZZjZleTk4VzExWXJmM3Q2VTVrMFQzWm4rTGJFcDUxOWVlUkFGbjFySTlkWWdyd2J1dmUxOXBONlhxTllkRStaU2Q0NnlyZTVnRlB5Qm1oR1hzZ05xQnBGTmk0akROQm5sRms0ZnRGM1ZhcTdzNHBsSGk1Z3hlMFVnM0hYeWJFZitnTUJKV3ZqcFlGSHNWYTNzaWZqTFBibk1CUWpHMWZPSTUySWNqYjRmTXUrTG9jRnJPZmlBbHR4UFJPSGRPb3NveldINDJUaEpsUHFmSVFibHFwVWY2d0VJbXhld1FPVGFQaisxQ2tZY2Y0eEoxVVJudXRyMTVjNXFoRkVlaTZmVFlraFlwWlgwamRISGtWWkpRcWxOQmJiZXNMVG5KTFNPUDRXdTBUWjFucXM4K0ZQUGZIWVNpT0xYTXpYMW50aVd2MDhxaUVpRndiZFJ0b1AzZUR3OEczeGZmVHNYMmpOb3B2Wm9Ec0xzYnJqbk5INkxlRUE0aUhCVjZlY2UvOHBEMTduNGtYcDFsdnJQY0E3ZVFWWU5BU3V3eDh5L21wdWFSTlVpSHV6aUFhYXEweGRpb1gvb0ZzaFdROEhmWXlLU1FvVDdtVnNXUkZPZExEd2tReGxEc2ZtZFA5RFRuTHk0MHVvMGh2RkFveW1VNk9ka0Y4cFdJa1c4QkJxUzJyT01EaDRyQzhnelR1U0c5M2NYdlpJQ01FUmlBV0hlck9HTkgvRExrUkxNa3Fkc2pTbHVNY3I0Rzg4SnpJREtSU3dZa0tPWkxCNGtrWTB4RzV6dG8yMzMwdnJTSUhyWVErdHV6UzJUbXJ3aUdzQjl0cDhtekNEa0s3WUUrckFUdlZMODc1VGE5Tk9rZTFnYnNQUWw2clBzc0hadjJjTkZQQlIya2ErWGE2dUVvTi9lK1JiK0Qvc3gwQjdKWm5rbXg3MHVIQTRWa0NFZllkcWl5SWFpOW1MSEI3Mk9SRDEweERTTjVXSTZYcUhXOVhqL0pmbWp2NTd4NUFCdWcwRjhIS1JjV2ZTYkdsYUtZZ251Q281WDE3bDB0TlBZWjl6MWZmTlRCYVY1Uks0ZHg3ZjBHWG1TMTEyemZXbHJnMlRBemRaU2VWMUc4SWhrS2hKdTVQWHlqNUVPdEtFM1BONjE3eHdOY2I3MjJudDMyL2RwYk4zdmlkVGNMU2pxdHhEOHpsT1JrQ0ltQjBQSHgvSG9LaTBUdGt1cjNwSzVjUXpjZ1hoMmx1YS9LOE85cC9FbG9kTU84Y0RNRGlKRWpFMnkwZm54bnQ1eU1USHFkdkNDOFgrdW1IdDBxUi92NEZYdXBPZHUwbVJOM2ZpeTNESCs1Qzg0OFhIWFNFdXB2MUtGK0tZeEFiODlOVE1rT3BTNEFYeFZSOUEwbm03RTdmQjlJUHBsQnhtTE1WcGE2d3RFdUp4cEtXWVVmUEw0bWg2WS9aZE1nNG9PVXd4MGdvMmZweWgvVmtScmlsV04xcXFSZjFYUXAvS3NoTWcxUVZtVjB4K1picnBMUHRwR0RYU202ZHhxR2xjWmh4RHBRUHN1UjFUMktmNU5pQmtPUThSRUdjR2VZYkVWeS95TG14QmZycjNtMEQyMEx1OWF4Mk05ZzFJcitFNnRkeVY1QWc0ZEh3eE01S2tRa3ErVmhzRWZ0eTN0NTBCMWhJdy9BRk5VSjJPenJqTVZQTHMzMjB3S2ZoUXo0RTc0dDdMWHQ5UjExTnFOQXc5VEJqdDJjcEF3ZDMxMVZMakorS2syWVpKTXZhV1g3ZTd6eXh2Tk1Nc0JEWmYxY0xuSEJmL3REdXdna3ZwVTJna1B5RVkydGtIYnUxNkpKa01MRElER1BQckNFQVdiUlRSNjNCanlSdmlzN05ra2tuaGZpTTRNS2w5MCtuSGgvd2VQaFVodkpSbWR3VEUzKzg5akh6Vlc1M1p3dWh0ZUFneEkrU1V5Yi9wMklRU0FIaHozWGFRRkptRk1TWVR2YXZDTWlUc1BVL1E4a253akZ3YkRhMURlbWtHWXVxQUJrOUNWVFh0eUduTUhxS0VTTm5KMW9wVUN6b2ljWjlJRjRISVJYd1pOMm56TGxrRGFmcTRCanYzN1hxaU53Uit4blR3K2tNd2ZOaFZ5bkJFaWF0dFVXSnpTcWd3emg2WVNLVDI5NDh3NHZobDB4MVF4ZjkrM243dHVDQkNwMmVad2RUWlpIdkZnb3JZWXYwRkw0emVFVmF2QThsZlg1WW93aHpvaHJoa0c2NlRCVU1RYU13Sms1U2VCZFo2NCtzSzBhNE1JbVpKNWlOdzYvQmJ2ZWxkSXFqK0hrblJ1WjJsS1dySEdYMk4yVXh3NlB0Rk43TTAxbGRQRExSekltVlB0Mm5tMDlZNWJsSVg1czNKL2loaXhObExDaG9BWS9LZ2x1NmM4WVhZRzVZVVRRSVlBRGdnL0ZsVzF4emdoWVhsTE1OdFk2Myt0VGxxZGdUTWI1YWJDNHI3ZitMUlFibkx2Q21EditpaHRmNzB3QzNzQWMySDlSWk93bDhtSzVjeWpPcEJja3h5bC9kYzdid2xVeEtPTlVxZS9rOEc4bVVXNG03MDdoU1l4T29vdlR0VHhzSjhQRkJwNXc0dDdQNHFPQUk0cDRFRnRmdDY5a016blNkNFJDM0tEcHVZK004VzlVeGN2UHZzeXhTK0xTR3FnR0UyUzE4WkVYZG1STXpnMzVtOTUzaTI3S3ZsdktRVDBzVjNoQ0lvdWhVSEpnNFo2RlNNL044bkZlTHhYT3NaczNJdkIwd3hldE1XMURjdE1HNTQvU3F1cVhoTk0yblVYQ2VNUmg1a0FiZWNHbTJ3OGFXYW5zRXlrRHBoaFBIZWkrOUlneUpVelFKM0hVQVNkaDZNNVNaK3VmWGs2djhENnBTekYveGlJam9uVXk0Tk5IOXRxdytaL3QzcjcwdVdUWU9aOW5nSkVxYUYwNnRhazJaSGxXaEZCc2ZmUFNHTHUrc01zSUlXQTciLCJtYWMiOiIyZTIzODhiZWI0NzFmNzJlNTY1OTQ1MGRlOGQ2MzMxNTg3ZjY2Y2ZiZmNjZjZjODhmYmFmNzFkYWQzYzRhYzUxIiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+/**
+ * Tag-closer extension for CodeMirror.
+ *
+ * This extension adds an "autoCloseTags" option that can be set to
+ * either true to get the default behavior, or an object to further
+ * configure its behavior.
+ *
+ * These are supported options:
+ *
+ * `whenClosing` (default true)
+ *   Whether to autoclose when the '/' of a closing tag is typed.
+ * `whenOpening` (default true)
+ *   Whether to autoclose the tag when the final '>' of an opening
+ *   tag is typed.
+ * `dontCloseTags` (default is empty tags for HTML, none for XML)
+ *   An array of tag names that should not be autoclosed.
+ * `indentTags` (default is block tags for HTML, none for XML)
+ *   An array of tag names that should, when opened, cause a
+ *   blank line to be added inside the tag, and the blank line and
+ *   closing line to be indented.
+ *
+ * See demos/closetag.html for a usage example.
+ */
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"), require("../fold/xml-fold"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror", "../fold/xml-fold"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  CodeMirror.defineOption("autoCloseTags", false, function(cm, val, old) {
+    if (old != CodeMirror.Init && old)
+      cm.removeKeyMap("autoCloseTags");
+    if (!val) return;
+    var map = {name: "autoCloseTags"};
+    if (typeof val != "object" || val.whenClosing)
+      map["'/'"] = function(cm) { return autoCloseSlash(cm); };
+    if (typeof val != "object" || val.whenOpening)
+      map["'>'"] = function(cm) { return autoCloseGT(cm); };
+    cm.addKeyMap(map);
+  });
+
+  var htmlDontClose = ["area", "base", "br", "col", "command", "embed", "hr", "img", "input", "keygen", "link", "meta", "param",
+                       "source", "track", "wbr"];
+  var htmlIndent = ["applet", "blockquote", "body", "button", "div", "dl", "fieldset", "form", "frameset", "h1", "h2", "h3", "h4",
+                    "h5", "h6", "head", "html", "iframe", "layer", "legend", "object", "ol", "p", "select", "table", "ul"];
+
+  function autoCloseGT(cm) {
+    if (cm.getOption("disableInput")) return CodeMirror.Pass;
+    var ranges = cm.listSelections(), replacements = [];
+    var opt = cm.getOption("autoCloseTags");
+    for (var i = 0; i < ranges.length; i++) {
+      if (!ranges[i].empty()) return CodeMirror.Pass;
+      var pos = ranges[i].head, tok = cm.getTokenAt(pos);
+      var inner = CodeMirror.innerMode(cm.getMode(), tok.state), state = inner.state;
+      if (inner.mode.name != "xml" || !state.tagName) return CodeMirror.Pass;
+
+      var html = inner.mode.configuration == "html";
+      var dontCloseTags = (typeof opt == "object" && opt.dontCloseTags) || (html && htmlDontClose);
+      var indentTags = (typeof opt == "object" && opt.indentTags) || (html && htmlIndent);
+
+      var tagName = state.tagName;
+      if (tok.end > pos.ch) tagName = tagName.slice(0, tagName.length - tok.end + pos.ch);
+      var lowerTagName = tagName.toLowerCase();
+      // Don't process the '>' at the end of an end-tag or self-closing tag
+      if (!tagName ||
+          tok.type == "string" && (tok.end != pos.ch || !/[\"\']/.test(tok.string.charAt(tok.string.length - 1)) || tok.string.length == 1) ||
+          tok.type == "tag" && state.type == "closeTag" ||
+          tok.string.indexOf("/") == (tok.string.length - 1) || // match something like <someTagName />
+          dontCloseTags && indexOf(dontCloseTags, lowerTagName) > -1 ||
+          closingTagExists(cm, tagName, pos, state, true))
+        return CodeMirror.Pass;
+
+      var indent = indentTags && indexOf(indentTags, lowerTagName) > -1;
+      replacements[i] = {indent: indent,
+                         text: ">" + (indent ? "\n\n" : "") + "</" + tagName + ">",
+                         newPos: indent ? CodeMirror.Pos(pos.line + 1, 0) : CodeMirror.Pos(pos.line, pos.ch + 1)};
+    }
+
+    var dontIndentOnAutoClose = (typeof opt == "object" && opt.dontIndentOnAutoClose);
+    for (var i = ranges.length - 1; i >= 0; i--) {
+      var info = replacements[i];
+      cm.replaceRange(info.text, ranges[i].head, ranges[i].anchor, "+insert");
+      var sel = cm.listSelections().slice(0);
+      sel[i] = {head: info.newPos, anchor: info.newPos};
+      cm.setSelections(sel);
+      if (!dontIndentOnAutoClose && info.indent) {
+        cm.indentLine(info.newPos.line, null, true);
+        cm.indentLine(info.newPos.line + 1, null, true);
+      }
+    }
+  }
+
+  function autoCloseCurrent(cm, typingSlash) {
+    var ranges = cm.listSelections(), replacements = [];
+    var head = typingSlash ? "/" : "</";
+    var opt = cm.getOption("autoCloseTags");
+    var dontIndentOnAutoClose = (typeof opt == "object" && opt.dontIndentOnSlash);
+    for (var i = 0; i < ranges.length; i++) {
+      if (!ranges[i].empty()) return CodeMirror.Pass;
+      var pos = ranges[i].head, tok = cm.getTokenAt(pos);
+      var inner = CodeMirror.innerMode(cm.getMode(), tok.state), state = inner.state;
+      if (typingSlash && (tok.type == "string" || tok.string.charAt(0) != "<" ||
+                          tok.start != pos.ch - 1))
+        return CodeMirror.Pass;
+      // Kludge to get around the fact that we are not in XML mode
+      // when completing in JS/CSS snippet in htmlmixed mode. Does not
+      // work for other XML embedded languages (there is no general
+      // way to go from a mixed mode to its current XML state).
+      var replacement;
+      if (inner.mode.name != "xml") {
+        if (cm.getMode().name == "htmlmixed" && inner.mode.name == "javascript")
+          replacement = head + "script";
+        else if (cm.getMode().name == "htmlmixed" && inner.mode.name == "css")
+          replacement = head + "style";
+        else
+          return CodeMirror.Pass;
+      } else {
+        if (!state.context || !state.context.tagName ||
+            closingTagExists(cm, state.context.tagName, pos, state))
+          return CodeMirror.Pass;
+        replacement = head + state.context.tagName;
+      }
+      if (cm.getLine(pos.line).charAt(tok.end) != ">") replacement += ">";
+      replacements[i] = replacement;
+    }
+    cm.replaceSelections(replacements);
+    ranges = cm.listSelections();
+    if (!dontIndentOnAutoClose) {
+        for (var i = 0; i < ranges.length; i++)
+            if (i == ranges.length - 1 || ranges[i].head.line < ranges[i + 1].head.line)
+                cm.indentLine(ranges[i].head.line);
+    }
+  }
+
+  function autoCloseSlash(cm) {
+    if (cm.getOption("disableInput")) return CodeMirror.Pass;
+    return autoCloseCurrent(cm, true);
+  }
+
+  CodeMirror.commands.closeTag = function(cm) { return autoCloseCurrent(cm); };
+
+  function indexOf(collection, elt) {
+    if (collection.indexOf) return collection.indexOf(elt);
+    for (var i = 0, e = collection.length; i < e; ++i)
+      if (collection[i] == elt) return i;
+    return -1;
+  }
+
+  // If xml-fold is loaded, we use its functionality to try and verify
+  // whether a given tag is actually unclosed.
+  function closingTagExists(cm, tagName, pos, state, newTag) {
+    if (!CodeMirror.scanForClosingTag) return false;
+    var end = Math.min(cm.lastLine() + 1, pos.line + 500);
+    var nextClose = CodeMirror.scanForClosingTag(cm, pos, null, end);
+    if (!nextClose || nextClose.tag != tagName) return false;
+    var cx = state.context;
+    // If the immediate wrapping context contains onCx instances of
+    // the same tag, a closing tag only exists if there are at least
+    // that many closing tags of that type following.
+    for (var onCx = newTag ? 1 : 0; cx && cx.tagName == tagName; cx = cx.prev) ++onCx;
+    pos = nextClose.to;
+    for (var i = 1; i < onCx; i++) {
+      var next = CodeMirror.scanForClosingTag(cm, pos, null, end);
+      if (!next || next.tag != tagName) return false;
+      pos = next.to;
+    }
+    return true;
+  }
+});

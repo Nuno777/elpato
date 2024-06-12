@@ -1,1 +1,32 @@
-ENCRYPTED::eyJpdiI6IlUyK0tWTDlWNWVzYUtmVVZKVTUvd3c9PSIsInZhbHVlIjoiSWRRRGQveWF5MEZPMlV0dHdLbHF6dDhLclZ5Z3VYV2JyZDAwWDFVMGxZTDFSWklRZUoxNWgrKzBOVTEvU3dvMlNTQ2hZeVkyQkxIRERiVjhtTFV3VU9PZFg2blhiYTRPZVVUTlI1OFFpYVdwdDcrSjc1YnJTekJqa0dIYzRZTGlOL0hZRC9Ed2pUY3hDZ08vTDQvSDdnRDRsVzViKzhmbG0wSUUwS1gxeDlDemRFZVU2bHBsV1JWYUxJUGNybVROOGhvMUx4ZVN3NHZQbWxLcnhWU2N6czJ0MmRNNUZjR3FPeUlRR2ZXZHM2V1BxS2tRakZLWmdMRjJlSU45ZkVmOVZBeldzYlJFZW5qczlqM0hoRFNWMVpOZEwrQWpvZVlzdFJxdlVDZWFXQ3BrcEdIcmJTd2VkQ1hURHdwOWxZMm90UFhtNkdIQUN6NDhVaThxRFJRZ25LdDFzTDFvTjhzekVJTW52cDJTR0ZuVmpSVFZlMTA0elVFamVkbGZvU2Vyc2d6TWlDTks3T25JWHlMYytjTlBvS3U3UGtQUnZ4R1JnNTIveEhZMk0zK2ZPTzZMY3UvQll6Q25ESXpKc2pyRmxQOW0rNUhIbVJpem1NTnExaHd3NXV5STN6UkIyTTEyem1POXBCTzlwcjJFa0lMNVF1TGl1ZWxjdXZjRGxDNU02S3BXeTBvWFB3cyswVW1hM0dzdGlFOFpmZjdEakhVYVNYbVRvaHFZRnZRMGFiaG5aUzRiSU1aOWlRckhiZ0l4cnNVcDRsSUgwSUNraG1pQXc2M3dhTFBMYlpqdzZ0VkxMc0VQc2tnb0s0NnBNdU91WEFPMU9walN0cEIvYTVzaGY3SXdBNHJZMEw4NjRjaWZ1ZlhLMURLZElMZGNMN2xDbEJyOGlIODRueXo3OEdtWW1pTzA2L2FicDJNeFRGVkc1YWlIWlBoRDdUM1UwVlU0MEMzUkRUemlpN0ZTOTUrVXpEbWZzRVplc0xYUTRObVdrM1dsc05ybmdxTTNYYVk1ejBBUmtLWU9Va25DcHY1UUJkK092OGFDVktvYUdYcFhQYVJzTW9CSzFmSnpFMFl2cWRBYkJKeno5OVdSK2dkYmlSNm5MWHNZZ2pRZ2NFdWY1eGZ2N3VNaXZBODd1ZUpYZEI0dmczM2JOajZsRFcySWpLVGN0OFU0NFMzOElFN0NaRGg3VzRKRXhaQ1dGNmw0T1lBdXA5RGZsWnlwNnNYRXl0QWQ0YWRtZ2lpUHZMQlZ3TGxRSXdDcXVNUitLamlmOUVHNWRXcE9LaG9XNnVxV2FaQVVodkVwZDlrQ2NtRHVUZUF6SllvQ0E5L2ZIOWJ5S0tWdGg5UmhkSVh3SkszdExWNXhsR3J4dnkwbmdiQXpHMUFIK2RuZ3NKS09zU29zK2RmNmdpajIxNHF0V1RiYU5YNjBlWGQ5Y003dTliL0tNbnRzdHVVWW9hQjFwZzNaRldMZGM2WTIwQmVzblhpVWNSa3pjcmlXVk4xWEdScWxWcVBUR1NUZ2l4VkRQanpmQ1M0SEE0WkdZZUZ0STZtWnhVRnMrWENlTmJmVEtYV0hYa0xDUWp1Q21KaE5TMDdUcXdnSUl0UktVd1RHMXN0aForZ3ZUaEhnQjZVTHQ5bmFyVS9veUNrbnh6U2xQSGVXdmx3N0tBRDJSY0R6SDhCUW5yMVFKc1ZGRWIzV2lqTEszYVdHbFYrTlRrVzlyT0lJMTAvcUdKcnNXcERza1RhS3JGNmFQUnAxem1iWjd6dC9vajJMNFYvSE1RZTZ1UXhkRjhINEJVbXp6NlFZQVdxRFdQTjRCRTkwSUtMNnpYY0hxTTYxYkhvWjVlRkNKZ1RCVTcrVGJvQWZtTGhCdWRlaUFDT0Rrdk10emJMVDJ1aURPTS8xenRhUUZMZk5VOS9VbzZZeUhzbjJIWDZab3pHRFNOM25kTTVyV1J6MmNmdURYRmNRTTVnUXJRZmpkMWNyVUljaEJ3PT0iLCJtYWMiOiJiMjE4NmIzZDkwZjFmNTRmODE0ZDYwYjNlNWIyMjJlNTk3YjQxMDA4YjdmNDg3ODVjMzJhZmJmNzYzYzMyYzA1IiwidGFnIjoiIn0=
+$(document).ready(function () {
+    $('#status').change(function () {
+        var selectedValue = $(this).val();
+        var backgroundColor;
+        var textColor;
+
+        switch (selectedValue) {
+            case 'FTID Created':
+                backgroundColor = '#85f36e';
+                textColor = 'black';
+                break;
+            case 'FTID Paid':
+                backgroundColor = '#bfddf3';
+                textColor = 'black';
+                break;
+            case 'FTID Dropped':
+                backgroundColor = '#cf9bcc';
+                textColor = 'black';
+                break;
+            case 'FTID Error':
+                backgroundColor = '#ff9e8e';
+                textColor = 'black';
+                break;
+            default:
+                backgroundColor = '#fff'; // Cor padrão
+                textColor = 'black'; // Cor padrão
+        }
+
+        $(this).css('background-color', backgroundColor);
+        $(this).css('color', textColor);
+    }).change(); // Este gatilho faz com que a função de mudança seja chamada imediatamente após a página ser carregada.
+});

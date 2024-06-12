@@ -1,1 +1,77 @@
-ENCRYPTED::eyJpdiI6Ii8xbVpKYmdnWUdjLzg0NXo2Z3ZYWnc9PSIsInZhbHVlIjoiOFFCa2JCVDJwUGFLS09HcmpZaEs0QlVrQzVLQTA4aGV4cmozTUltU3RkSWtxTTRZWHkxZFNqeFUyaDlmaXd4dXdQbkhnU2tKM29rdk9QN1pLZG8wUHZaZkl3YlpxZGkwdGp4WG5zbmFaTitRbC80MlA5b1YveFduQnp0NTdoUlZLMDdBTzdieENRZ1NyY3VwaDdGVHlvcUZZZEc1UXRlNVkzU3RXeElMckkwRyt6NitpelRlekJ5WXVBbDZaaDIzU3B6U1cvZ1UvV3djdFJMdTRFdExWcklIaVdURWk4eWZGMjcyZEVZRGQ5SVdqenArQ21QbEFacUk3cXAvdyt0ZVQzWldvMFE1aHBJZ0h4L0JreGtxT2w2TzVSSERoWnkrdGR1MGNIeWcxZ3BUb0M2NE1NWkFQbWZ6b2p0MnpVdC9IcE54Wk5DNWR4cDQyb3QwYkJJcFdZckxZTzM1clBBVmxoWFdjWHJJWkNjWFRVRlZYMkUvcDdjUXVUc3dDOGZybTBEN0xOekgwZ2dWVW1JdzZkUDZOSlAvcERJa2Y1Z2hBUW9FWVJRZGdMeHNIdGNQTkgrR1NBZmdXT21CSWhSc20rUzV5RExiSDN6aFpsSFgvM0pQdmRNaGNvQWQ0dlNoeHRIZC9kT2N1aERnTEtGdy8xbnJMaHV0WlFxWS9PZVY2ekdNVS9QczFTNUUyTk4ya215UVgxOG9kd0h3dkMrdVE0OXBJNGo1K3VQVXJqYzl6QlRwNTRxVHBQYkgyOHhsOTFIa0svQmZwcUNqZ1hpbWRKWWdRWDllaFhvUC9nL2FFWHVkV2NsUEJlZzU2TDkrMDQ4TE4xMU9yNEowSVdYamRlRy9hRlR0TURnZDhpZlJQWkdBUndoTHZTaEFzNGNRemRUNzVPWmp5TW1vV0twa0dFTVpuLzlkU1o0djlVRk9yT0RVOGpRaUtPNDc4WEhzN0MzTENCbEt5ZGg0a2Y4d0RXSG1tcVlJTGZ0bFMxa1RDUHdrTU5SMmVTNkE3MjJWVzlmdzFPV2xaYVo4RXV3WmQ0K0U3L3BoazdISWluN3I4ZFRONjR1VGlsZGxwY3hIUEFPaWlvWlEzSE1OMHlVTE1rM2VTVWhaMHM4WVVMS1dCdTRwdVgrSTVlcC94OVZsZldkT2pEdzBXZWRkR1RoOHFOVUtnOVQrZUVBK1ovZFpqOG45ODlra0daejRJeEpvaEVlZDlNQmZoVWZZaEc2dG0wMi9lOHRFdDlwM21LSmlxMU5veURzZkF4KzhlVkpwYmQ5czdHK1d5czZQZFNOQVI0V0htUXlEdlJ5cHAyNW5MbVJMQ215NXRRZ2hMRWhKUFZNekZSMDRQQ3FtYnMwSmhva3RudlEvN2FpcXJBc3lsOE5TRUd2dTZLUlNmM1B1eWdERXdUcGJQOWZmNFUvWmJpL25DRkFjNWdxNm80K0dwenp4aGE0N1ZqL25DZy8vQ0xqZzJrd096TnpPNDVaTkQyMFFGRUx4KzkzVnVUWHJsZitDblBQaUt3ZE1lc1d4dEUrdWRlTnAvcDcxa1ZNVHF1dlpPZTJWZjRtV1FmOFBrYnhXZTcrZC8rQnJDMkxWbjdjaDArR1psekZUbGhKanBXTitxcDNYUExneURTaGVMRG95b3ZRSmVrWkJXUkwwMXdDVTFBMnRiS1h3dkZTcEszVDZyemczVjhDOE83TFZoYjNqbmprNXluenVoc3FUbENLd2JMUW1JTERKR2w4MG04ZVNqMWhzTXIrdThmbVBXejBGTkozUGR1SjdTWDF6OGcyTUhaSStKT0N3L0h2aVVSWG80MUx6TGV4dXhjczNHZDRMMkhvRS8vNlFTdTJJaHVVMnVucWhScUc4alpkYmRHc1V3TXprQlFwQmxTTkJZL0tIWTczMFBzcDFsZ29ENkJMNS9VSndVaHhCbjBJZytFYWJqR0xMYWI3azZpUVUwNjRJMHpHaVlDdG5JV1ZQOWV0Rytzc3J6eFUzQjJSUk96d1VlTVFWNTlLY1FBWk4xTjJ0aC85ZHFQdWhrbGdZeU9qdmZjOUVPRnRTRTdweURUbTBENlYvU0lkeDBsSGZET0FPeDA1dlJzdGJnUTc1QzFnZzlWdTA3eGxxWDRDbTNuOXBIMG9SNjVkWENnb3hvVy92b3ZaN3l1UC9zenBsOEV6SjVWYmJxUTkvS21LWVFvOXhtSTJrL05mN3liT2ZWRXRQOUxvUTJOdkhOVDQraEZOS1hVMytvSmpiaUJLM0JPR0xHT25jYXprdEIyd2VpMkVQQmpwQ2FjVklheDVkYVlzYncxUVBWVXdUMDBhcytUZWtDYnRZdFU3ZjNpOVVhOEJvbXN2bnk1Yy84MmNTRFY0MnBRNXUxTnByclV2elJHMkVDSEZ1SFFIbkxqN0pONHVNdkN4NS9ycGpjbXE4TVRBYUVJdzdoZHo5L1c0ajdHS3dJMnZ3ZWdWSmNnNm8ydWxKMmFtSGIwUytvZVJnVnNVMitjY2MxYmhvb2YyY2hDcHNuYVYyYXBuRE1TRjRRZlVhZ09CYnpTTkhhR0ZSLzVtdEpXd2Q2YktyUXQzQnFZK2NlTU0wblB4WUdGaW5ud2QvSWtVdWVWNjQyS1Vkc0VVUk9OZEhpdjFEN2g3OTFoUkxRblBKLzJaVzUwdHMrMTNtNS9oRFVtaFJxVGROa0IwSTlBVlZNWjF5SUNqLzEvWXd4cnNVS241ZUd0NWtqU2pHLzRrbjBqV2JiTUtDR0JMSlpZa2IwYnJZbGNpdlFVMUhEUndmak1MTjQyazZsdTkvVE9RZmNUVE5RWlg0Z3ErUmRCOFJiWDNpaEw2c1dPa2ErZk9pNTF5eDlnSHNLQkRUMWZzMitlalFLd09HcnBCVGQ4YXlMY01YaHA3TUVzc1RVM0UvaXpOekZITWVZZlJMa2dhWFFWMWdKS05zbE9aS1Z0YmtyYkY2Vjd6UUx4eVN3QjRuc2swSEpkaVkvTXZHWGpiSWlTWEt4ZmkwWEZVenowZDdnbVhxUFFBbDBueFpQMmJMTXJiUlJ5eUdaQU1ZSTcrU08yODhqejNNUTVaNEF5ckxnQkpEVzRBYkNPNmN4UUsvZ082ZmExRm04UVlQeDlpRWdKd3pvcE1RdFZld3hackRxbmViRkJ3QmNsVk1DVzR4UFZablJObU5GQVJDNXMwZ3dZODVaVVE4QndWVEtFSzZvMzNpbGl6RE5qclRrTlBQZWY2QW5PclFucWpaNit6eW1yQ1ZTdEw4bVhaUEJ5YUJLazI4L051RFpNalFHeXZwWUhiSXFtNHdVdHZXb2JQV1JNTkZtREtyUXlUamJUWE4wQjV5NVExR2JIWUhweVlSejkrTlIvNjRaUDdkdHNwbi85L1dONWZ6M3ZRWjFmazU1ek1xeERncDFKTkJtbnBIRHBRMXNNRVlvOU5vbzR1dXU4TjVOQ202dTBlSUJrMUVXN05iakNISTEwSVpEaUpoYTNXNW5UejlGaHJpYlVDdnpGRXhRODFXNkVFU0RLOXk2a1Q1TTBEb0lnRzZkRTltNmFncW5YZjIrd2hFMUpQUjFqYVdIZFYrbWZxRkQyeXVOUUhYUGxFS0ZQTWQ2QUpsU080RFhRaHVLdG5XK2NzVWRjazlNQllLVU5maXY2R2FaZGcveXBXWHZoc0JqZHN4SzZka0tDWWhNUnEzcVAzcWdZenpCWXZaZWZCV25TaVhXUXJVeVRlakZUS05zQ1YwVkhqandwNFZoRTlKdjRESDBWNWZlQVJMMzJmOGdmT0xCdFhiaGpMdDgvZitRaGVXYWI3MVJvOHZzbkdkMFJncnVkTFoyWUtKa0dDaU9YRDQyWHZwUUF0Nll4OVNIRjlWUEdDQU5tYU1acENDNjNEeEFpSEdsNk9XbDRlUUtYL2dXVDBueUZkQldHMDlSMHR0NDlTZGJ6eG5HY1VTS0JJSUVKNnVvR1VHTW13Y0s0d1k5ZVdwTTA3dU5tMmYzVVhiMjhRSzZnNTY5N0prN3ZNUGxyT1B3cmFsbXJZSnZsRlZ1WWphNWlxanpucnphVkJNcVIzaHFNZEVWSWIvNzdVSVdKSXZpUGk1eEhJb0J3MXh3MWRvVE1iL2J2a25OT25sVnYwajd3Z00vd1VXamdmVGcwYmxFdmNyYlJuYUlPUnpxSWpJb1FFd21xRFp4RWE2dkJQWXc1bXNabE5OeHZzOXNYYnl6Rm5yV0d4elZocTFlYWdkMGgwOWtTUkw2MVVGTmUyWlVIbVZmWWFEMWFHVWpWa0lWcDdtT2l5MWdwT1pRRk5KeUg0L0xYNnF4aFNiSWFlQXFLb1dTOVo1T1dqbzRTQ2IyL05nT1NlWU1LWG9VSHJCdzVTU1FVcmZHOVR4Mm9MbkR6S0xDNUdYUG1mUkhwczJORVZ3WUVYSjRvZTJ5UGNRYjQreUlBOFpTTzJ5bVpMT0NHU1FVNkRRbmM0bUJRdHNPQ0tjcEtKajhlQ3AvYUY5T3F3Q2RYWTR0V2VWR2VQZUFhRXd5dVJ5RHBubzVwdUQ3M2JFNHJDVUZ1RVdsU2dqVlJtVnlyUC9zaEtnN25qZWt4N2NVMENmYzY2QXk4VFFUMVVHUzhIQ0FiallPKzdKcVhodE5DaCtlTmdFaURTVTc1a0c0WkVmbVFsRVZxYjhFMXVmY0hoZWRXY3NYSzJBbXY1dDV4VUZoakhQVGlDU0NvWmphQ0I5SlJ2QmttdnQzMHdLS09UaUYvc2dhRldwbHdLU25QTUhuUVVidUNKVjNyaFZ1cWJ4SzRvSnVjUzcxRFJHamcwNWgwQ1d5NWNHRXBrcGlJeVpHNFF6QnJTUlZxNFpXdmFQeDEveFIzbHZiZldnbzFGNmszbnowMFRGRjIvN21OOHd3eVE1SlMxNzU2WE8rWndpd3htUk1oZVRLMlRUVzQ4RUtZakM3RDRSdWhjN1hCbngyckRkKy9LNXIrc2l4eGdvYlMxSXFod2o0aDB3QUpKVThpazd3WlB6SzRSeFVJK2NpYlpveUhxYVRqUTFneXZud3JDTkZad0xDUkd6Nkd4am4xc252VjZ0M0ltbnJmTDMrTnpPUUptMHkzM1V1OEFXL3Y1UCtkd1lYQmd1NUhaN3p3c2hIY1lnai9nc0xuNGJWUT09IiwibWFjIjoiNDk0NjAzYThlNTkwYjg5Njk1NmEwMmIyNTA4ODEwNjc0MzMxZTExMjRkM2IyZGEwMjJiMTgxOTQxNWJmNzhhNiIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function (mod) {
+  "use strict";
+  if (typeof exports === "object" && typeof module === "object") {// CommonJS
+    mod(require("../../lib/codemirror"),
+        require("../../addon/mode/overlay"),
+        require("../xml/xml"),
+        require("../javascript/javascript"),
+        require("../coffeescript/coffeescript"),
+        require("../css/css"),
+        require("../sass/sass"),
+        require("../stylus/stylus"),
+        require("../pug/pug"),
+        require("../handlebars/handlebars"));
+  } else if (typeof define === "function" && define.amd) { // AMD
+    define(["../../lib/codemirror",
+            "../../addon/mode/overlay",
+            "../xml/xml",
+            "../javascript/javascript",
+            "../coffeescript/coffeescript",
+            "../css/css",
+            "../sass/sass",
+            "../stylus/stylus",
+            "../pug/pug",
+            "../handlebars/handlebars"], mod);
+  } else { // Plain browser env
+    mod(CodeMirror);
+  }
+})(function (CodeMirror) {
+  var tagLanguages = {
+    script: [
+      ["lang", /coffee(script)?/, "coffeescript"],
+      ["type", /^(?:text|application)\/(?:x-)?coffee(?:script)?$/, "coffeescript"],
+      ["lang", /^babel$/, "javascript"],
+      ["type", /^text\/babel$/, "javascript"],
+      ["type", /^text\/ecmascript-\d+$/, "javascript"]
+    ],
+    style: [
+      ["lang", /^stylus$/i, "stylus"],
+      ["lang", /^sass$/i, "sass"],
+      ["lang", /^less$/i, "text/x-less"],
+      ["lang", /^scss$/i, "text/x-scss"],
+      ["type", /^(text\/)?(x-)?styl(us)?$/i, "stylus"],
+      ["type", /^text\/sass/i, "sass"],
+      ["type", /^(text\/)?(x-)?scss$/i, "text/x-scss"],
+      ["type", /^(text\/)?(x-)?less$/i, "text/x-less"]
+    ],
+    template: [
+      ["lang", /^vue-template$/i, "vue"],
+      ["lang", /^pug$/i, "pug"],
+      ["lang", /^handlebars$/i, "handlebars"],
+      ["type", /^(text\/)?(x-)?pug$/i, "pug"],
+      ["type", /^text\/x-handlebars-template$/i, "handlebars"],
+      [null, null, "vue-template"]
+    ]
+  };
+
+  CodeMirror.defineMode("vue-template", function (config, parserConfig) {
+    var mustacheOverlay = {
+      token: function (stream) {
+        if (stream.match(/^\{\{.*?\}\}/)) return "meta mustache";
+        while (stream.next() && !stream.match("{{", false)) {}
+        return null;
+      }
+    };
+    return CodeMirror.overlayMode(CodeMirror.getMode(config, parserConfig.backdrop || "text/html"), mustacheOverlay);
+  });
+
+  CodeMirror.defineMode("vue", function (config) {
+    return CodeMirror.getMode(config, {name: "htmlmixed", tags: tagLanguages});
+  }, "htmlmixed", "xml", "javascript", "coffeescript", "css", "sass", "stylus", "pug", "handlebars");
+
+  CodeMirror.defineMIME("script/x-vue", "vue");
+  CodeMirror.defineMIME("text/x-vue", "vue");
+});

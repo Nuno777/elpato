@@ -1,1 +1,152 @@
-ENCRYPTED::eyJpdiI6InByTFJXUklOaUsrblpmU2VyVVdqelE9PSIsInZhbHVlIjoiK1ZWOWRWdXR6OGtnc0I3Q1FTRTV6MUM4Y1FHYUhPSjFuTVlvYVZBV250V21iWmpuMkZTWUZLUTN6c3FjRmt4cWF0cTdnb2hqRjJiaU56KzBRcWFYODk0TXBiaDkrVTR6eUZFQjVadDNXS3djTEFncXFZdWZOT1Vlbk9pS0dhN0dMckJ2M29FZFhyOGJnRGpTV29nbHNza1FmUHEydnZOZFFkbjd5RUxXVDNGRWVudittOEdjL3NvQVdac1pHcElndzRhanpaa21KQmd6NzVFdXU5Sk5IRTBGdHlTUFJ3MURJNFh3czR6RnFjTkx4T3dyNUUwdDBiazhPbVFpTGdWa0VUTTBsNzN5Q1R1U21LMTBia0U3UUVzcmk0RkhGcm16cXR4VXFURjdzLzd6cG8xa1JYOE9UTVpNZ2xBOEVRR0FRejQ2czgrYjZvanhYalMzS1dJRUQxMFVSNUg2WUlnMXlDRTZGSDBvRFE1c0tIKzBBWmRPSzNFeS9GVHVvbUh3V0FLa0JaSTZhUENORVpqSU5oejVXYjFyMUEzcHlaT0hzR2tXWVlNL2JaK2UrNUNwZW90QVowQm5jcFprb0gvQ1IzakNsTURTejZ1SENrTVQrbmJmL3FSRmx4Z1o3T2lNUFJGUW9GTWgxMEd1a2tvYWFjc2U0TjUxSnhkQkhtditPMkt4bGN2WVhRcEMzZllBNU1PSjYzZDFSbXdDR004THNjL0FvR1hJNXlJdXdWOXV3TW1pdUdRLy9qYkYwYzNPR3E5V3dUbWh0ekNCMWNHNUtOcHRzcjc2MFRNN2o2N1ZGU2FISys4NTZzaFIwV2JaYk1tTWc4dWhRK1FxV2ZJKzg5c0wycU1jOUFuUUJ0ZEJSeGhLaUF0dUlnYy9GWWViSUZnNzVPYVlqMDdNUXFOSm1Nc045V0RYUEI3d0hrL3dGdWc3Vy83RmNsNThKU29TVWdlSjBJSUtyUGpSTi9TU0VFSXdxYUdMaGRZdFU3TXRCenZkb2JtbFZqYmpRbjd3UDlnVmlKQ0FDVXlSRTlBT3dXQjVnM0ZvVy9HNnRZNUU1YklsWGhkTDVwdU1mZ0pIVDVsKzRXc0JEQkpIdXlnYzRrL01mWEdjam1YKzFxcmM3c0RvMC9YbFNySU9Ec0NNTlo3N254MXVrQWI4UFRTQ2pQNzNtU3l1STFXRVdwekxxckc1WVNCNEwwbjBabHhGdllUZmh4RmxwR3JkMUdwRVRVOFBHZXA2RktTMDVJYjluZ3BPS1lOS2dDOHZ3M0VienZUTndFeEJHQko5OC83MmswQUQzUGh4ditReHRjWmYxQ294TEdSSXhZTHZrNEN0UDBNZjJqVWFCZGwzQXZneStQSGNseXRpVTlxTUNqMFlWRERPaG5zSmZTQll3MEZNbUp0TVlqVXFXK2ZGUzVZNk5UVVpJOVd5ZnhlcHF4aldpVi9qM0NvSXNEWU9RWmZCbVFLZElwdzFRcmYvallmWWxrdWlsUWlZOWNBUktnODdLNC9tTXgwQ2RkNnozaWt3OHNzRVBLWkZ1N045Wk15Vk1GUExEdFhVNnNmOG10UE44WjlmNDMyS3d0VWU2dE5IR2gwU3dqWVJEQzdNSS9PVSsrMUFNMUZFU0VFRHpGNmY2b3loeEZ1azZ4RGlLd0gvdWhWcGhQYWxUcDU4U0tSZEZqRUtna2xvRjJyNlRXR1JqUTZOS3RYSHI0R0Vjc2hjR2gxSkh3dzFWaDZVcHdJMkNsTXFNK1BxTnVnYWw3bmlxY1M3Nm9yYTUwK3BCckNCa0ZEQVhSTjRLSjlrYXVHNVkxWmNPdnRJbEJHT1JkbitWZ2lzVUR2Y1Y4dnJqT2lMaVpnN0tJRTlwQktodmRucFBCTXROblpaWHVJWmlnV0JDSDg1QndSMDVMbWdyWWhSTlowNm83M3RRY1pJb0lXK3hhOU1CRVhicWFXYUR1cXJiVFhtRU5aNzdHbGQ2aGEyR0RTemF0Nlh5RGk2bG9BK01IT1VMdnRzUUFsb2VXN2MrYjJ1RUV3SmJ2cS9kTXVwdkRNYVJlRDFuOXdtSzlyVSt3cGFOVjZnN0VlTXZGRjN1dkdSKzA4TE1kT2lRRmVyY2k1SVhtT1dXTHlsRWhVUWJobFBadUxoZmdSVk9MYlIyR0ZnRHkzMExMajBrakNJd3Y3SEF3ZXpsMVRxM0s2djB6MWJ4UDZrTlp5SUg2SnVnT3ZsdTR6S1hZMXord21ObnErRTVrdHZWRU5aZGpwaksweW1QY0RrM2hBSTRrNXYzcDlTQVNWalZXSXF5cU4rM0VhOHdaaExqOUh4ZW9XQlJBSFJhR3BIa0pQOEdLUXYzYnFrRnRHT1NTeGdvcjFrTHN6L2tNK1QrUCtlYzhpZDhGRlprTG01cnp3RnZ1eldyU3R4TkdhYysvQkVJK09oV045c2JFMkt1VzBxdW9ERElpR2owSmJkNHltT0tPQk9rTTlMTkJnM0pkYTVqU2hNZlhOSlMrTnJ0UVN4N2NHaW1ST0xjOG1INHBwVkdadGZWU3ZHcS8zRWFBUHR0NnpOR0ZQakc5eXZ2UVNwSmxIZ2UyVWcybWJxVVIvUnhQb2ozQzR0TGxja0tuaXdDTGk0ZnNGNkZEd0NLYlgrSk5VV3F0TUMwMDlPMWpuckNpSCt1VUU0TGhXTFk3NGJvalFra2VnWG1sdTh5SUdwcnc3NXFWOVFoc3I0cFNXakRlWkJEZlVvamt3ZEUwYmpJWHh3RHZ6dDdoYVd1cU53bmtRVzhqMmlaeTdqVVdQdU41TU1sZ0hDeTY0VnZpL050Vmg3TVZpOCt4MDBHem5lSEEwRGJDdXA3UEZiellkRnJmak1iQ0daOUdnTzMvbWFuTjE1eFdqSUJRUjhacWM3RWJsd0ZIQm96dXJ6YWNXK3lTMTZ3M1NPUEJlV0htTzZrMnNEZnJzWmJ2emdyVWp4N0x5c0lpYnJMTFh1VHZyQWtIaWEvaWk3amZiVk9KWWdSQWJ6cmtqREhsTVRMeVR0VGtTODluSFFJNkFZdXZiUkhGZjAwU3pSYzJMcys1ZEJiM1RsRnNJNHJCQi84Q2NlV0JML3dOa3NDZTNabGRPL2gzL1UwbjVnWE1YeXBKR2V0eVU5QnBSTG9LUEFUWGRhREcyME5hVXYrSUlSRVhwY1lVTS80TGNPZ2hOczY4c2tMWnV2Q1VYakZ4WnBzVHV1YnI3QmNCbm1WMVMvUVE3ZjFQcEhVQnN1VFRwY1RjWTRnaWREbHhBUHRJN2JMWE9qLzhiYzFkcExaZzdvWTNTTzVLM3h0V2QvOTNBdmpQSTJiWFRYeWdrTXpuNFMxbktnODFBQTJ3cVJXdnJ4eUt4V0w4YXJhODZvZHBNc2dDQnJ5WnJ5MzNaYUFTdzhVMnVuS2V2bmlPWmRPMm45ejVENElBdGFlckJjT2Zjem9WTnIyUERGckxIQnpxdkZCWndySjVGbEdzSGJFbXVYS051b05VNEJ3ZFpNWW5pZWlmdHJOcER3S2RGQS90WmowWGJ4ZUwxQjI4NHFVMXFqVGNubmpKaXBtNkx2dFJWZldyUHJIUUIvOXF1aEV2OFB2eXFDdEwrdWhua0RDZW5jNTlFNFFhZTUxNkpwU1lxdlB5dWJySEF6eHQvSnE2bE5BYzhuY25MM21hYVRkREp3SGhLeWFQTzgyZDByT2ZkS3k5bDh3Q3hHbkx0cnQrQnhyYlFnU1h4Wk92aFMwS1B5aUNraGl3WEs2bWJ4S0s4YTdLclN3c1RobmV4R1lyZWMrY0x0V0IwK0dYem9iYmRGblNJRzFZdTQvVUpGVkkySHF1dGVoeUpVWWN3d0NoanBkQ1VZUUVvWERBTlFyZWZySXJMbmhOYm1DK0t5UmRXUmZFNi9XOGZpUm9qeFp2MytpY0NsOWlmS1VZUkw2NTI1M2dtZGhTZHV6VVloOHpwRTZ4cWpURi81amx1L0c5ZWxjTm5kbjRJZjg5aEwxaXI2NlZWTXlRdXp4MkRuVXhNRE9sKzRpR3dsYUFWSm9EYUxaZ2lmQlRlVzFZWksrc0xlNGRoYkt0QVBYMlV5WWFPSDZEZnRqMkpBYXVoRmhXV3hVRTRHSHQrTndNbWxSaDc4TVAwdk83RnVEQ2t2Y2JsaHJjUWlHa0I4QVI0T3pvV0tvcmRRMEYzdDNsalQzMlBNa09na05NWFVoUytTa2sza2NEY1ZiUkRucjdBdFA5MFZZQng2emF2WHZHWEFsR21IYStQVEhjR0RvdUt1ZjNNcURWVjZlUW44UThuR29xeWNNem1yb1Ruc0w0SDhqUVRtQXcyVlFXM0JiMWRVZ0xWLzFKVUlvS3QzRmlhY1ZmRlhScndzU0R2ZzdPUlN4dlZLY0NHOFY4Nm53cGZwZjluU2VqU1dydndrTTlhSDFZN2pzVDhBSEwzQVRCVm1KWVYwamkyNWpKaEtNVHhkUnQ4MkZqRVBLd3dLMnhwbmVlTTM0TVJGVTk5SzZsNFR3RGJlY1o2M3hVZ2hSZzl5dzNQUG43dCtjQ2hKUDhmM0JOWDl2dHBCMGxoWmJqbW1xdmcxcTg1cGpGb3loVUhSaGZmaWhFQVRjTUlpNk80YnF3aHlKa0ZiN3RmdFdRR1RQaldDVkxDOTRnUGt5UjdaVENSN3RWekVzYVYvM0t6d0c2aHFWT1EzZWNqVFBzVTZnYXVBa0dXTWdPRUVaZW9UeDcwU3FJU3NIV3BIUWg5RXIyWmMxTFd6N1lxSXdsaDJIMVVTOEhrckpQOHhnWXVDdSt2WHVUYXF6QnVmSGlpaUg3NlZjaExWRFZ6czgzbVhkSGdqSHVrckxGbUR2amZPY2ZDS2pQZEJSeUlJak9OaUx4TXRid2RSTFRlYyt0c3N2MXZuNzdXWDVrQlQ3WjQvSEVZNVMzSVBsMWdvc0pFSnd0S0RRMjRvenVMUTRtc2hBZzJGKzA5THUxQ253d0NjdzZWVHFGYkUxNmNpVWJZT2tPMVRqanFKSWxxdWM2WlpBL0hjRFhodlMvNDByUzZCanM3SU02aTJTVmJOamowRnRYUlhIWGlXVzZ3VFVkVmdYMktRY1NRUjlpQXpJTWJxRmhqUlhEUzJyZGQ3WFNQOStQbXllcW5MVzRJb2ZTMUovSER5M2FIRFF4ay9iUnlSQmp4M2lzemVEcHlFdktGcGVNR2lkRC8wSTVyWkNCMFJ0NVNYa3dJTkxLY0NJckNHK01Ocjg2dW1ubXJrdHJ2SGFCWXJJeVFCL21CL1RvK09BT2Vua21oVXNadm00bG9EcnBLUmN0R0xTMUVlS0ptU3dQOEcyNndFYWVVd2lTYUNqU3NXM211VE05MFJkZnBuTzF1MkpMVGQxRWRRU0t6M0ZzSlRHMnkvRS94Vys2aXNTcWU5QlJZblRrMWNVN3k1RUptZGZZWThBMTVoZ1JFZ2FjTGpNUWVDbHBsQXRVTEszT3hwUjYxSUxRckorbnZpQjcxT3RGcUhYV09hV2ZlUTdaWGJEUVpPbFNDY1Q0OGV1K0ZCRFZka25tT3huMC9tMGdyZmpLUGovajhCQmJSbjZ5bHN2djFEUlZONDN5M0FNWTVlbXE5cElnNk5RY3FqU0M3N2FQdC9GbWRuMW1UT3Z0cTdjU2NuV2FXbzBITFBsSG5iV1RDQ25QWVl5SmFKTDFWd2ZHZTVWajdnd3JQZ0NIeWk5MGp2bWNiU0tGcDk4djU3R2RXQ29jcXZSekx3SzdsS2FEV2kzRmFWeURuYzNYUGhRMzJqNW9WdjFrU09jcUF6bTJ5Mmx2L1pBNmlKbXpYOVlrOHBiT2JyY3pyNkx0NVI4aHR0NWRqZDJNcmhVeUp5ZFhleEVHZkc0SG92ZEhBZHR3ajZVYzd6Z01rVEp1cjNoWmlsMUhUZ3E2L1Vhd3B3SXlqS2gwUDJhTEZCejBKdjczRVN2UDhkRkZTdWZnTkxwWk5TblVnQU80cFZCRXl2a0xqL1pjd0ZxNnlhVWE0a3RkcENyLzMvWFlnVjJCclF2L1NxQW9wcVNGNXFXSEUxZFA0L29yUzdXL2FPL0Y1MVlUUEQxaHNaakh5SEs4ZXptK0prdXpITzc0SnY2QXNPNmZPZ3BUZGdaQmhFT3lQSEdZbGJJenRacDZxVXR5Sks1WmE3aUVHMXVSZXlZazN5bEpTS1JKU1ZDOFBGekJpbGcxb2dIVXFoNGVCdENvR3F3T0FDcDlYa3dvNFJBcDVmYnJVTjRYSjJSNXdHc25aa21RL0JJbU9IajRLQk9OTEFOSHdxcVUyVW1lWlZKK08xMld0cXB3Y3ZJbGdtaFVySURMN2tNb3A4ZHEyd0hmK0o3UWJKUkpOK1hhamRHUDNXVGIvZUNuR1VaZW16aTR2VzFTZzJMM2xKdkcxYlNpYWZHSy9HZ2FwTkV0UXNWNERSeFcvb05yM0dONS9lRTJGb1pId2dvdTlaTFF3MHQ2YmFsekV2ZnZJVlB2VFJqQmluUk1McEVCKzQvTWZrTE1GYjRlOUdwN3A0NmV1Z3gyK2ZUUXNYa2NXT1E2YzB1OFFkVkx2NGxlcEFMcDQrSko3SmcvTzBvZDJrVFlPMlUreDhoSDZXc1JlVHdxSkpSR1NWek8wcXJBVU9wVzVkZ0p5MnVQblRtQ2RyZ0Vpa2xlbzhWYzZ4K1pUcHJuKzZEWnFjdU9vOThtQnBaWTBWcmtzc1kvSjdqT3lGVlp6bEx5WkNvelo2ZEVVZm9rNllGK25NMW5sUEluckxhTmVnY2lxcDdYclZpTDgxc1dhd0dYWDIzc0VmbVJISW9WaDVYcmtIY050WjZqUlZrMFNsRElVcGRLc3UwNGJ0dXlJUEZSaWxweWUxNXdmR0ZyNE1FaTVGOEVodXpDdEVmeFU0Ykw4cEwzYnc4Ykt3MU1zS0N3KzVUYlRBbDFhTzJpWGU4NTFRYlVpMEludG1OZzk0TU5vTmREdzhkNnNNa28yTEhXSHpiemNIN3p1Q1o0M0VhMXhRRFBnUDM0RUY1bXlhZUg5ekxOcnJZZGZmbFJMR2NrS2VxZUN1SEtpaFpwU1drVWRNeDlwaGtHYVhqNmxYaS9NY01FcStvS1M3dDdCUlQ5ZXZwRVY3Skt3Sll0R1lrSlJxRGxGRTFWQVlvaFdpR2h6SGZPZnc4S0VpSGVZeFEwOXp1MkpLdVFRNitPUGFkeFFDYlA5UzZUcG83bEMrb2NvSktvNXRYVmpQSDVYOUR5TXdscVRDTU1YOWovQTVBZFJ6K05xSXdETmM4WU0vcmxDb0FrQ0N3dnZHbWRKQjVSWUZnUlNkQnRXaGRLMGt1NFBzMGliYWtGTGZqaG1GcktDOGFhbEFLUHdXTVJ5NTZoSXU4dW43K0FudnUzRkVVWExXRXEweTVtanlQc21vT2Nxc3JWWS9ObjV4WGFEcXhna090a0FlbjQ4bW9kRnRyWGdDZERST2tzV2U3V1QwcmRtVHhwSXNrUzdOQzhhOWxCTXRhK3phRDJmeVJteSsxWml3eXRKRk5jeHc1a29nK094RWRGUnpGL2taQXE3M0VzZDdQcVJUM3dRSXpUbjFISjdjWGJEUG82ajcyTERrTkp6REUyWTVKdGswRU5nc3cvSWtjSzJ1U3hSMFlIWDFJUUtsbGhnY2ZFU21Ec3hYZnhZUGJXS0xXdDdtemN1cFgvckZSQVdxdU5PcnBhVW1MdVduVkN4eXdxYmc5N0F1ZkRVUmVJOUg0ZVhhNXF1cGZ3RGNNT1kzd3hSUFlzMmRHRE02UmhOeDRSOFMvR3B2bEp5Y2RoVkNEdlhXME0zNnArVXhnNDVsRTh6QXpOeHNYUUFRUGNSK2hFMDdpc2k3cS8wY3VSNWdiRjViRUVwb2hYVDFPTW82MWw0WHBEMXExWjZQdTBGYjlBNFR1bDQ2d1JOOGJwSHFjVUF0RDNWL3QwaWwxcDVFSjlISkZRREpLWTErc3N4Nmp2YXl1VnFMOHF3V2lxMnhyYUVSY1R1K0lKc213bW4zTytLVzZNQ2RtQlByZjFJVEJQdlg4YkVDOUtmb0c2ZTBjcEdWVWk1TXNsVUxoSmo0VlJvTVA3NUF1eEtlZWJFVHRhc0huNk1zZFhjaU5nWUlqdzJZTS9BQTJYWkpvMnRqQzdNaW51ekdiMEh6L2xId2RLSVE2WU9jNmRVbmFIelduNUlGNVA4QUlCTkovQjZIVmxoM2ZyVHR0VFJycmlTd21pU2FHUWFQd3NVMWxITWcwMjkreS9PN05SUXlDcnE2OWxTSTl2UXhQZzdqbHZ5T2dkL1k1QXMzcW5QaFhyaFUySTVKaXdnRVFadktzT0haZEpJeTl1ZjZzSGNPdkV3SmU5VUdWd0h2SE50VGFtSVJPWm9zMGR6MUlZUGRtR3c3L2VjTGlxaE1vL2pEUmhvPSIsIm1hYyI6IjNhYzA0YTQwNDM5ZDM1Y2IyYTBjMWQ4MDBjNWQ2YzBiYmE3ODE1ZmYxMjNhMDk0ODY3ZWYzZWE3NTRhZDI4M2YiLCJ0YWciOiIifQ==
+document.addEventListener("DOMContentLoaded", function () {
+  var calendarEl = document.getElementById("calendar");
+  var year = new Date().getFullYear();
+  var month = new Date().getMonth() + 1;
+  function n(n) {
+    return n > 9 ? "" + n : "0" + n;
+  }
+  var month = n(month);
+
+  var calendar = new FullCalendar.Calendar(calendarEl, {
+    plugins: ["dayGrid"],
+    defaultView: "dayGridMonth",
+
+    eventRender: function (info) {
+      var ntoday = moment().format("YYYYMMDD");
+      var eventStart = moment(info.event.start).format("YYYYMMDD");
+      info.el.setAttribute("title", info.event.extendedProps.description);
+      info.el.setAttribute("data-toggle", "tooltip");
+      if (eventStart < ntoday) {
+        info.el.classList.add("fc-past-event");
+      } else if (eventStart == ntoday) {
+        info.el.classList.add("fc-current-event");
+      } else {
+        info.el.classList.add("fc-future-event");
+      }
+    },
+
+    events: [
+      {
+        title: "All Day Event",
+        description: "description for All Day Event",
+        start: year + "-" + month + "-01",
+      },
+      {
+        title: "First Day Event",
+        description: "description for First Day Event",
+        start: year + "-" + month + "-03",
+      },
+      {
+        title: "Second Day Event",
+        description: "description for Second Day Event",
+        start: year + "-" + month + "-05",
+      },
+      {
+        title: "Long Event",
+        description: "description for Long Event",
+        start: year + "-" + month + "-07",
+        end: year + "-" + month + "-10",
+      },
+      {
+        groupId: "999",
+        title: "Repeating Event",
+        description: "description for Repeating Event",
+        start: year + "-" + month + "-09T16:00:00",
+      },
+      {
+        groupId: "999",
+        title: "Repeating Event",
+        description: "description for Repeating Event",
+        start: year + "-" + month + "-16T16:00:00",
+        end: year + "-" + month + "-16T16:00:00",
+      },
+      {
+        title: "Conference",
+        description: "description for Conference",
+        start: year + "-" + month + "-11",
+        end: year + "-" + month + "-13",
+      },
+      {
+        title: "Meeting",
+        description: "description for Meeting",
+        start: year + "-" + month + "-12T10:30:00",
+        end: year + "-" + month + "-12T12:30:00",
+      },
+      {
+        title: "Lunch",
+        description: "description for Lunch",
+        start: year + "-" + month + "-12T12:00:00",
+        end: year + "-" + month + "-12T12:00:00",
+      },
+      {
+        title: "Meeting",
+        description: "description for Meeting",
+        start: year + "-" + month + "-12T14:30:00",
+        end: year + "-" + month + "-12T14:30:00",
+      },
+      {
+        title: "Birthday Party",
+        description: "description for Birthday Party",
+        start: year + "-" + month + "-13T24:00:00",
+        end: year + "-" + month + "-13T24:00:00",
+      },
+      {
+        title: "Long Event",
+        description: "description for Long Event",
+        start: year + "-" + month + "-20",
+        end: year + "-" + month + "-23",
+      },
+      {
+        groupId: "999",
+        title: "Repeating Event",
+        description: "description for Repeating Event",
+        start: year + "-" + month + "-22T16:00:00",
+      },
+      {
+        title: "Conference",
+        description: "description for Conference",
+        start: year + "-" + month + "-24",
+        end: year + "-" + month + "-27",
+      },
+      {
+        title: "Meeting",
+        description: "description for Meeting",
+        start: year + "-" + month + "-26T10:30:00",
+        end: year + "-" + month + "-26T12:30:00",
+      },
+      {
+        title: "Lunch",
+        description: "description for Lunch",
+        start: year + "-" + month + "-26T12:00:00",
+        end: year + "-" + month + "-26T12:00:00",
+      },
+      {
+        title: "Meeting",
+        description: "description for Meeting",
+        start: year + "-" + month + "-26T14:30:00",
+        end: year + "-" + month + "-26T14:30:00",
+      },
+      {
+        title: "Click for Google",
+        description: "description for Click for Google",
+        url: "http://google.com/",
+        start: year + "-" + month + "-28",
+        end: year + "-" + month + "-28",
+      },
+      {
+        title: "Lunch",
+        description: "description for Lunch",
+        start: year + "-" + month + "-30T12:00:00",
+        end: year + "-" + month + "-31T12:00:00",
+      },
+      {
+        title: "Meeting",
+        description: "description for Meeting",
+        start: year + "-" + month + "-31T14:30:00",
+        end: year + "-" + month + "-31T14:30:00",
+      },
+    ],
+  });
+
+  calendar.render();
+});

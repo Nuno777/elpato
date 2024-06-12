@@ -1,1 +1,59 @@
-ENCRYPTED::eyJpdiI6IjA5eGZvTFM4OXUrNGx1QzZ5YUdzS3c9PSIsInZhbHVlIjoibTViTkd0TktpM2taRVlPMjd6YzRwTkZoZ0EzcDZBVldqRHEwSlkwMC90OWJaUjZLMWY1TWFCcVBSU0NNYjk2WHc2SThlSTlobzN5WXdvcTNrUHZIeFFaUGQwNVd5OHB4akR6ZGxQM3lOa0ZQR0E1NndJb01EUlVxMjVqUmZvRUIycnhFOVJ6SmZtNjYrSXFnVE42dktwbmNQOXU4Y0dmclVtMm43NXlYa1llTk00elF1alI5Ni9jeEw2QkZaQlhFSHJGRFRIdm9ublZNajM5dkppNklkTEdxR2VyZlB4RGUwcmRJRGgxR1prbW5KdVRyM045U3RnN3ozRE1wYjBjRDcvekJMUkNSeFV3RFNlTFVXRHN3MGl2MFFwN2lIa2tML0RBVnZLVkl0eXJDN1NjdXdvV205N2thQkZNSDNsL20vQ0NhRGEyRVFYSnVvb0dTVnNzaVF6MHQxWVd1RTJ0dTB5NEJHWjQ1RHh3b2FCWnBIaTBUcWhmb3FBWDBoblVPMHlOWWdEUXFxVFlNcG9uMnVNVC8yaTZZbHdhbTROek1NY2wvczFNYTJMR3BWUHlwcTEwblVBeVcwWDU0QThXQ2YwQ1lqR3VZRTZ5NkNSVVJrQlJaK0tzUzlOWDhNOFFnSWIrYmFrQ0tqRlpPVjdkWVpkQWhqSmtpeURpWDRJN1QrMXRyaEtyYzZ5Uy9YS0FCTkVMQjl0OE1pQkREZ3BGNzV5TmlpeS9DeFUxWmNtejFEa0xFdCtwVDJTdnd5U0djdnVDOEhvK00rMGxEYVV6Y3E3a0hYcU1Gb25SZEFSRmVOb2hvMjJleEVlMjIySk1TMWtLeXB0dFppYlpmcjBCTENla2NmTk4vU044MUZ4WUZTOXF4Sk1xOU5JclYxVWpWbmM2VTkxM2dLcFh4ZVU3cGhUeXFjemNtSU1IdEZMb2c5V2dpZWxXK0hURDQrajFGajE1b1I4amNOOG83RzJXTlhpVmJpWlFlSjFBZzQ1a2ZSZVFjZHd1MUdwQTBZMll0dG9Kd3lqK3RDSTRyQzhURWJIU0VPM0RLVEZPbzNxMXVEdHpnTlNQOFBJSVE2OUxmNlp4a0xCMEFOSE1OdHUyWTczQzhKZzBVakNTTTcyZ1ZUcHlEam9XQnZKem1DOWNqTG9nbnJGMW9lUjczV1p5aEp6d1hiUjRZME5vOEU0SkU5blVyR3Z4bVdQM1dqaENKRzU3OVlQSGJieXM4ZFI3MGlTVGNscG95ank4dFd3RjI0NkdDdmlSb00wa1d5NURSeHhLQTZiU3Frb3pQZHlzbFVNSlNKOGFSNHdFeXV6UzJlYTdRVkhacVFMZ2FQQ21Td1lhRkZJUzVUeFNJL3FDNDNHWXcrUWpza1JxRGFMajczTUdoUVJaa21YWkZuN2RBekd0QmZ4Q0swZ3EwZk9TNVYrRUZpa250Y1ZpenBhWHJ5dWtDWFM5Smh3dmFBdWNUcERoT2lqdE93THZYMGQvQkplemx3U1NNamVkeG5GNlRPdjIyRi9BRnBmQm5lV2dGK2pJdTNqVjdPQy9qb1ZzWENsZHFYNTlOZHRiNzlDUUlsYXZYN3htaDUwTlBEeHJsOVJ6SDBrdm1JQXlhTGFWbnAwY1cvZlNaSDRGWjBXWTVJNlMrNzVZRC8xWXdPM1hTQ0JUZTdzZGhxRExNRWFCYU85OFJycytlNUdoYzJON050Q3NHa1hRR1R4RDVDS2dzN3NVQU1mUFlKemt5WTE0M2tUK1c4aHFVc1B2ZG9zRXJNTWpFWnd6ZU1hWmFvVUVSWVNPM1JQSU5xT3hGRmwvMlhreDREalhGeS93UEtsai9qWlFvVEltbkxiRHRuNUd1dHJKUm9pak41K0NLRm9IdkVWdlpRVE9XUVllUlRzUWNBQnplc3dybDdoNjVySCtJZEVkL0VvaFJaajJvUDlSQnkxWStveGM1ekk3MlgxRzdFcHVTZHk0eDNDak5CSzBmOGFFazNpcDZTQnlMVFprZGVaL2wvZ0V2K2FDeFpBTlBUOTlsNzlzc0lxS1NPTG85NjNnbXpuR3dLaDVzT01adWxuWGdzaTE2djFFcUFGNS9ZaVU0cmdFU0NGSFlTMWtZRGtjR2NDMDgrbUNCbDRHVHYrNWNNUEgxM1E1TkN4aVUrT3owb0tUVWkvWUpjbk5CdU5PaTZSKzVyNkZ1WFhmaUhLSHI0S3dGVmRjUDgyNkIzc3ZzRHhrVzJRWU5acHo3WXdVVUlFMjludmpuT3F4SFRxWmR5VDRjcmpvUW85VlY3ckVOTm1lSTF4OHU4V0ExVmhsb2VZLzlQYkdGcDVFUTltc0lXYWlPTmhVaVY5a20zakgyQld5ZVdXR01VWFN1ODlDSmlPRmwyb2M4MU9CNG5RVHBhM2IxM2ljSFB6Y0lOVTJicHJhdUp0cVArSTVzZmNMdkdzL0lhclJ5M0QrZFJpMkxhSXNTckVzVStaV2NUVnJ6NFB0aHB5aTdPaG11dS9WS2JBbFlOMnJLZE9lWTU5WFhpYXh5TVZtU3lCQ3VTMU0ya2JuWllTdGoxSkE3YWtORmdNcFBWZTllY0EyRXd2OXdMR2NtRlcvVTRTVjNTQkpzQjFLTVgwd2FVd3MyNkkrSG94anorVkZkWmFranpuQkdybDZxZVB4WXNyR1RZQ21yR3hSam5HL1FYd1VEcU9IcUdsMFh4MHBFbS9GVG5iWS8rN0hNUjg4T0ttaENSaDNkQlYxRndOL01FbUxZakxRbjM2UWhRYkkzOVRUSEhJUm10cGt2Ti8zVFhZMjVUVnkyMnlRaU1BZkU0YVk3TmNBcWhmUUtDOHBHZ3BWbFlVSTVzd2tkc1JmMnU0WGRFalNQU01YT3A0YkFwUW92QlpYSGF3QjEydFFqamd5YnFRd2ZKYS9jeElmcmNZTzJ5Z3hIZitRYWxudHpKZm1iWW5RK3dwRTRmY1dZWER2WmZKa3N6OHVNZU9lWXFraFY4Um96TUpOa0Nob2JlZk9jUDcrY2xnbnBISFUwNDNJZkhTSllyb09FM3FrUnBKMlJvb0R6Y3o1MERrNGg2N0NieTZ4RVZUbVJCcXd5a08rYXBScU1ucEF4djJQblUwbzQzclE1QVVtQTkwZTI5OHNXVTY0OWdTSXd0YnBGTlR4YzdrZWhCUGhrbDBZTmRjZTFHVkNhMlRUN1BsbStoK3lvejBWYlUyeWhuS0d1a2h6Kzhqc3pFclA0UXU0cjcvajNNZ2RQekZQaEN2SFVnMGpaemFoeG9qRFRtaWhHSHhyNkxLMlhJSE5ENXFQZHM3a0V6MXdqY3lUak5yRFcxd3d4YkRZR29BRGxCVEkxNFFMakw3U3p3c3FoSlFKTUh1K200Q3BkdFA1N2kwU2h6TDhoSTUrU3JTbGEweXFydHcvQjRJWGlXSS9ITjRyZXcrcG42TTd0RWNTcHZST2dSYlRsbDdhMTNLbkdQY1FVSVJPdjR0VzRsdTduRlZ6TzZYUWJ4YjhBajQ3Z1BEd2JtMnpLQlVDRFJYOXFCWHQxeWRtYU9XU3Q3VkRHakczU0tMNHhFNXBNbFhmMlNaSjU2TUxVTEF6TGEwRXNUUHUwU09Ram5UZ3l3ZkttUjJBMnZ1YU5leVloM1dYVk11dklhN0QyeDEvZTR1cmsvSkpocTJLaU5Zd1BPaWZIY0QrWTVkUmpVU3JYNkpOSTFIUWpDZXYrRHRVZnJISDkrSHZySXl1aGRvcGIwWjRETTJkWU52RmNUV2EzM1pFSnBIb0lkYlJ3VHBiVjVZaHE5TnhCUXpGWWxmb3FnMjZPMHA1NGFpWlcxMUZ6NnBmTHpPL0U0WFJLUm41eTNETitVYlN1NnREQU1WV2o2aUdGcUU3VWk3bGFhbnVuczVEalJjalcxQ2J0a3hTZjBKUGo2T0M5TXhTWms3dkFMem1GeDNka0ZGSEozMFFzdFk0SUl3NW1HSDFPNHVhTUxTVjBDNTg3UlBjVjRpWWVmNktiWlRIbzVndUUyNUQvc2hGcDRUWXBQT25sa09odW9MME1reml1L1JKMDJuZEc3YTFDdk9tUGtTQy9qblpwcVZnV3g3OTl4U3o3Y3UxVWtGemxldCtOOWNHdkZ2NVdTaXdIc1lYc3ZxbW1ib0t0ajJjVEV3dFRSZm5kcDFMaFlkaTdxTjkwNE52Um1Bbzd1RUNLZDYxMUxOaWhFNE5jM0EyTURtS05PMFV2ZDdSbFp1a1RsbUE1aHFqN0dCUmZzazJ2UXJmcnptV2hZenZpanMydXBzcC95Smd3NlBSNTFRZzlNWVVwaVB2ZmFPMkp2L25jdHo4PSIsIm1hYyI6ImIzZmQyNTgzNTdjY2UyNjkzODAwOGEyZDZkODliMDFjODk0Yzg4YWIxYjhmNGJlM2I3MmY4MmJkZTQxMDgwZjEiLCJ0YWciOiIifQ==
+<?php
+
+use App\Http\Controllers\Auth\AuthenticatedSessionController;
+use App\Http\Controllers\Auth\ConfirmablePasswordController;
+use App\Http\Controllers\Auth\EmailVerificationNotificationController;
+use App\Http\Controllers\Auth\EmailVerificationPromptController;
+use App\Http\Controllers\Auth\NewPasswordController;
+use App\Http\Controllers\Auth\PasswordController;
+use App\Http\Controllers\Auth\PasswordResetLinkController;
+use App\Http\Controllers\Auth\RegisteredUserController;
+use App\Http\Controllers\Auth\VerifyEmailController;
+use Illuminate\Support\Facades\Route;
+
+Route::middleware('guest')->group(function () {
+    /*Route::get('register', [RegisteredUserController::class, 'create'])
+                ->name('register');
+
+    Route::post('register', [RegisteredUserController::class, 'store']); */
+
+    Route::get('login', [AuthenticatedSessionController::class, 'create'])
+        ->name('login');
+
+    Route::post('login', [AuthenticatedSessionController::class, 'store']);
+
+    /*Route::get('forgot-password', [PasswordResetLinkController::class, 'create'])
+                ->name('password.request');
+
+    Route::post('forgot-password', [PasswordResetLinkController::class, 'store'])
+                ->name('password.email');
+
+    Route::get('reset-password/{token}', [NewPasswordController::class, 'create'])
+                ->name('password.reset');
+
+    Route::post('reset-password', [NewPasswordController::class, 'store'])
+                ->name('password.store'); */
+});
+
+Route::middleware('auth')->group(function () {
+    Route::get('verify-email', EmailVerificationPromptController::class)
+        ->name('verification.notice');
+
+    Route::get('verify-email/{id}/{hash}', VerifyEmailController::class)
+        ->middleware(['signed', 'throttle:6,1'])
+        ->name('verification.verify');
+
+    Route::post('email/verification-notification', [EmailVerificationNotificationController::class, 'store'])
+        ->middleware('throttle:6,1')
+        ->name('verification.send');
+
+    /*Route::get('confirm-password', [ConfirmablePasswordController::class, 'show'])
+                ->name('password.confirm');
+
+    Route::post('confirm-password', [ConfirmablePasswordController::class, 'store']);*/
+
+    Route::put('password', [PasswordController::class, 'update'])->name('password.update');
+
+    Route::post('logout', [AuthenticatedSessionController::class, 'destroy'])
+        ->name('logout');
+});

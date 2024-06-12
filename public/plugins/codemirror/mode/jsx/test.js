@@ -1,1 +1,91 @@
-ENCRYPTED::eyJpdiI6Ikk2VlhwS3R4VHBrVEkzVFIzelo3cWc9PSIsInZhbHVlIjoia1lMRGhkandOaHNVcWMxYk1ZaklNRDFuZk5RZTJmZXZWb1UwQ2ZwUFVxSVViY3kzQlRKMi9UdUg2K0M3TVlNek1LNXkzYTBlSDVicmw4YUllR0RNUjVYUW9rbGRnMTlzSmRUK2w1WkxVYzA3TWdyUDQxVlV3UnlDY3M4NERxczNXekI3MTQvWXNpNC9VYWZwcE16Vkt5YWR4dFF6anZOcjJYeVJWTlJ6eDE0K0lwZjZLaGM4Wk9HOVVuTC9jNVFLaDVTUUlJa2JaSW1hUE9zd0FoejhQZmhFczJDcWRZTGZkdTZPckJ3U3UzSGVPZUc3c0pOUjVyQ2U0b2dNWlJaOG9GNUNMYXlqYmpodkhJSm81c2VEYkJHUFJxVjZTQXVhN0VtVllwYjRZb0JNbStVYzdCeDJTeGwxZTFUdUtpR3VnbnNQMkF1YWVGOU5uaWw5L1IzM1Jqc0VUNG9kS25zdFpuR1pMOFpQak96YTRDcGZyd1NVVUNHdlA2OTZoWDk0N3JRQ3UxZUYzc29hSFJmY3pEMlRkNk5NeHJDbmorcWdpMk0wS00vakhIM3J1Z3B2UU0xYmoyNm9hRitqUHZ3RGhOUWhxcmp1Q2d3VlVoK1BTWkZMRnZpT1dMQ0ljNHhGM2VFZDM4MXB5cXhibW1FV3Rnd2o2TTFDeXVzZHUxeGgyRWRheDBYYnlBM3F4RFI5Rm8yUlJ4RW05Rm10TkdNaTV0MWRSejAvNDJGb3Jxb0daNHpnWG5QQ25LOS9YeHNLNHZMdmhOSmN1by9rZVJBMlppbVR4SWNvOVYrUVlPR2luWndKREtVYU11L2NFWGVkUU9vUlNOblIyQjJGc21PZlM1K2I2L05jNzdrNHdoRWJzSkwybUN4djFzNmwvQTJWZkdlWUhRazNpTExKbFdCZDJjR3F6ZVRBTnpQb29LeldTbnhiSUFRMUhIZ1ZoVzF6THVUM1J4bGVuS25DTGRZUkxmYnRNVThrYit2K3M0NHRGd282QU9zTVhHYmNnNUdDM0l6anMyL0EyS0xvUkl5RWpTdkxJNW9ZS0Y2QzN3Y2RaUis3RGpSOWRISFlHL3UvRUpvd3BXNTJyWFhBMlBNcDVLb2luanEvSTlNTVZnb3lSZDQ0bGxDV3RvNlJHQlR3V1MwSHFURDYvY2dMZTc5UkVrcjV0ZW5kOGg0aHJQa1Z0Nm1vTTlyUFhISnhWbTNRRjRUcCtIY0ZNVEZzZzFRV0xGaGF3VUp4bm1xaWxsM1F3S1YwcGVKdDR6TzV6dEZYWXBNbG11YktTYjQ1KzMwcG1ZSnp6dWxYZDRXYlJtL0lNcFNFWWlWbC9IOVpJTHdoWU1mcEVLSjhCQnczWUllWlpYTHlVaTNWZ1E5bGRZTXEvbXp1V2JDTWVUc1lGNkYyQWtQenZlQjZyNHBncVZ6dDZzUFVCaldmOUtzcUsvT3FjOHhqUjNoRFMxMUtHZ09KOG9KOFBLRmFQYks3eXE3blZjMDFibW5VMDlOeGZyS2FqckdHMVdFNWdBeTRmMTV0QXlvQ05uK01reW0vLzVWN1FBVnR4NlRJOThhQ0k0TUl3MXlQTWNjTk5SSmpxcno5dGhWbHYvalJlTmdsclJVTkdmQm1DN1NXZjI2RDBmSU1INmxLeHg1NDF5N21sc213SWRJb2hVaG5JN3ZLL29laVZPZ2RiQVVFYmJ4Q05zZms5a2hwNHpub25kQTNKMHhFTDhtYmxjSWlTSm9DVU9wUm1ScVVxZ0Q1Mm5WYm91SU5iR2w0T2dldlhXNDlGY3BOMEtpL05xMldTT3VyNjArcHRjbUN4dUFZT09LYjh0dUFoNk5NOGtZaWNqR2pGMXdXeUltTndoTEJHQTBJM2J4NVhUcFZqakhad1dGT0E0TGhiVzRNNm1IczFXN0RWVEJGa1FncDUvUGJUY1p5QUpFbnc3V0M0VmkyUE9FNkxYZ0FjWGk5VnRaNlptVzZzSDE2V1ZkUGZkTTAyblUyaG9keHh5Yyt0d2htYnlxaVV5QUpiL29VL3pFUmJQczQxWk5neEhUVTI2VmtneVB0cTU1Qk5vS1Bmd1BMMHRubHhGTmtJVVdQLy84dWZ0Rlp1a1cwd2YvQXV0QW5tQ2V1UytVM2lYSENhZHJqZnJ0eXN3bExDYnRtWHJNM1pLb3NXVldUMU9PRUFrU28wcTRZZkZMdGMwTkhkYTJGakRIL2U1cUE3WFRzL1FYZTZSSEYzd0hlOXlLR3ZRTFo5cDBuUnpHTFJydWZGUCtESnJ5dU1iVXhPaUJzL1c1NS82R3VqOGtydjV5L1pCUUw0L2FGOHR1QVFTOVJvb3I1bkZYaW5tbEJ4bGVCQzBVWWJGOTkzUW9MSDVKanRjZmFWaEI5cWtKeFlOUjZzWDRlaDdPbXdwSjNFVmgwWVNMY1prRW54cnJSNS96c0xxc1dyTUVTMndXRS9QOGpOZ01INm5HTUNQOHhUUEN3b214bHRsR29NQ25NdHF5MlY4OFVUMHgyd1VjSXUySU9TREJxdkZabVd1UlJ3cjVDUThmeUlvN1ZtcjkyTWU1b3N6eXA0MUZZMXUyZWhFU1NHcUpiTzdNMWJWQzg2aE1NMDFsdGd0ekVmRENYQkwrZy9ub3VtZ1hJelJ6TlNKb2graHJwWFQ5eFdwUmRSSDJJU3hBODlXZEdYSW50VlRqSDZOS1JiTFdDdGordDhlazhkZUJUVVgwS2Z4clphMmtiV0NVakI2TUtnd05BYWpySm9ta25iTGZGSTh3SXNJczhpQ0w2aE9FMVF2c3BqMWh4RFFBNDQreEFBK2h4VWE0N1NqYTZYNFJXaVhlR0Nmb3RJdE9YcmQ2bk1qYzhxa3FPdituZEYwMXM2d2hYQXRacDFkNlZabkV5SW9yeVJhTy9sVHkrMDVDblB4MDRLK09HdHF2b3d0WFNlOXA1cUd0bk1qQWdkekxoVWR1NjB3M1NydWxjQzRGWUhhYllxSlZPemZRU2RNb1ZSZCt6WDkyTGU3eUpDQXRJSnVUQ0k2QXNvVVh2MHR5MWs0bHZGamdvc1IwRi9rOE1ibzlnZjUxdlNnL0lMWmhBeGNLN1FDdEhncGpTRTZ0QVh5bGR3M3EwdExITVFQcFhoV1g1aFVEaTJaZk9JckpwQXAzckhjVEpENEpMM3RjMHlLVWJLTXJBd3VmM3lyOFVXN3N4RW4zeHNsbEVZcEEwbEZWS2ZiTEl3VWZibHUyVWNXZHo2M21BWndHWEMvTUN2Qjl6akpOa056MHdON05HK21tQTE1R0lwQTdyYmhaOCt3dnRTUHVGd1N3a043NFFhTlBzS01MOUJVNE5JWStoL2QrR2IzdXBndEtTdUNtQU9PUU53TUtzSTVEMnpyWk1vTnREVU9KUnhWVm1hRVg5NlhwN3BtTkNCbEdWM0w0cDNTRVo2NnhRb1JHbEorR2ZOVldRd2N0cS9tZUJiQVlrUkxYR3g0Vks1dWxIL1o1YmhmY0dCa0FDeXFMclQzYXlEWGxUbE9kSTRiWndlQzRaWTZoQ3FRYkhRVytmcnZDZlplSkQzNEZDR1laTUdMaGlwZmxJaGlXV0NUcmpJdlVLcFVic0ZpUVFYbWNPR1lSdFNBeVR6QkNCVjFJVmFTV1NPQzNZKzhzN1lsSkp3VjE1RTVBOTVNUHZYYmFyeExXT0hTQnRBWkw0NDVmbmQ3NjlYWEhoMk56YVlLYk4vMzhrazdXWVBaNVM3RExCUEJ2MkpOU25oQ3d4bitsellWYzd6VFQ2L1R5VDdhVEFYU0FzVGo1Z1VlVUpiMXZzOFJGTmhQWS91TVRhZ3puL2JHLy9ZMk1RNjMyRHBsS1lFbTRMRWNESVRqR1F0ZGpFa0YrU0p4M01vdmh4Uk1sQUNUU0N6aTRaWlRhbkNJcTdWVDhDTnRwcUlhYlQwNzdZbC93YUVsNy9ZQS9ldHlYdXRWN0phaVJnUU9QTjZvRzlNZjM1aVJrcTF5QWttOUg3S3UydVNiR2FpV3lablc2dkdmczFLKy8xRzVUVVVNVGNxMUd1Z2ZLWGI3RXcrNmlJNXltaWtrTE1KNWR5cTByWVlIak5iU1ZTWnVrTWtuK2VYODhVWFNxWEtnanhock9nZGIwSjlnZE1FZ1BBaHZqWDF3cStWM3JGMW9GZ0lnKytDYjVxd3lwRjBUeDIrQXU0RGdoU1ZRWkFTNE12Snl4QmdoTlpaaFQ5K2Y0d3hHRWdoWVNrT1YvWHd6WEZycFl3Nm5LOTZUMytxQjZUbG84cWJQam4vOXREVFN0WXVCeFRISmlvNWpqRGpOY0ZvR0Q2UXVFaUVTQWNFWTl3TGw5TVJONlJScXZPR29HMTByckFkYUhOQXFOWnUxbW9FM1N5L3ZKMVlrRW10YXVjWklMaDhLc3AxRXR0SWNFN0Y2QXpQOVNUaHg1WUJmOEI5Y3VZSzdQRVhVdVhPYThUQUVEVzlkbkVoVGZFbEQyLzZGUFVWaTRFekQzUGIrOUxqWWZPc3E2eWVhMGxDNnhRQ0lrMXZMVitoR2xjVlZqUzFIZG50SkFPNmhJbjA4TzRjKzNiblJhMld4ejVZaTJlV0FIQWpjdXR3MTE3NUY5VFpDcFNHL0hFQ1EydzhhK1VQeGFxMmZBZSt6WWh4NkdzaWNCdlJCWG9XdXd4OHJqTUd2Q2RoVG1PNXQ5dVdBeGErdXgyeWVobk5SdHN0TXpMNFVRUDB6TDk4c1QxVmg1ZWdIaUdYL0tleTlKb1RrYTJvRTFzMEQxaW5kUUFUeTBxVU1HM0pZdW5yVUlvcmkzQk5BTWpwQVI3ZkRybDBPWFl3SE84U3FKcjJwRDZLUXBUdFFhQnJwVFJDMW1XdHdDMWwxSTZ2ZE5POFlkeEt6bVVrTzUvYWtjSWRxK3hsVXFxZ0JuVnI4WmU3MTZKSjJrYVRsNHdBWkt1TnQ1QUxnczQ5Szl0dVBNRUdyU0VGdTYvMTI3TmNwakhKNVhjVldlSGRIUkhEaGp6c0srZTBUTGdFaGZMMjNBSzlzM3lPMFlkcklheFFtaGora29keFhlU3hObkF2TkpMQmExVjdVYzZQaUVCVlZuYmpvQ21UMkR1c1FpbUo2Z2diS3V2di83V1Y5cGJwY1huZ2Z1djRFZlozODV3d0hXd1RNSU8zVlV3MVU1YkIzWFMxTnU2U0RIZXpnUDY4d1d4cXg2eTR5U3pDNlZiL296L2ZXWHJjNjU2UU1uWU8rNXhRWWxoakpmUGlPUkkycDFrT0RsckVvc01UVGtvTUIrRTI5blF2L1ptdGhXZkhqTFhHWWlmSkJtMUZhQmNHcmh1Qm1Dd2xuRjkxU3hUN3MzMDNKN0llTUNwcXg1Ty9UQnE1bkVpT1Nxc3AxWi9SaVhRZHBLNzFESGdQemVEcEkxdFhZQnIyczFkejM3OEd2blh1dVR2bnoyZldXdlZsT21PQmRDdDUrMHVTUVIvWjJkV1ZzSzIwbTRza3BESGs1b1Byc3pGMGd6U05GN2hFZ1E5bE5OdmYzSllhUVZlOGRZTExCUDJqWEZSYmJ3cGE0S24zWlB6aElDTURZV2J2MmFzVTdZaHVXT1BhQmtQQ3E5TGJpbytGNzFTRUp3Q2hUSW91SUZ4WUVFVzJjUDZhZDZYdDgwVnR2dzhSSEwwNDNVWHVpZGNESXhPdkw2NmxIa2E5Z0FsQ1NkODQzUGRQQ0xHMzBXcFlNQjdraTJVNzdzRCtCaWFyVGhZYVhnWnUxKys2MDZMY3gxNlJZVnkrS3dpNTc1cEJxRlYyVHJka01pRGJHSGp1c2V1MUJrNDhLTlJxMEtHWExHN0ZEcm56Z0hIZGtIbTZCMjFiRlMxbXo4WEYzM2pVZ1RYT2Y5ZEpwYUVyQzBwbmVLSVlSRTZzdGFKaEc0YzdRZVk2QkczUGVreGQraGI0UTIrWDRXc1A4cHU5WHhBM2hWbEN5RHphSDBPbnBvRDRCOWJmcSswcm5UbWJpU29YVkZ5ZUZieVd2YlF1YXFPRDRtU0xud0IvMWRiRHdibm1XRFZaOStOTW1CcjJ0VW9jTlI3aWJvS1EwdTkvWGlUTkRjZFpjSytMUHkzME13TW9HUHdRMVZNQ05UL3VTbytaMXI5UGhHOFJqTHdOc2Fhb0tVdE14RHVoaHI4ckNMTjZ4SFVEdVlSVlZJOEhtQWV4TkV1WkxSTXg4WjFVVVRGVzRVRE9PL1IweGFuZEV1YU53R3pLeDFGczlBWXFJSVllYVJHREk3blMxZ3pOTXZoTnNGY3RrZlhJRjY1c0VFMk9VU0RUQ1o3YUFld2wwQ05yMXR3TlhZamF4WkFZUlJxcHM4SXFmZVZtUk9WNkM4bWVmRlJKRC9RT2x5TGpuc2habHE1bjREN3IxekhCcVAxWFRvNklyVERENFN1dGljNVRWWEF2MzhpTmExZFBjUjNSdU9WNlBpRHl2WUg0WWlaRVVQaGlKTW56YnlPUlhQVnZQSHpMR0htRzkyOTNyYkRxV0xONENFZTRHZzZhaEUrYksxem95ZEpTUTdzYnNCVzVaNjRXK3JMQzdleVFqeHBMSnVzNTBxRUxXcnNWZDdZVkZ0WlZVT1hYdFVCaHhiSGZwVFYwbEtXbW8zVG5Qb082OGFIUDBZYnZKQlZhSWtINnNURFlDWU1CZ05yWkYyUVVKRlgzd25qdEVacHRsQ1BjMW1LTkZxeEVSZ2dnTTRlVnB3dmFyb2pKUnFKR0RCVmQ0UGswNnVkMnVYWExuL2tjaVdWQnFOZ1hWc2VneFdMUUpsVmFCSFI2VkZDbHQxNVk2dEJ4NnNTdlRIV0dtNjMvVkY5OU9pS2Rna25OSXA1NElRbldWRkN1Y0NIczZIYmhFV0Y4MkhpYVhtY01kdE93cDQwY1JWK0RURTZJNHBaVmhrYnNLNXJNem5rZUN5MDFRdGcxTFhPTUkwN1RRWS8raEhLak4yVjBMb1NBZ0FIMUxNZnYvbEluRVFvQVZLTnZnbUN0SWhlU3NWV2dZYnRtSkc2UUxrbHRKcEJ3NURVSUd4NldWc2V1SmYrTHhVd0RlU2QwSXR6ZDJvR3JVYXdVZm85VzloVDR0QVpVUjk5OENSK2Jqc0NoTE92bFZHYkZQN0NCaGdZOEhJYStueHMzeGdSOVFJRVM3akJad0J6ZHF6U05YU1M0QlBlRzVUR3crQnBGMktLRlllZkhaT2R3UXBBUVJrUDltU1ltZldEK2RKSi85Uk51RlkzMm9vUjRqZmE5Z2VPaGR6VWx5S1JzRE9UYVdwSXdSRWdCelE4ZEFzTk1uRU45VGM9IiwibWFjIjoiY2ZjNDdhZjM1MDkxYmY4YTFiNDIyZWYyYTQxMTg3NTk0OGQ5NDk1ZWU5Yjk4NTE2Y2I0M2IzMWJkNzRkNjgwNyIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 2}, "jsx")
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)) }
+
+  MT("selfclose",
+     "[keyword var] [def x] [operator =] [bracket&tag <] [tag foo] [bracket&tag />] [operator +] [number 1];")
+
+  MT("openclose",
+     "([bracket&tag <][tag foo][bracket&tag >]hello [atom &amp;][bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("openclosefragment",
+     "([bracket&tag <><][tag foo][bracket&tag >]hello [atom &amp;][bracket&tag </][tag foo][bracket&tag ></>][operator ++])")
+
+  MT("attr",
+     "([bracket&tag <][tag foo] [attribute abc]=[string 'value'][bracket&tag >]hello [atom &amp;][bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("braced_attr",
+     "([bracket&tag <][tag foo] [attribute abc]={[number 10]}[bracket&tag >]hello [atom &amp;][bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("braced_text",
+     "([bracket&tag <][tag foo][bracket&tag >]hello {[number 10]} [atom &amp;][bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("nested_tag",
+     "([bracket&tag <][tag foo][bracket&tag ><][tag bar][bracket&tag ></][tag bar][bracket&tag ></][tag foo][bracket&tag >][operator ++])")
+
+  MT("nested_jsx",
+     "[keyword return] (",
+     "  [bracket&tag <][tag foo][bracket&tag >]",
+     "    say {[number 1] [operator +] [bracket&tag <][tag bar] [attribute attr]={[number 10]}[bracket&tag />]}!",
+     "  [bracket&tag </][tag foo][bracket&tag >][operator ++]",
+     ")")
+
+  MT("preserve_js_context",
+     "[variable x] [operator =] [string-2 `quasi${][bracket&tag <][tag foo][bracket&tag />][string-2 }quoted`]")
+
+  MT("string_interpolation",
+    "[variable x] [operator =] [string-2 `quasi<code>${] [number 10] [string-2 }</code>`]")
+
+  MT("line_comment",
+     "([bracket&tag <][tag foo] [comment // hello]",
+     "   [bracket&tag ></][tag foo][bracket&tag >][operator ++])")
+
+  MT("line_comment_not_in_tag",
+     "([bracket&tag <][tag foo][bracket&tag >] // hello",
+     "  [bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("block_comment",
+     "([bracket&tag <][tag foo] [comment /* hello]",
+     "[comment    line 2]",
+     "[comment    line 3 */] [bracket&tag ></][tag foo][bracket&tag >][operator ++])")
+
+  MT("block_comment_not_in_tag",
+     "([bracket&tag <][tag foo][bracket&tag >]/* hello",
+     "    line 2",
+     "    line 3 */ [bracket&tag </][tag foo][bracket&tag >][operator ++])")
+
+  MT("missing_attr",
+     "([bracket&tag <][tag foo] [attribute selected][bracket&tag />][operator ++])")
+
+  MT("indent_js",
+     "([bracket&tag <][tag foo][bracket&tag >]",
+     "    [bracket&tag <][tag bar] [attribute baz]={[keyword function]() {",
+     "        [keyword return] [number 10]",
+     "      }}[bracket&tag />]",
+     "  [bracket&tag </][tag foo][bracket&tag >])")
+
+  MT("spread",
+     "([bracket&tag <][tag foo] [attribute bar]={[meta ...][variable baz] [operator /][number 2]}[bracket&tag />])")
+
+  MT("tag_attribute",
+     "([bracket&tag <][tag foo] [attribute bar]=[bracket&tag <][tag foo][bracket&tag />/>][operator ++])")
+
+  var ts_mode = CodeMirror.getMode({indentUnit: 2}, "text/typescript-jsx")
+  function TS(name) { test.mode(name, ts_mode, Array.prototype.slice.call(arguments, 1)) }
+
+  TS("tsx_react_integration",
+     "[keyword interface] [def Props] {",
+     "  [property foo]: [type string];",
+     "}",
+     "[keyword class] [def MyComponent] [keyword extends] [type React].[type Component] [operator <] [type Props], [type any] [operator >] {",
+     "  [property render]() {",
+     "    [keyword return] [bracket&tag <][tag span][bracket&tag >]{[keyword this].[property props].[property foo]}[bracket&tag </][tag span][bracket&tag >]",
+     "  }",
+     "}",
+     "[bracket&tag <][tag MyComponent] [attribute foo]=[string \"bar\"] [bracket&tag />]; [comment //ok]",
+     "[bracket&tag <][tag MyComponent] [attribute foo]={[number 0]} [bracket&tag />]; [comment //error]")
+
+})()

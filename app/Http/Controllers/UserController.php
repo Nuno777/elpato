@@ -1,1 +1,241 @@
-ENCRYPTED::eyJpdiI6IkdkaGNCZnE3NHZkdVNvVFdoSExkVUE9PSIsInZhbHVlIjoieUhNQVJSMTE4YVo5dWIwUW1lVFpnN3JIUkorTUsydFZnWDA4cjBucW9TR0hLSllTSzFha253NFFGaUYzcUFsZTU5MkZKRVZwK1pmbHhsSisvZlhkbTdJOHlCdWtIRXVwcUVWa2NKQ0c5WGlvSXhjTXVMc0RGeklaaXA1UEtNM1JrblhYdHJoazgveCtPR2RWS0xTb01wZ1NMczEybGkrMFFUTkxvRS9aY1pBS1FRTWxtSTV5RFYxSHVFd2dEZ0FHSWN1dVZVTE80WXd4TjR4V3lKSXV2d3RqSFMyQVNwa25sOUN0ZWR4NTlvTk1mWUR2eUx0OTl3QVVUQ0huT0JSQStsVjViMG96T3g4RXpDOWlyWWVlT1FncU1Ud0VxQjdCZlBGNVZpU2ZGYWQ1TCtLNm5OVi90ZzRUUFhneXhqQzU5bGFoK0JocDdoYzZIRVVoWjVCNnU2anIxbzN0WjhFc1RiZ3llR29JMHB6MEFVSzhHcGNtcFgwYW5pYmh1dWlsRVMxWkxhL2NVbU1yVEVrdEpKOTdhUDhlUFJxdHVGV2hDOWxxZWdLTnFnczN6NDZ4VHZJNGl5VHVJRXcwSy9aQVJVN0duSTczK2lmNEVtUDN1Y2ZURVZ1dzc0ZmNXSHVVeTlPdENROFk0dlN1S1RtSHp2YzdsTlRBZU5tMXpTODBORWQ4QjNQYnZNeituVlJJZ2ZuVFhDSnVhOGt3R0g5S0t3ckVTaWQ2SlJTaEFUZ20vN2RTR3c1V3ppYkQ4eHRiN3lwamlDMG1mSm1kM2RXTVU5ZnhtQUhMZTlpQ3VnWUJiNStHZktaSE1rRXl2ZEFjblphSVYrUjNYTVF5MS9GMjBKYnFqWjJwa05wMFNSdHM1RXljc1BrTjFwbUhZUkl1cjlvV2lTSTJiT3hwR3RhYUxab21HeFpXL3lnY2pLdUFEaTlXQS9mUlNaQ0llL3ZHSzBnbkRQMVhSVi9CdjF0UHNsb0RJK2s4RWxBQ0J2YWYva2hLMW85SytSaFlNTGExKzlVc0x1YW00S0lJQnE2MHJMaUh6Ty9mWHNKWGZYUURNTFVrVFZ2WnRZQjJPMStjQkJIMHRDS0crd2ppYThwVWVidjJHMVZuK0pOL1ZtSWlFSi9qVXFSb1pFK2V1aDZYcWdUUWZCK2RBZ0JhUDZPRllDbUJPSE52SzhiQjN6T3NmWlpobDJ0MXJoNWNKTzlOQk9GTHpnOW54NFFJRUx1cFFINzVhcEw1cVJQVHVwZzFLMzY3aU12SS9OaVBseVBZNzd4NWcrV0pDeFc3UWV0Uk9OQzZISzFYM1owYXdPYzV1QTRGbTMzbUY3T0gxdXpXQ3JVbEcrL2U2Vm05ZGN3QURtSDE1RGtYSCtSVS9CVnhYSkZkdnU3ZmhKbVdld2RhQ3V4L2ZtR2hYdlpzY0xpd0x1RHhQZXNNL2c2bStKeWsyeTJpQ3NoZThrVkdSa2hHNnlzM0ozcjMyYjRpYnhyKzEzcmNxclhjNTlrM0piaE5DZVhqQngyVUFyblNzVHlJNU5FWmtzQmRrWVQrU3VHZEdTM1M0bEFiQ3ZYMThOTDFmN2xZOHI1UVJ3QU14SEtuQUxOS3NZZHdhRmVkRWlyM3FVTnlVRE9GRXd2WkZJeWErRFdiWHhWcnVnT29JcW15NUpoZTI0S1R3LzNybjNaN1MwK1ZyR21ERlUwS1dPdzdPdUViZm5mVHZRZU5VRGpTOTlrRlBmMjZ6RjhPTXhXL3pyUjJXZU9wVE5mcVFKVDg3bDI5WWZ3MWdyVUZsVHU2cURuLzJGU3JRQ3E4Q3JMSHJGMFUwOTNxUW9ScUhxL0VmN01UVi8zQXZVR3FVS3JmRzlSRnVRTUVjd3pUT1ltYWlMVFFFdEtYL0kzazVaaEtkUk5EU2RjM1ZxRWJRRlI1RkZya0pncWZac0FwT0EwZW9SN2lSa29LSm5oU0tjRVdacmJMNkx2dGVEVDJXcm5leS96aXhWbW9sY2FwYVgvM05yaHFnSlJUbmZlejdyOE4remIvYW9OeWF5TmJsMnB1Umg0SjhKdElHM3R6Q3BDbEFhcUI5VTY1TnFWWWVCR2lNN21XL05KV0ZBYkRsZmhIRWo4ODFXNkxndXNoSGpBTk03VGtDem1lOWo0bmJ2Tm1iU2VhZUJ4ZnZvb21rbzJHZ1J0alBXcVFnYlJtQmZQUXV6cytocDkwYkU2aFhoRWJxWVNxZ0J6cUN5VmltZUE4TE80QTB0M0tlZXhrSStqY1NrN29PWm5uYzhqeVI3M3JqazhBdDZsUm9GOWdnRktwRkdja2RpVTR1K1dpWkFEYk53ZVBTc0dRTFV6N2tEa0hjWlBnb3lSdGhKY3dNNkxmRkIwUnd6NzNLdDVwb05FVmU3UGdTcnZZQWZkUXplL09jSFprSFFIUmY2U1RwQVpRVVoyUWtpd2tJRUVDaUdnZDNWZWtId1ozZHhkcm5UQXhLczNvWk1qRDlkRnVvNUwxalROWkl1aGErSTFGNGhjRCtQUkhPT2g1VytXYUpBamJlZG1ZMW1LcUQ0QUxQS09aaDhhVFZ3cjZ6NHhEWmNoSkxadnFZdmpVOHNsSXdKSmgwTTZyZktVbDVkbEd5RStnSWUyd2poMy9MZ1ZJL1ZFWGoyWUdSRjFycmlQQWhpeE8ycnk5aUF1TldBTHRFR3RLVFp5RmZRVDJoV3lFWk1HMnZWdi9tRUZMZGhNdUcwUkZkSytaWm01MmI0N1dXaS9SUUFZU0JnaERmUkpOOWFMSlMzRkJkK1VVV1h3Y3I4QnZxWXdjMFJWam1hYWFPZVVYeHNCbEFLdFFXOHZHdm51U2JXdDliQnpGeTJiaHY0cDJ0UDQzRmphM2w2V25WLzZDOUpPdy8rQVFtb0U3OWFzeHo5ZXdVZm5qU00rVnowMThlVHNJZGNGSFV4QUhWclUwVWYwT2IveENVTi9ic3dFWkFxUWxsYjhjZ0JDQjZiVThwV3hpc1pBNW5DSEdDdTNldCtBL05GYkM3NlhJbEtVRHF6YyswaWo2R1I5Wk5kckpUVmFIS1FvSjBqYUNzT0JFSzJuajFrdk1rcWZXR3NnR05oLzd3bVJBRHl3ZkpNN0ZvVUowNWNBNmJaWFBEcy8rSmdJUHc4V1RONE9Td2swa0s3Z1lVQkJaRmlLT0FRbEJoSytXbHMvZDI4OHRnUXJTeko5QXN1cmwxWCthcmN3NEhFWExLbXZHOGhibDg1TEozUmtyTXVEb0w5NmgvZUpzbld0Wjg0LzlhK05lMkdveWZVdC9lWWNhSHh2L0JYSU5wemJVNmMvdjZkNFhRazZCK0crM3dJV0tyRURBZjVCeHBoN3RPd2dyTEN3SGd2MHM2bnJlb1hsK1QwU1EwNk9VSUNmZURVSklIRmxKdnBWR3MxNFo2YTIxZkpxUy9OR0N3d1FRTDdEVGNOTXlxRUcxb1VSYktETzB5Y0FOakQvQWNwQ1VsajNWb3orUndKMDFiYzJhT3k3T2hxcUlqMlFtdU5PU0t1Rm5sdVNwTzZSOHdqN1RCMTdZZzFvY2RKdWpXRTN6Ni9RalBMalBXa1hoTWRGb0NzQTMvd1YrUSt6bEhGMksyNHBsb1daTWRCbWhuSGVGTjdBRUVMOW41NWhLNGxSRmZQYW5BM0VMNHlnd1JQdURITzJudGdxcW5NL1hlL2g0SzZjYy8vTDJKd0VIeXFuRi9pMEJ1R1JCblFSVGlFeitKNkp0MTJUYUdsbTdBZlc0VUMwY1NhQUhYRG5hWDJKaFVZSXZtSWdRRStKeS81aG1Kb2txTVowa0wxRmxYenRuZVhpOEFkV3lsRFRjZUFiKzd4L0cyajg3bHYwdjJ4bnhIUmhSZmRlNnRDMXdsV1E0bi84UExLNkZJaFdWME5aUjdPR3FKR0N5N2YvS0d2engrSlpuanFlbzRwY2ZPTDBRbExxMURHQ1FyNFB5Q0V1M0hPUWJka3hMbHZxeDU2citkOXJWWkdxTjJsdllRRWtmR09FQURIN2ZqUHVSRE9EV0hjVkN0bnpwY3MvZk9jZXp0WEwxMzlnSWQrRHJyQVlFREYxOVA4d1FHb0ZSMWhhalRLM0FWUGN5cWVCRzlKMUNLZ1I2QXdSZGcwbW9CQTVqVUhEc3A5Y2toRjN3dGZVZGpIM1pqMTdUYUtHR2lxQXZBakpRWVdnSDF5YnRPM1dLTWxCRE1zTzYzbmQzTUNDbFRsMjhPRm1jK0cwcStkTFV2aWlzb2hUM01Mek5mR2J0dnA1b1V4amFMVHh6YjVZU0J6TWlZWXVzdGJEUmVZVkFseWwrRHR3eWQxY21BRHFGTkpMTXNQNnpLWXVTV1h5M0JjMUR4V3kxV3FPM1dJcWpZaUNxWjhVM1ZxOTBpNXhnZ1ZGRC9tOWdIQUgyc3F1V01iOEdpbkMyVFdsWE1ibDVnaFB5MTVGcFRRZ1Mzb2JoT3hIemtxblJTZGpiSkwzZEd1UVRwaFRLSDh1ZzI2QUFBOEFSUzdQTlZrbjMwRWkrMFFHRHV2U1RJSUdDZmlXQVRWUHBZR2h3Y1VjbVJaNWVBQ3RWTTc2VGpGd0xjc3kwanRMSjFDYnVGcmk3N1ZmRHAxTndZMkN0a3lzOEcvS0ZNMENSQlNBOUhnUXA4bW8xUklvbGdSMXFkdkEvTkU4Njh5cXZpc2tjNWUxbU45eDQvL2dzMFJjdWFWbDBLOWNua3U2a0hyV0ZJVHUwZ2dlTDkwWXRCM281blJPK1ZYSHRxUzE5YkV6cHZwd1JsUiszSmo3OS91WUNQa25nRW95ZDZKRytaakhFWnVWVm1Tb3RTeUVmZ1pSVk1hVTJwa0UzdjI0ZG9TN29pajhTSWVQdVNlR3ZGenFESGpoUHZEaThiMWpvZCtKOUJQQUFSVXFZQTZ2dlJtT0FYYXNIMERnZmYzL2t0WHNDc1kwdE9nT2V5Szd2UTl4NnZjQUlKOWJpM3QyY3I1MmZuZzFNd3lpbFl6dmdSWTRCbnJxNGw2Y1F5MkI5Q1E5WW9xemZYVkVZaFExemJIRmdhZzZGT1JvSkpZalYzRXBCRFd0VG9XMnBDTjVxdUZKd2xLMUdpYlpCOHRTWXAvMWkyTkN5cXZNQnZFRXFQUTNWT29pdldWSWF1d3V0dUhIZ0xzbm42bUVmN25kNG1JZUtZbi9HR3hPZnU2YjJCV1JUZWZJWElkN1lKMEVSZXppUUZhMndPeWY1SzhNblBvUXo2YWdOQXRaMWxYbGRMUSswYkpjWEN0RTdnMHRxNkEvUkcvdm9NeDd2bVFySDZhNFlXeXJZMW1Qa01rVjRyOW5HUmR2UEZhbkpBMUtFN3BVYW8wWld6U0lZZnA3SHFmK1VxRFQzbDc3aVFHM2FadnZsL0c1N3NBQXJwNUxYU1R5SUZUeUxjTzVZbFU2N1ZBZFZCSyt2b3JTR0FDQjl6aStwY2xVZXFuY0FtTWkxWVAxa2I3OFBUcDZOZnVhS0lwcXN5OEU0QS9ETTB4V0pZZTJyYWt2VUpieDVxenlrNzllTXNRRURycmI3cGVINGd3N1EramZoZTNiNkNPRE5sSGttZlg3NGVqTEE4VnVCc29TUk5aeW5XYzkrTWxYOTJWa2E5eTM1bVFoVFQxanExZVF0WDk5eHlTTlI0Y09jUkhLaVVRSTVhMVQ5WWpjUmhlTTh6QW1TNGdlRkpGcEhJejlTVEhpMWtxOFdvSHRmQ1NFWUVHcWZSZWMvLzJTUGp3Rm1RNHpqVTlEcGZBczhYc2ZqaTlRa1VSSERNdUx3WTBDOUJRUjdqZ09MWEpZdDJNaG1mdWpvNElsMGFzbVBFRFR5cEZqNFBPVmxmQmpndytGV3VScWZ4Z1R6QmQ1aml0cncxYzVQN2VENWpoRzlpTTZKc3BnS2dEOXFYTGFVSklCR2YvY1I4eGVLSERHK3BhOE90QjdCeTY4ckVCbEhZRjA4MFo1R0FTQkVUVzkwVC83cForN2FYQmp3ZTVYT2sxb0dzSktFTjhTK3VUWkVudVY2cGF5c3RLQkFySCs2NEdKTVhCQnQzV1JzN3JzOVkzWjBJcXk5d0t1dFJuSlpraldHSGtrYVRnUlVreFBLN2ozNjFqUEFYZ05oWTg1UzlkSjc0Mk9DbjU0VzJTM21acWV0eUZEekZ3MWZMbmJTMEJncnJPNnlaTlEwWlhnbFN3RUQ2ODdSTUNOMjRMSThaQlBSclFndy8reTM0RGRuRmE4L0txOHBKeHREdFZZek9lenhoMVFIQSsvZVp6WnBHWVByL2dLbU41cENCNGx6Mm82K3dTL3JycjJhN1hPdi85OVZ1TGV1WEhEUjFQMFgrWXR4U2oxazluMWtUOEM0UWxWZ2pnbi9pUDVqTS90U0N4MWhFTkZNNlJoSFlXZzdybDM0ZDhUQzVtV1BrNm94aTVZYnpPRk5heExoY0FxVUV4dkFteERLbG5aV2VYM3BUckVrZE1hbkVEd09wdWZ1SmU1RFdUWTlMWXVZSHFEMnJidzJiYXBoZzF4Z0FCSG8wVjlicDdFT1BsVlBETzl3cXE5Z1lSVG5lSWJ4aXNGR3BYbWFPN0ZPQ3MrRzBNR090NW55ZGx4QUN5amxEQXNXOEFhK2lUbkROSWZ5azN4RG5vc1MwYjUvbUVsbTNXRFR5c3pkQVB0QTVLRmhlOWd0T1owM1Z5QSt0ZnFIeVVXKzdIMzdQZzZ5QXdDcVoyYVZFNVhqREY0c01KVEtuZU9rYThRcWNYV3dJSFFZM2trUG5WalJRTUxkRXcxd1lvcldjRGlSRk16UTZoN0o2QzNadmdRVWRCc2dSK0ZOam5jRng2KzBSdDYyckdoZnpJd0NLMERLYkszYlhkbmlpOHpSS3l0c2V5ZlJjc2NkNjdCVkRxUGJ0cTR0cWNOakExMDFrdGlycXBuYzA3ZnljTDdmY1NiKzZBa3NzMDhvZkdHOEV1bWhwSS93cDhOZlZMQWVTSDIzYjlpb09sdkFna2VIK010ZSttbmFQWGswd2ZVR3poSkxxNzlTa3l5UTBCSDlYWDl3djFKbWpKVUdVVEpkK3JTeEk0S3pmbjlQRDNXemRjMXNPbHE2VWthYmtkUFhjaGEvRXRET3VLQlMrWGEybENvYUtvVHd5ZHYwVHYvaEQvZEJlWFF4L0pKWmZaU2QxTkMrRm9iWCtsVjl1b2gySU1oMXJYaFV4WEJmTE16OTlPMzIraTQzRjB1WGZ5ek1Lb1NFSzY3R1ZFN1RiVko0TTZxdlFXQnpkUTRXbjdxQ2FOc0VDclVEQ3UwZ3NINVhHYW9HWXVaenZJcGs4d1pSSHVKeGZuMTAycDJkQmlHd0wzK3IrYWNBNmtYUndyY2thbUlDOEdSalVRTWhscjNpTHZSVkhpQ3lqckpicUVZeGVxVzVXRlFuT3pFZnJFc2NNME5HU2pjMEwyVzRCUFFZdzNZSllwZ3pRejExZUcxS0RlRG9Reml5QVY1VkJjMmUzWkJGZEFBbkFtNWcrUk1GZ0VyR2UwL2NhMnU3Vmh3ZlFpZHJxWUhDUkhrb2NtUlR1eDc0dlNEUWgwdFhHMFFDOEJVYTFtQjQzRnhiVXJyNzlRajM1QTZhQXVkZ2tIc0RLa04zbUlKWERVQmFBenJlS2xsdnMwTXVUMFRLdFh5VXVoTXBLSVhPMmFUUElxSHNPaUJxVWZ0MmJVdVlYVUM1V3hGRmw3NGk5VnRxSjdoajJINisxREt4T3czY2dBYTJHYTNKbitUREV1WnIvQzFlRzA4VjAyN2wvcENCTUdlUGxBbWU2c2wyTDltWmk2SWVyNElKQ2VDZThrNW9lZ3RPa0ZNVHNISDdXaERIZiswdHI4U2x2blZGMzVuRGlaSDM1ckoxSHJucXZUd2pBaVZmQkZOQk8xVmxFcWdpSzh0NmtCdEJCVG9LdjVJNWFUSTZVZjFSMmZVazg0YUp4Ry8zMXdnenVvWmNKWmRnOUlueXZHTTVMMW0wSENCT1l4RURQWVpNTHd2cnBJT1ZFbC9PNmswQU9QclJDMDZlWUxZRHg5NFVmS0dUSjVORXR5NERxZkMrZVlkdk9zSFlXV1RKUFBIcFNVeDNOM2VhYnFheElCTWJPYU1jSTJJV2grZDIzUWdveEhuV0d3YjZDZmlmUkZxUFJxTjM0Rk9NVXJoWDNtMytMeGlsNXd5RG83eU96cFdwQWRyMmtNN2kxcHlnQkpCNjFYRjVsVHpJNVRHVjVKSFU5a0w5cUc5QjA4ckRma2dFSlJJSU91b3pUeXQxNXZvV1QrT1NTRGovMXYyWitubXpQM1pWT3ZnUk52S2J3UnJsNG1JOXAvVTJFMkRtWktPRkxBR09OZmFocjZRKy9CbXQ2VTFGSGxVa2xJY01JREIvSENMbXVHSGRJbFc4THJlY2lYTW8yUHpaQUxBeCtvbUlTNTh0RkUvRjJBRzNDbWNGUWJjcGdnL2pOUWR6d2JBSWVERyt5SlRlcUdueXZKbStBY3F3Yk1MUTlaZGJhR1FHbG1OaU5KWXdad2lkbXlObWZHSkVNVFBmNkI4WDA2WTRHOWFqMk1lK0FtWDFERXZ0ZE9KbWNLak8yR1dKNmRNbUtTM1lGVlk3UjNiRnZPTm1CVnNFTjRmejRObG5yVk4zanVYeVNUTXlKRTBIU1l5QzZEUEFrOEZnYmJVdGdxYWV0NFlzVlBZYjdpaWsyNmRrTUIrbWRyb3R3cklXeFhZaXNwRFZDZnV6R1FXdlhnM3g2NjdjOGR1S013WEM4eGplVUJQcEdGL0oyeTg2djVsQncvMVlkTHBoNUIrdWVWM2t2T3NPcmtVSkJNVWFoWjhTM0ZSdExWcVNxRjdsMDBKQ00ycUN2UGVIZ3U3R0pUbWR0eXNsS25ZMmxDQ1lqUllZQmtIbVZ2aW1HalJEdVk5c3N0VGM2UmU3MVZyYVlMK3Ywci9XSVd4UXpsVDY3UExDWnEzenBtSEJzeVNGVnFoUmkrQWZJSWdUTTErVnpvTWpEd09OU0ZJTmpxMTNEUWdvajRZdEd2RVM0d3UzeXZ6Skk3UHA5QUJ5RS9ZL2VCYm54T3BnSmxsT0UwTWFPdUJpdXdSbUJITjdWNE0xOGQ0OUwvZlhRd29RR3k2M2FnbnlRQmh5WCtiQzNsS2d5ckRpSklxNTBlWk85UXZtcGx0cVVYa2ZyVkIyeWt6SmtRS0JyUmtGK0hucHBSVzV0K21qYzl4cVJ3K0JFcWlPMTRvVS85VFpkNnEvMktRclpKazBnYXJ2dkh2QzZwKzBqQXovRkN3bDRrZ3hFL1RUYUYvUkZmdmhvbSt2N2krV3NzZFlFU0pCbGFyT29CaXZHRGxlc25UM241Z052ZEx6OVEybVFxMUk4U2dDS3NraXlpRmpDelNubkJwZmhEcUN5YnBhNmFqbGJTaUJQdURpOG1FZ1d6OEJpWDMrMUJ5MjYzRzNCZmQ4aktWRmQ1S2pFVkIwN1EvWlZhd0tBWU1HQThZeXVPaVNzb0dtR2p4QlhWazJQc2F6R2ExU0x5RzZ1VGZwczR6RU5XTTh6TE95YnZnbXRCZ2IyT1lZNHdoYUdUbk1uVlpKWi92MHZSalhGUVBibXNjb0toQXd3NXZDSHR5UlBBV09CQVM1VEl4emFjK3dHazZpL2hPL1hTUzQ2TTZWei9SQkVXRktieldpUXVhbi9lNzRFMzRPL0ZwcEl3L1BLY0F3Z284enJiaUN3Zy9vcmNnR0xIZG5LS1EzakVUdkFXUFNQRVBOS2tDZ3NXV25rNFljT2V6MkM0NEdKb1g5YjV2UWdRMlRYQXNWTjlXUXJ4c0dsV1JuYUZxZDJLYXVCeEptc1NhT2U4M1JFcGI1VDg4THNscFIwNnVSMmZtdVRpR1ZqL1FhL3ZBdmgxNGtMcGtjS1lSSys1SGM3SXJyRkJQWjFPeWJoOW1Rckgwc1JBemk4YlUwZkhpQU84TzRXRDBPSjcwRmVGL0lxSy9EY2Fheit1WFBPNmx6YVE2bmtMOTZNbVI4UTMyWStXdHNSWUpaY2JuTGNBajRUVzBzNjVFUTRNeUhCS1BtYkJUNHhEMkpyWjFIWFJRYlczNTJIdzhXTDFyWE5ISG50aWNXKzF5YWJSaGJQandHaEt2b0VFcTJsUW5ERE9iT3dQRjhmMHAzZng5M1M5OFJCdEl4MHBTYkphR0ZNZUIwZmN2a0laeHVHUGZ5RktpN20zaEpOVmJtS0E5RVJuazB1TUxydFRCSFAwZ2drNzB0OTU4M2ZVNm15V2RkRXVtZkNrZ0grMDdZWXF2eU5DOVN2UnFNeFozN0tvRDkveWhZU3N2b0REVmt3aXVlcjFFVjZVUWdDU21MbjBNblFXb0FlUkMzNFhFb3VKMmxRa296dXNRMEtHd0FiS2tRY0F3QmdNeU4rT3dsR0Zmdk9CTUd2T2dvM3FHVGRLM1ZOYy9BY3FMbUkwaHJBWjByQVFYTVdZUWJ3MEV5bDNWZjlVcklySWFSZzc0akk4M0taaFR1dXQyZHRkQkZDcGtkQjFhYVEyelVUa21wYW9KdUI0S3hzQmRDN3lEbGRRa0s3UmwwQUtYbXd3TnkreEc3dHBnTUNSdThkeXRNdlpIdWRDOXBwUkVTa1ZqS0lWZzBseVNjSU85dkU5STI0N0Z6WGVlRXhZR0xOR2RtRkVSL3VFQ09SSFRqRGlZZS9yUDE4VDRySFQ1OStWdjJqZ0NpM2RoZjYzVlE0aHRvdUw2TjdVeHBjaFZ3SFRjTjZQUHM4dVlGaVdPSXFJUkk3K3ZoZWlVL0o4cWk4WUhqWTV3SWk1dEtESHZVRHlMekFOcStxOW85eTB4ajZuYzF0eEJNUzRUNjZQZGY4YjVDR3QrY0QvNjNmaDBwZ3ppQ0wyd2VpRHZqTG1KT2x3TXo3T001OWd5N1RnWWZCVDY2SnV6ajdMdnlNR2J5UGU2Vnc3Vkd5SEJJUlFpMHp4K0J1UzFEbERtbVZoRUhzVy9Hb1BZekViQWhsekk2M2FqdkJvS1EyUTdXdkFJZEJYNzFEWG9ROEJVK3ZaU0NNT3NIOExNajFyRVNPYWxpVHhHRStoMHNtbnhRZngzUG5UdGhpTUg0aGszN1FGalhDeWp5ZDN2SWxSMExMRWZOanBDeVVUSXhmUjNQWWIrWXcxMUJqZEg4VHpsdDExVnFKeDhxSjdJL2lVQWtERzduMGZHam1ubEtwdUl4VzU0ZVcvcU1ZNVBGZjJFMzhQdWd3cW9NcGdTQi82K0hTakVzNEZzbUczK09TWEM2VTVBQmNlbjN5MG5iUndVRithdGMrTllIY05GZnduaGZiRStScG5LeXJ2YXMrOWpsUW5DSzE3YWtiOFNiTUtVdi93TjRUTmtsUlRuTGI0RFhKMXJlb0xjb2wrZGdpTXVNdVBDQUFLZkZ6dlB1VGxSRURKV2xaaFJsOEsxKzJGdEk0QjZvbnpneDZua05xaTF6MC9uTG5pOXE4NjhqUUZMV2s4QXlEOFU3aGpNTzZYeTR3ODhMVitINWd1QzRWdndvbGxTWmhlWXJLN2xobG9kSkUrQXpzd0VTUzNubWhJenJ6OGcweklhU3Eyd2tlQmtKeEpGUU1EYU5KTE9wVGgvWXhZYTBqbUwraGhlVm1YNzNuQVh2aENUcHJ0YWRoSWV4a2dTOFVZUkFVTGxPdVBuMjNUbTZ4ZFRMWTZoT2oxSzJORloveXJmTUJaWnJjcHp4akJNc1A5V25Id1VYdmZXajN3akdqK3RuRGszSUd6V1pOR01lWGt4MWgzOTBhNm5VMk0zQjBqSnFSZWVlUVhHWnFNRnJxTUVNVzFWOHRLajFXazVTMFRudEZrYVNDUHVKYmRNNmlNVG4raXo3VWxObEtyZTFaMnY4OStLMlcwSkJRbTRIZ3d6TkEvQlVmN2pqRk5QUlhiMVM4d2lJZ2szeU9MbC9sN1gwbHQ2VU9RUTNDWll3bEdsS2Z2bERhZmtlakhMWVhFcHgzcjhESCtRZDNWRllyMjBCWm5vVEU0c2J2cVMxelljb0FaRGNTYnJYdXFWOUVFaWlPemxibGZzSUs3UzNVOEtkYWtzdUNGbVNyUXNpNzN1ME4xN1pxczFkRWlKbXNpenprZUM4SHp3Z0o3dExtUytkTUhKdGY2M1RINDZibVVRN3lVL3p3ODh1UHhTWEFvbktSUThDZWRYemJ3KzYvenR6dVNZb3BlQzBYZjZxOW5XT0RremtZUURxMTZITE5BSCt1ZUREcjVib1hQZ1BBT1JKdkJheGVnYW12RXZDU0ZjNStYV0hJOEZNQmJHRDVHY1o5Rnp5SE9xOVYzZXQwZzN4Q2t2cUlGdG5ZTGF2NGVaQ0JzWkg2TDlCR1VuZlNVV3ltRTQxaDc4SVAycXAzd1F2bTFWR29mWS9SVDJ1RU5vY2JicnVIVjBvUXZKZ0ozQ1IxRFRqMDNFUFA5anlNNjQ0OXQ1LzdNZmM2c21LamV3b2E4TWF6blM4aHdKRmV4SGpUeEZxK2lsMUZkbXNPSVArYitTZzlxNlF2SmJJaHBZOENCUjQzSUgxbmV2VjEyK0FKVUhCdUEwV2NDQW04aGlpRDVFNG9HV0FEVDR1Y2d0cVpDOVdScWgzMklDaFlwYU10dkh4SEkyT2dRYTVpLzF3WVRSYmxJTUp5cGFacTFkR1VSbkRvT1UzYm42MlQ5bDUzVlVIK1FtR1g1YkNlY2dCM29nZEpyTlRyMHFOZlljZFdlRmpqQldkWGlnOEFRbjZFcnJGRDlZYTFxdXZzTG44T1pkY2lIQjlVVitEL1lQN2t2eUs2bHpLSmliT1p0c3VYK0dzYnhxVTBodHg4b3lWM2d2N0FjV01IUUJKK3dCSkxvaXNaaHVQaUNqSFM0UGEyMHd5TDA0ZTNvTU1VcytmNGh1MlVVdHFSbnQ1cVliblF5TlNGQVI1eEw3N0ZxVVBWd3MxUzdxSm1QMmdNcHM0M3RPRGVmeHJ4Um9jRHVBancxTHZXaGJQQWZDakxWSmhtdXpSdVAzcEszSGpjb24wT2NWVkFFUmZ3ekxPYXhsQlV2R0ZHa2Q1RFpxTEJ1UmQwTXpYb0xYNlpnSE9BcDlRQVU4a0xXZEhuZTVNY3hoZFFsY0phNGk2ZGZFR3ljZ3o2UUNVVEZMMjlvUkhVYW1pcEoyMXVjbW54eXA0SUYzR01QRU1WRDZxc0VsOEZvRi9Ic0p1NW1iOHRQM29SVkxPai91bnpMcFN4anlpblN0ckVNM1Uyc1B4Um52S2NDTit1cGIrZzJYMWlYcHZQYVdjQVZpYmduZmY5RG9ROXJDU3ZGWHdoK21wRDFYNDRQSUJIakJGczdDaytTMGU4TFVVc2UrWkZUMWhNMmhsdXM1b3EzbW9hZ2F0cjZRSThzcXZLdjNhcWxYMWV2Z1pFdTF6REVMOGtyYjNvZW5sTWF6Snk4QmJ5dGRJN0tGVFRONXcrQmh1c0ZBTmU4K0FGS0hzQXA4ck8xb2RnUjdKV0NhSndva21Rci9jb3A1Z2JPbUZyUlczcURYVTZEOFh2YlNWbVhDcHVLZ1lsem5uK2JmNFlsT2M0SUlIMTlEa1RIdVk2VXVTKzNRUXBVZWpyVUpGMVBKSS9SUE1HTFQ0MnJ3ZEtYMDBLV3BVcFNYKzZmcFNsOFh5cmVPYW1ldGdKak50UUdOL1Rna21JUkZRRWhWbE9FbHNIQVhLcjZEbG1DNk9OMW5uU1hYZEdPZEZLSG0vL0hLbGV1M0dqaWxFWmtnTUJZdlIrczhpR3lNVHVYZG1TUERuRDhxaEc1ZzVIWHpFd1lONFRZMElJRTlkYnVKZVU2T3Y1L1ZKcXF0T3l1aytLaVJnVE83aTZtMTBLbGg4RjRvUmg4NVFzbnlOWHVMSmtNK0xXVlhwUDNpUHBmTU1QdWZNVDVGTXgwZ0NxbE5PdUdyd2J1amhzeElLd3NlQ0dRLzkvcHZhK083TFJhNGNHL2NoTUIrR3VmYW50c1FOOG1XY1cydmJjWGU0V3JwY3BqWFZjYmJYNVNkRjhDYk9IN3ZZa09ISkEyYTJrWXY5blRWcWZ2RFl4c0tNVm1taUduOG9leDcwRFU4T2F2ZUJOY0hDUUcySFFxQWNYUmZ4N256RXhZcjNjNUMzT2tnVUxpR1ZGcmlrZmFwY2xYRFVHUEppL2c9PSIsIm1hYyI6IjNjODkxOWVmOTFkMDg1ZGZlOTllMzM4OTBlMDY0NDZlMDRiOWE5MGZlODIyZjc5ZTkxOTdmMzZiNWY5ZGRkZGEiLCJ0YWciOiIifQ==
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Models\User;
+use App\Models\Drop;
+use App\Models\Message;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage;
+
+class UserController extends Controller
+{
+
+    //-----------------------controller Profile
+    public function profile(User $user)
+    {
+        $user = Auth::user();
+        return view('profile.partials.user-profile-settings', ['user' => $user]);
+    }
+
+    public function updateProfile(Request $request)
+    {
+        $user = Auth::user();
+
+        $request->validate([
+            'profile_image' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
+            'telegram' => 'required|string|unique:users,telegram,' . $user->id,
+        ]);
+        try {
+            if ($request->hasFile('profile_image')) {
+                // Delete old profile image if exists
+                if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
+                    Storage::delete('public/profile_img/' . $user->profile_image);
+                }
+
+                // Store new profile image
+                $profileImageName = $user->id . '_' . time() . '.' . $request->profile_image->getClientOriginalExtension();
+                $request->profile_image->storeAs('public/profile_img', $profileImageName);
+
+                // Update user profile image
+                $user->profile_image = $profileImageName;
+            }
+
+            // Update telegram username
+            $user->telegram = $request->telegram;
+            $user->save();
+
+            return redirect()->route('profile')->with('success', 'Profile updated successfully.');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred when updating the profile. Please try again.');
+        }
+    }
+
+    public function accountSettings(User $user)
+    {
+        return view('profile.partials.user-account-settings', ['user' => $user]);
+    }
+
+    public function changePassword(Request $request)
+    {
+        $request->validate([
+            'current' => 'required',
+            'newPassword' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
+        ]);
+        try {
+            $user = Auth::user();
+
+            if (!Hash::check($request->input('current'), $user->password)) {
+                return back()->withErrors(['current' => 'Current password is incorrect']);
+            }
+
+            $user->password = Hash::make($request->input('newPassword'));
+            $user->save();
+
+            return back()->with('status', 'Password updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('current', 'An error occurred while changing your password. Please try again.');
+        }
+    }
+    //-----------------------end controller Profile
+
+
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        $users = User::all();
+        return view('createuser', compact('users'));
+    }
+
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        return view('createuser');
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        $fields = $request->validate([
+            'name' => 'required',
+            'email' => 'required',
+            'password' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
+            'email_verified_at' => 'required',
+            'type' => 'required',
+            'telegram' => 'required',
+        ], [
+            'password.min' => 'The password must be at least 8 characters long.',
+            'password.regex' => 'The password must contain at least 1 special character.'
+        ]);
+
+        try {
+            $user = new User();
+            $user->name = $fields['name'];
+            $user->email = $fields['email'];
+            $user->password = bcrypt($fields['password']); // Criptografar a senha antes de salvar
+            $user->email_verified_at = $fields['email_verified_at'];
+            $user->type = $fields['type'];
+            $user->telegram = $fields['telegram'];
+            $user->save();
+
+            return redirect()->route('user.all')->with('success', 'User created successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while creating the new user. Please try again.');
+        }
+    }
+
+    public function setDefaultPassword($id)
+    {
+        try {
+            $defaultPassword = '!elpato12345';
+            $user = User::findOrFail($id);
+            $user->password = bcrypt($defaultPassword);
+            $user->save();
+
+            return redirect()->back()->with('success', 'Default password set successfully for the selected user!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while setting default password. Please try again.');
+        }
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show()
+    {
+    }
+
+    public function allshow(Message $messages)
+    {
+        $users = User::all();
+        $drops = Drop::all();
+        $messages = Message::All();
+        $messagesCount = Message::count();
+
+        return view('allusers', ['users' => $users, 'drops' => $drops, 'messagesCount' => $messagesCount, 'messages' => $messages]);
+    }
+
+
+    public function filterUser(Request $request)
+    {
+        $userRole = $request->input('userRole'); // Campo para selecionar o papel do usuário (admin ou worker)
+
+        if ($userRole) {
+            if ($userRole == 'type') {
+                $users = User::where('type', 'admin')->get();
+            } elseif ($userRole == 'worker') {
+                $users = User::where('type', 'default')->get();
+            }
+        } else {
+            $users = User::all();
+        }
+
+        return view('allusers', compact('users'));
+    }
+
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit($id)
+    {
+        $user = User::findOrFail($id);
+        return view('edituser', compact('user'));
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, $id)
+    {
+        $request->validate([
+            'name' => 'required',
+            'email' => 'required',
+            'email_verified_at' => 'required',
+            'type' => 'required',
+            'telegram' => 'required',
+        ]);
+
+        try {
+
+            $user = User::findOrFail($id);
+            $user->name = $request->input('name');
+            $user->email = $request->input('email');
+            $user->email_verified_at = $request->input('email_verified_at');
+            $user->type = $request->input('type');
+            $user->telegram = $request->input('telegram');
+            $user->save();
+
+            return redirect()->route('user.all')->with('success', 'User updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
+        }
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(User $user)
+    {
+        try {
+            // Delete profile image if exists
+            if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
+                Storage::delete('public/profile_img/' . $user->profile_image);
+            }
+            $user->delete();
+
+            return redirect()->route('user.all')->with('success', 'User deleted successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while deleting the User. Please try again.');
+        }
+    }
+}

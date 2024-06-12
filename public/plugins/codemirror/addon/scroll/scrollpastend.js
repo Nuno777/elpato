@@ -1,1 +1,48 @@
-ENCRYPTED::eyJpdiI6IlZjNmZaUklRYkFHRnRGY0RzVGs0c1E9PSIsInZhbHVlIjoiRkNteCswUEJnN3hXTEE4bkNFNVpRZ0pCeFluUjlzM3FOZVZEQndRY05uT2tuTXJjZDRGVTdrMWpBQWVRRG5Nak8zVSszaVdrNVhRbENTcW5DZHBua3FlYlhKYkhjL1RDcU1VZGlEckVyaG9PLytoYkwwS1dUZThtSDhvSWxmcFRXN1VEK1E3Z1paZFA2N1p0YnQvVjVvR0hyVm1lOC9mSzQvK1Q3RUdhMnVkTXRNTmJnK0xhMDVmblJiQ1RFU0t3bFBJczlacmZoVVhUanZrTXNRelJkeWVReGVaZjhPbDRTd3NqWjRBNVIvTXR5ZXJoSkhiUmxrNXhRYWE4WG95Y0M0ZEZkU3NTbVloc1BQSGljaWkzYnFUTUVmVG1qcHVUUkxKWHlvM3VVZnJYL0srU1Q5RnpZU1krUUJBZi9BMXFhQ0I1RkIvbTRDcWs1SSttcWNEOU94V2ZObHJkcnpGRVlqT3dLZDdCS1MwdnJlQ084d1k3YS9sMTJNNGgwamRFM0JCWnU5eHpSZStWbUxIdVl2MVA0Rk1IMjlwbksxK1N0Z0F1SlQwWjBxRTY3dTlPQ0x3VERBcEZmNEM4aFZ6WEk4LzhndXZCZmtYNmR0NEdHR3pHS2xGLzFDaXh4TVpPKzArWDA1SndCRnNJbGE5VUY1Ulk3c2huTlEzM3M5MWxrOENvMGtFd0dRMmpEdXFOVWduNDVOczc4aExuN2krcVNQdkg5WkFSRGR5WEliOVhiUkg4UDMzZzhqR1pTY0RaSHNHeUhrU2VWaVM5QzcvMkVlOUxra1ZrOHVnVGpBNHJ1VXhzbHdjQUhFY3lkUDRxc2tnc0IxcWwrU2FzVW94TEVzTGplWkpQYTlzZE42azhhMWpRTE9qbkQ0UFRSa3VwMFB4QjdDOEV6YkNUR25nWWtScm82L1FzZHhMSVgvQlNXcm5oUTRDVXhRcTZlMnV3U05COWIyYjNqVzUyY2J5elVPSFA3MXRsSktIRVZWT2FKRnJUalgvVk9RWWQ5aVhQV09nUnFyZy8yTHQzWXhTS2NDbEpXd2hkQ1dkYytVYzUxcVZ0ODFvV1FKRU1pVDExQ2l6RlREWmRBdDdBNFlzL2EzaFRPVkJXMGpjbGRTdUlvQWs0NHVsOFlYbFduTXdZbjZuNWdTakRqejNDVS83MnJrQ2FodGlaUTdaTUVianMrZGZEOFpxcGN2VWRqOVN0ZFZKK2F1enJiRVEzVWNDcFFtM0k0TThNQWpCUGlqblNBazJ1UU1saUJSYk9TMW9HVlZjaWMwdVNiS3BOSHhweW04UkFydFMwV29PSGg0UXJzUzBmK3ZVKy9vZWhvSEhVY0tZdDhyVU82azUxRVdlcGQ4NkZWejRhbkNTQXJHUXNjOEwyOWdtOEZNVG9BU3RZQXQyV3R1TWxtSEJUdWg3eXY2b25rNmZGcjl6ZVRCSE1SZkpTUDVUUmJZeHZvdHJhWCtjZVBwa2ZSUER5Ym1zb3JoWVplUUtqckdCcFNlcDlNRE9TckxmMk40TnMxQ2xPQWNFMElTNDAydHRBbzF1RW5KT3dEeks1d2FjK3Z3Vkhyd3hFTWtxaTVLYlVhbXh1SnRoMkVHaDBpcTdzYlNyQmpXYVQwQkRWWjRFUjFhNEliei84N2JSVC9tWXV3SlBHbUduUWR1OXlzTzJYbWVJNG5UcEF2UXNrVGdUUTAvbVZyMWxOeGRHUjJPcjd0VjloZHVScThDV0U4WXR1bnNOZS8zelljV0dhOUZPNVVhNmpTUC9zT3V5VHpCYVhTbFp5aFdmNGJPelhldkVMRkdJRGZMTDg3YlBDZEVNUndvdjZoSGFuRjRtVkFGRzRETlhjSGMxQW44SVRNTmZqeEVLek1mdUFHMi9VZDNpR1VkL1JkVElLdnRqSHBXTjlrUVgzdld6TmdnK1NPQlhZeW1iYXNHUFlyU05XVWxnL3FxYVNnMU1HR1g0am5JNXc5NFRJY2hkTWk5YTRPMVl0cEFXaGdESVN5TnhGekNyNFFKVnJ4MTh2RGNNTXdlVm9RSjJkZmI0eTJWTHZOdXZyMDdZZ1J2RVB6UTJidHhKTHhHa09HdXFuM1gyL3hlcjA5d0hKVzZidXJidHdZSUhtU3VhMGtsWmpXRWRxVm9MMUM5VWxWaXU2amNvYTFXNXBja0VWMXJYQWpNenkrT1hTK25SR2RyaEE4WmU4cDRYRmVhSzhBVm5ORWdqQXFUYU03dWVJWnJwbHBwSS9lOUlYWWpoQnAxOGV0YlNlVllOM21veDIyMXZxSlBlSU1SUDUrQVRSL0tLMHl0S0l0QWRFZXRNcE9WVzh1eFJ4Y2ZvUFR4SUJqK3JrLzc5SXhySXUveXloNGdiUjdyeGVkcWVPa1hsa1pJaGlJVEx0eFh4WTZwc2xqUVluKzVRN1V6QmpDM0tINGp5cWRiRXEyYXRBTmw2V2RvQTdGcExhYWNJRVBUQklKeGRFQk5EY1VDZ1B2akQ1V01Qa0FlejdwZThuTGw3aHhFbEVDMnNPbEpMQ2xXL2ZGcjJDMnlaRkJ3T3VLbk9yRmx3bkFvczBRSC9kdVVneXN4c29oWlFlMUQzalVoKzVvUHdmazlhUGJzZ2Y5TndWbkdNVVQrc25rWFp4UGtJQkN4Ukwrb1JSeGFlVVAyY1NjWmo4SFNFa1o3cENUQVU2YXlEUHdLanNEeTNZSHEyZHptU0ZsQW9pMWxZTWlxczNBNlBFTlcwcStGRll1dTV5cVVEWDZiU2U4YmtYR0pKaWFaaGtKRm0zd1ZOOHcra09GY0lQS0xBZDJCZTUyUU5OIiwibWFjIjoiMzVjMDk3MTY4Njc4MWNkMWJjOTRiNWQwNGY0MWFjNzU5MTc0MjNhOTczZGY1OTliOWY5ZjJjNjhmMDc5MjdmYSIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+  "use strict";
+
+  CodeMirror.defineOption("scrollPastEnd", false, function(cm, val, old) {
+    if (old && old != CodeMirror.Init) {
+      cm.off("change", onChange);
+      cm.off("refresh", updateBottomMargin);
+      cm.display.lineSpace.parentNode.style.paddingBottom = "";
+      cm.state.scrollPastEndPadding = null;
+    }
+    if (val) {
+      cm.on("change", onChange);
+      cm.on("refresh", updateBottomMargin);
+      updateBottomMargin(cm);
+    }
+  });
+
+  function onChange(cm, change) {
+    if (CodeMirror.changeEnd(change).line == cm.lastLine())
+      updateBottomMargin(cm);
+  }
+
+  function updateBottomMargin(cm) {
+    var padding = "";
+    if (cm.lineCount() > 1) {
+      var totalH = cm.display.scroller.clientHeight - 30,
+          lastLineH = cm.getLineHandle(cm.lastLine()).height;
+      padding = (totalH - lastLineH) + "px";
+    }
+    if (cm.state.scrollPastEndPadding != padding) {
+      cm.state.scrollPastEndPadding = padding;
+      cm.display.lineSpace.parentNode.style.paddingBottom = padding;
+      cm.off("refresh", updateBottomMargin);
+      cm.setSize();
+      cm.on("refresh", updateBottomMargin);
+    }
+  }
+});

@@ -1,1 +1,48 @@
-ENCRYPTED::eyJpdiI6IlRZb3cyMGg5TGxvRUtTTXlGaG85SkE9PSIsInZhbHVlIjoiaFFuV2twQmVkQ1pXZ0VkQnBSSEVIR3h5RVEzUFBSSTlyZFhDcEJLRjNLL2pCUTlJSm5zdzNYa3JzamdFTjJFemZHYmVUS01BN1RxdDcwWUxBSXVmeDhsSEIwYm9mWlZRTDM2ZXl2ZEhLU3FqWEVKRHVqVEprYWFXN3NCdmhFWW1nWk9XK2kwcmtqTnB3QXRRT2VXL1ZoMmQxRFpIRkF2bVU0Mk1EN3NWVzFyb0xqSjFUM2VHVnc3cXdMUUVYRkxvT2xkSEhSWWZsK3BIWHNVQmduSjljaVBnMU5PZDVhTHFzczZUb3RhK1JiNFV2dUxnVnlSY0dBdnJjR0pKSS9GZW9xQjk2c3BlUnFiZjZDcTJLV01pRFVpQnBkYXBPMUUrditNQmZYNGhSQStMQTBYbkowaktzT0VybDlVaVk5MEVseG1PTVVuYWxROUE4VTV3UnIzb3J5eFhKdkxWTGtzajF3KzJ4YVhvbzlNVHlTaDRsQmJoVUVXdThDenlxdnlVSzhHUytJY1B0SDlGeklZUWI5cC9scTliNkJpS0NjVjlNbFhITzBjTlVDTG1xMmxvWmIrd1hxTVBSYVBYNXk0UFpoN2Vwa3RncWZYMUpDZjRWRXpPTGozMURxRkdvRUZ3aHhkdndVSHpuWmUvUGk3eVVJYnFpNG91Q2t4bllFc21EV2xYVUFoV2JEN1dnc1llbUhDcVRmU0JmS05OU1V6dUpCemNrcmRpZFpDUGhSc3V3WkdjZGRvTEFkRTZ5NWVrdkMxZGFjdjlEcjNoSFFkc1NTUVZwY1dFUXR1VzFCL1duSXhwTGFtajhvUWVoSHcwWG9ia2NQa2ZwNkRvN2dGRm12UnhTbzhGS0ZlaHFMUnZScm5lWUdWYTRWTFdvTlN6bnJiSW5zdGo1SmhqQTlWLzl2dGVndTd5RkVuemhuQWsrWE4zdFRac0tzMVVxN3BCWThRdjBISDczamRZWlZRUE1sM2tEdUpQY21xbFVhWHB6eWkzK05KMnRSTnN6THcxRHdYWVF1V0RQRU9xR3BRRlNSY1V0akpCZ0JHaU92V0tPN1NEWVpsdmhkN0pFcUtMVzF2a3dqcTEwQk9qam03UitadUVReXdxZG5SRXlUYWJVa1ByUmdoL3o0R1NaYXYxUnY3OENkOXdSTmNESkhIbGJzRFhXdkhUZ0RwelIvMFgvUlFuMUFMbmRyaG0vYmI2UXVDRUxYZXA3WnpTSlBQaXA3ZnJiOVIvd3EzTWl1QjZWWW5JVnNpUElLd0pmVW5qazNpb2U2SmJsZURLSDFXNnJFWFA4TXQ4WWtjckUwVU1sa1NiWUFEZUZZaTc3ZXBsOXhtQmJtemFyeHdvYmQ0NnJCaFpMWnAwTjFNVDVvMHdqT0lEKzdRT2JrV1E5cmRRalY5WXluMXVMbW9JQjJNVW1Rakx6WkRENnNZQmpKY0NpSDJiUGJpMDZxQVpuVW5DeE5icE1FMmFHNXV3U3RxOEFCSEkrQUxpaWlwMkpPblF4RXd5RkQ1MWNZRXBTOXdSVnE3by9BZEdOWVVMYzlydDJDRHdMRGxrdkErbmlVTGZmaklyNktUM2tZUzBjZnFlUWRSaTlCQnNHQmhLbU9UWmZESFZDT3VTS2dONS9LKzlmWXZsMktBc0NUZDhBZUhrZ1NyNFNlUjBKcEt2TUxoV00rb0FJNTF3a0FaZjIvL1ZWSzBrdVgrdVNEZW5XNVlYaXkwWGFvbHBZL3dnNy9BMVJ0M01oVXNuTlRwN0F0NFlldEFGU1VMc3ZTNVkwL0lwQnJoeW5jUG1YTmJrdzFQRzE5anA3UUx5ZWlHbXFVcmtubURKdUtPUHVKRmFGZjhaYkZ5U2pheXkvOFJYSXFCdytlQStCZkh3Rm5sVk5HSnZGZFhRWm9UUHNhS1IwWll0Vm4wUG41ZmRiVitodW5kYjRVeHlUbjZtV2FEUEtjZysxMG9PWWNRMUJZMlE0OTEwd3Iwa2libEtVeG9SdlJzMG4xTUY4Z0ZZdzh1ZkJ1QzhVZmZ3SHBMNEM5TU4rTFUycTByN3Iyd0czMUFmSmMxWXpYT29kZWEwTGt4YytEY3o3WlBWbUU4ZmlObE41RnRuUkJWR2JpNnZhM3FZR0xhYTliWGtqSTUvc2dOQVFHZ2xFSEU5b3ZUVEdVS0dmTUxXeXl5ZThIOUYwN3lFeDBVKzFiYnQwZ0ZoRjJ6TlpDWEdRemRTMGhiZFlrU2RSUUtvUUpON1V2bmpvVm5pbjdVaDBYeEorY0tPb0NiZGpOeUl1Z2s4SFE5ZEFoWGgvSit2M2ZiaWllaGI2UlRtVHN2T0dGMElOMkNnQjR2N0dMeEhLMEJEZXl3ZkV6UFd1aWNESG5SVkIvanEzSFBndjM0elpkbkJYZ21HVWtSdTdvSUhJNlpZbmgrOVRQZzA5NjhMRFY3NGtqeFVIc0VnUk5JbUkyUjgzY2RjemVZc2VIbjFLVUFtZS9uNWdValY0VTdwMEZJTzQyODI1QUhSakxmSitmQmVwNk9LVHdBT0dtRTljWE9qMENQSGQ4LzBYczlKbU1pZUdTZ1VibHo0ajFEc2sxaDBBRGJUQjNVOFU3RFJRcGY2SEQyOE9SMEhCcEFmSmhVblYxSm8zZERwOWZ0UXlsaU04SldPS1F5a1RmYkNOWTBZNkR6MkRhMVNNZzdIRTRVNmQ3VmhGVEZyT1FnbFZYRmxKT1hRTmlBOW92UW4vQW5peVptOU02d0dPcVpGWXJobWJ3Q2t1dUVnSS9jSUZqYWh4Vjg4amEzRzRQbzhIenpZck5kbC9FSThlakFJNUpGUFBjWGRMazQ4UHpOa1BWZ2I2c3RNRk4yRCtXcEd3M3dXbFR4WnhpQ3QzdVNRNjZBa0ZjQkREQWUrOW9XeExHUFRxVUZwSkRSTHRTTEdVdnVuMkZqdzBzZWFuQU45SElOdDA3MWtoNHFrYjFJRlZGWDl3OG9Vc2NzVWJ5djIiLCJtYWMiOiIwNGYxNDdlMzdiYjg4YmFmNWU0NjU1ZGViYmNhOWIwODBmNzM4YTUwN2UyZjBhMDAzNDZkNzIyYjQ4ZTNmM2M2IiwidGFnIjoiIn0=
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function(mod) {
+  if (typeof exports == "object" && typeof module == "object") // CommonJS
+    mod(require("../../lib/codemirror"));
+  else if (typeof define == "function" && define.amd) // AMD
+    define(["../../lib/codemirror"], mod);
+  else // Plain browser env
+    mod(CodeMirror);
+})(function(CodeMirror) {
+"use strict";
+
+function lineIndent(cm, lineNo) {
+  var text = cm.getLine(lineNo)
+  var spaceTo = text.search(/\S/)
+  if (spaceTo == -1 || /\bcomment\b/.test(cm.getTokenTypeAt(CodeMirror.Pos(lineNo, spaceTo + 1))))
+    return -1
+  return CodeMirror.countColumn(text, null, cm.getOption("tabSize"))
+}
+
+CodeMirror.registerHelper("fold", "indent", function(cm, start) {
+  var myIndent = lineIndent(cm, start.line)
+  if (myIndent < 0) return
+  var lastLineInFold = null
+
+  // Go through lines until we find a line that definitely doesn't belong in
+  // the block we're folding, or to the end.
+  for (var i = start.line + 1, end = cm.lastLine(); i <= end; ++i) {
+    var indent = lineIndent(cm, i)
+    if (indent == -1) {
+    } else if (indent > myIndent) {
+      // Lines with a greater indent are considered part of the block.
+      lastLineInFold = i;
+    } else {
+      // If this line has non-space, non-comment content, and is
+      // indented less or equal to the start line, it is the start of
+      // another block.
+      break;
+    }
+  }
+  if (lastLineInFold) return {
+    from: CodeMirror.Pos(start.line, cm.getLine(start.line).length),
+    to: CodeMirror.Pos(lastLineInFold, cm.getLine(lastLineInFold).length)
+  };
+});
+
+});

@@ -1,1 +1,242 @@
-ENCRYPTED::eyJpdiI6Imk0UHYzWU5vbzNRM1YwYVZCWUlPd1E9PSIsInZhbHVlIjoiN3ArRDBDOGh1YjJJTFdVL0s2TDZlUDZ1VjNmM2hLNFpSOTBmUkI4V1F1Njg4Ym5jQmpLbVhZVHpyQzlTQ01VVmdEL1ZOYkVZaEpDcGFqQTRRTnVpOXRkK0QycVNKVStlTGQ0VjI5bVhwczNpSjE0OHJXTUdMVUFQUHptUnRnTGs4emVBVGNLaVo3WGhOQUNOazRadjJBbjBFcEN4blc0WTR6VGRKd1ljQ3J3ejlVTHBhQ0F1MDNxcnhOdGhGVnNEWkdBMHcySVdoNkl3Qk50YWNoN1N4di81Mms1NTFtbHZOdkxZTi9DR2FVTjdoWCtOZjViSGtEcFUycnNrTTJVZEVDV3g4NzkyN016dTk1L3hJVnFBYlRJVTlWOWl4T0s2Y3BRb01nSW51Y1E3TVM2MHhsMjEzcmxQWjhMRUU0N0k2cmt6TWt3d1Flb1U0d3QvUXpJNlBQVlcva0tKZnIvWUQ1ZGxIc1QwbG5sOUlGajBvQ1BVNElJeWx5N1VSWHRvRW9xWWtGRGtxWHpYRzFFOFErZUM0Z1pvZmdKTnBjWS83ZEh4QmJuNUhtUlJVaCtpOFVBcnMyaHpmcndaQ2w3cCtFRk04STVPbXNmWGJHTjFYbWVPYnA2YjliSkNNY0c4a1lCclNFd2l0UTdKNmFabjgraTRQNFJOTjYveVZJR21ZWk0wVmFVOVJLLzc0eUxqdG4yNlI0Ky9wem5QUGlmY3lLN2JkaTFmREJsd1Nndkp6SURRalBhUW1zUXNOMHcyeUIzY0FobHExUm5nZm1yUkE0Z3ZQQVJqbU5IM1dTaTRBT2lId1d1NTRqZXpoMEsrVEgzaVFEeXlpSTF5UTZHZjgwSy8zcS9ET3ZUazFJYjE1TjlEbXFqR1ZtSkowL1NQNUxKWHc1VHBUTURvRHVxblpHQ0xXa0JIaWs2WmcySkdxOG5Va3NqYVY3Qnc5ZDlIUG1rdGlvV2JOeHYyY2s5UUZSL1MxV3NjZ24wUUxqdE1IZ3lrMDJpWDRSL1pFblBzWHphR3FZQ1lKbUpCRHRiUUpNdm9IcWQvVkNza2hibHllbUU1OUcwTEMyOVhxcU11a2lORGRZMXk0THBjNjVENVBhaG56Z3d0cWEzWWJqTW5QL04xSzZnUE5nVFdyOG9ENlhDeVh1Y2xkc0xKNFhwc2s2MktCTGs3L0pxTWZPUE91T2pUTE50WEV2RlhURlQzQzQzZVdCOU03VHMySlZKTVBMbGZyMHE1elBtVXBqRy9tMTB4VU0wREc0NmhQUjVldU1JZDh0a3YwWVNra1U2cGhVRGRJeXpEamJWeGxjU2RMT0pHU0tiWVgvNGJENUlCSENIVGhpeFdFbWZSZUs1VjJBWlRsbXhSRGRyaW40YlI3OGVnQWw3RHZjdFlRRnI5WENiZVJsMzJVWU9jaklONTZyZHlvWlVYNzBYdWZWc2dYNVBpNmFtWWNiSWlTZytFa25yQWVnTTBWdXNKMHJRcGRvdGJBWExLcmhmVzJ3cENuWHh6TW9hN3ZVRUFLbSswKzBOY2FZeENEWVczMFNSaUd2L256M2R1MHQzeENOM0pKcVVBYUxOMERNencyTkNQM1pDdVFYSXBMMHBTKy9ESnRBalFJUXFwRlJIb1lWalFIMFVQdElMTStidWpKOHg1UzcwR3NjU2R6RlFaY3g5a3BQcDRoWFphVC9uMmh5dzVOeXhHa1ZzakVuZHI3aGMvRkZ2L3hSZU9mK3dMNFliV2ttZGJuMEs1bUY2eXQwZFhqSXZTc0phTVl0ZTNTakpsd3pOMGVQZkdqVVF6T00zamJLcGl5SGpPdHdSUmphdjZWMERDV3lyYW84L0hlanY2MDZNTFBQS0pVM21scW84WWVlaEJjNmYvNWZSbGEvUW1wQzdzb2N1SEx5TUlVUEozc0QzcUFMUXdyUUw5VVRjcTFIeUxFWkRSTDVqOHZXenlKY290UDh4alM2eFFLZlhPcTZwS0pzKzNjTmVGY2hmSStCSnpNQ0t6TXhBN0hKd29oTDNyT2lpSzltQXJteDJxM0k3RUFYTUdXeG5tRVlxYjdid24wN1hLZ3kzajNUQVZBUlRTKzNLUW50WmlsVU1Zd2pZVXJDZ2dNZTVEbyttU090WFovRys1eWhKMkk1UE9SN1FERm1kemsxTlA3Q0pKOTRjS2dqczdqWXFmN1NoVnI5Mmo0V3h4a2NRdTUyeUhrVmkxd2hFUmpMRTdUa3dTcFdvK3lwdzM0TVdqbTVyMFFWRUo1QWx3cWRWcWExV2lBWWI1SmlzTHZ2SGE0V1V3QTI2dFFjLzJ6YU1seDNlOGswdmZtTDhBRlZkZ3RVbVU2Q1VPa0xiRzNsS1VNd3ZPamd3UVVkdk1IVXdxLzh3Y0VKdVhjWnhNNjVFUVhwbXZmYWRMNURNYTNvUkdtRmd5dFR4NlJRc29VazdkQzlkSVFGR1NENjdGNnZVeVhPV1Z5aDhEVTY0K1hiYWMvZWJjWnl0N0RKbFV2UFVRZG0vdTA3Sm54aURYUjkwQXBuVXZNUVdsQjBGM1l6RUtxOE9abzRNaVZBbHJsbzd2MHRPM2tKUURGRDh0ZFE3YlBOcnc5QUp3RzNRQ1RpVjZZczlpbWJwN0JGdGNmRnBBT05Ud05xK0k4OExnLzM0ZE9BNUsyU0VrdVR6aGxWR1pQQ3UzQXYvWXZocUtyVGRPbG02U2hwS1hWRjZ5engwWGFDb3Q5RlFmaTU2TGNmc2RJY3F3WU03cnlBUG1lbm5DSTZFR1c4WmZyb3dDN3JpOXc2K0xJSHNna3pBY3BhbUtsQWF2bGFOdXczZEthdkpZWitwSklHVjdJZ1A5cFUwOTZnWnBMM1RxUEZ2cm91SFIwRlgyLzJFQlpxeUdHMkhhQTM4M1BXeUprd1UvTlFsRWVJaHVvU2pNOHEwbVJTUEZLQTVTQ2ZkRitMc2FJQS9GU1VmU09RczI5MDJ3bVdpU1FhbE80VzBjeG1PRTkzVjc5N0tiWHRRdmRjcGllUWxhcnJOYzJnVFFPQ3NrOWVUTi9raDl2YkMvbW5rOW1CUWs0ejBVclltT3FpdmVXWEp4SVV4YlZkMXlLTGFpYTErbkkyaU9vUzlXWHpMV05SOStPNzBWcGdoNERJeS9pbjdEV0N3VlhSYjJ3cS9UcXB4VStrd0xLQUJMcUhQY1ZsWk43ZENSMFppWFFBLytDWlRDTUVuYy80NWxtTC9EbkN2a1VlTzROTHJOUHZRSlRNSzBWZDVxbGZnVk9Mdnd6QXBpcGFIVnpOUzdIbmV5ZmxwUXNsQTB3bUs3U0gwVEZLVkVEL0ZlWTIvY05yZkJwRzRSNVR0OVVERHFUeHFCcm53VVMrUnY4RWJ6TTZ5L3RyNzZJS2c1M1Q1TXpVeElJeEZ3c3QyeFFDT252dWxoOU5JNUtpclFScXN0UG5mS1E2a0VNbENoVGpUZXpnb3MwY0NpZ3g5cjZLdk40ODNoYlorS1hBMWx1S0tJZWZ5VTUvM0MyVUNKRUpZS1d2R3Flb3pEWkhJNDE1K3k2K2dkQzBTRnBlZWhxcXhrQnU0NUI1ZHBiZ1Q3Mkl3d2hUaThDK3ZwTWpBaDVBSHRBT24rMngzZjRoWFlOVXFTRlVsdUE3SXpBMjhpak8waVpLcWlQc2Y2KzJhZDA3K1VpT1E1MlFpQkVTY3BKdC9rcXlSaEdraUUwRW0wbGxEV2RoQkJCcnpXYUJMUXl5NXNPQjI4QURxYUhNWFFrSTNMZC9ma1dUS3NGMW5abUJNWU0rMkpESCtXdXcrTTNGVUpLYUF3UHVaeDljakV3VllzZFNaN2Vxa1JNUjdUSEN1dWFtMGp2UDF5ZTdSQWNzWFpnUUJtSmZPYmFmbVl3Ny96OG1vWUl4R09ERWtPMGl6TXJxRDU2SjZiRldhVlBTMVdPUmFod2lYODgzS1Bkckl4MGRTeUM3T0Qxc2xUUW14UytGbm42VCtiN0Jad1BZenNFZDBFemVUZVExQjBjZjl0UVhGUjAvYnNDdHY3bytSSnRCZUxCUnkzTkgyQkZkUCthOVlNaVc4aWl4ZU9tKzQ2MUxQRDA2ak9BaXhKRTNQRUZhaEZOdlFOWjlCc3FRZEkvNk4zYXBPTHEzZGJ5dnRQaHdRSFJaYzFCckRIVWJBQ1pKeWRiYmxLZ1RJbU8xVkpWM2NKR2t3TTJELzVIUHhONGxRRUJBRm9tbzE0R255eDdGemFMWTdPYlZzZFlLQmF1R3hhZTE2a3Y4QlBnVkxNdVA2a1RHM1FxVE1ocE5xNkc2OFAzNVArZk9WbmgxVjBYWUN1cTU3cWlZRGo2VDdhdkhnalhEeWtxWm1keWxmdmxUcnYzY1JzWk1rS3p2ZksxYjljRnhha0hTbUN2SzhWS1BsREVaUjNEcEhLMjdIdnl4bTl5Uk9Oa0w4cG1ndEovYkV1eVZhQmlBNkNvZlo5UlBmdnRiRk9iTU1iMmQzYkdGUGtxeVpOT3VLSkhwQmxZNUVuVm9NeDdUS2tuMEFPSjRva2IxOExKdWFGakUxeFVZTGcraW0wL090b2x4SkRWdWdpSDdnR1BCOGRtaUc5Q25aNENTZ3JnOEdlMDI5STRXZjg1V0ZjbjFmSmR1a2F2M29Ydm1hWnRIa1NmZkhKZkgxSmV5QnNvRVFCbk1YTVJrOXJaZXFrMjNIazJ3RG85UmtPZ2JlWlhLWmMzZFd5cGFBbU9KS2JTdlpKaHZyS3ZOQjU4WTkweG1Tc3g3WnZBcGtPVVgwOC9GMU1mOGkwYTViTG0wYUd1OG1CTUpwdWhIdVF0WUx2cGxqeWlnUzU3STFOc1VhdEVMN2hJUEJZd0ZpOXZMNSttZnZ0NlRWeVp4ZnhqRDBqVGFlRzVlZGRVOExPM0RmeEhHQWpoVVdxSDViOHJXOWhneEplaEtjeHZxQTF5WmVoM3hKZDdlK3FBQXp2aTgyWS9vZUlYTFZxSUtZMzNRZmpSUnNGVWZHeDZjc3RtZWRVYkdMbkhKQXl1Z01WTi84YkIzTFNwM1dOVk5yK1FGeDYzeTBLZ05PcFFianVaN2NRalBJT2RNTHpReHRyQmMrSzNpMXpkZTN4cWtISTkrU21JWHZ3NndoU1VRTFBwdUtuazNoSjRqWHhLNytLMHhKNzdYY25vRzZwYzFFTEZFQjd4VUhQdlRkUFcrRUZYMkNpQ2dMN0cxdTVnZGE3Mnc2Rkg2RitFWkdIR293VkZ2bFZONlN6amZjZGY2VUE0RnVkZUxnQlk0S3dORURNNGgwTk5WbCtOcHYyaElXQW04cHkwZE5icnhYM3dpK29lb0gxM3kyK3NEYnkvRGlUcEpsZEkzQnV1VjVSeDNwZlZ5WnRKeStUc0ZBQnlnelJrNTlwc3hNaHhrZzlPT2JJK3JHZHB5U0JtVjVIbURlczFDOWp0aHROSUtld05rNVdTbFRkaENqWGlhaExTYVREbDBMRlBORHhyUnVwQWVMMEdlYzJEN050aS9wTi9zcFVIY0ZvQTBNV29wMi93T1lSMjFVaDczc29Kb1F2OXRUVjRieHVySWhVV0ZjcjlTQkJGNm1Idnplb1dXejVmam5Db3B4ZWNNOGRoSTJpUklscFl0VXBXWDdoNEVsRlV1MS9mVWNkTFlwRlRyWUxSVUR3NTFNR2luTEpnZzh5M0gxam1SUFgrS1o2eTlMOWhSaFgvblZhd2Z3TjB6UGh6a1UxQjBwZmxNbm9iaWJScEErS1J3bnlsT2RscHNnRmlHcWV3b2VndnIxTGpxbkVtZXJGNlozY2MvVXFSQlUwL3BZYXU5VzYwbXFJYkNjVTJHcDEveDRTaXhremMwd0VKWHIzVm1uUXNFYU5raHFoamF0OXo4SnBpcXdGMm42SXdIY1YwNWVMb0NkTlhPWU50MGo1OE5DUndCQ1RWNSt6S2xQbSs2ZUo1Ykl1YmdRaG40RW14Z3JKZVlPYTBKS1hhc3VJVk5yUlo3dmhhNXFRUHp4eWIyUE9VdmlRZFJnUGlBZkV5NVlHOHAvamZWSjlOOFJjbjZlZ2hvWEpnNnBCaFIyanIzUWNQRDJzYTFyQU5ENjQ4aENSUFQyK2VzZ2RsNzIrTURNd291MGp6aVdKWmpzcDd4NTV4T1p0ZldIN1NOSEZaNk56SDNmRG1KcDVyUG5OdFU0RFZnRi9TR2dmc2FDRTZXUUUxK3BtUVppSGwySHpkb2VCNm00bVQ4RGw2MHlEM1NqZThGNFRabWpFS1N0MEs0WS9BLys2QkE4SDBFMklpU1cxeS93OWdNTm5rS0s3YzhUUWFBTTdVQkZqUUowbUdWZ3JpS0tQYnRTSER1dDdWUHlXaFpDOVNmc1c3dWdXRGJCWmU4RWcweFBhcGIxdkkvc0tqVU5pN1JKb3hLRmYvV1BhZHR4Qk5Hdmc0Y2UreUF1TC90RzJTK1BGSm8rMHQvQTltNW9oaUxDcHluY05ycGFSRmgrcUVZaDJYM1FZOWNOVFZ5b3dIT3BXcm5ZQWZVekd6K0NRZkpnMGdWZnpYTEc2V2RCTFhta2NKWkZTQjI5RkV3aGQ3QWtnZkUrZW5PUzk0cXhXcEtObENQanlGZFk1dGpuMHlpTWF0bGdsU2RKZXRlWXdDZzdJa2FwK2FaRTNYd2dZU2dQaHM3TXh4c0lLUXFETWhXZVRlWFBocW9CMnF6azh1YXQrWWI1NnlsZHVaYkJqYStPeUNweTZRYTZRUmRxejl3WEpGeFhqYVhNR0VNbTllWFhzbE94dDUvTWxTalJSWlg1cVJ6VkdneFo3YVdEbHByOStDRFRBekJialdNT0Zka3JKc1hYY2Y0NEJudGNNdDVrajFGaEdZMkdHb0YrazY3MndBTDdYcHpLRk1YRkhWNC9xREhkbjhQZ3pmb0lnbkduOHlzQXpEUGZtNWo4RGREamxzSW9SeDRVblRUbUVrUk1STHg0em9ZUkF1TCtmZnNzc3lPa3AyS3dER05TQW1lejdGUHdtRkJ3WE1kNUJNWW5OV0dmY0tLMVBHNk1oTE0xbFRoclA2L2p3ZVo0M09NTlhhWTJ1MzZYcE8zN2FMa3EzQ2JKUVdXVmEyQnBBcUJGM2t0cWFrR2szc3V2dGRWV29LRUlZWkxERFhnWjkvSXVrMnk4Nlc1Qk5ORkxneGRCNi9MSFlvQVFMVWVrSVBMMXFIRWtJUHdvaGtFckw1Mk1nRmlMeS9LTFo5ZUNWZDlzb21mNUdMenVDeVBic3JaVEVFamFRWWZXQVhwdGZGaGQ4by9nTiswTysxVU9BNVVuTi9KWVM4cE53YmFFV0JudnVMNUZrTXRhVmhsOWZPOG12bDBOZzFiSFUyS3RPcEQ5T0VVQ3lkdnFwYVdqRFNSYzAxSVptemNWdUUra3VUQWlBVVFjQTFPMVN3MzYzQ3dFSDlRMWh2eG1OTzFyWWkxZEswUVNtdG1ralZKWXY0bVZzd0pQZnBlOGhJSTdtNFRVakljL1duZStWNHYrRFh5aHR2RU9CbVZycjBzdDMzSG0zempXeTRaL0diNURCWmJIWXNDYTVqSVRIT2U3VUFFWGEwZEtGZlgyeHg5eFNoNE8yaFdHUml4UU5sV0R0K01ZZ2ZaR3oyTk1jQ3AydDhmZkhtRFBYbHROYUg2WDVmb1lzR0FTeVJBVzNsQlQvNDRGVW9td3JKOEVhZTVmbTRuSGY4eUJSaFpFZVBla0VGSjJNSUw5WVVRM255ZzhnNUl2djVIazJNQWtaZXN1RUJzcnV1Um9RUVpFUXFOWWEwSWJ2V1R3Q3JCbVpUV0MwY0g1MjRSWjByQ1dBZFlPUS9wREN1ZjdPaHpPYkRZTm9XUzJoT21NUThvbnZXd2NtK0QzWGlaOFVmR3BqSHlkQnZiSktpRXJrZjFnSnh4TFhLQmIyT2FicWlsYmpzWEdlcCsxOTIvRnE5K2VqUlpiMWRBV2ZlNTI1YWJodWtBQTdNdGRGTjZUaG9sZVd2NGlVL3c5dG0yVUpPUGF1Z2RHSTVueXRLWU9GUzdZb3poNm8xM1hJMlVES2J4S0wybEF0ejZ3VVU2bFJlQ3RtQ0Q4NGxGOGl1TGtUenVkSUV4ZFNxaE9aUlJ3eVZLUEwwSHhxSGwyVDl3ajNaSHQyT2YzdDFaa21UVDVqV2ZVNWV0RlZNQWQzcEs5UUtVcDZjWWtIeitRaGIzZmdiM2lHTmNnUEZsV1VSc29wdkNnWHhhL240NzBYbENmRkx3UnRYUDFudzUzeWdmTDVUcFoxaWY5NzFuNExOUHhpWWoxUGdibVFUWDVRYTRLbVlQRUJ4UUJZZ3NYQzJsb25UMWF5VEI5eEZGaXpDMVhaMzd3TDdyOEpIRGlKQ0U4bk44YmZGZ0syakpHYllSVndQOVJJemNDcHVXbnBGL2xmQm1UOC9uZ1EvemluZWdlbSszQ2k2c0IwMVg0SGVhdnN2aXphVG1zbEJPR2tkTnBkUkFTS0ZISXA3emMvbzIwVmIrTFNSMkNhMnFlUFVOTEJqR2dxOFVLb1VTL2U1bDdtTW5JWU1pUlpFLytONEZPNkh1eXh3d3JuUjlUcDN6bzRld0JNaklGRktrSU5zSGdlcTQzeUFnTmp1WjFmRlMva0RCQzJwcHV4Zlg3WThxUkQ0dDRrR2llR3FEUm0rV0xPdzNWb0dPZU43UTVLZ2cxUFVJMEJ2NU0rUVRETk1PQ1FIV1Bram1BUGNUdml5ODZoK0l2bkhIU0VHanVDWVE3UGNlclRhdkN5ZC8vNjVoQ3lLYTZzdjJRZXBLRmtXbWg5WUlEd2N3R3BpbkFCcTR2YnM1emExaHR5NVdCUUpSNVZIMkVlZXphVHlNcC9GT1BaN3crNGRiL1RkQlgxMm1YTHRnWGs1SlV4OUdUN2VkK1hYc3dEbmRSSEE4Y3dDa2FES3NOOCtXSVp3cldjL1FTRUlaUUNrTEF6MmYvNStsK0hCaXA4THJUQWY0WEZXZkZ4SjB0NXlJQ2owbGlveTNieVFBejBYNEZRYWVENHgrY0c3djBRUThKVmFSbU91NVgyZFR3eGZ1SjNTc0VzWWwxdy9jb3VqQXRaa2J4ZVFNaFozSDlCVk9uMlcwd1pjT01OZ0k4S0JkLzR5N0hjMXp0OHBWZmo0bURleTJyQnJNKzFpUE9tbDVFWmZpcXF5S1NZMzBscVduVTQyU3lNSitnNFg1NllXQncyaDBYWnMyRVYxNklEOXdjRTRzVW5oSi9oVjVCZ2dEVUVDRDFMYjN6WDB1ZzFWQ0RxNFFzZ2JZTVZqRnVzRWI1bzJ3dnUvY2x3T3MxdC81Wjl1bGx5WE9ucnhIVlJ5S1NocmFnOEk2ZnlNTEhMcWFEN0VOTjJLMzdBV2I4T2dIbUp0NnZhZGdNRklnSm1UTkQvaW1PNXY5K1phUEU5SEhQaTMzLzY2bXFZTis4M21zTXVyNzIzWEZtSTRaZkVNdHArM3VHT0lwWkE4S0RZUUZ1N1FUMkQzZVd0ektMWTFQQ0JEcE1rTWhUNWZBTnJObUc0ODI4NDd2c2hwa0twY296TkRQL0lYa0tGZVNqb3QzVkowbHNZZzZLSFpWMmtTVjRCTjRUNldMbnBsdkF3YW1OS1M1VFZDKzU0WGpPQTRWVVFRUkZIajV6bnQ5TStBaGRnK3dTZXFVU0p1QkgzZjV3TmtUdDBsN1M5YkplRklKT2RIdXBDREtXVlljRlhZZmlTNmFNZkJna2pNWjd3NjlUL211azdTaURKMEVSc2VPN1hBL3pRam1weVYwVXc4a1c0NWtJeWZGTVVjV25YdExXbjlYUFlzbEFnOW5Vc3NuQi9FdEJvUjJ1VHFMa1krTlNSR2pwRHZ3NU95Wjdtbmk4UEdXaDhNMWhmVDJnT2xMbjdDUkx1K1JYUHZ6bWxra3NaQ3pIZlB5TGxvUzE2cmZyWGNHbnFHQ2F1NUhzWDNTQ1pWLzNGTWcwblNiY3padVlnMjNjQy9uQk1BaExXWElmSHUrSjR1V05kL0lVZC8vRDByUUtCQms3MGxkMXJyNWxFVDRQM2s4L2RsVXNpRktjVFRvc093LzYrVFhYSUFYQS9qeG9md2VQWmR4YkRkNXFtanNJZ2FldU9BSUQvWEVRSUhJbkxiTi9HRkRYV2VuVHNUODVCalREV0h1cE9Nckh5bUdBY1Zid3RPVDg5Q2ZLVzlqR0swUFhsWkxVWmgwLzBZQ1ZpNVdTMzdsazVWeEwyUGRjUStnUkFqUmUxZ3hWUFhSWklsZjV2ckhYWWw2ZUhzK1hoTlRrK1F1eWdLWkplOHpDdEFMak50OUpHeVpyVjdZeUFVdllFS0l5NWdxOXZ5bnk0R3RPbGNZS204SnJMNmRaZDdLWU1YMVVSL2NxZk9zSmJkdklnb1NUbzl2ZG14OG1Ld1MxL1E0dHNGQVgwMldIZ2tNTWJTcEx6cVJEejBoVVRPSjBxMHB0czFEdExoNmxnL1o3SFdPZ3RvNzhFNzFFLzFwRXpIOVFRNVFFLzhUekFCMWRKMkxyZ3BXK2JDR1J2ajJEZko2Y2JzRnNSZmw5cE5oVUUxQWNFZWVqaGRIL3RRcUdmNFVMVGNVSnFQVWlLNlVEUFZOZFdsdXB2d2FvcTVhQWVKaGtFNFdTWWh1cTRBei9nL3ppMTFOWWdIdFhnL1Noa3E1bmx1RjdjZGFtK01KdGxYSk5wQnFweTFYcFFJQmV6eTF4N1VzQkI0ZkwxcGUxZUI4bndHSmVhRFFRN0R5aVNtWXEwbFBtTWdvRlR1N0F4Z2VaTHdHalE3Q3FCS2RLcnhiOWYzSXJwNDJEM3AwdkU1b28wVW5ielhSYTVSNjkrOGRRVjNLbkt0aXRiTkYvb1JsVXgzeGN3OXUvMkJSZ0VFeDJLb0dCMzlkQ09MZXRLZ1FlaHBxQUJ4QUFZNWF1OUo1YXVBRmc3SUpSajlKc2tKcFFlaG9TQXFmMVUrL3RDeXdndEd1bzlMbGxUMWhNSzF6YkJqdlA1ZUxmQU1VZHBpdExJcjdSamFOdGY1WWgxd01vL2d2QyttcWxsdE04c2hQOFVpV1ZEdm1OQTUvY2thZm80em54dWRjcWlQTTNMelJuTEhnejRHTjBFV0RaRUhlaXp5Mk55S01zSXExL2FOVDdSUEV4dGtLMUlSMks0Y2hEU1AxeUxZU2tyZmFNQkhMT1MyR1l5eWZCVW5oLzloVnlhZ0VRdzd6WVJONSt5SUJoRFlMb2sxNndTVGpFT2xoekNOdEpvUUZlZkRQaFpMbzBUTUlxb2tGNFN4OW02SmY3Qm1kQmFadVQwd1VDd0xrOFhiNkh4bHNyaVZMa3UxbGVvSHlPSmh0bWx0d2E5VXg2NHNXMHJ4ZWRmM25iaGJOeE83Q01JSFBibVBpVEVhTnp0Q0k4VTR5enVJQlAxOXVOYW02UjFPdDNOc1dLOWVrcWJCd1B3MzFEWkhKUkRKbFhwSHYwdkt5aWNhRHp6N1dWVm5lN053bVNxb1pCZE5qTUtMRkxqT2ZobjlhUGp6MDdQTTRYV1FtbTlLVzJsQzR2UlBEaHFXNUNHTlErdnVNVVZLSlUySVVHTjJaaHE3WXJ4dXJaZVp5ajd1c3ZaRG5iN25vdWg3NjYxT0dER0gzSlk2NWg1dzcxMUczNzNTaFIxL3FwQ1lyVXh0UHdVeXJnWnluWG9rR3RXc3RTY1dnelBpa2ZlSVl3V2V0R2NYV09GbHhrcmo1YU9HeWFnMk9xYlRsSTdkT2JjVk5sWm5LeDMvS2hJZk10MUtUZk1oQ3VwVEYyN3NvbE5ydHhtZEZQMG1Pa0tPcklYSndpNE5kZzVSMEZlU0tDZnBPVkk3NUc5ZGpzTFBFdEpHblpNNGV1Zjl5UkEvRENBYnBQWlhRQUNTajV2eXVYMEc5eDZDY3l2clZYZWlxaGl4MnNvY2FxWlA0WkNuNjQzcCtKQkxJa0Y3REROU3BpTU42eTVXSjhuOTdpYjM1aXpxajZCRlh4WnRkQ0ZIQUtDUkdNWnNPUCt4T2IrajVMOGUxNXZDbGExeUpjUmZyc2xQMElCMitVRVBycWJBQmhNRFRIUWlodS9RUGFrVVdzV3VlTm83UXJmM1ZzU1JsSVh6R05HMFJSKy9vQUhtUWVjLzhzL1RmUkFTcHZyY3F3OVE3RnRLNnVjeE96K0lodEpGL3B5LzYvQVpmckYxTUpJZFN3QnRJQm5RWnlBaVZ2ZGgxK1gzYTk5ajJIaGt1dTRiK1VtbVB5ZUtTaEEvYkllcWlibEw1VWhnYWpzcFVLYmpUZGJReDgxcmh2YnRjWXJxc2lrcTFxemJCejhCNXNPbHJtM1kvdDRrRU5xbjdwODlVZkgwSHExTjloVWIvWHdDZ3FzaktEYU1RY0cyV2tGZy8zSTRQdGovczRaUnVPTUZ6VGdZUkhSN3pVK0dhQ0lrdnI3V21XcjBaZHdnSFcrVFh2cmhsMjBCNHozcHg0blZVU21hWWswT3ZqYkJCaVNFcnZsdjdoTEt5emhUNXRrRDJhRC83VEl5L3J3c0hVTmNrdzlkYkxaS0J5UkVNRSsyeWNDNzh6SDg1eE9wSi9rLzFQdEFlYlA4VUN4Q1dQQVMvNXJHUDh1d0I3ZWt6QmhUMm5zaWcvS1dXa1p4QTRBSFhNb2IzalR5bkxneGc1cVJhQ2pHVzZScnZ5aW1MNm45ME51N1lGQ2FneXBjNWRTYWpicE5PNDVhaldzWmxvSkgweThmMWhmYkpreFFoWE9XSmJXR3BFcGs0bDZaWE11S2s4NDBiRHlSejVGdnBPNDc4OGNVYXFkckNEV0NMWUJtWmZhV2llakZBVS8xT1ZjYkVBR00zTkZuUUt5Y052WWttek16VDdqc0hLZHRFSWpQay8xcGdDVXJpQ1NuZzF4U0JyemVnOGI2c3FTM3VteTJDampjQWVwUnhLUnlYZVI0N00zcmh0dTZ5d1JPZG5Fb2hpODBZTEVxdW5YRFc3MlJWVUp5REErNStZUUJsSHlac2V2d1p0VVdzeE5RUURRYkJ4cWhrTGE4ajA2ZjJzS05qZzBpWnkxMUhHVU92KzZ5ZVBVcHBIMGM4WHMrVXlVLy9LM0lsS1psbTR3cGtjcUxGTFhoWW5IWnhQeEJDclN1aVhjVnhTOUgwclUwTWRCMnFqTVRjczhKbkEwN29Ob3pLRkZXeE1ROTQrQ0tTTENuWVNMbS9GR2Nmb2dlUi8rNVVVVmVzc1RhQUF2REJ0K1kzY2IyaWZ5OWVqbXBxSG1STlo2alptVGVCZkNXdkhIWXpXMHJkUGlHTlU1bXF5eUlkNURzTExjNThwMnNmNFpwVGRRMWNjQVFjc1ZoRTdhVnJrdUs1bXVIRWRsUG9KcnRpcG11YUpMMk5jZ0dwTjd1TTU2Z1hHT0c4VkpuMUttcGxJWUhOMzVZQk5vNG9HcGxKbVVlbU5RNWlpcHRsaEpSNHljMlI2N3FOMnBEVWpSQmMxbEE0UnFWbVM0WkNLVlBVWkNZdGlkazBNOUpUczg4dU5nK0wrd0xQaDl1V3VIWEJSUmpFMzEvVUt1YlExbXJjQURxT20vVVUvSXl6eEdTeGhtOS9Vb0Irc3NqdXFGS2docUlVTGszRkhMdklsMThoK0U5RHVCT0ZHRy9TTnNOTURyRDNRT1B4QWIvTGZBYkYxb0JZaUFJUFZYQ3VGTEJEYWRHdE5TUlJUY3daSy8vbzVzL1JqaHdHbkd4TDB4QkNUazVQcE9EQlloc3plSlMyK0xaKzBjR3BPc0laYTFBeHB4dFNZclRhdHptSGlneVZ6bVRpdkhsd3pIK0R5MWtQYUxJVElQcHYycnBVREJzZEhDelJJNzlreHJOalh0WGZEbzFlcFI5V1R0c1prUDV1YktwWm5PVzJhd1UycWQvdnRzdzRoMHVzSlBFSk55clJWZFM0VGsxenFBejlKNlEwWUFoR2ZWTGpESWdoS2t4ZEdkTE5HQk5WZk5jcVpmbENLaXBhQU1sK0VQRnU3WnpGeHVNUXFTSHIxMlJuY0JRRnEyS2QxcXhqOE5US0pEclJwVS84VjlFaGtoZER4NUt2czJ1OVpTa01hOVZXSVVnNVlUOWdzTG1ld0o4Yk9xT29TRnRUU3Y2RVdsR016Y3E1VlVIeFlHUU55SmNUQ05OT0Nsb1VtTFYrL041Ti9IaGlGd2d0OTF1MkhtMTJLREd0Mm5ackh6YklUcXF5SlgwU3QvSnVHc3FNSkVOcmdiVnhFY2ZEMjhsL081dWRYYVZRU3NXS2hrRHo3WmpWTElGb0N1QXhUdUdsVjV6Y000OGU5V0ptQTBIOE9zMEQyUE5zeGZZTGM0cldvelBMNFlLOUw3VWVveEU5alVHamNIbHBpZ21ZR00xUUdxMzBMcjVXZ3NZdlN2eWcxa3RUL2NSL1dxWXhRUURBK040QkxLck80cDlCR0hmcGIxNHNGbzFTUGRzeVYxalhacjROaWwwNjBaL3Qyd1pVV0g5RWFTTTZQUjkrdFVWc216UHRpWjlldFI1dHBZa1QzWEI2K0Y4ZUVkQXdYZDlxZWJ1b095Si8vVDdMc2Ercjh3ZlJVb0hWTzdXamxPb2lnc1V4VFVkNkdIZHJPemx2d3Q1OWRVMTFhNTNqMmZhZ1NkVEM4N2VRTUd3WDJhVzNSeURQaXNLTGIvMmJGcEN5cVBIUWZuLzVEdTlqT1hCdFYwZnJ1V3RIWGhTazU3S2o3UWptZlRPMnkvemVwZExCeHlCT3NPT0dlNmtscUV1Q0orMmlqU2diamxrdGZHVWtFVUZBWDFxdXFhMUdoWXZiaURmeXVpRGhVTVZOZjg2YlFYQ213SUQ1ZFpDajZkZ3JzQ25xdGRxUSt5R2I4aytZUGNjNHhybnhneDFMWUVVSUc4K21OZTJqaWpRNmhocGp0Sm4rOUYvbUJwRkpRRTNuT1QwcW5sd0Exb1k0MDRsUTV4RTlYUFUrUm12S3BtNE1rNktORllNNnlYMWdKUm5oNEJ4bGNLR1lHNmh5WnAwcTRrMzc1VEdkSVVsYVoxclhtVjBWbnRFQklnY1hsRk1GcVRqMGxwYWlXeXB5RDBLNjdMMjJmbHF1MFhOUkg1elpYN3dYTllTVkVzbmhvdHFXdkJxSDJ2dHU4WXhpK0pqV1ZTcnhxZ2RNV1FYdDY2QWNIWmFIcUFhajZ4R2s2WmFRQTRuTzNNa25pcDBId21UVWZFMEhWckZtbXZHaXdVd25jcnQ5U3JPblllenljam1aZVRtVWlMcUUyTnEyL2JEcnNZS0lwUUNnYmFPNkppUzk3ZHNiQWxVVDRFOFc5MDFURzJBNXNVUlFMREVJRWF6NlVheWhZUXhjMmQycy9HR0pzaGNPNGh1YmRLcWRnbnJwM2F4bS90NERTazJNR2J4QlFNOHlSeFBoQnUxQXh4b3AxU09yMjdGUlhSbzg1Zk9zYWtUQW1oZm4wS2dNVjNkdG9ZekNtMDQ4K1M5bitSZ3FPVTcvTXl1RUpOWndkQ2dOMWtXMUFwMkNzVnJ4UnhwYUwvb0dacWdwNjUwK2daY0pxNGdxMVdkcEdxVVJINXdmc0NEQ0pHVkg5MzZHT21Ld3kvUEt3cDJpRjhoSnlxMnN5VWJhb3ByK2hxR3NQakd1NUViekVYQlBuK0ZjUWtRT3FYRUdmZHc3VzlHbDNxRWg3SlhjTFFVcHV3Zm0zcHJHRHdoQTZQZ2V6Sm1Uc1cwY3lmd2x6UTVmWFBHTUM4elBOdjhSY3ptR3BpVXV3QUZuN1AyVXp6MytlQmR2Z0lCdm9ScFl1Ui9vYmtWN2VvZ0U4OVpaNlFBSzBSU242aDAzUmhvY0Rsak1RUkcwSlpxVlQ3dG1DYy9vcUFDcHJZTGlBclpMTkE1QThDcVZuNGpTRGFDTnN2VUo2ZFhOUU1hLzZET3lLS1NJbllJallYNnFUNkRtWFpIZE92eHZBSEs3ZHd5bVhrcktrQ0VHRjFLb2FxcFVRbGlnNzhEZTdXQVNzMms1MjZhajYyaENHZ0JoQ2J5elkyQzJ6MEtIdjhXR1hmbzVYLzE1MDJkWC9uSnRPcEVySmZ1MlpIRWQ5L2NmeXZCUGpGeCszYVFkc00xbEM1VTJvd3Q3OUJFeXhhL1NCaE91bXVUQTZydC84dHFrRGJwMW9jazJqQ3doY25LZFZWOGEveUFlZXFIenc5Vk8wY3FoV2YxU1lZeTBrRi9Gc1JjT2xYZkY5M0pkY0tSQ0dMSWVtd0JyRWFQbmEySWZ1bmZ0eVFyVUw2Y2dVeFNON3Z5UmU3N3NwdFJHb0kwOEhKc2FrVFVkL2oyN2RpS3owcnlKbEc4Zkc0VS9TL01kVFpncmJ1NzJTRHpLU2hVMlRZQkNVelZtZzIzZjFzQ09JbEFUK1MzNXZyaE5obEVLYkE1WGNpN3QyVWc5V0NJRktlc0t3NmNjZ1U1a0NPRndRcEU5cUltaHFsU2RvMi9USlUrVXJtVFFmckFLYnQ5TUJWSjl6RGx2dEYvckJ3YXBkQXppcUtLQUhDd2ZiZ3VBcWpRbi9SOVhTckFaclFHNDY4SlN4MVYrL1J0Z3lZQTFna0cyT0Q2U2toWlVJa2c0eGc0cDJlbzZSM1dYN3JQdURPWmljayt5MEt6YXpzemEyQ2x2YVFhUFZmUGIyTkFPeVJmRmxLZUEyZUtLdHhWemZlR3Voa0Jrc2daMmpub2poZUJLZVk3OGRjdWJuK255MXdFT2NBVUl6dmJVcS9WODRQOERUV3g2MGFpNXRieWpJZ1hqVy9qLzl4R2xoNlhJYUdsRkZpR1U4ZjY3RENoWlN0TXlreGVJQmttMUoxYjhSaVcyYVZrR1FnbEhLOVFWTW5ROUl2VlZ5U21tSXpNckxlMUc5Z3V1Tk56amt3WkF4Z2pZdmx6eFNNTzJhL1I2TUZrTU9aSlFQS1NLVFBIRzNRa2NKQzhkYTFrbysrQzNtQkVkOEUxQkYwWlhaWnRpcjE4Yms2K3BJSlJtVjdFS1p0eDVEcEtuV1p0WG83aFAxVHRuZHYxRDY5by8wRWZrbWpvL2twZ3k1YUtnTGttVzVHaktCOWZMSk1NZitXSVFjUVpSU1Eyb1JOVUJ6SUYwNnQvZGhlMzJDSEVQd2kwSitmVUNiNjUyWEZFdHR6dE5aVjgzbVFldTZudnRBcmxMWGY5dnM1VG9yRkdNSXEvWVlDQVJzYUlSQVRCM3oxWXpzTllIR1pIQ1NWenBWb0RwNlNsT0xvVTUxTGdxRnBGVzBGVy9ienk2RnYrT0RNelFkeVlPcDFPSDB4d2xaMFZyZUZGWFIrbVBUZW0zQkhRK2NTckZ6QXlXUWI1US9VV2swYnRnS2M3WmU2b0ZRWkFkb1d0Q3laSUpUTE5BdjlrOWpqemtEQVZIR2Z1V3haMC9tRmVaZmhXK1dJd3lBaERKREdIN1hNbllUaC9ic0IvUzIxUEJHZEVLcjU4bjFCV2FwQ3IwcWlGSEp5a04wcUhKaSsySDRPNDVZbUhDUm1WRWlsangzQW83MW01dmU2Rno2eGh2dXNtcW4vT3pNVTZhTHpod0dUdXdpdnNHWnJiR05UUkVKWnpnMTdrR21JVFVGOC9ZUkpWYktYZlBnNUxHcENxUkdTMWpQdDB5MitZZG9ESWtjNlZWaWpYVVVZOStKWXRPQnlwRlZsUTlteTJPb3dZdlI0T0ppTEdzUWV2NVVoTExIcGkra3NwSEtVamFFVEQ1N2FRYzF3c3c4Z2FNYTlYS2cwSU9PT01VeFdVNDlYbHVTOE1qK0VBUG84bWE3ZDFyR0xCODFxRHlyeUVsOXM5SnJacHFRdDdyZjgwYXkySkk2SE5zVGtRcGdpSHlJazlzQ2dreHNHb2FDQytBSmJVUklabmgzSjdrY3B6QTVGNS9Nb1JSWG5uNUdrcjdrUkp5N2VIUnNCSXdDaVc5d2lvUHJVdVp1QisvN3JLRWYwRmZic3M5SXZXaFhpTGNFNUsxZy9JeGgwYWh5QTRud2gvVG1BSzZ2RXRyeVhXZHRScVFMeHBGZlBhbGtyTHRxdDlmSGZVellqSGlnY1hrSFBJbG9QbGhvT1BDZVR3MzFTcU5OdXhTbG1YUGRxMHdzVDFscWhlUGQ5d1kwVFVraHRVTklWbmxyY1FwU0xWQ2hZNjFkbEpQR3NsQWZpR1lDTzdDY2pqNnpVSVpJWnBPQnVVaERnb0V6RUNLZ3cxUUNMSEJrV3VSS2RCTXFrK3BDVzJlUlFUQ0JyakxRVEp4UUNVU3hvY1p5OEsxVXd6QXlBS3VUQVJiQ2p0Nkc4WWxKTmVZcjlBak1ubEdWQTdtMU9WdEd4WGZJWHpTM09pL3o2amtpRGYyR3RxcVEwNTEvOGZwL3ZzdDdQZjE4SXhZRDBzU2NsLzd0Yk5WbXJWZlFLUmRVNlQrMk9nYjZ6TmxJNkh3dFRJRTlkQmtVK0dEd0dPNjhrVnBHWHBoUkdLTFNsS1ZVWXBLbkhBV2xBb1JRckdaUUxMUFNqdDlhYUVwNkFUZDZUOC9pS2RDUzd2VkMvWC8rZm5WNHZZdHRKa0RPc2E2VlpHaFVONDVLN1BaNHA5Z0tMcmRsWFc0QklZbk8xN3M4M1NOaWlGWFBoektBNjdJbUtHU3pTOG9CaG5JWU9ISW5vMzAvTzFaZllOZDZMc0Z0UFZPNjJ1VDkrUDNRUldEVU5wcmxjNkp1K0FrZ1VqdzFwZVY3NVJoRGVSYTRhNmFFRFJhL2tJd2p5U0RUaHFSZDRQUWFYVTFIdDhJZmN3cHJzWVJPeTVsZTdnc1haOEtadnpYTTd5VU8wNVlyYU53T3Y1NVR6cURkQVNieU1GUGRJUVRmNzNRcnI0RVBxRnBaVG9MQktZNlZTWHlPNEVkMDJVVk9UZHdQUXdueUw2NjduSHdGZTRXZHVUSVFTZktpb3A1V0oxaXcvOCtwdklrbHBNTHA5TkJ5NzF6eVA4R0MzRGNVRmx5WVVzV2hXOGNvd1lYN3Y2Q3V4dkYvb3ppWFlOMU40VDR1UHVCT2x4L3dRTmZJUlRxUzVZcHFWTXM3VU1FSjdmTXVIZi8xRXlpWnZzODk0QkQ1aG1SMXZXTk9NUkNXYjVSbzR4MUtsTSswT2RIaTE0VXVkZk5WcXl4eGY3VEd1bTc4TVZMRFBvMEFjclk4YUN0RVBaRUYxODZJbFpRUlVpTGsvaVMwNzF6akNaSjIvTHpLeU8vVk5LL3d2OUd6dVkxLzdWSUNneCtPY28zMFdaYUdpa2Z1L3hBdmRCVitHVGdxUkx4M0lEN0FkUVUxdDBSSjhXTEV5dlBva0UrWkdHT2tkeHhyVjBQLzFBc3VLazlnMmhUY1FMTWxmNDFFM0FIR3lkSm1RUW13QmNQN1F0TWxkcW5RZFEyRVNKZ3RuWUJObHNHUEFnb2dxYzd3OU5UTG1IRlRSdGdXb1Q4RGJKbnZCelU0amJpUW00NW9WRjhvT3o4RUM4T3dXbHYrVmZUNm1GRnByd1QvMG1OWG1JMUl4YnI2a1NOUmJYVkF1MUlxY0V3Mjh6WUhTZExGK3RqTWNqWW1xMmltVlNaaUIwM0RtZ3dhcnh4YUk5VHpFRnVXSkYwbHZHSTVIR3pCS3NUOU43eVM1bDMwSXAvQzczVkVsVzlnQzBFRUw0SjdUY2MyS21jdVhEcDZwZkV6TEhKYi9qeGh5ZGRQTXo4RmZobFJoYXg3QVl2MWFyNFhWN3hxSVNDYlZ2dTMvaTZoSFgwUVNpZTVWSSt4QlRGcGFzbmRpSTRCTHB6L240WUx3WjRIL3c0N25XUjdaMjdHZGhJZXdzblZhdlhPd0xiMklvck0rY3M5VFpTTEM1dTVjY3Y1ajdNbkhwb0NtODdrRUhMMi9xS1RwSkYyQnJmQWRxV3dPTkRpanNtK2JINDBSMHBMSmZPMUhidjhGK29OVFpmTVMwOFNQWWczMVZweDFpNkpkOFRjb29UaC95b1A2UXF2SkZoa2NWanRIczB6S3VYNmVRMFhuNjFoSXVIVnNDWi9CSlQrQi9mdDExU1hqS1dUZWZEVUdLY1pwMFJPREJFSlJHbm1BM0NxZG1Mc3VEWGhUMTltWU5IV1E1SUJMaTYvU0VqNXp3RVNuT015b3M3MmFhTVljb3k3ZXhNRmowK1BkTEt0ZzY5WHlWaS9ES2tyd053ekNydzlVaVVCWmJkWVMwa1BFTDRpc0Irb0RlZWJQSDRMUDJON3hGbWNIWW5iNHN4aDByTXFPMzZpUlVLK2d2MERsYXJrMDlpd1YrRGFaYmhYN3VIOThSQXhQWWo1YnB4dXdSa3BjTXdkOC9ybVA4TTJiamdTdVdLeGp0OCt3bEMyWmlKUkNZQytTMm1DeVlFb0lTK1BhOFRQZjFTcnM4UXdQVHhPcmNpWWYyTHU3bmduR0VpNURGRVNkQWVDTmRxdi9yblZQVm15T3dscU5MQXlvQWExa0plbkNjQ3YxMlNkRlFKQ20vNVErNUx5RFVJMGRuYjA0b1B5SUhCbFJCMXRqSUhiMWRWSzQzWkp1enZsRUJhWndNbjlEeVdhSXdIWkY4MzI3N3NGL0JhU2xycmQwVHAxQjcyWks5U1JwY2drcjJIQlJ4MGFtYm9VdkN1Z2M0YUtTV2ZUdUxoRGFUc25SakZPbFY2aHl1d0krYjhqbDJNRjAwK0tuS2UyTGRuMFQrRVVOKzlnalp0dHU3NUQzODlUeHBUb0doVHJzVW5DOUh6MU0xMWcvbHMyRm1GeHVXdUFNUDBENjVpeDYzbFRCZjh3cWRyMFhrbU5memU5TkprenhrdEwybzNGWUlyd3M4ODRaRGhsVHJrSWFJM3lzQUN5NUZ6b29QK1ZwU3F1dmkrSmhJYU14L29OQ0tjTWZQb0JDRlFMMXhvOXYxMGpvRlVwMUFrRnd0dFFMUmtNVVJZRzhhTm1kUGNsRFAwMDNYSzBkdTNjWkY3OVcrMDFBbXJnVTV1YTk0RFJITklHMk1hbWc4cWRWb2dTQVgySUxiaFViVkNxM0xlK0dVSWVtWDFhYTVWMnZieDNqNUdraGlvaTF5QnRZN05GMzJXMDh0b25VRit0cEtpRWQ2MUt4Z3JBZDRWWmR1eWxuSVY0cktXVDc5QlVTLzMycHFVN1kxK2FUTC9SWU9QSllQMlFkUThuSEorRDNhRGVwRVBpcXJqRlJoalU2TzRlVUpETEZhKzFmWitLeXVUaDBPZ2o2Y3QrQ2I0dmdVQjdySVJENTRNZTRrNk12OXpFNmJjYmZEYURHWU9YR1VDZlZ6MEduS1hJUmZsczBVb1dVaEVCQ3lXZks3cEkzd3lnamZnQy9odEwzc2dOVGk3aTQ5SEFZNXZQbXFSMWRmcHRuSlpXOUdQZEcwWE42U29CWkNtM2xzK25lZjR4T1hvNnN5QSs3eXBBMDFmSHdhSDZjd3JUQmthU0VLcitJeStsZ0FHam0xd2xGNlJOOThSR1JXNXNpL2lpMER5Yy9lU3hTRXp0STMvNzdmQnhRbXVROWhVaTlBeWh6OXByMHV5TGVSOHlubXorZ1Q3dWRQOFRwdXUzOUNBdEtuV2M1dnNJQUw3VlZZU1hLMEpsamRFTnNPelFMYm1IK1RaQVlFcXhjSkxyTzB2bkJ5ZUx2NEV2bEc5MFArZEk2RVNkRCtEaEZqSlpML3Rwb0Vyc2tBejl6cHlLdy9mRGFPdE0wbmVGeVh6dGt4VXdhaUIrVXpqVlpGOHVjVFNINVFNT2kwZGZ6Q2t2Q1hmdmxRUE90VkxLMDVIanhtWDdENy9EZk1tZGppaGF6aDRqeWVEOE5lSDBlUCs4aGcvU0Ztbkg5dnVSY3NLMm1mYlVTTnZpZzc4VEZjby9ZUHprME83R1E4cFVjY3d6S2RsT3lOV2dkZ3A5UE5IQVNVc1BvWlVsT1RVTDBmUzRvWi90UlkwbmVmNU1lSDNLUksxdmxjRERwVHFRVzFsak5XQ25SbW9IQUNtOWMyV3IzVDRpblAwT2xtME0wb3BmYSt4OU5KT0dKSXZsQ3lxcEI4Y0t4ZWo2dldDdXJ1cmNta0FOWit3UUx1ajFkTEcrUUZ3djZ1TWVlT0hVZDhWTU9TSkFNNDZvZ3dsTGVNUUF2V1AvUzBlbXBTRUVhdW83RVJyTGVDRCtNdHNzeTJIM2ZxYjBTMnk3SFRlZm4wSGdPU1RWUjFqaWtMYVF5QXRDVWwxZ05yREUwaTE4WURWT0hzV1FINjdhT0RDR3dFTzZGWnc0N2wyQ0dMcThkRDY3M09aTFlOU1Q3dkxhQVF1NVNPTFJuSW1lMlJ2M0ZjdkVrK3FHVFdHM2xwU002L3h6YmdBbDVDZjJFRVcrUVJLZTg1ekYzVVBiWTdRaTBRVjVvS3ErdFpHOHNadlNMMVllZmlNaUxmUUF4QU1DUXZ2am92SDJWNVhkUXhlU042TmNzeENJNXZsa3dIRi9Bd3o3RnRjUTR6TVh2WHdaRVpjQ1NVeTlaNHJ2Y09JZnREYlU2bVJTWm5kNFlxS3I5UUFIUXErZTFYSm1zSC9LRnk4cnJYSEkvMGY0SWZLOWx4TGpJbHc2N01UUjcwaGErTUsvT2puS2dpTzdFZHR0Szl2ZFIzSEdvcEJCbHo2WlNydmlaN2RUTHp0akovT0tOemVRcjZldnBncCtpTjVvcHJrbmlBTzNxRFpMaE15ZStSTGJjcWx6aFZMNTZueTdGRFppYmNOLzFxZTMwZnRWdUlEVy9PMVluci9tdWtTRXFsVkF6eDBoTnM2Q0hEdFpURXJ1cno1dkljbS9DUXVySjFsdXNUK0tOYnhIaDBLSzZkY3RrNlRCWGFWVktYVVhXeTJ5VTNpUytzUzloNEJuaTYxcHM2bGVSY1pYZzJNR295WVpNWXMzUkpSRkJQNVVIKzZTSUdTYzZXVHAyS3FQSW8zSWx5TXdyYlVUajNrZGd5QmxMd0JLbGN3ZTJQdkRFcjQxcWtPMHpFVmlwU1ZLZmcxay8ra2NQZUNKRVNEMkxnZjJIbEJVR29GTG54N1J2Tmc0d1lzc1ptRWpIN09qNkx4NUFwc3h1WG9LQXQxakZONGJKSXhCbWpsL21HV0hFaGFKT3g5cklQNnJiSUlaRWJFNG5teXlIcmhNWUJVL2U3MDJJT052MnIxZGtJVkZXM2tHRUxOWjU4WER6U0RuWTBtbGdyRGxrUmhabFI3MWY2Z09ocmdzelVpUW9uRHJ4MHkyZDdGYm1WUjllQktJNzkzRmZUTzlaMzFqY3h6YVlENW9pV1BJZ0d1K3FKQUp1SlFQa1UwcENJZmhZQkg2VDVoTi93ZFMzbDFQekRmeHJWeGhoK2FMc3FBK0JDUFl4bzdUS3ExVUw4OEhibGZuK3NhdmtESTFnUUozbW9EZkxUb3I5RVQyUHg4UlFrcGUwbjQvWjJvMHd1QnNGZHdpWTZYMDRyNkVtRmtHMDBOdXZSY2xQQWNiY1BOWE9IaWo3MURZNHVVSzBlRGx5VDJ2dVY5SS9vcXBlSHVrV1BDSjVKVTBIV2pZZjdTYzQyQnBqYjc1WmVKWmp2WDNqaEdJY1dQckVKdStZNlNBNHp6N3gyQXJVb0pRMmRZVXNhanlxc2VrTUt6QjlaRWpIVGZDZmxlRzNHNHVmWEp6dnU3aUNKdHZDdnQxTzJHdGhLZm9kYXVxZEVHT2NSYnFKNW9EempFWUl1VzB1TWl5R1VyNHJhbHlia0dHcUpVU3U2THhuaitqdGlzZEw4K2szMUo3elp6MkdRc2xTelArQWdPZ0NaR1R1bUxRSGlXalNEYklHQ3BEQ0pBSlVCNDRBdzZKV2lQNWduckdmN05FTHgyZkJ5T2ZzMjJUZDgzQjJRWVlMUGhYVyszbU9RMkFibmo4RUtLNVcvcS8xbUJvTkJTWFB0aVBibU80V05KSjFKUXpQNlBrVkt5UkhSa013ekgzSnZBdk4vbUZBWTFnYjFsbXRxM3F0K0dwZEt3cGcwZVpkV2tidy9VWFlTTHZUVGlBelluNG0zQTJTSE1nT0JHNnZZNmt3SVIxQ3V4MzkyMUFDZXFiNEUvTG4wNVVxeDVMaVJiYXdkRTltbi80NU02eFRnUUI0dWZjU2FsVlNIWXBBMTVZOUp0OFhGTFhCSHVpY2dHajVVRHVlV0MwZkJROWo4d0VyZjcxMUdSSlRLRjFkek5LYW1CU2xlSG5weFBIUmQ2L283b1hBalV5WjJLT1dla3dwZlZnSG5vWnNsdGRiZ1pMb1hDdythYmtCRXJKMlNrRzZhUFFuK2crQUh4MkhUTVFzbTAxVWhvVzJwYlp5NTRUeGtMYVg1WDBPTzFCSDlVM1F1c082aE9hMHBwYUsxcTZyaitXOEtFNjZBMEwyTjdpT2srZEwyL20zWXZkSCtGMWR3OTdHcFFnMFRGN0hhbklYNFVhR01NRTlybUtzQVdpTHV2ZkhpblFpVUlkWTZQblE0VDZUWVhPcnMrcURjNTN6RzFUOVp4RFEvTmRqU3Y1bCtnWHVrdlN2VzI1ZlRBYnBkN3RGd3VuTEhLaC9JRU1qbEpRaCsvMmsxVmhLMERHMGRqM202SXBqeEtJY0ZNb3R3S2RMOG5TUGFzVisyTWxWZllxSGt0WkhOSHJnYUIxVTlhUnF4RmNaRXVPZy9TRDlVMWtMRDNRRlpaendsNXdoanZpNWgvRjJnZExtZWFuMzNBM2JobnFERE9mb2pMLzdvT0dJTWRJY3ZvNEcra1VaUU1lTWJaSkhSMTJXM0JWQ2R2QmEwenlHNjNiQTZIQXlTSGY5ZzFPcWZLOVJ5ZHlHUEtoQlNVbElxSXVXZGY4NlJEQlNuR3o2UnVyVGJNdmdNWFIycVBsQmRSV1N5NS8vZkJqWHJKUzh0UTQ2WWxITlZ0WlRBSEFnMWlIdUtpN2lySjhSaXpEODhpanNaYkJiaEVRdGVONjVVSWdVNFRMNDhTNjZaQmJyMFhYTTY2dDdrVzd3bTU2Qk53ZnlxNWdYdUNDSUtvQnA2WHREUDhucTlNdFRsdWJRUWp2VHNWQ01LRHJzdVNhTHpGODF6MElyT01Fb3RuMHFWNFBEcU04RS9tRGhHOWQ5dEYvWi9lSXZxZ09HSm9TbDFVZ1h3Sko4aERGd0JPOStnYlpXMTNkNWdFUGVZRWhlc1krOVdlQk14dm1zd091bzNnbDdWQjdRWGZZWUJyTFFDUEEvMzB4L2VmQi9DWTN4TE5ERzlUb0xXV09RQUFuWmYya0FWaE9XMFFEUWdWTFZFOG9vWGMzM29WNm04TlZvbldRPSIsIm1hYyI6IjQ4MmRkY2RjMjQ4YzkxZjY3M2JjMTVkNWQ1OWI4ZjAyMGU0NGU5MjVkYzE2ZDFhNDllODY4ODA0ZmY5M2FjZTUiLCJ0YWciOiIifQ==
+<!-- Modal Form -->
+<div class="modal fade" id="createorder{{ $id_drop }}" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalFormLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalForm">Create Order</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="{{ route('orders.store', $id_drop) }}" method="POST" enctype="multipart/form-data">
+                    {{ csrf_field() }}
+
+                    <input type="hidden" type="text" name="status" class="form-control" placeholder="status"
+                        value="{{ old('status') ?? $status }}" readonly required>
+
+                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" readonly required>
+                    <input type="hidden" name="user" value="{{ Auth::user()->name }}" readonly required>
+
+                    <input type="hidden" name="address" value="{{ old('address') ?? $address }}" readonly required>
+
+                    @if ($status == 'Ready')
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    @if (isset($drop))
+                                        <label for="id_drop">Drop</label>
+                                        <input name="id_drop" value="{{ old('id_drop') ?? $id_drop }}"
+                                            class="form-control" placeholder="ID Drop" readonly required>
+                                    @else
+                                        <label for="id_drop">ID Drop</label>
+                                        <input type="hidden" name="id_drop" class="form-control"
+                                            placeholder="ID Drop Error" readonly required>
+                                    @endif
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="product">Product Name</label>
+                                    <input type="text" name="product" class="form-control" placeholder="Product"
+                                        required>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    @if (isset($drop))
+                                        <label for="name">Courier</label>
+                                        <input type="text" name="name" class="form-control"
+                                            placeholder="Courier Name" value="{{ old('name') ?? $courierName }}"
+                                            readonly required>
+                                    @else
+                                        <label for="name">Courier Error</label>
+                                        <input type="text" name="name" class="form-control"
+                                            placeholder="Courier Error" readonly required>
+                                    @endif
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="quant">Q-TY</label>
+                                            <select name="quant" id="quant" class="form-control" required>
+                                                <option selected value="0" disabled>0
+                                                </option>
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <small class="form-text text-muted">quantity of
+                                                product</small>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="price">Price</label>
+                                            <input type="text" name="price" class="form-control"
+                                                placeholder="Price" required>
+                                            <small class="form-text text-muted">product
+                                                price in dollar</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="tracking">Tracking</label>
+                                            <select name="tracking" id="tracking" class="form-control" required>
+                                                <option selected value="default" disabled>
+                                                    Unknown
+                                                </option>
+                                                <option value="Fedex">Fedex</option>
+                                                <option value="UPS">UPS</option>
+                                                <option value="USPS">USPS</option>
+                                                <option value="Ontrac">Ontrac</option>
+                                                <option value="Lasership">Lasership
+                                                </option>
+                                                <option value="DHL">DHL</option>
+                                                <option value="Canadapost">Canadapost
+                                                </option>
+                                                <option value="Porulator">Porulator
+                                                </option>
+                                                <option value="Australian">Australian post
+                                                </option>
+                                                <option value="Amazon">Amazon</option>
+                                            </select>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="code"> </label>
+                                            <input type="text" name="code" class="form-control"
+                                                placeholder="Tracking Code" required>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="holder">Holder Name</label>
+                                    <input type="text" name="holder" class="form-control"
+                                        placeholder="Holder Name" required>
+                                    <small class="form-text text-muted">Name on
+                                        package</small>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="comments">Notes</label>
+                                    <textarea style="resize: none;" type="text" name="comments" class="form-control" placeholder="Comments" cols="43" rows="5" required>{{ old('notes') ?? $notes }}</textarea>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="personalnotes">Personal Notes</label>
+                                    <input type="text" name="personalnotes" class="form-control"
+                                        placeholder="Example (Email Order:Pass)">
+                                        <small class="form-text text-muted"></small>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="option">Options</label>
+                                            <select name="option" id="option" class="form-control" required>
+                                                <option selected value="default" disabled>
+                                                    Default
+                                                </option>
+                                                <option value="Sell">Sell</option>
+                                                <option value="Forward">Forward</option>
+                                            </select>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-6">
+                                        <div class="form-group">
+                                            <label for="delivery">Delivery Date</label>
+                                            <input type="date" name="delivery" class="form-control" required>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label for="shop">Shop</label>
+                                    <input type="text" name="shop" class="form-control" placeholder="Shop"
+                                        required>
+                                </div>
+                            </div>
+
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <div class="d-flex align-items-center">
+                                        <span class="mr-2">Need Pickup</span>
+                                        <label class="switch switch-icon switch-info switch-pill form-control-label">
+                                            <input type="checkbox" name="pickup"
+                                                class="switch-input form-check-input" value="1">
+                                            <span class="switch-label"></span>
+                                            <span class="switch-handle"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <div class="d-flex align-items-center">
+                                        <span class="mr-2">Signature Required</span>
+                                        <label class="switch switch-icon switch-info switch-pill form-control-label">
+                                            <input type="checkbox" name="signature"
+                                                class="switch-input form-check-input" value="1">
+                                            <span class="switch-label"></span>
+                                            <span class="switch-handle"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="submit" class="btn btn-primary">Create Order</button>
+                        </div>
+                    @else
+                        <div style="margin-top:15px;" class="alert alert-danger alert-icon" role="alert">
+                            <i class="mdi mdi-alert"></i>You cannot create orders on drops with problems, please wait
+                            for the problems to be resolved.
+                        </div>
+
+                    @endif
+                </form>
+            </div>
+            <!-- Modal footer -->
+        </div>
+    </div>
+</div>

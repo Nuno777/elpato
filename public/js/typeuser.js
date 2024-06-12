@@ -1,1 +1,34 @@
-ENCRYPTED::eyJpdiI6ImFZK1BBcjRKZ3ZJM3d5SFF5MWRVOXc9PSIsInZhbHVlIjoiOHgvdURLMWUxN243LytLMzB5VHlMdDdmOFlYVmd2WUVESWRESWRPM0xRdURZVnQ0NUFJQXFaeURLL2x3R3NmaWRqR0o2aDFTbCszWnA4eE1pSThFcm1EZGdodThXZ2dLOVpZMGd5cEsvUERGMFlUTU5sdnBJOFllWUNpQzBTSWxqbHc3MGxwQ3pOc2Q4S0lnTWkzenF3N2F5cTJ4UWZBd2RWZDQ5V3cvajdXVHFGN1ZNdFh0M3JqbjhvT3hjN3BMYjQvZkJCT1NkSVpZMlI5TitZUk4ySGtyM2szczBJaWVsUVVTOGdiTmNwYTBqZGJNVnY4K3ZZZjM4UzF5VE1OOHYxWEtPYlZEOGVQdEE3NDhKeEU1NFRvOFVpYUhUUXJvaDU4cU9VSU1uRnZZTEJCUGlad0VHNzlXVWlTVkI1azErSzRJaENMVGYrV1hCK2w3OGU4TnNPTzRka3JSTHBiOWNXNkp0bzFJS1V2c3BjK1lPOGV6UHVyTmpVSHNIYnk0M3FacFJDQWFJYjVpUXpvUmgrcE1QVlRRSTVNSmkxZzAyMDcvMW1DUFQrL1hSZ1E3cGd6eHU4bUxZczVBbnRGdWJsdHd4d2dWenMvaWEwVWZQNGRMWDRYY1hGbHNEUlpiT1c4Q3JCWE8rY1dHL3VybEQzTXF6RFVqc25ZSzVydWM2bnZTbVMrVDAxazFhSzNoSy9jTmpGc091bEV1UU1YNk1ubUNYaHlDcE9zWXE3b2grUWlKQjZLZ2NmclcxdDB3MFd5WTJGenNsbzNBUStyVnlzbC9EKy95eVYyb2pqbG9CdnVqc0MzcWhIU0NCNGVvclFMYVFnVnp0S2plUkl3RmVjR2R0d2I1dkE5SlZINUZjVFRNejZ4MWsxL0ROd0dwUktqbE9oeU5VSHMwUDNpQlcxNU1qUURQalo1UkRlNFQ2ZERzU21JcDVMcXBSSnBiTUQ4MTZReTArRDZFdGhXVlBqUlJUdXlFUE1FWG1iN3N0aFhuaWcxN1A2K2gxczJ5cDZFVnBTRWFGalpidVUvYjVlc01RdEpuLzhTZjJwYmhTQUY3dU1rVkVkVGNrcHRMbVlGcmlTcGQxNXUvbG1mZlEwSGJhRTdSZFJKYjRrYXZBNFdWUU9zR2xQMG5MRTlQVEMyS1BEYUkrWXdzdDRPVnh0bzQzczhua0RsWFVzS0JPVDBKTFljcUpGaC9yZURRcXBrYnNRY24yREhHODdPSXVHTjRHSURYMDVFTDRqMmFldWNWM1UzTkdabXNuMzV4ckNnNjZIWXJacUt2U3NXLzJlT0ZRMUdiU29SZTBudXRRbjZFRWcvSUJMeUVXT21mUVNOSitzMmhhVnRmY3k2eXdmU3lqZW1odDFZdG0wRFB2YTF3Vy8xUWllMkJoQUNSSzFWb3BycENkc2NrK1lyVzREeVRiRHNJbHJVaFRMMTZJS3R1YU1ubDM1dVhscVNlZndIeUVHVnNibzdtWTg4VytIdkhVRFhqV09KQXlrTFVJQ3k4OWU5YVZ5Rzk5QVh5Wm04czhhZjExZUpScDg5aUVqQjA0NkhQU3U4UUc4WmNWR0hEU2RQWnM0M2thcjdVejlha1lsTDZpTU9vT0pRTTFrN0Q0Y3ljYlVLb2pJRm5CN3pwOHhYT294TVVSbVh6ajVXVmZMcVVzVWtGQXV0TlplVmFaazdBcWVDb1ZWN0p3YW5WQWVabVd2S0RQZjFBTXphc2haeDhZNkVLK3JtWEErV2RuRjdXSnJFUkY4QkVzRWtlUlY0dHgrNm1YYTRXMVh1dTZGUXVXSHZXSk5KS2FoUE42SUF5Slc5blJnR210Q3h0MjlCWXJDdHpGbTVBV3AwY2luNWFSMmE5SlcwNG93OHIvenFqKzBxRzVmMWpXNmFoa0UweHg3MUJhYXJTUDkxdGd1VUM5bVhqWjNEVVRaZzFmT05US3V2S2x5ZjNubUdhKzEzK3VPRWlNUmxMbmM5dWdhMzREZjd2MjBTZ0doOHgvVGp5YlR3alJGVjc2TndpYkRqcnVFY2VsOStqYmVTL2dMK1RWclB0dCsyWFczL3BJbzRuUjM1dE8rMFpkMzBwUFY4d0o2eTh5U0hRRitxUXplNC9VbGJrQktnejRkRklLc2ZWMDZqVU1NY0tCTW9OUnRRbzB1NFBNSlRFL0ZPL2lvVysxYURxYmpGcHI0RWhLNTRCQk5xeFVuSDRmZGt3QXFRbmlTL1hPQ29CUXhTOFh5ME9UNm1Md0JCNWt2Wnl2WGg4Q0RHMkVNczB5c25WQlV3ZW5SL0oyR09DOVFFY2Q5R2ZEcHphdEs4bHVmK0krakg1R1RKSVpvWnpFWmxyZXFZdWRRaz0iLCJtYWMiOiI5YWMwZjIyMmFlNGRiNGU4YTgyMWIxODdhN2FmODY3NDA3NDYxOTdhNTRlYzkxYWUwYTU1NjQzNzBlNWE4MGE0IiwidGFnIjoiIn0=
+// Função para obter a data e hora atual
+function getCurrentDateTime() {
+    var now = new Date();
+    var year = now.getFullYear();
+    var month = ('0' + (now.getMonth() + 1)).slice(-2);
+    var day = ('0' + now.getDate()).slice(-2);
+    var hours = ('0' + now.getHours()).slice(-2);
+    var minutes = ('0' + now.getMinutes()).slice(-2);
+    var seconds = ('0' + now.getSeconds()).slice(-2);
+    return year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':' + seconds;
+}
+
+// Atualizar o valor do input com a data e hora atualizada a cada segundo
+setInterval(function () {
+    document.getElementById('email_verified_at').value = getCurrentDateTime();
+}, 1000); // 1000 milissegundos = 1 segundo
+
+/*script do eye */
+const togglePassword = document.getElementById('togglePassword');
+const passwordInput = document.getElementById('password');
+
+togglePassword.addEventListener('click', function () {
+    const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
+    passwordInput.setAttribute('type', type);
+    const icon = this.querySelector('i');
+    if (type === 'password') {
+        icon.classList.remove('mdi-eye');
+        icon.classList.add('mdi-eye-off');
+    } else {
+        icon.classList.remove('mdi-eye-off');
+        icon.classList.add('mdi-eye');
+    }
+});
+

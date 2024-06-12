@@ -1,1 +1,89 @@
-ENCRYPTED::eyJpdiI6InU4dkNSeC9wczdyaVhaeG9MNVdiT3c9PSIsInZhbHVlIjoibDVHVDB0MEpVa3psQTFxMzlXWDMyT0w5cWJid256bEdEaEx5OVFGSjNBdWNmRDlaSEpTenJHMmJuM0JmdHFuOHV0UkhyQzhiL3NZb0FnUUZVdlk3bE1HdVNLQUVieUpacEJSVDkrVmIxQjFlT1RNaGhRNHJlYnpzSmhFRy92SmYzQmRJbHg5NkJkaW1FSmp5Z3VyVXBwc0RiWm9RNVQzWEJoRXAxV2xrTlZDcUJMUlk3WDhBTHhkUXNJTkhwUEpsc2R3YlZWT2R3eE5vaWZvY2MwZC9uY3U1Yzlaaml0RGJiL2hiTTB1OGtxeEJDV2dZNDBrcThrMmZ5VnAyWEpQNkk4NG90Tzk2ckMwTEYvc3p3enczdERWQzhwT2h0eHZPN3pQN2JlRitFcExRQ0cvaEg1cUJ4YUFBb1hqWUxYMjFyc2RiTVJjT00vNzg1ZFJldHBqOWlzZ2lqbzdOTStMUUwvd01rVG9Td3IzUzlTSG91alpkeXRJcnJ4dE5paW5VeTRHc3E4ZHA5SHZYLytJZ1BXYWk2dWE1bzR6bnlzZnl6RzEwSktUaW9pZmZ6ZFJvY3loUlJITTZleHdRZFlYcDY4RHp5My9hYkh4UXZTa3hhYy9MRWVFODhkU0MrbzBKanNVRS9rbEd2dzFGT1VLYk1SRmNUak9FRjdvVjc4VFp0Si9jQ3pVMmErdTRJTExCbnBGZGI3WHZncHA1MTl3bldNaTkzclJVNzJpeHhOVkx2UDRRUEttQm1NU3lxdWNrQzJUZ3JDb1ZZd28wbmtkdzRnQjFucFpoQWxoUUR4STlLSG5PS0d6aUNacTVYRzlRN2pXY0FFK0xXYmp1K1E0VU5KK1RQWW9wVEpENHFscm4weHRuTGpjNCt5czQ4RVRpL3ZqYU1Jai9sY05IQ05DSlRIdjRhUFVIZ1J6blNqRWdPd1VpczJ2K1VZd3pDZWw5aW9QYXNZblM5UVVmOVNWVlc5QTVvOHVjOGZXekVYeDNvTGg0UjJzRHlSNUJWVW9hWUxuVFJkeGk3WGhleExFUHBRSnBxSExXYXJMOTV3QnZNdHg2eXp1MFpiU2plenliNEZ4S3JTU05WdkFTNmdIZDZDbjgzakdtTzQrSmxHZVRTeWxrQjUrUllzR1F1VmdlejVUQ3g5NlprYlBnY0lSYVdkNWJ0T2h6VUtPS0VlN1JNSUhkZlNjM1JQVHQ2d1Vid0cvNmZiRzBpcCtkOWU1dHpxKzlhWlpYUzlyTjBoMGRQcVBPdTRaeS9iZlFuT0tHcWVMek1EckdsRElxdVJTVEhPMGdDdHIxZ1Y3WkVkZjJIYmU5Y3ZHTzZDVXdleGprZ3dHWVBUdXQ2dkFLWFdXODJLcjUwNk04anJzSklIdjkwQVFEc25GL09xbzZWaXZTaURDTTVDSXc2K3VSdlNtdUtPNXRmbzVVazVVSDNFem4zZFFzUlV4Y0NlL3I3U2FsVEh0UXl2bENUNDFMOGt4emlqZ3VRbnpzUE02cFFzTTJ2dmFBejBYOW5DM3JPUExZWGd1aWoxTUdET2VNNUw5a3RWY1RvWXN5eTErdGw0RS9zNVUvSE8rd2s1OTF1eGM3Zko3WWx0V213VGhYSGYwb01rbXRkN1cvWkhhVjg0Rkc3dXgzS09LT3Jwd0sxWDY4dlVKUStmekNrVjJiK2FPQmREdFFJdk1rOHJvNG9pMHg5TnhkbVA5RXU5dDBGWU92MTNFWm1YS1FvdjJQeU1qeW13Y3daaUtEcHNuTEI2anVEeHlIWnhycVMwUzM0a2kxaUhDclkwMC9Ta1ZjZmQ2R091ZzdkcEpmSVFidG9LY1BYbXdGcVFXNXg4dTVBeWV3eTF0NFJaa1l2eFBiK0JmNnNob3QxNHBKT1JDNy9DZkZyYzZSODZJT2czN29GLzdhVXpvQ0F3UEFhbGoreVVOaFgvOGxzL1VCTlM2LzVFcytsVEV1L3JHbmpQRVE3bWNTaTJraTU0c2dCdEVSVmtKNDRzbDc4SDRrM3h2bmxKRnNFQ0pMT0VqNTR2WFR3YmxOUzhVYlBkQmhLRjNHRkE2eWFGSFhmZisyeXV3d2E3RDNBUWpPeTUwVksycUdqZ2dJRFBiTlFpMDBWU0JJRUFjTktPZFNXbjYvWUlSNUlTMnZOdXNDYWxMOCt4WlFKSVY4bnc5N0ZvTktVSVBzeUJOY2twVU8rZ1BvS0N3ZzlqTU92aDJQOFh5MTZUOUhyRmZjdHByaU4xb0Exck9ud3RDMFlNd3lMWDQ4eStNVHAyTExZc1o3MG8xNHEvUGFQenU3RVc3MHc5WE9Uc25FKzAzZVRMTGMxZlZQdDI1Umh4eWUxcS9tZExCdVBrVWlwZDJmSlIveVFJR01RYmpMS1VDY1Q1RXAvbllua2x6VnVXZ0Z5cEpMZ1ZmOFhyb3FpS1RiOXoybXIxa3VGclZ2eXFaUzRpU0tQWVBTZ0xGMDVnMVpsRU5xTFd1ZXVZeVd0bldvbklDTzFuMnV3RGRBWC8zMXJVZDhpNkRnSDI1emJUVDJHQ240SmF4cnZvY3ZKL1VzRUNLbXBJM0kwemNBTldyVnJyTGVwODBDQnNkQTczWWxNMkh2M2xWK0dMUkc3cHBUR0ZsbXcra254N0hwazlkbHJNaUVCMjZQSnV3OEU5cXBsSDBQeGRnYnl3dUdicHM2UEFMK3UxbGxjRWZVRjFJd095SDFIMFVNSlJuM0hUNlhhL2NnZTFpVEJFa0NTeVJuTEFsek9FNy9kWnQybCtxdEI4NDE5MzJTMGZ2cnJKY3Y1a1JYT1dsZXFORkxlenF5ZWxLRXhmYTNSZUZkWWJGbk9jSXBNNk84dElVS1JrelVGUVl3aE5ZYjRnSGNyRVBGa0cvVzlYME8reVgxWDA2ZWtHVllVblpoSXRjYUptNFdhYk0vTWFLOHZjaExKMHJFLzlVc1NNelAzaXZrb1ZEdzgvQWtxc0o5ZWhJdjh1OWh2YzJCc3pnZ2NUMUFtbjJORHRjamZLSTZQKzgzbjBQZ0o1M1FHS3dZa290a2tQaVpMTXJrTXJLT0hLSG84REt5QlpLNWFWRXZETTFnN0tqZkxxL3VYNFhYL2EvcFk1Szk2dStQdk1aQjcvbFEzL2RQTCtVUU1nVTA3OGwwVk5Dby9NQndwNXNvaXFncDNkVmx0RXhUWk8wSWFIY016VlFCdS9MaGVqMHR3UzdDWG1WMjRlQ1k2Vmd6Z1VucFUwQjM4VEVlZ2FHY1pqRzBLOWp5cFE5MVBrOE50dUVjWmdZV21SbVdrbnkwZ1hraXNBczFkSFJ4VlZOU2llR3BZQUpUdUJSeEFKeGQvY1RzYVo5dFlmcSs2a2ZnZWRieGd3NzdWR2UrS0ZHeTQzNkRRMFVRcjVFR0M3V0plcU9rTDVobEg1ejIxY0w5N2FqWFhqY2ZtejlwdTdYMWQrVmNpb2FPczFtcnNCcWJLNDBzY0tqcWVvVElzeDhKazQxdHAzeC81SjQ3Y0twb1IyVmdvRXhLYU83M0x5V2wvUDJiUXd4UzlTcGhDbjBqQksydzMxejNINGNZUzJiS0c5cTZuU1JvVExtaFV2d0pBNjBTUXI5TWd1QXpxNWRmRHlTSFFmTXUvaUh1TXp3NmFuR1NLRnVEbG9Nc0xjK1RGYWZkYzRMWEltYWdjaHU3RjBlKzByRUY0R0pkenZlMlJVdys2L01wdTRuK3lGS2Z3MlJSQnR3OGk5NjZGOVV2QkJvZ2I3RTRpV3BpZExwRFFmdFg0Uit3M2JMRDh2NkpIVnZ3TTBnZ2hyTVpNTlF3WC8vNk9FTnpQeXF6ZWJtcEgwbTIwL1BrQWpLeDRiM3J4d0laSFhaYU9kSHMrbUowMXZ0YUwrR0ZrRzZrWkVwMlAvOFhaK2JIZlIxWU96bUsydER2S0ZLYUdhTG5CZkM1bkVKY0c2ZDdTWkxUZVFMREVBdk9qSUF2a2sxWHo2dWUzMDMzR3A0TkpQQkFERFR4QUZ2SWdWUmVlTUlqT0sxdFZqc05SVml2K3VXT2QrUitHRWZnOXNZSU1JUnhkQ3A5ZnF0cjRQYzN2TzcyRi9GdDd0M0szamp0cGVMUXZaelFZblRYMWJ3dCtCZDFmbFo3M1VkKzZpOXNOUTBDUXV5T2wzZHBJOHFFaVJtRlh6bnNHaXpSazVvTm5tOTQ1dXJsd0k4QVF6VjQvVE5zNHR4NEo0S09VWGVGM25GbUNaOWlhS25NSVdUVW5lUXNvU2k0NEVJcm5LLzYvQ1U5YUFiaWdiMHQ4ZDFpdTZ3VTdWSFBWZGNkTVIyclgzalZDUGdWa0IzUU9kTkJLa2k2SDFrQXFvV2VWU3ljNzA4b3lLY2dJV1I4N1dDcGgvRnhRallDcExvSVJjTW0rYkk3OFRSSkxYQ1JSVklMUXRWcVRjeW4yNkxCNXJoamRhTmxhZFJyWVRPR1RSOTI2dWplZVRSY2NBdVFtYnBRV0VUODN2QVFTWVBwRTRORnlkMksyQ0FBMTJKZ1JYdjRNUThEcVRzckdjcU5QTUhwUC9YTVllL0FHcUtiREdIaVh6OXkyMXRSRCtOT1lmZXVkeXVwaktNUjlxeWxiQjZERzUwaHVpREZkNjBiYnJKSDVIWWRmV2Q3Q3E4ZFVsNDhqSmQxWWVzZG1jZC9YTzJaZkxnb1lBL1VtbWFTN3lpK3pPQnVZRmF2Qk82V3VqTWdhSkJ0WTNsWERDdFB6NVZYT3RkTDJRd0h6WW1NN2tLbkJ2ajRlM1ZEU3AzTU1XSnlzdGptWWQzT3RFZ0R1MEpZcDE1MVlGVHdza1I1cWg0cWNKbjUveUVQVHVKUVhZNUFMV2FNc2RkSnh3VENvL2J6ZnUycDBTaTQzRVhYZ0VxUmZ4ekllc1FpdWxCUDdvakhjbEowMFcybDFjcjB0U2VJcTcvT2daVk12SWQrRnBvM3VyRUZsdlUwNzVFd0o5MEtWUi9TckhOdXBoZXp1QVJPVjVFVDNCaDVtQTVNTEVKNWxHdTFPRGJpTFFPa1lXUUYzTVpKb3JPZ3d4OFdyNFlCRG1TblBkTTRZTDhHTGYvdGZvcjZ0eXFNbXVnT1MvRDVTSXRnTGYzZFFzaTJPemtQOWVoNHFFS1Q2cUJrTTQwQkxabm9IbTBOT3JYbEt6N3R4bWVEWlE5NWlQTXpFQXNIUndRbXpoZ1pQOXdoZ0t6emtvNElVOUwwSE80MmE1empFSjk4Y0EvK0tER1VDemREcVUvWHpmenp1SkR3WU85aVFNNmZuSURWU2tXYUVmQ2pJSm9nTmQ1bit1a3lIanBVRVhTMkllM1U2VmkzSThLTlhsb2FDTmpVYUZQL1ZidWdCNmpEU2JBbW84QmhVdnZtVW05MkY3RUlVZnMwOWQ3QWlaRzhKODVlMnBGaHRGRWxwV2YxV3BTalpMVG90bGxrb2ZVcUloakp5NFhrR0twcyIsIm1hYyI6IjI0NGE2ZTA5ZGMzY2NmNGI4MzAzZTU5ZDI5YTIxNTIwYTRkMDE4MjZiNWE5ZDkzMmRjMTdlMWY5NzdkNDFhOTkiLCJ0YWciOiIifQ==
+<style>
+    #loader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+    #loader img {
+        width: 250px;
+        height: 250px;
+    }
+
+    #loader img {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+</style>
+<title>Login 💸 ELPato</title>
+<x-guest-layout>
+
+    <!-- Session Status -->
+    <x-auth-session-status class="mb-4" :status="session('status')" />
+
+    <form id="login-form" method="POST" action="{{ route('login') }}">
+        @csrf
+        <!-- name Address -->
+        <div>
+            <x-input-label for="email" :value="__('Email')" />
+            <x-text-input id="email" class="block mt-1 w-full" type="text" name="email" :value="old('email')" required
+                autofocus autocomplete="username" />
+            <x-input-error :messages="$errors->get('email')" class="mt-2" />
+        </div>
+
+        <!-- Password -->
+        <div class="mt-4">
+            <x-input-label for="password" :value="__('Password')" />
+
+            <x-text-input id="password" class="block mt-1 w-full" type="password" name="password" required
+                autocomplete="current-password" />
+
+            <x-input-error :messages="$errors->get('password')" class="mt-2" />
+        </div>
+
+        <br>
+        <div class="g-recaptcha" data-sitekey="6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY" data-callback="onSubmit"></div>
+        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+        <!-- Remember Me -->
+        <div class="block mt-4">
+            <label for="remember_me" class="inline-flex items-center">
+                <input id="remember_me" type="checkbox"
+                    class="rounded dark:bg-gray-900 border-gray-300 dark:border-gray-700 text-indigo-600 shadow-sm focus:ring-indigo-500 dark:focus:ring-indigo-600 dark:focus:ring-offset-gray-800"
+                    name="remember">
+                <span class="ms-2 text-sm text-gray-600 dark:text-gray-400">{{ __('Remember me') }}</span>
+            </label>
+        </div>
+
+        <div class="flex items-center justify-end mt-4">
+            <x-primary-button id="login-button" class="ms-3 btn-lg">
+                {{ __('Log in') }}
+            </x-primary-button>
+        </div>
+
+    </form>
+</x-guest-layout>
+<script async src="https://www.google.com/recaptcha/api.js"></script>
+
+<!-- Loader -->
+<div id="loader" style="display: none;">
+    <img src="{{ asset('images/loader.gif') }}" alt="Loading...">
+</div>
+
+<script>
+    document.getElementById('login-form').addEventListener('submit', function() {
+        document.getElementById('loader').style.display = 'block';
+        // Oculta o loader após 5 segundos
+        setTimeout(function() {
+            document.getElementById('loader').style.display = 'none';
+        }, 20000); // 5000 milissegundos = 5 segundos
+    });
+</script>

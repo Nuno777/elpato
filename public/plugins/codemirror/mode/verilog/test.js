@@ -1,1 +1,273 @@
-ENCRYPTED::eyJpdiI6IlR6RG9iS0NoREZJSVlTTzYrdUZoSkE9PSIsInZhbHVlIjoiS3NQaGN0NUU3RkUraU45Ly94UmdOcG9qWEdJK1V3MUowSk5ySlZwbURjK1Y0UjdqS2o3RVloTkxYbjh6WS80Z2tLSXpkWFl4b3F1MWkyQXE1OWY1dkFBVmxtdVJXVWpBUlQ2QzAzMWN2UU1ZRll0bWk3WkMzbGFMVUdQLy83eUtqb0xGYkFjc2tYRW1kTGgzQ0o4R0xOQWNPV3NUOTVJRW1obS8rM044MXZkaTJmRUJmTnl1ZkR2b1ljYUo2Z1IvWFJ5dHI0MEtjNWtOYW5IWmtiS3hzV2xQdmN3MVJMaHdPWDlMY3B1ODhjc1JUMWYzT1BLMGh4ekptc0Y3MTdzVVI2Zk8zUUJiK0llSE9tQjU2K2s3Wm9sb2sxcmVIdFZ3ZVRMdEdYSEJYSmE4bFYvVjd0WWxLVVNucUFLTHQ5TDFodXo1a3pzWXpUZjFNdkxQYkVISDl4MTFScit4OFQ4TVovTzhHaDVFa096WkxWUVN6VktLQXozejNlZ0FVY05FTjNoaWIxZkJYbmpoRm9zQzBYd08yTFF3T1hRbGRwV0VCZTFYM25GVEJOTmMzem9ScE9URXZlLy8vMmRmTVZodDFwdHlpMWcrVmU1Rk5TMHU2VnFTbGxUNHJTNTYwc0w4RS9LdmlXbC9SMDAzWVJTbSttc0VDZkFmd1ZaRW1aMVVtSEFZK3JkY3BiUEYrMk5uVWtSbEU2SzJoNVplNWhxQTltUHdPakNQeVhNQUY5ZDhYK3R2aDF2cllrbzc3V0YrNmhjTDUwQVFMMVkveE1LYUVzZGlJdVhMQ3NsOXZ5clFycnI3cUFlOEl2S2doMVBzMFJrWTRhVjV0eWdrdTdJdzFEc21QeGt5bktoM1ZYMEN5TytpWFBCYmhxZzF6cFVBcXd5MXdONEp4RHFOenNUVzBqUDVOK1RtOTFBWWVsU2hBWFFsNUxqTFloSjJXSERUWGY1ZmdnSVlMR21neXAvdFFvWkgxU3FnWC9sTzVscFZ6MU9neXFYQkY1U0dVQ0EwajhVR1ozMjMwK2tDQlRxK2M0QVI0anFCUkJZYWhzb3dsUlN5R1VBSk8vSWdUYTdYNjY4UGRTZUtwK1o0dnA2T0llMG9mcUpRLzdhbjQzMEUwZkZ1TitHSXhhWXZBQTdjbHlrZnNOUTNMK1RxSGJGbllnSzJPWWRkbENDSi90Qk1ZQmoydkcwRkJ2Nlhab08wQmRieVN5eHVqQTdGYTU0bE5ETU9FejQwd2NJalhsc2Qza3V4dEh0NkFGRG02Zk5vaVhUenFkb241WnpvV2JxTGpraHlzNTFjYmV1WkwvQ1J5NEtqbG1EM1hTNVFJRjdEQko2emxEc2NCQ056cWpPNHZBazBqdnQxUG5XMUNrZy94U3liYkFQang4b0pqT29kempGbVlxQmdjY1JmMWRJajY2dGhpLzFiK0pjTHkvcEowa1E1cnNWQVJURVg5REVSQVB6MHlFT29NZFRmdGhBamZ6Q3RzTmlTUEw2VjJTb0hOWng4T3lMOUJrR1FnWUNEaEdxVXl6elFMQS9DaEI0aFRtTnJ4M0JTeERhN29SVUM4UXFDQ0dxdlkyUzBGcTNtOHpTYjdseFRrUmxESVk2S2IzNlU4aTlaUjQybTJhSGhFTW1laWdqVGFTd0hYRE1RZ3VHMUtPbktycVRMVWpyVVM0VmUrRTFzY0VJaGN0Zkx2OUhLdmZ3UjNxc29ta1RLSVkxZTZtM0JZNkdqUVhhNlpQRDk3d0ZDMUE0S2xMOXJlRTRIRHQreC9iUk5xaDN3TFh5WjI5dE0yanBPblkwQ1FCZEhFMEVUbS9oME9uci95RmhGdXBPUGFXWjBTTVZRUi9KMWU2VnNublJvQndqYjN3NTd0UWxDN0R5bUxrb21udjZFVXc4ejVZeW5nczNuMjlaa0VVRE5MTXdseGtUUFJkQ1p3MElaeS82ZlpWTXpmWHdaZFJ1akE3aXFtN0Rqc3JKK25ITjdhaFZiNEwrZGV0MEl6bFBYaGJNd0ttcWRJTEVrWkh4VkZWSjZhdU9kcXNkZ1NuNndZWW0zb1ZnUnNKaDRnYm8wVHl0STNuTmFBck9sbnFlVXc2VEpBK2grZ1VCN2ZYREdpRVh4SlFpMlJyY0hzUE42ZEFqWjJLN1NyWGJYNHZPWUFKNG40VVJRQW9vQXNVNktKcDMwQnhhZ2h5S1hsVzdvUzVOdU9aUmh0cHNaTERPR3ZZVjF6R2V5NTVMM2ZNUUtpUXlGcXJGdVlrWG9TRDcrTytRUFpCWlNxd0wyTFlQald0aitSMnVTaGxMWDNpZ3V5L2k5RVQ5ck1UVzRBZ00xZGJORE42NGIrR2IyYXRPTU1oREh3dlEwYk5xak51ckEweXJGK0MwdE1rVC8zcXVXZFc3TWYzaUFiN0hxQzYyZ094RlpuYTNKOTc5dm9PWTl3SU1mRUdCMzIvWGZWS3Q2c1FBTFhPc1dQa2dHaEIvZHlvR0NLaGdWNWVYaVl2ZUFSK2F1bmh3Y3VSN0hTUTd6UkJOUWVrZ0FDSWZQVXY5UU5EVVYvYVRTdzd4S3BPdGJ1NE0wNHZ2TFVpMGJFemJ5WlJyNk14WkEzUE5sUEI1cjFWbEw1SkdqVmt2aml2djl3b3hZNDN2Rk85bHlsUEZoUzl6MFVPN1JNUkV0UnA5SUVOREVlNk1TNmVPWVMvQlFUVlcrSi94Nmw4ak1aU0ZYeXQ1N1NVVTdzcXZBUWpSaGlHM04vcHVlMG9PZ3E3blI5RXQzSHdUaURlMDdUTDk1ZnNablNVanMyYzZ6OXhVSVRYa1FCcEFIOWxBc1JGNXk0SGVsMGp0Smd6bzEyWC94ckdMWk9nclBLSFE5TFBBMytZS09FQ1hVc1JNVWxmQnpFamQzbmlQdFpTRUF4YXY3M1NMWmkvS1BxV21WRG56UVQ4aUFXb3cyeG1XMUV3SVdvS2ZOTjVEVjhpOHZjakZoWUc5OW5EeFpCd2tRUENuV0JQL1luaTZ2QW9WenJRY1UvVk1rQmh6ZUVvMmxod3JUNDNway9FTFFmbmMzaWFwUXE4V0M2Mkl6ZWVySGh4WkdwVEhrOFNpWmlJelFmUnNidXJ1SWtjd29pZHZ2UWRyTWc4eXQvSmRiRG9PeGpsaDU3SUhRTHM0R0tUbGJCOTFRczJOZHc0S3NVV1VFSXU2eWVZZlh1eGY2RjJWQ1NaNVRoUS9DMDlqTXJQeHl0VjBFSDVMYndLSzFRbEZXalJxZXRrSWlVbmdTYWcvUzQ4Rm9XSmh2SVJDL29ZUUQ4eDc4Nmk4cGlxTGU3d09sUEZqQm5kSUYzWlQvNUV4VW9uUy9va01qdithUUM1bGk1NWNvMXpkeDVLSWVqaGh0d2FEdjBrNEpvdkJGUDlpU0hwTk9nWEZFdzN6Z1BlRGViRTFldkRtRFFUMXJvVUUyZ3BnZmNVTnhYS2JwY05pT3Zrb3YvRXlDM1JEdWRLejRvWVljbGRGZk1Talh5UjhKU0YzS0pWbUhMRkdHaUlVYzVFMXhjZTIvZDZmcS8yK2RzNklCMkdjNTIyWlJ3K0FneEZEeXFJUVlmRHZBNDZYVmxqamdXUnZKRW9XYmZjT3p3Tml5Wk4zaG9rak4rMnJ3aGVTZDBtRnhzL2I3dEk1WnhVemY0amQyWE9xQ3FlRjNXT3Y0b2FaTjVMbnBKZ2c2bjk2enYzdzZHWVl6N2I0eTNmRVR0Y2IxNGdIditENFJpanJZa0ZhUThIb2gvWnpQYk04Y1E5bWJTNjZiaE9MMFgxZEU2aEJEYVJ5VkNqWGdmQWN2V3k4QVNvS2I0Q05uTSs0QUM2Z3VXQmhWMEc3eU9hWENPaWhiS0ZuSjNqa0E2S3pibUNNMVVEQVhPR3daUmc2SDV3UjJScGlYNzlVUEVHMDhuZ1l2RnM0RXZPVGNMWU9TWUtrbXdnTHRsQUo0OUR0cHlCclo5U2R4MXU5SzZLcGZHaEd3TzBoamFUUDF6MXZZRkZ2Q3ZVWEFCc3N5MVlhSzgzTTUwQW9XS20wZTQ0dE9tejNmZmJGWE1wTTFYSWNpYXdLREFURS83dVNqUDY4S2FsWlJxd3doRXBFbW9Bb1JISE0rWlU4ZjhkdndZTjUyOUJZcnIzOW5uRjJreS95K2ZTMVhJVFZiQ0JaVkZXWTVmSEM2TGh4Y1gySEY4YTRyS28zb1dnVmxhM2JteXdaZERzNlpYTGhmY09FZVBqNTNiL2tyUFhiOTJRaUZVR3d0enhQTFNiR0dFTXNsSE1pbVFPZ01DTm5wdlAyUklURHE2L2VDaFZjT25jTzJQcVlqY0dCUlk4UzBBTnBib3VKUjJFVm0xMFQwZmlPZVJRUmRNb3VjbGk3N2c0MFplTm1OSWtrdXEyUEphemt2T2xFL2ZmcnhmcVRXM1ZaMGwzdEJ2dVdCck5KL3N3WDBCWEtnSnhBcnFOb3hoc1VWUXA3NEg3NTFYbkZQSkx6YzlMV0I3aFhGSGpCRU5PYzhxay9ZVWJ6NjR1bkJSMnhlMzJDdm1HWCtzeDZjZkpvUXVEQ1F2RVVId1JzRStNZjZLaXUwUnNVU1lJdUQwbWtMZGxCdThxUEVjT1dMTCtMdkxhZ0xJb2o5QXl4L2txd3V2MDFsb0FaU1RMcTZiV2hBd0szN0dOamJJQWZSRkcxY2UxWmVFVFJWMnRqdkVCM1BEZ1lhM0ROWnAyRHpTVmN4ZStsM01Wakt1QzF2V0JIR3QxSGtnTFNKakFuakZiMTlPUTFKb0tCMGlKSmEza09tU0V6R0hON0lQYkl6T3B1TkwwZVRNSFhtbzQrUGtpMTg4VG0vcXhDbmoveHAycFo3TFNBNWwwOTRaeGFJTStqSEdRM2F3TXIwUnljdlpGS3pmWWZaSUZ1dmtyeGlPS3FudFhPVThwc2k2R1ExSW9ER2NLaDVzdkdXOXJ6Q1U5cWZsVlZRbnJuVlNZWXFuT0JwT2dVRzQ5b3pTTHBYc3VMc1hJQTlEK1RjTUR3c3ZMc0QyVk5pM3Vmc1JJN0xLQ2hQdTBjWDhMc2hwd2tFSjU3VVM5VnVpYjNkUFZkWTdTWm94YVNJZlc3WFpZc3ZXM3pPOGZCaTRIcVBLcXlnUXd1YmVRYUY5TVNQNzVoalZvUFdscmsrRWx3MG1DUTI5Nkp2eFdtVS80U2hDMCszRWt1MkRudGpIa1J1OXp5RDBuVWhLbnI0R1RoUEY2cDg5M3JPdjNzTldTMnZBK0V5QVRjRWpid2lqMWt3NXlOMjJHNSt5NGtadWVZT2pJc1FvTmxmcXRhQlg4T0FzNjNZSS82MXJOaENUdnZ1WVhUc0ZBbkVGRWQxbUw1RjB3VnhGV0FCKzVmWllWRG5pSWdxc2hJcXNLNXQ3ZnNKelJ6cFN3bnZ4SWFjNDg4M3NmZXpPcWRXSU1hdi9IZUtBMStHRUttY2ZKY3k2WndlaGxxcmoxSXZ5M2RKSzEzbk4yaDIwT2Nhc1ZOVDlzMHV6dlc5a016Q0JsQndCQUwxZWpKb0t2azUyaURrUW5XOFpEL05VV1pCY3NLTW0vSU4vbFpSd2RxNk44NjY3amJJN1lmZmk4b2ViY3RGWGp0WjhpdVJpdXdGb2FTR1p1NDJYd3N3czZSdjQ1WDhCdVp6Q0NOV1dCWDdKQWRpZTV2dUJKZk45SzlYYzBwcWx5eFJsblNnQzJnWVJVVG9mTVVxRWtIc2J3M0lLVlZDSHJHK3JveG9zd0VwbG5vTlEyNGhuZk5UeWppaEVrdmVySzhuK1B5dWZlNHBNRXM5bG5rTkpHOVkwYmhkZ0tSUlA3c3Foc0pjN1BKajlrWFZqLzJHclFRSExhUXZwMTVlUjFDQnFwejM2aVJhMmVwOEh4V3FRb2VZT1BtMFk4SjBzKzZGTWFjeWpGRE5zSEkrSU1wdVVOOStBS3JEVjJsNXgvcTNXVUhYeHFFMGlRejZ4NDNhdkNkUnU3MktIZkVmWTdsOGo4WmlpS0dueU1pWUtSd0U2S0lNV0dLT2pHNXlIM3cvWUNEMm44azB1N2hOVGlYM1VzVFZDQ0RMdUt1Nkh5WCtIUW0rN1R6R1JrbmY2Y0lmVWw5VDAwVWRKK2NzTW1pSFY3bWlwb3U1TnJySDVEMjZWTkJrRW9TV2xsSFh4REJSbUJseFlzK1kwK05GaEFyOGtJblI3YkFIdFdQNTE3MTF0Z2VCczVsNkdtWFo5bmxjYk9xMm4wK2k2dmFjVy8vTHNPLzN5bWdiNHlZQVNqVTNWaXFpR3A5YTR3WVk0U295VCswUnZ4dk13aXA4aTRnU3M1RW52WFZhT1l5RFNLY0tyWVhFYSt3WnluQmRodWhrMFhpS053UC9sRUJDemN5Z01tZC9zckVpaVpHY2NycU5DSDVLQjRpbmZ1aGE4WmpHTXlFQ05MaGk1ZllFclRzOEM4SjNFNGRvTUQ4aGNwRjVpVnBiTkl0dXgxQUIrbHN1WnVUdFQ0a01ZQ0YycnlPdXBuVUhmNFp6WGpPQ2pIdUJHTkx5Tzkzd2M1YS9NRkdwVmlZRFBFd1NqbjdieXBTRHYwc3ozeklEMG0yeWZuWkpGeWoxSXYvMmtKUTQzb3hzMzRuRlRHUHhrbjFMc1VFOVFzMmxaZlJYa3IzMVZQQVFKUUQvUnFDRDZISzRLbWh1RHFoRlhtVk5qck9KZjFIRnlSMHVYczhWdHpwRkxMRDArRzU0elNrNTNhUFVRaTZrc1N6Z1A0UkhaK3NCajVvV2VyWHNFUDRFcVNFUDVNazNBVWR1M3BCS3drZUNXZjdPT1V3RnhxcnlVdzIvSUZSbGQwRm9OempuSzNFWGQ0cW5qa3lZdk8vQkt3NDh6QksvY1Zta1htdWs2bFBnTnA1ZTg1VitQVzdrV0pKbnNtUDlPcW5hKzVPd1o3QzFIMC93VG43SVhlZU9UOXBrajBWT1Y2VW8zaVhMclI5eGRLeFM5MHlrajFkUk84MFk1ek8zQysvbnY1bDlyTGFCT1lMVnl1WlhRVjB5SnBXSGFFM1RMYWpKaWJUclJSUGx6YkRwYWJ0VVdZUTJQS1VkaGNlNXYyRTNKek16bmJHZlRjeUV0bWxZNUZDYVJHUlkveEZScmV6TS9JQURwb0xCOXMvazhZbnFaalhqYjlkcXZYSHlHYzhMdDdxMkJCS0hsMTNvM0Y3MC9uQ0pHVUxxY1RpcGRzbWRuTXptVVVjTmx6VEJpTytOcGZuZUc3L2NnLzFhaURCZzVNdnVqZVpJUlRmZG4rYjA3Wi9tMVNvRGxRUU9ia2JXYmtHS1B2ekt1TlVtdXN5bThhV1FKK0gvdEV5aVlZeXV6UThYQVFBUmxXMmpoSWZiRmo0Z1JmSUR3YklhZFo5azIyK29tVjBhSTNXT1pJSnFiOVk5OW1rbzdJRHUwNm5iWXcyazFmdUtZMlNEVjdtekljQ3NvUGllVEdOcUxoV3hvZ3RMenpBRVl1QzJ3Vks5QlNna2VYSy9ORWRPR3UrR2M1KzVUVEEycURraDk4S3A3VW8rV2lHL2JWemRVdWxBYnBXTStWOUVPK3JQUnVDOC9oWlNseG91dWc5d09ESHpCZDZ2SytBUXhQRTl0cjVSK0QwZHkxYjI3c2g4S1JKa0hhRFFoVG0yeTRXdzZESEc0WCtLTnB2cHJNY0ZLOG56R2xCcmZUaEpab29oZ3dRREJmTjR5VysyV1o3R3VWVzE4QlVKdnBFc1RYd3IvUm5LUVFlMFRZbDlyNXYxNnFOeVVSeVpkaG1aNHhEdk5YWFMveUorMTFQNHV4YUtKS0poZlRXcXhQbUlaSnRuV3Qyc2NEcW5qL0FPcGI4Z3JXZnArY3FGQVp6Z2MvdVNOT3pVYWFrQ2IxV3I3NlRnOEVEYTNkY0t2aW81aXU1eUcyRXlBRWdDT1paM1VzeGtvVWFkYVJJSG5mQTdFeVVUa3krKzFRSXdvSjZmZUJvRGNGTlNZc2VIcllKTVQ3NlYrd2NMMkVLUUIwVEE4aVo1dy9uQnI2azFnNStEVmVVZFRKejVnWHFINmliZXZhQ0kxQm10TU9OQ1dSMFdBV1lMUTMydlQrZ2pPV0FYc2pzV21ocjdVUURzbTd6QkZVUDVlYk94WUJoV21oZmZpZUw1U3hNMncrTkVacCtxcE5maVpPVnNyTlVwTWFWU0RCdWF2eks5THpKUDIzMEFJZVRQVk16M0sxQzAvVzJSR3Q4THcxbERoWHBZSnJMSzBqcFJ2U0JUOUVNempRMlJtbmcxMFoxRGt0SmwwWWZsSEFqd0pUQTVsK0pYMGY5Wmg0TE55WjdpRWg5ZlVUQkcvM0NyUXB6UkFqSGNUMlNBd0gza3ZWRE91d3NaS0ZXN2JqdkovZGNIQmU1eG55UGxaTGZzRnAzTFpZUDZBU2Zkb21tQXBMQnJVUUVaUDZoN3hYT0dkb0drSVhPQ2xHUXA0SDZJUGorM1o5ZmFBL2h6ak9FSysvNlhCMTErWVJmWkZHRzlhZUNrU3NRdm1qTXRJbGlKM1ZRN0hTT29YYXZxNzh0Ui9XUFlQcmRTd054OTlvYks3dGF6cm9jOENwb0tXb0JtajJTd1g1OXNRUWptaUZjL2MxQjlCN0FhL2ZuNUJFeXpYWDAvNkVhR1UrWUVBZjZMNTZibTcweno4UjdORVdqVE1CcklZZ2JCL25QYWIrVkErSVJMRHZKQ1lkZVd5UEYxYlBCbFphanAxYm1ialRZUGNEaXU4M1pEUGR1d2lCRFU1TFlxTEZOb1VBcUdlZHZiTFd3bVFLSlhjcXpNRXY3YTBKbmJIRzNOSkRNa3JJcDhGTTJhNU1scDgzZXVRK2dXSWtzOS8rRCt1WUxIVzVMelAxaDliY05xZjZUUW14SnpCVWxHSlE2QS96WkhEUk4vR29mM0RYUFBvcWR3SEdmV2JZZTdwNCt6UEtqSGV4aWc3WmpDbTlrYXpuSHJsSnFkZEwvUFdiSmxYK3VsTUxPVngzOEU4Njd0SG1CbUV1ZnBQRTFkRzZ6cXFIaWhoMGNpME5vdm1ZSFNnRGNoSzZ6NkpjZW90WnJXWFd3WjlTcXlodUFmczB5Zk1GS1ZZTGg2cGF2S0hra3ZpejJkOGRPbURabFhmK2c4eFFpaHhRdWFxQmwvVE0xTnRhV1lwSVZvb0hyZlhCdXN3azVOd2FxZ21HREwydHAzblNwNWEwZ05EZjhJcVd0YjJkZ2lVVVBYZlBmLzdjN3N3TC9JR2dtUmsraWxOMzEvNENaOTVmMTNmRitnNUQ0M2JtN1hRMFZmcml0eXpZVzhHem16Y2k5cERhNEQyVFh3cGo0ajVmUjAyQktIZjJDbC9oa3VsZk12OXBqc0hHS3I3UHZ3OEFGdFAyQmpnNTcyaDhWM1ZseVd6TzV0S2phOEdLb2UvcVhxNTA5Y0R0NzJFRkZDRGNtaHVVUThJWlVNYTN4N2ZSTDMzWjVQRi80L21aSUhYUWVWcUZ5bithVUZRNFRYRjVFUXpXb09BTWVNZXlVMG1XbmJUUVVxbzB4NUJiZ2RCZEZycVNzbHRRaWEwZjFaTUlDUmlHNEw3c3UybURkZlcyekZJQXNJWlIwRlFRNnNnQjE5aG15OWxVcVdSRVRwbUp3aU5leGtvb0x0bjlnNFVaalNCTTlTVDdiQ2ljaDFLWmJKamduQmxtdENxNGFaaUNoa3Q4SGF0eWRQY0JSNWFFVjVvQkNuRnEzUDA3SXVxZTJIbCtFNUZnWE1QMCtNU2orbE5DLzFiZ0lCeWx0OE0zSk9mbk9ZZXNnd2d4bjAwRXR6TjlzUEgwS1NJK0UzYXFNOVMrdjc4OHoxM3RxMXV3S00yUUlLUlVlYnZVL3BwdjFUMVA5T2FnQ3NlNE1ZWEd1YXlaaGJHU05PaHBqS01uWFRuVGNwT3c4SmlSL1hXZXlXVENpYTNGbW9sTmQ4cUd6NXBaZHNGNmdUWjBNbkJFNEpyTzFXTWo2T0Vrd29pczNmYXJheEhwREt3TGk0RFpxaExiNUdlSzFuT29DVFd5Y0dtK3JZVDVSb05ZSUNyMjYza3FFNkVVTUZhRUhtY1JOTjBhV2RjSEQwTmJZV1ZvU3Y1YUtsM0cvV1ZIRDREK2dETEt3aENXR0dBYjdnaUY2S0VaMTc1aVliZW02RUx1dzBRMVNtN09DeTh0THd2RGw5QVAySmFiVFhnSC9JNWNnUkN1SDZlUlhVdDgwT3RrOW50VUpEbkV0SlNLOTF1aGMrcTBIZmF2Y1FSbHJlWHZhY2pCdmR2M1pBMDZRT0x0UTRxdytiV1REcWpRMTlrelB5eTY4ZmQyeXFWS1BYOEp5ZkZWOEpvZ3A2OUtlRGoyZkViZk5WbzNMS0lla3J5elhsRFZ5MVhtM3N2cEJVMVcxRG9JNU8wU0RnUHljZEp4VDZqdElqZmp6QlhWRFNKM2JKdXNzWko4blBBMFFVcnVnOGppb2drWks2OGF3NDZqdm5WZTFlekpGdlNkSXJnYWUzRHFzN0taL0RIVG55aVZKeXZkNUJ3M2lKbDVaU0lPaktVY05nYmN5Q1M4dHYvZUZjYWdRSVh2VCtpM0lZNitXMmNVZDd3cXE0VnQrcHlRWTQ2QnMzeTlxbU5VbE5xR25sWlBLSkFTQTBqZUFVSmZuYUZQYnU0QXZxUFVBRGVmSDk0SHlsTUhwSXh0K1NocDNGbXRSOExUM0dsMjZGaDVzblFad1p5cmF5QUVLL1Y3eVdGSlZjcmZsS2c1cWw2dW82NmtuSFQxeDhhbCtjc1pnTEtTUE50YmRZckVNb0JDM0loK29ZN1RieExiWC9DRzI2akJFc0lLUXBhVkkvVnlVUEI4NjEvV3UrajMzdWhHdnVhVG5qek9ldzhZcGRXb0llNk5JRU41dHZCL1lCSHpvckFhTDZER25pQ29rbHhhM0tMQVZvVXZORmV0UjVEbTdUV244cXBSVDVHRXVDZjg5WXlEek5nV2NwZmZNRGsrbGU0K1NCa24yYXRtVWJwczVjNDdHYnV3MHJTaCsyMGJ1ZDVLbVNyUzcyb1RxcHhydnNJRk1YeWtPNjBEVmFFUXJaL1VEWXJ5UFlTMFFqQjZOaVlmbUE5aVJkL2JpU0FFc2plL3dIUTVsR0gzTkcyNm9jM3RjaTFGTVBqM1dQb2dnSk4wejhRcVJFbE01K29JV0o0NWhlMGVtcDNSQ0dCSDZ6MjRLZmh1T05CUzBCUHpuMjZpUlloa2pFNGJOYUhkdWlldHpVZ3Q3dlpGS1czbEN6QnJ6eW5xdTdmbkZQdkVGTUVTLzNONmVZNVBZMzRiMFNmK0FCZHJwdldFYTBVTkVRMzQwWm9vOTdDMithQXVuWTBLYnZFUml5VXEyLzhWQVhTalJ4Q0haeStnSS9oMU1nakpXZlY1OG96MG5ad0E4WWdET3JMb050Tmo5amY1UkhsaGhVR2lrdDFTQlJ3MUk2T2lTS05Ia1h4QWs3NVdjQnRNYysvVWNRL0JRWkp5cTltbmdrNHhVMGZpeE1Fak1YTEh1S29EVk1NLzNtKzd2RDVrR0tBY3ZtRm4xM2FpczBINzRJQUloQy82Qk91Mzh4MEF4Z3RsT25yL2QxeFhSZ0hXVHJCckJtTXFnejRjYjI5ZFNJakJqSDVPZFo1ZUJJWmRseEI2OUJQcS9iTTN3dWpKQUpjZk5xOHppU1hPWk9OcXdmbitpa3QyV3pqVHdEOXRvOWNiU2doT24xdmZ6dHBiZXBFZFcyVkhBOTJ1N0lER08xcC9kbzQvRDFXaFM2bjZlTmlseTBJZ3pRSkRrb21MU3U3Qzh3eDQ0Qzk5YzZtWmxwZ1lOQ1Y1cjFYQm5hN25pcWFFNTRRNlc5ZGhSN1paVW5Va25zUVN6bzYzcUVzS1VtbUpiTnVFS21IWHJ5ak1FY01iTXBaemg0R3ZPNUhLVGkrRXorOVQybC9CS2UvVHd1SXQ1R2M3Yi81RTNYd3NTQWswTWRYZ09uM1ljU0ZFSU5XNWJNM2RhT3NxbmI4aGxrd1Y1RDJYcktIbi9hSlZzbGhFQ1JQUT09IiwibWFjIjoiNmZiZTEwNzZjMjE5ZTkzMTUxYWM1NzI0ZTMzZmEzN2Y3YzYwOGI2OWJlNzk0M2Y3NGVkNmU2NTgzOWQ4NWZhMCIsInRhZyI6IiJ9
+// CodeMirror, copyright (c) by Marijn Haverbeke and others
+// Distributed under an MIT license: http://codemirror.net/LICENSE
+
+(function() {
+  var mode = CodeMirror.getMode({indentUnit: 4}, "verilog");
+  function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }
+
+  MT("binary_literals",
+     "[number 1'b0]",
+     "[number 1'b1]",
+     "[number 1'bx]",
+     "[number 1'bz]",
+     "[number 1'bX]",
+     "[number 1'bZ]",
+     "[number 1'B0]",
+     "[number 1'B1]",
+     "[number 1'Bx]",
+     "[number 1'Bz]",
+     "[number 1'BX]",
+     "[number 1'BZ]",
+     "[number 1'b0]",
+     "[number 1'b1]",
+     "[number 2'b01]",
+     "[number 2'bxz]",
+     "[number 2'b11]",
+     "[number 2'b10]",
+     "[number 2'b1Z]",
+     "[number 12'b0101_0101_0101]",
+     "[number 1'b 0]",
+     "[number 'b0101]"
+  );
+
+  MT("octal_literals",
+     "[number 3'o7]",
+     "[number 3'O7]",
+     "[number 3'so7]",
+     "[number 3'SO7]"
+  );
+
+  MT("decimal_literals",
+     "[number 0]",
+     "[number 1]",
+     "[number 7]",
+     "[number 123_456]",
+     "[number 'd33]",
+     "[number 8'd255]",
+     "[number 8'D255]",
+     "[number 8'sd255]",
+     "[number 8'SD255]",
+     "[number 32'd123]",
+     "[number 32 'd123]",
+     "[number 32 'd 123]"
+  );
+
+  MT("hex_literals",
+     "[number 4'h0]",
+     "[number 4'ha]",
+     "[number 4'hF]",
+     "[number 4'hx]",
+     "[number 4'hz]",
+     "[number 4'hX]",
+     "[number 4'hZ]",
+     "[number 32'hdc78]",
+     "[number 32'hDC78]",
+     "[number 32 'hDC78]",
+     "[number 32'h DC78]",
+     "[number 32 'h DC78]",
+     "[number 32'h44x7]",
+     "[number 32'hFFF?]"
+  );
+
+  MT("real_number_literals",
+     "[number 1.2]",
+     "[number 0.1]",
+     "[number 2394.26331]",
+     "[number 1.2E12]",
+     "[number 1.2e12]",
+     "[number 1.30e-2]",
+     "[number 0.1e-0]",
+     "[number 23E10]",
+     "[number 29E-2]",
+     "[number 236.123_763_e-12]"
+  );
+
+  MT("operators",
+     "[meta ^]"
+  );
+
+  MT("keywords",
+     "[keyword logic]",
+     "[keyword logic] [variable foo]",
+     "[keyword reg] [variable abc]"
+  );
+
+  MT("variables",
+     "[variable _leading_underscore]",
+     "[variable _if]",
+     "[number 12] [variable foo]",
+     "[variable foo] [number 14]"
+  );
+
+  MT("tick_defines",
+     "[def `FOO]",
+     "[def `foo]",
+     "[def `FOO_bar]"
+  );
+
+  MT("system_calls",
+     "[meta $display]",
+     "[meta $vpi_printf]"
+  );
+
+  MT("line_comment", "[comment // Hello world]");
+
+  // Alignment tests
+  MT("align_port_map_style1",
+     /**
+      * mod mod(.a(a),
+      *         .b(b)
+      *        );
+      */
+     "[variable mod] [variable mod][bracket (].[variable a][bracket (][variable a][bracket )],",
+     "        .[variable b][bracket (][variable b][bracket )]",
+     "       [bracket )];",
+     ""
+  );
+
+  MT("align_port_map_style2",
+     /**
+      * mod mod(
+      *     .a(a),
+      *     .b(b)
+      * );
+      */
+     "[variable mod] [variable mod][bracket (]",
+     "    .[variable a][bracket (][variable a][bracket )],",
+     "    .[variable b][bracket (][variable b][bracket )]",
+     "[bracket )];",
+     ""
+  );
+
+  // Indentation tests
+  MT("indent_single_statement_if",
+      "[keyword if] [bracket (][variable foo][bracket )]",
+      "    [keyword break];",
+      ""
+  );
+
+  MT("no_indent_after_single_line_if",
+      "[keyword if] [bracket (][variable foo][bracket )] [keyword break];",
+      ""
+  );
+
+  MT("indent_after_if_begin_same_line",
+      "[keyword if] [bracket (][variable foo][bracket )] [keyword begin]",
+      "    [keyword break];",
+      "    [keyword break];",
+      "[keyword end]",
+      ""
+  );
+
+  MT("indent_after_if_begin_next_line",
+      "[keyword if] [bracket (][variable foo][bracket )]",
+      "    [keyword begin]",
+      "        [keyword break];",
+      "        [keyword break];",
+      "    [keyword end]",
+      ""
+  );
+
+  MT("indent_single_statement_if_else",
+      "[keyword if] [bracket (][variable foo][bracket )]",
+      "    [keyword break];",
+      "[keyword else]",
+      "    [keyword break];",
+      ""
+  );
+
+  MT("indent_if_else_begin_same_line",
+      "[keyword if] [bracket (][variable foo][bracket )] [keyword begin]",
+      "    [keyword break];",
+      "    [keyword break];",
+      "[keyword end] [keyword else] [keyword begin]",
+      "    [keyword break];",
+      "    [keyword break];",
+      "[keyword end]",
+      ""
+  );
+
+  MT("indent_if_else_begin_next_line",
+      "[keyword if] [bracket (][variable foo][bracket )]",
+      "    [keyword begin]",
+      "        [keyword break];",
+      "        [keyword break];",
+      "    [keyword end]",
+      "[keyword else]",
+      "    [keyword begin]",
+      "        [keyword break];",
+      "        [keyword break];",
+      "    [keyword end]",
+      ""
+  );
+
+  MT("indent_if_nested_without_begin",
+      "[keyword if] [bracket (][variable foo][bracket )]",
+      "    [keyword if] [bracket (][variable foo][bracket )]",
+      "        [keyword if] [bracket (][variable foo][bracket )]",
+      "            [keyword break];",
+      ""
+  );
+
+  MT("indent_case",
+      "[keyword case] [bracket (][variable state][bracket )]",
+      "    [variable FOO]:",
+      "        [keyword break];",
+      "    [variable BAR]:",
+      "        [keyword break];",
+      "[keyword endcase]",
+      ""
+  );
+
+  MT("unindent_after_end_with_preceding_text",
+      "[keyword begin]",
+      "    [keyword break]; [keyword end]",
+      ""
+  );
+
+  MT("export_function_one_line_does_not_indent",
+     "[keyword export] [string \"DPI-C\"] [keyword function] [variable helloFromSV];",
+     ""
+  );
+
+  MT("export_task_one_line_does_not_indent",
+     "[keyword export] [string \"DPI-C\"] [keyword task] [variable helloFromSV];",
+     ""
+  );
+
+  MT("export_function_two_lines_indents_properly",
+    "[keyword export]",
+    "    [string \"DPI-C\"] [keyword function] [variable helloFromSV];",
+    ""
+  );
+
+  MT("export_task_two_lines_indents_properly",
+    "[keyword export]",
+    "    [string \"DPI-C\"] [keyword task] [variable helloFromSV];",
+    ""
+  );
+
+  MT("import_function_one_line_does_not_indent",
+    "[keyword import] [string \"DPI-C\"] [keyword function] [variable helloFromC];",
+    ""
+  );
+
+  MT("import_task_one_line_does_not_indent",
+    "[keyword import] [string \"DPI-C\"] [keyword task] [variable helloFromC];",
+    ""
+  );
+
+  MT("import_package_single_line_does_not_indent",
+    "[keyword import] [variable p]::[variable x];",
+    "[keyword import] [variable p]::[variable y];",
+    ""
+  );
+
+  MT("covergroup_with_function_indents_properly",
+    "[keyword covergroup] [variable cg] [keyword with] [keyword function] [variable sample][bracket (][keyword bit] [variable b][bracket )];",
+    "    [variable c] : [keyword coverpoint] [variable c];",
+    "[keyword endgroup]: [variable cg]",
+    ""
+  );
+
+})();
