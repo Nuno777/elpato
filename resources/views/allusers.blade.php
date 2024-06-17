@@ -108,8 +108,8 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}" role="form" method="POST"
-                                            onsubmit="return confirm('Change Password for this user?');">
+                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}" role="form"
+                                            method="POST" onsubmit="return confirm('Change Password for this user?');">
                                             @csrf
                                             <button type="submit" class="btn btn-dark">
                                                 <i class="mdi mdi-key" data-toggle="tooltip"></i>
@@ -118,15 +118,16 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <form role="form" action="{{ route('user.destroy', $user->id) }}"
-                                            method="POST" onsubmit="return confirm('Delete User?');">
-                                            @csrf
-                                            @method('DELETE')
-
-                                            <button type="submit" class="btn btn-danger">
-                                                <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
-                                            </button>
-                                        </form>
+                                        @if (auth()->check() && auth()->user()->id !== $user->id)
+                                            <form role="form" action="{{ route('user.destroy', $user->id) }}"
+                                                method="POST" onsubmit="return confirm('Delete User?');">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button type="submit" class="btn btn-danger">
+                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                                </button>
+                                            </form>
+                                        @endif
                                     </td>
                                 @endif
                             </tr>

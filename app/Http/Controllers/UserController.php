@@ -227,6 +227,11 @@ class UserController extends Controller
     public function destroy(User $user)
     {
         try {
+            // Prevent logged-in user from deleting their own account
+            if (auth()->user()->id === $user->id) {
+                return redirect()->route('user.all')->with('error', 'You cannot delete your own account.');
+            }
+
             // Delete profile image if exists
             if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
                 Storage::delete('public/profile_img/' . $user->profile_image);
@@ -235,7 +240,7 @@ class UserController extends Controller
 
             return redirect()->route('user.all')->with('success', 'User deleted successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while deleting the User. Please try again.');
+            return redirect()->back()->with('error', 'An error occurred while deleting the user. Please try again.');
         }
     }
 }
