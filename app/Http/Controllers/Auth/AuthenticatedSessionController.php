@@ -26,7 +26,6 @@ class AuthenticatedSessionController extends Controller
      */
     public function store(LoginRequest $request): RedirectResponse
     {
-        // Autenticar o usuário
         $credentials = $request->only('email', 'password');
         $user = User::where('email', $credentials['email'])->first();
 

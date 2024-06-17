@@ -214,7 +214,7 @@ class UserController extends Controller
             'email_verified_at' => 'required|date',
             'type' => 'required',
             'telegram' => 'required',
-            'blocked' => 'required|boolean', // Validação do campo blocked
+            'blocked' => 'required|boolean',
         ]);
 
         try {
@@ -225,15 +225,13 @@ class UserController extends Controller
                 return redirect()->back()->with('error', 'You cannot change your own blocked status.');
             }
 
-            // Atualiza os campos do usuário
             $user->name = $fields['name'];
             $user->email = $fields['email'];
             $user->email_verified_at = $fields['email_verified_at'];
             $user->type = $fields['type'];
             $user->telegram = $fields['telegram'];
-            $user->blocked = $fields['blocked']; // Atualiza o campo blocked
+            $user->blocked = $fields['blocked'];
 
-            // Salva as alterações no banco de dados
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User updated successfully!');
