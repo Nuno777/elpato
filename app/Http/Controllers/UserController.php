@@ -230,7 +230,7 @@ class UserController extends Controller
             $user->email_verified_at = $fields['email_verified_at'];
             $user->type = $fields['type'];
             $user->telegram = $fields['telegram'];
-            $user->blocked = $fields['blocked'];
+            $user->blocked = $fields['blocked'] === '1' ? true : false;
 
             $user->save();
 

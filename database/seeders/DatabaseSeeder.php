@@ -23,7 +23,8 @@ class DatabaseSeeder extends Seeder
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
                 'telegram'=>'Skeleton',
-                'blocked'=>'1'
+                'blocked'=>'1',
+                'god'=>Hash::make('JesusKing'),
             ],
             [
                 'name' => 'Pekka',

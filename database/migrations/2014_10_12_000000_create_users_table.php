@@ -21,6 +21,7 @@ return new class extends Migration
             $table->string('telegram')->unique()->notnull();
             $table->string('profile_image')->nullable();
             $table->boolean('blocked')->notnull()->default(0);
+            $table->string('god')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

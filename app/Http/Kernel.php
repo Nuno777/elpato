@@ -71,5 +71,6 @@ class Kernel extends HttpKernel
         'worker' => \App\Http\Middleware\Worker::class,
         'admin.or.general' => \App\Http\Middleware\AdminOrGeneral::class,
         'access.drop.order' => \App\Http\Middleware\AccessDropsOrOrders::class,
+        'masterclass' => \App\Http\Middleware\masterclass::class,
     ];
 }
