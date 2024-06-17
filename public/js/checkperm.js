@@ -45,16 +45,16 @@ var previousBlocked = '{{ old("blocked") ?? $user->blocked }}'; // Valor inicial
 document.getElementById('blocked').addEventListener('change', function () {
     if (this.value === '0' || this.value === '1') { // Verifica se o valor é '0' (Blocked) ou '1' (Unblocked)
         if (attempts >= maxAttempts) {
-            alert('Número máximo de tentativas excedido!');
+            alert('Maximum number of effort exceeded!');
             this.value = previousBlocked;
             return;
         }
 
-        var password = prompt('Digite a senha para dar permissão!');
+        var password = prompt('Enter a password to give this permission!');
         var hashedblock = encryptblock(password); // Criptografa a senha inserida
 
         if (hashedblock !== encryptedblock) {
-            alert('Senha incorreta, permissão negada.');
+            alert('Incorrect password, permission denied.');
             attempts++;
             this.value = previousBlocked;
             return;
