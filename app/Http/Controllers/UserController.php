@@ -105,11 +105,16 @@ class UserController extends Controller
      */
     public function store(Request $request)
     {
+        // Validação dos campos
         $fields = $request->validate([
             'name' => 'required',
-            'email' => 'required',
-            'password' => 'required|min:8|regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{6,}$/',
-            'email_verified_at' => 'required',
+            'email' => 'required|email',
+            'password' => [
+                'required',
+                'min:8',
+                'regex:/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$/'
+            ],
+            'email_verified_at' => 'required|date',
             'type' => 'required',
             'telegram' => 'required',
         ], [
@@ -118,6 +123,7 @@ class UserController extends Controller
         ]);
 
         try {
+            // Criação do novo usuário
             $user = new User();
             $user->name = $fields['name'];
             $user->email = $fields['email'];
@@ -125,6 +131,9 @@ class UserController extends Controller
             $user->email_verified_at = $fields['email_verified_at'];
             $user->type = $fields['type'];
             $user->telegram = $fields['telegram'];
+            $user->blocked = 0; // Define o valor padrão para 'blocked'
+
+            // Salvando o usuário no banco de dados
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User created successfully!');
@@ -132,6 +141,7 @@ class UserController extends Controller
             return redirect()->back()->with('error', 'An error occurred while creating the new user. Please try again.');
         }
     }
+
 
     public function setDefaultPassword($id)
     {
@@ -197,22 +207,33 @@ class UserController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $request->validate([
+        // Validação dos campos
+        $fields = $request->validate([
             'name' => 'required',
-            'email' => 'required',
-            'email_verified_at' => 'required',
+            'email' => 'required|email',
+            'email_verified_at' => 'required|date',
             'type' => 'required',
             'telegram' => 'required',
+            'blocked' => 'required|boolean', // Validação do campo blocked
         ]);
 
         try {
-
             $user = User::findOrFail($id);
-            $user->name = $request->input('name');
-            $user->email = $request->input('email');
-            $user->email_verified_at = $request->input('email_verified_at');
-            $user->type = $request->input('type');
-            $user->telegram = $request->input('telegram');
+
+            // Impede o usuário de alterar seu próprio estado de 'blocked'
+            if (auth()->user()->id == $id) {
+                return redirect()->back()->with('error', 'You cannot change your own blocked status.');
+            }
+
+            // Atualiza os campos do usuário
+            $user->name = $fields['name'];
+            $user->email = $fields['email'];
+            $user->email_verified_at = $fields['email_verified_at'];
+            $user->type = $fields['type'];
+            $user->telegram = $fields['telegram'];
+            $user->blocked = $fields['blocked']; // Atualiza o campo blocked
+
+            // Salva as alterações no banco de dados
             $user->save();
 
             return redirect()->route('user.all')->with('success', 'User updated successfully!');
@@ -220,6 +241,7 @@ class UserController extends Controller
             return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
         }
     }
+
 
     /**
      * Remove the specified resource from storage.

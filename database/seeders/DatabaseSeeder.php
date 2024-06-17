@@ -22,7 +22,8 @@ class DatabaseSeeder extends Seeder
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
-                'telegram'=>'Skeleton'
+                'telegram'=>'Skeleton',
+                'blocked'=>'1'
             ],
             [
                 'name' => 'Pekka',
@@ -30,7 +31,8 @@ class DatabaseSeeder extends Seeder
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
-                'telegram'=>'pekka'
+                'telegram'=>'pekka',
+                'blocked'=>'1'
             ],
             [
                 'name' => 'ET',
@@ -38,7 +40,8 @@ class DatabaseSeeder extends Seeder
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'worker',
-                'telegram'=>'et'
+                'telegram'=>'et',
+                'blocked'=>'1'
             ],
             [
                 'name' => 'Calvo',
@@ -46,7 +49,8 @@ class DatabaseSeeder extends Seeder
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'general',
-                'telegram'=>'calvo'
+                'telegram'=>'calvo',
+                'blocked'=>'1'
             ]
 
         ];

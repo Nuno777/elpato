@@ -59,18 +59,18 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6">
+                        <div class="col-sm-10">
                             <div class="row">
-                                <div class="col-4">
+                                <div class="col-3">
                                     <div class="form-group">
                                         <label for="telegram">Telegram</label>
-                                        <input type="text" name="telegram" class="form-control"
+                                        <input type="text" name="telegram" class="form-control" maxlength="20"
                                             value="{{ old('telegram') ?? $user->telegram }}" placeholder="Telegram"
                                             required>
                                     </div>
                                 </div>
 
-                                <div class="col-3">
+                                <div class="col-2">
                                     <div class="form-group">
                                         <label for="type">Role</label>
                                         <select name="type" id="type" class="form-control" required>
@@ -88,15 +88,46 @@
                                 </div>
 
                                 <div class="col-5">
-                                    <div class="form-group">
-                                        <label for="email_verified_at">Create Check</label>
-                                        <input type="text" name="email_verified_at" class="form-control"
-                                            value="{{ old('email_verified_at') ?? $user->email_verified_at }}"
-                                            placeholder="Create Check" readonly required>
-                                    </div>
+                                    @if (auth()->user()->id == $user->id)
+                                        <div class="col-6">
+                                            <div class="form-group">
+                                                <label for="blocked">Blocked</label>
+                                                <input type="text" name="blocked" class="form-control"
+                                                    value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}"
+                                                    readonly>
+                                            </div>
+                                        </div>
+                                    @else
+                                        <div class="col-6">
+                                            <div class="form-group">
+                                                <label for="blocked">Blocked</label>
+                                                <select name="blocked" id="blocked" class="form-control" required>
+                                                    <option value="0"
+                                                        {{ old('blocked', $user->blocked) == '0' ? 'selected' : '' }}>
+                                                        Blocked
+                                                    </option>
+                                                    <option value="1"
+                                                        {{ old('blocked', $user->blocked) == '1' ? 'selected' : '' }}>
+                                                        Unblocked
+                                                    </option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    @endif
                                 </div>
+
                             </div>
                         </div>
+
+                        <div class="col-3">
+                            <div class="form-group">
+                                <label for="email_verified_at">Create Check</label>
+                                <input type="text" name="email_verified_at" class="form-control"
+                                    value="{{ old('email_verified_at') ?? $user->email_verified_at }}"
+                                    placeholder="Create Check" readonly required>
+                            </div>
+                        </div>
+
                     </div>
 
                     <button type="submit" class="btn btn-primary">Edit User</button>
@@ -111,6 +142,7 @@
 
 <script>
     var previousType = '{{ old('type') ?? $user->type }}';
+    var previousBlocked = '{{ old('blocked') ?? $user->type }}';
 </script>
 
 @push('scripts')

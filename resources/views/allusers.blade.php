@@ -19,6 +19,7 @@
                             <th>Email</th>
                             <th>Telegram</th>
                             <th>Roles</th>
+                            <th>Blocked</th>
                             <th>Create Check</th>
                             <th></th>
                             <th></th>
@@ -47,7 +48,15 @@
                                         {{ $user->type }}
                                     @endif
                                 </td>
-
+                                <td style="width: 10%" class="sorting_disabled">
+                                    @if ($user->blocked == '0')
+                                        Blocked
+                                    @elseif ($user->blocked == '1')
+                                        Unblocked
+                                    @else
+                                        {{ $user->blocked }}
+                                    @endif
+                                </td>
                                 <td style="width: 15%" class="sorting_disabled">
                                     {{ $user->email_verified_at ? $user->email_verified_at->format('j/F/Y') . ' - ' . $user->email_verified_at->format('H:i:s') : 'N/A' }}
                                 </td>
