@@ -26,7 +26,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
-                            <th></th>
+                            <th>Default Pass</th>
                             <th></th>
                         </tr>
                     </thead>

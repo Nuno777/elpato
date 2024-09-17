@@ -26,7 +26,8 @@
                             Request::is('createuser') ||
                             Request::is('allusers') ||
                             Request::is('allorders') ||
-                            Request::is('allftid')) active show @endif">
+                            Request::is('allftid') ||
+                            Request::is('login-logs')) active show @endif">
                         <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpanel"
                             href="{{ route('adminpainel') }}" aria-expanded="false" aria-controls="adminpanel">
                             <i class="mdi mdi-monitor-dashboard"></i>
@@ -38,7 +39,8 @@
                                 Request::is('createuser') ||
                                 Request::is('allusers') ||
                                 Request::is('allorders') ||
-                                Request::is('allftid')) show @endif" id="adminpanel"
+                                Request::is('allftid') ||
+                                Request::is('login-logs')) show @endif" id="adminpanel"
                             data-parent="#sidebar-menu">
                             <div class="sub-menu">
                                 <li class="@if (Request::is('adminpainel')) active @endif">
@@ -52,25 +54,35 @@
                                         <span class="nav-text">Create User</span>
                                     </a>
                                 </li>
+
                                 <li class="@if (Request::is('allusers')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('user.all') }}">
                                         <span class="nav-text">All Users</span>
                                     </a>
                                 </li>
+
                                 <li class="@if (Request::is('allorders')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('orders.all') }}">
                                         <span class="nav-text">All Orders</span>
                                     </a>
                                 </li>
+
                                 <li class="@if (Request::is('allftid')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('ftid.all') }}">
                                         <span class="nav-text">All FTIDs</span>
+                                    </a>
+                                </li>
+
+                                <li class="@if (Request::is('login-logs')) active @endif">
+                                    <a class="sidenav-item-link" href="{{ route('login.logs') }}">
+                                        <span class="nav-text">Login & Logout Logs</span>
                                     </a>
                                 </li>
                             </div>
                         </ul>
                     </li>
                 @endif
+
 
                 <!-- Drops and Orders (for authorized users) -->
                 @if (auth()->check() &&
@@ -101,29 +113,36 @@
                 @endif
 
                 <!-- Admin Functions (if user is admin) -->
-                @if (auth()->check() && auth()->user()->type == 'admin')
-                <li class="has-sub @if (Request::is('login-logs')) active show @endif">
-                    <a class="sidenav-item-link" data-toggle="collapse" data-target="#logs"
-                        href="#logs" aria-expanded="false" aria-controls="logs">
-                        <i class="mdi mdi-file-document-outline"></i>
-                        <span class="nav-text">Logs</span>
-                        <b class="caret"></b>
-                    </a>
-
-                    <ul class="collapse @if (Request::is('login-logs')) show @endif" id="logs"
-                        data-parent="#sidebar-menu">
-                        <div class="sub-menu">
-                            <li class="@if (Request::is('login-logs')) active @endif">
-                                <a class="sidenav-item-link" href="{{ route('login.logs') }}">
-                                    <span class="nav-text">Login & Logout Logs</span>
-                                </a>
-                            </li>
-                        </div>
-                    </ul>
-                </li>
+                @if (auth()->check() &&
+                        (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
+                    <li class="@if (Request::is('generator')) active @endif">
+                        <a class="sidenav-item-link" href="">
+                            <i class="mdi mdi-refresh"></i>
+                            <span class="nav-text">Generator</span>
+                        </a>
+                    </li>
                 @endif
             </ul>
         </div>
+
+        <div class="sidebar-footer">
+            <div class="sidebar-footer-content">
+                <ul class="d-flex">
+                    @if (auth()->check() && auth()->user()->type == 'admin')
+                        <li>
+                            <a href="{{ route('login.logs') }}" data-toggle="tooltip" title="Logs"><i
+                                    class="mdi mdi-file-document-outline"></i></a>
+                        </li>
+                    @endif
+                    <li>
+                        <a href="{{ route('profile') }}" data-toggle="tooltip" title="Profile settings"><i
+                                class="mdi mdi-settings"></i></a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
     </div>
 </aside>
 
@@ -139,6 +158,8 @@
 
 
             <div class="navbar-right ">
+
+                <p style="color: #0e84cc"><b>Balance: </b></p>
 
                 <!-- notificacoes -->
                 <li class="custom-dropdown">

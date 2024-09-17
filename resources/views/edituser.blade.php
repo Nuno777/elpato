@@ -71,21 +71,38 @@
                                 </div>
 
                                 <div class="col-2">
-                                    <div class="form-group">
-                                        <label for="type">Role</label>
-                                        <select name="type" id="type" class="form-control" required>
-                                            <option value="worker"
-                                                {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>Worker
-                                            </option>
-                                            <option value="general"
-                                                {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
-                                                General</option>
-                                            <option value="admin"
-                                                {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>Admin
-                                            </option>
-                                        </select>
-                                    </div>
+                                    @if (auth()->user()->id == $user->id)
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <label for="type">Role</label>
+                                                <input type="text" name="type" class="form-control"
+                                                    value="{{ $user->type == 'worker' ? 'Worker' : ($user->type == 'general' ? 'General' : 'Admin') }}"
+                                                    readonly>
+                                            </div>
+                                        </div>
+                                    @else
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <label for="type">Role</label>
+                                                <select name="type" id="type" class="form-control" required>
+                                                    <option value="worker"
+                                                        {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>
+                                                        Worker
+                                                    </option>
+                                                    <option value="general"
+                                                        {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
+                                                        General
+                                                    </option>
+                                                    <option value="admin"
+                                                        {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
+                                                        Admin
+                                                    </option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    @endif
                                 </div>
+
 
                                 <div class="col-5">
                                     @if (auth()->user()->id == $user->id)
