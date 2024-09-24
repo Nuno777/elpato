@@ -156,7 +156,6 @@
             <span class="page-title">@yield('page-title')</span>
 
 
-
             <div class="navbar-right ">
 
                 <p style="color: #0e84cc"><b>Balance: </b></p>

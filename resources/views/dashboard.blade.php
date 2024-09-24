@@ -14,8 +14,8 @@
                     <div class="card-header">
                         <h2>Drops</h2>
                         <div class="sub-title">
-                            <a href="{{ route('drops') }}" class="badge badge-pill badge-success"><span class="mr-1">Go
-                                    to the Drops</span></a>
+                            <a href="{{ route('drops') }}" class="badge badge-pill badge-primary">
+                                <span class="mr-1">Go to the Drops</span></a>
                         </div>
                     </div>
 
@@ -33,7 +33,7 @@
                     <div class="card-header">
                         <h2>Orders</h2>
                         <div class="sub-title">
-                            <a href="{{ route('orders') }}" class="badge badge-pill badge-success"><span
+                            <a href="{{ route('orders') }}" class="badge badge-pill badge-primary"><span
                                     class="mr-1">Go to the Orders</span></a>
                         </div>
                     </div>
@@ -49,7 +49,7 @@
                         <div class="card-header">
                             <h2>FTID</h2>
                             <div class="sub-title">
-                                <a href="{{ route('ftid') }}" class="badge badge-pill badge-success"><span
+                                <a href="{{ route('ftid') }}" class="badge badge-pill badge-primary"><span
                                         class="mr-1">Go
                                         to the FTIDs</span></a>
                             </div>
@@ -109,7 +109,7 @@
                             <tbody>
                                 @foreach ($drop as $drop)
                                     <tr>
-                                        <td scope="row">{{ $drop->id_drop }}</td>
+                                        <td scope="row"><b>{{ $drop->id_drop }}</b></td>
                                         <td>
                                             @php
                                                 $dropStatus = strtolower(trim($drop->status));
@@ -130,7 +130,7 @@
                                         <td>{{ $drop->notes }}</td>
 
                                         <td>{{ $drop->created_at->format('j/F/Y') }}</td>
-                                        <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
+                                        <td><div class="badge badge-danger">{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</div></td>
                                     </tr>
                                 @endforeach
                             </tbody>
@@ -258,7 +258,7 @@
 
         @endif
 
-        
+
         {{-- code skeleton --}}
         @if (Auth::check() && Auth::user()->id == '1')
             <div class="row">

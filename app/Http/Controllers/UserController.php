@@ -108,7 +108,7 @@ class UserController extends Controller
         // Validação dos campos
         $fields = $request->validate([
             'name' => 'required',
-            'email' => 'required|email',
+            'email' => 'required|email|ends_with:@elpato.com',
             'password' => [
                 'required',
                 'min:8',
@@ -118,6 +118,7 @@ class UserController extends Controller
             'type' => 'required',
             'telegram' => 'required',
         ], [
+            'email.ends_with' => 'The email must be a valid @elpato.com email address.',
             'password.min' => 'The password must be at least 8 characters long.',
             'password.regex' => 'The password must contain at least 1 special character.'
         ]);
@@ -143,6 +144,7 @@ class UserController extends Controller
     }
 
 
+
     public function setDefaultPassword($id)
     {
         try {
@@ -160,9 +162,7 @@ class UserController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show()
-    {
-    }
+    public function show() {}
 
     public function allshow(Message $messages)
     {
@@ -210,11 +210,13 @@ class UserController extends Controller
         // Validação dos campos
         $fields = $request->validate([
             'name' => 'required',
-            'email' => 'required|email',
+            'email' => 'required|email|ends_with:@elpato.com',
             'email_verified_at' => 'required|date',
             'type' => 'required',
             'telegram' => 'required',
             'blocked' => 'required|boolean',
+        ], [
+            'email.ends_with' => 'The email must be a valid @elpato.com email address.',
         ]);
 
         try {

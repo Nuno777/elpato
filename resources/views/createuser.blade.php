@@ -23,14 +23,19 @@
                                 <input type="text" name="name" class="form-control" placeholder="Name" required>
                             </div>
                         </div>
+                        
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">Email</label>
                                 <input type="email" name="email" class="form-control"
                                     placeholder="example@elpato.com" required>
+                                @if ($errors->has('email'))
+                                    <span class="text-danger">{{ $errors->first('email') }}</span>
+                                @endif
                             </div>
                         </div>
-                        
+
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="password">Password</label>
@@ -48,6 +53,7 @@
                                 @endif
                             </div>
                         </div>
+
                         <div class="col-sm-6">
                             <div class="row">
                                 <div class="col-5">
