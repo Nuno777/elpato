@@ -13,6 +13,7 @@
                 <form id="assignDropForm" action="{{ route('assign.worker.drop') }}" method="POST">
                     @csrf
                     <div class="row">
+                        <!-- Campo de seleção de Worker -->
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="product">User Worker</label>
@@ -26,20 +27,51 @@
                             </div>
                         </div>
 
+                        <!-- Campo de filtro por ID de Drop -->
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="name">Drop</label>
-                                <select name="drop_id[]" class="form-control" multiple>
-                                    @foreach ($drops as $drop)
-                                        @if ($drop->status != 'Problem' && $drop->status != 'Dont send' && $drop->status != 'Suspense')
-                                            <option value="{{ $drop->id }}">{{ $drop->id_drop }}</option>
-                                        @endif
-                                    @endforeach
-                                </select>
-
+                                <label for="drop-filter">Filter Drop by ID</label>
+                                <input type="text" id="drop-filter" class="form-control" placeholder="Enter drop ID"
+                                    onkeyup="filterDrops()">
                             </div>
                         </div>
 
+                        <!-- Campo de filtro por Type (Salaried ou Nonsalaried) -->
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="type">Filter Drop by Type</label>
+                                <select name="type" id="type" class="form-control"
+                                    onchange="filterDropsByType()">
+                                    <option value="">All</option>
+                                    <option value="Salaried" {{ request('type') == 'Salaried' ? 'selected' : '' }}>
+                                        Salaried</option>
+                                    <option value="Nonsalaried"
+                                        {{ request('type') == 'Nonsalaried' ? 'selected' : '' }}>
+                                        Nonsalaried</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Lista de Drops com cores baseadas no status -->
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="name">Drop</label>
+                                <select name="drop_id[]" class="form-control" multiple id="drop-list" style="height: 200px;">
+                                    @foreach ($drops as $drop)
+                                        <option value="{{ $drop->id }}"
+                                            style="background-color:
+                                            @if ($drop->status == 'Ready') #85f36e;
+                                            @elseif ($drop->status == 'Suspense') #838383;
+                                            @elseif ($drop->status == 'Dont send') #fff085;
+                                            @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                            color:
+                                            @if ($drop->status == 'Suspense') white; @else black; @endif">
+                                            {{ $drop->id_drop }} ({{ $drop->type }})
+                                        </option>
+                                    @endforeach
+                                </select>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="modal-footer">
@@ -47,7 +79,10 @@
                     </div>
                 </form>
             </div>
-            <!-- Modal footer -->
         </div>
     </div>
 </div>
+
+@push('scripts')
+    <script src="{{ asset('js/assigndrop.js') }}"></script>
+@endpush

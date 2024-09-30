@@ -21,7 +21,7 @@
                         <div class="col-6">
                             @if ($user->profile_image)
                                 <img class="rounded-circle"
-                                    src="{{ asset('storage/profile_img/' . $user->profile_image) }}" width="80px"
+                                    src="{{ asset('profile_images/' . $user->profile_image) }}" width="80px"
                                     alt="Profile Image">
                             @else
                                 <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="80px"
@@ -71,66 +71,56 @@
                                 </div>
 
                                 <div class="col-2">
-                                    @if (auth()->user()->id == $user->id)
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <label for="type">Role</label>
-                                                <input type="text" name="type" class="form-control"
-                                                    value="{{ $user->type == 'worker' ? 'Worker' : ($user->type == 'general' ? 'General' : 'Admin') }}"
-                                                    readonly>
-                                            </div>
-                                        </div>
-                                    @else
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <label for="type">Role</label>
-                                                <select name="type" id="type" class="form-control" required>
-                                                    <option value="worker"
-                                                        {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>
-                                                        Worker
-                                                    </option>
-                                                    <option value="general"
-                                                        {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
-                                                        General
-                                                    </option>
-                                                    <option value="admin"
-                                                        {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
-                                                        Admin
-                                                    </option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    @endif
+                                    <div class="form-group">
+                                        <label for="type">Role</label>
+                                        @if (auth()->user()->id != $user->id && auth()->user()->type === 'admin' && $user->type === 'admin')
+                                            <input type="text" name="type" class="form-control"
+                                                value="{{ $user->type == 'worker' ? 'Worker' : ($user->type == 'general' ? 'General' : 'Admin') }}"
+                                                readonly disabled>
+                                        @else
+                                            <select name="type" id="type" class="form-control" required
+                                                {{ (auth()->user()->id === $user->id && auth()->user()->type === 'admin') ? 'disabled' : '' }}>
+                                                <option value="worker"
+                                                    {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>
+                                                    Worker
+                                                </option>
+                                                <option value="general"
+                                                    {{ (old('type') ?? $user->type) == 'general' ? 'selected' : '' }}>
+                                                    General
+                                                </option>
+                                                <option value="admin"
+                                                    {{ (old('type') ?? $user->type) == 'admin' ? 'selected' : '' }}>
+                                                    Admin
+                                                </option>
+                                            </select>
+                                        @endif
+                                    </div>
                                 </div>
 
-
                                 <div class="col-5">
-                                    @if (auth()->user()->id == $user->id)
+                                    <div class="form-group">
+                                        <label for="blocked">Blocked</label>
+                                        @if (auth()->user()->id != $user->id && auth()->user()->type === 'admin' && $user->type === 'admin')
                                         <div class="col-6">
-                                            <div class="form-group">
-                                                <label for="blocked">Blocked</label>
-                                                <input type="text" name="blocked" class="form-control"
-                                                    value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}"
-                                                    readonly>
-                                            </div>
-                                        </div>
-                                    @else
+                                            <input type="text" name="blocked" class="form-control"
+                                                value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}" readonly disabled>
+                                                </div>
+                                        @else
                                         <div class="col-6">
-                                            <div class="form-group">
-                                                <label for="blocked">Blocked</label>
-                                                <select name="blocked" id="blocked" class="form-control" required>
-                                                    <option value="0"
-                                                        {{ old('blocked', $user->blocked) == '0' ? 'selected' : '' }}>
-                                                        Blocked
-                                                    </option>
-                                                    <option value="1"
-                                                        {{ old('blocked', $user->blocked) == '1' ? 'selected' : '' }}>
-                                                        Unblocked
-                                                    </option>
-                                                </select>
+                                            <select name="blocked" id="blocked" class="form-control" required
+                                                {{ (auth()->user()->id === $user->id && auth()->user()->type === 'admin') ? 'disabled' : '' }}>
+                                                <option value="0"
+                                                    {{ old('blocked', $user->blocked) == '0' ? 'selected' : '' }}>
+                                                    Blocked
+                                                </option>
+                                                <option value="1"
+                                                    {{ old('blocked', $user->blocked) == '1' ? 'selected' : '' }}>
+                                                    Unblocked
+                                                </option>
+                                            </select>
                                             </div>
-                                        </div>
-                                    @endif
+                                        @endif
+                                    </div>
                                 </div>
 
                             </div>

@@ -28,7 +28,7 @@
                             <div class="form-group">
                                 <label for="email">Email</label>
                                 <input type="email" name="email" class="form-control"
-                                    placeholder="example@elpato.com" required>
+                                    placeholder="example@elpato.xyz" required>
                                 @if ($errors->has('email'))
                                     <span class="text-danger">{{ $errors->first('email') }}</span>
                                 @endif
@@ -82,7 +82,10 @@
                             </div>
                         </div>
                     </div>
-                    <input class="g-recaptcha" type="hidden" id="recaptchaToken" name="recaptchaToken">
+                    <!-- Google reCAPTCHA -->
+                    {!! NoCaptcha::renderJs() !!}
+                    {!! NoCaptcha::display() !!}
+                    <br>
                     <button type="submit" class="btn btn-primary">Create User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
@@ -91,7 +94,7 @@
     </div>
 </div>
 @endsection
-<script src="https://www.google.com/recaptcha/api.js?render=6LfIvMMpAAAAAMyq68S6_XTjd_bJnZopR1brbTSY"></script>
+
 @push('scripts')
 <script src="{{ asset('js/typeuser.js') }}"></script>
 @endpush

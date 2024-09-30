@@ -6,7 +6,7 @@ use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use App\Models\ftid;
+use App\Models\Ftid;
 use App\Models\User;
 
 class ftidController extends Controller
@@ -16,7 +16,7 @@ class ftidController extends Controller
      */
     public function index()
     {
-        $ftids = ftid::orderByDesc('id')->get();
+        $ftids = Ftid::orderByDesc('id')->get();
         return view('ftid', compact('ftids'));
     }
 

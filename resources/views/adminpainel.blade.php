@@ -29,7 +29,7 @@
                     <div class="card-header">
                         <h2>All Users</h2>
                         <div class="sub-title">
-                            <a href="{{ route('user.all') }}" class="badge badge-pill badge-success"><span
+                            <a href="{{ route('user.all') }}" class="badge badge-pill badge-primary"><span
                                     class="mr-1">Go to the All Users</span></a>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                     <div class="card-header">
                         <h2>All Orders</h2>
                         <div class="sub-title">
-                            <a href="{{ route('orders.all') }}" class="badge badge-pill badge-success"><span
+                            <a href="{{ route('orders.all') }}" class="badge badge-pill badge-primary"><span
                                     class="mr-1">Go
                                     to the All Orders</span></a>
                         </div>
@@ -60,7 +60,7 @@
                     <div class="card-header">
                         <h2>All FTID</h2>
                         <div class="sub-title">
-                            <a href="{{ route('ftid.all') }}" class="badge badge-pill badge-success"><span
+                            <a href="{{ route('ftid.all') }}" class="badge badge-pill badge-primary"><span
                                     class="mr-1">Go to the
                                     All FTIDs</span></a>
                         </div>

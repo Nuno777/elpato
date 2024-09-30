@@ -132,25 +132,64 @@ class DropController extends Controller
     }
 
 
+
     public function assignDropToWorker(Request $request)
     {
+        // Verifica se o usuário tem permissão para atribuir drops
         if (auth()->user()->type != 'admin') {
             return redirect()->back()->with('error', 'You do not have permission to assign drops.');
         }
 
         $userId = $request->input('user_id');
-        $dropIds = $request->input('drop_id'); // Agora pode ser um array de drop_ids
+        $dropIds = $request->input('drop_id');
+
+        // Verifica se pelo menos um drop foi selecionado
+        if (empty($dropIds)) {
+            return redirect()->back()->with('error', 'Please select at least one drop to assign.');
+        }
 
         $user = User::findOrFail($userId);
 
-        // Limpa todas as atribuições anteriores
-        $user->drops()->detach();
-
-        // Atribui as novas quedas ao usuário
-        $user->drops()->attach($dropIds);
+        // Usa o sync para adicionar novas drops sem remover as anteriores
+        $user->drops()->syncWithoutDetaching($dropIds);
 
         return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
+
+
+    public function showAssignDropForm(Request $request)
+    {
+        // Obtém todos os trabalhadores (users do tipo 'worker')
+        $users = User::where('type', 'worker')->get();
+
+        // Filtra drops por ID e por type (Salaried ou Nonsalaried), se solicitado
+        $dropQuery = Drop::query();
+
+        // Filtro por ID de drop
+        if ($request->filled('drop_id')) {
+            $dropQuery->where('id_drop', 'like', '%' . $request->input('drop_id') . '%');
+        }
+
+        // Filtro por type (Salaried ou Nonsalaried)
+        if ($request->filled('type')) {
+            $dropQuery->where('type', $request->input('type'));
+        }
+
+        // Obtém os drops filtrados ou todos os drops se não houver filtro
+        $drops = $dropQuery->get();
+
+        // Se um usuário foi selecionado, obtenha suas drops atribuídas
+        $assignedDrops = [];
+        if ($request->filled('user_id')) {
+            $userId = $request->input('user_id');
+            $user = User::findOrFail($userId);
+            $assignedDrops = $user->drops->pluck('id')->toArray(); // Pega os IDs das drops atribuídasdd($assignedDrops);
+        }
+
+        // Retorna a view com os dados dos trabalhadores e drops
+        return view('assign-drop-form', compact('users', 'drops', 'assignedDrops'));
+    }
+
 
     public function removeDropToWorker(Request $request)
     {

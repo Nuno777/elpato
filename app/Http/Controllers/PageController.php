@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\Order;
-use App\Models\FTID;
+use App\Models\Ftid;
 use App\Models\User;
 use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
@@ -32,14 +32,14 @@ class PageController extends Controller
         return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount, 'messagesCount' => $messagesCount, 'messagesCountAll' => $messagesCountAll]);
     }
 
-    public function adminpainel(User $users, Order $orders, FTID $ftid)
+    public function adminpainel(User $users, Order $orders, Ftid $ftid)
     {
         $ordersCount = $orders->count();
         $ftidCount = $ftid->count();
         $userCount = $users->count();
         $messages = Message::all();
         $orders = Order::orderBy('id', 'DESC')->paginate(10);
-        $ftid = FTID::orderBy('id', 'DESC')->paginate(10);
+        $ftid = Ftid::orderBy('id', 'DESC')->paginate(10);
 
         return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages, 'orders' => $orders, 'ftid' => $ftid]);
     }

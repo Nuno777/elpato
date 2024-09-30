@@ -26,7 +26,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
-                            <th>Default Pass</th>
+                            <th></th>
                             <th></th>
                         </tr>
                     </thead>
@@ -127,7 +127,7 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        @if (auth()->check() && auth()->user()->id !== $user->id)
+                                        @if (auth()->check() && auth()->user()->id !== $user->id && $user->type !== 'admin')
                                             <form role="form" action="{{ route('user.destroy', $user->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete User?');">
                                                 @csrf

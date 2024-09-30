@@ -27,13 +27,14 @@
                     </div>
                     <div class="row">
 
-                        <div class="col-sm-6">
+                       <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
                                 <input type="text" name="name" class="form-control" placeholder="Name"
                                     value="{{ old('name') ?? $drop->name }}" required>
                             </div>
                         </div>
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="notes">Notes</label>
@@ -88,8 +89,17 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="type">Type</label>
-                                        <input type="text" name="type" class="form-control" placeholder="Type"
-                                            value="{{ old('type') ?? $drop->type }}" readonly>
+                                        <select name="type" class="form-control" id="type" required>
+                                            <option value="All"
+                                                {{ old('type') == 'All' || $drop->type == 'All' ? 'selected' : '' }}>
+                                                All</option>
+                                            <option value="Salaried"
+                                                {{ old('type') == 'Salaried' || $drop->type == 'Salaried' ? 'selected' : '' }}>
+                                                Salaried</option>
+                                            <option value="Nonsalaried"
+                                                {{ old('type') == 'Nonsalaried' || $drop->type == 'Nonsalaried' ? 'selected' : '' }}>
+                                                Nonsalaried</option>
+                                        </select>
                                     </div>
                                 </div>
                                 <div class="col-6">

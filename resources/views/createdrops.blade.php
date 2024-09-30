@@ -95,8 +95,11 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="type">Type</label>
-                                        <input type="text" name="type" class="form-control" placeholder="Type"
-                                            value="All" readonly>
+                                        <select name="type" class="form-control" id="type">
+                                            <option value="All" selected>All</option>
+                                            <option value="Salaried">Salaried</option>
+                                            <option value="Nonsalaried">Nonsalaried</option>
+                                        </select>
                                     </div>
                                 </div>
 

@@ -155,15 +155,6 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-12">
-                                <div class="form-group">
-                                    <label for="personalnotes">Personal Notes</label>
-                                    <input type="text" name="personalnotes" class="form-control"
-                                        placeholder="Example (Email Order:Pass)">
-                                        <small class="form-text text-muted"></small>
-                                </div>
-                            </div>
-
                             <div class="col-sm-6">
                                 <div class="row">
                                     <div class="col-6">

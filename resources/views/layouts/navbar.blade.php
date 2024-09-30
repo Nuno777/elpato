@@ -4,7 +4,8 @@
         <div class="app-brand">
             <a href="{{ route('dashboard') }}">
                 <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 100%;">
-                <span class="brand-name" style="width: 100%;">ElPato</span>
+                <img src="{{ asset('/images/PainelIMG.png') }}" alt="Mono" style="margin-left:20px; height: 50%;">
+
             </a>
         </div>
 
@@ -112,7 +113,7 @@
                     </li>
                 @endif
 
-                <!-- Admin Functions (if user is admin) -->
+                <!-- Admin Functions (if user is admin) 
                 @if (auth()->check() &&
                         (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
                     <li class="@if (Request::is('generator')) active @endif">
@@ -121,7 +122,7 @@
                             <span class="nav-text">Generator</span>
                         </a>
                     </li>
-                @endif
+                @endif-->
             </ul>
         </div>
 
@@ -158,7 +159,7 @@
 
             <div class="navbar-right ">
 
-                <p style="color: #0e84cc"><b>Balance: </b></p>
+                <!-- <p style="color: #0e84cc"><b>Balance: </b></p>-->
 
                 <!-- notificacoes -->
                 <li class="custom-dropdown">
@@ -197,7 +198,7 @@
                         <button class="dropdown-toggle nav-link" data-toggle="dropdown">
                             @if (Auth::user()->profile_image)
                                 <img class="user-image rounded-circle"
-                                    src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}"
+                                    src="{{ asset('profile_images/' . Auth::user()->profile_image) }}"
                                     width="150px" alt="User Image">
                             @else
                                 <img class="user-image rounded-circle" src="{{ asset('/images/user/user.png') }}"

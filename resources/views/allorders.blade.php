@@ -78,7 +78,7 @@
                             @elseif ($order->status == 'Waiting payment') #99d18f; @endif
                             color:
                             @if ($order->status == 'Suspense') white;
-                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) white;
+                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) black;
                             @else black; @endif">
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>

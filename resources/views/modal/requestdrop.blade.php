@@ -13,6 +13,8 @@
                     @csrf
                     <p>If your drop has <b>problems</b>, you can <b>request a new one</b>, but you have to <b>wait 24
                             hours</b> for it to be <b>approved</b>.
+                            <br>
+                            Just a reminder that drop can return to normal. This function is only recommended when there is just 1 drop added to your account and you need more!
                         <br><b>Write your reason to be approved!</b>
                     </p>
                     <div class="form-group">

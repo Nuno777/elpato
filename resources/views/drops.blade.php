@@ -28,6 +28,7 @@
                                 <th></th>
                                 <th></th>
                                 <th></th>
+                                <th></th>
                             </tr>
                         </thead>
                         <tbody>
@@ -47,21 +48,8 @@
                                     <td><b>{{ $drop->status }}</b></td>
                                     <td>{{ $drop->notes }}</td>
                                     <td>{{ $drop->type }}</td>
-                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('d-m-Y') }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
-
-                                    <td>
-                                        @if (auth()->user()->type == 'worker')
-                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
-                                                <button type="button" class="btn btn-danger" data-toggle="modal"
-                                                    data-target="#requestDropModal{{ $drop->id }}">
-                                                    <i class="mdi mdi-autorenew"></i>
-                                                </button>
-                                            @endif
-                                        @endif
-                                    </td>
-
-
                                     <td>
                                         @if ($drop->status == 'Ready')
                                             <button type="button" class="btn btn-primary" data-toggle="modal"
@@ -70,7 +58,6 @@
                                             </button>
                                         @endif
                                     </td>
-
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
                                             <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
@@ -93,7 +80,25 @@
                                             </form>
                                         @endif
                                     </td>
+                                    <td>
+                                        @if (auth()->user()->type == 'worker')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                                <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                    data-target="#requestDropModal{{ $drop->id }}">
+                                                    <i class="mdi mdi-autorenew"></i>
+                                                </button>
+                                            @endif
+                                        @endif
+                                    </td>
 
+                                    <td>
+                                        @if (auth()->user()->type == 'worker')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                            <a tabindex="0" class="btn btn-info" role="button" data-toggle="popover" data-trigger="focus"
+                                            title="Problems with the Drop?" data-content="You have a package on the way, and the drop is having issues? Send a message on Telegram to @ElPato_drops , and they'll help you recover the package to the fullest."><i class="mdi mdi-comment-question-outline"></i></a>
+                                            @endif
+                                        @endif
+                                    </td>
                                 </tr>
                                 @include('modal.createorders', [
                                     'id_drop' => $drop->id_drop,
@@ -130,6 +135,5 @@
         </div>
     </div>
 </div>
-
 
 @endsection
