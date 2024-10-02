@@ -23,7 +23,7 @@
                                 <input type="text" name="name" class="form-control" placeholder="Name" required>
                             </div>
                         </div>
-                        
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">Email</label>
@@ -83,8 +83,7 @@
                         </div>
                     </div>
                     <!-- Google reCAPTCHA -->
-                    {!! NoCaptcha::renderJs() !!}
-                    {!! NoCaptcha::display() !!}
+    
                     <br>
                     <button type="submit" class="btn btn-primary">Create User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>

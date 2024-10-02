@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
 :root {
+    --colorprinc: #12871A;
+    --colorhover: #59ab5e;
+
     --blue: #007bff;
     --indigo: #6610f2;
     --purple: #6f42c1;
@@ -45,7 +48,7 @@
 }
 
 .toggle-password i.mdi-eye-off {
-    color: #3E9CD6;
+    color: #59ab5e;
     /* Default color when password is visible */
 }
 
@@ -56,19 +59,19 @@
 }
 
 .toggle-password i.password-visible {
-    color: #3E9CD6;
+    color: #59ab5e;
     /* Color when password is visible */
 }
 
 
 /*eye create user*/
 #togglePassword i.mdi-eye {
-    color: #3E9CD6;
+    color: #59ab5e;
     /* Default color when password is hidden */
 }
 
 #togglePassword i.mdi-eye-off {
-    color: #3E9CD6;
+    color: #59ab5e;
     /* Default color when password is visible */
 }
 
@@ -79,7 +82,7 @@
 }
 
 #togglePassword i.password-visible {
-    color: #3E9CD6;
+    color: #59ab5e;
     /* Color when password is visible */
 }
 
@@ -2398,7 +2401,7 @@ pre code {
 .form-control:focus {
     color: #495057;
     background-color: #ffffff;
-    border-color: #9ecdea;
+    border-color: #59ab5e;
     outline: 0;
     box-shadow: 0 0 0 0.2rem transparent;
 }
@@ -3284,8 +3287,8 @@ fieldset:disabled a.btn {
 
 .btn-outline-secondary:hover {
     color: #ffffff;
-    background-color: #3e9cd6;
-    border-color: #3e9cd6;
+    background-color: #59ab5e;
+    border-color: #59ab5e;
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
@@ -3554,7 +3557,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-    color: #3e9cd6;
+    color: #59ab5e;
     text-decoration: underline;
 }
 
@@ -5681,17 +5684,20 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
     color: #ffffff;
-    background-color: #0e84cc;
+    background-color: #12871A;
+    border-color: #000 ;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
     color: #ffffff;
-    background-color: #3e9cd6;
+    background-color: #59ab5e;
+    border-color: #000 ;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(158, 109, 224, 0.5);
+    border-color: #000 ;
 }
 
 .badge-secondary {
@@ -15503,11 +15509,11 @@ label {
 }
 
 .nav-settings .nav-link.active {
-    color: #3e9cd6;
+    color: #12871A;
 }
 
 .nav-settings .nav-link:hover {
-    color: #3e9cd6;
+    color: #12871A;
 }
 
 /*===== SIDEBAR NAVIGATION =====*/
@@ -15587,7 +15593,7 @@ label {
     position: relative;
     z-index: 10;
     color: #ffffff;
-    background-color: #0e84cc;
+    background-color: #12871A;
 }
 
 .sidebar .sidebar-inner .section-title {
@@ -15711,7 +15717,7 @@ label {
 }
 
 .sidebar .sub-menu>.active .sidenav-item-link {
-    color: #5fc2ff;
+    color: #59ab5e;
 }
 
 .sidebar .sub-menu .has-sub.active .sidenav-item-link {
@@ -16382,7 +16388,7 @@ label {
 /* Sidebar Footer Content*/
 .sidebar-footer-content {
     width: 250px;
-    background-color: #0e84cc;
+    background-color: #12871A;
 }
 
 .sidebar-footer-content ul li {
