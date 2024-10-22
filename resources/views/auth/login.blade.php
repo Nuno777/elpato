@@ -288,7 +288,7 @@
 </html>
  --}}
 
-@extends('layouts.masterlogin')
+@extends('layouts.master-login')
 
 @section('title', 'Login 💸 ELPato Painel')
 
@@ -334,16 +334,6 @@
                                 <span class="error-message">{{ $message }}</span>
                             @enderror
                         </div>
-
-                        <!-- Google reCAPTCHA -->
-                        {!! NoCaptcha::renderJs() !!}
-                        {!! NoCaptcha::display() !!}
-
-                        <!-- Mensagem de erro para o reCAPTCHA -->
-                        @error('g-recaptcha-response')
-                            <span class="error-message">{{ $message }}</span>
-                        @enderror
-                        <br>
 
                         <!-- Remember Me -->
                         <div class="form-group d-md-flex">

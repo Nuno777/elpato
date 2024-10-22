@@ -113,7 +113,7 @@
                     </li>
                 @endif
 
-                <!-- Admin Functions (if user is admin) 
+                <!-- Admin Functions (if user is admin)
                 @if (auth()->check() &&
                         (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
                     <li class="@if (Request::is('generator')) active @endif">
@@ -198,8 +198,8 @@
                         <button class="dropdown-toggle nav-link" data-toggle="dropdown">
                             @if (Auth::user()->profile_image)
                                 <img class="user-image rounded-circle"
-                                    src="{{ asset('profile_images/' . Auth::user()->profile_image) }}"
-                                    width="150px" alt="User Image">
+                                    src="{{ asset('profile_images/' . Auth::user()->profile_image) }}" width="150px"
+                                    alt="User Image">
                             @else
                                 <img class="user-image rounded-circle" src="{{ asset('/images/user/user.png') }}"
                                     width="150px" alt="Default User Image">
@@ -210,13 +210,13 @@
                             <li>
                                 <a class="dropdown-link-item" href="{{ route('profile') }}">
                                     <i class="mdi mdi-account-outline"></i>
-                                    <span class="nav-text">My Profile</span>
+                                    <span class="nav-text navtext-hover">My Profile</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="dropdown-link-item" href="{{ route('profile.settings') }}">
                                     <i class="mdi mdi-settings"></i>
-                                    <span class="nav-text">Account Setting</span>
+                                    <span class="nav-text navtext-hover">Account Setting</span>
                                 </a>
                             </li>
 
@@ -228,7 +228,7 @@
                                             onclick="event.preventDefault(); this.closest('form').submit();">
                                             <i class="mdi mdi-logout"></i>
 
-                                            <span class="nav-text">Log out</span>
+                                            <span class="nav-text navtext-hover">Log out</span>
                                         </a>
                                     </form>
                                 @endauth

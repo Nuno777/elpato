@@ -20,17 +20,33 @@ class PageController extends Controller
     public function dashboard(Drop $drops)
     {
         $user = Auth::user();
-        $drop = Drop::orderBy('id', 'DESC')->paginate(5);
         $messages = $user->messages;
 
         $messagesCount = $messages->count();
         $messagesCountAll = Message::count();
         $orderCount = $user->orders->count();
         $ftidCount = $user->ftid->count();
-        $dropCount = $drops->count();
 
-        return view('dashboard', ['messages' => $messages, 'user' => $user, 'drop' => $drop, 'dropCount' => $dropCount, 'orderCount' => $orderCount, 'ftidCount' => $ftidCount, 'messagesCount' => $messagesCount, 'messagesCountAll' => $messagesCountAll]);
+        if ($user->type == 'admin' || $user->type == 'general') {
+            $drop = Drop::orderBy('id', 'DESC')->paginate(5); // Todas as drops
+            $dropCount = Drop::count(); // Conta todas as drops
+        } else {
+            $drop = $user->drops()->orderBy('id', 'DESC')->paginate(5); // Apenas as drops do usuário
+            $dropCount = $user->drops()->count(); // Conta apenas as drops associadas ao usuário
+        }
+
+        return view('dashboard', [
+            'messages' => $messages,
+            'user' => $user,
+            'drop' => $drop,
+            'dropCount' => $dropCount,
+            'orderCount' => $orderCount,
+            'ftidCount' => $ftidCount,
+            'messagesCount' => $messagesCount,
+            'messagesCountAll' => $messagesCountAll
+        ]);
     }
+
 
     public function adminpainel(User $users, Order $orders, Ftid $ftid)
     {

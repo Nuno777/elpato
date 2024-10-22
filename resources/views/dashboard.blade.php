@@ -15,18 +15,25 @@
                         <h2>Drops</h2>
                         <div class="sub-title">
                             <a href="{{ route('drops') }}" class="badge badge-pill badge-primary">
-                                <span class="mr-1">Go to the Drops</span></a>
+                                <span class="mr-1">Go to the Drops</span>
+                            </a>
                         </div>
                     </div>
 
                     <div class="card-body">
                         @if ((auth()->check() && auth()->user()->type == 'admin') || auth()->user()->type == 'general')
-                            <p>All Drops: {{ $dropCount }}</p>
+                            <div class="text-left">
+                                <span class="h1 d-block">{{ $dropCount }}</span>
+                            </div>
+                        @else
+                            <div class="text-left">
+                                <span class="h1 d-block">{{ $dropCount }}</span>
+                            </div>
                         @endif
                     </div>
-
                 </div>
             </div>
+
 
             <div class="col-xl-3 col-sm-6">
                 <div class="card card-default card-mini">
@@ -59,24 +66,24 @@
                         </div>
                     </div>
                 </div>
+            @endif
 
-
-                <div class="col-xl-3 col-sm-6">
-                    <div class="card card-default card-mini">
-                        <div class="card-header">
-                            <h2>Analytics</h2>
-                            <div class="sub-title">
-                                <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
-                                        Analytics</span></a>
-                            </div>
-                        </div>
-
-                        <div class="card-body">
-                            <p>Your Analytics:</p>
+            <div class="col-xl-3 col-sm-6">
+                <div class="card card-default card-mini">
+                    <div class="card-header">
+                        <h2>Analytics</h2>
+                        <div class="sub-title">
+                            <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
+                                    Analytics</span></a>
                         </div>
                     </div>
+
+                    <div class="card-body">
+                        <p>Your Analytics:</p>
+                    </div>
                 </div>
-            @endif
+            </div>
+
         </div>
 
         @if (auth()->user()->type == 'general' || auth()->user()->type == 'admin')
@@ -130,7 +137,10 @@
                                         <td>{{ $drop->notes }}</td>
 
                                         <td>{{ $drop->created_at->format('j/F/Y') }}</td>
-                                        <td><div class="badge badge-danger">{{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</div></td>
+                                        <td>
+                                            <div class="badge badge-danger">
+                                                {{ \Carbon\Carbon::parse($drop->expired)->format('j/F/Y') }}</div>
+                                        </td>
                                     </tr>
                                 @endforeach
                             </tbody>

@@ -5,7 +5,8 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\User;
-use App\Models\UserDrop;
+use Telegram\Bot\Laravel\Facades\Telegram;
+use Illuminate\Support\Facades\DB;
 
 class DropController extends Controller
 {
@@ -25,8 +26,6 @@ class DropController extends Controller
         $users = User::all();
         return view('drops', ['drops' => $drops, 'users' => $users]);
     }
-
-
 
     /**
      * Show the form for creating a new resource.
@@ -68,10 +67,7 @@ class DropController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show()
-    {
-
-    }
+    public function show() {}
 
 
     public function showUserDrops($userId)
@@ -125,13 +121,32 @@ class DropController extends Controller
             $drop->fill($fields);
             $drop->save();
 
-            return redirect()->route('drops')->with('success', 'Drop was edited successfully!');
+            // Enviar notificações apenas para quem está a seguir a drop alterada
+            $this->notifyUsersFollowingDrop($drop->id_drop, $drop);
+
+            return redirect()->route('drops')->with('success', 'Drop foi editada com sucesso!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while editing the Drop. Please try again.');
+            return redirect()->back()->with('error', 'Ocorreu um erro ao editar a drop. Tente novamente.');
         }
     }
 
+    private function notifyUsersFollowingDrop($dropId, $drop)
+    {
+        // Obtém os utilizadores que seguem esta drop
+        $users = DB::table('user_drop_preferences')
+            ->where('drop_ids', 'like', "%{$dropId}%")
+            ->get();
 
+        foreach ($users as $user) {
+            $message = "A drop com ID: {$drop->id_drop} foi alterada.\n";
+            $message .= "Nome: {$drop->name}\nEndereço: {$drop->address}\nStatus: {$drop->status}";
+
+            Telegram::sendMessage([
+                'chat_id' => $user->chat_id,
+                'text' => $message,
+            ]);
+        }
+    }
 
     public function assignDropToWorker(Request $request)
     {
@@ -226,4 +241,6 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');
         }
     }
+
+   
 }

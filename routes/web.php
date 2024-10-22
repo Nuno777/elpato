@@ -12,6 +12,12 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\MessageController;
 
+
+use App\Http\Controllers\TelegramBotController;
+
+Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
+
+
 Route::get('/', [PageController::class, 'index'])->name('auth.login');
 
 //route auth
@@ -79,6 +85,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
     //perms admin or general or worker
     Route::middleware(['access.drop.order', AccessDropsOrOrders::class])->group(function () {
+
         Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
         Route::get('/profile', [UserController::class, 'profile'])->name('profile');
         Route::post('/profile/update', [UserController::class, 'updateProfile'])->name('profile.update');
