@@ -93,7 +93,7 @@ class UserController extends Controller
     public function index()
     {
         $users = User::all();
-        return view('createuser', compact('users'));
+        return view('panel.users.createuser', compact('users'));
     }
 
 
@@ -102,7 +102,7 @@ class UserController extends Controller
      */
     public function create()
     {
-        return view('createuser');
+        return view('panel.users.createuser');
     }
 
     /**
@@ -180,7 +180,7 @@ class UserController extends Controller
         $messages = Message::All();
         $messagesCount = Message::count();
 
-        return view('allusers', ['users' => $users, 'drops' => $drops, 'messagesCount' => $messagesCount, 'messages' => $messages]);
+        return view('panel.users.allusers', ['users' => $users, 'drops' => $drops, 'messagesCount' => $messagesCount, 'messages' => $messages]);
     }
 
 
@@ -198,7 +198,7 @@ class UserController extends Controller
             $users = User::all();
         }
 
-        return view('allusers', compact('users'));
+        return view('panel.users.allusers', compact('users'));
     }
 
 
@@ -208,66 +208,66 @@ class UserController extends Controller
     public function edit($id)
     {
         $user = User::findOrFail($id);
-        return view('edituser', compact('user'));
+        return view('panel.users.edituser', compact('user'));
     }
 
     /**
      * Update the specified resource in storage.
      */
     public function update(Request $request, $id)
-{
-    // Validação dos campos
-    $fields = $request->validate([
-        'name' => 'required',
-        'email' => 'required|email|ends_with:@elpato.xyz',
-        'email_verified_at' => 'required|date',
-        'type' => 'required',
-        'telegram' => 'required',
-        'blocked' => 'required|boolean',
-    ], [
-        'email.ends_with' => 'The email must be a valid @elpato.xyz email address.',
-    ]);
+    {
+        // Validação dos campos
+        $fields = $request->validate([
+            'name' => 'required',
+            'email' => 'required|email|ends_with:@elpato.xyz',
+            'email_verified_at' => 'required|date',
+            'type' => 'required',
+            'telegram' => 'required',
+            'blocked' => 'required|boolean',
+        ], [
+            'email.ends_with' => 'The email must be a valid @elpato.xyz email address.',
+        ]);
 
-    try {
-        $user = User::findOrFail($id);
+        try {
+            $user = User::findOrFail($id);
 
-        // Impede o usuário de alterar seu próprio estado de 'blocked'
-        if (auth()->user()->id == $id) {
-            return redirect()->back()->with('error', 'You cannot change your own blocked status.');
-        }
-
-        // Impede um admin de mudar a role e o estado de bloqueio de outro admin
-        if (auth()->user()->type === 'admin' && $user->type === 'admin') {
-            if ($fields['type'] !== $user->type) {
-                return redirect()->back()->with('error', 'You cannot change the role of another admin.');
+            // Impede o usuário de alterar seu próprio estado de 'blocked'
+            if (auth()->user()->id == $id) {
+                return redirect()->back()->with('error', 'You cannot change your own blocked status.');
             }
-            if ($fields['blocked'] != $user->blocked) {
-                return redirect()->back()->with('error', 'You cannot change the blocked status of another admin.');
+
+            // Impede um admin de mudar a role e o estado de bloqueio de outro admin
+            if (auth()->user()->type === 'admin' && $user->type === 'admin') {
+                if ($fields['type'] !== $user->type) {
+                    return redirect()->back()->with('error', 'You cannot change the role of another admin.');
+                }
+                if ($fields['blocked'] != $user->blocked) {
+                    return redirect()->back()->with('error', 'You cannot change the blocked status of another admin.');
+                }
             }
+
+            $user->name = $fields['name'];
+            $user->email = $fields['email'];
+            $user->email_verified_at = $fields['email_verified_at'];
+            $user->type = $fields['type']; // Isso só será permitido se não for um admin alterando outro admin
+            $user->telegram = $fields['telegram'];
+            $user->blocked = $fields['blocked'] === '1' ? true : false;
+
+            $user->save();
+
+            return redirect()->route('user.all')->with('success', 'User updated successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
         }
-
-        $user->name = $fields['name'];
-        $user->email = $fields['email'];
-        $user->email_verified_at = $fields['email_verified_at'];
-        $user->type = $fields['type']; // Isso só será permitido se não for um admin alterando outro admin
-        $user->telegram = $fields['telegram'];
-        $user->blocked = $fields['blocked'] === '1' ? true : false;
-
-        $user->save();
-
-        return redirect()->route('user.all')->with('success', 'User updated successfully!');
-    } catch (\Exception $e) {
-        return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
     }
-}
 
 
     /**
      * Remove the specified resource from storage.
      */
     /**
- * Remove the specified resource from storage.
- */
+     * Remove the specified resource from storage.
+     */
     public function destroy(User $user)
     {
         try {
@@ -294,5 +294,4 @@ class UserController extends Controller
             return redirect()->back()->with('error', 'An error occurred while deleting the user. Please try again.');
         }
     }
-
 }

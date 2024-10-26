@@ -241,6 +241,4 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');
         }
     }
-
-   
 }

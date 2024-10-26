@@ -57,6 +57,6 @@ class PageController extends Controller
         $orders = Order::orderBy('id', 'DESC')->paginate(10);
         $ftid = Ftid::orderBy('id', 'DESC')->paginate(10);
 
-        return view('adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages, 'orders' => $orders, 'ftid' => $ftid]);
+        return view('panel.adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages, 'orders' => $orders, 'ftid' => $ftid]);
     }
 }
