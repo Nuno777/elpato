@@ -32,5 +32,5 @@ class LoginController extends Controller
         return back()->withErrors([
             'name' => 'As credenciais fornecidas não correspondem aos nossos registros.',
         ]);
-    } 
+    }
 }
