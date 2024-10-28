@@ -14,8 +14,9 @@
                 <div class="profile-avata">
                     @if (Auth::user()->profile_image)
                         <img class="rounded-circle"
-                            src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}" width="120px"
-                            alt="Profile Image">
+                         src="{{ asset('profile_images/' . Auth::user()->profile_image) }}" 
+                         width="120px" 
+                         alt="Profile Image">
                     @else
                         <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
                             alt="Default Profile Image">

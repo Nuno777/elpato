@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'All FTID Painel')
+@section('title', 'All FTID')
 
 @section('content')
-@section('page-title', 'All FTID Painel')
+@section('page-title', 'All FTID')
 
 <div class="content-wrapper">
     <div class="content">

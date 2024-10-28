@@ -1,13 +1,22 @@
 @extends('layouts.master')
 
-@section('title', 'Dashboard')
+@section('title', 'Main Panel')
 
 @section('content')
-@section('page-title', 'Dashboard')
+@section('page-title', 'Main Panel')
 
 <div class="content-wrapper">
     <div class="content">
+        <div class="alert alert-warning alert-icon" role="alert">
+            <i class="mdi mdi-bell-outline"></i> <b style="color:#000;">Our latest update, Telegram bot for receiving
+                updates on drops, click <a href="https://t.me/elpatomessagebot" target="_blank">here</a> to go directly to
+                the bot!</b>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
         <div class="row">
+
 
             <div class="col-xl-3 col-sm-6">
                 <div class="card card-default card-mini">
@@ -34,7 +43,6 @@
                 </div>
             </div>
 
-
             <div class="col-xl-3 col-sm-6">
                 <div class="card card-default card-mini">
                     <div class="card-header">
@@ -45,7 +53,9 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>Your Orders: {{ $orderCount }}</p>
+                        <div class="text-left">
+                            <span class="h1 d-block">{{ $orderCount }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -62,7 +72,9 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <p>Your FTIDs: {{ $ftidCount }}</p>
+                            <div class="text-left">
+                                <span class="h1 d-block">{{ $ftidCount }}</span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -73,17 +85,18 @@
                     <div class="card-header">
                         <h2>Analytics</h2>
                         <div class="sub-title">
-                            <a href="" class="badge badge-pill badge-success"><span class="mr-1">Go to the
+                            <a href="" class="badge badge-pill badge-primary"><span class="mr-1">Go to the
                                     Analytics</span></a>
                         </div>
                     </div>
 
                     <div class="card-body">
-                        <p>Your Analytics:</p>
+                        <div class="text-left">
+                            <span class="h1 d-block"></span>
+                        </div>
                     </div>
                 </div>
             </div>
-
         </div>
 
         @if (auth()->user()->type == 'general' || auth()->user()->type == 'admin')
@@ -105,6 +118,8 @@
                                     </th>
                                     <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
                                         Status</th>
+                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                        Type</th>
                                     <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
                                         Notes</th>
                                     <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
@@ -134,6 +149,7 @@
                                                 </div>
                                             @endif
                                         </td>
+                                        <td>{{ $drop->type }}</td>
                                         <td>{{ $drop->notes }}</td>
 
                                         <td>{{ $drop->created_at->format('j/F/Y') }}</td>
@@ -267,6 +283,7 @@
             @endforeach
 
         @endif
+
     </div>
 </div>
 @endsection

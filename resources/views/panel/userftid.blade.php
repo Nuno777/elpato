@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'User FTIDs for')
+@section('title', 'User FTIDs')
 
 @section('content')
 @section('page-title', 'User FTIDs')

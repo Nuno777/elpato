@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'Admin Painel')
+@section('title', 'Dashboard')
 
 @section('content')
-@section('page-title', 'Admin Painel')
+@section('page-title', 'Dashboard')
 
 <div class="content-wrapper">
     <div class="content">
@@ -14,7 +14,7 @@
                     <div class="card-header">
                         <h2>Create User</h2>
                         <div class="sub-title">
-                            <a href="{{ route('createuser') }}" class="badge badge-pill badge-success"><span
+                            <a href="{{ route('createuser') }}" class="badge badge-pill badge-primary"><span
                                     class="mr-1">Go
                                     to the Create User</span></a>
                         </div>
@@ -34,7 +34,9 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All Users: {{ $userCount }}</p>
+                        <div class="text-left">
+                            <span class="h1 d-block">{{ $userCount }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -50,7 +52,9 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All Orders: {{ $ordersCount }}</p>
+                        <div class="text-left">
+                            <span class="h1 d-block">{{ $ordersCount }}</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -66,7 +70,9 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>All FTIDs: {{ $ftidCount }}</p>
+                        <div class="text-left">
+                            <span class="h1 d-block">{{ $ftidCount }}</span>
+                        </div>
                     </div>
                 </div>
             </div>

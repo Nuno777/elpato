@@ -11,7 +11,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <p>{{ implode(', ', $drops->pluck('id_drop')->toArray()) }}</p>
+                <p>{{ implode(',', $drops->pluck('id_drop')->toArray()) }}</p>
             </div>
         </div>
     </div>

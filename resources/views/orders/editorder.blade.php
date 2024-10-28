@@ -184,7 +184,7 @@
                                         <div class="d-flex align-items-center">
                                             <span class="mr-2">Need Pickup</span>
                                             <label
-                                                class="switch switch-icon switch-info switch-pill form-control-label">
+                                                class="switch switch-icon switch-success switch-pill form-control-label">
                                                 <input type="checkbox" name="pickup"
                                                     class="switch-input form-check-input" value="1"
                                                     {{ $order->pickup ? 'checked' : '' }}>
@@ -200,7 +200,7 @@
                                         <div class="d-flex align-items-center">
                                             <span class="mr-2">Signature Required</span>
                                             <label
-                                                class="switch switch-icon switch-info switch-pill form-control-label">
+                                                class="switch switch-icon switch-success switch-pill form-control-label">
                                                 <input type="checkbox" name="signature"
                                                     class="switch-input form-check-input" value="1"
                                                     {{ $order->signature ? 'checked' : '' }}>

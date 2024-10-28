@@ -83,7 +83,7 @@
 
                         <div class="col-sm-6">
                             <div class="row">
-                                <div class="col-6">
+                                <div class="col-5">
                                     <div class="form-group">
                                         <label for="tracking">Tracking</label>
                                         <input type="text" name="tracking" id="tracking" class="form-control"
@@ -92,7 +92,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-6">
+                                <div class="col-7">
                                     <div class="form-group">
                                         <label for="code"> </label>
                                         <!-- Usando um link direto no campo de código -->
@@ -194,7 +194,7 @@
                             <div class="form-group">
                                 <div class="d-flex align-items-center">
                                     <span class="mr-2">Need Pickup</span>
-                                    <label class="switch switch-icon switch-info switch-pill form-control-label">
+                                    <label class="switch switch-icon switch-success switch-pill form-control-label">
                                         <input type="checkbox" name="pickup" class="switch-input form-check-input"
                                             value="1" {{ $order->pickup ? 'checked' : '' }} disabled required>
                                         <span class="switch-label"></span>
@@ -209,7 +209,7 @@
                             <div class="form-group">
                                 <div class="d-flex align-items-center">
                                     <span class="mr-2">Signature Required</span>
-                                    <label class="switch switch-icon switch-info switch-pill form-control-label">
+                                    <label class="switch switch-icon switch-success switch-pill form-control-label">
                                         <input type="checkbox" name="signature" class="switch-input form-check-input"
                                             value="1" {{ $order->signature ? 'checked' : '' }} disabled required>
                                         <span class="switch-label"></span>

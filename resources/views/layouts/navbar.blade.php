@@ -14,61 +14,61 @@
             <!-- Sidebar Menu -->
             <ul class="nav sidebar-inner" id="sidebar-menu">
                 <!-- Dashboard Link -->
-                <li class="@if (Request::is('dashboard')) active @endif">
+                <li class="@if (Request::is('main-panel')) active @endif">
                     <a class="sidenav-item-link" href="{{ route('dashboard') }}">
                         <i class="mdi mdi-monitor"></i>
-                        <span class="nav-text">Dashboard</span>
+                        <span class="nav-text">Main Panel</span>
                     </a>
                 </li>
 
-                <!-- Admin Functions (if user is admin) -->
+                <!-- Admin Functions (if user is admin) Admin Functions-->
                 @if (auth()->check() && auth()->user()->type == 'admin')
-                    <li class="has-sub @if (Request::is('adminpainel') ||
-                            Request::is('createuser') ||
-                            Request::is('allusers') ||
-                            Request::is('allorders') ||
-                            Request::is('allftid') ||
+                    <li class="has-sub @if (Request::is('panel-dashboard') ||
+                            Request::is('create-user') ||
+                            Request::is('all-users') ||
+                            Request::is('all-orders') ||
+                            Request::is('all-ftid') ||
                             Request::is('login-logs')) active show @endif">
                         <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpanel"
                             href="{{ route('adminpainel') }}" aria-expanded="false" aria-controls="adminpanel">
                             <i class="mdi mdi-monitor-dashboard"></i>
-                            <span class="nav-text">Admin Functions</span>
+                            <span class="nav-text">Dashboard </span>
                             <b class="caret"></b>
                         </a>
 
-                        <ul class="collapse @if (Request::is('adminpainel') ||
-                                Request::is('createuser') ||
-                                Request::is('allusers') ||
-                                Request::is('allorders') ||
-                                Request::is('allftid') ||
+                        <ul class="collapse @if (Request::is('panel-dashboard') ||
+                                Request::is('create-user') ||
+                                Request::is('all-users') ||
+                                Request::is('all-orders') ||
+                                Request::is('all-ftid') ||
                                 Request::is('login-logs')) show @endif" id="adminpanel"
                             data-parent="#sidebar-menu">
                             <div class="sub-menu">
-                                <li class="@if (Request::is('adminpainel')) active @endif">
+                                <li class="@if (Request::is('panel-dashboard')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('adminpainel') }}">
-                                        <span class="nav-text">Admin Panel</span>
+                                        <span class="nav-text">Dashboard</span>
                                     </a>
                                 </li>
 
-                                <li class="@if (Request::is('createuser')) active @endif">
+                                <!--<li class="@if (Request::is('create-user')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('createuser') }}">
                                         <span class="nav-text">Create User</span>
                                     </a>
-                                </li>
+                                </li>-->
 
-                                <li class="@if (Request::is('allusers')) active @endif">
+                                <li class="@if (Request::is('all-users')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('user.all') }}">
                                         <span class="nav-text">All Users</span>
                                     </a>
                                 </li>
 
-                                <li class="@if (Request::is('allorders')) active @endif">
+                                <li class="@if (Request::is('all-orders')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('orders.all') }}">
                                         <span class="nav-text">All Orders</span>
                                     </a>
                                 </li>
 
-                                <li class="@if (Request::is('allftid')) active @endif">
+                                <li class="@if (Request::is('all-ftid')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('ftid.all') }}">
                                         <span class="nav-text">All FTIDs</span>
                                     </a>

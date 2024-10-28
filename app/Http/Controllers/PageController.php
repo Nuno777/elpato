@@ -47,7 +47,6 @@ class PageController extends Controller
         ]);
     }
 
-
     public function adminpainel(User $users, Order $orders, Ftid $ftid)
     {
         $ordersCount = $orders->count();

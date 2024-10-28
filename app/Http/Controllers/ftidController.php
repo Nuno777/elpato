@@ -25,7 +25,7 @@ class ftidController extends Controller
      */
     public function create()
     {
-        return view('createftid');
+        return view('ftid.createftid');
     }
 
     /**
@@ -77,7 +77,7 @@ class ftidController extends Controller
     {
         $ftids = ftid::orderByDesc('id')->get();
         $users = User::all();
-        return view('allftid', compact('ftids', 'users'));
+        return view('panel.allftid', compact('ftids', 'users'));
     }
 
     public function showUserFtids($userId)
@@ -85,7 +85,7 @@ class ftidController extends Controller
         $user = User::findOrFail($userId);
         $ftids = FTID::where('user_id', $userId)->get();
 
-        return view('userftid', ['user' => $user, 'ftids' => $ftids]);
+        return view('panel.userftid', ['user' => $user, 'ftids' => $ftids]);
     }
 
     public function filterFTID(Request $request)
@@ -102,7 +102,7 @@ class ftidController extends Controller
             $ftids = ftid::all();
         }
 
-        return view('allftid', compact('ftids', 'users'));
+        return view('panel.allftid', compact('ftids', 'users'));
     }
 
     /**
@@ -111,7 +111,7 @@ class ftidController extends Controller
     public function edit($id)
     {
         $ftid = ftid::findOrFail($id);
-        return view('editftid', compact('ftid'));
+        return view('ftid.editftid', compact('ftid'));
     }
 
     /**
@@ -146,7 +146,7 @@ class ftidController extends Controller
     public function statusedit($id)
     {
         $ftid = ftid::findOrFail($id);
-        return view('editftidstatus', compact('ftid'));
+        return view('panel.editftidstatus', compact('ftid'));
     }
 
     public function statusupdate(Request $request, $id)

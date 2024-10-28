@@ -7,10 +7,19 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\Order;
 use App\Models\Drop;
 use App\Models\User;
+use Telegram\Bot\Api;
 
 
 class OrderController extends Controller
 {
+    protected $telegram;
+
+    public function __construct(Api $telegram)
+    {
+        $this->telegram = $telegram;
+        $this->middleware('auth');
+    }
+    
     /**
      * Display a listing of the resource.
      */
@@ -51,22 +60,51 @@ class OrderController extends Controller
             'shop' => 'required',
             'status' => 'required',
         ]);
-
-        //dd($request->all());
-
+    
         $fields['pickup'] = $request->has('pickup') ? 1 : 0;
         $fields['signature'] = $request->has('signature') ? 1 : 0;
-
+    
         try {
+            // Criar a nova ordem
             $order = new Order();
             $order->fill($request->all());
             $order->user_id = Auth::user()->id;
             $order->save();
+    
+            // Enviar notificação para um único usuário
+            $this->notifyTelegramUser($order);
+    
             return redirect()->route('orders')->with('success', 'The order was entered successfully!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while entering the Order. Please try again.');
         }
     }
+
+    private function notifyTelegramUser($order)
+    {
+        // Defina os chat_ids das pessoas para quem quer enviar a mensagem
+        $chatIds = ['6677909010', '6457999100']; // Corrigi o nome da variável para chatIds
+        
+        $message = "A new order has been created by " . Auth::user()->name . "\n"; 
+        $message .= "Product: {$order->product}\n";
+        $message .= "Shop: {$order->shop}\n";
+        $message .= "Price: {$order->price}\n";
+        $message .= "Status: {$order->status}\n";
+        $message .= "{$order->created_at}";
+        
+        try {
+            foreach ($chatIds as $chatId) { // Corrigido para usar $chatIds
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => $message,
+                ]);
+            }
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'Error sending notification to Telegram: ' . $e->getMessage());
+        }
+    }
+
+
 
     /**
      * Display the specified resource.
@@ -80,7 +118,7 @@ class OrderController extends Controller
     {
         $orders = Order::orderByDesc('id')->get();
         $users = User::all();
-        return view('allorders', compact('orders', 'users'));
+        return view('panel.orders.allorders', compact('orders', 'users'));
     }
 
 
@@ -99,7 +137,7 @@ class OrderController extends Controller
             $orders = Order::all();
         }
 
-        return view('allorders', compact('orders', 'users'));
+        return view('panel.orders.allorders', compact('orders', 'users'));
     }
 
     public function showUserOrders($userId)
@@ -107,7 +145,7 @@ class OrderController extends Controller
         $user = User::findOrFail($userId);
         $orders = Order::where('user_id', $userId)->get();
 
-        return view('userorders', ['user' => $user, 'orders' => $orders]);
+        return view('panel.orders.userorders', ['user' => $user, 'orders' => $orders]);
     }
 
     /**
@@ -116,7 +154,7 @@ class OrderController extends Controller
     public function edit($id)
     {
         $order = Order::findOrFail($id);
-        return view('editorder', compact('order'));
+        return view('orders.editorder', compact('order'));
     }
 
     /**
@@ -163,7 +201,7 @@ class OrderController extends Controller
     public function statusedit($id)
     {
         $order = Order::findOrFail($id);
-        return view('editorderstatus', compact('order'));
+        return view('panel.orders.editorderstatus', compact('order'));
     }
 
     public function statusupdate(Request $request, $id)
@@ -223,8 +261,4 @@ class OrderController extends Controller
         }
     }
 
-    public function __construct()
-    {
-        $this->middleware('auth');
-    }
 }

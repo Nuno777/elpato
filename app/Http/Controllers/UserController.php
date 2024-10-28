@@ -23,39 +23,41 @@ class UserController extends Controller
     public function updateProfile(Request $request)
     {
         $user = Auth::user();
-
+    
         $request->validate([
             'profile_image' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
             'telegram' => 'required|string|unique:users,telegram,' . $user->id,
         ]);
-
+    
         try {
             if ($request->hasFile('profile_image')) {
                 // Caminho para a pasta profile_images dentro de public_html
                 $profileImagesPath = base_path('../public_html/profile_images');
-
+    
                 // Delete old profile image if exists
                 if ($user->profile_image && file_exists($profileImagesPath . '/' . $user->profile_image)) {
                     unlink($profileImagesPath . '/' . $user->profile_image);
                 }
-
+    
                 // Armazenar nova imagem de perfil
                 $profileImageName = $user->id . '_' . time() . '.' . $request->profile_image->getClientOriginalExtension();
                 $request->profile_image->move($profileImagesPath, $profileImageName);
-
+    
                 // Atualizar imagem de perfil do usuário
                 $user->profile_image = $profileImageName;
             }
-
+    
             // Atualizar o nome de usuário do Telegram
             $user->telegram = $request->telegram;
             $user->save();
-
+    
             return redirect()->route('profile')->with('success', 'Profile updated successfully.');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred when updating the profile. Please try again.');
         }
     }
+
+
 
 
     public function accountSettings(User $user)
@@ -152,8 +154,6 @@ class UserController extends Controller
     }
 
 
-
-
     public function setDefaultPassword($id)
     {
         try {
@@ -175,12 +175,19 @@ class UserController extends Controller
 
     public function allshow(Message $messages)
     {
-        $users = User::all();
+        // Obter usuários ordenados por ID
+        $users = User::orderBy('id', 'asc')->get();
         $drops = Drop::all();
-        $messages = Message::All();
+        // Ordenar mensagens pelo ID em ordem ascendente
+        $messages = Message::orderBy('id', 'asc')->get();
         $messagesCount = Message::count();
-
-        return view('panel.users.allusers', ['users' => $users, 'drops' => $drops, 'messagesCount' => $messagesCount, 'messages' => $messages]);
+        
+        return view('panel.users.allusers', [
+            'users' => $users,
+            'drops' => $drops,
+            'messagesCount' => $messagesCount,
+            'messages' => $messages
+        ]);
     }
 
 
@@ -227,15 +234,15 @@ class UserController extends Controller
         ], [
             'email.ends_with' => 'The email must be a valid @elpato.xyz email address.',
         ]);
-
+    
         try {
             $user = User::findOrFail($id);
-
+    
             // Impede o usuário de alterar seu próprio estado de 'blocked'
             if (auth()->user()->id == $id) {
                 return redirect()->back()->with('error', 'You cannot change your own blocked status.');
             }
-
+    
             // Impede um admin de mudar a role e o estado de bloqueio de outro admin
             if (auth()->user()->type === 'admin' && $user->type === 'admin') {
                 if ($fields['type'] !== $user->type) {
@@ -245,16 +252,16 @@ class UserController extends Controller
                     return redirect()->back()->with('error', 'You cannot change the blocked status of another admin.');
                 }
             }
-
+    
             $user->name = $fields['name'];
             $user->email = $fields['email'];
             $user->email_verified_at = $fields['email_verified_at'];
             $user->type = $fields['type']; // Isso só será permitido se não for um admin alterando outro admin
             $user->telegram = $fields['telegram'];
             $user->blocked = $fields['blocked'] === '1' ? true : false;
-
+    
             $user->save();
-
+    
             return redirect()->route('user.all')->with('success', 'User updated successfully!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while updating the user. Please try again.');
@@ -266,8 +273,8 @@ class UserController extends Controller
      * Remove the specified resource from storage.
      */
     /**
-     * Remove the specified resource from storage.
-     */
+ * Remove the specified resource from storage.
+ */
     public function destroy(User $user)
     {
         try {
@@ -275,23 +282,27 @@ class UserController extends Controller
             if (auth()->user()->id === $user->id) {
                 return redirect()->route('user.all')->with('error', 'You cannot delete your own account.');
             }
-
+    
             // Prevent deletion of other administrators
             if ($user->type === 'admin') {
                 return redirect()->route('user.all')->with('error', 'You cannot delete other administrators.');
             }
-
+    
+            // Caminho para a pasta profile_images dentro de public_html
+            $profileImagesPath = base_path('../public_html/profile_images');
+    
             // Delete profile image if exists
-            if ($user->profile_image && Storage::exists('public/profile_img/' . $user->profile_image)) {
-                Storage::delete('public/profile_img/' . $user->profile_image);
+            if ($user->profile_image && file_exists($profileImagesPath . '/' . $user->profile_image)) {
+                unlink($profileImagesPath . '/' . $user->profile_image);
             }
-
+    
             // Delete the user
             $user->delete();
-
+    
             return redirect()->route('user.all')->with('success', 'User deleted successfully!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while deleting the user. Please try again.');
         }
     }
+
 }

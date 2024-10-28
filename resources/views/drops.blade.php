@@ -1,20 +1,16 @@
 @extends('layouts.master')
 
-@section('title', 'Drops Painel')
+@section('title', 'Drops')
 
 @section('content')
-@section('page-title', 'Drops Painel')
-
-
+@section('page-title', 'Drops')
 
 <div class="content-wrapper">
     <div class="content">
-
         <div class="card card-default">
             <div class="card-body">
                 <div class="collapse" id="collapse-data-tables">
                 </div>
-
                 <div class="table-responsive">
                     <table id="productsTable" class="table table-active table-product" style="width:100%">
                         <thead>
@@ -96,13 +92,10 @@
                                     </td>
 
                                     <td>
-                                        @if (auth()->user()->type == 'worker' )
+                                        @if (auth()->user()->type == 'worker')
                                             @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
-                                                <a tabindex="0" class="btn btn-info" role="button"
-                                                    data-toggle="popover" data-trigger="focus"
-                                                    title="Problems with the Drop?"
-                                                    data-content="You have a package on the way, and the drop is having issues? Send a message on Telegram to @ElPato_drops , and they'll help you recover the package to the fullest."><i
-                                                        class="mdi mdi-comment-question-outline"></i></a>
+                                            <a tabindex="0" class="btn btn-info" role="button" data-toggle="popover" data-trigger="focus"
+                                            title="Problems with the Drop?" data-content="You have a package on the way, and the drop is having issues? Send a message on Telegram to @ElPato_drops , and they'll help you recover the package to the fullest."><i class="mdi mdi-comment-question-outline"></i></a>
                                             @endif
                                         @endif
                                     </td>
@@ -122,16 +115,14 @@
                                 @include('modal.requestdrop', [
                                     'id_drop' => $drop->id_drop,
                                 ])
-
-                                @include('modal.showdrops', [
+                                
+                                  @include('modal.showdrops', [
                                     'id_drop' => $drop->id_drop,
                                 ])
                             @endforeach
-
                         </tbody>
                     </table>
-
-                    <div>
+                   <div>
                         @if (auth()->check() && auth()->user()->type == 'admin')
                             <a href="{{ route('createdrops') }}">
                                 <button class="btn btn-primary">Create Drop</button>
@@ -147,7 +138,6 @@
                             <i class="mdi mdi-telegram"></i>
                         </button>
                     </div>
-                    
                 </div>
             </div>
         </div>

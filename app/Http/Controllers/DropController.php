@@ -2,14 +2,24 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\User;
-use Telegram\Bot\Laravel\Facades\Telegram;
-use Illuminate\Support\Facades\DB;
+use Telegram\Bot\Api;
+
 
 class DropController extends Controller
 {
+    
+    protected $telegram;
+
+    public function __construct()
+    {
+        // Inicializa a classe Api com o seu token
+        $this->telegram = new Api(env('TELEGRAM_BOT_TOKEN')); // Altere para o seu token de bot real
+    }
+    
     /**
      * Display a listing of the resource.
      */
@@ -27,13 +37,15 @@ class DropController extends Controller
         return view('drops', ['drops' => $drops, 'users' => $users]);
     }
 
+
+
     /**
      * Show the form for creating a new resource.
      */
     public function create()
     {
         $drop = new Drop();
-        return view('createdrops', compact('drop'));
+        return view('drops.createdrops', compact('drop'));
     }
 
     /**
@@ -67,7 +79,10 @@ class DropController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show() {}
+    public function show()
+    {
+
+    }
 
 
     public function showUserDrops($userId)
@@ -85,7 +100,7 @@ class DropController extends Controller
         // Obtenha o drop atribuído ao usuário, se houver
         $drop = $user->drop;
 
-        return view('userdrops', compact('user', 'drop', 'messages'));
+        return view('panel.drops.userdrops', compact('user', 'drop', 'messages'));
     }
 
 
@@ -95,9 +110,10 @@ class DropController extends Controller
     public function edit($id)
     {
         $drop = Drop::findOrFail($id);
-        return view('editdrops', compact('drop'));
+        return view('drops.editdrops', compact('drop'));
     }
 
+    
     /**
      * Update the specified resource in storage.
      */
@@ -124,29 +140,36 @@ class DropController extends Controller
             // Enviar notificações apenas para quem está a seguir a drop alterada
             $this->notifyUsersFollowingDrop($drop->id_drop, $drop);
 
-            return redirect()->route('drops')->with('success', 'Drop foi editada com sucesso!');
+            return redirect()->route('drops')->with('success', 'Drop was edited successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'Ocorreu um erro ao editar a drop. Tente novamente.');
+            return redirect()->back()->with('error', 'An error occurred while editing the drop. Please try again.');
         }
     }
 
     private function notifyUsersFollowingDrop($dropId, $drop)
     {
-        // Obtém os utilizadores que seguem esta drop
+        // Get the users who follow this drop
         $users = DB::table('user_drop_preferences')
             ->where('drop_ids', 'like', "%{$dropId}%")
             ->get();
-
+    
         foreach ($users as $user) {
-            $message = "A drop com ID: {$drop->id_drop} foi alterada.\n";
-            $message .= "Nome: {$drop->name}\nEndereço: {$drop->address}\nStatus: {$drop->status}";
-
-            Telegram::sendMessage([
-                'chat_id' => $user->chat_id,
-                'text' => $message,
-            ]);
+            $message = "The drop with ID {$drop->id_drop} has been changed.\n";
+            $message .= "Name: {$drop->name}\nStatus: {$drop->status}\n{$drop->updated_at}";
+    
+            try {
+                // Send message to Telegram
+                $this->telegram->sendMessage([
+                    'chat_id' => $user->chat_id,
+                    'text' => $message,
+                ]);
+            } catch (\Exception $e) {
+                // Return an error message instead of failing silently
+                return redirect()->back()->with('error', 'Error sending notification to Telegram: ' . $e->getMessage());
+            }
         }
     }
+
 
     public function assignDropToWorker(Request $request)
     {

@@ -11,17 +11,19 @@
             <div class="card-header-bg" style="background-image"></div>
             <div class="card-body card-profile-body">
                 <div class="profile-avata">
-                    @if (Auth::user()->profile_image)
-                        <img class="rounded-circle"
-                            src="{{ asset('storage/profile_img/' . Auth::user()->profile_image) }}" width="120px"
-                            alt="Profile Image">
-                    @else
-                        <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
-                            alt="Default Profile Image">
-                    @endif
-                    <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
-                    <div class="d-block text-color">{{ Auth::user()->email }}</div>
-                </div>
+                @if (Auth::user()->profile_image)
+                    <img class="rounded-circle"
+                         src="{{ asset('profile_images/' . Auth::user()->profile_image) }}" 
+                         width="120px" 
+                         alt="Profile Image">
+                @else
+                    <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
+                         alt="Default Profile Image">
+                @endif
+                <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
+                <div class="d-block text-color">{{ Auth::user()->email }}</div>
+            </div>
+
                 <ul class="nav nav-profile-follow"></ul>
                 <div class="profile-button"></div>
             </div>
