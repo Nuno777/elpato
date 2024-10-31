@@ -11,18 +11,16 @@
             <div class="card-header-bg" style="background-image"></div>
             <div class="card-body card-profile-body">
                 <div class="profile-avata">
-                @if (Auth::user()->profile_image)
-                    <img class="rounded-circle"
-                         src="{{ asset('profile_images/' . Auth::user()->profile_image) }}" 
-                         width="120px" 
-                         alt="Profile Image">
-                @else
-                    <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
-                         alt="Default Profile Image">
-                @endif
-                <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
-                <div class="d-block text-color">{{ Auth::user()->email }}</div>
-            </div>
+                    @if (Auth::user()->profile_image)
+                        <img class="rounded-circle" src="{{ asset('profile_images/' . Auth::user()->profile_image) }}"
+                            width="120px" alt="Profile Image">
+                    @else
+                        <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="120px"
+                            alt="Default Profile Image">
+                    @endif
+                    <div class="h5 d-block mt-3 mb-2">{{ Auth::user()->name }}</div>
+                    <div class="d-block text-color">{{ Auth::user()->email }}</div>
+                </div>
 
                 <ul class="nav nav-profile-follow"></ul>
                 <div class="profile-button"></div>
@@ -38,12 +36,14 @@
                     <div class="card-body pt-0">
                         <ul class="nav nav-settings">
                             <li class="nav-item">
-                                <a class="nav-link @if (Request::is('profile')) active @endif" href="{{ route('profile') }}">
+                                <a class="nav-link @if (Request::is('profile')) active @endif"
+                                    href="{{ route('profile') }}">
                                     <i class="mdi mdi-account-outline mr-1"></i> Profile
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link @if (Request::is('profile-settings')) active @endif" href="{{ route('profile.settings') }}">
+                                <a class="nav-link @if (Request::is('profile-settings')) active @endif"
+                                    href="{{ route('profile.settings') }}">
                                     <i class="mdi mdi-settings-outline mr-1"></i> Account Settings
                                 </a>
                             </li>
@@ -86,6 +86,20 @@
                                     value="{{ old('telegram') ?? Auth::user()->telegram }}"
                                     placeholder="Telegram username" required>
                             </div>
+
+                            <div class="d-flex mb-5">
+                                <a href="https://t.me/elpatomessagebot" target="_blank">
+                                    <button type="button" class="btn btn-icon vimeo mr-2">
+                                        <i class="mdi mdi-telegram"></i>
+
+                                    </button>
+                                </a>
+                                <label>Telegram bot for receiving updates on drops, click <a
+                                        href="https://t.me/elpatomessagebot" target="_blank">here</a> to go directly to
+                                    the bot!
+                                </label>
+                            </div>
+
                             <div class="d-flex justify-content-end">
                                 <button type="submit" class="btn btn-primary mb-2 btn-pill">Update Profile</button>
                             </div>

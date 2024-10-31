@@ -134,10 +134,16 @@
                             <a href="{{ route('login.logs') }}" data-toggle="tooltip" title="Logs"><i
                                     class="mdi mdi-file-document-outline"></i></a>
                         </li>
+
+                    @else
+                    <li>
+                        <a href="" data-toggle="tooltip" title="Analytics"><i
+                                class="mdi mdi-chart-line"></i></a>
+                    </li>
                     @endif
                     <li>
                         <a href="{{ route('profile') }}" data-toggle="tooltip" title="Profile settings"><i
-                                class="mdi mdi-settings"></i></a>
+                                class="mdi mdi-account-outline"></i></a>
                     </li>
 
                 </ul>

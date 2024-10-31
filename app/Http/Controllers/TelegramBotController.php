@@ -5,9 +5,19 @@ namespace App\Http\Controllers;
 use Telegram\Bot\Laravel\Facades\Telegram;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Telegram\Bot\Api;
+use App\Models\UserDropPreference;
 
 class TelegramBotController extends Controller
 {
+    protected $telegram;
+
+    public function __construct()
+    {
+        // Inicializa a classe Api com o token do .env
+        $this->telegram = new Api(env('TELEGRAM_BOT_TOKEN'));
+    }
+
     public function handle(Request $request)
     {
         $update = Telegram::getWebhookUpdate();
@@ -156,6 +166,46 @@ class TelegramBotController extends Controller
                 'chat_id' => $chatId,
                 'text' => 'You do not have any drops associated to delete.',
             ]);
+        }
+    }
+
+    public function showSendMessageForm()
+    {
+        $chatIds = UserDropPreference::pluck('chat_id', 'id');
+        return view('panel.send-message', compact('chatIds'));
+    }
+
+    public function sendMessage(Request $request)
+    {
+        $request->validate([
+            'message' => 'required|string|max:4096',
+        ]);
+
+        $message = $request->message;
+        $chatId = $request->input('chat_id');
+
+        try {
+            if ($chatId === 'all') {
+                // Enviar mensagem para todos os chat_ids
+                $chatIds = DB::table('user_drop_preferences')->pluck('chat_id');
+
+                foreach ($chatIds as $id) {
+                    $this->telegram->sendMessage([
+                        'chat_id' => $id,
+                        'text' => $message,
+                    ]);
+                }
+            } else {
+                // Enviar mensagem para um chat_id específico
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => $message,
+                ]);
+            }
+
+            return redirect()->back()->with('success', 'Message sent successfully!');
+        } catch (\Exception $e) {
+            return redirect()->back()->with('error', 'Failed to send message: ' . $e->getMessage());
         }
     }
 }

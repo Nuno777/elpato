@@ -62,6 +62,7 @@
                             <th>Comments</th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -69,17 +70,17 @@
                             @if (auth()->user()->id == $order->user_id || auth()->user()->type == 'admin')
                                 <tr
                                     style="background-color:
-                            @if ($order->status == 'Ready') #85f36e;
-                            @elseif ($order->status == 'Suspense') #838383;
-                            @elseif ($order->status == 'Dont send') #fff085;
-                            @elseif ($order->status == 'Problem') #ff9e8e;
-                            @elseif ($order->status == 'Received') #b491c8;
-                            @elseif ($order->status == 'Sent to buyer') #ffb74d;
-                            @elseif ($order->status == 'Waiting payment') #99d18f; @endif
-                            color:
-                            @if ($order->status == 'Suspense') white;
-                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) black;
-                            @else black; @endif">
+                                    @if ($order->status == 'Ready') #85f36e;
+                                    @elseif ($order->status == 'Suspense') #838383;
+                                    @elseif ($order->status == 'Dont send') #fff085;
+                                    @elseif ($order->status == 'Problem') #ff9e8e;
+                                    @elseif ($order->status == 'Received') #b491c8;
+                                    @elseif ($order->status == 'Sent to buyer') #ffb74d;
+                                    @elseif ($order->status == 'Waiting payment') #99d18f; @endif
+                                    color:
+                                    @if ($order->status == 'Suspense') white;
+                                    @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) black;
+                                    @else black; @endif">
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                     <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
@@ -130,6 +131,14 @@
                                             </button>
 
                                         </td>
+                                        <td>
+                                            <a href="{{ route('editorderstatus.edit', $order->id) }}"
+                                                style="width: 100%">
+                                                <button type="submit" class="btn btn-warning">
+                                                    <i class="mdi mdi-square-edit-outline text-white"></i>
+                                                </button>
+                                            </a>
+                                        </td>
                                         <td style="width: 5%" class="sorting_disabled">
                                             <form role="form" action="{{ route('orders.destroy', $order->id) }}"
                                                 method="POST" onsubmit="return confirm('Delete order?');">
@@ -157,12 +166,12 @@
                     </tbody>
                 </table>
                 <br>
+                <a href="{{ route('orders.deleted') }}" class="btn btn-primary">Restore Orders</a>
                 <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
             </div>
+
         </div>
     </div>
-
 </div>
-
 
 @endsection

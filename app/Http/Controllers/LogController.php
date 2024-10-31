@@ -18,4 +18,18 @@ class LogController extends Controller
 
         return view('logs.loginlogs', compact('logs'));
     }
+
+    public function ordersLogs()
+    {
+        $logFile = storage_path('logs/order.log');
+        $logs = [];
+
+        if (File::exists($logFile)) {
+            $logs = File::lines($logFile)->toArray();
+        }
+
+        $logs = array_reverse($logs);
+
+        return view('logs.orderslogs', compact('logs'));
+    }
 }

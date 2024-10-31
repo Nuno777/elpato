@@ -25,6 +25,6 @@ class LogFailedLogin
         $credentials = $event->credentials;
         $ipAddress = request()->ip();
 
-        Log::channel('auth')->warning('Failed login attempt', ['email' => $credentials['email'], 'ip' => $ipAddress]);
+        Log::channel('auth')->warning('Failed login attempt', ['email' => $credentials['email']]);
     }
 }

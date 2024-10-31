@@ -78,7 +78,7 @@
                                     <td>{{ $ftid->store }}</td>
                                     <td><a href="{{ asset('/storage/labels/' . $ftid->label) }}" target="_blank">Open
                                             Label</a></td>
-                                            <td>{{ \Carbon\Carbon::parse($ftid->label_creation_date)->format('j/F/Y') }}</td>
+                                    <td>{{ \Carbon\Carbon::parse($ftid->label_creation_date)->format('j/F/Y') }}</td>
                                     <td><b>{{ $ftid->status }}</b></td>
                                     <td>{{ $ftid->method }}</td>
                                     <td>{{ $ftid->comments }}</td>

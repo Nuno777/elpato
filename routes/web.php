@@ -12,6 +12,7 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\MessageController;
 use App\Http\Controllers\TelegramBotController;
+use App\Http\Controllers\LogController;
 
 Route::get('/', [PageController::class, 'index'])->name('auth.login');
 Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
@@ -19,7 +20,6 @@ Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
 
 //route auth
 Route::middleware(['auth', 'verified'])->group(function () {
-
 
     //perms admin
     Route::middleware(['admin', Admin::class])->group(function () {
@@ -36,6 +36,11 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
         Route::get('/all-orders', [OrderController::class, 'allshow'])->name('orders.all');
         Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
+
+        //restore order
+        Route::put('/orders/{id}/restore', [OrderController::class, 'restore'])->name('orders.restore');
+        Route::get('/orders-softdeleted', [OrderController::class, 'allShowDeleted'])->name('orders.deleted');
+        Route::delete('/orders/{id}/force-delete', [OrderController::class, 'forceDelete'])->name('orders.forceDelete');
 
         Route::get('/all-ftid', [ftidController::class, 'allshow'])->name('ftid.all');
         Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
@@ -65,9 +70,12 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::put('messages/{message}', [MessageController::class, 'update'])->name('messages.update');
         Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
 
-        //logs
-        Route::get('/login-logs', [App\Http\Controllers\LogController::class, 'loginLogs'])->name('login.logs');
+        Route::post('/send-message', [TelegramBotController::class, 'sendMessage'])->name('sendMessage');
+        Route::get('/send-message-form', [TelegramBotController::class, 'showSendMessageForm']);
 
+        //logs
+        Route::get('/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
+        Route::get('/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
     });
 
     //perms admin or general

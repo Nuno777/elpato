@@ -61,7 +61,13 @@ return [
         'auth' => [
             'driver' => 'single',
             'path' => storage_path('logs/auth.log'),
-            'level' => env('debug'),
+            'level' => 'info',
+        ],
+
+        'order' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/order.log'),
+            'level' => 'info',
         ],
 
         'stack' => [

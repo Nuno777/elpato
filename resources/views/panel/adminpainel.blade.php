@@ -162,7 +162,8 @@
                                         Carrier</th>
                                     <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
                                         label</th>
-                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 5%"
+                                        class="sorting_disabled">
                                         Status</th>
                                     <th style="color: white" scope="col" style="width: 10%"
                                         class="sorting_disabled">

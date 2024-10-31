@@ -26,7 +26,7 @@ class LogSuccessfulLogin
 
         if ($user->type === 'general' || $user->type === 'worker') {
             $ipAddress = request()->ip();
-            Log::channel('auth')->info('User Logged In', ['user_id' => $user->id, 'user' => $user->name, 'email' => $user->email, 'ip' => $ipAddress]);
+            Log::channel('auth')->info('User Logged In', ['user_id' => $user->id, 'user' => $user->name, 'email' => $user->email]);
         }
     }
 }

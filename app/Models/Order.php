@@ -4,9 +4,13 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Order extends Model
 {
+
+    use HasFactory, SoftDeletes;
+
     protected $fillable = ['id_drop','user', 'product', 'name','address','quant', 'price', 'tracking', 'code', 'holder', 'comments','personalnotes', 'option', 'delivery', 'shop', 'pickup', 'signature', 'status'];
     protected $casts = [
         'pickup' => 'boolean',
