@@ -49,13 +49,32 @@ class PageController extends Controller
 
     public function adminpainel(User $users, Order $orders, Ftid $ftid)
     {
-        $ordersCount = $orders->count();
-        $ftidCount = $ftid->count();
-        $userCount = $users->count();
-        $messages = Message::all();
-        $orders = Order::orderBy('id', 'DESC')->paginate(10);
-        $ftid = Ftid::orderBy('id', 'DESC')->paginate(10);
+        $restoreOrdersCount = $orders->onlyTrashed()->count();
+        $activeOrdersCount = $orders->whereNull('deleted_at')->count();
 
-        return view('panel.adminpainel', ['userCount' => $userCount, 'ordersCount' => $ordersCount, 'ftidCount' => $ftidCount, 'messages' => $messages, 'orders' => $orders, 'ftid' => $ftid]);
+        $userCount = $users->count();
+        $activeUsersCount = $users->whereNull('deleted_at')->count();
+        $inactiveUsersCount = $users->onlyTrashed()->count();
+
+        // Contagens para os tipos e usuários bloqueados
+        $workerCount = $users->where('type', 'worker')->count();
+        $generalCount = $users->where('type', 'general')->count();
+        $blockedUsersCount = $users->where('blocked', 0)->count();
+
+        return view('panel.adminpainel', [
+            'userCount' => $userCount,
+            'ordersCount' => $activeOrdersCount + $restoreOrdersCount,
+            'ftidCount' => $ftid->count(),
+            'messages' => Message::all(),
+            'orders' => Order::orderBy('id', 'DESC')->paginate(10),
+            'ftid' => Ftid::orderBy('id', 'DESC')->paginate(10),
+            'activeOrdersCount' => $activeOrdersCount,
+            'restoreOrdersCount' => $restoreOrdersCount,
+            'activeUsersCount' => $activeUsersCount,
+            'inactiveUsersCount' => $inactiveUsersCount,
+            'workerCount' => $workerCount,
+            'generalCount' => $generalCount,
+            'blockedUsersCount' => $blockedUsersCount
+        ]);
     }
 }

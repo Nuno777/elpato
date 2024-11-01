@@ -78,6 +78,49 @@
             </div>
         </div>
 
+        <!-- Analytics -->
+        <div class="row">
+            <div class="col-xl-6">
+                <div class="card card-default">
+                    <div class="card-header border-bottom">
+                        <h2 class="mdi mdi-account">Users Analytics</h2>
+                    </div>
+                    <div class="container my-5">
+                        <div class="col-md-6 offset-md-3">
+                            <canvas id="usersChart" style="max-width: 100%;" data-active-users="{{ $activeUsersCount }}"
+                                data-inactive-users="{{ $inactiveUsersCount }}" data-worker-count="{{ $workerCount }}"
+                                data-general-count="{{ $generalCount }}"
+                                data-blocked-users="{{ $blockedUsersCount }}">
+                            </canvas>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-white py-4">
+                        <a href="{{ route('login.logs') }}" class="text-uppercase">See More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6">
+                <div class="card card-default">
+                    <div class="card-header border-bottom">
+                        <h2 class="mdi mdi-package-variant-closed">Orders Analytics</h2>
+                    </div>
+                    <div class="container my-5">
+                        <div class="col-md-6 offset-md-3">
+                            <canvas id="ordersChart" style="max-width: 100%;"
+                                data-active-orders="{{ $activeOrdersCount }}"
+                                data-restore-orders="{{ $restoreOrdersCount }}">
+                            </canvas>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-white py-4">
+                        <a href="{{ route('orders.logs') }}" class="text-uppercase">See More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
         @if (auth()->user()->type == 'admin')
             <!-- Order Notifications Settings -->
             <div class="card card-default">
@@ -153,14 +196,18 @@
                         <table class="table table-striped">
                             <thead class="table-dark">
                                 <tr>
-                                    <th style="color: white" scope="col" style="width: 5%" class="sorting_disabled">#
+                                    <th style="color: white" scope="col" style="width: 5%"
+                                        class="sorting_disabled">#
                                     </th>
-                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 10%"
+                                        class="sorting_disabled">
                                         User
                                     </th>
-                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 10%"
+                                        class="sorting_disabled">
                                         Carrier</th>
-                                    <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 10%"
+                                        class="sorting_disabled">
                                         label</th>
                                     <th style="color: white" scope="col" style="width: 5%"
                                         class="sorting_disabled">
@@ -354,3 +401,6 @@
     </div>
 </div>
 @endsection
+@push('scripts')
+<script src="{{ asset('js/analytics.js/analytic_panel_dashboard.js') }}"></script>
+@endpush

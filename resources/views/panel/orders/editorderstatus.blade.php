@@ -179,7 +179,8 @@
                                                 {{ $order->status == 'Waiting payment' ? 'selected' : '' }}>Waiting
                                                 payment
                                             </option>
-                                            <option value="Dont send" style="background-color: #fff;" disabled readonly></option>
+                                            <option value="Dont send" style="background-color: #fff;" disabled
+                                                readonly></option>
 
                                             <option value="Ready" style="background-color: #82FB6A; color: black;"
                                                 {{ $order->status == 'Ready' ? 'selected' : '' }}>Ready</option>

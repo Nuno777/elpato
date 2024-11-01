@@ -260,7 +260,7 @@ class OrderController extends Controller
         try {
             $order->delete(); // Isso fará um soft delete
             Log::channel('order')->warning("Order soft deleted by user " . Auth::user()->name . " - Order ID: " . $order->id_drop);
-            return redirect()->route('orders.all')->with('success', 'Order deleted successfully!'); // Mensagem de sucesso
+            return redirect()->route('orders')->with('success', 'Order deleted successfully!'); // Mensagem de sucesso
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while deleting the Order. Please try again.'); // Mensagem de erro
         }

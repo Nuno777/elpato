@@ -22,6 +22,7 @@
                     </ul>
                 </div>
             </div>
+            <a href="{{ route('adminpainel') }}" class="btn btn-secondary">Back</a>
         </div>
     </div>
 </div>
