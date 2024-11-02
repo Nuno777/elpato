@@ -14,9 +14,9 @@
             <div class="card-body">
                 <form id="tablecreatedrop" method="POST" action="{{ route('createuser.store') }}">
                     {{ csrf_field() }}
-                
+
                     <div class="row">
-                
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
@@ -26,7 +26,7 @@
                                 @endif
                             </div>
                         </div>
-                        
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">Email</label>
@@ -36,7 +36,7 @@
                                 @endif
                             </div>
                         </div>
-                
+
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="password">Password</label>
@@ -53,7 +53,7 @@
                                 @endif
                             </div>
                         </div>
-                
+
                         <div class="col-sm-6">
                             <div class="row">
                                 <div class="col-5">
@@ -89,13 +89,7 @@
                             </div>
                         </div>
                     </div>
-                    
-                    <!-- Google reCAPTCHA -->
-                    {!! NoCaptcha::renderJs() !!}
-                    {!! NoCaptcha::display() !!}
-                    
-                    <br>
-                    
+    
                     <button type="submit" class="btn btn-primary">Create User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>

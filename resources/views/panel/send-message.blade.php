@@ -21,9 +21,10 @@
                                         <label for="exampleFormControlSelect12">User</label>
                                         <select class="form-control" id="exampleFormControlSelect12" name="chat_id">
                                             <option value="all">For All Users</option>
-                                            @if(count($chatIds) > 0)
+                                            @if (count($chatIds) > 0)
                                                 @foreach ($chatIds as $id => $chatId)
-                                                    <option value="{{ $chatId }}">Chat ID: {{ $chatId }}</option>
+                                                    <option value="{{ $chatId }}">Chat ID: {{ $chatId }}
+                                                    </option>
                                                 @endforeach
                                             @else
                                                 <option value="" disabled>No users available</option>
@@ -47,6 +48,8 @@
             <div class="col-xl-6">
                 <div class="card card-default">
                     <div class="card-body">
+                        <h3>Total Users Connected: <span id="userCount">{{ $connectedCount }}</span></h3>
+                        <canvas id="connectedUsersChart" style="max-height: 300px;"></canvas>
                     </div>
                 </div>
             </div>
@@ -54,3 +57,10 @@
     </div>
 </div>
 @endsection
+
+@push('scripts')
+<script>
+    window.connectedCount = {!! json_encode($connectedCount) !!};
+</script>
+<script src="{{ asset('js/analytics.js/analytic_panel_dashboard.js') }}"></script>
+@endpush

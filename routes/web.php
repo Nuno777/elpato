@@ -57,6 +57,11 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
         Route::post('/user-{id}-set-default-password', [UserController::class, 'setDefaultPassword'])->name('user.setDefaultPassword');
 
+        //restore users
+        Route::put('/user/{id}/restore', [UserController::class, 'restore'])->name('user.restore');
+        Route::get('/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
+        Route::delete('/user/{id}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
+
         Route::get('/users-orders-{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
         Route::get('/users-ftids-{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
         Route::get('/users-drops-{id}', [DropController::class, 'showUserDrops'])->name('user.drops');
@@ -71,10 +76,11 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
 
         Route::post('/send-message', [TelegramBotController::class, 'sendMessage'])->name('sendMessage');
-        Route::get('/send-message-form', [TelegramBotController::class, 'showSendMessageForm']);
+        Route::get('/send-message-form', [TelegramBotController::class, 'showSendMessageForm'])->name('sendMessage.telegram');
 
         //logs
         Route::get('/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
+        Route::get('/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
         Route::get('/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
     });
 

@@ -148,6 +148,8 @@
                     <div>
                         <a href="{{ route('createuser') }}"><button class="btn btn-primary">Create
                                 User</button></a>
+                        <a href="{{ route('user.deleted') }}"><button class="btn btn-primary">Restore
+                                User</button></a>
                         <a href="{{ route('adminpainel') }}"><button class="btn btn-secondary">Back</button></a>
                     </div>
                 @endif

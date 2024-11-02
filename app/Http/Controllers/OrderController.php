@@ -281,7 +281,7 @@ class OrderController extends Controller
             Log::channel('order')->info("Order restored by user " . Auth::user()->name . " - Order ID: " . $order->id_drop);
             return redirect()->route('orders.all')->with('success', 'Order restored successfully!');
         } catch (\Exception $e) {
-             return redirect()->back()->with('error', 'An error occurred while restore the Order. Please try again.'); // Mensagem de erro
+            return redirect()->back()->with('error', 'An error occurred while restore the Order. Please try again.'); // Mensagem de erro
         }
     }
 
@@ -294,7 +294,7 @@ class OrderController extends Controller
             Log::channel('order')->critical("Order permanently deleted by admin " . Auth::user()->name . " - Order ID: " . $order->id_drop);
             return redirect()->route('orders.deleted')->with('success', 'Order permanently deleted successfully!');
         } catch (\Exception $e) {
-             return redirect()->back()->with('error', 'An error occurred while force delete the Order. Please try again.');
+            return redirect()->back()->with('error', 'An error occurred while force delete the Order. Please try again.');
         }
     }
 }

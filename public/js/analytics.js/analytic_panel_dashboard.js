@@ -99,3 +99,28 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+document.addEventListener('DOMContentLoaded', function () {
+    const connectedCount = window.connectedCount;
+    const ctx = document.getElementById('connectedUsersChart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Connected Users'],
+            datasets: [{
+                label: 'Total Users',
+                data: [connectedCount],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: Math.max(connectedCount + 10, 50) // Define um máximo
+                }
+            }
+        }
+    });
+});

@@ -20,6 +20,10 @@
                         </div>
                     </div>
                     <div class="card-body">
+                        <div class="text-left">
+                            <a href="{{ route('sendMessage.telegram') }}" class="badge badge-pill badge-warning"><span
+                                    class="mr-1">Send Message to Telegram</span></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -95,7 +99,7 @@
                         </div>
                     </div>
                     <div class="card-footer bg-white py-4">
-                        <a href="{{ route('login.logs') }}" class="text-uppercase">See More</a>
+                        <a href="{{ route('users.logs') }}" class="text-uppercase">See More</a>
                     </div>
                 </div>
             </div>

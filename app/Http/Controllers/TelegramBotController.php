@@ -171,8 +171,12 @@ class TelegramBotController extends Controller
 
     public function showSendMessageForm()
     {
+        // Contagem total de chat_ids únicos
+        $connectedCount = UserDropPreference::distinct('chat_id')->count('chat_id');
+
         $chatIds = UserDropPreference::pluck('chat_id', 'id');
-        return view('panel.send-message', compact('chatIds'));
+
+        return view('panel.send-message', compact('chatIds', 'connectedCount'));
     }
 
     public function sendMessage(Request $request)
