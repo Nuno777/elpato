@@ -75,7 +75,7 @@
         </div>
 
 
-        
+
         @if ($messages->isNotEmpty())
             <div class="email-wrapper rounded border bg-white">
                 <div class="row no-gutters ">

@@ -13,16 +13,15 @@
             </div>
             <div class="card-body">
                 <form action="{{ route('user.update', $user->id) }}" method="POST" enctype="multipart/form-data">
-                    {{ csrf_field() }}
+                    @csrf
                     @method('PUT')
 
                     <label for="name">Profile Image</label>
                     <div class="row">
                         <div class="col-6">
                             @if ($user->profile_image)
-                                <img class="rounded-circle"
-                                    src="{{ asset('profile_images/' . $user->profile_image) }}" width="80px"
-                                    alt="Profile Image">
+                                <img class="rounded-circle" src="{{ asset('profile_images/' . $user->profile_image) }}"
+                                    width="80px" alt="Profile Image">
                             @else
                                 <img class="rounded-circle" src="{{ asset('/images/user/user.png') }}" width="80px"
                                     alt="Default Profile Image">
@@ -79,7 +78,7 @@
                                                 readonly disabled>
                                         @else
                                             <select name="type" id="type" class="form-control" required
-                                                {{ (auth()->user()->id === $user->id && auth()->user()->type === 'admin') ? 'disabled' : '' }}>
+                                                {{ auth()->user()->id === $user->id && auth()->user()->type === 'admin' ? 'disabled' : '' }}>
                                                 <option value="worker"
                                                     {{ (old('type') ?? $user->type) == 'worker' ? 'selected' : '' }}>
                                                     Worker
@@ -101,23 +100,24 @@
                                     <div class="form-group">
                                         <label for="blocked">Blocked</label>
                                         @if (auth()->user()->id != $user->id && auth()->user()->type === 'admin' && $user->type === 'admin')
-                                        <div class="col-6">
-                                            <input type="text" name="blocked" class="form-control"
-                                                value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}" readonly disabled>
-                                                </div>
+                                            <div class="col-6">
+                                                <input type="text" name="blocked" class="form-control"
+                                                    value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}"
+                                                    readonly disabled>
+                                            </div>
                                         @else
-                                        <div class="col-6">
-                                            <select name="blocked" id="blocked" class="form-control" required
-                                                {{ (auth()->user()->id === $user->id && auth()->user()->type === 'admin') ? 'disabled' : '' }}>
-                                                <option value="0"
-                                                    {{ old('blocked', $user->blocked) == '0' ? 'selected' : '' }}>
-                                                    Blocked
-                                                </option>
-                                                <option value="1"
-                                                    {{ old('blocked', $user->blocked) == '1' ? 'selected' : '' }}>
-                                                    Unblocked
-                                                </option>
-                                            </select>
+                                            <div class="col-6">
+                                                <select name="blocked" id="blocked" class="form-control" required
+                                                    {{ auth()->user()->id === $user->id && auth()->user()->type === 'admin' ? 'disabled' : '' }}>
+                                                    <option value="0"
+                                                        {{ old('blocked', $user->blocked) == '0' ? 'selected' : '' }}>
+                                                        Blocked
+                                                    </option>
+                                                    <option value="1"
+                                                        {{ old('blocked', $user->blocked) == '1' ? 'selected' : '' }}>
+                                                        Unblocked
+                                                    </option>
+                                                </select>
                                             </div>
                                         @endif
                                     </div>
@@ -136,7 +136,6 @@
                         </div>
 
                     </div>
-
                     <button type="submit" class="btn btn-primary">Edit User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>
@@ -147,11 +146,12 @@
 
 @endsection
 
+@push('scripts')
 <script>
     var previousType = '{{ old('type') ?? $user->type }}';
     var previousBlocked = '{{ old('blocked') ?? $user->type }}';
 </script>
 
-@push('scripts')
+
 <script src="{{ asset('js/checkperm.js') }}"></script>
 @endpush
