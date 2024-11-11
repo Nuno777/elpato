@@ -12,7 +12,7 @@
                 <h2>Edit User {{ $user->name }}</h2>
             </div>
             <div class="card-body">
-                <form action="{{ route('user.update', $user->id) }}" method="POST" enctype="multipart/form-data">
+                <form action="{{ route('user.update', trim($user->slug)) }}" method="POST" enctype="multipart/form-data">
                     @csrf
                     @method('PUT')
 
@@ -35,7 +35,7 @@
                                 <div class="col-2">
                                     <div class="form-group">
                                         <input type="hidden" name="id" class="form-control"
-                                            value="{{ old('id') ?? $user->id }}" placeholder="ID" readonly required>
+                                            value="{{ old('slug') ?? $user->slug }}" placeholder="ID" readonly required>
                                     </div>
                                 </div>
                             </div>

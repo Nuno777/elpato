@@ -99,6 +99,46 @@
             </div>
         </div>
 
+        <div class="row">
+            <!-- Daily Revenue (Last 7 Days) -->
+            <div class="col-xl-4 col-sm-12">
+                <div class="card card-default">
+                    <div class="card-header border-bottom">
+                        <h2>Daily Revenue (Last 7 Days)</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="dailyRevenueChart"
+                            data-daily-revenue="{{ json_encode($dailyRevenueData) }}"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Monthly Revenue (Current Year) -->
+            <div class="col-xl-4 col-sm-12">
+                <div class="card card-default">
+                    <div class="card-header border-bottom">
+                        <h2>Monthly Revenue (Current Year)</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="monthlyRevenueChart"
+                            data-monthly-revenue="{{ json_encode($monthlyRevenueData) }}"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Total Revenue -->
+            <div class="col-xl-4 col-sm-12">
+                <div class="card card-default">
+                    <div class="card-header border-bottom">
+                        <h2>Total Revenue</h2>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="totalRevenueChart" data-total-revenue="{{ $totalRevenue }}"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         @if (auth()->user()->type == 'general' || auth()->user()->type == 'admin')
             <!-- Notifications Settings -->
             <div class="card card-default">
@@ -106,7 +146,6 @@
                     <h2>New Drop Notifications</h2>
                 </div>
                 <div class="card-body">
-
                     @if ($drop->isEmpty())
                         <p>You currently have no Drops.</p>
                     @else
@@ -124,7 +163,8 @@
                                         Notes</th>
                                     <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
                                         created Drop</th>
-                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 15%"
+                                        class="sorting_disabled">
                                         Expired Drop</th>
                                 </tr>
                             </thead>
@@ -286,4 +326,8 @@
 
     </div>
 </div>
+
 @endsection
+@push('scripts')
+<script src="{{ asset('js/analytics/analytics_main.js') }}"></script>
+@endpush

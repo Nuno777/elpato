@@ -7,11 +7,12 @@ use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\User;
 use Telegram\Bot\Api;
+use Illuminate\Support\Str;
 
 
 class DropController extends Controller
 {
-    
+
     protected $telegram;
 
     public function __construct()
@@ -19,7 +20,7 @@ class DropController extends Controller
         // Inicializa a classe Api com o seu token
         $this->telegram = new Api(env('TELEGRAM_BOT_TOKEN')); // Altere para o seu token de bot real
     }
-    
+
     /**
      * Display a listing of the resource.
      */
@@ -54,20 +55,27 @@ class DropController extends Controller
     public function store(Request $request)
     {
         $fields = $request->validate([
-            'id_drop' => 'required',
-            'name' => 'required',
-            'address' => 'required',
-            'packages' => 'required',
-            'notes' => 'required',
-            'status' => 'required',
-            'type' => 'required',
-            'expired' => 'required',
-            'personalnotes' => 'required',
+            'id_drop' => 'required|integer',
+            'name' => 'required|string|max:255',
+            'address' => 'required|string|max:500',
+            'packages' => 'required|string|max:100',
+            'notes' => 'required|string|max:1000',
+            'status' => 'required|string',
+            'type' => 'required|string',
+            'expired' => 'required|date',
+            'personalnotes' => 'required|string|max:1000',
         ]);
 
         try {
             $drop = new Drop();
             $drop->fill($fields);
+
+            // Gera um slug complexo com letras, números e caracteres especiais
+            do {
+                $slug = $this->generateComplexSlug();
+            } while (Drop::where('slug', $slug)->exists()); // Verifica se já existe um slug igual
+
+            $drop->slug = $slug;
             $drop->save();
 
             return redirect()->route('drops')->with('success', 'Drop inserted successfully!');
@@ -76,13 +84,30 @@ class DropController extends Controller
         }
     }
 
+    // Função personalizada para gerar slug complexo
+    private function generateComplexSlug()
+    {
+        // Define os caracteres permitidos no slug, incluindo números e letras
+        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+        // Define o meio do slug com letras e números aleatórios (pode ter mais ou menos caracteres)
+        $middlePart = substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 2);
+
+        // Gera uma parte aleatória do slug com letras e números
+        $randomPart = substr(str_shuffle($characters), 0, 10); // 10 caracteres aleatórios
+        $randomPartend = substr(str_shuffle($characters), 0, 10);
+
+        // Cria o slug final com o nome, o meio e a parte aleatória
+        return $randomPart . '-' . $middlePart . '-' . $randomPartend;
+    }
+
+
     /**
      * Display the specified resource.
      */
-    public function show()
-    {
-
-    }
+    public function show() {}
 
 
     public function showUserDrops($userId)
@@ -107,19 +132,20 @@ class DropController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit($id)
+
+    public function edit($slug)
     {
-        $drop = Drop::findOrFail($id);
+        $drop = Drop::where('slug', $slug)->firstOrFail();
         return view('drops.editdrops', compact('drop'));
     }
 
-    
+
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $slug)
     {
-        $drop = Drop::findOrFail($id);
+        $drop = Drop::where('slug', $slug)->firstOrFail();
 
         $fields = $request->validate([
             'id_drop' => 'required',
@@ -146,17 +172,18 @@ class DropController extends Controller
         }
     }
 
+
     private function notifyUsersFollowingDrop($dropId, $drop)
     {
         // Get the users who follow this drop
         $users = DB::table('user_drop_preferences')
             ->where('drop_ids', 'like', "%{$dropId}%")
             ->get();
-    
+
         foreach ($users as $user) {
             $message = "The drop with ID {$drop->id_drop} has been changed.\n";
             $message .= "Name: {$drop->name}\nStatus: {$drop->status}\n{$drop->updated_at}";
-    
+
             try {
                 // Send message to Telegram
                 $this->telegram->sendMessage([
@@ -255,10 +282,12 @@ class DropController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Drop $drop)
+    public function destroy($slug)
     {
         try {
+            $drop = Drop::where('slug', $slug)->firstOrFail();
             $drop->delete();
+
             return redirect()->route('drops')->with('success', 'Drop successfully deleted!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');

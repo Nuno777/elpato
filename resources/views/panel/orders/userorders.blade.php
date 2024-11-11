@@ -19,19 +19,13 @@
                             <th>Drop</th>
                             <th>User</th>
                             <th>Product</th>
-                            <th>Holder Name</th>
+                            <th>Courier</th>
                             <th>Address</th>
                             <th style="width: 5%" class="sorting_disabled">Tracking</th>
                             <th style="width: 15%" class="sorting_disabled">Code</th>
-                            <th>Shop</th>
                             <th>Status</th>
-                            <th>Notes</th>
-                            <th>Quant</th>
-                            <th>Price</th>
-                            <th>Delivery</th>
-                            <th>Option</th>
-                            <th>Pickup</th>
-                            <th>Signature</th>
+                            <th>Comments</th>
+                            <th></th>
                             <th></th>
                             <th></th>
                         </tr>
@@ -55,7 +49,7 @@
                                 <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->name }}</td>
-                                <td style="width: 30%" class="sorting_disabled">{{ $order->address }}</td>
+                                <td style="width: 25%" class="sorting_disabled">{{ $order->address }}</td>
                                 <td class="sorting_disabled">{{ $order->tracking }}</td>
                                 <td class="sorting_disabled">
                                     @if ($order->tracking == 'Fedex')
@@ -90,16 +84,13 @@
                                             target="_blank">{{ $order->code }}</a>
                                     @endif
                                 </td>
-                                <td style="width: 5%" class="sorting_disabled">{{ $order->shop }}</td>
-                                <td style="width: 5%" class="sorting_disabled"><b>{{ $order->status }}</b></td>
+                                <td style="width: 5%" class="sorting_disabled">{{ $order->status }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $order->comments }} </td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $order->quant }} </td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $order->price }} </td>
-                                <td style="width: 10%" class="sorting_disabled">{{ \Carbon\Carbon::parse($order->delivery)->format('j/F/Y') }}</td>
-                                <td style="width: 15%" class="sorting_disabled">{{ $order->option }} </td>
-                                <td style="width: 5%" class="sorting_disabled">{{ $order->pickup ? 'yes' : 'no' }}
-                                </td>
-                                <td style="width: 5%" class="sorting_disabled">{{ $order->signature ? 'yes' : 'no' }}
+                                <td style="width: 5%" class="sorting_disabled">
+                                    <button class="btn btn-primary" type="button" data-toggle="modal"
+                                        data-target="#showorder{{ $order->id }}">
+                                        <i class="mdi mdi-message-text-outline"></i>
+                                    </button>
                                 </td>
                                 <td>
                                     @if (auth()->check() && auth()->user()->type == 'admin')
@@ -115,13 +106,21 @@
                                         method="POST" onsubmit="return confirm('Delete order?');">
                                         @csrf
                                         @method('DELETE')
-
                                         <button type="submit" class="btn btn-danger">
                                             <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                         </button>
                                     </form>
                                 </td>
                             </tr>
+
+                            <!-- Modal para exibir os detalhes do pedido -->
+                            @include('modal.showorders', [
+                                'order' => $order,
+                                'id_drop' => $order->id,
+                                'courierName' => $order->name,
+                                'status' => $order->status,
+                                'address' => $order->address,
+                            ])
                         @endforeach
                     </tbody>
                 </table>

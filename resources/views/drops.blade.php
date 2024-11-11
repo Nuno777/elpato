@@ -60,7 +60,7 @@
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
-                                            <a href="{{ route('editdrops.edit', $drop->id) }}" style="width: 100%">
+                                            <a href="{{ route('editdrops.edit', $drop->slug) }}" style="width: 100%">
                                                 <button type="submit" class="btn btn-warning">
                                                     <i class="mdi mdi-square-edit-outline text-white"></i>
                                                 </button>
@@ -69,7 +69,7 @@
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
-                                            <form role="form" action="{{ route('drops.destroy', $drop->id) }}"
+                                            <form role="form" action="{{ route('drops.destroy', $drop->slug) }}"
                                                 method="POST" onsubmit="return confirm('Delete Drop?');">
                                                 @csrf
                                                 @method('DELETE')
@@ -94,8 +94,11 @@
                                     <td>
                                         @if (auth()->user()->type == 'worker')
                                             @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
-                                            <a tabindex="0" class="btn btn-info" role="button" data-toggle="popover" data-trigger="focus"
-                                            title="Problems with the Drop?" data-content="You have a package on the way, and the drop is having issues? Send a message on Telegram to @ElPato_drops , and they'll help you recover the package to the fullest."><i class="mdi mdi-comment-question-outline"></i></a>
+                                                <a tabindex="0" class="btn btn-info" role="button"
+                                                    data-toggle="popover" data-trigger="focus"
+                                                    title="Problems with the Drop?"
+                                                    data-content="You have a package on the way, and the drop is having issues? Send a message on Telegram to @ElPato_drops , and they'll help you recover the package to the fullest."><i
+                                                        class="mdi mdi-comment-question-outline"></i></a>
                                             @endif
                                         @endif
                                     </td>
@@ -115,14 +118,14 @@
                                 @include('modal.requestdrop', [
                                     'id_drop' => $drop->id_drop,
                                 ])
-                                
-                                  @include('modal.showdrops', [
+
+                                @include('modal.showdrops', [
                                     'id_drop' => $drop->id_drop,
                                 ])
                             @endforeach
                         </tbody>
                     </table>
-                   <div>
+                    <div>
                         @if (auth()->check() && auth()->user()->type == 'admin')
                             <a href="{{ route('createdrops') }}">
                                 <button class="btn btn-primary">Create Drop</button>

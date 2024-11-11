@@ -12,7 +12,7 @@
                 <h2>Edit Drops</h2>
             </div>
             <div class="card-body">
-                <form id="tablecreatedrop" method="POST" action="{{ route('drops.update', $drop->id) }}">
+                <form id="tablecreatedrop" method="POST" action="{{ route('drops.update', $drop->slug) }}">
                     @csrf
                     @method('PUT')
 
@@ -30,7 +30,7 @@
                        <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
-                                <input type="text" name="name" class="form-control" placeholder="Name"
+                                <input type="text" name="name" id="name" class="form-control" placeholder="Name"
                                     value="{{ old('name') ?? $drop->name }}" required>
                             </div>
                         </div>

@@ -11,7 +11,7 @@ class Order extends Model
 
     use HasFactory, SoftDeletes;
 
-    protected $fillable = ['id_drop','user', 'product', 'name','address','quant', 'price', 'tracking', 'code', 'holder', 'comments','personalnotes', 'option', 'delivery', 'shop', 'pickup', 'signature', 'status'];
+    protected $fillable = ['id_drop', 'user', 'product', 'name', 'address', 'quant', 'price', 'tracking', 'code', 'holder', 'comments', 'personalnotes', 'option', 'delivery', 'shop', 'pickup', 'signature', 'status', 'slug'];
     protected $casts = [
         'pickup' => 'boolean',
         'signature' => 'boolean',

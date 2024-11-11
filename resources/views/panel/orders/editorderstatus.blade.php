@@ -12,7 +12,7 @@
                 <h2>Edit Order Status</h2>
             </div>
             <div class="card-body">
-                <form id="tablecreatedrop" method="POST" action="{{ route('orderstatus.update', $order->id) }}">
+                <form id="tablecreatedrop" method="POST" action="{{ route('orderstatus.update', $order->slug) }}">
                     @csrf
                     @method('PUT')
 

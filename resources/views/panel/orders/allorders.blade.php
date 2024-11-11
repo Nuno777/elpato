@@ -126,13 +126,13 @@
                                     @if (auth()->check())
                                         <td style="width: 5%" class="sorting_disabled">
                                             <button class="btn btn-primary" type="button" data-toggle="modal"
-                                                data-target="#showorder{{ $order->id }}"> <i
+                                                data-target="#showorder{{ $order->slug }}"> <i
                                                     class="mdi mdi-message-text-outline"></i>
                                             </button>
 
                                         </td>
                                         <td>
-                                            <a href="{{ route('editorderstatus.edit', $order->id) }}"
+                                            <a href="{{ route('editorderstatus.edit', $order->slug) }}"
                                                 style="width: 100%">
                                                 <button type="submit" class="btn btn-warning">
                                                     <i class="mdi mdi-square-edit-outline text-white"></i>
@@ -140,7 +140,7 @@
                                             </a>
                                         </td>
                                         <td style="width: 5%" class="sorting_disabled">
-                                            <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                            <form role="form" action="{{ route('orders.destroy', $order->slug) }}"
                                                 method="POST" onsubmit="return confirm('Delete order?');">
                                                 @csrf
                                                 @method('DELETE')

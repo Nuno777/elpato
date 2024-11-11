@@ -70,6 +70,11 @@ class OrderController extends Controller
             $order = new Order();
             $order->fill($request->all());
             $order->user_id = Auth::user()->id;
+            do {
+                $slug = $this->generateComplexSlug();
+            } while (Order::where('slug', $slug)->exists()); // Verifica se já existe um slug igual
+
+            $order->slug = $slug;
             $order->save();
 
             // Enviar notificação para um único usuário
@@ -105,7 +110,23 @@ class OrderController extends Controller
         }
     }
 
+    private function generateComplexSlug()
+    {
+        // Define os caracteres permitidos no slug, incluindo números e letras
+        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
+        // Define o meio do slug com letras e números aleatórios (pode ter mais ou menos caracteres)
+        $middlePart = substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 2);
+
+        // Gera uma parte aleatória do slug com letras e números
+        $randomPart = substr(str_shuffle($characters), 0, 10); // 10 caracteres aleatórios
+        $randomPartend = substr(str_shuffle($characters), 0, 10);
+
+        // Cria o slug final com o nome, o meio e a parte aleatória
+        return $randomPart . '-' . $middlePart . '-' . $randomPartend;
+    }
 
     /**
      * Display the specified resource.
@@ -152,16 +173,16 @@ class OrderController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit($id)
+    public function edit($slug)
     {
-        $order = Order::findOrFail($id);
+        $order = Order::where('slug', $slug)->firstOrFail();
         return view('orders.editorder', compact('order'));
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $slug)
     {
         $request->validate([
             'product' => 'required',
@@ -178,7 +199,7 @@ class OrderController extends Controller
         ]);
 
         try {
-            $order = Order::findOrFail($id);
+            $order = Order::where('slug', $slug)->firstOrFail();
             $order->product = $request->product;
             $order->name = $request->name;
             $order->address = $request->address;
@@ -201,13 +222,13 @@ class OrderController extends Controller
         }
     }
 
-    public function statusedit($id)
+    public function statusedit($slug)
     {
-        $order = Order::findOrFail($id);
+        $order = Order::where('slug', $slug)->firstOrFail();
         return view('panel.orders.editorderstatus', compact('order'));
     }
 
-    public function statusupdate(Request $request, $id)
+    public function statusupdate(Request $request, $slug)
     {
         $request->validate([
             'product' => 'required',
@@ -225,7 +246,7 @@ class OrderController extends Controller
         ]);
 
         try {
-            $order = Order::findOrFail($id);
+            $order = Order::where('slug', $slug)->firstOrFail();
             $order->product = $request->product;
             $order->name = $request->name;
             $order->address = $request->address;
@@ -255,9 +276,10 @@ class OrderController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Order $order)
+    public function destroy(Order $order, $slug)
     {
         try {
+            $order = Order::where('slug', $slug)->firstOrFail();
             $order->delete(); // Isso fará um soft delete
             Log::channel('order')->warning("Order soft deleted by user " . Auth::user()->name . " - Order ID: " . $order->id_drop);
             return redirect()->route('orders')->with('success', 'Order deleted successfully!'); // Mensagem de sucesso

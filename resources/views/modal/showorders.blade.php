@@ -1,5 +1,5 @@
 <!-- Modal Form -->
-<div class="modal fade" id="showorder{{ $order->id }}" tabindex="-1" role="dialog"
+<div class="modal fade" id="showorder{{ $order->slug }}" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalFormLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">

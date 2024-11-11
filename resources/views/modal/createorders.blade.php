@@ -16,7 +16,7 @@
                     <input type="hidden" type="text" name="status" class="form-control" placeholder="status"
                         value="{{ old('status') ?? $status }}" readonly required>
 
-                    <input type="hidden" name="user_id" value="{{ Auth::user()->id }}" readonly required>
+                    <input type="hidden" name="user_id" value="{{ Auth::user()->slug }}" readonly required>
                     <input type="hidden" name="user" value="{{ Auth::user()->name }}" readonly required>
 
                     <input type="hidden" name="address" value="{{ old('address') ?? $address }}" readonly required>

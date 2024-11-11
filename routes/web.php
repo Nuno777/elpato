@@ -27,12 +27,12 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
         Route::get('/create-drops', [DropController::class, 'create'])->name('createdrops');
         Route::post('/create-drops', [DropController::class, 'store'])->name('createdrops.store');
-        Route::get('/drops-{id}-edit', [DropController::class, 'edit'])->name('editdrops.edit');
-        Route::put('/drops/{id}', [DropController::class, 'update'])->name('drops.update');
-        Route::delete('/drops/{drop}', [DropController::class, 'destroy'])->name('drops.destroy');
+        Route::get('/drops-{slug}-edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
+        Route::put('/drops-{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
+        Route::delete('/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
 
-        Route::get('/order-status-{id}-edit', [OrderController::class, 'statusedit'])->name('editorderstatus.edit');
-        Route::put('/order-status/{id}', [OrderController::class, 'statusupdate'])->name('orderstatus.update');
+        Route::get('/order-status-{slug}-edit', [OrderController::class, 'statusedit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorderstatus.edit');
+        Route::put('/order-status/{slug}', [OrderController::class, 'statusupdate'])->where('slug', '[a-zA-Z0-9-]+')->name('orderstatus.update');
         Route::get('/orders/show', [OrderController::class, 'show'])->name('orders.show');
         Route::get('/all-orders', [OrderController::class, 'allshow'])->name('orders.all');
         Route::get('/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
@@ -50,21 +50,21 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/create-user', [UserController::class, 'index'])->name('createuser');
         Route::get('/create-user', [UserController::class, 'create'])->name('createuser');
         Route::post('/create-user', [UserController::class, 'store'])->name('createuser.store');
-        Route::get('/user-{id}-edit', [UserController::class, 'edit'])->name('edituser.edit');
-        Route::put('/user/{id}', [UserController::class, 'update'])->name('user.update');
+        Route::get('/user-{slug}-edit', [UserController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('edituser.edit');
+        Route::put('/user/{slug}', [UserController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('user.update');
         Route::get('/all-users', [UserController::class, 'allshow'])->name('user.all');
-        Route::delete('/user/{user}', [UserController::class, 'destroy'])->name('user.destroy');
+        Route::delete('/user/{slug}', [UserController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('user.destroy');
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
-        Route::post('/user-{id}-set-default-password', [UserController::class, 'setDefaultPassword'])->name('user.setDefaultPassword');
+        Route::post('/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
 
         //restore users
         Route::put('/user/{id}/restore', [UserController::class, 'restore'])->name('user.restore');
         Route::get('/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
         Route::delete('/user/{id}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
 
-        Route::get('/users-orders-{id}', [OrderController::class, 'showUserOrders'])->name('user.orders');
+        Route::get('/users-orders-{slug}', [OrderController::class, 'showUserOrders'])->where('slug', '[a-zA-Z0-9-]+')->name('user.orders');
         Route::get('/users-ftids-{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
-        Route::get('/users-drops-{id}', [DropController::class, 'showUserDrops'])->name('user.drops');
+        Route::get('/users-drops-{slug}', [DropController::class, 'showUserDrops'])->where('slug', '[a-zA-Z0-9-]+')->name('user.drops');
 
         Route::post('/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
         Route::post('/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
@@ -82,6 +82,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
         Route::get('/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
         Route::get('/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
+
+
+        //refs
+        
     });
 
     //perms admin or general
@@ -108,9 +112,9 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/orders', [OrderController::class, 'index'])->name('orders');
         Route::get('/orders/create', [OrderController::class, 'create'])->name('createorder');
         Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
-        Route::get('/order-{id}-edit', [OrderController::class, 'edit'])->name('editorder.edit');
-        Route::put('/order/{id}', [OrderController::class, 'update'])->name('order.update');
-        Route::delete('/orders/{order}', [OrderController::class, 'destroy'])->name('orders.destroy');
+        Route::get('/order-{slug}-edit', [OrderController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorder.edit');
+        Route::put('/order/{slug}', [OrderController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('order.update');
+        Route::delete('/orders/{slug}', [OrderController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('orders.destroy');
 
         Route::get('/message/create', [MessageController::class, 'create'])->name('createmessage');
         Route::post('/drops-send-request/{id_drop}', [MessageController::class, 'sendRequest'])->name('sendDropRequest');

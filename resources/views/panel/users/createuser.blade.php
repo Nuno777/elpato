@@ -89,7 +89,7 @@
                             </div>
                         </div>
                     </div>
-    
+
                     <button type="submit" class="btn btn-primary">Create User</button>
                     <a href="{{ route('user.all') }}" class="btn btn-secondary">Back</a>
                 </form>

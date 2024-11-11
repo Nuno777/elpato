@@ -406,5 +406,5 @@
 </div>
 @endsection
 @push('scripts')
-<script src="{{ asset('js/analytics.js/analytic_panel_dashboard.js') }}"></script>
+<script src="{{ asset('js/analytics/analytic_panel_dashboard.js') }}"></script>
 @endpush

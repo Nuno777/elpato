@@ -9,6 +9,8 @@ use App\Models\Ftid;
 use App\Models\User;
 use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
+use Carbon\Carbon;
+use Illuminate\Support\Collection;
 
 class PageController extends Controller
 {
@@ -22,29 +24,64 @@ class PageController extends Controller
         $user = Auth::user();
         $messages = $user->messages;
 
-        $messagesCount = $messages->count();
-        $messagesCountAll = Message::count();
-        $orderCount = $user->orders->count();
-        $ftidCount = $user->ftid->count();
-
-        if ($user->type == 'admin' || $user->type == 'general') {
-            $drop = Drop::orderBy('id', 'DESC')->paginate(5); // Todas as drops
-            $dropCount = Drop::count(); // Conta todas as drops
-        } else {
-            $drop = $user->drops()->orderBy('id', 'DESC')->paginate(5); // Apenas as drops do usuário
-            $dropCount = $user->drops()->count(); // Conta apenas as drops associadas ao usuário
-        }
-
-        return view('dashboard', [
+        // Contagem de ordens e FTIDs
+        $dashboardData = [
             'messages' => $messages,
             'user' => $user,
-            'drop' => $drop,
-            'dropCount' => $dropCount,
-            'orderCount' => $orderCount,
-            'ftidCount' => $ftidCount,
-            'messagesCount' => $messagesCount,
-            'messagesCountAll' => $messagesCountAll
-        ]);
+            'drop' => null,
+            'dropCount' => 0,
+            'orderCount' => $user->orders->count(),
+            'ftidCount' => $user->ftid->count(),
+            'messagesCount' => $messages->count(),
+            'messagesCountAll' => Message::count(),
+        ];
+
+        // Faturamento total
+        $totalRevenue = $user->orders()->where('status', 'waiting payment')->sum('price');
+
+        // Obter faturamento diário dos últimos 7 dias, incluindo dias com valor 0
+        $dailyRevenueData = collect([]);
+        $startDate = Carbon::today()->subDays(6);  // 6 dias atrás para incluir hoje
+
+        for ($i = 0; $i < 7; $i++) {
+            $date = $startDate->copy()->addDays($i)->format('Y-m-d');
+            $revenue = $user->orders()
+                ->where('status', 'waiting payment')
+                ->whereDate('created_at', $date)
+                ->sum('price');
+            $dailyRevenueData[$date] = $revenue;
+        }
+
+        // Faturamento mensal (ano atual)
+        $monthlyRevenueData = collect(array_fill(0, 12, 0)); // Inicializa com 12 meses zerados
+        $orders = $user->orders()
+            ->where('status', 'waiting payment')
+            ->whereYear('created_at', now()->year)
+            ->selectRaw('MONTH(created_at) as month, SUM(price) as total')
+            ->groupBy('month')
+            ->orderBy('month')
+            ->get();
+
+        // Preenche os meses com os valores corretos
+        foreach ($orders as $order) {
+            $monthlyRevenueData[$order->month - 1] = $order->total;
+        }
+
+        // Passar dados para a view
+        $dashboardData['totalRevenue'] = $totalRevenue;
+        $dashboardData['dailyRevenueData'] = $dailyRevenueData;
+        $dashboardData['monthlyRevenueData'] = $monthlyRevenueData;
+
+        // Obter as drops
+        if (in_array($user->type, ['admin', 'general'])) {
+            $dashboardData['drop'] = Drop::orderBy('id', 'DESC')->paginate(5);
+            $dashboardData['dropCount'] = Drop::count();
+        } else {
+            $dashboardData['drop'] = $user->drops()->orderBy('id', 'DESC')->paginate(5);
+            $dashboardData['dropCount'] = $user->drops()->count();
+        }
+
+        return view('dashboard', $dashboardData);
     }
 
     public function adminpainel(User $users, Order $orders, Ftid $ftid)
@@ -63,7 +100,7 @@ class PageController extends Controller
 
         return view('panel.adminpainel', [
             'userCount' => $userCount,
-            'ordersCount' => $activeOrdersCount + $restoreOrdersCount,
+            'ordersCount' => $activeOrdersCount,
             'ftidCount' => $ftid->count(),
             'messages' => Message::all(),
             'orders' => Order::orderBy('id', 'DESC')->paginate(10),

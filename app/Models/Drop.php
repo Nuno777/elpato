@@ -10,9 +10,10 @@ class Drop extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes'];
+    protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes','slug'];
 
     protected $dates = ['expired'];
+    
     /**
      * Define o relacionamento com os pedidos (orders).
      */

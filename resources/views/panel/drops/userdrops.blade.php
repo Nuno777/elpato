@@ -69,6 +69,7 @@
                     <br>
                     <p>No drop assigned to this user.</p>
                     <br>
+
                     <a href="{{ route('user.all') }}"><button class="btn btn-secondary">Back</button></a>
                 @endif
             </div>
@@ -169,8 +170,8 @@
 
             {{-- modal --}}
             @foreach ($messages as $message)
-                <div class="modal fade" id="viewmessage{{ $drop->id }}" tabindex="-1" role="dialog"
-                    aria-labelledby="viewmessageLabel" aria-hidden="true">
+            <div class="modal fade" id="viewmessage{{ $message->drop->id }}" tabindex="-1" role="dialog" aria-labelledby="viewmessageLabel" aria-hidden="true">
+
                     <div class="modal-dialog" role="document">
                         <div class="modal-content">
                             <div class="modal-header">

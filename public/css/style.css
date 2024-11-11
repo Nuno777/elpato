@@ -2,7 +2,7 @@
 
 :root {
     --colorprinc: #12871A;
-    --colorhover: #59ab5e;
+    --colorhover: #59ab5e; /* 419f47 */
 
     --blue: #007bff;
     --indigo: #6610f2;
@@ -40,6 +40,47 @@
 /*========================
 ========= my css =========
 ==========================*/
+
+.chat-button {
+    position: fixed;
+    bottom: 20px; /* Ajuste conforme necessário */
+    right: 20px; /* Ajuste conforme necessário */
+    width: 60px;
+    height: 60px;
+    background-color: #12871A; /* Cor do botão */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%; /* Tornando o botão redondo */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 30px; /* Tamanho do ícone */
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#chatButton a {
+    text-decoration: none;  /* Remove o sublinhado */
+    color: inherit;         /* Mantém a cor do texto igual ao restante da página */
+}
+
+#chatButton a:focus,
+#chatButton a:hover {
+    outline: none;          /* Remove o contorno azul ao clicar ou passar o mouse */
+    color: inherit;         /* Garante que a cor não mude ao passar o mouse */
+}
+
+
+.chat-button:hover {
+    background-color: #419f47; /* Cor do botão quando passar o mouse */
+}
+
+.chat-button i {
+    pointer-events: none; /* Prevenir interação com o ícone diretamente */
+}
+
+
+
 
 /*eye change password*/
 .toggle-password i.mdi-eye {

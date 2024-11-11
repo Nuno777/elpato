@@ -26,7 +26,7 @@ class User extends Authenticatable
         'type',
         'telegram',
         'profile_image',
-        'blocked',
+        'blocked','slug'
     ];
 
     /**

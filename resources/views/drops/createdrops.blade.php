@@ -18,9 +18,9 @@
                     <div class="row">
                         <div class="col-sm-3">
                             <div class="form-group">
-                                <label for="id-drop">ID</label>
-                                <input type="text" name="id_drop" class="form-control" placeholder="Id Drop"
-                                    required>
+                                <label for="id_drop">ID</label>
+                                <input type="text" name="id_drop" id="id_drop" class="form-control"
+                                    placeholder="Id Drop" required>
                             </div>
                         </div>
                     </div>
@@ -29,27 +29,28 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="name">Name</label>
-                                <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                <input type="text" name="name" id="name" class="form-control"
+                                    placeholder="Name" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="notes">Notes</label>
-                                <input type="text" name="notes" class="form-control" placeholder="Notes"
-                                    value="N/A">
+                                <input type="text" name="notes" id="notes" class="form-control"
+                                    placeholder="Notes" value="N/A">
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="address">Address</label>
-                                <input type="text" name="address" class="form-control" placeholder="Address"
-                                    required>
+                                <input type="text" name="address" id="address" class="form-control"
+                                    placeholder="Address" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="personalnotes">Personal Notes</label>
-                                <input type="text" name="personalnotes" class="form-control"
+                                <input type="text" name="personalnotes" id="personalnotes" class="form-control"
                                     placeholder="Personal Notes" value="N/A">
                             </div>
                         </div>
@@ -58,7 +59,7 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="packages">Packages</label>
-                                        <input type="text" name="packages" class="form-control"
+                                        <input type="text" name="packages" id="packages" class="form-control"
                                             placeholder="Packages" required>
                                     </div>
                                 </div>
@@ -88,7 +89,8 @@
                                 <div class="col-6">
                                     <div class="form-group">
                                         <label for="expired">Expired At</label>
-                                        <input type="date" name="expired" class="form-control" required>
+                                        <input type="date" name="expired" id="expired" class="form-control"
+                                            required>
                                     </div>
                                 </div>
 
@@ -96,7 +98,7 @@
                                     <div class="form-group">
                                         <label for="type">Type</label>
                                         <select name="type" class="form-control" id="type">
-                                            <option value="All" selected>All</option>
+                                            <option value="All">All</option>
                                             <option value="Salaried">Salaried</option>
                                             <option value="Nonsalaried">Nonsalaried</option>
                                         </select>

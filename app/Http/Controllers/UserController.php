@@ -125,13 +125,11 @@ class UserController extends Controller
             'email_verified_at' => 'required|date',
             'type' => 'required',
             'telegram' => 'required',
-            'g-recaptcha-response' => 'required|captcha', // Validação do reCAPTCHA
         ], [
             'email.ends_with' => 'The email must be a valid @elpato.xyz email address.',
             'password.min' => 'The password must be at least 8 characters long.',
             'password.regex' => 'The password must contain at least 1 special character.',
-            'g-recaptcha-response.required' => 'Please confirm that you are not a robot.',
-            'g-recaptcha-response.captcha' => 'reCAPTCHA verification failed. Please try again.',
+
         ]);
 
         try {
@@ -145,6 +143,11 @@ class UserController extends Controller
             $user->telegram = $fields['telegram'];
             $user->blocked = 0; // Define o valor padrão para 'blocked'
 
+            do {
+                $slug = $this->generateComplexSlug();
+            } while (User::where('slug', $slug)->exists());
+
+            $user->slug = $slug;
             // Salvando o usuário no banco de dados
             $user->save();
             Log::channel('user')->info("User created by " . Auth::user()->name . " - User: " . $user->name);
@@ -154,12 +157,29 @@ class UserController extends Controller
         }
     }
 
+    private function generateComplexSlug()
+    {
+        // Define os caracteres permitidos no slug, incluindo números e letras
+        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-    public function setDefaultPassword($id)
+        // Define o meio do slug com letras e números aleatórios (pode ter mais ou menos caracteres)
+        $middlePart = substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
+            substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 2);
+
+        // Gera uma parte aleatória do slug com letras e números
+        $randomPart = substr(str_shuffle($characters), 0, 10); // 10 caracteres aleatórios
+        $randomPartend = substr(str_shuffle($characters), 0, 10);
+
+        // Cria o slug final com o nome, o meio e a parte aleatória
+        return $randomPart . '-' . $middlePart . '-' . $randomPartend;
+    }
+
+    public function setDefaultPassword($slug)
     {
         try {
             $defaultPassword = '3fFh@p8J0QJ74#';
-            $user = User::findOrFail($id);
+            $user = User::where('slug', $slug)->firstOrFail();
             $user->password = bcrypt($defaultPassword);
             $user->save();
             Log::channel('user')->warning("User set default password for " . $user->name . ", did the action, " . Auth::user()->name);
@@ -213,17 +233,18 @@ class UserController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit($id)
+    public function edit($slug)
     {
-        $user = User::findOrFail($id);
+        $user = User::where('slug', $slug)->firstOrFail();
         return view('panel.users.edituser', compact('user'));
     }
 
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, $slug)
     {
+        $slug = trim(preg_replace('/[^\w-]+/', '', $slug));
         // Validação dos campos
         $fields = $request->validate([
             'name' => 'required',
@@ -237,10 +258,10 @@ class UserController extends Controller
         ]);
 
         try {
-            $user = User::findOrFail($id);
+            $user = User::where('slug', $slug)->firstOrFail();
 
             // Impede o usuário de alterar seu próprio estado de 'blocked'
-            if (auth()->user()->id == $id) {
+            if (auth()->user()->id == $slug) {
                 return redirect()->back()->with('error', 'You cannot change your own blocked status.');
             }
 
@@ -276,9 +297,10 @@ class UserController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(User $user)
+    public function destroy(User $user, $slug)
     {
         try {
+            $user = User::where('slug', $slug)->firstOrFail();
             // Prevent logged-in user from deleting their own account
             if (auth()->user()->id === $user->id) {
                 return redirect()->route('user.all')->with('error', 'You cannot delete your own account.');

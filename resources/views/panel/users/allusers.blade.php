@@ -109,7 +109,7 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <a href="{{ route('edituser.edit', $user->id) }}" style="width: 100%">
+                                        <a href="{{ route('edituser.edit', trim($user->slug)) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-warning">
                                                 <i class="mdi mdi-square-edit-outline text-white"></i>
                                             </button>
@@ -117,8 +117,9 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <form action="{{ route('user.setDefaultPassword', $user->id) }}" role="form"
-                                            method="POST" onsubmit="return confirm('Change Password for this user?');">
+                                        <form action="{{ route('user.setDefaultPassword', trim($user->slug)) }}"
+                                            role="form" method="POST"
+                                            onsubmit="return confirm('Change Password for this user?');">
                                             @csrf
                                             <button type="submit" class="btn btn-dark">
                                                 <i class="mdi mdi-key" data-toggle="tooltip"></i>
@@ -127,8 +128,8 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        @if (auth()->check() && auth()->user()->id !== $user->id && $user->type !== 'admin')
-                                            <form role="form" action="{{ route('user.destroy', $user->id) }}"
+                                        @if (auth()->check() && auth()->user()->slug !== $user->slug && $user->type !== 'admin')
+                                            <form role="form" action="{{ route('user.destroy', trim($user->slug)) }}"
                                                 method="POST" onsubmit="return confirm('Delete User?');">
                                                 @csrf
                                                 @method('DELETE')
@@ -159,6 +160,3 @@
 </div>
 
 @endsection
-@push('scripts')
-<script src="{{ asset('js/checkpass.js') }}"></script>
-@endpush
