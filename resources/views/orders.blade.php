@@ -33,17 +33,17 @@
                             @if (auth()->user()->id == $order->user_id)
                                 <tr
                                     style="background-color:
-                            @if ($order->status == 'Ready') #85f36e;
-                            @elseif ($order->status == 'Suspense') #838383;
-                            @elseif ($order->status == 'Dont send') #fff085;
-                            @elseif ($order->status == 'Problem') #ff9e8e;
-                            @elseif ($order->status == 'Received') #b491c8;
-                            @elseif ($order->status == 'Sent to buyer') #ffb74d;
-                            @elseif ($order->status == 'Waiting payment') #99d18f; @endif
-                            color:
-                            @if ($order->status == 'Suspense') white;
-                            @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) black;
-                            @else black; @endif">
+                                    @if ($order->status == 'Ready') #85f36e;
+                                    @elseif ($order->status == 'Suspense') #838383;
+                                    @elseif ($order->status == 'Dont send') #fff085;
+                                    @elseif ($order->status == 'Problem') #ff9e8e;
+                                    @elseif ($order->status == 'Received') #b491c8;
+                                    @elseif ($order->status == 'Sent to buyer') #ffb74d;
+                                    @elseif ($order->status == 'Waiting payment') #99d18f; @endif
+                                    color:
+                                    @if ($order->status == 'Suspense') white;
+                                    @elseif (in_array($order->status, ['Received', 'Sent to buyer', 'Waiting payment'])) black;
+                                    @else black; @endif">
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->id_drop }}</td>
                                     <td style="width: 5%" class="sorting_disabled">{{ $order->user }}</td>
                                     <td style="width: 10%" class="sorting_disabled">{{ $order->product }}</td>
@@ -115,15 +115,44 @@
                                     @endif
                                     @if (auth()->check())
                                         <td style="width: 5%" class="sorting_disabled">
-                                            <form role="form" action="{{ route('orders.destroy', $order->slug) }}"
-                                                method="POST" onsubmit="return confirm('Delete order?');">
-                                                @csrf
-                                                @method('DELETE')
-
-                                                <button type="submit" class="btn btn-danger">
-                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
-                                                </button>
-                                            </form>
+                                            <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                data-target="#deleteOrderModal{{ $order->slug }}">
+                                                <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                            </button>
+                                            <div class="modal fade" id="deleteOrderModal{{ $order->slug }}"
+                                                tabindex="-1" role="dialog"
+                                                aria-labelledby="deleteOrderModalLabel{{ $order->slug }}"
+                                                aria-hidden="true">
+                                                <div class="modal-dialog" role="document">
+                                                    <div class="modal-content">
+                                                        <div class="modal-header">
+                                                            <h5 class="modal-title"
+                                                                id="deleteOrderModalLabel{{ $order->slug }}">Delete
+                                                                Order</h5>
+                                                            <button type="button" class="close" data-dismiss="modal"
+                                                                aria-label="Close">
+                                                                <span aria-hidden="true">&times;</span>
+                                                            </button>
+                                                        </div>
+                                                        <div class="modal-body">
+                                                            Are you sure you want to delete this order? This action
+                                                            cannot be undone.
+                                                        </div>
+                                                        <div class="modal-footer">
+                                                            <button type="button" class="btn btn-secondary"
+                                                                data-dismiss="modal">Cancel</button>
+                                                            <form role="form"
+                                                                action="{{ route('orders.destroy', $order->slug) }}"
+                                                                method="POST">
+                                                                @csrf
+                                                                @method('DELETE')
+                                                                <button type="submit"
+                                                                    class="btn btn-danger">Delete</button>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </td>
                                     @endif
                                 </tr>

@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
                 'type' => 'admin',
                 'telegram'=>'Skeleton',
                 'blocked'=>'1',
+                'slug'=>'dsjadsa-hdh-dash-dsajdsa',
                 'god'=>Hash::make('JesusKing'),
             ],
             [
@@ -33,6 +34,7 @@ class DatabaseSeeder extends Seeder
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
                 'telegram'=>'pekka',
+                'slug'=>'dsjadsa-hdh-dash-dsa31dsa',
                 'blocked'=>'1'
             ],
             [
@@ -40,6 +42,7 @@ class DatabaseSeeder extends Seeder
                 'email' => 'et13@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
+                'slug'=>'dsja12sa-hdh-dash-ds13jdsa',
                 'type' => 'worker',
                 'telegram'=>'et',
                 'blocked'=>'1'
@@ -49,6 +52,7 @@ class DatabaseSeeder extends Seeder
                 'email' => 'calvo@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
+                'slug'=>'dsjad32-hdh-dash-dsajdsa',
                 'type' => 'general',
                 'telegram'=>'calvo',
                 'blocked'=>'1'

@@ -113,16 +113,14 @@
                     </li>
                 @endif
 
-                <!-- Admin Functions (if user is admin)
-                @if (auth()->check() &&
-                        (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
-                    <li class="@if (Request::is('generator')) active @endif">
-                        <a class="sidenav-item-link" href="">
-                            <i class="mdi mdi-refresh"></i>
-                            <span class="nav-text">Generator</span>
+                @if (auth()->check() && auth()->user()->type == 'admin')
+                    <li class="@if (Request::is('orders-refund')) active @endif">
+                        <a class="sidenav-item-link" href="{{ route('orders.ref') }}">
+                            <i class="mdi mdi-package-variant"></i>
+                            <span class="nav-text">Orders Refund</span>
                         </a>
                     </li>
-                @endif-->
+                @endif
             </ul>
         </div>
 
@@ -134,12 +132,11 @@
                             <a href="{{ route('login.logs') }}" data-toggle="tooltip" title="Logs"><i
                                     class="mdi mdi-file-document-outline"></i></a>
                         </li>
-
                     @else
-                    <li>
-                        <a href="" data-toggle="tooltip" title="Analytics"><i
-                                class="mdi mdi-chart-line"></i></a>
-                    </li>
+                        <li>
+                            <a href="" data-toggle="tooltip" title="Analytics"><i
+                                    class="mdi mdi-chart-line"></i></a>
+                        </li>
                     @endif
                     <li>
                         <a href="{{ route('profile') }}" data-toggle="tooltip" title="Profile settings"><i

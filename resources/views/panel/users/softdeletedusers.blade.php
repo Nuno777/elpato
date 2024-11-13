@@ -14,7 +14,6 @@
                 <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
                         <tr>
-                            <th>#</th>
                             <th>Name</th>
                             <th>Email</th>
                             <th>Telegram</th>
@@ -27,7 +26,6 @@
                     <tbody>
                         @foreach ($deletedUsers as $user)
                             <tr>
-                                <td>{{ $user->id }}</td>
                                 <td>{{ $user->name }}</td>
                                 <td>{{ $user->email }}</td>
                                 <td>{{ $user->telegram }}</td>
@@ -63,16 +61,44 @@
                                 </td>
 
                                 <td>
-                                    <form role="form" action="{{ route('user.forceDelete', $user->id) }}"
-                                        method="POST"
-                                        onsubmit="return confirm('Do you really want to delete this user forever?');">
-                                        @csrf
-                                        @method('DELETE')
+                                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                                        data-target="#forceDeleteUserModal{{ $user->id }}">
+                                        <i class="mdi mdi-delete-forever" data-toggle="tooltip"></i>
+                                    </button>
+                                    <div class="modal fade" id="forceDeleteUserModal{{ $user->id }}" tabindex="-1"
+                                        role="dialog" aria-labelledby="forceDeleteUserModalLabel{{ $user->id }}"
+                                        aria-hidden="true">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title"
+                                                        id="forceDeleteUserModalLabel{{ $user->id }}">Permanently
+                                                        delete the user</h5>
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Are you sure you want to delete this user permanently? This action
+                                                    cannot be undone.
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary"
+                                                        data-dismiss="modal">Cancel</button>
+                                                    <form role="form"
+                                                        action="{{ route('user.forceDelete', $user->id) }}"
+                                                        method="POST">
+                                                        @csrf
+                                                        @method('DELETE')
+                                                        <button type="submit" class="btn btn-danger">Permanently
+                                                            delete</button>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                        <button type="submit" class="btn btn-danger">
-                                            <i class="mdi mdi-delete-forever" data-toggle="tooltip"></i>
-                                        </button>
-                                    </form>
                                 </td>
                             </tr>
                         @endforeach

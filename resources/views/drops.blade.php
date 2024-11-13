@@ -69,15 +69,40 @@
                                     </td>
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
-                                            <form role="form" action="{{ route('drops.destroy', $drop->slug) }}"
-                                                method="POST" onsubmit="return confirm('Delete Drop?');">
-                                                @csrf
-                                                @method('DELETE')
-
-                                                <button type="submit" class="btn btn-danger">
-                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
-                                                </button>
-                                            </form>
+                                            <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                data-target="#deleteModal">
+                                                <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                            </button>
+                                            <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog"
+                                                aria-labelledby="deleteModalLabel" aria-hidden="true">
+                                                <div class="modal-dialog" role="document">
+                                                    <div class="modal-content">
+                                                        <div class="modal-header">
+                                                            <h5 class="modal-title" id="deleteModalLabel">Delete Drop
+                                                            </h5>
+                                                            <button type="button" class="close" data-dismiss="modal"
+                                                                aria-label="Close">
+                                                                <span aria-hidden="true">&times;</span>
+                                                            </button>
+                                                        </div>
+                                                        <div class="modal-body">
+                                                            Are you sure you want to delete this drop? This action cannot be undone.
+                                                        </div>
+                                                        <div class="modal-footer">
+                                                            <button type="button" class="btn btn-secondary"
+                                                                data-dismiss="modal">Cancel</button>
+                                                            <form role="form"
+                                                                action="{{ route('drops.destroy', $drop->slug) }}"
+                                                                method="POST">
+                                                                @csrf
+                                                                @method('DELETE')
+                                                                <button type="submit"
+                                                                    class="btn btn-danger">Delete</button>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         @endif
                                     </td>
                                     <td>
@@ -127,9 +152,8 @@
                     </table>
                     <div>
                         @if (auth()->check() && auth()->user()->type == 'admin')
-                            <a href="{{ route('createdrops') }}">
-                                <button class="btn btn-primary">Create Drop</button>
-                            </a>
+                            <button class="btn btn-primary" data-toggle="modal" data-target="#createDropModal">Create
+                                Drop</button>
                             @if (count($drops) > 0)
                                 <button type="button" class="btn btn-success" data-toggle="modal"
                                     data-target="#assigndrop">
@@ -146,5 +170,6 @@
         </div>
     </div>
 </div>
+@include('drops.createdrops')
 
 @endsection

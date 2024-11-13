@@ -129,14 +129,44 @@
 
                                     <td style="width: 5%" class="sorting_disabled">
                                         @if (auth()->check() && auth()->user()->slug !== $user->slug && $user->type !== 'admin')
-                                            <form role="form" action="{{ route('user.destroy', trim($user->slug)) }}"
-                                                method="POST" onsubmit="return confirm('Delete User?');">
-                                                @csrf
-                                                @method('DELETE')
-                                                <button type="submit" class="btn btn-danger">
-                                                    <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
-                                                </button>
-                                            </form>
+                                            <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                data-target="#deleteUserModal{{ $user->slug }}">
+                                                <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
+                                            </button>
+                                            <div class="modal fade" id="deleteUserModal{{ $user->slug }}"
+                                                tabindex="-1" role="dialog"
+                                                aria-labelledby="deleteUserModalLabel{{ $user->slug }}"
+                                                aria-hidden="true">
+                                                <div class="modal-dialog" role="document">
+                                                    <div class="modal-content">
+                                                        <div class="modal-header">
+                                                            <h5 class="modal-title"
+                                                                id="deleteUserModalLabel{{ $user->slug }}">Delete
+                                                                User</h5>
+                                                            <button type="button" class="close" data-dismiss="modal"
+                                                                aria-label="Close">
+                                                                <span aria-hidden="true">&times;</span>
+                                                            </button>
+                                                        </div>
+                                                        <div class="modal-body">
+                                                            Are you sure you want to delete this user? This action
+                                                            cannot be undone.
+                                                        </div>
+                                                        <div class="modal-footer">
+                                                            <button type="button" class="btn btn-secondary"
+                                                                data-dismiss="modal">Cancel</button>
+                                                            <form role="form"
+                                                                action="{{ route('user.destroy', trim($user->slug)) }}"
+                                                                method="POST">
+                                                                @csrf
+                                                                @method('DELETE')
+                                                                <button type="submit"
+                                                                    class="btn btn-danger">Delete</button>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         @endif
                                     </td>
                                 @endif

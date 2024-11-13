@@ -13,6 +13,7 @@ use App\Http\Controllers\PageController;
 use App\Http\Controllers\MessageController;
 use App\Http\Controllers\TelegramBotController;
 use App\Http\Controllers\LogController;
+use App\Http\Controllers\OrderRefController;
 
 Route::get('/', [PageController::class, 'index'])->name('auth.login');
 Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
@@ -25,8 +26,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::middleware(['admin', Admin::class])->group(function () {
         Route::get('/panel-dashboard', [PageController::class, 'adminpainel'])->name('adminpainel');
 
-        Route::get('/create-drops', [DropController::class, 'create'])->name('createdrops');
-        Route::post('/create-drops', [DropController::class, 'store'])->name('createdrops.store');
+        Route::get('/drops', [DropController::class, 'create'])->name('createdrops');
+        Route::post('/drops', [DropController::class, 'store'])->name('createdrops.store');
         Route::get('/drops-{slug}-edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
         Route::put('/drops-{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
         Route::delete('/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
@@ -58,9 +59,9 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::post('/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
 
         //restore users
-        Route::put('/user/{id}/restore', [UserController::class, 'restore'])->name('user.restore');
+        Route::put('/user/{slug}/restore', [UserController::class, 'restore'])->name('user.restore');
         Route::get('/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
-        Route::delete('/user/{id}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
+        Route::delete('/user/{slug}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
 
         Route::get('/users-orders-{slug}', [OrderController::class, 'showUserOrders'])->where('slug', '[a-zA-Z0-9-]+')->name('user.orders');
         Route::get('/users-ftids-{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
@@ -83,9 +84,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
         Route::get('/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
 
-
         //refs
-        
+        Route::get('/orders-refund', [OrderRefController::class, 'index'])->name('orders.ref');
+        Route::get('/orders/create', [OrderRefController::class, 'create'])->name('orders.create');
+        Route::post('/orders-refund', [OrderRefController::class, 'store'])->name('ordersRef.store');
     });
 
     //perms admin or general

@@ -10,10 +10,10 @@ class Drop extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes','slug'];
+    protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes', 'slug'];
 
     protected $dates = ['expired'];
-    
+
     /**
      * Define o relacionamento com os pedidos (orders).
      */
@@ -38,10 +38,19 @@ class Drop extends Model
     protected static function boot()
     {
         parent::boot();
-        static::saving(function ($drop) {
-            $drop->orders()->update(['status' => $drop->status]);
 
-            $drop->orders()->update(['comments' => $drop->notes]);
+        static::saving(function ($drop) {
+            // Aplica valores padrão se os campos estiverem nulos
+            $drop->notes = $drop->notes ?? 'N/A';
+            $drop->personalnotes = $drop->personalnotes ?? 'N/A';
+            $drop->status = $drop->status ?? 'Default';
+            $drop->type = $drop->type ?? 'All';
+
+            // Atualiza todos os pedidos relacionados com status e notes do drop
+            $drop->orders()->update([
+                'status' => $drop->status,
+                'comments' => $drop->notes
+            ]);
         });
     }
 }
