@@ -172,7 +172,6 @@ class DropController extends Controller
         }
     }
 
-
     private function notifyUsersFollowingDrop($dropId, $drop)
     {
         // Get the users who follow this drop

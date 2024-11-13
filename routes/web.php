@@ -28,8 +28,9 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
         Route::get('/drops', [DropController::class, 'create'])->name('createdrops');
         Route::post('/drops', [DropController::class, 'store'])->name('createdrops.store');
-        Route::get('/drops-{slug}-edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
-        Route::put('/drops-{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
+        Route::get('/drops/{slug}/edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
+        Route::put('/drops/{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
+
         Route::delete('/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
 
         Route::get('/order-status-{slug}-edit', [OrderController::class, 'statusedit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorderstatus.edit');
