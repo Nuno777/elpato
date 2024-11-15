@@ -1,4 +1,4 @@
-<div class="modal fade" id="requestDropModal{{ $drop->id }}" tabindex="-1" role="dialog"
+<div class="modal fade" id="requestDropModal{{ $drop->slug }}" tabindex="-1" role="dialog"
     aria-labelledby="requestDropModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -9,7 +9,7 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form action="{{ route('sendDropRequest', ['id_drop' => $drop->id]) }}" method="POST">
+                <form action="{{ route('sendDropRequest', ['slug' => $drop->slug]) }}" method="POST">
                     @csrf
                     <p>If your drop has <b>problems</b>, you can <b>request a new one</b>, but you have to <b>wait 24
                             hours</b> for it to be <b>approved</b>.

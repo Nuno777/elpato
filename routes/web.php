@@ -120,7 +120,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::delete('/orders/{slug}', [OrderController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('orders.destroy');
 
         Route::get('/message/create', [MessageController::class, 'create'])->name('createmessage');
-        Route::post('/drops-send-request/{id_drop}', [MessageController::class, 'sendRequest'])->name('sendDropRequest');
+        Route::post('/drops-send-request/{slug}', [MessageController::class, 'sendRequest'])->name('sendDropRequest');
     });
 });
 

@@ -212,25 +212,11 @@
                 <div class="row no-gutters ">
                     <div class="col-lg-8 col-xl-9 col-xxl-12">
                         <div class="email-right-column p-4 p-xl-5">
-                            <!-- Email Right Header -->
                             <div class="email-right-header mb-5">
-                                <!-- head left option -->
                                 <div class="head-left-options">
                                     <h1>Your Messages</h1>
                                 </div>
-                                <!-- head right option -->
-                                <div class="head-right-options">
-                                    <div class="btn-group" role="group" aria-label="Basic example">
-                                        <button type="button" class="btn border btn-pill">
-                                            <i class="mdi mdi-chevron-left"></i>
-                                        </button>
-                                        <button type="button" class="btn border btn-pill">
-                                            <i class="mdi mdi-chevron-right"></i>
-                                        </button>
-                                    </div>
-                                </div>
                             </div>
-
                             <div class="border border-top-0 rounded table-responsive email-list">
                                 <table class="table mb-0 table-email">
                                     <tbody>
@@ -242,7 +228,7 @@
 
                                                 <td>
                                                     <a type="button" data-toggle="modal"
-                                                        data-target="#viewmessage{{ $message->id }}"
+                                                        data-target="#viewmessage{{ $message->drop->slug }}"
                                                         class="text-default d-inline-block text-smoke">
                                                         @if ($message->response)
                                                             <span
@@ -268,7 +254,7 @@
                                                 </td>
                                                 <td>
                                                     <a type="button" data-toggle="modal"
-                                                        data-target="#viewmessage{{ $message->id }}"
+                                                        data-target="#viewmessage{{ $message->drop->slug }}"
                                                         class="btn btn-primary">
                                                         <i class="mdi mdi-message-text-outline"></i>
                                                     </a>
@@ -287,7 +273,7 @@
 
             {{-- modal --}}
             @foreach ($messages as $message)
-                <div class="modal fade" id="viewmessage{{ $message->id }}" tabindex="-1" role="dialog"
+                <div class="modal fade" id="viewmessage{{ $message->drop->slug }}" tabindex="-1" role="dialog"
                     aria-labelledby="viewmessageLabel" aria-hidden="true">
 
                     <div class="modal-dialog" role="document">
@@ -300,7 +286,7 @@
                             </div>
                             <div class="modal-body">
                                 <form method="POST" enctype="multipart/form-data" id="responseForm"
-                                    action="{{ route('messages.update', ['message' => $message->id]) }}">
+                                    action="{{ route('messages.update', ['message' => $message->drop->slug]) }}">
 
                                     @csrf
                                     @method('PUT')

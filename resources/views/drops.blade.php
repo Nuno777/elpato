@@ -110,8 +110,7 @@
                                     <td>
                                         @if (auth()->user()->type == 'worker')
                                             @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send' || $drop->status == 'Going to die')
-                                                <button type="button" class="btn btn-danger" data-toggle="modal"
-                                                    data-target="#requestDropModal{{ $drop->id }}">
+                                                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#requestDropModal{{ $drop->slug }}">
                                                     <i class="mdi mdi-autorenew"></i>
                                                 </button>
                                             @endif

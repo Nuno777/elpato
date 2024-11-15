@@ -22,7 +22,7 @@ class PageController extends Controller
     public function dashboard(Drop $drops)
     {
         $user = Auth::user();
-        $messages = $user->messages;
+        $messages = $user->messages()->with('drop')->get(); // Carregar o relacionamento 'drop'
 
         // Contagem de ordens e FTIDs
         $dashboardData = [
@@ -83,6 +83,7 @@ class PageController extends Controller
 
         return view('dashboard', $dashboardData);
     }
+
 
     public function adminpainel(User $users, Order $orders, Ftid $ftid)
     {

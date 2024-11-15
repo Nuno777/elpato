@@ -26,7 +26,7 @@ class MessageController extends Controller
         return view('modal.requestdrop', compact('id_drop'));
     }
 
-    public function sendRequest(Request $request, $id_drop)
+    public function sendRequest(Request $request, $slug)
     {
         // Verificar se o usuário está autenticado
         if (!auth()->check()) {
@@ -34,10 +34,10 @@ class MessageController extends Controller
         }
 
         try {
-            // Verificar se o valor de id_drop é válido
-            $drop = Drop::find($id_drop);
+            // Verificar se o valor de slug é válido
+            $drop = Drop::where('slug', $slug)->first();
             if (!$drop) {
-                return redirect()->back()->with('error', 'Invalid drop: ' . $id_drop);
+                return redirect()->back()->with('error', 'Invalid drop: ' . $slug);
             }
 
             // Validação do campo 'message'
@@ -46,7 +46,7 @@ class MessageController extends Controller
             ]);
 
             // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 20 horas
-            $lastMessage = Message::where('drop_id', $id_drop)
+            $lastMessage = Message::where('drop_id', $drop->id)
                 ->where('user_id', auth()->user()->id)
                 ->latest()
                 ->first();
@@ -60,7 +60,7 @@ class MessageController extends Controller
 
             // Criar uma nova mensagem
             $message = new Message();
-            $message->drop_id = $id_drop;
+            $message->drop_id = $drop->id;
             $message->user_id = auth()->user()->id;
             $message->message = $request->message;
             $message->save();
@@ -71,12 +71,11 @@ class MessageController extends Controller
         }
     }
 
+
     /**
      * Store a newly created resource in storage.
      */
-    public function store(Request $request)
-    {
-    }
+    public function store(Request $request) {}
 
     /**
      * Display the specified resource.
@@ -112,20 +111,15 @@ class MessageController extends Controller
             'response' => 'required',
         ]);
         try {
-            // Obter o usuário associado a essa mensagem
             $user = $message->user;
-            $userName = $user->name; // Nome do usuário que solicitou a drop
+            $userName = $user->name;
 
             $message->update([
                 'response' => $request->response,
             ]);
-
-            // Mensagem de sucesso específica para quando a resposta for "yes"
             if ($request->response === 'yes') {
                 return redirect()->route('drops')->with('success', "Request acceptance of new drop! Give the user $userName a new drop.");
-            }
-            // Mensagem de sucesso específica para quando a resposta for "no"
-            else {
+            } else {
                 return redirect()->back()->with('error', "Request for a new drop has been denied for user $userName.");
             }
         } catch (\Exception $e) {
