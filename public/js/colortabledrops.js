@@ -21,6 +21,10 @@ $(document).ready(function () {
                 backgroundColor = '#FF7059';
                 textColor = 'white';
                 break;
+            case 'Going to die':
+                backgroundColor = '#F8ABEE';
+                textColor = 'black';
+                break;
             default:
                 backgroundColor = '#fff'; // Cor padrão
                 textColor = 'black'; // Cor padrão
@@ -66,6 +70,10 @@ $(document).ready(function () {
             case 'Problem':
                 backgroundColor = '#FF7059';
                 textColor = 'white';
+                break;
+            case 'Going to die':
+                backgroundColor = '#F8ABEE';
+                textColor = 'black';
                 break;
             default:
                 backgroundColor = '#fff'; // Cor padrão

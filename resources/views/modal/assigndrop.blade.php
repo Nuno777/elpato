@@ -17,10 +17,10 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="product">User Worker</label>
-                                <select name="user_id" class="form-control">
+                                <select name="user_slug" class="form-control">
                                     @foreach ($users as $user)
                                         @if ($user->type == 'worker')
-                                            <option value="{{ $user->id }}" required>{{ $user->name }}</option>
+                                            <option value="{{ $user->slug }}" required>{{ $user->name }}</option>
                                         @endif
                                     @endforeach
                                 </select>
@@ -58,7 +58,7 @@
                                 <label for="name">Drop</label>
                                 <select name="drop_id[]" class="form-control" multiple id="drop-list" style="height: 200px;">
                                     @foreach ($drops as $drop)
-                                        <option value="{{ $drop->id }}"
+                                        <option value="{{ $drop->slug }}"
                                             style="background-color:
                                             @if ($drop->status == 'Ready') #85f36e;
                                             @elseif ($drop->status == 'Suspense') #838383;

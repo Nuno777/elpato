@@ -204,7 +204,7 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'You do not have permission to assign drops.');
         }
 
-        $userId = $request->input('user_id');
+        $userSlug = $request->input('user_slug');
         $dropIds = $request->input('drop_id');
 
         // Verifica se pelo menos um drop foi selecionado
@@ -212,10 +212,11 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'Please select at least one drop to assign.');
         }
 
-        $user = User::findOrFail($userId);
+        $user = User::where('slug', $userSlug)->firstOrFail();
+        $drops = Drop::whereIn('slug', $dropIds)->pluck('id')->toArray();
 
         // Usa o sync para adicionar novas drops sem remover as anteriores
-        $user->drops()->syncWithoutDetaching($dropIds);
+        $user->drops()->syncWithoutDetaching($drops);
 
         return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
@@ -262,15 +263,16 @@ class DropController extends Controller
             return redirect()->back()->with('error', 'You do not have permission to remove drops.');
         }
 
-        // Obtém o ID do usuário e da drop do formulário
-        $userId = $request->input('user_id');
-        $user = User::findOrFail($userId);
-        $dropId = $request->input('drop_id');
+        // Obtém o slug do usuário e do drop do formulário
+        $userSlug = $request->input('user_slug');
+        $user = User::where('slug', $userSlug)->firstOrFail();
+        $dropSlug = $request->input('drop_slug');
+        $drop = Drop::where('slug', $dropSlug)->firstOrFail();
 
         // Verifica se a drop associada ao usuário existe
-        if ($user->drops()->where('drops.id', $dropId)->exists()) {
+        if ($user->drops()->where('drops.slug', $drop->slug)->exists()) {
             // Remove a associação entre o usuário e a drop
-            $user->drops()->detach($dropId);
+            $user->drops()->detach($drop->id);
             return redirect()->back()->with('success', 'Drop removed from user successfully.');
         } else {
             return redirect()->back()->with('error', 'Drop is not assigned to this user.');

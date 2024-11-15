@@ -38,7 +38,8 @@
                                 @if ($drop->status == 'Ready') #85f36e;
                                 @elseif ($drop->status == 'Suspense') #838383;
                                 @elseif ($drop->status == 'Dont send') #fff085;
-                                @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                @elseif ($drop->status == 'Problem') #ff9e8e;
+                                @elseif ($drop->status == 'Going to die') #F8ABEE; @endif
                                 color:
                                 @if ($drop->status == 'Suspense') white; @else black; @endif">
                                     <td>{{ $drop->id_drop }}</td>
@@ -86,7 +87,8 @@
                                                             </button>
                                                         </div>
                                                         <div class="modal-body">
-                                                            Are you sure you want to delete this drop? This action cannot be undone.
+                                                            Are you sure you want to delete this drop? This action
+                                                            cannot be undone.
                                                         </div>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn btn-secondary"
@@ -107,7 +109,7 @@
                                     </td>
                                     <td>
                                         @if (auth()->user()->type == 'worker')
-                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send' || $drop->status == 'Going to die')
                                                 <button type="button" class="btn btn-danger" data-toggle="modal"
                                                     data-target="#requestDropModal{{ $drop->id }}">
                                                     <i class="mdi mdi-autorenew"></i>
@@ -118,7 +120,7 @@
 
                                     <td>
                                         @if (auth()->user()->type == 'worker')
-                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send')
+                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send'|| $drop->status == 'Going to die')
                                                 <a tabindex="0" class="btn btn-info" role="button"
                                                     data-toggle="popover" data-trigger="focus"
                                                     title="Problems with the Drop?"

@@ -14,9 +14,11 @@
                     <div class="card-header">
                         <h2>Create User</h2>
                         <div class="sub-title">
-                            <a href="{{ route('createuser') }}" class="badge badge-pill badge-primary"><span
-                                    class="mr-1">Go
-                                    to the Create User</span></a>
+                            <button type="button" class="badge badge-pill badge-primary" data-toggle="modal"
+                                data-target="#createUserModal">
+                                <span class="mr-1">Go to the Create User</span>
+                            </button>
+                            @include('panel.users.createuser')
                         </div>
                     </div>
                     <div class="card-body">
@@ -147,9 +149,11 @@
                                         Product</th>
                                     <th style="color: white" scope="col" style="width: 10%" class="sorting_disabled">
                                         Status</th>
-                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 15%"
+                                        class="sorting_disabled">
                                         Notes</th>
-                                    <th style="color: white" scope="col" style="width: 15%" class="sorting_disabled">
+                                    <th style="color: white" scope="col" style="width: 15%"
+                                        class="sorting_disabled">
                                         created Drop</th>
                                 </tr>
                             </thead>

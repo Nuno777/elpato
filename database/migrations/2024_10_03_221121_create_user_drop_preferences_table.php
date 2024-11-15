@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->bigInteger('chat_id')->index(); // ID do chat no Telegram
             $table->string('drop_ids'); // IDs das drops seguidas pelo utilizador, separados por vírgulas
+            $table->string('username');
             $table->timestamps(); // Criado em e atualizado em
         });
     }

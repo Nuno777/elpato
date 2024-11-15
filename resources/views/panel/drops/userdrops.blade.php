@@ -37,7 +37,8 @@
                                         @if ($drop->status == 'Ready') #85f36e;
                                         @elseif ($drop->status == 'Suspense') #838383;
                                         @elseif ($drop->status == 'Dont send') #fff085;
-                                        @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                        @elseif ($drop->status == 'Problem') #ff9e8e;
+                                        @elseif ($drop->status == 'Going to die') #F8ABEE; @endif
                                         color:
                                         @if ($drop->status == 'Suspense') white; @else black; @endif">
                                         <td>{{ $drop->id_drop }}</td>
@@ -53,8 +54,8 @@
                                             <form action="{{ route('remove.drop.worker') }}" method="POST"
                                                 onsubmit="return confirm('Remove Drop from User?');">
                                                 @csrf
-                                                <input type="hidden" name="user_id" value="{{ $user->id }}">
-                                                <input type="hidden" name="drop_id" value="{{ $drop->id }}">
+                                                <input type="hidden" name="user_slug" value="{{ $user->slug }}">
+                                                <input type="hidden" name="drop_slug" value="{{ $drop->slug }}">
                                                 <button type="submit" class="btn btn-danger"><i
                                                         class="mdi mdi-trash-can" data-toggle="tooltip"></i></button>
                                             </form>
@@ -170,7 +171,8 @@
 
             {{-- modal --}}
             @foreach ($messages as $message)
-            <div class="modal fade" id="viewmessage{{ $message->drop->id }}" tabindex="-1" role="dialog" aria-labelledby="viewmessageLabel" aria-hidden="true">
+                <div class="modal fade" id="viewmessage{{ $message->drop->id }}" tabindex="-1" role="dialog"
+                    aria-labelledby="viewmessageLabel" aria-hidden="true">
 
                     <div class="modal-dialog" role="document">
                         <div class="modal-content">

@@ -88,6 +88,10 @@
                                                 {{ $drop->status == 'Dont send' ? 'selected' : '' }}>Dont send</option>
                                             <option value="Suspense" style="background-color: #424945; color: white;"
                                                 {{ $drop->status == 'Suspense' ? 'selected' : '' }}>Suspense</option>
+                                            <option value="Going to die"
+                                                style="background-color: #F8ABEE; color: black;"
+                                                {{ $drop->status == 'Going to die' ? 'selected' : '' }}>Going to die
+                                            </option>
                                         </select>
                                     </div>
                                 </div>
