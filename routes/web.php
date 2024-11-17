@@ -42,7 +42,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         //restore order
         Route::put('/orders/{id}/restore', [OrderController::class, 'restore'])->name('orders.restore');
         Route::get('/orders-softdeleted', [OrderController::class, 'allShowDeleted'])->name('orders.deleted');
-        Route::delete('/orders/{id}/force-delete', [OrderController::class, 'forceDelete'])->name('orders.forceDelete');
+        Route::delete('/orders/{slug}/force-delete', [OrderController::class, 'forceDelete'])->where('slug', '[a-zA-Z0-9-]+')->name('orders.forceDelete');
 
         Route::get('/all-ftid', [ftidController::class, 'allshow'])->name('ftid.all');
         Route::get('/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');

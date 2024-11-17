@@ -10,6 +10,8 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Str;
+
 
 class UserController extends Controller
 {
@@ -178,16 +180,36 @@ class UserController extends Controller
     public function setDefaultPassword($slug)
     {
         try {
-            $defaultPassword = '3fFh@p8J0QJ74#';
+            // Gerar uma senha aleatória
+            $defaultPassword = Str::random(12); // Gera 12 caracteres
+            $defaultPassword = preg_replace('/([a-zA-Z0-9])/', '$1!', $defaultPassword, 2); // Adiciona caracteres especiais
+
+            // Buscar o usuário
             $user = User::where('slug', $slug)->firstOrFail();
+
+            // Atualizar a senha
             $user->password = bcrypt($defaultPassword);
             $user->save();
-            Log::channel('user')->warning("User set default password for " . $user->name . ", did the action, " . Auth::user()->name);
-            return redirect()->back()->with('success', 'Default password set successfully for the selected user!');
+
+            // Logar a ação
+            Log::channel('user')->warning("Default password reset for user {$user->name} by admin " . Auth::user()->name);
+
+            // Retornar sucesso
+            return response()->json([
+                'success' => true,
+                'message' => 'Default password set successfully!',
+                'password' => $defaultPassword,
+            ]);
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while setting default password. Please try again.');
+            Log::error('Error setting default password: ' . $e->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => 'An error occurred while setting the default password.',
+            ]);
         }
     }
+
 
     /**
      * Display the specified resource.
@@ -348,15 +370,28 @@ class UserController extends Controller
     }
 
 
-    public function forceDelete(User $user, $id)
+    public function forceDelete(Request $request, $slug)
     {
+        $request->validate([
+            'confirmation_text' => ['required', 'string', 'regex:/^delete\-.+/']
+        ]);
+
         try {
-            $user = User::withTrashed()->findOrFail($id);
+            $user = User::withTrashed()->where('slug', $slug)->firstOrFail();
+
+            // Verifica se o texto corresponde ao esperado
+            $expectedText = 'delete-' . $user->name;
+            if ($request->confirmation_text !== $expectedText) {
+                return redirect()->back()->with('error', 'Confirmation text does not match.');
+            }
+
             $user->forceDelete();
+
             Log::channel('user')->warning("User permanently deleted by " . Auth::user()->name . " - User: " . $user->name);
+
             return redirect()->route('user.deleted')->with('success', 'User permanently deleted successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while force delete the User. Please try again.');
+            return redirect()->back()->with('error', 'An error occurred while force deleting the User. Please try again.');
         }
     }
 }

@@ -72,34 +72,44 @@
                                             <div class="modal-content">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title"
-                                                        id="forceDeleteUserModalLabel{{ $user->id }}">Permanently
-                                                        delete the user</h5>
+                                                        id="forceDeleteUserModalLabel{{ $user->id }}">
+                                                        Permanently delete the user
+                                                    </h5>
                                                     <button type="button" class="close" data-dismiss="modal"
                                                         aria-label="Close">
                                                         <span aria-hidden="true">&times;</span>
                                                     </button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    Are you sure you want to delete this user permanently? This action
-                                                    cannot be undone.
+                                                    <p>To confirm the permanent deletion of this user, type:</p>
+                                                    <p><strong>delete-{{ $user->name }}</strong></p>
+                                                    <br>
+                                                    <input type="text" id="deleteInput{{ $user->id }}"
+                                                        class="form-control" placeholder="Type here to confirm"
+                                                        oninput="validateInput({{ $user->id }}, '{{ $user->name }}')">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary"
                                                         data-dismiss="modal">Cancel</button>
                                                     <form role="form"
-                                                        action="{{ route('user.forceDelete', $user->id) }}"
+                                                        action="{{ route('user.forceDelete', $user->slug) }}"
                                                         method="POST">
                                                         @csrf
                                                         @method('DELETE')
-                                                        <button type="submit" class="btn btn-danger">Permanently
-                                                            delete</button>
+                                                        <input type="hidden" name="confirmation_text"
+                                                            id="confirmationText{{ $user->id }}">
+                                                        <button type="submit" id="deleteButton{{ $user->id }}"
+                                                            class="btn btn-danger" disabled>
+                                                            Permanently delete
+                                                        </button>
                                                     </form>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-
                                 </td>
+
+
                             </tr>
                         @endforeach
                     </tbody>
@@ -111,3 +121,7 @@
 </div>
 
 @endsection
+
+@push('scripts')
+<script src="{{ asset('js/user/deleteinput.js') }}"></script>
+@endpush

@@ -4,7 +4,7 @@
 
 @section('content')
 @section('page-title', 'All Users')
-
+<meta class="hidden" name="csrf-token" content="{{ csrf_token() }}">
 <div class="content-wrapper">
     <div class="content">
         <div class="card card-default">
@@ -117,14 +117,50 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <form action="{{ route('user.setDefaultPassword', trim($user->slug)) }}"
-                                            role="form" method="POST"
-                                            onsubmit="return confirm('Change Password for this user?');">
-                                            @csrf
-                                            <button type="submit" class="btn btn-dark">
-                                                <i class="mdi mdi-key" data-toggle="tooltip"></i>
-                                            </button>
-                                        </form>
+                                        <!-- Botão para abrir o modal -->
+                                        <button type="button" class="btn btn-dark" data-toggle="modal"
+                                            data-target="#resetPasswordModal{{ $user->slug }}">
+                                            <i class="mdi mdi-key" data-toggle="tooltip"></i>
+                                        </button>
+
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="resetPasswordModal{{ $user->slug }}"
+                                            tabindex="-1" role="dialog"
+                                            aria-labelledby="resetPasswordModalLabel{{ $user->slug }}"
+                                            aria-hidden="true">
+                                            <div class="modal-dialog" role="document">
+                                                <div class="modal-content">
+                                                    <!-- Cabeçalho do Modal -->
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title"
+                                                            id="resetPasswordModalLabel{{ $user->slug }}">
+                                                            Password Change
+                                                        </h5>
+                                                        <button type="button" class="close" data-dismiss="modal"
+                                                            aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+                                                    <!-- Corpo do Modal -->
+                                                    <div class="modal-body">
+                                                        <p>Are you sure you want to reset this user's password? This
+                                                            will assign a new default password.</p><br>
+                                                        <p><strong>New Password:</strong> <span
+                                                                id="generatedPassword{{ $user->slug }}">-----</span>
+                                                        </p>
+                                                    </div>
+                                                    <!-- Rodapé do Modal -->
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-secondary"
+                                                            data-dismiss="modal">Cancel</button>
+                                                        <button type="button" class="btn btn-dark"
+                                                            onclick="resetPassword('{{ route('user.setDefaultPassword', $user->slug) }}', '{{ $user->slug }}')">
+                                                            Reset password
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
@@ -143,8 +179,8 @@
                                                             <h5 class="modal-title"
                                                                 id="deleteUserModalLabel{{ $user->slug }}">Delete
                                                                 User</h5>
-                                                            <button type="button" class="close" data-dismiss="modal"
-                                                                aria-label="Close">
+                                                            <button type="button" class="close"
+                                                                data-dismiss="modal" aria-label="Close">
                                                                 <span aria-hidden="true">&times;</span>
                                                             </button>
                                                         </div>
@@ -177,7 +213,8 @@
                 <br>
                 @if (auth()->check() && auth()->user()->type == 'admin')
                     <div>
-                        <button class="btn btn-primary" data-toggle="modal" data-target="#createUserModal">Create User</button>
+                        <button class="btn btn-primary" data-toggle="modal" data-target="#createUserModal">Create
+                            User</button>
 
                         @include('panel.users.createuser')
 
@@ -192,3 +229,6 @@
 </div>
 
 @endsection
+@push('scripts')
+<script src="{{ asset('js/user/generatePass.js') }}"></script>
+@endpush
