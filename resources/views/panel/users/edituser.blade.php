@@ -98,15 +98,13 @@
 
                                 <div class="col-5">
                                     <div class="form-group">
-                                        <label for="blocked">Blocked</label>
-                                        @if (auth()->user()->id != $user->id && auth()->user()->type === 'admin' && $user->type === 'admin')
-                                            <div class="col-6">
+                                        <div class="col-5">
+                                            <label for="blocked">Blocked</label>
+                                            @if (auth()->user()->id != $user->id && auth()->user()->type === 'admin' && $user->type === 'admin')
                                                 <input type="text" name="blocked" class="form-control"
                                                     value="{{ $user->blocked == 1 ? 'Unblocked' : 'Blocked' }}"
                                                     readonly disabled>
-                                            </div>
-                                        @else
-                                            <div class="col-6">
+                                            @else
                                                 <select name="blocked" id="blocked" class="form-control" required
                                                     {{ auth()->user()->id === $user->id && auth()->user()->type === 'admin' ? 'disabled' : '' }}>
                                                     <option value="0"
@@ -118,8 +116,8 @@
                                                         Unblocked
                                                     </option>
                                                 </select>
-                                            </div>
-                                        @endif
+                                            @endif
+                                        </div>
                                     </div>
                                 </div>
 
@@ -128,8 +126,7 @@
 
                         <div class="col-3">
                             <div class="form-group">
-                                <label for="email_verified_at">Create Check</label>
-                                <input type="text" name="email_verified_at" class="form-control"
+                                <input type="hidden" name="email_verified_at" class="form-control"
                                     value="{{ old('email_verified_at') ?? $user->email_verified_at }}"
                                     placeholder="Create Check" readonly required>
                             </div>

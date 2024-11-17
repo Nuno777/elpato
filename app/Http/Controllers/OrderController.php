@@ -295,18 +295,27 @@ class OrderController extends Controller
     }
 
 
-    public function restore($id)
+    public function restore(Request $request, $slug)
     {
+        $request->validate([
+            'confirmation_text' => ['required', 'string', 'regex:/^restore\-.+/']
+        ]);
+
         try {
-            $order = Order::withTrashed()->findOrFail($id);
+            $order = Order::withTrashed()->where('slug', $slug)->firstOrFail();
+
+            $expectedText = 'restore-' . $order->id_drop;
+            if ($request->confirmation_text !== $expectedText) {
+                return redirect()->back()->with('error', 'Confirmation text does not match.');
+            }
             $order->restore();
             Log::channel('order')->info("Order restored by user " . Auth::user()->name . " - Order ID: " . $order->id_drop);
+
             return redirect()->route('orders.all')->with('success', 'Order restored successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while restore the Order. Please try again.'); // Mensagem de erro
+            return redirect()->back()->with('error', 'An error occurred while restoring the Order. Please try again.');
         }
-    }
-
+    }   
 
     public function forceDelete(Request $request, $slug)
     {

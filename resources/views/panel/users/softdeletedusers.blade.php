@@ -49,30 +49,64 @@
                                         {{ $user->blocked }}
                                     @endif
                                 </td>
-                                <td>
-                                    <form action="{{ route('user.restore', $user->id) }}" method="POST"
-                                        onsubmit="return confirm('Restore user?');">
-                                        @csrf
-                                        @method('PUT')
-                                        <button type="submit" class="btn btn-success">
-                                            <i class="mdi mdi-restore" data-toggle="tooltip"></i>
-                                        </button>
-                                    </form>
-                                </td>
-
-                                <td>
-                                    <button type="button" class="btn btn-danger" data-toggle="modal"
-                                        data-target="#forceDeleteUserModal{{ $user->id }}">
-                                        <i class="mdi mdi-delete-forever" data-toggle="tooltip"></i>
+                                <td style="width: 7%" class="sorting_disabled">
+                                    <button type="button" class="btn btn-success" data-toggle="modal"
+                                        data-target="#restoreUserModal{{ $user->slug }}">
+                                        <i class="mdi mdi-restore" data-toggle="tooltip"></i>
                                     </button>
-                                    <div class="modal fade" id="forceDeleteUserModal{{ $user->id }}" tabindex="-1"
-                                        role="dialog" aria-labelledby="forceDeleteUserModalLabel{{ $user->id }}"
+                                    <div class="modal fade" id="restoreUserModal{{ $user->slug }}" tabindex="-1"
+                                        role="dialog" aria-labelledby="restoreUserModalLabel{{ $user->slug }}"
                                         aria-hidden="true">
                                         <div class="modal-dialog" role="document">
                                             <div class="modal-content">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title"
-                                                        id="forceDeleteUserModalLabel{{ $user->id }}">
+                                                        id="restoreUserModalLabel{{ $user->slug }}">Restore User</h5>
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <p>To confirm the restoration of this user, type:</p>
+                                                    <p><strong>restore-{{ $user->name }}</strong></p>
+                                                    <br>
+                                                    <input type="text" id="restoreInput{{ $user->slug }}"
+                                                        class="form-control" placeholder="Type here to confirm"
+                                                        oninput="validateRestoreInput('{{ $user->slug }}', '{{ $user->name }}')">
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary"
+                                                        data-dismiss="modal">Cancel</button>
+                                                    <form action="{{ route('user.restore', trim($user->slug)) }}"
+                                                        method="POST">
+                                                        @csrf
+                                                        @method('PUT')
+                                                        <input type="hidden" name="confirmation_text"
+                                                            id="confirmationText{{ $user->slug }}">
+                                                        <button type="submit" id="restoreButton{{ $user->slug }}"
+                                                            class="btn btn-success" disabled>Restore</button>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+
+
+                                <td style="width: 7%" class="sorting_disabled">
+                                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                                        data-target="#forceDeleteUserModal{{ $user->slug }}">
+                                        <i class="mdi mdi-delete-forever" data-toggle="tooltip"></i>
+                                    </button>
+                                    <div class="modal fade" id="forceDeleteUserModal{{ $user->slug }}" tabindex="-1"
+                                        role="dialog" aria-labelledby="forceDeleteUserModalLabel{{ $user->slug }}"
+                                        aria-hidden="true">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title"
+                                                        id="forceDeleteUserModalLabel{{ $user->slug }}">
                                                         Permanently delete the user
                                                     </h5>
                                                     <button type="button" class="close" data-dismiss="modal"
@@ -84,9 +118,9 @@
                                                     <p>To confirm the permanent deletion of this user, type:</p>
                                                     <p><strong>delete-{{ $user->name }}</strong></p>
                                                     <br>
-                                                    <input type="text" id="deleteInput{{ $user->id }}"
+                                                    <input type="text" id="deleteInput{{ $user->slug }}"
                                                         class="form-control" placeholder="Type here to confirm"
-                                                        oninput="validateInput({{ $user->id }}, '{{ $user->name }}')">
+                                                        oninput="validateInput('{{ $user->slug }}', '{{ $user->name }}')">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary"
@@ -97,8 +131,8 @@
                                                         @csrf
                                                         @method('DELETE')
                                                         <input type="hidden" name="confirmation_text"
-                                                            id="confirmationText{{ $user->id }}">
-                                                        <button type="submit" id="deleteButton{{ $user->id }}"
+                                                            id="confirmationText{{ $user->slug }}">
+                                                        <button type="submit" id="deleteButton{{ $user->slug }}"
                                                             class="btn btn-danger" disabled>
                                                             Permanently delete
                                                         </button>
@@ -108,7 +142,6 @@
                                         </div>
                                     </div>
                                 </td>
-
 
                             </tr>
                         @endforeach

@@ -357,17 +357,27 @@ class UserController extends Controller
     }
 
 
-    public function restore(User $user, $id)
+    public function restore(Request $request, $slug)
     {
+        $request->validate([
+            'confirmation_text' => ['required', 'string', 'regex:/^restore\-.+/']
+        ]);
+
         try {
-            $user = User::withTrashed()->findOrFail($id);
+            $user = User::withTrashed()->where('slug', $slug)->firstOrFail();
+
+            $expectedText = 'restore-' . $user->name;
+            if ($request->confirmation_text !== $expectedText) {
+                return redirect()->back()->with('error', 'Confirmation text does not match.');
+            }
             $user->restore();
             Log::channel('user')->info("User restored by " . Auth::user()->name . " - User: " . $user->name);
             return redirect()->route('user.all')->with('success', 'User restored successfully!');
         } catch (\Exception $e) {
-            return redirect()->back()->with('error', 'An error occurred while restore the User. Please try again.');
+            return redirect()->back()->with('error', 'An error occurred while restoring the User. Please try again.');
         }
     }
+
 
 
     public function forceDelete(Request $request, $slug)
@@ -378,8 +388,6 @@ class UserController extends Controller
 
         try {
             $user = User::withTrashed()->where('slug', $slug)->firstOrFail();
-
-            // Verifica se o texto corresponde ao esperado
             $expectedText = 'delete-' . $user->name;
             if ($request->confirmation_text !== $expectedText) {
                 return redirect()->back()->with('error', 'Confirmation text does not match.');

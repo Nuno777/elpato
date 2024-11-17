@@ -12,3 +12,19 @@ function validateInput(orderId, idDrop) {
         hiddenInput.value = '';
     }
 }
+
+function validateRestoreOrderInput(slug, id_drop) {
+    const input = document.getElementById('restoreOrderInput' + slug);
+    const button = document.getElementById('restoreOrderButton' + slug);
+    const confirmationText = document.getElementById('confirmationOrderText' + slug);
+
+    const expectedText = 'restore-' + id_drop;
+
+    if (input.value === expectedText) {
+        button.disabled = false;
+        confirmationText.value = input.value;
+    } else {
+        button.disabled = true;
+        confirmationText.value = '';
+    }
+}

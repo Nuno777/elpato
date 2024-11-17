@@ -39,15 +39,50 @@
                                 <td>{{ $order->code }}</td>
                                 <td>{{ $order->status }}</td>
                                 <td>{{ $order->comments }}</td>
-                                <td>
-                                    <form action="{{ route('orders.restore', $order->id) }}" method="POST"
-                                        onsubmit="return confirm('Restore order?');">
-                                        @csrf
-                                        @method('PUT')
-                                        <button type="submit" class="btn btn-success">
-                                            <i class="mdi mdi-restore" data-toggle="tooltip"></i>
-                                        </button>
-                                    </form>
+                                <td style="width: 7%" class="sorting_disabled">
+                                    <button type="button" class="btn btn-success" data-toggle="modal"
+                                        data-target="#restoreOrderModal{{ $order->slug }}">
+                                        <i class="mdi mdi-restore" data-toggle="tooltip"></i>
+                                    </button>
+                                    <div class="modal fade" id="restoreOrderModal{{ $order->slug }}" tabindex="-1"
+                                        role="dialog" aria-labelledby="restoreOrderModalLabel{{ $order->slug }}"
+                                        aria-hidden="true">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title"
+                                                        id="restoreOrderModalLabel{{ $order->slug }}">Confirm order
+                                                        restoration</h5>
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <p>To confirm the restoration of this order, type:</p>
+                                                    <p><strong>restore-{{ $order->id_drop }}</strong></p>
+                                                    <br>
+                                                    <input type="text" id="restoreOrderInput{{ $order->slug }}"
+                                                        class="form-control" placeholder="Type here to confirm"
+                                                        oninput="validateRestoreOrderInput('{{ $order->slug }}', '{{ $order->id_drop }}')">
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary"
+                                                        data-dismiss="modal">Cancel</button>
+                                                    <form action="{{ route('orders.restore', trim($order->slug)) }}"
+                                                        method="POST">
+                                                        @csrf
+                                                        @method('PUT')
+                                                        <input type="hidden" name="confirmation_text"
+                                                            id="confirmationOrderText{{ $order->slug }}">
+                                                        <button type="submit"
+                                                            id="restoreOrderButton{{ $order->slug }}"
+                                                            class="btn btn-success" disabled>Restore order</button>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </td>
 
                                 <td>
