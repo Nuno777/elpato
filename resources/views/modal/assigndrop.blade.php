@@ -63,7 +63,8 @@
                                             @if ($drop->status == 'Ready') #85f36e;
                                             @elseif ($drop->status == 'Suspense') #838383;
                                             @elseif ($drop->status == 'Dont send') #fff085;
-                                            @elseif ($drop->status == 'Problem') #ff9e8e; @endif
+                                            @elseif ($drop->status == 'Problem') #ff9e8e;
+                                            @elseif ($drop->status == 'Going to die') #F8ABEE; @endif
                                             color:
                                             @if ($drop->status == 'Suspense') white; @else black; @endif">
                                             {{ $drop->id_drop }} ({{ $drop->type }})

@@ -22,31 +22,25 @@
                     </div>
                     <form id="login-form" method="POST" action="{{ route('login') }}">
                         @csrf
-                        <!-- Campo de Email -->
+
                         <div class="form-group mb-3">
                             <label class="label" for="email">{{ __('Email') }}</label>
                             <input id="email" type="text" class="form-control" name="email"
                                 value="{{ old('email') }}" required autofocus>
-
-                            <!-- Exibição do erro de Email -->
                             @error('email')
                                 <span class="error-message">{{ $message }}</span>
                             @enderror
                         </div>
 
-                        <!-- Campo de Senha com ícone de exibir/ocultar dentro do input -->
                         <div class="form-group mb-3 position-relative">
                             <label class="label" for="password">{{ __('Password') }}</label>
                             <input id="password" type="password" class="form-control" name="password" required>
                             <span toggle="#password" class="fa fa-fw fa-eye field-icon toggle-password"></span>
-
-                            <!-- Exibição do erro de Senha -->
                             @error('password')
                                 <span class="error-message">{{ $message }}</span>
                             @enderror
                         </div>
-                        
-                        <!-- Remember Me -->
+
                         <div class="form-group d-md-flex">
                             <div class="w-50 text-left">
                                 <label class="checkbox-wrap checkbox-primary mb-0">{{ __('Remember Me') }}
@@ -56,7 +50,6 @@
                             </div>
                         </div>
 
-                        <!-- Login Button -->
                         <div class="form-group">
                             <button type="submit" class="form-control btn btn-primary rounded submit px-3">
                                 {{ __('Login') }}
@@ -75,3 +68,48 @@
 
 
 @endsection
+
+
+{{-- <form id="login-form" method="POST" action="{{ route('login') }}" autocomplete="off">
+    @csrf
+    <div class="form-group mb-3">
+        <label class="label" for="email">{{ __('Email') }}</label>
+        <input id="email" type="text" class="form-control" name="email"
+            value="{{ old('email') }}" required autofocus autocomplete="off">
+        @error('email')
+            <span class="error-message">{{ $message }}</span>
+        @enderror
+    </div>
+
+    <div class="form-group mb-3 position-relative">
+        <label class="label" for="password">{{ __('Password') }}</label>
+        <input id="password" type="password" class="form-control" name="password" required autocomplete="off">
+        <span toggle="#password" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+        @error('password')
+            <span class="error-message">{{ $message }}</span>
+        @enderror
+    </div>
+
+    {!! NoCaptcha::renderJs() !!}
+    {!! NoCaptcha::display() !!}
+    @error('g-recaptcha-response')
+        <span class="error-message">{{ $message }}</span>
+    @enderror
+    <br>
+
+    <div class="form-group d-md-flex">
+        <div class="w-50 text-left">
+            <label class="checkbox-wrap checkbox-primary mb-0">{{ __('Remember Me') }}
+                <input id="remember_me" type="checkbox" name="remember">
+                <span class="checkmark"></span>
+            </label>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="form-control btn btn-primary rounded submit px-3">
+            {{ __('Login') }}
+        </button>
+    </div>
+</form>
+ --}}

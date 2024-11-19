@@ -27,6 +27,7 @@ class AuthenticatedSessionController extends Controller
     public function store(LoginRequest $request): RedirectResponse
     {
         $credentials = $request->only('email', 'password');
+        $remember = $request->has('remember');
         $user = User::where('email', $credentials['email'])->first();
 
         // Verificar se o usuário está bloqueado
@@ -37,7 +38,7 @@ class AuthenticatedSessionController extends Controller
         }
 
         // Tentar autenticar
-        if (Auth::attempt($credentials)) {
+        if (Auth::attempt($credentials, $remember)) {
             $request->session()->regenerate();
             return redirect()->intended(RouteServiceProvider::HOME);
         }
