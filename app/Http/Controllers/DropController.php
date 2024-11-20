@@ -8,6 +8,7 @@ use App\Models\Drop;
 use App\Models\User;
 use Telegram\Bot\Api;
 use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Auth;
 
 
 class DropController extends Controller
@@ -84,22 +85,17 @@ class DropController extends Controller
         }
     }
 
-    // Função personalizada para gerar slug complexo
     private function generateComplexSlug()
     {
-        // Define os caracteres permitidos no slug, incluindo números e letras
         $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-        // Define o meio do slug com letras e números aleatórios (pode ter mais ou menos caracteres)
         $middlePart = substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
             substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
             substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 2);
 
-        // Gera uma parte aleatória do slug com letras e números
-        $randomPart = substr(str_shuffle($characters), 0, 10); // 10 caracteres aleatórios
+        $randomPart = substr(str_shuffle($characters), 0, 10);
         $randomPartend = substr(str_shuffle($characters), 0, 10);
 
-        // Cria o slug final com o nome, o meio e a parte aleatória
         return $randomPart . '-' . $middlePart . '-' . $randomPartend;
     }
 
@@ -283,12 +279,21 @@ class DropController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy($slug)
+    public function destroy(Request $request, $slug)
     {
+        $request->validate([
+            'confirmation_text' => ['required', 'string', 'regex:/^delete\-\d+$/']
+        ]);
+
         try {
             $drop = Drop::where('slug', $slug)->firstOrFail();
-            $drop->delete();
+            $expectedText = 'delete-' . $drop->id_drop;
 
+            if ($request->confirmation_text !== $expectedText) {
+                return redirect()->back()->with('error', 'Confirmation text does not match.');
+            }
+
+            $drop->delete();
             return redirect()->route('drops')->with('success', 'Drop successfully deleted!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while deleting the Drop. Please try again.');

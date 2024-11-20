@@ -315,7 +315,7 @@ class OrderController extends Controller
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while restoring the Order. Please try again.');
         }
-    }   
+    }
 
     public function forceDelete(Request $request, $slug)
     {
@@ -324,21 +324,15 @@ class OrderController extends Controller
         ]);
 
         try {
-            // Busca a ordem (order) com base no slug e incluindo as deletadas (soft deleted)
             $order = Order::withTrashed()->where('slug', $slug)->firstOrFail();
 
-            // O texto esperado para confirmação é 'delete-' seguido do 'id_drop' da ordem
             $expectedText = 'delete-' . $order->id_drop;
 
-            // Verifica se o texto de confirmação está correto
             if ($request->confirmation_text !== $expectedText) {
                 return redirect()->back()->with('error', 'Confirmation text does not match.');
             }
 
-            // Realiza a exclusão permanente da ordem
             $order->forceDelete();
-
-            // Registra o evento no log
             Log::channel('order')->critical("Order permanently deleted by admin " . Auth::user()->name . " - Order ID: " . $order->id_drop);
 
             // Retorna sucesso

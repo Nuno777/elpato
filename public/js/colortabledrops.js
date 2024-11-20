@@ -85,3 +85,16 @@ $(document).ready(function () {
     })
         .change(); // Este gatilho faz com que a função de mudança seja chamada imediatamente após a página ser carregada.
 });
+
+function validateInput(slug, id_drop) {
+    const input = document.getElementById(`deleteInput${slug}`);
+    const confirmationText = document.getElementById(`confirmationText${slug}`);
+    const deleteButton = document.getElementById(`deleteButton${slug}`);
+
+    if (input.value === `delete-${id_drop}`) {
+        confirmationText.value = input.value;
+        deleteButton.disabled = false;
+    } else {
+        deleteButton.disabled = true;
+    }
+}

@@ -88,7 +88,7 @@
 
                                     @if (auth()->check())
                                         <td style="width: 5%" class="sorting_disabled">
-                                            <button class="btn btn-primary" type="button" data-toggle="modal"
+                                            <button class="btn btn-main" type="button" data-toggle="modal"
                                                 data-target="#showorder{{ $order->slug }}"> <i
                                                     class="mdi mdi-message-text-outline"></i>
                                             </button>

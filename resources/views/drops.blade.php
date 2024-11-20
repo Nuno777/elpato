@@ -53,7 +53,7 @@
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
                                         @if ($drop->status == 'Ready')
-                                            <button type="button" class="btn btn-primary" data-toggle="modal"
+                                            <button type="button" class="btn btn-main" data-toggle="modal"
                                                 data-target="#createorder{{ $drop->id_drop }} ">
                                                 <i class="mdi mdi-package-variant "></i>
                                             </button>
@@ -71,15 +71,17 @@
                                     <td>
                                         @if (auth()->check() && auth()->user()->type == 'admin')
                                             <button type="button" class="btn btn-danger" data-toggle="modal"
-                                                data-target="#deleteModal">
+                                                data-target="#deleteModal{{ $drop->slug }}">
                                                 <i class="mdi mdi-trash-can" data-toggle="tooltip"></i>
                                             </button>
-                                            <div class="modal fade" id="deleteModal" tabindex="-1" role="dialog"
-                                                aria-labelledby="deleteModalLabel" aria-hidden="true">
+                                            <div class="modal fade" id="deleteModal{{ $drop->slug }}" tabindex="-1"
+                                                role="dialog" aria-labelledby="deleteModalLabel{{ $drop->slug }}"
+                                                aria-hidden="true">
                                                 <div class="modal-dialog" role="document">
                                                     <div class="modal-content">
                                                         <div class="modal-header">
-                                                            <h5 class="modal-title" id="deleteModalLabel">Delete Drop
+                                                            <h5 class="modal-title"
+                                                                id="deleteModalLabel{{ $drop->slug }}">Delete Drop
                                                             </h5>
                                                             <button type="button" class="close" data-dismiss="modal"
                                                                 aria-label="Close">
@@ -87,8 +89,12 @@
                                                             </button>
                                                         </div>
                                                         <div class="modal-body">
-                                                            Are you sure you want to delete this drop? This action
-                                                            cannot be undone.
+                                                            <p>To confirm the deletion of this drop, type:</p>
+                                                            <p><strong>delete-{{ $drop->id_drop }}</strong></p>
+                                                            <br>
+                                                            <input type="text" id="deleteInput{{ $drop->slug }}"
+                                                                class="form-control" placeholder="Type here to confirm"
+                                                                oninput="validateInput('{{ $drop->slug }}', '{{ $drop->id_drop }}')">
                                                         </div>
                                                         <div class="modal-footer">
                                                             <button type="button" class="btn btn-secondary"
@@ -98,8 +104,13 @@
                                                                 method="POST">
                                                                 @csrf
                                                                 @method('DELETE')
+                                                                <input type="hidden" name="confirmation_text"
+                                                                    id="confirmationText{{ $drop->slug }}">
                                                                 <button type="submit"
-                                                                    class="btn btn-danger">Delete</button>
+                                                                    id="deleteButton{{ $drop->slug }}"
+                                                                    class="btn btn-danger" disabled>
+                                                                    Delete
+                                                                </button>
                                                             </form>
                                                         </div>
                                                     </div>
@@ -107,10 +118,16 @@
                                             </div>
                                         @endif
                                     </td>
+
                                     <td>
                                         @if (auth()->user()->type == 'worker')
-                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send' || $drop->status == 'Going to die')
-                                                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#requestDropModal{{ $drop->slug }}">
+                                            @if (
+                                                $drop->status == 'Problem' ||
+                                                    $drop->status == 'Suspense' ||
+                                                    $drop->status == 'Dont send' ||
+                                                    $drop->status == 'Going to die')
+                                                <button type="button" class="btn btn-danger" data-toggle="modal"
+                                                    data-target="#requestDropModal{{ $drop->slug }}">
                                                     <i class="mdi mdi-autorenew"></i>
                                                 </button>
                                             @endif
@@ -119,7 +136,11 @@
 
                                     <td>
                                         @if (auth()->user()->type == 'worker')
-                                            @if ($drop->status == 'Problem' || $drop->status == 'Suspense' || $drop->status == 'Dont send'|| $drop->status == 'Going to die')
+                                            @if (
+                                                $drop->status == 'Problem' ||
+                                                    $drop->status == 'Suspense' ||
+                                                    $drop->status == 'Dont send' ||
+                                                    $drop->status == 'Going to die')
                                                 <a tabindex="0" class="btn btn-info" role="button"
                                                     data-toggle="popover" data-trigger="focus"
                                                     title="Problems with the Drop?"
