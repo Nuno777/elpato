@@ -207,61 +207,64 @@
             </div>
         @endif
 
-        @if ($messages->isNotEmpty())
+        @if ($messages->isNotEmpty() && $messages->where('user_id', auth()->user()->id)->isNotEmpty())
+            <!-- Verifica se o usuário logado tem mensagens -->
             <div class="email-wrapper rounded border bg-white">
-                <div class="row no-gutters ">
+                <div class="row no-gutters">
                     <div class="col-lg-8 col-xl-9 col-xxl-12">
                         <div class="email-right-column p-4 p-xl-5">
                             <div class="email-right-header mb-5">
                                 <div class="head-left-options">
-                                    <h1>Your Messages</h1>
+                                    <h1>Your Messages</h1> <!-- Só exibe este título se o usuário tiver mensagens -->
                                 </div>
                             </div>
                             <div class="border border-top-0 rounded table-responsive email-list">
                                 <table class="table mb-0 table-email">
                                     <tbody>
                                         @foreach ($messages as $message)
-                                            <tr class="{{ $message->response ? 'read' : 'unread' }}">
-                                                <td class="mark-mail">
-                                                    <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
-                                                </td>
+                                            @if ($message->user_id == auth()->user()->id)
+                                                <!-- Exibe mensagens apenas do usuário logado -->
+                                                <tr class="{{ $message->response ? 'read' : 'unread' }}">
+                                                    <td class="mark-mail">
+                                                        <i class="mdi mdi-truck"></i> {{ $message->drop->id_drop }}
+                                                    </td>
 
-                                                <td>
-                                                    <a type="button" data-toggle="modal"
-                                                        data-target="#viewmessage{{ $message->drop->slug }}"
-                                                        class="text-default d-inline-block text-smoke">
-                                                        @if ($message->response)
-                                                            <span
-                                                                class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
-                                                                {{ $message->response === 'yes' ? 'yes' : 'no' }}
-                                                            </span>
-                                                        @else
-                                                            <span class="badge badge-primary">
-                                                                New
-                                                            </span>
-                                                        @endif
-                                                        {{ $message->message }}
-                                                    </a>
-                                                </td>
+                                                    <td>
+                                                        <a type="button" data-toggle="modal"
+                                                            data-target="#viewmessage{{ $message->drop->slug }}"
+                                                            class="text-default d-inline-block text-smoke">
+                                                            @if ($message->response)
+                                                                <span
+                                                                    class="badge {{ $message->response === 'yes' ? 'badge-success' : 'badge-danger' }}">
+                                                                    {{ $message->response === 'yes' ? 'yes' : 'no' }}
+                                                                </span>
+                                                            @else
+                                                                <span class="badge badge-primary">
+                                                                    New
+                                                                </span>
+                                                            @endif
+                                                            {{ $message->message }}
+                                                        </a>
+                                                    </td>
 
-                                                <td class="date">
-                                                    {{ date('M d', strtotime($message->updated_at)) }}
-                                                </td>
+                                                    <td class="date">
+                                                        {{ date('M d', strtotime($message->updated_at)) }}
+                                                    </td>
 
-                                                <td class="date">
-                                                    <p>Message Updated:
-                                                        {{ date('H:i:s', strtotime($message->updated_at)) }}</p>
-                                                </td>
-                                                <td>
-                                                    <a type="button" data-toggle="modal"
-                                                        data-target="#viewmessage{{ $message->drop->slug }}"
-                                                        class="btn btn-primary">
-                                                        <i class="mdi mdi-message-text-outline"></i>
-                                                    </a>
-                                                </td>
-                                            </tr>
+                                                    <td class="date">
+                                                        <p>Message Updated:
+                                                            {{ date('H:i:s', strtotime($message->updated_at)) }}</p>
+                                                    </td>
+                                                    <td>
+                                                        <a type="button" data-toggle="modal"
+                                                            data-target="#viewmessage{{ $message->drop->slug }}"
+                                                            class="btn btn-primary">
+                                                            <i class="mdi mdi-message-text-outline"></i>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            @endif
                                         @endforeach
-
                                     </tbody>
                                 </table>
                             </div>
@@ -270,46 +273,44 @@
                 </div>
             </div>
 
-
-            {{-- modal --}}
+            {{-- Modal --}}
             @foreach ($messages as $message)
-                <div class="modal fade" id="viewmessage{{ $message->drop->slug }}" tabindex="-1" role="dialog"
-                    aria-labelledby="viewmessageLabel" aria-hidden="true">
+                @if ($message->user_id == auth()->user()->id)
+                    <!-- Verifica se a mensagem pertence ao usuário logado -->
+                    <div class="modal fade" id="viewmessage{{ $message->drop->slug }}" tabindex="-1"
+                        role="dialog" aria-labelledby="viewmessageLabel" aria-hidden="true">
 
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="viewmessageLabel">Message Reply</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <form method="POST" enctype="multipart/form-data" id="responseForm"
-                                    action="{{ route('messages.update', ['message' => $message->drop->slug]) }}">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="viewmessageLabel">Message Reply</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <form method="POST" enctype="multipart/form-data" id="responseForm"
+                                        action="{{ route('messages.update', ['message' => $message->drop->slug]) }}">
 
-                                    @csrf
-                                    @method('PUT')
-                                    <div class="form-group">
-                                        <label for="message">Message</label>
-                                        <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
-                                            readonly required>{{ $message->message }}</textarea>
-                                    </div>
-                                    <label for="message">Response</label>
-                                    <input class="form-control" type="text" name="response" id="response"
-                                        readonly required
-                                        value="{{ $message->response ? $message->response : 'Still no answer' }}">
-
-
-                                </form>
+                                        @csrf
+                                        @method('PUT')
+                                        <div class="form-group">
+                                            <label for="message">Message</label>
+                                            <textarea class="form-control" id="message" name="message" rows="6" type="text" style="resize: none"
+                                                readonly required>{{ $message->message }}</textarea>
+                                        </div>
+                                        <label for="message">Response</label>
+                                        <input class="form-control" type="text" name="response" id="response"
+                                            readonly required
+                                            value="{{ $message->response ? $message->response : 'Still no answer' }}">
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                @endif
             @endforeach
-
         @endif
-
     </div>
 </div>
 
