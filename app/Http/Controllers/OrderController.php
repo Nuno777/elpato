@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\Order;
 use App\Models\Drop;
 use App\Models\User;
+use App\Models\Message;
 use Telegram\Bot\Api;
 use Illuminate\Support\Facades\Log;
 
@@ -28,8 +29,16 @@ class OrderController extends Controller
     {
         $orders = Order::orderByDesc('id')->get();
         $drops = Drop::orderByDesc('id')->get();
-        return view('orders', compact('orders', 'drops'));
+
+        if (auth()->user()->type == 'worker') {
+            $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+        } else {
+            $messages = Message::orderBy('id', 'DESC')->get();
+        }
+
+        return view('orders', compact('orders', 'drops', 'messages'));
     }
+
 
     /**
      * Show the form for creating a new resource.

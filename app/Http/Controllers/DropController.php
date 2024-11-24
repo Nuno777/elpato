@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\User;
 use Telegram\Bot\Api;
+use App\Models\Message;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Auth;
 
@@ -28,18 +29,22 @@ class DropController extends Controller
     public function index()
     {
         if (auth()->user()->type == 'worker') {
+            $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+        } else {
+            $messages = Message::orderBy('id', 'DESC')->get();
+        }
+
+        if (auth()->user()->type == 'worker') {
             $workerDrops = auth()->user()->drops;
-            // Verifica se o trabalhador possui drops atribuídas
             $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
         } else {
-            // Retorna todas as drops para o administrador
             $drops = Drop::orderBy('id', 'DESC')->get();
         }
+
         $users = User::all();
-        return view('drops', ['drops' => $drops, 'users' => $users]);
+
+        return view('drops', ['drops' => $drops, 'messages' => $messages, 'users' => $users]);
     }
-
-
 
     /**
      * Show the form for creating a new resource.

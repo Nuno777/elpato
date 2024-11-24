@@ -3,6 +3,8 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\View;
+use App\Models\Message;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -17,8 +19,21 @@ class AppServiceProvider extends ServiceProvider
     /**
      * Bootstrap any application services.
      */
-    public function boot(): void
+    public function boot()
     {
-        //
+        // Compartilha as mensagens em todas as views
+        View::composer('*', function ($view) {
+            // Verifica se o usuário está autenticado
+            if (auth()->check()) {
+                // Filtra as mensagens de acordo com o tipo de usuário
+                if (auth()->user()->type == 'worker') {
+                    $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+                } else {
+                    $messages = Message::orderBy('id', 'DESC')->get();
+                }
+                // Compartilha as mensagens com todas as views
+                $view->with('messages', $messages);
+            }
+        });
     }
 }

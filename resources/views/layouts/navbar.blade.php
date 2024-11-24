@@ -164,39 +164,101 @@
 
                 <!-- <p style="color: #0e84cc"><b>Balance: </b></p>-->
 
-                <!-- notificacoes -->
-                <li class="custom-dropdown">
-                    <button class="notify-toggler custom-dropdown-toggler">
-                        @if (auth()->user()->type == 'admin')
-                            <a href="{{ route('user.all') }}">
-                                <i class="mdi mdi-bell-outline icon"></i>
-                                @if (auth()->user()->type == 'admin')
-                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
-                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
-                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
-                                @else
-                                    <span class="badge badge-xs rounded-circle"></span>
-                                @endif
-                            </a>
-                        @else
-                            <a href="{{ route('dashboard') }}">
-
-                                <i class="mdi mdi-bell-outline icon"></i>
-                                @if (auth()->user()->type == 'admin')
-                                    <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
-                                @elseif (auth()->user()->type == 'worker' && !empty($message->response))
-                                    <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
-                                @else
-                                    <span class="badge badge-xs rounded-circle"></span>
-                                @endif
-                            </a>
-                        @endif
-                    </button>
-                </li>
-                <!-- end notificacoes -->
-
-                <!-- User Account -->
                 <ul class="nav navbar-nav">
+                    <li class="custom-dropdown">
+                        <button class="notify-toggler custom-dropdown-toggler">
+                            @if (auth()->user()->type == 'admin')
+                                <a>
+                                    <i class="mdi mdi-bell-outline icon"></i>
+                                    @if (auth()->user()->type == 'admin')
+                                        <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                    @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                        <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                    @else
+                                        <span class="badge badge-xs rounded-circle"></span>
+                                    @endif
+                                </a>
+                            @else
+                                <a>
+                                    <i class="mdi mdi-bell-outline icon"></i>
+                                    @if (auth()->user()->type == 'admin')
+                                        <span class="badge badge-xs rounded-circle">{{ $messagesCountAll }}</span>
+                                    @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                        <span class="badge badge-xs rounded-circle">{{ $messagesCount }}</span>
+                                    @else
+                                        <span class="badge badge-xs rounded-circle"></span>
+                                    @endif
+                                </a>
+                            @endif
+                        </button>
+
+                        <div class="dropdown-notify">
+
+                            <header>
+                                <div class="nav nav-underline" id="nav-tab" role="tablist">
+                                    @if (auth()->user()->type == 'admin')
+                                        <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab"
+                                            href="#all" role="tab" aria-controls="nav-home"
+                                            aria-selected="true">All ({{ $messagesCountAll }})</a>
+                                    @elseif (auth()->user()->type == 'worker' && !empty($message->response))
+                                        <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab"
+                                            href="#all" role="tab" aria-controls="nav-home"
+                                            aria-selected="true">All ({{ $messagesCount }})</a>
+                                    @else
+                                        <a class="nav-item nav-link active" id="all-tabs" data-toggle="tab"
+                                            href="#all" role="tab" aria-controls="nav-home"
+                                            aria-selected="true">All (0)</a>
+                                    @endif
+                                </div>
+                            </header>
+
+                            <div class="" data-simplebar style="height: 325px;">
+                                <div class="tab-content" id="myTabContent">
+
+                                    <div class="tab-pane fade show active" id="all" role="tabpanel"
+                                        aria-labelledby="all-tabs">
+                                        @forelse($messages as $message)
+                                            <div class="media media-sm p-4 mb-0">
+                                                <div class="media-sm-wrapper bg-info-dark">
+                                                    <a>
+                                                        <i class="mdi mdi-message-text"></i>
+                                                    </a>
+                                                </div>
+                                                <div class="media-body">
+                                                    <a>
+                                                        <span class="title mb-0">Message from
+                                                            {{ $message->user->name }}</span>
+                                                        <span class="discribe">{{ $message->message }}</span>
+                                                    </a>
+                                                    <div class="buttons">
+                                                        @if ($message->response)
+                                                            @if ($message->response == 'no')
+                                                                <span
+                                                                    class="badge badge-danger">{{ $message->response }}</span>
+                                                            @elseif($message->response == 'yes')
+                                                                <span
+                                                                    class="badge badge-success">{{ $message->response }}</span>
+                                                            @endif
+                                                        @endif
+                                                    </div>
+
+                                                    <span class="time">
+                                                        <time>{{ $message->created_at->diffForHumans() }}</time>...
+                                                    </span>
+
+                                                </div>
+                                            </div>
+                                        @empty
+                                            <p class="text-center">No messages to display.</p>
+                                        @endforelse
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <!-- User Account -->
                     <li class="dropdown user-menu">
                         <button class="dropdown-toggle nav-link" data-toggle="dropdown">
                             @if (Auth::user()->profile_image)
@@ -239,6 +301,7 @@
                     </ul>
                 </li>
             </ul>
+            <!-- end notificacoes -->
         </div>
     </nav>
 </header>
