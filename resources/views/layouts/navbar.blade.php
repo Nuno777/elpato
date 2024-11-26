@@ -238,7 +238,11 @@
                                                             @elseif($message->response == 'yes')
                                                                 <span
                                                                     class="badge badge-success">{{ $message->response }}</span>
+                                                            @else
+                                                                <span class="badge badge-info">new</span>
                                                             @endif
+                                                        @else
+                                                            <span class="badge badge-light">new</span>
                                                         @endif
                                                     </div>
 

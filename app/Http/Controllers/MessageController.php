@@ -86,26 +86,6 @@ class MessageController extends Controller
         return view('adminpainel', compact('messages'));
     }
 
-    public function showMessages()
-    {
-        $messagesQuery = Message::query()->orderBy('created_at', 'desc');
-
-        // Verificar o tipo de usuário
-        if (auth()->user()->type == 'admin') {
-            // Administradores veem todas as mensagens
-            $messages = $messagesQuery->take(10)->get();
-        } else {
-            // Trabalhadores e usuários gerais veem apenas as suas mensagens
-            $messages = $messagesQuery
-                ->where('user_id', auth()->user()->id)
-                ->take(10)
-                ->get();
-        }
-
-        return view('dashboard', compact('messages'));
-    }
-
-
 
     public function showMessageUser($userId)
     {
