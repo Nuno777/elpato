@@ -43,7 +43,6 @@
         });
     });
 </script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 
 <script src="{{ asset('https://cdn.quilljs.com/1.3.6/quill.js') }}"></script>
@@ -51,5 +50,4 @@
 <script src="{{ asset('plugins/toaster/toastr.min.js') }}"></script>
 
 <script src="{{ asset('js/mono.js') }}"></script>
-<script src="{{ asset('js/chart.js') }}"></script>
 <script src="{{ asset('js/custom.js') }}"></script>

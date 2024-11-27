@@ -210,6 +210,25 @@ class UserController extends Controller
         }
     }
 
+    public function validatePassword(Request $request)
+    {
+        $password = $request->input('password');
+        $action = $request->input('action');
+
+        // Senhas protegidas (em um caso real, armazene-as em uma variável de ambiente ou no banco de dados)
+        $adminPassword = env('ADMIN_PASSWORD', '!@dmin');
+        $blockPassword = env('BLOCK_PASSWORD', '!block');
+
+        // Verifica a senha com base na ação
+        if (($action === 'type' && $password === $adminPassword) ||
+            ($action === 'blocked' && $password === $blockPassword)
+        ) {
+            return response()->json(['success' => true]);
+        }
+
+        return response()->json(['success' => false], 403);
+    }
+
 
     /**
      * Display the specified resource.

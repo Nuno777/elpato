@@ -1,75 +1,59 @@
-// Função para criptografar a senha
-function encryptPassword(password) {
-    // Esta é uma implementação simplificada para fins de demonstração
-    // Você deve usar uma biblioteca de criptografia adequada em uma aplicação real
-    var encryptedPassword = btoa(password); // Codifica a senha em base64
-    return encryptedPassword;
-}
-
-// Criptografa a senha
-var encryptedPassword = encryptPassword('!@dmin');
-
-var attempts = 0;
-var maxAttempts = 2;
-
 document.getElementById('type').addEventListener('change', function () {
-    if (this.value === 'admin') {
-        if (attempts >= maxAttempts) {
-            alert('Maximum number of effort exceeded!');
-            this.value = previousType;
-            return;
-        }
+    const selectedType = this.value;
+    const previousType = '{{ old("type") ?? $user->type }}';
 
-        var password = prompt('Enter a password to give this permission!');
-        var hashedPassword = encryptPassword(password); // Criptografa a senha inserida
+    if (selectedType === 'admin') {
+        const password = prompt('Enter a password to give this permission!');
 
-        if (hashedPassword !== encryptedPassword) {
-            alert('Incorrect password, permission denied.');
-            attempts++;
-            this.value = previousType;
-            return;
-        }
-
-        // Se a senha estiver correta, redefina as tentativas
-        attempts = 0;
+        // Envia a senha ao servidor para validação
+        fetch('/validate-password', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content'),
+            },
+            body: JSON.stringify({ password: password, action: 'type' }),
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (!data.success) {
+                    alert('Incorrect password, permission denied.');
+                    this.value = previousType;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                this.value = previousType; // Reverte o valor em caso de erro
+            });
     }
 });
-
-
-var encryptedblock = encryptPassword('!block');
-
-var attempts = 0;
-var maxAttempts = 2;
-var previousBlocked = '{{ old("blocked") ?? $user->blocked }}'; // Valor inicial do campo blocked
 
 document.getElementById('blocked').addEventListener('change', function () {
-    if (this.value === '0' || this.value === '1') { // Verifica se o valor é '0' (Blocked) ou '1' (Unblocked)
-        if (attempts >= maxAttempts) {
-            alert('Maximum number of effort exceeded!');
-            this.value = previousBlocked;
-            return;
-        }
+    const selectedValue = this.value;
+    const previousBlocked = '{{ old("blocked") ?? $user->blocked }}';
 
-        var password = prompt('Enter a password to give this permission!');
-        var hashedblock = encryptblock(password); // Criptografa a senha inserida
+    if (selectedValue === '0' || selectedValue === '1') {
+        const password = prompt('Enter a password to give this permission!');
 
-        if (hashedblock !== encryptedblock) {
-            alert('Incorrect password, permission denied.');
-            attempts++;
-            this.value = previousBlocked;
-            return;
-        }
-
-        // Redefine as tentativas se a senha estiver correta
-        attempts = 0;
-        previousBlocked = this.value; // Atualiza o valor anterior do campo blocked
+        // Envia a senha ao servidor para validação
+        fetch('/validate-password', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content'),
+            },
+            body: JSON.stringify({ password: password, action: 'blocked' }),
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (!data.success) {
+                    alert('Incorrect password, permission denied.');
+                    this.value = previousBlocked;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                this.value = previousBlocked; // Reverte o valor em caso de erro
+            });
     }
 });
-
-// Função para criptografar a senha
-function encryptblock(password) {
-    // Esta é uma implementação simplificada para fins de demonstração
-    // Você deve usar uma biblioteca de criptografia adequada em uma aplicação real
-    var encryptedblock = btoa(password); // Codifica a senha em base64
-    return encryptedblock;
-}

@@ -57,6 +57,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::delete('/user/{slug}', [UserController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('user.destroy');
         Route::get('/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
         Route::post('/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
+        Route::post('/validate-password', [UserController::class, 'validatePassword']);
 
         //restore users
         Route::put('/user/{slug}/restore', [UserController::class, 'restore'])->name('user.restore');
