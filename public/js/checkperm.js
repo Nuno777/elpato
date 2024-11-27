@@ -1,6 +1,6 @@
 document.getElementById('type').addEventListener('change', function () {
     const selectedType = this.value;
-    const previousType = '{{ old("type") ?? $user->type }}';
+    const previousType = '{{ old("type") ?? $user->type }}'; // Mantém o valor anterior
 
     if (selectedType === 'admin') {
         const password = prompt('Enter a password to give this permission!');
@@ -18,7 +18,7 @@ document.getElementById('type').addEventListener('change', function () {
             .then(data => {
                 if (!data.success) {
                     alert('Incorrect password, permission denied.');
-                    this.value = previousType;
+                    this.value = previousType; // Reverte o valor
                 }
             })
             .catch(error => {
@@ -30,7 +30,7 @@ document.getElementById('type').addEventListener('change', function () {
 
 document.getElementById('blocked').addEventListener('change', function () {
     const selectedValue = this.value;
-    const previousBlocked = '{{ old("blocked") ?? $user->blocked }}';
+    const previousBlocked = '{{ old("blocked") ?? $user->blocked }}'; // Mantém o valor anterior
 
     if (selectedValue === '0' || selectedValue === '1') {
         const password = prompt('Enter a password to give this permission!');
@@ -48,7 +48,7 @@ document.getElementById('blocked').addEventListener('change', function () {
             .then(data => {
                 if (!data.success) {
                     alert('Incorrect password, permission denied.');
-                    this.value = previousBlocked;
+                    this.value = previousBlocked; // Reverte o valor
                 }
             })
             .catch(error => {

@@ -215,11 +215,10 @@ class UserController extends Controller
         $password = $request->input('password');
         $action = $request->input('action');
 
-        // Senhas protegidas (em um caso real, armazene-as em uma variável de ambiente ou no banco de dados)
-        $adminPassword = env('ADMIN_PASSWORD', '!@dmin');
-        $blockPassword = env('BLOCK_PASSWORD', '!block');
+        // Defina as senhas aqui
+        $adminPassword = '!@dmin'; // Permissão de admin
+        $blockPassword = '!block'; // Bloquear ou desbloquear usuários
 
-        // Verifica a senha com base na ação
         if (($action === 'type' && $password === $adminPassword) ||
             ($action === 'blocked' && $password === $blockPassword)
         ) {
@@ -228,7 +227,6 @@ class UserController extends Controller
 
         return response()->json(['success' => false], 403);
     }
-
 
     /**
      * Display the specified resource.

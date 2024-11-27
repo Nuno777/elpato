@@ -4,6 +4,7 @@
 
 @section('content')
 @section('page-title', 'Edit User')
+<meta name="csrf-token" content="{{ csrf_token() }}">
 
 <div class="content-wrapper">
     <div class="content">
