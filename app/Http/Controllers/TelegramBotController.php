@@ -174,10 +174,8 @@ class TelegramBotController extends Controller
         // Contagem total de chat_ids únicos
         $connectedCount = UserDropPreference::distinct('chat_id')->count('chat_id');
 
-        // Obter chat_id e o username associado
-        $chatIds = UserDropPreference::join('users', 'user_drop_preferences.username', '=', 'users.telegram')
-            ->select('user_drop_preferences.chat_id', 'users.name') // Seleciona o nome e chat_id
-            ->get();
+        // Recuperar chat_id e username
+        $chatIds = UserDropPreference::select('chat_id', 'username')->get();
 
         return view('panel.send-message', compact('chatIds', 'connectedCount'));
     }
@@ -204,17 +202,10 @@ class TelegramBotController extends Controller
                 }
             } else {
                 // Enviar mensagem para um chat_id específico
-                $user = UserDropPreference::join('users', 'user_drop_preferences.username', '=', 'users.telegram')
-                    ->where('user_drop_preferences.chat_id', $chatId)
-                    ->select('users.telegram')
-                    ->first();
-
-                if ($user) {
-                    $this->telegram->sendMessage([
-                        'chat_id' => $user->telegram,
-                        'text' => $message,
-                    ]);
-                }
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => $message,
+                ]);
             }
 
             return redirect()->back()->with('success', 'Message sent successfully!');

@@ -21,11 +21,9 @@
                                         <label for="exampleFormControlSelect12">User</label>
                                         <select class="form-control" id="exampleFormControlSelect12" name="chat_id">
                                             <option value="all">For All Users</option>
-                                            @if (count($chatIds) > 0)
-                                                @foreach ($chatIds as $chatId)
-                                                    <option value="{{ $chatId->chat_id }}">
-                                                        {{ $chatId->name }} (Chat ID: {{ $chatId->chat_id }})
-                                                    </option>
+                                            @if ($chatIds->count() > 0)
+                                                @foreach ($chatIds as $chat)
+                                                    <option value="{{ $chat->chat_id }}">{{ $chat->username }}</option>
                                                 @endforeach
                                             @else
                                                 <option value="" disabled>No users available</option>
