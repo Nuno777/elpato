@@ -22,8 +22,9 @@
                                         <select class="form-control" id="exampleFormControlSelect12" name="chat_id">
                                             <option value="all">For All Users</option>
                                             @if (count($chatIds) > 0)
-                                                @foreach ($chatIds as $id => $chatId)
-                                                    <option value="{{ $chatId }}">Chat ID: {{ $chatId }}
+                                                @foreach ($chatIds as $chatId)
+                                                    <option value="{{ $chatId->chat_id }}">
+                                                        {{ $chatId->name }} (Chat ID: {{ $chatId->chat_id }})
                                                     </option>
                                                 @endforeach
                                             @else

@@ -11,4 +11,9 @@ class UserDropPreference extends Model
 
     protected $table = 'user_drop_preferences';
     protected $fillable = ['chat_id', 'drop_ids'];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'username', 'telegram');
+    }
 }

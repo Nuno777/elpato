@@ -26,7 +26,8 @@ class User extends Authenticatable
         'type',
         'telegram',
         'profile_image',
-        'blocked','slug'
+        'blocked',
+        'slug'
     ];
 
     /**
@@ -74,5 +75,10 @@ class User extends Authenticatable
     public function messages()
     {
         return $this->hasMany(Message::class);
+    }
+
+    public function preferences()
+    {
+        return $this->hasMany(UserDropPreference::class, 'username', 'telegram');
     }
 }
