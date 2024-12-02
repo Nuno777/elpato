@@ -32,7 +32,7 @@
                         <a class="sidenav-item-link" data-toggle="collapse" data-target="#adminpanel"
                             href="{{ route('adminpainel') }}" aria-expanded="false" aria-controls="adminpanel">
                             <i class="mdi mdi-monitor-dashboard"></i>
-                            <span class="nav-text">Dashboard </span>
+                            <span class="nav-text">Dashboard</span>
                             <b class="caret"></b>
                         </a>
 
@@ -49,12 +49,6 @@
                                         <span class="nav-text">Dashboard</span>
                                     </a>
                                 </li>
-
-                                <!--<li class="@if (Request::is('create-user')) active @endif">
-                                    <a class="sidenav-item-link" href="{{ route('createuser') }}">
-                                        <span class="nav-text">Create User</span>
-                                    </a>
-                                </li>-->
 
                                 <li class="@if (Request::is('all-users')) active @endif">
                                     <a class="sidenav-item-link" href="{{ route('user.all') }}">
@@ -88,14 +82,14 @@
                 <!-- Drops and Orders (for authorized users) -->
                 @if (auth()->check() &&
                         (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
-                    <li class="@if (Request::is('main-panel/drops')) active @endif">
+                    <li class="@if (Request::is('panel/drops') || Request::is('panel/drops/filter')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('drops') }}">
                             <i class="mdi mdi-truck"></i>
                             <span class="nav-text">Drops</span>
                         </a>
                     </li>
 
-                    <li class="@if (Request::is('main-panel/orders')) active @endif">
+                    <li class="@if (Request::is('panel/orders')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('orders') }}">
                             <i class="mdi mdi-package-variant-closed"></i>
                             <span class="nav-text">Orders</span>

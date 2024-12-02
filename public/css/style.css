@@ -3,7 +3,7 @@
 :root {
     --colorprinc: #12871A;
     --colorhover: #419f47;
-    
+
     --blue: #007bff;
     --indigo: #6610f2;
     --purple: #6f42c1;
@@ -20211,3 +20211,25 @@ html[dir=rtl] .sidebar li>a .caret:before {
 .navtext-hover:hover{
     color: #12871A;
 }
+
+
+
+
+/*===== MODO DARK =====*/
+
+:root {
+    --bg-color: #f0f1f5; /* Claro */
+    --text-color: #31343d;
+}
+
+.dark-mode {
+    --bg-color: #31343d; /* Escuro */
+    --text-color: #f0f1f5;
+}
+
+/* Aplicar as cores variáveis */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
