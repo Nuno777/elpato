@@ -48,7 +48,6 @@ class Drop extends Model
 
             // Atualiza todos os pedidos relacionados com status e notes do drop
             $drop->orders()->update([
-                'status' => $drop->status,
                 'comments' => $drop->notes
             ]);
         });

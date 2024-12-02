@@ -46,6 +46,30 @@ class DropController extends Controller
         return view('drops', ['drops' => $drops, 'messages' => $messages, 'users' => $users]);
     }
 
+    public function filter(Request $request)
+    {
+        $query = Drop::query();
+
+        // Filtra por tipo se especificado
+        if ($request->filled('type') && $request->type != 'All') {
+            $query->where('type', $request->type);
+        }
+
+        // Filtra por status se especificado
+        if ($request->filled('status')) {
+            $query->where('status', $request->status);
+        }
+
+        $drops = $query->orderBy('id', 'DESC')->get();
+
+        // Retornar para a view com os resultados
+        return view('drops', [
+            'drops' => $drops,
+            'messages' => Message::all(),
+            'users' => User::all(),
+        ]);
+    }
+
     /**
      * Show the form for creating a new resource.
      */

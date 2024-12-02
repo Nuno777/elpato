@@ -111,6 +111,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::post('/panel/account-settings', [UserController::class, 'changePassword'])->name('account.change.password');
 
         Route::get('/panel/drops', [DropController::class, 'index'])->name('drops');
+        Route::get('/panel/drops/filter', [DropController::class, 'filter'])->name('drops.filter');
 
         Route::get('/panel/orders', [OrderController::class, 'index'])->name('orders');
         Route::get('/panel/orders/create', [OrderController::class, 'create'])->name('createorder');

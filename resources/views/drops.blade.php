@@ -9,6 +9,33 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
+
+                <div class="filter-container mb-3">
+                    <form action="{{ route('drops.filter') }}" method="GET" class="form-inline">
+                        <div class="form-group mx-sm-3 mb-2">
+                            <label for="type" class="sr-only">Type</label>
+                            <select name="type" id="type" class="form-control">
+                                <option value="">Filter Type</option>
+                                <option value="All" {{ request('type') == 'All' ? 'selected' : '' }}>All</option>
+                                <option value="Salaried" {{ request('type') == 'Salaried' ? 'selected' : '' }}>Salaried</option>
+                                <option value="Nonsalaried" {{ request('type') == 'Nonsalaried' ? 'selected' : '' }}>Nonsalaried</option>
+                            </select>
+                        </div>
+                        <div class="form-group mx-sm-3 mb-2">
+                            <label for="status" class="sr-only">Status</label>
+                            <select name="status" id="status" class="form-control">
+                                <option value="">Filter Status</option>
+                                <option value="Ready" {{ request('status') == 'Ready' ? 'selected' : '' }}>Ready</option>
+                                <option value="Problem" {{ request('status') == 'Problem' ? 'selected' : '' }}>Problem</option>
+                                <option value="Suspense" {{ request('status') == 'Suspense' ? 'selected' : '' }}>Suspense</option>
+                                <option value="Dont send" {{ request('status') == 'Dont send' ? 'selected' : '' }}>Dont send</option>
+                                <option value="Going to die" {{ request('status') == 'Going to die' ? 'selected' : '' }}>Going to die</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary mb-2">Filter</button>
+                    </form>
+                </div>
+
                 <div class="collapse" id="collapse-data-tables">
                 </div>
                 <div class="table-responsive">
