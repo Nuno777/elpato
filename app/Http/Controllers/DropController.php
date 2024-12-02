@@ -48,7 +48,12 @@ class DropController extends Controller
 
     public function filter(Request $request)
     {
-        $query = Drop::query();
+        // Inicia a query com base no tipo de usuário
+        if (auth()->user()->type == 'worker') {
+            $query = auth()->user()->drops()->orderBy('id', 'DESC');
+        } else {
+            $query = Drop::query()->orderBy('id', 'DESC');
+        }
 
         // Filtra por tipo se especificado
         if ($request->filled('type') && $request->type != 'All') {
@@ -60,15 +65,16 @@ class DropController extends Controller
             $query->where('status', $request->status);
         }
 
-        $drops = $query->orderBy('id', 'DESC')->get();
+        $drops = $query->get();
 
-        // Retornar para a view com os resultados
+        // Retorna a view com os resultados filtrados
         return view('drops', [
             'drops' => $drops,
-            'messages' => Message::all(),
+            'messages' => Message::where('user_id', auth()->id())->orderBy('id', 'DESC')->get(),
             'users' => User::all(),
         ]);
     }
+
 
     /**
      * Show the form for creating a new resource.

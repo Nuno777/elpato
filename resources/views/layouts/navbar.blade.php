@@ -164,6 +164,13 @@
 
                 <!-- <p style="color: #0e84cc"><b>Balance: </b></p>-->
 
+                <label class="switch switch-text switch-success switch-pill form-control-label">
+                    <input id="darkModeSwitch" type="checkbox" class="switch-input form-check-input">
+                    <span class="switch-label" data-on="On" data-off="Off"></span>
+                    <span class="switch-handle"></span>
+                </label>
+
+
                 <ul class="nav navbar-nav">
                     <li class="custom-dropdown">
                         <button class="notify-toggler custom-dropdown-toggler">
@@ -309,3 +316,27 @@
         </div>
     </nav>
 </header>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const switchInput = document.getElementById("darkModeSwitch");
+        const root = document.documentElement;
+
+        // Carregar preferência
+        const isDarkMode = localStorage.getItem("darkMode") === "true";
+        if (isDarkMode) {
+            root.classList.add("dark-mode");
+            switchInput.checked = true;
+        }
+
+        // Alterar tema ao clicar no switch
+        switchInput.addEventListener("change", function() {
+            if (switchInput.checked) {
+                root.classList.add("dark-mode");
+                localStorage.setItem("darkMode", "true");
+            } else {
+                root.classList.remove("dark-mode");
+                localStorage.setItem("darkMode", "false");
+            }
+        });
+    });
+</script>
