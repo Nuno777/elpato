@@ -14,7 +14,7 @@
             <!-- Sidebar Menu -->
             <ul class="nav sidebar-inner" id="sidebar-menu">
                 <!-- Dashboard Link -->
-                <li class="@if (Request::is('main-panel')) active @endif">
+                <li class="@if (Request::is('main/panel')) active @endif">
                     <a class="sidenav-item-link" href="{{ route('dashboard') }}">
                         <i class="mdi mdi-monitor"></i>
                         <span class="nav-text">Main Panel</span>
@@ -88,14 +88,14 @@
                 <!-- Drops and Orders (for authorized users) -->
                 @if (auth()->check() &&
                         (auth()->user()->type == 'admin' || auth()->user()->type == 'general' || auth()->user()->type == 'worker'))
-                    <li class="@if (Request::is('drops')) active @endif">
+                    <li class="@if (Request::is('main-panel/drops')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('drops') }}">
                             <i class="mdi mdi-truck"></i>
                             <span class="nav-text">Drops</span>
                         </a>
                     </li>
 
-                    <li class="@if (Request::is('orders')) active @endif">
+                    <li class="@if (Request::is('main-panel/orders')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('orders') }}">
                             <i class="mdi mdi-package-variant-closed"></i>
                             <span class="nav-text">Orders</span>
@@ -105,7 +105,7 @@
 
                 <!-- FTID (for admin and general users) -->
                 @if (auth()->check() && (auth()->user()->type == 'admin' || auth()->user()->type == 'general'))
-                    <li class="@if (Request::is('ftid') || Request::is('createftid')) active @endif">
+                    <li class="@if (Request::is('main-panel/ftid') || Request::is('createftid')) active @endif">
                         <a class="sidenav-item-link" href="{{ route('ftid') }}">
                             <i class="mdi mdi-file-pdf"></i>
                             <span class="nav-text">FTID</span>

@@ -36,13 +36,13 @@
                     <div class="card-body pt-0">
                         <ul class="nav nav-settings">
                             <li class="nav-item">
-                                <a class="nav-link @if (Request::is('profile')) active @endif"
+                                <a class="nav-link @if (Request::is('main-panel/profile/account')) active @endif"
                                     href="{{ route('profile') }}">
                                     <i class="mdi mdi-account-outline mr-1"></i> Profile
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link @if (Request::is('profile-settings')) active @endif"
+                                <a class="nav-link @if (Request::is('main-panel/profile/settings')) active @endif"
                                     href="{{ route('profile.settings') }}">
                                     <i class="mdi mdi-settings-outline mr-1"></i> Account Settings
                                 </a>
