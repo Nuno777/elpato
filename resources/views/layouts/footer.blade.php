@@ -1,6 +1,6 @@
 <footer class="footer mt-auto">
     <div class="copyright bg-white">
-        <p style="color: #12871A;">
+        <p>
             &copy; <span id="copy-year"></span> Copyright by ElPato Panel
         </p>
     </div>

@@ -315,12 +315,9 @@
         const switchInput = document.getElementById("darkModeSwitch");
         const root = document.documentElement;
 
-        // Carregar preferência
+        // Sincronizar o estado do switch com a preferência salva
         const isDarkMode = localStorage.getItem("darkMode") === "true";
-        if (isDarkMode) {
-            root.classList.add("dark-mode");
-            switchInput.checked = true;
-        }
+        switchInput.checked = isDarkMode;
 
         // Alterar tema ao clicar no switch
         switchInput.addEventListener("change", function() {

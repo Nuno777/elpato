@@ -24,6 +24,15 @@
     <link href="{{ asset('/images/icon.png') }}" rel="shortcut icon" />
 
     <script src="{{ asset('/plugins/nprogress/nprogress.js') }}"></script>
+    <script>
+        (function() {
+            const isDarkMode = localStorage.getItem("darkMode") === "true";
+            if (isDarkMode) {
+                document.documentElement.classList.add("dark-mode");
+            }
+        })();
+    </script>
+
 
 </head>
 
