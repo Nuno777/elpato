@@ -7,16 +7,14 @@
 
 <div class="content-wrapper">
     <div class="content">
-        {{-- <div class="alert alert-warning alert-icon" role="alert">
-            <i class="mdi mdi-bell-outline"></i> <b style="color:#000;">Our latest update, Telegram bot for receiving
-                updates on drops, click <a href="https://t.me/elpatomessagebot" target="_blank">here</a> to go directly to
-                the bot!</b>
+        <div class="alert alert-info alert-icon" role="alert">
+            <i class="mdi mdi-alert-circle-outline"></i> <b style="color:#000;">Latest update: Dark mode, just go where
+                your name is, click, and enable dark mode.</b>
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                 <span aria-hidden="true">×</span>
             </button>
-        </div> --}}
+        </div>
         <div class="row">
-
 
             <div class="col-xl-3 col-sm-6">
                 <div class="card card-default card-mini">

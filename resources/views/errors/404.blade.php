@@ -27,7 +27,7 @@
     <script src="{{ asset('/plugins/nprogress/nprogress.js') }}"></script>
 </head>
 
-<body class="" id="body">
+<body style="background-color: #0E0E10; color: #EAEAEC;" class="body-error" id="body">
     <div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh">
         <div class="d-flex flex-column justify-content-between">
             <div class="row justify-content-center mt-5">

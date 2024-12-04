@@ -278,22 +278,9 @@
                 <div class="row no-gutters ">
                     <div class="col-lg-8 col-xl-9 col-xxl-12">
                         <div class="email-right-column p-4 p-xl-5">
-                            <!-- Email Right Header -->
                             <div class="email-right-header mb-5">
-                                <!-- head left option -->
                                 <div class="head-left-options">
                                     <h2>All Message</h2>
-                                </div>
-                                <!-- head right option -->
-                                <div class="head-right-options">
-                                    <div class="btn-group" role="group" aria-label="Basic example">
-                                        <button type="button" class="btn border btn-pill">
-                                            <i class="mdi mdi-chevron-left"></i>
-                                        </button>
-                                        <button type="button" class="btn border btn-pill">
-                                            <i class="mdi mdi-chevron-right"></i>
-                                        </button>
-                                    </div>
                                 </div>
                             </div>
 
