@@ -34,7 +34,7 @@
 
                         <div class="form-group mb-3 position-relative">
                             <label class="label" for="password">{{ __('Password') }}</label>
-                            <input id="password" type="password" class="form-control" name="password" required>
+                            <input id="password" type="password" class="form-control" name="password" required autocomplete="off">
                             <span toggle="#password" class="fa fa-fw fa-eye field-icon toggle-password"></span>
                             @error('password')
                                 <span class="error-message">{{ $message }}</span>

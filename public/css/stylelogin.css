@@ -1,6 +1,6 @@
 :root {
-    --fundo: #111827;
-    --card-login: #1F2937;
+    --fundo: #0E0E10;
+    --card-login: #29292E;
     --btn-login: #12871A;
     --size: #D1D5DB;
 
@@ -46,7 +46,7 @@ html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    background-color: #111827;
+    background-color: #0E0E10;
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -2201,7 +2201,7 @@ pre code {
 
 .form-control:focus {
     color: #D1D5DB;
-    background-color: #111827;
+    background-color: #0E0E10;
     border-color: #12871A;
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
@@ -11443,7 +11443,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-section {
     padding: 10em 0;
-    background-color: #111827;
+    background-color: #0E0E10;
 }
 
 .ftco-no-pt {
@@ -11493,7 +11493,7 @@ h1, h2, h3, h4, h5,
 
 .login-wrap {
     position: relative;
-    background-color: #1F2937;
+    background-color: #29292E;
     background-font-weight: 300;
 }
 
@@ -11515,7 +11515,7 @@ h1, h2, h3, h4, h5,
 
 .form-control {
     height: 48px;
-    background: #111827;
+    background: #0E0E10;
     color: #D1D5DB;
     font-size: 16px;
     border-radius: 5px;
@@ -11614,7 +11614,7 @@ h1, h2, h3, h4, h5,
     content: "\f0c8";
     font-family: "FontAwesome";
     position: absolute;
-    color: #111827;
+    color: #0E0E10;
     font-size: 20px;
     margin-top: -4px;
     -webkit-transition: 0.3s;
@@ -11704,3 +11704,11 @@ h1, h2, h3, h4, h5,
     font-style: var(--font-family-sans-serif); /* opcional: estilo itálico para destacar */
 }
 
+.field-icon {
+    position: absolute;
+    right: 10px;
+    top: 70%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #D1D5DB;
+}

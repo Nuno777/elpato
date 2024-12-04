@@ -98,43 +98,43 @@
                                         <!-- Usando um link direto no campo de código -->
                                         @if ($order->tracking == 'Fedex')
                                             <a href="https://www.fedex.com/fedextrack/no-results-found?trknbr={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'UPS')
                                             <a href="https://www.ups.com/track?track=yes&trackNums={{ $order->code }}&loc=en_US&requester=ST/trackdetails"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'USPS')
                                             <a href="https://www.usps.com/search/results.htm?keyword={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Ontrac')
                                             <a href="https://www.ontrac.com/tracking/?number={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Lasership')
                                             <a href="https://www.ordertracker.com/track/{{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'DHL')
                                             <a href="https://www.dhl.com/us-en/home/tracking/tracking-global-forwarding.html?submit=1&tracking-id={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Canadapost')
                                             <a href="https://www.canadapost-postescanada.ca/track-reperage/en#/search?searchFor={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Porulator')
                                             <a href="https://www.purolator.com/en/shipping/tracker?pins={{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Australian')
                                             <a href="https://auspost.com.au/mypost/track/details/{{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @elseif ($order->tracking == 'Amazon')
                                             <a href="https://track.amazon.com/tracking/{{ $order->code }}"
-                                                class="form-control" readonly required
+                                                class="form-control code" readonly required
                                                 target="_blank">{{ $order->code }}</a>
                                         @endif
                                         <small class="form-text text-muted">Link to Tracking</small>

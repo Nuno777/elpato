@@ -158,13 +158,6 @@
 
                 <!-- <p style="color: #0e84cc"><b>Balance: </b></p>-->
 
-                <label class="switch switch-text switch-success switch-pill form-control-label">
-                    <input id="darkModeSwitch" type="checkbox" class="switch-input form-check-input">
-                    <span class="switch-label" data-on="On" data-off="Off"></span>
-                    <span class="switch-handle"></span>
-                </label>
-
-
                 <ul class="nav navbar-nav">
                     <li class="custom-dropdown">
                         <button class="notify-toggler custom-dropdown-toggler">
@@ -287,6 +280,17 @@
                                 <a class="dropdown-link-item" href="{{ route('profile.settings') }}">
                                     <i class="mdi mdi-settings"></i>
                                     <span class="nav-text navtext-hover">Account Setting</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-link-item" href="#">
+                                    <i class="mdi mdi-theme-light-dark"></i>
+                                    <span class="nav-text">Dark Mode</span>
+                                    <label class="switch switch-text switch-success switch-pill form-control-label">
+                                        <input id="darkModeSwitch" type="checkbox" class="switch-input form-check-input">
+                                        <span class="switch-label" data-on="On" data-off="Off"></span>
+                                        <span class="switch-handle"></span>
+                                    </label>
                                 </a>
                             </li>
 
