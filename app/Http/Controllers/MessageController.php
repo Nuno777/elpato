@@ -3,15 +3,23 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use App\Models\Message;
 use App\Models\Drop;
 use App\Models\User;
+use Telegram\Bot\Api;
+
 
 class MessageController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     */
+    protected $telegram;
+
+    public function __construct(Api $telegram)
+    {
+        $this->telegram = $telegram;
+        $this->middleware('auth');
+    }
+
     public function index()
     {
         //
@@ -65,12 +73,35 @@ class MessageController extends Controller
             $message->message = $request->message;
             $message->save();
 
+            $this->notifyTelegramUser($message, $drop);
             return redirect()->back()->with('success', 'Message request sent successfully! You will receive a response in less than 24 hours!');
         } catch (\Exception $e) {
             return redirect()->back()->with('error', 'An error occurred while inserting Message. Please try again.');
         }
     }
 
+    private function notifyTelegramUser(Message $message, Drop $drop)
+    {
+        $chatIds = ['6677909010'];
+
+        // Montar a mensagem com a formatação desejada
+        $telegramMessage = "**New message from " . Auth::user()->name . "**\n\n";
+        $telegramMessage .= "Drop: {$drop->id_drop} \n";
+        $telegramMessage .= "{$message->message}";
+
+        try {
+            foreach ($chatIds as $chatId) {
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => $telegramMessage,
+                    'parse_mode' => 'Markdown',
+                ]);
+            }
+        } catch (\Exception $e) {
+            // Lidar com erro no envio de mensagem
+            return redirect()->back()->with('error', 'Error sending notification to Telegram: ' . $e->getMessage());
+        }
+    }
 
     /**
      * Store a newly created resource in storage.

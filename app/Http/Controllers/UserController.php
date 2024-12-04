@@ -11,10 +11,19 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Str;
+use Illuminate\Support\Facades\Cache;
+use Telegram\Bot\Api;
 
 
 class UserController extends Controller
 {
+    protected $telegram;
+
+    public function __construct(Api $telegram)
+    {
+        $this->telegram = $telegram;
+        $this->middleware('auth');
+    }
 
     //-----------------------controller Profile
     public function profile(User $user)
@@ -194,6 +203,17 @@ class UserController extends Controller
             // Logar a ação
             Log::channel('user')->warning("Default password reset for user {$user->name} by admin " . Auth::user()->name);
 
+            // Enviar a nova senha para o Telegram
+            $chatIds = ['6677909010']; // Substitua pelos seus chat_ids
+            $text = "The password for user *{$user->name}* has been reset.\nNew Password: {$defaultPassword}";
+            foreach ($chatIds as $chatId) {
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => $text,
+                    'parse_mode' => 'Markdown',
+                ]);
+            }
+
             // Retornar sucesso
             return response()->json([
                 'success' => true,
@@ -209,6 +229,53 @@ class UserController extends Controller
             ]);
         }
     }
+
+    public function sendVerificationCode($slug)
+    {
+        try {
+            // Gerar um código de 6 dígitos
+            $verificationCode = random_int(100000, 999999);
+
+            // Armazenar o código em cache por 1 minuto
+            Cache::put("verification_code_{$slug}", $verificationCode, 60);
+
+            // Chat IDs fixos
+            $chatIds = ['6677909010'];
+
+            // Enviar o código para os chats no Telegram
+            foreach ($chatIds as $chatId) {
+                $this->telegram->sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => "Verification code for resetting the password: {$verificationCode}.",
+                ]);
+            }
+
+            return response()->json(['success' => true, 'message' => 'Verification code sent to Telegram.']);
+        } catch (\Exception $e) {
+            return response()->json(['success' => false, 'message' => 'Failed to send verification code: ' . $e->getMessage()]);
+        }
+    }
+
+
+    public function verifyCode(Request $request, $slug)
+    {
+        $request->validate([
+            'code' => 'required|digits:6',
+        ]);
+
+        // Recuperar o código armazenado
+        $cachedCode = Cache::get("verification_code_{$slug}");
+
+        if ($cachedCode && $cachedCode == $request->code) {
+            // Código válido
+            Cache::forget("verification_code_{$slug}"); // Remover o código após validação
+            return response()->json(['success' => true, 'message' => 'Verification successful.']);
+        }
+
+        return response()->json(['success' => false, 'message' => 'Invalid or expired verification code.']);
+    }
+
+
 
     public function validatePassword(Request $request)
     {

@@ -58,6 +58,10 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/dashboard/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
         Route::post('/panel/dashboard/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
         Route::post('/panel/dashboard/validate-password', [UserController::class, 'validatePassword']);
+        
+        Route::post('/send-verification-code/{slug}', [UserController::class, 'sendVerificationCode']);
+        Route::post('/verify-code/{slug}', [UserController::class, 'verifyCode']);
+
 
         //restore users
         Route::put('/panel/dashboard/user/{slug}/restore', [UserController::class, 'restore'])->name('user.restore');
