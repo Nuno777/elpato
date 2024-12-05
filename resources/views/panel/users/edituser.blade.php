@@ -151,5 +151,5 @@
 </script>
 
 
-<script src="{{ asset('js/checkperm.js') }}"></script>
+<script src="{{ asset('js/user/checkperm.js') }}"></script>
 @endpush

@@ -137,5 +137,5 @@
 </div>
 @endsection
 @push('scripts')
-<script src="{{ asset('js/changepass.js') }}"></script>
+<script src="{{ asset('js/user/changepass.js') }}"></script>
 @endpush

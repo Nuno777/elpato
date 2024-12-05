@@ -93,5 +93,5 @@
 </div>
 
 @push('scripts')
-    <script src="{{ asset('js/typeuser.js') }}"></script>
+    <script src="{{ asset('js/user/typeuser.js') }}"></script>
 @endpush

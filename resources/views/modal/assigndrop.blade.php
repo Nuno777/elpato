@@ -85,5 +85,5 @@
 </div>
 
 @push('scripts')
-    <script src="{{ asset('js/assigndrop.js') }}"></script>
+    <script src="{{ asset('js/drop/assigndrop.js') }}"></script>
 @endpush
