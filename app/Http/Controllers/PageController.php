@@ -16,8 +16,13 @@ class PageController extends Controller
 {
     public function index()
     {
+        if (Auth::check() || Auth::viaRemember()) {
+            return redirect()->route('dashboard');
+        }
+
         return view('auth.login');
     }
+
 
     public function dashboard(Drop $drops)
     {

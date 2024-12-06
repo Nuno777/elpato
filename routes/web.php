@@ -16,6 +16,7 @@ use App\Http\Controllers\LogController;
 use App\Http\Controllers\OrderRefController;
 
 Route::get('/', [PageController::class, 'index'])->name('auth.login');
+
 Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
 
 
@@ -58,7 +59,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/dashboard/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
         Route::post('/panel/dashboard/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
         Route::post('/panel/dashboard/validate-password', [UserController::class, 'validatePassword']);
-        
+
         Route::post('/send-verification-code/{slug}', [UserController::class, 'sendVerificationCode']);
         Route::post('/verify-code/{slug}', [UserController::class, 'verifyCode']);
 
