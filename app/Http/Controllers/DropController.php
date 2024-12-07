@@ -252,6 +252,30 @@ class DropController extends Controller
         return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
 
+    public function filterDropsByType(Request $request)
+    {
+        $type = $request->input('type');
+
+        $drops = Drop::query();
+
+        if ($type) {
+            $drops->where('type', $type);
+        }
+
+        $drops = $drops->get();
+
+        return response()->json([
+            'drops' => $drops->map(function ($drop) {
+                return [
+                    'slug' => $drop->slug,
+                    'id_drop' => $drop->id_drop,
+                    'status' => $drop->status,
+                    'type' => $drop->type,
+                ];
+            }),
+        ]);
+    }
+
 
     public function showAssignDropForm(Request $request)
     {
