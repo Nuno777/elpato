@@ -252,28 +252,26 @@ class DropController extends Controller
         return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
 
+    public function getDropsForWorker(Request $request)
+    {
+        $userSlug = $request->input('user_slug');
+        $user = User::where('slug', $userSlug)->firstOrFail();
+
+        $associatedDrops = $user->drops()->pluck('slug');
+
+        return response()->json($associatedDrops);
+    }
+
+
     public function filterDropsByType(Request $request)
     {
         $type = $request->input('type');
 
-        $drops = Drop::query();
+        $drops = Drop::when($type, function ($query, $type) {
+            $query->where('type', $type);
+        })->get(['slug', 'id_drop', 'status', 'type']);
 
-        if ($type) {
-            $drops->where('type', $type);
-        }
-
-        $drops = $drops->get();
-
-        return response()->json([
-            'drops' => $drops->map(function ($drop) {
-                return [
-                    'slug' => $drop->slug,
-                    'id_drop' => $drop->id_drop,
-                    'status' => $drop->status,
-                    'type' => $drop->type,
-                ];
-            }),
-        ]);
+        return response()->json(['drops' => $drops]);
     }
 
 

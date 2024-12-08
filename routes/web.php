@@ -75,6 +75,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
 
         Route::post('/panel/dashboard/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
         Route::get('/panel/dashboard/drops/filter', [DropController::class, 'filterDropsByType']);
+        Route::post('/panel/dashboard/drops/get-drops-for-worker', [DropController::class, 'getDropsForWorker'])->name('get.drops.for.worker');
         Route::post('/panel/dashboard/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
 
         Route::get('/panel/dashboard/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');

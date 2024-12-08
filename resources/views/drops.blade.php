@@ -9,7 +9,7 @@
     <div class="content">
         <div class="card card-default">
             <div class="card-body">
-
+                <meta name="csrf-token" content="{{ csrf_token() }}">
                 <div class="row">
                     <div class="filter-container mb-3">
                         <form action="{{ route('drops.filter') }}" method="GET" class="form-inline">
