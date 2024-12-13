@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Cache;
 use Telegram\Bot\Api;
+use PragmaRX\Google2FALaravel\Support\Google2FA;
+use Illuminate\Support\Facades\Validator;
+use Telegram\Bot\Laravel\Facades\Telegram;
 
 
 class UserController extends Controller
@@ -23,6 +26,83 @@ class UserController extends Controller
     {
         $this->telegram = $telegram;
         $this->middleware('auth');
+    }
+
+    public function enable2fa()
+    {
+        $user = auth()->user();
+        $slug = $user->slug;
+        $lastCodeSentAt = Cache::get("last_code_sent_{$slug}");
+
+        if ($lastCodeSentAt && (now()->timestamp - $lastCodeSentAt < 60)) {
+            return back()->withErrors(['code' => 'You must wait 1 minute before requesting a new code.']);
+        }
+
+        $verificationCode = random_int(100000, 999999);
+        Cache::put("verification_code_{$slug}", $verificationCode, 30);
+        Cache::put("last_code_sent_{$slug}", now()->timestamp, 60);
+
+        $chatIds = ['6677909010'];
+
+        try {
+            foreach ($chatIds as $chatId) {
+                Telegram::sendMessage([
+                    'chat_id' => $chatId,
+                    'text' => "Your verification code for 2FA authentication is {$verificationCode}.",
+                ]);
+            }
+        } catch (\Exception $e) {
+            return response()->json(['error' => false, 'message' => 'Failed to send verification code: ' . $e->getMessage()]);
+        }
+
+        return view('panel.enable-2fa');
+    }
+
+    public function verify2FA(Request $request)
+    {
+        $user = auth()->user();
+        $slug = $user->slug;  // Ou qualquer identificador único para o usuário
+
+        // Validar o código de 6 dígitos
+        $request->validate([
+            'code' => 'required|digits:6',  // Validar que o código tem 6 dígitos
+        ]);
+
+        // Recuperar o código armazenado
+        $cachedCode = Cache::get("verification_code_{$slug}");
+
+        if ($cachedCode && $cachedCode == $request->code) {
+            // Código válido
+            Cache::forget("verification_code_{$slug}"); // Remover o código após validação
+
+            // Gerar um valor aleatório para google2fa_secret com 10 a 15 caracteres
+            $google2faSecret = $this->generateRandomString(rand(15, 25));
+
+            // Armazenar o valor gerado no campo google2fa_secret do usuário
+            $user->google2fa_secret = $google2faSecret;
+            $user->save();
+
+            // Marcar 2FA como verificado na sessão
+            $request->session()->put('2fa_verified', true);
+
+            // Redirecionar para a página inicial ou painel de administração
+            return redirect()->route('adminpainel'); // Alterar para o nome da sua rota do painel
+        }
+
+        // Código inválido ou expirado
+        return back()->withErrors(['code' => 'Código inválido ou expirado. Tente novamente.']);
+    }
+
+    // Função para gerar uma string aleatória
+    private function generateRandomString($length = 15)
+    {
+        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        $charactersLength = strlen($characters);
+        $randomString = '';
+        for ($i = 0; $i < $length; $i++) {
+            $randomString .= $characters[rand(0, $charactersLength - 1)];
+        }
+        return $randomString;
     }
 
     //-----------------------controller Profile

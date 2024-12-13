@@ -23,8 +23,13 @@ Route::post('/telegram-webhook', [TelegramBotController::class, 'handle']);
 //route auth
 Route::middleware(['auth', 'verified'])->group(function () {
 
-    //perms admin
     Route::middleware(['admin', Admin::class])->group(function () {
+        Route::get('/panel/enable-2fa', [UserController::class, 'enable2fa'])->name('enable-2fa');
+        Route::post('/panel/verify-2fa', [UserController::class, 'verify2FA'])->name('verify-2fa.submit');
+    });
+
+    //perms admin
+    Route::middleware(['admin', '2fa', Admin::class])->group(function () {
         Route::get('/panel/dashboard', [PageController::class, 'adminpainel'])->name('adminpainel');
 
         Route::get('/panel/dashboard/drops', [DropController::class, 'create'])->name('createdrops');
