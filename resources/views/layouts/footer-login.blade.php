@@ -16,13 +16,13 @@
             document.getElementById('loader').style.display = 'none';
         }, 20000);
     });
-    
+
     //eye
     document.querySelector('.toggle-password').addEventListener('click', function () {
         const passwordField = document.querySelector('#password');
         const type = passwordField.getAttribute('type') === 'password' ? 'text' : 'password';
         passwordField.setAttribute('type', type);
-        
+
         // Alternar entre ícone de olho aberto e fechado
         this.classList.toggle('fa-eye');
         this.classList.toggle('fa-eye-slash');

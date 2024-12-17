@@ -48,11 +48,11 @@ class UserController extends Controller
             foreach ($chatIds as $chatId) {
                 Telegram::sendMessage([
                     'chat_id' => $chatId,
-                    'text' => "Your verification code for 2FA authentication is {$verificationCode}.",
+                    'text' =>  Auth::user()->name ." Your verification code for 2FA authentication is {$verificationCode}.",
                 ]);
             }
         } catch (\Exception $e) {
-            return response()->json(['error' => false, 'message' => 'Failed to send verification code: ' . $e->getMessage()]);
+            return response()->json(['error' => false, 'message' => 'Failed to send verification code. Please try again later.']);
         }
 
         return view('panel.enable-2fa');
@@ -61,35 +61,26 @@ class UserController extends Controller
     public function verify2FA(Request $request)
     {
         $user = auth()->user();
-        $slug = $user->slug;  // Ou qualquer identificador único para o usuário
-
-        // Validar o código de 6 dígitos
+        $slug = $user->slug;
         $request->validate([
-            'code' => 'required|digits:6',  // Validar que o código tem 6 dígitos
+            'code' => 'required|digits:6',
         ]);
 
         // Recuperar o código armazenado
         $cachedCode = Cache::get("verification_code_{$slug}");
 
         if ($cachedCode && $cachedCode == $request->code) {
-            // Código válido
-            Cache::forget("verification_code_{$slug}"); // Remover o código após validação
-
-            // Gerar um valor aleatório para google2fa_secret com 10 a 15 caracteres
+            Cache::forget("verification_code_{$slug}");
+            
             $google2faSecret = $this->generateRandomString(rand(15, 25));
-
-            // Armazenar o valor gerado no campo google2fa_secret do usuário
             $user->google2fa_secret = $google2faSecret;
             $user->save();
 
-            // Marcar 2FA como verificado na sessão
             $request->session()->put('2fa_verified', true);
 
-            // Redirecionar para a página inicial ou painel de administração
-            return redirect()->route('adminpainel'); // Alterar para o nome da sua rota do painel
+            return redirect()->route('adminpainel');
         }
 
-        // Código inválido ou expirado
         return back()->withErrors(['code' => 'Código inválido ou expirado. Tente novamente.']);
     }
 
