@@ -30,6 +30,7 @@
                                     <span class="text-danger">{{ $errors->first('email') }}</span>
                                 @endif
                             </div>
+
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">

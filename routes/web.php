@@ -26,16 +26,21 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::middleware(['admin', Admin::class])->group(function () {
         Route::get('/panel/enable-2fa', [UserController::class, 'enable2fa'])->name('enable-2fa');
         Route::post('/panel/verify-2fa', [UserController::class, 'verify2FA'])->name('verify-2fa.submit');
+
+        Route::get('/panel/dashboard/drops', [DropController::class, 'create'])->name('createdrops');
+        Route::post('/panel/dashboard/drops', [DropController::class, 'store'])->name('createdrops.store');
+        Route::get('/panel/dashboard/drops/{slug}/edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
+        Route::put('/panel/dashboard/drops/{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
+
+        Route::post('/panel/dashboard/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+        Route::get('/panel/dashboard/drops/filter', [DropController::class, 'filterDropsByType']);
+        Route::post('/panel/dashboard/drops/get-drops-for-worker', [DropController::class, 'getDropsForWorker'])->name('get.drops.for.worker');
     });
 
     //perms admin
     Route::middleware(['admin', '2fa', Admin::class])->group(function () {
         Route::get('/panel/dashboard', [PageController::class, 'adminpainel'])->name('adminpainel');
 
-        Route::get('/panel/dashboard/drops', [DropController::class, 'create'])->name('createdrops');
-        Route::post('/panel/dashboard/drops', [DropController::class, 'store'])->name('createdrops.store');
-        Route::get('/panel/dashboard/drops/{slug}/edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
-        Route::put('/panel/dashboard/drops/{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
         Route::delete('/panel/dashboard/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
 
         Route::get('/panel/dashboard/order/status/{slug}/edit', [OrderController::class, 'statusedit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorderstatus.edit');
@@ -78,9 +83,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/dashboard/users-ftids-{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
         Route::get('/panel/dashboard/users-drops-{slug}', [DropController::class, 'showUserDrops'])->where('slug', '[a-zA-Z0-9-]+')->name('user.drops');
 
-        Route::post('/panel/dashboard/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
-        Route::get('/panel/dashboard/drops/filter', [DropController::class, 'filterDropsByType']);
-        Route::post('/panel/dashboard/drops/get-drops-for-worker', [DropController::class, 'getDropsForWorker'])->name('get.drops.for.worker');
         Route::post('/panel/dashboard/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
 
         Route::get('/panel/dashboard/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');
