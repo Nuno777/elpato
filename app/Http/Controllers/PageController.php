@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Drop;
 use App\Models\Order;
-use App\Models\Ftid;
+use App\Models\ftid;
 use App\Models\User;
 use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
@@ -90,7 +90,7 @@ class PageController extends Controller
     }
 
 
-    public function adminpainel(User $users, Order $orders, Ftid $ftid)
+    public function adminpainel(User $users, Order $orders, ftid $ftid)
     {
         $restoreOrdersCount = $orders->onlyTrashed()->count();
         $activeOrdersCount = $orders->whereNull('deleted_at')->count();
@@ -110,7 +110,7 @@ class PageController extends Controller
             'ftidCount' => $ftid->count(),
             'messages' => Message::all(),
             'orders' => Order::orderBy('id', 'DESC')->paginate(10),
-            'ftid' => Ftid::orderBy('id', 'DESC')->paginate(10),
+            'ftid' => ftid::orderBy('id', 'DESC')->paginate(10),
             'activeOrdersCount' => $activeOrdersCount,
             'restoreOrdersCount' => $restoreOrdersCount,
             'activeUsersCount' => $activeUsersCount,

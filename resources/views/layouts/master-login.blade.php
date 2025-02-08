@@ -17,7 +17,6 @@
 </head>
 
 <body>
-    @include('layouts.snowfall')
     <section class="ftco-section">
         @yield('content')
     </section>

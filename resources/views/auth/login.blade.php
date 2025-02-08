@@ -27,7 +27,7 @@
                         <div class="form-group mb-3">
                             <label class="label" for="email">{{ __('Email') }}</label>
                             <input id="email" type="text" class="form-control" name="email"
-                                value="{{ old('email') }}" required autofocus>
+                                value="{{ old('email') }}" required autofocus placeholder="">
                             @error('email')
                                 <span class="error-message">{{ $message }}</span>
                             @enderror
