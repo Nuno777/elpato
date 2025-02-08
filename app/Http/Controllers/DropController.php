@@ -141,10 +141,9 @@ class DropController extends Controller
     public function show() {}
 
 
-    public function showUserDrops($userId)
+    public function showUserDrops($slug)
     {
-        $user = User::findOrFail($userId);
-
+        $user = User::where('slug', $slug)->firstOrFail();
         // Verifique se o usuário é um trabalhador
         if ($user->type != 'worker') {
             return redirect()->back()->with('error', 'User is not a worker.');

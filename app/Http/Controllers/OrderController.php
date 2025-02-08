@@ -171,12 +171,12 @@ class OrderController extends Controller
         return view('panel.orders.allorders', compact('orders', 'users'));
     }
 
-    public function showUserOrders($userId)
+    public function showUserOrders($slug)
     {
-        $user = User::findOrFail($userId);
-        $orders = Order::where('user_id', $userId)->get();
+        $user = User::where('slug', $slug)->firstOrFail();
+        $orders = Order::where('user_id', $user->slug)->get();
 
-        return view('panel.orders.userorders', ['user' => $user, 'orders' => $orders]);
+        return view('panel.orders.userorders', compact('user', 'orders'));
     }
 
     /**

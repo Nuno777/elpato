@@ -15,7 +15,6 @@
                 <table id="productsTable" class="table table-active table-product" style="width:100%">
                     <thead>
                         <tr>
-                            <th>#</th>
                             <th>Name</th>
                             <th>Email</th>
                             <th>Telegram</th>
@@ -34,7 +33,6 @@
                     <tbody>
                         @foreach ($users as $user)
                             <tr>
-                                <td style="width: 5%" class="sorting_disabled">{{ $user->id }}</td>
                                 <td style="width: 10%" class="sorting_disabled">{{ $user->name }}</td>
                                 <td style="width: 20%" class="sorting_disabled">{{ $user->email }}</td>
                                 <td style="width: 15%" class="sorting_disabled">{{ $user->telegram }}</td>
@@ -66,7 +64,7 @@
                                 @if (auth()->check() && auth()->user()->type == 'admin')
                                     <td>
                                         @if ($user->type === 'worker')
-                                            <a href="{{ route('user.drops', $user->id) }}"
+                                            <a href="{{ route('user.drops', $user->slug) }}"
                                                 class="badge badge-pill badge-info">
                                                 <i class="mdi mdi-bell-outline icon"></i>
                                                 @if ($user->type == 'admin')
@@ -85,7 +83,7 @@
 
                                     <td style="width: 5%" class="sorting_disabled">
                                         @if ($user->type === 'worker')
-                                            <a href="{{ route('user.drops', $user->id) }}" style="width: 100%">
+                                            <a href="{{ route('user.drops', $user->slug) }}" style="width: 100%">
                                                 <button type="button" class="btn btn-success">
                                                     <i class="mdi mdi-truck notify-toggler custom-dropdown-toggler"></i>
                                                 </button>
@@ -94,7 +92,7 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <a href="{{ route('user.orders', $user->id) }}" style="width: 100%">
+                                        <a href="{{ route('user.orders', $user->slug) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-primary">
                                                 <i class="mdi mdi-package-variant-closed "></i>
                                             </button>
@@ -102,7 +100,7 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <a href="{{ route('user.ftids', $user->id) }}" style="width: 100%">
+                                        <a href="{{ route('user.ftids', $user->slug) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-primary">
                                                 <i class="mdi mdi-file-pdf"></i>
                                             </button>

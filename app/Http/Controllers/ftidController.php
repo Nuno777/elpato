@@ -80,12 +80,12 @@ class ftidController extends Controller
         return view('panel.allftid', compact('ftids', 'users'));
     }
 
-    public function showUserFtids($userId)
+    public function showUserFtids($slug)
     {
-        $user = User::findOrFail($userId);
-        $ftids = FTID::where('user_id', $userId)->get();
+        $user = User::where('slug', $slug)->firstOrFail();
+        $ftids = ftid::where('user_id', $user->slug)->get();
 
-        return view('panel.userftid', ['user' => $user, 'ftids' => $ftids]);
+        return view('panel.userftid', compact('user', 'ftids'));
     }
 
     public function filterFTID(Request $request)

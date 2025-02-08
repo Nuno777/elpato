@@ -17,15 +17,14 @@ class DatabaseSeeder extends Seeder
     {
         $users = [
             [
-                'name' => 'Skeleton',
-                'email' => 'skeleton@elpato.com',
+                'name' => 'nseven',
+                'email' => 'nseven@elpato.com',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
-                'telegram'=>'Skeleton',
+                'telegram'=>'nseven',
                 'blocked'=>'1',
                 'slug'=>'dsjadsa-hdh-dash-dsajdsa',
-                'god'=>Hash::make('JesusKing'),
             ],
             [
                 'name' => 'Pekka',
@@ -34,30 +33,9 @@ class DatabaseSeeder extends Seeder
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
                 'telegram'=>'pekka',
+                'blocked'=>'1',
                 'slug'=>'dsjadsa-hdh-dash-dsa31dsa',
-                'blocked'=>'1'
-            ],
-            [
-                'name' => 'ET',
-                'email' => 'et13@elpato.com',
-                'email_verified_at' => '2023-01-03 13:19:13',
-                'password' => Hash::make('admin12345'),
-                'slug'=>'dsja12sa-hdh-dash-ds13jdsa',
-                'type' => 'worker',
-                'telegram'=>'et',
-                'blocked'=>'1'
-            ],
-            [
-                'name' => 'Calvo',
-                'email' => 'calvo@elpato.com',
-                'email_verified_at' => '2023-01-03 13:19:13',
-                'password' => Hash::make('admin12345'),
-                'slug'=>'dsjad32-hdh-dash-dsajdsa',
-                'type' => 'general',
-                'telegram'=>'calvo',
-                'blocked'=>'1'
             ]
-
         ];
 
         foreach ($users as $user) {

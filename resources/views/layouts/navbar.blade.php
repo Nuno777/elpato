@@ -4,8 +4,8 @@
         <div class="app-brand">
             <a href="{{ route('dashboard') }}">
                 <img src="{{ asset('/images/icon.png') }}" alt="Mono" style="height: 100%;">
-                <img src="{{ asset('/images/PainelIMG.png') }}" alt="Mono" style="margin-left:20px; height: 50%;">
-
+                {{-- <img src="{{ asset('/images/PainelIMG.png') }}" alt="Mono" style="margin-left:20px; height: 50%;"> --}}
+                <h4>EL Panel</h4>
             </a>
         </div>
 
