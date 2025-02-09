@@ -35,7 +35,6 @@
 </head>
 
 <body class="navbar-fixed sidebar-fixed" id="body">
-    @include('layouts.snowfall')
     <div class="wrapper">
 
         @include('layouts.navbar')

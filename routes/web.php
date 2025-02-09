@@ -27,77 +27,77 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/enable-2fa', [UserController::class, 'enable2fa'])->name('enable-2fa');
         Route::post('/panel/verify-2fa', [UserController::class, 'verify2FA'])->name('verify-2fa.submit');
 
-        Route::get('/panel/dashboard/drops', [DropController::class, 'create'])->name('createdrops');
-        Route::post('/panel/dashboard/drops', [DropController::class, 'store'])->name('createdrops.store');
-        Route::get('/panel/dashboard/drops/{slug}/edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
-        Route::put('/panel/dashboard/drops/{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
+        Route::get('/panel/control-panel/drops', [DropController::class, 'create'])->name('createdrops');
+        Route::post('/panel/control-panel/drops', [DropController::class, 'store'])->name('createdrops.store');
+        Route::get('/panel/control-panel/drops/{slug}/edit', [DropController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('editdrops.edit');
+        Route::put('/panel/control-panel/drops/{slug}', [DropController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('drops.update');
 
-        Route::post('/panel/dashboard/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
-        Route::get('/panel/dashboard/drops/filter', [DropController::class, 'filterDropsByType']);
-        Route::post('/panel/dashboard/drops/get-drops-for-worker', [DropController::class, 'getDropsForWorker'])->name('get.drops.for.worker');
+        Route::post('/panel/control-panel/assign-drop-to-worker', [DropController::class, 'assignDropToWorker'])->name('assign.worker.drop');
+        Route::get('/panel/control-panel/drops/filter', [DropController::class, 'filterDropsByType']);
+        Route::post('/panel/control-panel/drops/get-drops-for-worker', [DropController::class, 'getDropsForWorker'])->name('get.drops.for.worker');
     });
 
     //perms admin
     Route::middleware(['admin', '2fa', Admin::class])->group(function () {
-        Route::get('/panel/dashboard', [PageController::class, 'adminpainel'])->name('adminpainel');
+        Route::get('/panel/control-panel', [PageController::class, 'adminpainel'])->name('adminpainel');
 
-        Route::delete('/panel/dashboard/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
+        Route::delete('/panel/control-panel/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');
 
-        Route::get('/panel/dashboard/order/status/{slug}/edit', [OrderController::class, 'statusedit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorderstatus.edit');
-        Route::put('/panel/dashboard/order/status/{slug}', [OrderController::class, 'statusupdate'])->where('slug', '[a-zA-Z0-9-]+')->name('orderstatus.update');
-        Route::get('/panel/dashboard/orders/show', [OrderController::class, 'show'])->name('orders.show');
-        Route::get('/panel/dashboard/all-orders', [OrderController::class, 'allshow'])->name('orders.all');
-        Route::get('/panel/dashboard/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
+        Route::get('/panel/control-panel/order/status/{slug}/edit', [OrderController::class, 'statusedit'])->where('slug', '[a-zA-Z0-9-]+')->name('editorderstatus.edit');
+        Route::put('/panel/control-panel/order/status/{slug}', [OrderController::class, 'statusupdate'])->where('slug', '[a-zA-Z0-9-]+')->name('orderstatus.update');
+        Route::get('/panel/control-panel/orders/show', [OrderController::class, 'show'])->name('orders.show');
+        Route::get('/panel/control-panel/all-orders', [OrderController::class, 'allshow'])->name('orders.all');
+        Route::get('/panel/control-panel/orders/filter', [OrderController::class, 'filterOrders'])->name('orders.filter');
 
         //restore order
-        Route::put('/panel/dashboard/orders/{id}/restore', [OrderController::class, 'restore'])->name('orders.restore');
-        Route::get('/panel/dashboard/orders-softdeleted', [OrderController::class, 'allShowDeleted'])->name('orders.deleted');
-        Route::delete('/panel/dashboard/orders/{slug}/force-delete', [OrderController::class, 'forceDelete'])->where('slug', '[a-zA-Z0-9-]+')->name('orders.forceDelete');
+        Route::put('/panel/control-panel/orders/{id}/restore', [OrderController::class, 'restore'])->name('orders.restore');
+        Route::get('/panel/control-panel/orders-softdeleted', [OrderController::class, 'allShowDeleted'])->name('orders.deleted');
+        Route::delete('/panel/control-panel/orders/{slug}/force-delete', [OrderController::class, 'forceDelete'])->where('slug', '[a-zA-Z0-9-]+')->name('orders.forceDelete');
 
-        Route::get('/panel/dashboard/all-ftid', [ftidController::class, 'allshow'])->name('ftid.all');
-        Route::get('/panel/dashboard/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
-        Route::get('/panel/dashboard/ftid-status-{id}-edit', [ftidController::class, 'statusedit'])->name('editftidstatus.edit');
-        Route::put('/panel/dashboard/ftid-status/{id}', [ftidController::class, 'statusupdate'])->name('ftidstatus.update');
+        Route::get('/panel/control-panel/all-ftid', [ftidController::class, 'allshow'])->name('ftid.all');
+        Route::get('/panel/control-panel/ftid/filter', [ftidController::class, 'filterFTID'])->name('ftid.filter');
+        Route::get('/panel/control-panel/ftid-status-{id}-edit', [ftidController::class, 'statusedit'])->name('editftidstatus.edit');
+        Route::put('/panel/control-panel/ftid-status/{id}', [ftidController::class, 'statusupdate'])->name('ftidstatus.update');
 
-        Route::get('/panel/dashboard/create-user', [UserController::class, 'index'])->name('createuser');
-        Route::get('/panel/dashboard/create-user', [UserController::class, 'create'])->name('createuser');
-        Route::post('/panel/dashboard/create-user', [UserController::class, 'store'])->name('createuser.store');
-        Route::get('/panel/dashboard/user-{slug}-edit', [UserController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('edituser.edit');
-        Route::put('/panel/dashboard/user/{slug}', [UserController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('user.update');
-        Route::get('/panel/dashboard/all-users', [UserController::class, 'allshow'])->name('user.all');
-        Route::delete('/panel/dashboard/user/{slug}', [UserController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('user.destroy');
-        Route::get('/panel/dashboard/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
-        Route::post('/panel/dashboard/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
-        Route::post('/panel/dashboard/validate-password', [UserController::class, 'validatePassword']);
+        Route::get('/panel/control-panel/create-user', [UserController::class, 'index'])->name('createuser');
+        Route::get('/panel/control-panel/create-user', [UserController::class, 'create'])->name('createuser');
+        Route::post('/panel/control-panel/create-user', [UserController::class, 'store'])->name('createuser.store');
+        Route::get('/panel/control-panel/user-{slug}-edit', [UserController::class, 'edit'])->where('slug', '[a-zA-Z0-9-]+')->name('edituser.edit');
+        Route::put('/panel/control-panel/user/{slug}', [UserController::class, 'update'])->where('slug', '[a-zA-Z0-9-]+')->name('user.update');
+        Route::get('/panel/control-panel/all-users', [UserController::class, 'allshow'])->name('user.all');
+        Route::delete('/panel/control-panel/user/{slug}', [UserController::class, 'destroy'])->where('slug', '[a-zA-Z0-9-]+')->name('user.destroy');
+        Route::get('/panel/control-panel/user/filter', [UserController::class, 'filterUser'])->name('user.filter');
+        Route::post('/panel/control-panel/user-{slug}-set-default-password', [UserController::class, 'setDefaultPassword'])->where('slug', '[a-zA-Z0-9-]+')->name('user.setDefaultPassword');
+        Route::post('/panel/control-panel/validate-password', [UserController::class, 'validatePassword']);
 
         Route::post('/send-verification-code/{slug}', [UserController::class, 'sendVerificationCode']);
         Route::post('/verify-code/{slug}', [UserController::class, 'verifyCode']);
 
 
         //restore users
-        Route::put('/panel/dashboard/user/{slug}/restore', [UserController::class, 'restore'])->name('user.restore');
-        Route::get('/panel/dashboard/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
-        Route::delete('/panel/dashboard/user/{slug}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
+        Route::put('/panel/control-panel/user/{slug}/restore', [UserController::class, 'restore'])->name('user.restore');
+        Route::get('/panel/control-panel/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
+        Route::delete('/panel/control-panel/user/{slug}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
 
-        Route::get('/panel/dashboard/users-orders-{slug}', [OrderController::class, 'showUserOrders'])->where('slug', '[a-zA-Z0-9-]+')->name('user.orders');
-        Route::get('/panel/dashboard/users-ftids-{id}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
-        Route::get('/panel/dashboard/users-drops-{slug}', [DropController::class, 'showUserDrops'])->where('slug', '[a-zA-Z0-9-]+')->name('user.drops');
+        Route::get('/panel/control-panel/users-orders-{slug}', [OrderController::class, 'showUserOrders'])->where('slug', '[a-zA-Z0-9-]+')->name('user.orders');
+        Route::get('/panel/control-panel/users-ftids-{slug}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
+        Route::get('/panel/control-panel/users-drops-{slug}', [DropController::class, 'showUserDrops'])->where('slug', '[a-zA-Z0-9-]+')->name('user.drops');
 
-        Route::post('/panel/dashboard/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
+        Route::post('/panel/control-panel/remove-drop-to-worker', [DropController::class, 'removeDropToWorker'])->name('remove.drop.worker');
 
-        Route::get('/panel/dashboard/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');
-        Route::get('/panel/dashboard/show-messages/{Id}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
-        Route::get('/panel/dashboard/messages-{message}-edit', [MessageController::class, 'edit'])->name('messages.edit');
-        Route::put('/panel/dashboard/messages/{message}', [MessageController::class, 'update'])->name('messages.update');
+        Route::get('/panel/control-panel/show-messages-all', [MessageController::class, 'show'])->name('showMessageAll');
+        Route::get('/panel/control-panel/show-messages/{Id}', [MessageController::class, 'showMessageUser'])->name('showUserMessage');
+        Route::get('/panel/control-panel/messages-{message}-edit', [MessageController::class, 'edit'])->name('messages.edit');
+        Route::put('/panel/control-panel/messages/{message}', [MessageController::class, 'update'])->name('messages.update');
         Route::delete('/messages/{id}', [MessageController::class, 'destroy'])->name('messages.destroy');
 
-        Route::post('/panel/dashboard/send-message', [TelegramBotController::class, 'sendMessage'])->name('sendMessage');
-        Route::get('/panel/dashboard/send-message-form', [TelegramBotController::class, 'showSendMessageForm'])->name('sendMessage.telegram');
+        Route::post('/panel/control-panel/send-message', [TelegramBotController::class, 'sendMessage'])->name('sendMessage');
+        Route::get('/panel/control-panel/send-message-form', [TelegramBotController::class, 'showSendMessageForm'])->name('sendMessage.telegram');
 
         //logs
-        Route::get('/panel/dashboard/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
-        Route::get('/panel/dashboard/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
-        Route::get('/panel/dashboard/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
+        Route::get('/panel/control-panel/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
+        Route::get('/panel/control-panel/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
+        Route::get('/panel/control-panel/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
 
         //refs
         Route::get('/orders-refund', [OrderRefController::class, 'index'])->name('orders.ref');

@@ -13458,12 +13458,12 @@ p {
 }
 
 ::-moz-selection {
-    background-color: #0e84cc;
+    background-color: #12871A;
     color: #ffffff;
 }
 
 ::selection {
-    background-color: #0e84cc;
+    background-color: #12871A;
     color: #ffffff;
 }
 

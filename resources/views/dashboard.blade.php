@@ -7,13 +7,6 @@
 
 <div class="content-wrapper">
     <div class="content">
-        <div class="alert alert-info alert-icon" role="alert">
-            <i class="mdi mdi-alert-circle-outline"></i> <b style="color:#000;">Latest update: Dark mode, just go where
-                your name is, click, and enable dark mode.</b>
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                <span aria-hidden="true">×</span>
-            </button>
-        </div>
         <div class="row">
 
             <div class="col-xl-3 col-sm-6">
