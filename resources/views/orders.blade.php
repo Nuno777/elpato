@@ -30,7 +30,7 @@
                     </thead>
                     <tbody>
                         @foreach ($orders as $order)
-                            @if (auth()->user()->id == $order->user_id)
+                            @if (auth()->user()->uuid == $order->user_id)
                                 <tr
                                     style="background-color:
                                     @if ($order->status == 'Ready') #00CB38;

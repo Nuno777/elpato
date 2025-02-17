@@ -59,12 +59,12 @@ class Order extends Model
 
     public function setQuantAttribute($value)
     {
-        $this->attributes['quant'] = Crypt::encryptString($value);
+        $this->attributes['quant'] = Crypt::encryptString(intval($value));
     }
 
     public function setPriceAttribute($value)
     {
-        $this->attributes['price'] = Crypt::encryptString($value);
+        $this->attributes['price'] = Crypt::encryptString(floatval($value));
     }
 
     public function setTrackingAttribute($value)

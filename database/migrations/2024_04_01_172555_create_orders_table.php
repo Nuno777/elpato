@@ -20,8 +20,8 @@ return new class extends Migration
             $table->string('product')->notnull();
             $table->string('name')->notnull();
             $table->string('address')->notnull();
-            $table->integer('quant')->notnull();
-            $table->float('price')->notnull();
+            $table->string('quant')->notnull();
+            $table->string('price')->notnull();
             $table->string('tracking')->notnull();
             $table->string('code')->notnull();
             $table->string('holder')->notnull();

@@ -23,16 +23,15 @@ class OrderController extends Controller
         $this->middleware('auth');
     }
 
-    /**
-     * Display a listing of the resource.
-     */
     public function index()
     {
-        $orders = Order::orderByDesc('created_at')->get();
+        $user = auth()->user();
+
+        $orders = Order::where('user_id', $user->uuid)->get(); // Usa o uuid do usuário autenticado
         $drops = Drop::orderByDesc('created_at')->get();
 
-        if (auth()->user()->type == 'worker') {
-            $messages = Message::where('user_id', auth()->user()->uuid)->orderBy('created_at', 'DESC')->get();
+        if ($user->type == 'worker') {
+            $messages = Message::where('user_id', $user->uuid)->orderBy('created_at', 'DESC')->get();
         } else {
             $messages = Message::orderBy('created_at', 'DESC')->get();
         }
@@ -40,20 +39,17 @@ class OrderController extends Controller
         return view('orders', compact('orders', 'drops', 'messages'));
     }
 
-
-    /**
-     * Show the form for creating a new resource.
-     */
     public function create()
     {
         return view('modal.createorders');
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
     public function store(Request $request)
     {
+        if (!Auth::check()) {
+            return redirect()->back()->with('error', 'User not authenticated.');
+        }
+
         $request->validate([
             'id_drop' => 'required',
             'user' => 'required',
@@ -71,39 +67,27 @@ class OrderController extends Controller
             'status' => 'required',
         ]);
 
-        // Definindo valores extras de acordo com as necessidades
-        $fields['pickup'] = $request->has('pickup') ? 1 : 0;
-        $fields['signature'] = $request->has('signature') ? 1 : 0;
-
         try {
-            // Criar a nova ordem
             $order = new Order();
             $order->uuid = Str::uuid();
-            // Preencher os campos e adicionar os valores extras
             $order->fill($request->all());
-            $order->user_id = Auth::user()->id;
+            $order->user_id = Auth::user()->uuid;
 
-            // Gerar um slug único
+            // Gerar slug
             do {
                 $slug = $this->generateComplexSlug();
-            } while (Order::where('slug', $slug)->exists()); // Verifica se já existe um slug igual
+            } while (Order::where('slug', $slug)->exists());
 
             $order->slug = $slug;
-
-            // Salvar a ordem
             $order->save();
 
-            // Enviar notificação para um único usuário, se necessário
             // $this->notifyTelegramUser($order);
 
-            Log::channel('order')->info("Order created by user " . Auth::user()->name . " - Order " . $order->id_drop);
+            Log::channel('order')->info("Order created by user " . Auth::user()->name . " - Order " . $order->uuid);
 
             return redirect()->route('orders')->with('success', 'The order was entered successfully!');
         } catch (\Exception $e) {
-            Log::error('Error occurred while saving the order: ' . $e->getMessage(), [
-                'stack' => $e->getTraceAsString(),
-                'request' => $request->all(),
-            ]);
+            Log::channel('order')->info("An error occurred while entering the order by user " . Auth::user()->name . " - Order " . $order->uuid);
 
             return redirect()->back()->with('error', 'An error occurred while entering the Order. Please try again.');
         }
@@ -143,17 +127,12 @@ class OrderController extends Controller
             substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 3) . '-' .
             substr(str_shuffle('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'), 0, 2);
 
-        // Gera uma parte aleatória do slug com letras e números
-        $randomPart = substr(str_shuffle($characters), 0, 10); // 10 caracteres aleatórios
+        $randomPart = substr(str_shuffle($characters), 0, 10);
         $randomPartend = substr(str_shuffle($characters), 0, 10);
 
-        // Cria o slug final com o nome, o meio e a parte aleatória
         return $randomPart . '-' . $middlePart . '-' . $randomPartend;
     }
 
-    /**
-     * Display the specified resource.
-     */
     public function show(Order $order)
     {
         return view('modal.showorders', compact('order'));
