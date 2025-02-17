@@ -12,7 +12,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('drops', function (Blueprint $table) {
-            $table->id();
+            $table->uuid('uuid')->primary();
+            $table->string('slug')->unique()->notnull();
             $table->string('id_drop')->unique()->notnull();
             $table->string('name')->notnull();
             $table->string('address')->unique()->notnull();

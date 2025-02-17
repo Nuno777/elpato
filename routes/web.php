@@ -98,11 +98,6 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/control-panel/login-logs', [LogController::class, 'loginLogs'])->name('login.logs');
         Route::get('/panel/control-panel/users-logs', [LogController::class, 'usersLogs'])->name('users.logs');
         Route::get('/panel/control-panel/orders-logs', [LogController::class, 'ordersLogs'])->name('orders.logs');
-
-        //refs
-        Route::get('/orders-refund', [OrderRefController::class, 'index'])->name('orders.ref');
-        Route::get('/orders/create', [OrderRefController::class, 'create'])->name('orders.create');
-        Route::post('/orders-refund', [OrderRefController::class, 'store'])->name('ordersRef.store');
     });
 
     //perms admin or general

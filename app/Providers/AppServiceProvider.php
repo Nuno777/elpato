@@ -27,9 +27,9 @@ class AppServiceProvider extends ServiceProvider
             if (auth()->check()) {
                 // Filtra as mensagens de acordo com o tipo de usuário
                 if (auth()->user()->type == 'worker') {
-                    $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+                    $messages = Message::where('user_id', auth()->user()->uuid)->orderBy('created_at', 'DESC')->get();
                 } else {
-                    $messages = Message::orderBy('id', 'DESC')->get();
+                    $messages = Message::orderBy('created_at', 'DESC')->get();
                 }
                 // Compartilha as mensagens com todas as views
                 $view->with('messages', $messages);

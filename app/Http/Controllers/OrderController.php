@@ -9,6 +9,7 @@ use App\Models\Drop;
 use App\Models\User;
 use App\Models\Message;
 use Telegram\Bot\Api;
+use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Log;
 
 
@@ -27,13 +28,13 @@ class OrderController extends Controller
      */
     public function index()
     {
-        $orders = Order::orderByDesc('id')->get();
-        $drops = Drop::orderByDesc('id')->get();
+        $orders = Order::orderByDesc('created_at')->get();
+        $drops = Drop::orderByDesc('created_at')->get();
 
         if (auth()->user()->type == 'worker') {
-            $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+            $messages = Message::where('user_id', auth()->user()->uuid)->orderBy('created_at', 'DESC')->get();
         } else {
-            $messages = Message::orderBy('id', 'DESC')->get();
+            $messages = Message::orderBy('created_at', 'DESC')->get();
         }
 
         return view('orders', compact('orders', 'drops', 'messages'));
@@ -66,31 +67,44 @@ class OrderController extends Controller
             'holder' => 'required',
             'comments' => 'required',
             'option' => 'required',
-            'delivery' => 'required',
             'shop' => 'required',
             'status' => 'required',
         ]);
 
+        // Definindo valores extras de acordo com as necessidades
         $fields['pickup'] = $request->has('pickup') ? 1 : 0;
         $fields['signature'] = $request->has('signature') ? 1 : 0;
 
         try {
             // Criar a nova ordem
             $order = new Order();
+            $order->uuid = Str::uuid();
+            // Preencher os campos e adicionar os valores extras
             $order->fill($request->all());
             $order->user_id = Auth::user()->id;
+
+            // Gerar um slug único
             do {
                 $slug = $this->generateComplexSlug();
             } while (Order::where('slug', $slug)->exists()); // Verifica se já existe um slug igual
 
             $order->slug = $slug;
+
+            // Salvar a ordem
             $order->save();
 
-            // Enviar notificação para um único usuário
-            //$this->notifyTelegramUser($order);
+            // Enviar notificação para um único usuário, se necessário
+            // $this->notifyTelegramUser($order);
+
             Log::channel('order')->info("Order created by user " . Auth::user()->name . " - Order " . $order->id_drop);
+
             return redirect()->route('orders')->with('success', 'The order was entered successfully!');
         } catch (\Exception $e) {
+            Log::error('Error occurred while saving the order: ' . $e->getMessage(), [
+                'stack' => $e->getTraceAsString(),
+                'request' => $request->all(),
+            ]);
+
             return redirect()->back()->with('error', 'An error occurred while entering the Order. Please try again.');
         }
     }

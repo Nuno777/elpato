@@ -9,8 +9,12 @@ class UserDropPreference extends Model
 {
     use HasFactory;
 
+    protected $primaryKey = 'uuid';
+    public $incrementing = false;
+    protected $keyType = 'string';
+
     protected $table = 'user_drop_preferences';
-    protected $fillable = ['chat_id', 'drop_ids'];
+    protected $fillable = ['uuid','chat_id', 'drop_ids','username','telegram'];
 
     public function user()
     {

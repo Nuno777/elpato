@@ -6,19 +6,19 @@ $(document).ready(function () {
 
         switch (selectedValue) {
             case 'Ready':
-                backgroundColor = '#82FB6A';
+                backgroundColor = '#00CB38';
                 textColor = 'black';
                 break;
             case 'Suspense':
-                backgroundColor = '#424945';
+                backgroundColor = '#515151';
                 textColor = 'white';
                 break;
             case 'Dont send':
-                backgroundColor = '#F1DD50';
+                backgroundColor = '#FFEA51';
                 textColor = 'black';
                 break;
             case 'Problem':
-                backgroundColor = '#FF7059';
+                backgroundColor = '#FF7760';
                 textColor = 'white';
                 break;
             case 'Going to die':
@@ -56,19 +56,19 @@ $(document).ready(function () {
                 textColor = 'black';
                 break;
             case 'Ready':
-                backgroundColor = '#82FB6A';
+                backgroundColor = '#00CB38';
                 textColor = 'black';
                 break;
             case 'Suspense':
-                backgroundColor = '#424945';
+                backgroundColor = '#515151';
                 textColor = 'white';
                 break;
             case 'Dont send':
-                backgroundColor = '#F1DD50';
+                backgroundColor = '#FFEA51';
                 textColor = 'black';
                 break;
             case 'Problem':
-                backgroundColor = '#FF7059';
+                backgroundColor = '#FF7760';
                 textColor = 'white';
                 break;
             case 'Going to die':

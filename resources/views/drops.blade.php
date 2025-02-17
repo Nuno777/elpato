@@ -76,10 +76,10 @@
                             @foreach ($drops as $drop)
                                 <tr
                                     style="background-color:
-                                @if ($drop->status == 'Ready') #85f36e;
-                                @elseif ($drop->status == 'Suspense') #838383;
-                                @elseif ($drop->status == 'Dont send') #fff085;
-                                @elseif ($drop->status == 'Problem') #ff9e8e;
+                                @if ($drop->status == 'Ready') #00CB38;
+                                @elseif ($drop->status == 'Suspense') #515151;
+                                @elseif ($drop->status == 'Dont send') #FFEA51;
+                                @elseif ($drop->status == 'Problem') #FF7760;
                                 @elseif ($drop->status == 'Going to die') #F8ABEE; @endif
                                 color:
                                 @if ($drop->status == 'Suspense') white; @else black; @endif">
@@ -90,7 +90,7 @@
                                     <td><b>{{ $drop->status }}</b></td>
                                     <td>{{ $drop->notes }}</td>
                                     <td>{{ $drop->type }}</td>
-                                    <td>{{ \Carbon\Carbon::parse($drop->expired)->format('d-m-Y') }}</td>
+                                    <td>{{ date('d-m-Y', strtotime($drop->expired)) }}</td>
                                     <td>{{ $drop->personalnotes }}</td>
                                     <td>
                                         @if ($drop->status == 'Ready')

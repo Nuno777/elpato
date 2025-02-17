@@ -54,8 +54,8 @@ class MessageController extends Controller
             ]);
 
             // Verificar se o usuário já enviou uma mensagem para este drop nas últimas 20 horas
-            $lastMessage = Message::where('drop_id', $drop->id)
-                ->where('user_id', auth()->user()->id)
+            $lastMessage = Message::where('drop_id', $drop->uuid)
+                ->where('user_id', auth()->user()->uuid)
                 ->latest()
                 ->first();
 
@@ -68,8 +68,8 @@ class MessageController extends Controller
 
             // Criar uma nova mensagem
             $message = new Message();
-            $message->drop_id = $drop->id;
-            $message->user_id = auth()->user()->id;
+            $message->drop_id = $drop->uuid;
+            $message->user_id = auth()->user()->uuid;
             $message->message = $request->message;
             $message->save();
 

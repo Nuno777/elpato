@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::table('orders', function (Blueprint $table) {
             if (!Schema::hasColumn('orders', 'slug')) {
-                $table->string('slug')->unique()->after('id');
+                $table->string('slug')->unique()->notnull()->after('uuid');
             }
         });
     }

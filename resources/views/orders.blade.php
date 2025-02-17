@@ -33,10 +33,10 @@
                             @if (auth()->user()->id == $order->user_id)
                                 <tr
                                     style="background-color:
-                                    @if ($order->status == 'Ready') #85f36e;
-                                    @elseif ($order->status == 'Suspense') #838383;
-                                    @elseif ($order->status == 'Dont send') #fff085;
-                                    @elseif ($order->status == 'Problem') #ff9e8e;
+                                    @if ($order->status == 'Ready') #00CB38;
+                                    @elseif ($order->status == 'Suspense') #515151;
+                                    @elseif ($order->status == 'Dont send') #FFEA51;
+                                    @elseif ($order->status == 'Problem') #FF7760;
                                     @elseif ($order->status == 'Received') #b491c8;
                                     @elseif ($order->status == 'Sent to buyer') #ffb74d;
                                     @elseif ($order->status == 'Waiting payment') #99d18f; @endif

@@ -26,6 +26,13 @@ class AuthenticatedSessionController extends Controller
      */
     public function store(LoginRequest $request): RedirectResponse
     {
+        /* $request->validate([
+            'g-recaptcha-response' => 'required|captcha',
+        ], [
+            'g-recaptcha-response.required' => 'Please confirm that you are not a robot.',
+            'g-recaptcha-response.captcha' => 'reCAPTCHA verification failed. Please try again.',
+        ]); */
+
         $credentials = $request->only('email', 'password');
         $remember = $request->has('remember');
         $user = User::where('email', $credentials['email'])->first();

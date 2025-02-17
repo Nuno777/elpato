@@ -12,7 +12,7 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('users', function (Blueprint $table) {
-            $table->id();
+            $table->uuid('uuid')->primary();
             $table->string('name')->unique()->notnull();
             $table->string('email')->unique()->notnull();
             $table->timestamp('email_verified_at')->nullable();
@@ -21,7 +21,6 @@ return new class extends Migration
             $table->string('telegram')->unique()->notnull();
             $table->string('profile_image')->nullable();
             $table->boolean('blocked')->notnull()->default(0);
-            $table->string('god')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });

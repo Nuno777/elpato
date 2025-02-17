@@ -6,7 +6,7 @@ $(document).ready(function () {
 
         switch (selectedValue) {
             case 'FTID Created':
-                backgroundColor = '#85f36e';
+                backgroundColor = '#00CB38';
                 textColor = 'black';
                 break;
             case 'FTID Paid':
@@ -18,7 +18,7 @@ $(document).ready(function () {
                 textColor = 'black';
                 break;
             case 'FTID Error':
-                backgroundColor = '#ff9e8e';
+                backgroundColor = '#FF7760';
                 textColor = 'black';
                 break;
             default:

@@ -12,11 +12,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('user_drop_preferences', function (Blueprint $table) {
-            $table->id();
-            $table->bigInteger('chat_id')->index(); // ID do chat no Telegram
-            $table->string('drop_ids'); // IDs das drops seguidas pelo utilizador, separados por vírgulas
+            $table->uuid('uuid')->primary();
+            $table->bigInteger('chat_id')->index();
+            $table->string('drop_ids');
             $table->string('username');
-            $table->timestamps(); // Criado em e atualizado em
+            $table->string('telegram');
+            $table->timestamps();
         });
     }
 

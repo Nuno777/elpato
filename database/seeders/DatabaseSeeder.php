@@ -17,8 +17,9 @@ class DatabaseSeeder extends Seeder
     {
         $users = [
             [
+                'uuid'=>'0a730be4-367e-489b-bc89-ec9c03757a23',
                 'name' => 'nseven',
-                'email' => 'nseven@elpato.com',
+                'email' => 'nseven@elpato.xyz',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',
@@ -27,8 +28,9 @@ class DatabaseSeeder extends Seeder
                 'slug'=>'dsjadsa-hdh-dash-dsajdsa',
             ],
             [
+                'uuid'=>'1ea559c6-5f9f-45a1-bcc8-f46b072dc36a',
                 'name' => 'Pekka',
-                'email' => 'pekka@elpato.com',
+                'email' => 'pekka@elpato.xyz',
                 'email_verified_at' => '2023-01-03 13:19:13',
                 'password' => Hash::make('admin12345'),
                 'type' => 'admin',

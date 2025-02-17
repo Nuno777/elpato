@@ -13,12 +13,13 @@ class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable, SoftDeletes;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
+    protected $primaryKey = 'uuid';
+    public $incrementing = false;
+    protected $keyType = 'string';
+
     protected $fillable = [
+        'uuid',
+        'slug',
         'name',
         'email',
         'password',
@@ -26,36 +27,18 @@ class User extends Authenticatable
         'type',
         'telegram',
         'profile_image',
-        'blocked',
-        'slug'
+        'blocked'
     ];
 
-    /**
-     * The attributes that should be hidden for serialization.
-     *
-     * @var array<int, string>
-     */
     protected $hidden = [
         'password',
         'remember_token',
     ];
 
-    /**
-     * The attributes that should be cast.
-     *
-     * @var array<string, string>
-     */
     protected $casts = [
         'email_verified_at' => 'datetime',
         'password' => 'hashed',
     ];
-
-    //protected $username = 'name';
-
-    /* public function getAuthIdentifierName()
-    {
-        return 'name';
-    } */
 
     public function orders()
     {
@@ -74,7 +57,7 @@ class User extends Authenticatable
 
     public function messages()
     {
-        return $this->hasMany(Message::class);
+        return $this->hasMany(Message::class, 'user_id');
     }
 
     public function preferences()

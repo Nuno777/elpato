@@ -9,15 +9,19 @@ class Message extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['drop_id', 'user_id', 'message', 'response'];
+    protected $primaryKey = 'uuid';
+    public $incrementing = false;
+    protected $keyType = 'string';
+
+    protected $fillable = ['uuid','drop_id', 'user_id', 'message', 'response'];
 
     public function drop()
     {
-        return $this->belongsTo(Drop::class);
+        return $this->belongsTo(Drop::class,'drop_id');
     }
 
     public function user()
     {
-        return $this->belongsTo(User::class);
+        return $this->belongsTo(User::class, 'user_id');
     }
 }

@@ -98,15 +98,6 @@
                         </a>
                     </li>
                 @endif
-
-                @if (auth()->check() && auth()->user()->type == 'admin')
-                    <li class="@if (Request::is('orders-refund')) active @endif">
-                        <a class="sidenav-item-link" href="{{ route('orders.ref') }}">
-                            <i class="mdi mdi-package-variant"></i>
-                            <span class="nav-text">Orders Refund</span>
-                        </a>
-                    </li>
-                @endif
             </ul>
         </div>
 

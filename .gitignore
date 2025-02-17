@@ -17,5 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/app/console/commands/EncryptFiles.php
-/app/console/commands/DecryptFiles.php

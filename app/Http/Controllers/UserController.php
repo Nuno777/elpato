@@ -71,7 +71,7 @@ class UserController extends Controller
 
         if ($cachedCode && $cachedCode == $request->code) {
             Cache::forget("verification_code_{$slug}");
-            
+
             $google2faSecret = $this->generateRandomString(rand(15, 25));
             $user->google2fa_secret = $google2faSecret;
             $user->save();
@@ -217,6 +217,7 @@ class UserController extends Controller
         try {
             // Criação do novo usuário
             $user = new User();
+            $user->uuid = Str::uuid();
             $user->name = $fields['name'];
             $user->email = $fields['email'];
             $user->password = bcrypt($fields['password']); // Criptografar a senha antes de salvar
@@ -374,10 +375,10 @@ class UserController extends Controller
     public function allshow(Message $messages)
     {
         // Obter usuários ordenados por ID
-        $users = User::orderBy('id', 'asc')->get();
+        $users = User::orderBy('created_at', 'asc')->get();
         $drops = Drop::all();
         // Ordenar mensagens pelo ID em ordem ascendente
-        $messages = Message::orderBy('id', 'asc')->get();
+        $messages = Message::orderBy('created_at', 'asc')->get();
         $messagesCount = Message::count();
 
         return view('panel.users.allusers', [

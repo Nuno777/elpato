@@ -4,19 +4,104 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Crypt;
 use App\Models\Order;
+use Carbon\Carbon;
 
 class Drop extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes', 'slug'];
+    protected $primaryKey = 'uuid';
+    public $incrementing = false;
+    protected $keyType = 'string';
+
+    protected $fillable = ['uuid', 'slug', 'id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes'];
 
     protected $dates = ['expired'];
 
-    /**
-     * Define o relacionamento com os pedidos (orders).
-     */
+    public function setIdDropAttribute($value)
+    {
+        $this->attributes['id_drop'] = Crypt::encryptString($value);
+    }
+
+    public function setNameAttribute($value)
+    {
+        $this->attributes['name'] = Crypt::encryptString($value);
+    }
+
+    public function setAddressAttribute($value)
+    {
+        $this->attributes['address'] = Crypt::encryptString($value);
+    }
+
+    public function setPackagesAttribute($value)
+    {
+        $this->attributes['packages'] = Crypt::encryptString($value);
+    }
+
+    public function setNotesAttribute($value)
+    {
+        $this->attributes['notes'] = Crypt::encryptString($value);
+    }
+
+    public function setStatusAttribute($value)
+    {
+        $this->attributes['status'] = Crypt::encryptString($value);
+    }
+
+    public function setTypeAttribute($value)
+    {
+        $this->attributes['type'] = Crypt::encryptString($value);
+    }
+
+    public function setPersonalnotesAttribute($value)
+    {
+        $this->attributes['personalnotes'] = Crypt::encryptString($value);
+    }
+
+    // Descriptografar os campos ao acessar no banco
+    public function getIdDropAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getNameAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getAddressAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getPackagesAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getNotesAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getStatusAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getTypeAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+
+    public function getPersonalnotesAttribute($value)
+    {
+        return Crypt::decryptString($value);
+    }
+    //end
+
     public function orders()
     {
         return $this->hasMany(Order::class, 'id_drop', 'id_drop');

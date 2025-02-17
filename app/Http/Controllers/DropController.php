@@ -20,25 +20,22 @@ class DropController extends Controller
     public function __construct()
     {
         // Inicializa a classe Api com o seu token
-        $this->telegram = new Api(env('TELEGRAM_BOT_TOKEN')); // Altere para o seu token de bot real
+        $this->telegram = new Api(env('TELEGRAM_BOT_TOKEN'));
     }
 
-    /**
-     * Display a listing of the resource.
-     */
     public function index()
     {
         if (auth()->user()->type == 'worker') {
-            $messages = Message::where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->get();
+            $messages = Message::where('user_id', auth()->user()->uuid)->orderBy('created_at', 'DESC')->get();
         } else {
-            $messages = Message::orderBy('id', 'DESC')->get();
+            $messages = Message::orderBy('created_at', 'DESC')->get();
         }
 
         if (auth()->user()->type == 'worker') {
             $workerDrops = auth()->user()->drops;
             $drops = $workerDrops->isNotEmpty() ? $workerDrops : [];
         } else {
-            $drops = Drop::orderBy('id', 'DESC')->get();
+            $drops = Drop::orderBy('created_at', 'DESC')->get();
         }
 
         $users = User::all();
@@ -50,9 +47,9 @@ class DropController extends Controller
     {
         // Inicia a query com base no tipo de usuário
         if (auth()->user()->type == 'worker') {
-            $query = auth()->user()->drops()->orderBy('id', 'DESC');
+            $query = auth()->user()->drops()->orderBy('created_at', 'DESC');
         } else {
-            $query = Drop::query()->orderBy('id', 'DESC');
+            $query = Drop::query()->orderBy('created_at', 'DESC');
         }
 
         // Filtra por tipo se especificado
@@ -70,40 +67,34 @@ class DropController extends Controller
         // Retorna a view com os resultados filtrados
         return view('drops', [
             'drops' => $drops,
-            'messages' => Message::where('user_id', auth()->id())->orderBy('id', 'DESC')->get(),
+            'messages' => Message::where('user_id', auth()->id())->orderBy('created_at', 'DESC')->get(),
             'users' => User::all(),
         ]);
     }
 
-
-    /**
-     * Show the form for creating a new resource.
-     */
     public function create()
     {
         $drop = new Drop();
         return view('drops.createdrops', compact('drop'));
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
     public function store(Request $request)
     {
         $fields = $request->validate([
-            'id_drop' => 'required|integer',
+            'id_drop' => 'required|string',
             'name' => 'required|string|max:255',
             'address' => 'required|string|max:500',
             'packages' => 'required|string|max:100',
             'notes' => 'required|string|max:1000',
             'status' => 'required|string',
             'type' => 'required|string',
-            'expired' => 'required|date',
+            'expired' => 'required|date_format:Y-m-d',
             'personalnotes' => 'required|string|max:1000',
         ]);
 
         try {
             $drop = new Drop();
+            $drop->uuid = Str::uuid();
             $drop->fill($fields);
 
             // Gera um slug complexo com letras, números e caracteres especiais
@@ -134,10 +125,6 @@ class DropController extends Controller
         return $randomPart . '-' . $middlePart . '-' . $randomPartend;
     }
 
-
-    /**
-     * Display the specified resource.
-     */
     public function show() {}
 
 

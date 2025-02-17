@@ -12,16 +12,16 @@ return new class extends Migration
     public function up()
     {
         Schema::create('messages', function (Blueprint $table) {
-            $table->id();
-            $table->unsignedBigInteger('drop_id');
-            $table->unsignedBigInteger('user_id');
-            $table->string('message');
+            $table->uuid('uuid')->primary();
+            $table->uuid('drop_id')->notnull();
+            $table->uuid('user_id')->notnull();
+            $table->string('message')->notnull();
             $table->string('response')->nullable();
             $table->timestamps();
 
             // Chaves estrangeiras
-            $table->foreign('drop_id')->references('id')->on('drops')->onDelete('cascade');
-            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->foreign('drop_id')->references('uuid')->on('drops')->onDelete('cascade');
+            $table->foreign('user_id')->references('uuid')->on('users')->onDelete('cascade');
         });
     }
 

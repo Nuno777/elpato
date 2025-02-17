@@ -13,8 +13,8 @@ return new class extends Migration
     {
         Schema::create('ftids', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('user_id')->nullable();
-            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->uuid('user_id')->nullable();
+            $table->foreign('user_id')->references('uuid')->on('users')->onDelete('cascade');
             $table->string('user')->notnull();
             $table->string('carrier')->notnull();
             $table->string('tracking')->notnull();
