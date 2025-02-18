@@ -140,7 +140,7 @@ class OrderController extends Controller
 
     public function allshow()
     {
-        $orders = Order::orderByDesc('id')->get();
+        $orders = Order::orderByDesc('created_at')->get();
         $users = User::all();
         return view('panel.orders.allorders', compact('orders', 'users'));
     }
@@ -292,7 +292,7 @@ class OrderController extends Controller
 
     public function allShowDeleted()
     {
-        $deletedOrders = Order::onlyTrashed()->orderByDesc('id')->get();
+        $deletedOrders = Order::onlyTrashed()->orderByDesc('uuid')->get();
         return view('panel.orders.softdeletedorders', compact('deletedOrders'));
     }
 

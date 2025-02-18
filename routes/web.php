@@ -38,7 +38,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
     });
 
     //perms admin
-    Route::middleware(['admin', '2fa', Admin::class])->group(function () {
+    Route::middleware(['admin', Admin::class])->group(function () {
         Route::get('/panel/control-panel', [PageController::class, 'adminpainel'])->name('adminpainel');
 
         Route::delete('/panel/control-panel/drops/{slug}', [DropController::class, 'destroy'])->name('drops.destroy');

@@ -42,12 +42,12 @@ class User extends Authenticatable
 
     public function orders()
     {
-        return $this->hasMany(Order::class);
+        return $this->hasMany(Order::class, 'user_id', 'uuid');
     }
 
     public function ftid()
     {
-        return $this->hasMany(Ftid::class);
+        return $this->hasMany(Ftid::class,'user_id', 'uuid');
     }
 
     public function drops()

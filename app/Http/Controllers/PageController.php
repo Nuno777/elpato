@@ -79,10 +79,10 @@ class PageController extends Controller
 
         // Obter as drops
         if (in_array($user->type, ['admin', 'general'])) {
-            $dashboardData['drop'] = Drop::orderBy('id', 'DESC')->paginate(5);
+            $dashboardData['drop'] = Drop::orderBy('uuid', 'DESC')->paginate(5);
             $dashboardData['dropCount'] = Drop::count();
         } else {
-            $dashboardData['drop'] = $user->drops()->orderBy('id', 'DESC')->paginate(5);
+            $dashboardData['drop'] = $user->drops()->orderBy('uuid', 'DESC')->paginate(5);
             $dashboardData['dropCount'] = $user->drops()->count();
         }
 
@@ -109,8 +109,8 @@ class PageController extends Controller
             'ordersCount' => $activeOrdersCount,
             'ftidCount' => $ftid->count(),
             'messages' => Message::all(),
-            'orders' => Order::orderBy('id', 'DESC')->paginate(10),
-            'ftid' => ftid::orderBy('id', 'DESC')->paginate(10),
+            'orders' => Order::orderBy('uuid', 'DESC')->paginate(10),
+            'ftid' => ftid::orderBy('uuid', 'DESC')->paginate(10),
             'activeOrdersCount' => $activeOrdersCount,
             'restoreOrdersCount' => $restoreOrdersCount,
             'activeUsersCount' => $activeUsersCount,

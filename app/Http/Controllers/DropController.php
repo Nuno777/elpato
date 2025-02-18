@@ -213,7 +213,6 @@ class DropController extends Controller
         }
     }
 
-
     public function assignDropToWorker(Request $request)
     {
         // Verifica se o usuário tem permissão para atribuir drops
@@ -230,10 +229,18 @@ class DropController extends Controller
         }
 
         $user = User::where('slug', $userSlug)->firstOrFail();
-        $drops = Drop::whereIn('slug', $dropIds)->pluck('id')->toArray();
+        $drops = Drop::whereIn('slug', $dropIds)->get();
 
-        // Usa o sync para adicionar novas drops sem remover as anteriores
-        $user->drops()->syncWithoutDetaching($drops);
+        // Associa os drops ao usuário manualmente e gera o uuid para cada relacionamento
+        foreach ($drops as $drop) {
+            DB::table('user_drop')->insert([
+                'uuid' => (string) Str::uuid(),  // Gerar UUID para cada associação
+                'user_id' => $user->uuid,
+                'drop_id' => $drop->uuid,
+                'created_at' => now(),
+                'updated_at' => now(),
+            ]);
+        }
 
         return redirect()->back()->with('success', 'Drops assigned successfully.');
     }
