@@ -94,7 +94,7 @@
                                 </td>
                                 <td>
                                     @if (auth()->check() && auth()->user()->type == 'admin')
-                                        <a href="{{ route('editorderstatus.edit', $order->id) }}" style="width: 100%">
+                                        <a href="{{ route('editorderstatus.edit', $order->uuid) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-warning">
                                                 <i class="mdi mdi-square-edit-outline text-white"></i>
                                             </button>
@@ -102,7 +102,7 @@
                                     @endif
                                 </td>
                                 <td style="width: 5%" class="sorting_disabled">
-                                    <form role="form" action="{{ route('orders.destroy', $order->id) }}"
+                                    <form role="form" action="{{ route('orders.destroy', $order->uuid) }}"
                                         method="POST" onsubmit="return confirm('Delete order?');">
                                         @csrf
                                         @method('DELETE')
@@ -116,7 +116,7 @@
                             <!-- Modal para exibir os detalhes do pedido -->
                             @include('modal.showorders', [
                                 'order' => $order,
-                                'id_drop' => $order->id,
+                                'id_drop' => $order->uuid,
                                 'courierName' => $order->name,
                                 'status' => $order->status,
                                 'address' => $order->address,

@@ -79,7 +79,7 @@ Route::middleware(['auth', 'verified'])->group(function () {
         Route::get('/panel/control-panel/user-softdeleted', [UserController::class, 'allShowDeleted'])->name('user.deleted');
         Route::delete('/panel/control-panel/user/{slug}/force-delete', [UserController::class, 'forceDelete'])->name('user.forceDelete');
 
-        Route::get('/panel/control-panel/users-orders-{slug}', [OrderController::class, 'showUserOrders'])->where('slug', '[a-zA-Z0-9-]+')->name('user.orders');
+        Route::get('/panel/control-panel/users-orders-{uuid}', [OrderController::class, 'showUserOrders'])->name('user.orders');
         Route::get('/panel/control-panel/users-ftids-{slug}', [ftidController::class, 'showUserFtids'])->name('user.ftids');
         Route::get('/panel/control-panel/users-drops-{slug}', [DropController::class, 'showUserDrops'])->where('slug', '[a-zA-Z0-9-]+')->name('user.drops');
 

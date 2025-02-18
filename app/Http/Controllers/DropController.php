@@ -45,32 +45,32 @@ class DropController extends Controller
 
     public function filter(Request $request)
     {
-        // Inicia a query com base no tipo de usuário
         if (auth()->user()->type == 'worker') {
-            $query = auth()->user()->drops()->orderBy('created_at', 'DESC');
+            $drops = auth()->user()->drops()->orderBy('created_at', 'DESC')->get();
         } else {
-            $query = Drop::query()->orderBy('created_at', 'DESC');
+            $drops = Drop::orderBy('created_at', 'DESC')->get();
         }
 
-        // Filtra por tipo se especificado
+        // Filtragem manual porque os valores estão criptografados
         if ($request->filled('type') && $request->type != 'All') {
-            $query->where('type', $request->type);
+            $drops = $drops->filter(function ($drop) use ($request) {
+                return $drop->type === $request->type;
+            });
         }
 
-        // Filtra por status se especificado
         if ($request->filled('status')) {
-            $query->where('status', $request->status);
+            $drops = $drops->filter(function ($drop) use ($request) {
+                return $drop->status === $request->status;
+            });
         }
 
-        $drops = $query->get();
-
-        // Retorna a view com os resultados filtrados
         return view('drops', [
             'drops' => $drops,
             'messages' => Message::where('user_id', auth()->id())->orderBy('created_at', 'DESC')->get(),
             'users' => User::all(),
         ]);
     }
+
 
     public function create()
     {

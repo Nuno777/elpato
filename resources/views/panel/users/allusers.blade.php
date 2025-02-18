@@ -92,7 +92,7 @@
                                     </td>
 
                                     <td style="width: 5%" class="sorting_disabled">
-                                        <a href="{{ route('user.orders', $user->slug) }}" style="width: 100%">
+                                        <a href="{{ route('user.orders', $user->uuid) }}" style="width: 100%">
                                             <button type="submit" class="btn btn-primary">
                                                 <i class="mdi mdi-package-variant-closed "></i>
                                             </button>
