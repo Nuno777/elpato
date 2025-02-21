@@ -74,5 +74,6 @@ class Kernel extends HttpKernel
         'access.drop.order' => \App\Http\Middleware\AccessDropsOrOrders::class,
         'masterclass' => \App\Http\Middleware\masterclass::class,
         '2fa' => \App\Http\Middleware\Ensure2FAEnabled::class,
+        'check.api.access' => \App\Http\Middleware\CheckApiAccess::class,
     ];
 }
