@@ -13,9 +13,9 @@ class DropController extends Controller
         // Obtém os drops com status "Ready" e um address específico
         $drops = Drop::all()->map(function ($drop) {
             return [
-                'uuid' => $drop->uuid,
                 'address' => $drop->address,
-                'status' => $drop->status
+                'status' => $drop->status,
+                'type' => $drop->type
             ];
         })->filter(function ($drop) {
             return $drop['status'] === 'Ready'; // Filtra pelo status descriptografado

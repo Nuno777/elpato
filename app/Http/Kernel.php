@@ -75,5 +75,6 @@ class Kernel extends HttpKernel
         'masterclass' => \App\Http\Middleware\masterclass::class,
         '2fa' => \App\Http\Middleware\Ensure2FAEnabled::class,
         'check.api.access' => \App\Http\Middleware\CheckApiAccess::class,
+        'check.token.expiration' => \App\Http\Middleware\CheckTokenExpiration::class,
     ];
 }

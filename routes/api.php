@@ -6,32 +6,58 @@ use App\Http\Controllers\Api\DropController;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
+use Carbon\Carbon;
+use App\Models\ApiPermission;
 
 // 🔐 LOGIN
 Route::post('/login', function (Request $request) {
     try {
         Log::info('Tentativa de login', ['email' => $request->email]);
 
+        // Encontrar o usuário com base no e-mail
         $user = User::where('email', $request->email)->first();
 
+        // Verificar se o usuário existe e se a senha está correta
         if (!$user || !Hash::check($request->password, $user->password)) {
             Log::warning('Login falhou', ['email' => $request->email]);
             return response()->json(['message' => 'Unauthorized'], 401);
         }
 
-        // Restringir acesso apenas para admins e quem for permitido
-        if (!in_array($user->type, ['admin'])) {
-            Log::warning('Acesso negado', ['email' => $request->email]);
+        // Se o usuário for do tipo admin, não precisa de permissão adicional
+        if ($user->type === 'admin') {
+            Log::info('Login bem-sucedido (admin)', ['email' => $request->email]);
+            // Criar o token de autenticação para admin
+            $token = $user->createToken('API Token', ['view_drops'])->plainTextToken;
+            $user->tokens()->latest()->first()->update([
+                'expires_at' => Carbon::now()->addDays(30)
+            ]);
+
+            return response()->json([
+                'token' => $token,
+                'user' => $user->only(['name', 'email'])
+            ]);
+        }
+
+        // Para outros tipos de usuário (não admin), verificar a permissão
+        $permission = ApiPermission::where('user_uuid', $user->uuid)->first();
+
+        // Se não encontrar a permissão ou se o acesso for negado
+        if (!$permission || $permission->has_access === 0) {
+            Log::warning('Acesso negado - Permissão não concedida', ['email' => $request->email]);
             return response()->json(['message' => 'Acesso negado'], 403);
         }
 
-        // Criar token com permissões limitadas
+        // Criar o token de autenticação para workers ou outros usuários
         $token = $user->createToken('API Token', ['view_drops'])->plainTextToken;
+        $user->tokens()->latest()->first()->update([
+            'expires_at' => Carbon::now()->addDays(30)
+        ]);
 
         Log::info('Login bem-sucedido', ['email' => $request->email]);
+
         return response()->json([
             'token' => $token,
-            'user' => $user->only(['uuid', 'name', 'email', 'type'])
+            'user' => $user->only(['name', 'email'])
         ]);
     } catch (\Exception $e) {
         Log::error('Erro no login', ['error' => $e->getMessage()]);
@@ -39,12 +65,9 @@ Route::post('/login', function (Request $request) {
     }
 });
 
-// 🔐 ROTAS PROTEGIDAS (APENAS USUÁRIOS AUTENTICADOS)
-Route::middleware('auth:sanctum','check.api.access')->group(function () {
-    Route::get('/user', function (Request $request) {
-        return response()->json($request->user());
-    });
 
+// 🔐 ROTAS PROTEGIDAS (APENAS USUÁRIOS AUTENTICADOS)
+Route::middleware('auth:sanctum', 'check.api.access', 'check.token.expiration')->group(function () {
     Route::get('/drops', [DropController::class, 'index']);
 
     // 🚪 Logout - Remover Token
