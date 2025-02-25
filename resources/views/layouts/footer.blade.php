@@ -1,4 +1,4 @@
-<footer class="footer mt-auto">
+{{-- <footer class="footer mt-auto">
     <div class="copyright bg-white">
         <p>
             &copy; <span id="copy-year"></span> Copyright by ElPato Panel
@@ -52,3 +52,17 @@
 <script src="{{ asset('js/chart.js') }}"></script>
 <script src="{{ asset('js/mono.js') }}"></script>
 <script src="{{ asset('js/custom.js') }}"></script>
+ --}}
+
+<div class="col-span-12">
+    <div
+        class="text-theme-sm font-medium text-gray-700 dark:text-gray-400 rounded-2xl border border-gray-200 bg-white px-5 pb-5 pt-5 dark:border-gray-800 dark:bg-white/[0.03] sm:px-6 sm:pt-6">
+        &copy; <span id="copy-year"></span> Copyright by ElPato Panel
+        <script>
+            var d = new Date();
+            var year = d.getFullYear();
+            document.getElementById("copy-year").innerHTML = year;
+        </script>
+    </div>
+</div>
+<script defer src="{{ asset('/js/bundle.js') }}"></script>
