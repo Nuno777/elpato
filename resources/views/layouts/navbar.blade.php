@@ -540,69 +540,6 @@
                         <!-- Dropdown Menu End -->
                     </li>
                     <!-- Menu Item Forms -->
-
-                    <!-- Menu Item Tables -->
-                    <li>
-                        <a href="#" @click.prevent="selected = (selected === 'Tables' ? '':'Tables')"
-                            class="menu-item group"
-                            :class="(selected === 'Tables') || (page === 'basicTables' || page === 'dataTables') ?
-                            'menu-item-active' : 'menu-item-inactive'">
-                            <svg :class="(selected === 'Tables') || (page === 'basicTables' || page === 'dataTables') ?
-                            'menu-item-icon-active' : 'menu-item-icon-inactive'"
-                                width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M3.25 5.5C3.25 4.25736 4.25736 3.25 5.5 3.25H18.5C19.7426 3.25 20.75 4.25736 20.75 5.5V18.5C20.75 19.7426 19.7426 20.75 18.5 20.75H5.5C4.25736 20.75 3.25 19.7426 3.25 18.5V5.5ZM5.5 4.75C5.08579 4.75 4.75 5.08579 4.75 5.5V8.58325L19.25 8.58325V5.5C19.25 5.08579 18.9142 4.75 18.5 4.75H5.5ZM19.25 10.0833H15.416V13.9165H19.25V10.0833ZM13.916 10.0833L10.083 10.0833V13.9165L13.916 13.9165V10.0833ZM8.58301 10.0833H4.75V13.9165H8.58301V10.0833ZM4.75 18.5V15.4165H8.58301V19.25H5.5C5.08579 19.25 4.75 18.9142 4.75 18.5ZM10.083 19.25V15.4165L13.916 15.4165V19.25H10.083ZM15.416 19.25V15.4165H19.25V18.5C19.25 18.9142 18.9142 19.25 18.5 19.25H15.416Z"
-                                    fill />
-                            </svg>
-
-                            <span class="menu-item-text" :class="sidebarToggle ? 'lg:hidden' : ''">
-                                Tables
-                            </span>
-
-                            <svg class="menu-item-arrow absolute right-2.5 top-1/2 -translate-y-1/2 stroke-current"
-                                :class="[(selected === 'Tables') ? 'menu-item-arrow-active' :
-                                    'menu-item-arrow-inactive', sidebarToggle ? 'lg:hidden' : ''
-                                ]"
-                                width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M4.79175 7.39584L10.0001 12.6042L15.2084 7.39585" stroke stroke-width="1.5"
-                                    stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </a>
-
-                        <!-- Dropdown Menu Start -->
-                        <div class="overflow-hidden transform translate"
-                            :class="(selected === 'Tables') ? 'block' : 'hidden'">
-                            <ul :class="sidebarToggle ? 'lg:hidden' : 'flex'"
-                                class="flex flex-col gap-1 mt-2 menu-dropdown pl-9">
-                                <li>
-                                    <a href="basic-tables.html" class="menu-dropdown-item group"
-                                        :class="page === 'basicTables' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        Basic Tables
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="data-tables.html" class="menu-dropdown-item group"
-                                        :class="page === 'dataTables' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        Data Tables
-                                        <span class="absolute flex items-center gap-1 right-3">
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'dataTables' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                Pro
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Dropdown Menu End -->
-                    </li>
-                    <!-- Menu Item Tables -->
-
                 </ul>
             </div>
 
@@ -709,6 +646,7 @@
                             fill />
                     </svg>
                 </button>
+                <h4 class="mt-1 text-title-sm font-bold text-gray-800 dark:text-white/90">@yield('page-title')</h4>
                 <!-- Hamburger Toggle BTN -->
 
                 <a href="index.html" class="lg:hidden">
@@ -894,11 +832,18 @@
                     <a class="flex items-center text-gray-700 dark:text-gray-400" href="#"
                         @click.prevent="dropdownOpen = ! dropdownOpen">
                         <span class="mr-3 h-11 w-11 overflow-hidden rounded-full">
-                            <img src="" alt="User" />
+                            @if (Auth::user()->profile_image)
+                                <img class="user-image rounded-circle"
+                                    src="{{ asset('profile_images/' . Auth::user()->profile_image) }}" width="150px"
+                                    alt="User Image">
+                            @else
+                                <img class="user-image rounded-circle" src="{{ asset('/images/user/user.png') }}"
+                                    width="150px" alt="Default User Image">
+                            @endif
                         </span>
 
                         <span class="mr-1 block text-theme-sm font-medium">
-                            Emirhan Boruch
+                            {{ Auth::user()->name }}
                         </span>
 
                         <svg :class="dropdownOpen && 'rotate-180'" class="stroke-gray-500 dark:stroke-gray-400"
@@ -914,10 +859,10 @@
                         class="absolute right-0 mt-[17px] flex w-[260px] flex-col rounded-2xl border border-gray-200 bg-white p-3 shadow-theme-lg dark:border-gray-800 dark:bg-gray-dark">
                         <div>
                             <span class="block text-theme-sm font-medium text-gray-700 dark:text-gray-400">
-                                Emirhan Boruch
+                                {{ Auth::user()->name }}
                             </span>
                             <span class="mt-0.5 block text-theme-xs text-gray-500 dark:text-gray-400">
-                                <p class="__cf_email__">examp***@gm**.com</p>
+                                <p class="__cf_email__">{{ Auth::user()->email }}</p>
                             </span>
                         </div>
 
@@ -972,13 +917,21 @@
                                     fill />
                             </svg>
 
-                            Sign out
-                        </button>
-                    </div>
-                    <!-- Dropdown End -->
+                            @if (Auth::check())
+                                <form method="POST" action="{{ route('logout') }}">
+                                    @csrf
+                                    <a class="dropdown-link-item" href="{{ route('logout') }}"
+                                        onclick="event.preventDefault(); this.closest('form').submit();">
+                                        <span class="nav-text navtext-hover">Sign out</span>
+                                    </a>
+                                </form>
+                            @endauth
+                    </button>
                 </div>
-                <!-- User Area -->
+                <!-- Dropdown End -->
             </div>
+            <!-- User Area -->
         </div>
-    </header>
-    <!-- ===== Header End ===== -->
+    </div>
+</header>
+<!-- ===== Header End ===== -->

@@ -63,35 +63,28 @@
     <title>@yield('title')</title>
     <link rel="icon" href="favicon.ico">
     <link href="{{ asset('/css/style2.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font/css/materialdesignicons.min.css">
 </head>
 
 <body x-data="{ page: 'ecommerce', 'loaded': true, 'darkMode': false, 'stickyMenu': false, 'sidebarToggle': false, 'scrollTop': false }" x-init="darkMode = JSON.parse(localStorage.getItem('darkMode'));
 $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)))" :class="{ 'dark bg-gray-900': darkMode === true }">
 
-    <!-- ===== Page Wrapper Start ===== -->
     <div class="flex h-screen overflow-hidden">
 
         @include('layouts.navbar')
 
-        <!-- ===== Main Content Start ===== -->
         <main>
             <div class="mx-auto max-w-screen-2xl p-4 md:p-6">
                 <div class="grid grid-cols-12 gap-4 md:gap-6">
 
                     @yield('content')
 
-                    <!-- Footer -->
                     @include('layouts.footer')
-                    <!-- End Footer -->
                 </div>
             </div>
         </main>
 
-        <!-- ===== Main Content End ===== -->
     </div>
-    <!-- ===== Content Area End ===== -->
-    </div>
-    <!-- ===== Page Wrapper End ===== -->
 
 </body>
 
