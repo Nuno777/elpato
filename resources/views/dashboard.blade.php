@@ -1,9 +1,9 @@
 @extends('layouts.master')
 
-@section('title', 'Main Panel')
+@section('title', 'Panel')
 
 @section('content')
-@section('page-title', 'Main Panel')
+@section('page-title', 'Panel')
 
 {{-- <div class="content-wrapper">
     <div class="content">

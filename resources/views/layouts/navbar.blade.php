@@ -350,6 +350,27 @@
                 </h3>
 
                 <ul class="flex flex-col gap-4 mb-6">
+                    <!-- Menu Item Profile -->
+                    <li>
+                        <a href="{{ route('dashboard') }}"
+                        class="menu-item group {{ request()->routeIs('dashboard') ? 'menu-item-active' : 'menu-item-inactive' }}">
+
+                        <svg class="{{ request()->routeIs('dashboard') ? 'menu-item-icon-active' : 'menu-item-icon-inactive' }}"
+                            width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M5.5 3.25C4.25736 3.25 3.25 4.25736 3.25 5.5V8.99998C3.25 10.2426 4.25736 11.25 5.5 11.25H9C10.2426 11.25 11.25 10.2426 11.25 8.99998V5.5C11.25 4.25736 10.2426 3.25 9 3.25H5.5ZM4.75 5.5C4.75 5.08579 5.08579 4.75 5.5 4.75H9C9.41421 4.75 9.75 5.08579 9.75 5.5V8.99998C9.75 9.41419 9.41421 9.74998 9 9.74998H5.5C5.08579 9.74998 4.75 9.41419 4.75 8.99998V5.5ZM5.5 12.75C4.25736 12.75 3.25 13.7574 3.25 15V18.5C3.25 19.7426 4.25736 20.75 5.5 20.75H9C10.2426 20.75 11.25 19.7427 11.25 18.5V15C11.25 13.7574 10.2426 12.75 9 12.75H5.5ZM4.75 15C4.75 14.5858 5.08579 14.25 5.5 14.25H9C9.41421 14.25 9.75 14.5858 9.75 15V18.5C9.75 18.9142 9.41421 19.25 9 19.25H5.5C5.08579 19.25 4.75 18.9142 4.75 18.5V15ZM12.75 5.5C12.75 4.25736 13.7574 3.25 15 3.25H18.5C19.7426 3.25 20.75 4.25736 20.75 5.5V8.99998C20.75 10.2426 19.7426 11.25 18.5 11.25H15C13.7574 11.25 12.75 10.2426 12.75 8.99998V5.5ZM15 4.75C14.5858 4.75 14.25 5.08579 14.25 5.5V8.99998C14.25 9.41419 14.5858 9.74998 15 9.74998H18.5C18.9142 9.74998 19.25 9.41419 19.25 8.99998V5.5C19.25 5.08579 18.9142 4.75 18.5 4.75H15ZM15 12.75C13.7574 12.75 12.75 13.7574 12.75 15V18.5C12.75 19.7426 13.7574 20.75 15 20.75H18.5C19.7426 20.75 20.75 19.7427 20.75 18.5V15C20.75 13.7574 19.7426 12.75 18.5 12.75H15ZM14.25 15C14.25 14.5858 14.5858 14.25 15 14.25H18.5C18.9142 14.25 19.25 14.5858 19.25 15V18.5C19.25 18.9142 18.9142 19.25 18.5 19.25H15C14.5858 19.25 14.25 18.9142 14.25 18.5V15Z"
+                                    fill />
+                            </svg>
+
+                            <span class="menu-item-text" :class="sidebarToggle ? 'lg:hidden' : ''">
+                                Panel
+                            </span>
+                        </a>
+                    </li>
+
+                    <!-- Menu Item Profile -->
+
                     <!-- Menu Item Dashboard -->
                     <li>
                         <a href="#" @click.prevent="selected = (selected === 'Dashboard' ? '':'Dashboard')"
@@ -368,7 +389,7 @@
                             </svg>
 
                             <span class="menu-item-text" :class="sidebarToggle ? 'lg:hidden' : ''">
-                                Dashboard
+                                Control Panel
                             </span>
 
                             <svg class="menu-item-arrow"
@@ -391,68 +412,29 @@
                                     <a href="index.html" class="menu-dropdown-item group"
                                         :class="page === 'ecommerce' ? 'menu-dropdown-item-active' :
                                             'menu-dropdown-item-inactive'">
-                                        eCommerce
+                                        Control Panel
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="index.html" class="menu-dropdown-item group"
+                                        :class="page === 'ecommerce' ? 'menu-dropdown-item-active' :
+                                            'menu-dropdown-item-inactive'">
+                                        Users
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="analytics.html" class="menu-dropdown-item group"
-                                        :class="page === 'analytics' ? 'menu-dropdown-item-active' :
+                                    <a href="index.html" class="menu-dropdown-item group"
+                                        :class="page === 'ecommerce' ? 'menu-dropdown-item-active' :
                                             'menu-dropdown-item-inactive'">
-                                        Analytics
-                                        <span class="absolute flex items-center gap-1 right-3">
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'analytics' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                Pro
-                                            </span>
-                                        </span>
+                                        Orders
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="menu-dropdown-item group" href="marketing.html"
-                                        :class="page === 'marketing' ? 'menu-dropdown-item-active' :
+                                    <a href="index.html" class="menu-dropdown-item group"
+                                        :class="page === 'ecommerce' ? 'menu-dropdown-item-active' :
                                             'menu-dropdown-item-inactive'">
-                                        Marketing
-                                        <span class="absolute flex items-center gap-1 right-3">
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'marketing' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                Pro
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="crm.html" class="menu-dropdown-item group"
-                                        :class="page === 'crm' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        CRM
-                                        <span class="absolute flex items-center gap-1 right-3">
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'crm' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                Pro
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="stocks.html" class="menu-dropdown-item group"
-                                        :class="page === 'stocks' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        Stocks
-                                        <span class="absolute flex items-center gap-1 right-3">
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'stocks' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                New
-                                            </span>
-                                            <span class="menu-dropdown-badge"
-                                                :class="page === 'stocks' ? 'menu-dropdown-badge-active' :
-                                                    'menu-dropdown-badge-inactive'">
-                                                Pro
-                                            </span>
-                                        </span>
+                                        FTIDs
                                     </a>
                                 </li>
                             </ul>
@@ -460,86 +442,46 @@
                         <!-- Dropdown Menu End -->
                     </li>
 
-                    <!-- Menu Item Dashboard -->
-
-                    <!-- Menu Item Profile -->
+                    <!-- Menu Item Drops -->
                     <li>
-                        <a href="profile.html" @click="selected = (selected === 'Profile' ? '':'Profile')"
-                            class="menu-item group"
-                            :class="(selected === 'Profile') && (page === 'profile') ? 'menu-item-active' :
-                            'menu-item-inactive'">
-                            <svg :class="(selected === 'Profile') && (page === 'profile') ? 'menu-item-icon-active' :
-                            'menu-item-icon-inactive'"
+                        <a href="{{ route('drops') }}"
+                            class="menu-item group {{ request()->routeIs('drops') ? 'menu-item-active' : 'menu-item-inactive' }}">
+
+                            <svg class="{{ request()->routeIs('drops') ? 'menu-item-icon-active' : 'menu-item-icon-inactive' }}"
                                 width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M12 3.5C7.30558 3.5 3.5 7.30558 3.5 12C3.5 14.1526 4.3002 16.1184 5.61936 17.616C6.17279 15.3096 8.24852 13.5955 10.7246 13.5955H13.2746C15.7509 13.5955 17.8268 15.31 18.38 17.6167C19.6996 16.119 20.5 14.153 20.5 12C20.5 7.30558 16.6944 3.5 12 3.5ZM17.0246 18.8566V18.8455C17.0246 16.7744 15.3457 15.0955 13.2746 15.0955H10.7246C8.65354 15.0955 6.97461 16.7744 6.97461 18.8455V18.856C8.38223 19.8895 10.1198 20.5 12 20.5C13.8798 20.5 15.6171 19.8898 17.0246 18.8566ZM2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12ZM11.9991 7.25C10.8847 7.25 9.98126 8.15342 9.98126 9.26784C9.98126 10.3823 10.8847 11.2857 11.9991 11.2857C13.1135 11.2857 14.0169 10.3823 14.0169 9.26784C14.0169 8.15342 13.1135 7.25 11.9991 7.25ZM8.48126 9.26784C8.48126 7.32499 10.0563 5.75 11.9991 5.75C13.9419 5.75 15.5169 7.32499 15.5169 9.26784C15.5169 11.2107 13.9419 12.7857 11.9991 12.7857C10.0563 12.7857 8.48126 11.2107 8.48126 9.26784Z"
+                                    d="M3 3C1.34315 3 0 4.34315 0 6V15C0 16.3121 0.842366 17.4275 2.01581 17.8348C2.18436 19.6108 3.67994 21 5.5 21C7.26324 21 8.72194 19.6961 8.96456 18H15.0354C15.2781 19.6961 16.7368 21 18.5 21C20.3201 21 21.8156 19.6108 21.9842 17.8348C23.1576 17.4275 24 16.3121 24 15V10.7515C24 10.0248 23.7362 9.32283 23.2577 8.77596L20.8502 6.02449C20.2805 5.37344 19.4576 5 18.5925 5H16.8293C16.4175 3.83481 15.3062 3 14 3H3ZM4 17.4361V17.5639C4.03348 18.3634 4.69224 19.0013 5.5 19.0013C6.30776 19.0013 6.96652 18.3634 7 17.5639V17.4361C6.96652 16.6366 6.30776 15.9987 5.5 15.9987C4.69224 15.9987 4.03348 16.6366 4 17.4361ZM5.5 14C6.8962 14 8.10145 14.8175 8.66318 16H15.3368C15.8985 14.8175 17.1038 14 18.5 14C19.8245 14 20.9771 14.7357 21.5716 15.8207C21.8306 15.64 22 15.3398 22 15V11H17C15.8954 11 15 10.1046 15 9V6C15 5.44772 14.5523 5 14 5H3C2.44772 5 2 5.44772 2 6V15C2 15.3398 2.16945 15.64 2.42845 15.8207C3.02292 14.7357 4.17555 14 5.5 14ZM17 7V8C17 8.55229 17.4477 9 18 9H20.7962L19.345 7.34149C19.1552 7.12448 18.8808 7 18.5925 7H17ZM17 17.4361V17.5639C17.0335 18.3634 17.6922 19.0013 18.5 19.0013C19.3078 19.0013 19.9665 18.3634 20 17.5639V17.4361C19.9665 16.6366 19.3078 15.9987 18.5 15.9987C17.6922 15.9987 17.0335 16.6366 17 17.4361Z"
                                     fill />
                             </svg>
 
                             <span class="menu-item-text" :class="sidebarToggle ? 'lg:hidden' : ''">
-                                User Profile
+                                Drops
                             </span>
                         </a>
                     </li>
-                    <!-- Menu Item Profile -->
 
-                    <!-- Menu Item Forms -->
+                    <!-- Menu Item Drops -->
+
+                    <!-- Menu Item Orders -->
                     <li>
-                        <a href="#" @click.prevent="selected = (selected === 'Forms' ? '':'Forms')"
-                            class="menu-item group"
-                            :class="(selected === 'Forms') || (page === 'formElements' || page === 'formLayout' ||
-                                page === 'proFormElements' || page === 'proFormLayout') ? 'menu-item-active' :
-                            'menu-item-inactive'">
-                            <svg :class="(selected === 'Forms') || (page === 'formElements' || page === 'formLayout' ||
-                                page === 'proFormElements' || page === 'proFormLayout') ?
-                            'menu-item-icon-active' : 'menu-item-icon-inactive'"
+                        <a href="{{ route('orders') }}"
+                            class="menu-item group {{ request()->routeIs('orders') ? 'menu-item-active' : 'menu-item-inactive' }}">
+
+                            <svg class="{{ request()->routeIs('orders') ? 'menu-item-icon-active' : 'menu-item-icon-inactive' }}"
                                 width="24" height="24" viewBox="0 0 24 24" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M5.5 3.25C4.25736 3.25 3.25 4.25736 3.25 5.5V18.5C3.25 19.7426 4.25736 20.75 5.5 20.75H18.5001C19.7427 20.75 20.7501 19.7426 20.7501 18.5V5.5C20.7501 4.25736 19.7427 3.25 18.5001 3.25H5.5ZM4.75 5.5C4.75 5.08579 5.08579 4.75 5.5 4.75H18.5001C18.9143 4.75 19.2501 5.08579 19.2501 5.5V18.5C19.2501 18.9142 18.9143 19.25 18.5001 19.25H5.5C5.08579 19.25 4.75 18.9142 4.75 18.5V5.5ZM6.25005 9.7143C6.25005 9.30008 6.58583 8.9643 7.00005 8.9643L17 8.96429C17.4143 8.96429 17.75 9.30008 17.75 9.71429C17.75 10.1285 17.4143 10.4643 17 10.4643L7.00005 10.4643C6.58583 10.4643 6.25005 10.1285 6.25005 9.7143ZM6.25005 14.2857C6.25005 13.8715 6.58583 13.5357 7.00005 13.5357H17C17.4143 13.5357 17.75 13.8715 17.75 14.2857C17.75 14.6999 17.4143 15.0357 17 15.0357H7.00005C6.58583 15.0357 6.25005 14.6999 6.25005 14.2857Z"
+                                    d="M11.665 3.75621C11.8762 3.65064 12.1247 3.65064 12.3358 3.75621L18.7807 6.97856L12.3358 10.2009C12.1247 10.3065 11.8762 10.3065 11.665 10.2009L5.22014 6.97856L11.665 3.75621ZM4.29297 8.19203V16.0946C4.29297 16.3787 4.45347 16.6384 4.70757 16.7654L11.25 20.0366V11.6513C11.1631 11.6205 11.0777 11.5843 10.9942 11.5426L4.29297 8.19203ZM12.75 20.037L19.2933 16.7654C19.5474 16.6384 19.7079 16.3787 19.7079 16.0946V8.19202L13.0066 11.5426C12.9229 11.5844 12.8372 11.6208 12.75 11.6516V20.037ZM13.0066 2.41456C12.3732 2.09786 11.6277 2.09786 10.9942 2.41456L4.03676 5.89319C3.27449 6.27432 2.79297 7.05342 2.79297 7.90566V16.0946C2.79297 16.9469 3.27448 17.726 4.03676 18.1071L10.9942 21.5857L11.3296 20.9149L10.9942 21.5857C11.6277 21.9024 12.3732 21.9024 13.0066 21.5857L19.9641 18.1071C20.7264 17.726 21.2079 16.9469 21.2079 16.0946V7.90566C21.2079 7.05342 20.7264 6.27432 19.9641 5.89319L13.0066 2.41456Z"
                                     fill />
                             </svg>
 
                             <span class="menu-item-text" :class="sidebarToggle ? 'lg:hidden' : ''">
-                                Forms
+                                Orders
                             </span>
-
-                            <svg class="menu-item-arrow absolute right-2.5 top-1/2 -translate-y-1/2 stroke-current"
-                                :class="[(selected === 'Forms') ? 'menu-item-arrow-active' :
-                                    'menu-item-arrow-inactive', sidebarToggle ? 'lg:hidden' : ''
-                                ]"
-                                width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path d="M4.79175 7.39584L10.0001 12.6042L15.2084 7.39585" stroke stroke-width="1.5"
-                                    stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
                         </a>
-
-                        <!-- Dropdown Menu Start -->
-                        <div class="overflow-hidden transform translate"
-                            :class="(selected === 'Forms') ? 'block' : 'hidden'">
-                            <ul :class="sidebarToggle ? 'lg:hidden' : 'flex'"
-                                class="flex flex-col gap-1 mt-2 menu-dropdown pl-9">
-                                <li>
-                                    <a href="form-elements.html" class="menu-dropdown-item group"
-                                        :class="page === 'formElements' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        Form Elements
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="form-layout.html" class="menu-dropdown-item group"
-                                        :class="page === 'formLayout' ? 'menu-dropdown-item-active' :
-                                            'menu-dropdown-item-inactive'">
-                                        Form Layout
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Dropdown Menu End -->
                     </li>
-                    <!-- Menu Item Forms -->
+                    <!-- Menu Item Orders -->
                 </ul>
             </div>
 
