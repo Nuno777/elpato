@@ -22,7 +22,6 @@ return new class extends Migration
             $table->string('status')->notnull();
             $table->string('type')->notnull();
             $table->date('expired')->notnull();
-            $table->string('personalnotes')->notnull();
             $table->timestamps();
         });
     }

@@ -16,7 +16,7 @@ class Drop extends Model
     public $incrementing = false;
     protected $keyType = 'string';
 
-    protected $fillable = ['uuid', 'slug', 'id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired', 'personalnotes'];
+    protected $fillable = ['uuid', 'slug', 'id_drop', 'name', 'address', 'packages', 'notes', 'status', 'type', 'expired'];
 
     protected $dates = ['expired'];
 
@@ -55,11 +55,6 @@ class Drop extends Model
         $this->attributes['type'] = Crypt::encryptString($value);
     }
 
-    public function setPersonalnotesAttribute($value)
-    {
-        $this->attributes['personalnotes'] = Crypt::encryptString($value);
-    }
-
     // Descriptografar os campos ao acessar no banco
     public function getIdDropAttribute($value)
     {
@@ -96,10 +91,6 @@ class Drop extends Model
         return Crypt::decryptString($value);
     }
 
-    public function getPersonalnotesAttribute($value)
-    {
-        return Crypt::decryptString($value);
-    }
     //end
 
     public function orders()
@@ -127,7 +118,7 @@ class Drop extends Model
         static::saving(function ($drop) {
             // Aplica valores padrão se os campos estiverem nulos
             $drop->notes = $drop->notes ?? 'N/A';
-            $drop->personalnotes = $drop->personalnotes ?? 'N/A';
+            //$drop->personalnotes = $drop->personalnotes ?? 'N/A';
             $drop->status = $drop->status ?? 'Default';
             $drop->type = $drop->type ?? 'All';
 

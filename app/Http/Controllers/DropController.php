@@ -89,7 +89,6 @@ class DropController extends Controller
             'status' => 'required|string',
             'type' => 'required|string',
             'expired' => 'required|date_format:Y-m-d',
-            'personalnotes' => 'required|string|max:1000',
         ]);
 
         try {
@@ -173,7 +172,6 @@ class DropController extends Controller
             'status' => 'required',
             'type' => 'required',
             'expired' => 'required',
-            'personalnotes' => 'required',
         ]);
 
         try {
